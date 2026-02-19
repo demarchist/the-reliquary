@@ -4,6 +4,8 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://demarchist.github.io',
+  base: '/the-reliquary',
   vite: {
     plugins: [tailwindcss()]
   }
