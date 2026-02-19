@@ -1,0 +1,34 @@
+---
+interface Props {
+  title: string;
+  category: string;
+  description?: string;
+  slug: string;
+}
+
+const { title, category, description, slug } = Astro.props;
+
+const categoryColors: Record<string, string> = {
+  People: 'bg-amber-100 text-amber-800',
+  Places: 'bg-emerald-100 text-emerald-800',
+  Things: 'bg-sky-100 text-sky-800',
+  Factions: 'bg-violet-100 text-violet-800',
+  Events: 'bg-rose-100 text-rose-800',
+};
+---
+
+<a href={`/wiki/${slug}/`} class="block no-underline group">
+  <article class="p-4 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
+    <div class="flex items-center gap-2 mb-1">
+      <span class:list={['text-xs font-medium px-2 py-0.5 rounded-full', categoryColors[category] || 'bg-parchment-200 text-ink-600']}>
+        {category}
+      </span>
+    </div>
+    <h3 class="font-serif font-semibold text-ink-800 group-hover:text-accent-600 transition-colors">
+      {title}
+    </h3>
+    {description && (
+      <p class="mt-1 text-sm text-ink-400 line-clamp-2">{description}</p>
+    )}
+  </article>
+</a>

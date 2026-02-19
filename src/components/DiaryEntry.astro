@@ -1,0 +1,28 @@
+---
+interface Props {
+  title: string;
+  chapter: number;
+  chapterTitle?: string;
+  session: number;
+  summary?: string;
+  slug: string;
+}
+
+const { title, chapter, chapterTitle, session, summary, slug } = Astro.props;
+---
+
+<a href={`/diary/${slug}/`} class="block no-underline group">
+  <article class="py-3 border-b border-parchment-100 hover:bg-parchment-100/50 -mx-2 px-2 rounded transition-colors">
+    <div class="flex items-baseline gap-2">
+      <span class="text-xs text-ink-400 font-mono tabular-nums">
+        Ch.{chapter} / S{session}
+      </span>
+      <h3 class="text-base font-serif font-semibold text-ink-800 group-hover:text-accent-600 transition-colors">
+        {title}
+      </h3>
+    </div>
+    {summary && (
+      <p class="mt-1 text-sm text-ink-400 line-clamp-2">{summary}</p>
+    )}
+  </article>
+</a>

@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const diaryEntries = await getCollection('diary');
+const wikiEntries = await getCollection('wiki');
+
+const sessionCount = diaryEntries.length;
+const chapterCount = new Set(diaryEntries.map(e => e.data.chapter)).size;
+const wikiCount = wikiEntries.length;
+---
+
+<BaseLayout title="Home">
+  <div class="max-w-2xl mx-auto text-center py-12">
+    <h1 class="font-serif text-4xl font-bold text-ink-900 mb-4">The Reliquary</h1>
+    <p class="text-lg text-ink-500 mb-8">
+      A chronicle of <em>The Rise of Atropos</em> &mdash; compiled from the accounts
+      of adventurers, scholars, and witnesses across the realms.
+    </p>
+
+    <div class="flex justify-center gap-8 text-center mb-12">
+      <div>
+        <div class="text-2xl font-serif font-bold text-ink-800">{chapterCount}</div>
+        <div class="text-sm text-ink-400">Chapters</div>
+      </div>
+      <div>
+        <div class="text-2xl font-serif font-bold text-ink-800">{sessionCount}</div>
+        <div class="text-sm text-ink-400">Sessions</div>
+      </div>
+      <div>
+        <div class="text-2xl font-serif font-bold text-ink-800">{wikiCount}</div>
+        <div class="text-sm text-ink-400">Wiki Entries</div>
+      </div>
+    </div>
+
+    <div class="grid sm:grid-cols-2 gap-4 text-left">
+      <a href="/diary/" class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
+        <h2 class="font-serif text-lg font-semibold text-ink-800 mb-1">Campaign Diary</h2>
+        <p class="text-sm text-ink-400">Session-by-session accounts of the party's journey, organized by chapter.</p>
+      </a>
+      <a href="/wiki/" class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
+        <h2 class="font-serif text-lg font-semibold text-ink-800 mb-1">Wiki</h2>
+        <p class="text-sm text-ink-400">People, places, factions, items, and events encountered throughout the campaign.</p>
+      </a>
+      <a href="/timeline/" class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
+        <h2 class="font-serif text-lg font-semibold text-ink-800 mb-1">Timeline</h2>
+        <p class="text-sm text-ink-400">A chronological record of major events across the campaign.</p>
+      </a>
+      <a href="/map/" class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
+        <h2 class="font-serif text-lg font-semibold text-ink-800 mb-1">World Map</h2>
+        <p class="text-sm text-ink-400">An interactive map of locations visited and known across the realms.</p>
+      </a>
+    </div>
+  </div>
+</BaseLayout>

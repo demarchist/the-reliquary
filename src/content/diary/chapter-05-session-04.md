@@ -1,0 +1,14 @@
+---
+title: "Barovia - Session 4"
+chapter: 5
+chapterTitle: "Barovia"
+session: 4
+---
+
+The group found themselves discussing the ramifications of the book they found in the Vistani cart.  Going back to try to gather some clues about the cart, they discovered a loose floorboard, under which they find a suit of leather armor, daggers and poisons.  The group is then approached by a half Orc bard, another stranger in this land that had been with the Vistani for about a week.  Seeing other travelers, the half Orc Gerwan enthusiastically asked to be taken with them.  The half Orc also mentions that having stayed with the Vistani for the last week, he would have to tell them if Patches took what she found in the cart.  Reluctantly, Patches "returned" the items.  The group did however question one of the guards whose family owned the wagon.  The Guard claimed that the Book of Strahd was given to her family to safeguard many generations ago and knows nothing of it other than if Madame Eva wants them to have it, they can take it.
+
+Deciding to head back to the main road via the ancient stairs by the Tser Pool, the group heads farther along the river until they make it to the pool at the base of the waterfall - the same pool that The Archmage Mordenkainen supposedly fell into.  Deciding to search the ominously dark and still pool, the group is halted by the realisation that something lurks beneath.  Stepping back and planning, the group decides to cast a series of spells to ensnare the water Trolls they detect.  Striding forwards, staff raised, Fey'Anon causes the water in the centre of the pool for 50ft to swirl into a churning maelstrom.  The Trolls, caught unawares are ensnared and pummeled, two manage to escape temporarily, but Buumi, Gwen, Gerwan and Patches push them back into the maelstrom with a series of attacks.  The trolls, now webbed by patches, getting hit by the Dancing hammer, crossbow bolts from Patches and shot by Gundren, are fully entrapped in the Maelstrom.  The group then throws Grease into the whirlpool, ignites it, and summons a cloud of levitating whirling blades at it's center, quickly shredding and immolating the trapped Trolls.
+
+Now free of monsters, the group searches the pool for signs of the Archmage.  The only thing they discover is an Iron wrought wand, a wand of Lightning Bolts.  The group then circles the pool and begins to climb the ancient, moss covered and slippery stairs.  Helping the mounts up the incredibly steep angle, with Chekhov and Ireena in tow, the group makes good progress, with no major falls.  A few slips result in some bruises, but the group makes it to the high road, a thousand feet above from the pool.  Back on the main road, with an old stone bridge, guarded by gargoyles behind them, the group decides to sit down for a short rest, with Ireena standing watch as she did not participate in the previous battle.
+
+** **

@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import DiaryEntry from '../../components/DiaryEntry.astro';
+import { getCollection } from 'astro:content';
+
+const allEntries = await getCollection('diary');
+
+// Sort by chapter then session
+allEntries.sort((a, b) => {
+  if (a.data.chapter !== b.data.chapter) return a.data.chapter - b.data.chapter;
+  return a.data.session - b.data.session;
+});
+
+// Group by chapter
+const chapters = new Map<number, { title?: string; entries: typeof allEntries }>();
+for (const entry of allEntries) {
+  const ch = entry.data.chapter;
+  if (!chapters.has(ch)) {
+    chapters.set(ch, { title: entry.data.chapterTitle, entries: [] });
+  }
+  chapters.get(ch)!.entries.push(entry);
+}
+---
+
+<BaseLayout title="Campaign Diary">
+  <h1 class="font-serif text-3xl font-bold text-ink-900 mb-2">Campaign Diary</h1>
+  <p class="text-ink-400 mb-8">Session-by-session accounts of <em>The Rise of Atropos</em>.</p>
+
+  {allEntries.length === 0 ? (
+    <div class="text-center py-12 text-ink-400">
+      <p>No diary entries yet. Run the conversion script to import campaign sessions.</p>
+      <code class="text-sm mt-2 block">python scripts/convert-docx.py</code>
+    </div>
+  ) : (
+    <div class="space-y-8">
+      {[...chapters.entries()].map(([chapterNum, chapter]) => (
+        <section>
+          <h2 class="font-serif text-xl font-semibold text-ink-800 mb-3 pb-2 border-b border-parchment-200">
+            Chapter {chapterNum}{chapter.title ? `: ${chapter.title}` : ''}
+          </h2>
+          <div>
+            {chapter.entries.map(entry => (
+              <DiaryEntry
+                title={entry.data.title}
+                chapter={entry.data.chapter}
+                chapterTitle={entry.data.chapterTitle}
+                session={entry.data.session}
+                summary={entry.data.summary}
+                slug={entry.id}
+              />
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  )}
+</BaseLayout>

@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('wiki');
+  return entries.map(entry => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const categoryColors: Record<string, string> = {
+  People: 'bg-amber-100 text-amber-800',
+  Places: 'bg-emerald-100 text-emerald-800',
+  Things: 'bg-sky-100 text-sky-800',
+  Factions: 'bg-violet-100 text-violet-800',
+  Events: 'bg-rose-100 text-rose-800',
+};
+---
+
+<BaseLayout title={entry.data.title}>
+  <article>
+    <div class="mb-6">
+      <a href="/wiki/" class="text-sm text-ink-400 hover:text-accent-600 no-underline">&larr; Back to Wiki</a>
+    </div>
+
+    <header class="mb-8">
+      <div class="flex items-center gap-2 mb-2">
+        <span class:list={['text-xs font-medium px-2 py-0.5 rounded-full', categoryColors[entry.data.category] || 'bg-parchment-200 text-ink-600']}>
+          {entry.data.category}
+        </span>
+        {entry.data.aliases && entry.data.aliases.length > 0 && (
+          <span class="text-xs text-ink-400">
+            Also known as: {entry.data.aliases.join(', ')}
+          </span>
+        )}
+      </div>
+      <h1 class="font-serif text-3xl font-bold text-ink-900">{entry.data.title}</h1>
+      {entry.data.description && (
+        <p class="mt-2 text-ink-500 italic">{entry.data.description}</p>
+      )}
+      {entry.data.firstAppearance && (
+        <p class="mt-1 text-sm text-ink-400">First appearance: {entry.data.firstAppearance}</p>
+      )}
+    </header>
+
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>
