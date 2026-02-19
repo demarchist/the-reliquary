@@ -1,23 +1,24 @@
 ---
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const currentPath = Astro.url.pathname;
 
 const links = [
-  { href: '/', label: 'Home' },
-  { href: '/diary/', label: 'Campaign Diary' },
-  { href: '/wiki/', label: 'Wiki' },
-  { href: '/timeline/', label: 'Timeline' },
-  { href: '/map/', label: 'Map' },
+  { href: `${base}/`, label: 'Home' },
+  { href: `${base}/diary/`, label: 'Campaign Diary' },
+  { href: `${base}/wiki/`, label: 'Wiki' },
+  { href: `${base}/timeline/`, label: 'Timeline' },
+  { href: `${base}/map/`, label: 'Map' },
 ];
 
 function isActive(href: string): boolean {
-  if (href === '/') return currentPath === '/';
+  if (href === `${base}/`) return currentPath === `${base}/`;
   return currentPath.startsWith(href);
 }
 ---
 
 <header class="border-b border-parchment-200 bg-parchment-50/80 backdrop-blur-sm sticky top-0 z-50">
   <nav class="max-w-4xl mx-auto px-4 sm:px-6 flex items-center justify-between h-14">
-    <a href="/" class="font-serif text-lg font-bold text-ink-900 no-underline hover:text-accent-600 transition-colors">
+    <a href={`${base}/`} class="font-serif text-lg font-bold text-ink-900 no-underline hover:text-accent-600 transition-colors">
       The Reliquary
     </a>
     <ul class="flex gap-1 text-sm">

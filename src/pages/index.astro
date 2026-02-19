@@ -8,6 +8,7 @@ const wikiEntries = await getCollection('wiki');
 const sessionCount = diaryEntries.length;
 const chapterCount = new Set(diaryEntries.map(e => e.data.chapter)).size;
 const wikiCount = wikiEntries.length;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <BaseLayout title="Home">
@@ -34,19 +35,19 @@ const wikiCount = wikiEntries.length;
     </div>
 
     <div class="grid sm:grid-cols-2 gap-4 text-left">
-      <a href="/diary/" class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
+      <a href={`${base}/diary/`} class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
         <h2 class="font-serif text-lg font-semibold text-ink-800 mb-1">Campaign Diary</h2>
         <p class="text-sm text-ink-400">Session-by-session accounts of the party's journey, organized by chapter.</p>
       </a>
-      <a href="/wiki/" class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
+      <a href={`${base}/wiki/`} class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
         <h2 class="font-serif text-lg font-semibold text-ink-800 mb-1">Wiki</h2>
         <p class="text-sm text-ink-400">People, places, factions, items, and events encountered throughout the campaign.</p>
       </a>
-      <a href="/timeline/" class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
+      <a href={`${base}/timeline/`} class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
         <h2 class="font-serif text-lg font-semibold text-ink-800 mb-1">Timeline</h2>
         <p class="text-sm text-ink-400">A chronological record of major events across the campaign.</p>
       </a>
-      <a href="/map/" class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
+      <a href={`${base}/map/`} class="block no-underline p-5 rounded-lg border border-parchment-200 hover:border-parchment-300 hover:shadow-sm transition-all">
         <h2 class="font-serif text-lg font-semibold text-ink-800 mb-1">World Map</h2>
         <p class="text-sm text-ink-400">An interactive map of locations visited and known across the realms.</p>
       </a>
