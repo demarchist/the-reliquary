@@ -1,8 +1,23 @@
 ---
-title: "Shadows of the Empire - A Helpful Guide"
+title: Shadows of the Empire - A Helpful Guide
 chapter: 11
-chapterTitle: "Shadows of the Empire"
+chapterTitle: Shadows of the Empire
 session: 7
+people:
+  - "chani"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "hazzim"
+  - "horatio-von-bumidere"
+  - "shar"
+places:
+  - "neverwinter"
+  - "sharza"
+  - "snorbuls-hole"
+things:
+  - "the-last-word"
+factions:
+  - "saurians"
 ---
 
 The group moves in to investigate the well-made tunnels, draggin **Hazzim **with them.

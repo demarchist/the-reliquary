@@ -1,8 +1,17 @@
 ---
-title: "The Bog - Session 7"
+title: The Bog - Session 7
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "ront"
+  - "tarkathee-daru"
+places:
+  - "the-labyrinth"
+things:
+  - "piwafwi"
 ---
 
 Out front of the massive labyrinth wall, the group stands around, unsure of what to do.  Patches begins to feel unease and looking around, catches some movement off on the shore of a pool of bog water.  Deciding to investigate, she dons her Piwafwi and heads over.  As she nears, a small angry looking old man, deformed of proportion with an enormous red hat and Iron shoes leaps from behind some foliage.  As he leaps out, several others leap out around the party and attack.  With harpooned hooks, the Redcaps stab and drag the party around dealing vicious wounds.  The group quickly forms a defense and begins laying out their healing spells and buffs, quickly turning the surprise ambush into a slaughter of the Dark Fae.  During the fight, the group realizes that the Redcaps are a distraction and that they are missing their window for getting into the Labyrinth.  Thinking quickly, the group charms one of the remaining Redcaps and has him lead the group to the real door.  The group (and followers) makes it through with mere moments to spare.  On the other side, the group finds themselves in a dim and massive labyrinth, covered in moss.  As the group looks around, the Redcap makes a break for it as the Charm had worn off.

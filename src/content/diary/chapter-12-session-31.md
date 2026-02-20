@@ -1,8 +1,25 @@
 ---
-title: "Al Askar - The Swamp"
+title: Al Askar - The Swamp
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 31
+people:
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "jareem"
+  - "kumuzu-isa"
+  - "sultan-bashir"
+  - "tarkathee-daru"
+  - "vecna"
+places:
+  - "feanons-tower"
+  - "golden-tower"
+  - "iyum"
+  - "machina-factory"
+  - "thueba-swamp"
+factions:
+  - "cult-of-zalaam"
+  - "obsidian-order"
 ---
 
 The group takes a long rest, relaxing and shaping the tower to their wills.

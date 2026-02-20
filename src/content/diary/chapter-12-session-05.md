@@ -1,8 +1,15 @@
 ---
-title: "Al Askar - Dinner with Lady Taurus"
+title: Al Askar - Dinner with Lady Taurus
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 5
+people:
+  - "cirrus-al-kayan"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "snorbul"
+places:
+  - "iyum"
 ---
 
 The group is brought into the villa and made comfortable in the courtyard.

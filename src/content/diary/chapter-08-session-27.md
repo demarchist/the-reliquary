@@ -1,8 +1,48 @@
 ---
-title: "The Underdark - Time at Home"
+title: The Underdark - Time at Home
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 27
+people:
+  - "aliyah-faen-tlabbar"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "corpsetaker"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "li-xian"
+  - "moot"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "topsy-and-turvy"
+  - "veygar"
+places:
+  - "daggerford"
+  - "ethereal-plane"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "gracksuluth"
+  - "keep-of-thunder-bluff"
+  - "kossenberg"
+  - "neverwinter"
+  - "the-crossroads"
+  - "the-labyrinth"
+  - "the-moonwood"
+  - "thunder-bluff"
+  - "underdark"
+things:
+  - "tavern-of-doors"
+factions:
+  - "duergar-faction"
+  - "obsidian-order"
+  - "stoneguard"
 ---
 
 Uira the small, plump moon elf Acolyte welcomes the group as they enter the Teleportation chamber and then goes to fetch **Li Tan**

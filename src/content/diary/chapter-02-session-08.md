@@ -1,8 +1,36 @@
 ---
-title: "Neverwinter - Session 8"
+title: Neverwinter - Session 8
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "kangaxx"
+  - "lodan"
+  - "lord-neverember"
+  - "madame-eva"
+  - "moot"
+  - "myria-brightlance"
+  - "nezzan"
+  - "raylen"
+  - "ront"
+  - "tarkathee-daru"
+  - "venomfang"
+  - "ysera"
+places:
+  - "abyss"
+  - "keep-of-thunder-bluff"
+  - "moonstone-mask-inn"
+  - "the-chasm"
+things:
+  - "spellforge"
+  - "tavern-of-doors"
+factions:
+  - "bregan-daerthe"
+  - "drow-faction"
 ---
 
 Surrounded by the aftermath of the attack on the festival, the group surveys the carnage.  While looking over the corpses, the town guard and a knight run up to debrief the group. Asking what happened in this encounter specifically, the guards note that no other spell users were noted throughout the city, the mage that attacked the group here must have been the leader.  The group asks about the attack and come to the conclusion that more must be going on.  As the corpses are carted away for inspection, Patches manages to lift a satchel off the dead mage containing spell reagents and two spell scrolls.

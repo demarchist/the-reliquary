@@ -1,8 +1,17 @@
 ---
-title: "Al Askar - The Red Hills Pt.2"
+title: Al Askar - The Red Hills Pt.2
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 2
+people:
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "ras-alkan"
 ---
 
 Cirrus remains awake all night, refusing to sleep.  He grows exhausted.

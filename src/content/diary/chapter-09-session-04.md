@@ -1,8 +1,31 @@
 ---
-title: "The Demon Lords - The Anauroch Desert"
+title: The Demon Lords - The Anauroch Desert
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "bolg"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "madame-eva"
+  - "ront"
+  - "shar"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+places:
+  - "selunia"
+things:
+  - "chardalyn"
+  - "gwen"
+  - "jade-frog"
+  - "thundercannon"
+factions:
+  - "bedine"
+  - "duergar-faction"
+  - "netherese"
 ---
 
 The group soars across the darkening skies, carried by the Wind.

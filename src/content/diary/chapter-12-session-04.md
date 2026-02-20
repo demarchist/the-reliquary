@@ -1,8 +1,14 @@
 ---
-title: "Al Askar - The City of Ras Alkan"
+title: Al Askar - The City of Ras Alkan
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 4
+people:
+  - "cirrus-al-kayan"
+  - "liara"
+  - "snorbul"
+factions:
+  - "saurians"
 ---
 
 The group battles the massive Psionic Turtle-like creatures.

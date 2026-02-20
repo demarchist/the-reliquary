@@ -4,6 +4,8 @@ category: "People"
 aliases: ["The Dark Entity"]
 firstAppearance: "chapter-05-session-08"
 description: "A vast evil entity approaching the material plane, whose dark powers are imprisoned within the Amber Temple."
+status: "Active"
+quote: "All things end."
 ---
 
 Atropos is a vast malevolent entity approaching the material plane, whose fragmentary dark powers are imprisoned within amber sarcophagi in the Amber Temple of Barovia. The campaign itself — *The Rise of Atropos* — is named for the growing threat this entity poses to all existence.

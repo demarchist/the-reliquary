@@ -1,8 +1,18 @@
 ---
-title: "Baldur’s Gate - Session 4"
+title: Baldur’s Gate - Session 4
 chapter: 3
-chapterTitle: "Baldur’s Gate"
+chapterTitle: Baldur’s Gate
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "doc"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "tarkathee-daru"
+factions:
+  - "duergar-faction"
 ---
 
 The group finds themselves standing in a long hallway.  Tark looks thoughtful for a moment, focusing on his staff before entering the Tavern to mediate on something.  As he does so, Doc B. Sirrus the hobo-tiefling and JmJm leap from the chest, arrayed for adventure!  The two partygoers - Fey and Buumi don their gear, in Fey's case simply dropping an illusion. Feeling insecure about clomping around in his heavy plate, Buumi gets an illusion to look like he's simply wearing a nice suit.  The group explains the situation to Doc B. and JmJm with Sirrus in the background completely ready to loot the place for all it's worth.  Buumi, having none of that lawlessness puts his foot down, adamant the group only steals what they were hired to steal.  The group agrees as Doc B. backs him, however each time something gets stolen, one of the group simply distracts Buumi from the theft.

@@ -1,8 +1,46 @@
 ---
 title: "The Underdark - & 9"
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "horatio-von-bumidere"
+  - "ilvara-mizzrym"
+  - "jack-mayer-johnson-mathews"
+  - "megno-slatesunder"
+  - "pickles"
+  - "ront"
+  - "shar"
+  - "shuushar"
+  - "snorbul"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "blingdenstone"
+  - "darklake"
+  - "gracksuluth"
+  - "gravenhollow"
+  - "menzoberranzan"
+  - "neverwinter"
+  - "the-chasm"
+  - "the-crossroads"
+  - "underdark"
+  - "velkynvelve"
+things:
+  - "arkto"
+  - "bag-of-holding"
+  - "deck-of-illusions"
+  - "the-last-word"
+factions:
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "svirfneblin-faction"
 ---
 
 **The Escape from Velkynvelve**

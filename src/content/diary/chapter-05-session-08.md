@@ -1,8 +1,42 @@
 ---
-title: "Barovia - Session 8"
+title: Barovia - Session 8
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "bahamut"
+  - "boris"
+  - "cirrus-al-kayan"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "izek"
+  - "jack-mayer-johnson-mathews"
+  - "kangaxx"
+  - "lathander"
+  - "madame-eva"
+  - "moot"
+  - "mordenkainen"
+  - "morgantha"
+  - "orcus"
+  - "pickles"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+  - "van-richten"
+  - "wachter"
+  - "ysera"
+places:
+  - "barovia"
+  - "vallaki"
+things:
+  - "holy-symbol-of-ravenkind"
+  - "the-reaver"
+factions:
+  - "vistani"
 ---
 
 The Group sits around a table in the Bluewater inn, watching a fancily dressed Half elf descend the stairs to the common room.  Wearing a wide brimmed hat, spectacles and wearing a fine leather overcoat and wielding a walking cane with an ebony handle, the half elf cuts an impressive figure.  The group also notices his age though, that he is clearly quite old for a half Elf, looking more like a fit human in his sixties, but with pointed ears.  The man ignores the group and walks to the bar, making polite and friendly conversation with Urwen, asking for his regular order. The group, intrigued, watches intently.  When the man continues to ignore them, they ask one of the young Martikov boys about him.  they determine his name is Rictavio, a bard from outside of Barovia who has been staying with them for many weeks now and has great stories and is quite friendly.  The man picks up a large raw steak and heads out of the Bluewater, his cane clacking against the floorboards and then wet cobblestones.  Patches decides to tail the man for more information while the group enjoys a breakfast.  Staying in communication with the Rockietalkies, Patches relays what she sees.  Rictavio heads to the Stockyard where the carnival cart is apparently his.  He goes up to it, and opening a small slit drops the steak inside.  Some large creature can be heard eating the steak with happy large chuffing sounds.  Rictavio then sits and talks to the beast for a while before heading back in the direction of the Inn.  Patches investigates the cart, opening the slot when she realizes whatever is inside can sense her.  She discovers a huge armored sabertoothed tiger inside, and it sniffs her with curiosity. Patches leaves and heads after the fast disappearing Ricatvio.  Fey, hearing that Ricavio was on his way, goes to wait for him at the door, making eye contact with the next people to come into the Inn.  Hoping to catch Rictavio, but hitting the Wachter brothers instead as they come inside, knocking them unconscious.   Urwen, furious, berates the careless mage and threatens to kick him out if he can't control his powers, displaying an uncharacteristic insight into magic for a Barovian...Fey heads to the bar and looks at his feel where he can do no more damage.  Patches enters the Inn a few moments later, reporting that Rictavio was heading out of town to the west and not coming back to the inn.   The group decide where to head next, deciding on Argynvolstholt the next day and that they would get some rest after visiting Ireena to make sure she's ok.

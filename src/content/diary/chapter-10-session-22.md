@@ -1,8 +1,20 @@
 ---
-title: "Beyond the Veil - The Prisoner"
+title: Beyond the Veil - The Prisoner
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 22
+people:
+  - "aliyah-faen-tlabbar"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "tarkathee-daru"
+places:
+  - "ethereal-plane"
+  - "snorbuls-hole"
+things:
+  - "arkto"
+  - "thundercannon"
 ---
 
 Gundren and Tark decided to follow the group on Arkto.

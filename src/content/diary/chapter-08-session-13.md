@@ -1,8 +1,30 @@
 ---
-title: "The Underdark - Session 13"
+title: The Underdark - Session 13
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 13
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "ront"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "darklake"
+things:
+  - "tavern-of-doors"
+  - "the-last-word"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
+  - "illithid-faction"
+  - "netherese"
 ---
 
 **Mummies and Locks**

@@ -1,8 +1,26 @@
 ---
-title: "The Underdark - Demogorgon"
+title: The Underdark - Demogorgon
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 31
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "abyss"
+things:
+  - "bag-of-holding"
+  - "eclipse"
+factions:
+  - "derro-faction"
+  - "duergar-faction"
+  - "stoneguard"
 ---
 
 The battle against the demons and the rioting Derro rages.

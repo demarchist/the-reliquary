@@ -1,8 +1,15 @@
 ---
-title: "The Bog - Session 4"
+title: The Bog - Session 4
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 4
+people:
+  - "doc"
+  - "horatio-von-bumidere"
+  - "tarkathee-daru"
+  - "zhink"
+places:
+  - "goblin-town"
 ---
 
 Restrained by the wall of hands,  Tark struggles to be freed but does not succeed and is tickled by the walls.  Fey'anon reads the creatures mind and hears "FEED!" and imparts this to the group telepathically.  Figuring their comrade to be in mortal danger, the group attacks the wall with Zhink going so far as to jump in after Tark and get immediately held.  Doc. B proceeds to spray poison onto the wall.  Fey launches a Lightning bolt and Buumi blesses and buffs those around him. 

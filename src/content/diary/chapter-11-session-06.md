@@ -1,8 +1,22 @@
 ---
-title: "Shadows of the Empire - returning to the console"
+title: Shadows of the Empire - returning to the console
 chapter: 11
-chapterTitle: "Shadows of the Empire"
+chapterTitle: Shadows of the Empire
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "hasrala"
+  - "hazzim"
+  - "horatio-von-bumidere"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+things:
+  - "eclipse"
+factions:
+  - "saurians"
 ---
 
 The group exits the pyramid and takes stock of the situation.

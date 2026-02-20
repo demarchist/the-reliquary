@@ -1,8 +1,29 @@
 ---
-title: "The Bog - Session 1"
+title: The Bog - Session 1
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "goblin-king"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lady-faye"
+  - "mediocris-dente"
+  - "shar"
+  - "tarkathee-daru"
+  - "ysera"
+  - "zhink"
+places:
+  - "astral-plane"
+  - "baldurs-gate"
+  - "goblin-town"
+things:
+  - "tavern-of-doors"
+factions:
+  - "duergar-faction"
 ---
 
 The group enjoys a much deserved rest, enjoying the morning sun as it washes over the Troll hills.  The group heals their wounds and begins their trek back to Baldur's Gate.  On the way, the group discusses their reward for saving Lady Faye and Patches finds out about the Duergar prisoner currently held in the Stables and goes down to interrogate him (murder him...).  With a Start, Doc B. remembers another creature in the stables that needs attention, and heads down, to find Bubbles the tiny horse, in the hallway.  Doc B picks up bubbles, the 6 inch horse and begins to carry him around as her very own pocket steed.  Looking at his injuries from the previous battle, Tark pulls a loose tooth from his mouth with a wince.  Cyrrus immediately asks if he can have it, and Tark hands it right over.  Sighing at the state of Tark, Buumi walks over and uses his healing hands on him, immediately regenerating the missing tooth with a crackle of bone and wet pop.  Tark let's out a startled yelp, but is quite happy.

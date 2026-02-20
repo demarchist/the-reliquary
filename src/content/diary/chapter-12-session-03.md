@@ -1,8 +1,30 @@
 ---
-title: "Al Askar - The Oasis"
+title: Al Askar - The Oasis
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 3
+people:
+  - "chrysalis"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "ront"
+  - "rudjek"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "al-askar"
+  - "faerun"
+  - "iyum"
+  - "ras-alkan"
+things:
+  - "saurian-firelance"
+factions:
+  - "cult-of-zalaam"
+  - "faerun-defense-force"
+  - "usurpers-of-rudjek"
 ---
 
 Tark rushes down the small canyon to the ambush location, noting the position of the boulder.

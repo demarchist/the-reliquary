@@ -1,8 +1,17 @@
 ---
-title: "The Bog - Session 8"
+title: The Bog - Session 8
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 8
+people:
+  - "doc"
+  - "goblin-king"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "zhink"
+places:
+  - "the-bog"
+  - "the-labyrinth"
 ---
 
 The Nixie freed from the crystal prison attacks group and mind controls the boars.  Buumi grabs the wagon nearby and moves it to block one of the giant Boars.  Blocked and unwilling to break it's cart, the Boars charge the long way around and knock Fey off his feet.  In a flash of insight, Cyrrus banishes the Nixie from the plane and suddenly, the boars are freed. Investigating the area, the group harvests a massive gemstone and finds some gold, as well as a passageway to an area overgrown with crystals thrumming with celestial power.   The group feels safe there and decides to take a long rest, recuperating from their fights. 

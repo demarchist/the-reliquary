@@ -1,8 +1,29 @@
 ---
-title: "The Demon Lords - The Medusa"
+title: The Demon Lords - The Medusa
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 16
+people:
+  - "aliyah-faen-tlabbar"
+  - "bane"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "eilistraee"
+  - "gaddock"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "lolth"
+  - "ront"
+  - "tarkathee-daru"
+places:
+  - "abyss"
+  - "amn"
+  - "blingdenstone"
+things:
+  - "chardalyn"
+factions:
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 The group takes a rest and has Cirrus begin to scout the next section of the caverns.

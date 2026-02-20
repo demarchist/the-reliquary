@@ -1,8 +1,53 @@
 ---
-title: "Beyond the Veil - Visions pt2."
+title: Beyond the Veil - Visions pt2.
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "cercei"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "corpsetaker"
+  - "feanon-serinde"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "juiblex"
+  - "karsus"
+  - "li-xian"
+  - "lolth"
+  - "ront"
+  - "ruthir"
+  - "selune"
+  - "shaahir"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "veygar"
+  - "zuggtmoy"
+places:
+  - "abyss"
+  - "al-askar"
+  - "amn"
+  - "athkatla"
+  - "ethereal-plane"
+  - "faerun"
+  - "silverymoon"
+  - "the-labyrinth"
+  - "underdark"
+things:
+  - "delzoun-instant-fortress"
+  - "gwen"
+  - "the-last-word"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "duergar-faction"
+  - "illithid-faction"
+  - "svirfneblin-faction"
+  - "zhentarim"
 ---
 
 Exhausted, the group retires to the individualized rooms, praying, studying or going over their kit before the next day.

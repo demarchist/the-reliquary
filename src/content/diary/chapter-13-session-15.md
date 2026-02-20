@@ -1,8 +1,24 @@
 ---
-title: "The Voyage Home - Finding a Gate"
+title: The Voyage Home - Finding a Gate
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 15
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "baba-lysaga"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "vecna"
+places:
+  - "barovia"
+  - "faerun"
+  - "golden-tower"
+  - "iyum"
+  - "machina-factory"
+factions:
+  - "saurians"
 ---
 
 The group takes some time to recover from the explosion.

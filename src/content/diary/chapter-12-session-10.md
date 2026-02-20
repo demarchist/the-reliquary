@@ -1,8 +1,18 @@
 ---
 title: "Al Askar - Battle!"
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 10
+people:
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+things:
+  - "saurian-firelance"
 ---
 
 The group looks around

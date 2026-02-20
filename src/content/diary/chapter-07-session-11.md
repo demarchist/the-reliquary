@@ -1,8 +1,33 @@
 ---
-title: "The Sanctum - Session 11"
+title: The Sanctum - Session 11
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lodan"
+  - "mordenkainen"
+  - "ront"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "darklake"
+  - "gracksuluth"
+  - "keep-of-thunder-bluff"
+  - "menzoberranzan"
+  - "underdark"
+  - "waterdeep"
+things:
+  - "gwen"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "the-harpers"
 ---
 
 **A Drink with Lo'Dan**

@@ -1,8 +1,36 @@
 ---
-title: "The Cathedral of Twilight"
+title: The Cathedral of Twilight
 chapter: 14
-chapterTitle: ""
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "kangaxx"
+  - "lolth"
+  - "madame-eva"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+  - "vecna"
+  - "zhengyi"
+places:
+  - "astral-plane"
+  - "dokkar"
+  - "shadowfell"
+  - "svartalfheim"
+  - "the-crossroads"
+  - "underdark"
+things:
+  - "eclipse"
+factions:
+  - "drow-faction"
+  - "illithid-faction"
 ---
 
 The group is at the Inn *Her Gift *deciding to pack up and head out toward Yggward 

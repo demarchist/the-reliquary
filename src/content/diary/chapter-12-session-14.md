@@ -1,8 +1,21 @@
 ---
-title: "Al Askar - The Shaa’barid"
+title: Al Askar - The Shaa’barid
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 14
+people:
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "shar"
+  - "snorbul"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "temple-of-carthus"
+things:
+  - "arkto"
 ---
 
 As the group turns back to their meals, Buumi and Tark share a glance, wondering if they should strike.

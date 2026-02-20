@@ -1,8 +1,30 @@
 ---
-title: "The Doomstar Legion"
+title: The Doomstar Legion
 chapter: 14
-chapterTitle: ""
 session: 10
+people:
+  - "aliyah-faen-tlabbar"
+  - "bolg"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "ezmerelda"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "ruthir"
+  - "shar"
+  - "surtr"
+  - "tarkathee-daru"
+places:
+  - "ethereal-plane"
+  - "keep-of-thunder-bluff"
+  - "shadowfell"
+  - "the-establishment"
+  - "the-moonwood"
+things:
+  - "gwen"
 ---
 
 Gundren arrives at the Establishment and demands a report, sitting at a booth with the group as they argue about what to do next

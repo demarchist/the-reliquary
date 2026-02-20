@@ -1,8 +1,27 @@
 ---
-title: "The Underdark - Session 3"
+title: The Underdark - Session 3
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "moot"
+  - "pickles"
+  - "tarkathee-daru"
+  - "theodemir"
+places:
+  - "menzoberranzan"
+  - "neverwinter"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "eclipse"
+factions:
+  - "svirfneblin-faction"
 ---
 
 **Hulk Smash**

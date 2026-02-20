@@ -1,8 +1,30 @@
 ---
-title: "Al Askar - The Psi’Shara Attack"
+title: Al Askar - The Psi’Shara Attack
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 18
+people:
+  - "aliyah-faen-tlabbar"
+  - "djoser"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "liara"
+  - "orcus"
+  - "ront"
+  - "shar"
+  - "snorbul"
+  - "sultan-bashir"
+  - "vaketh"
+places:
+  - "iyum"
+  - "mt-saqar"
+  - "temple-of-carthus"
+things:
+  - "titanic-forge"
+factions:
+  - "cult-of-zalaam"
 ---
 
 The group quickly catches up to the Caravan, traversing the badlands with haste

@@ -1,8 +1,21 @@
 ---
-title: "Beyond the Veil - The Summoning"
+title: Beyond the Veil - The Summoning
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 16
+people:
+  - "baphomet"
+  - "demogorgon"
+  - "juiblex"
+  - "orcus"
+  - "ront"
+  - "yeenoghu"
+  - "zuggtmoy"
+places:
+  - "abyss"
+  - "underdark"
+factions:
+  - "drow-faction"
 ---
 
 Floating above Tier Breche, Gromph finishes casting the ritual spell to summon the Demon Lords.

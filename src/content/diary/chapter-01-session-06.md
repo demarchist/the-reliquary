@@ -1,8 +1,21 @@
 ---
-title: "Phandalin - Session 6"
+title: Phandalin - Session 6
 chapter: 1
-chapterTitle: "Phandalin"
+chapterTitle: Phandalin
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "lodan"
+  - "nezzan"
+  - "tarkathee-daru"
+places:
+  - "neverwinter"
+things:
+  - "tavern-of-doors"
+  - "thundercannon"
+factions:
+  - "drow-faction"
 ---
 
 Gundren catches up to the group outside the spell forge and demands to know where the forge is, upon discovering it's in the frog, they discover the frog is a Golem and it's growing.

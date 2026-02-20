@@ -1,8 +1,40 @@
 ---
-title: "Beyond the Veil - Slaad and Svartalfs"
+title: Beyond the Veil - Slaad and Svartalfs
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 18
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "eilistraee"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jarlaxle"
+  - "kimmuriel"
+  - "lolth"
+  - "selune"
+  - "tarkathee-daru"
+  - "vladalma"
+places:
+  - "dokkar"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "keep-of-thunder-bluff"
+  - "kossenberg"
+  - "menzoberranzan"
+  - "rockseeker-manufactory"
+  - "snorbuls-hole"
+  - "svartalfheim"
+  - "the-establishment"
+  - "the-moonwood"
+  - "toril"
+  - "underdark"
+things:
+  - "eclipse"
+factions:
+  - "drow-faction"
 ---
 
 The group finds themselves back in the Barony.

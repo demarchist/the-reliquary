@@ -1,8 +1,22 @@
 ---
-title: "Shadows of the Empire - Into the Fortress"
+title: Shadows of the Empire - Into the Fortress
 chapter: 11
-chapterTitle: "Shadows of the Empire"
+chapterTitle: Shadows of the Empire
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "the-labyrinth"
+  - "underdark"
+factions:
+  - "duergar-faction"
+  - "saurians"
 ---
 
 The group presses on, through the labyrinthine Underdark.

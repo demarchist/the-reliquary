@@ -1,8 +1,29 @@
 ---
-title: "Al Askar - The Death Lord"
+title: Al Askar - The Death Lord
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 23
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jareem"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "vecna"
+places:
+  - "shadowfell"
+things:
+  - "arkto"
+  - "bag-of-holding"
+  - "gwen"
+  - "thundercannon"
+factions:
+  - "saurians"
 ---
 
 The group finds themselves in a precarious situation with powerful enemies arrayed before them.

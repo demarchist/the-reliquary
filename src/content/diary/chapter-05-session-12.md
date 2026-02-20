@@ -1,8 +1,43 @@
 ---
-title: "Barovia - Session 12"
+title: Barovia - Session 12
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gowain"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "kasimir"
+  - "madame-eva"
+  - "mordenkainen"
+  - "pickles"
+  - "rahadin"
+  - "ront"
+  - "sergei"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+  - "van-richten"
+places:
+  - "amber-temple"
+  - "barovia"
+  - "castle-ravenloft"
+  - "ethereal-plane"
+  - "feanons-tower"
+  - "oerth"
+  - "the-crossroads"
+  - "vallaki"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "holy-symbol-of-ravenkind"
+  - "piwafwi"
+factions:
+  - "drow-faction"
 ---
 
 Rictavio's re purposed wagon trundles along, it's large wheels rattling against the wet and muddy cobblestones of the old Svalich road as it heads west from Vallaki.  The group is resting, taking the time to recouperate.  Tark is riding atop the wagon, watching the world go by and meditating.  Patches is riding her new mount, mulling over it's name. Buumi is driving the wagon, seated next to the Dusk Elf - Kasimir. Aurora is loping alongside the wagon, lance strapped vertically to her saddle, sniffing and still getting to know the new Tiger in the group.  Gundren, who fades out of the mists, (with Gwen loping beside the wagon) starts taking inventory of his supplies.  Fey and Cirrus are both in the wagons interior, contacting Mordenkainen.  Mr. Pickles and Chekhov bring up the rear astride the pony: Dandelion.  

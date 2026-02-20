@@ -4,6 +4,7 @@ category: "Places"
 aliases: []
 firstAppearance: "chapter-01-session-01"
 description: "A frontier town of 40-45 buildings built atop older ruins, devastated by a Dracolich attack."
+status: "Active"
 ---
 
 Phandalin is a frontier town of some forty to forty-five buildings, built atop older ruins in the foothills near the Sword Mountains. When the party first arrives, the town is plagued by the Redbrand Ruffians operating out of tunnels beneath Tresendar Manor.

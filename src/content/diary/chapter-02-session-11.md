@@ -1,8 +1,15 @@
 ---
-title: "Neverwinter - Session 11"
+title: Neverwinter - Session 11
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "lolth"
+  - "lothli"
+  - "madame-eva"
+  - "ront"
+  - "tarkathee-daru"
 ---
 
 Following the Balgura demon, Patches makes her way to the Demon stronghold in the forest.  Once there, she negotiated as a priestess of Lolth with a Glabrezu and Chasme Demon. Gaining their trust, Patches convinces the demons to give her their key and she will lead them to attack the devils at her signal.  She leaves, breathing much easier and meets up with Lothli and the strange Elf and Dwarf they ran into (Jedds parents).  Across the forest, Fey Anon is taken to meet with a Malbranche Devil.  Acting as if he is a servant of Asmodeus, Fey convinces the Devils, even go so far as to get one of the bearded devils executed.  With the same deal as Patches, the group meets back at the archway portal to the next area, leaving the demons and devils.

@@ -1,8 +1,30 @@
 ---
-title: "The Demon Lords - Juiblex"
+title: The Demon Lords - Juiblex
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 21
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "gundren-rockseeker"
+  - "juiblex"
+  - "lolth"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "zuggtmoy"
+places:
+  - "abyss"
+  - "ethereal-plane"
+  - "the-chasm"
+  - "underdark"
+things:
+  - "eclipse"
+factions:
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 The great column of demonic ooze gazes at Patches.

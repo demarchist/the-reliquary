@@ -1,8 +1,55 @@
 ---
-title: "Beyond the Veil - To Gravenhollow"
+title: Beyond the Veil - To Gravenhollow
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "auril"
+  - "beryan"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "dorbo"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "horatio-von-bumidere"
+  - "juiblex"
+  - "mordenkainen"
+  - "mystra"
+  - "pickles"
+  - "ruthir"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "vizerion-devir"
+places:
+  - "anauroch"
+  - "barovia"
+  - "blingdenstone"
+  - "feanons-tower"
+  - "gracksuluth"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+  - "neverwinter"
+  - "rockseeker-manufactory"
+  - "selunia"
+  - "shadowfell"
+  - "silverymoon"
+  - "underdark"
+  - "vaasa"
+things:
+  - "eclipse"
+  - "gemstone-lens"
+factions:
+  - "bedine"
+  - "drow-faction"
+  - "duergar-faction"
+  - "netherese"
+  - "svirfneblin-faction"
+  - "zhentarim"
 ---
 
 The group stands there in Entemoch’s boon, looking over the artefacts.

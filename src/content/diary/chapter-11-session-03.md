@@ -1,8 +1,26 @@
 ---
-title: "Shadows of the Empire - Interplanar Spaces"
+title: Shadows of the Empire - Interplanar Spaces
 chapter: 11
-chapterTitle: "Shadows of the Empire"
+chapterTitle: Shadows of the Empire
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "bowie"
+  - "cirrus-al-kayan"
+  - "hazzim"
+  - "jack-mayer-johnson-mathews"
+  - "megno-slatesunder"
+  - "snorbul"
+  - "thorna"
+  - "veygar"
+places:
+  - "faerun"
+  - "menzoberranzan"
+  - "the-crossroads"
+  - "underdark"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
 ---
 
 Somewhere in the multiverse, a strange character finds himself on a set of beautiful islands in a turquoise sea.Bowie and his companion, Maloo, have been here for a while, having arrived through a network of gates

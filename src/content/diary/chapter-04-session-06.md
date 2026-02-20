@@ -1,8 +1,18 @@
 ---
-title: "The Bog - Session 6"
+title: The Bog - Session 6
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 6
+people:
+  - "doc"
+  - "goblin-king"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+places:
+  - "goblin-town"
+  - "the-bog"
+  - "the-establishment"
+  - "the-labyrinth"
 ---
 
 The group entered the huge mushroom inn, seeing all manner of Goblin inside.  Doc .b noticed that Demetrius, the huge Malk was serving drinks at the bar and he decided to go and chat with Demetrius.  Buumi followed, not trusting this hive of scum and villainy…  Fey'Anon saw a huge elf across the bar, bigger than he had ever seen before and went over to investigate.  Meanwhile, Cyrrus spied a set of tiefling twins across the way smoking hookah and went over to see them.  As Buumi headed to the bar, he scooped up the newly wormified team mates and handed them over to Fey.

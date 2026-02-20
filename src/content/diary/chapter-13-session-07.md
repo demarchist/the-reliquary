@@ -1,8 +1,29 @@
 ---
-title: "The Voyage Home - The Abyss Walkers"
+title: The Voyage Home - The Abyss Walkers
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "camea"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "fawden"
+  - "gundren-rockseeker"
+  - "hohonu"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jareem"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "ethereal-plane"
+  - "machina-factory"
+  - "thueba-swamp"
+factions:
+  - "cult-of-zalaam"
+  - "obsidian-order"
 ---
 
 The group continues their ferry ride across the waterways of Thueba Swamp

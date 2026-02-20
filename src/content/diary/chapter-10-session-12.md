@@ -1,8 +1,25 @@
 ---
-title: "Beyond the Veil - The Clawrift"
+title: Beyond the Veil - The Clawrift
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "lolth"
+  - "ront"
+  - "tarkathee-daru"
+  - "zuggtmoy"
+places:
+  - "evermeet"
+  - "menzoberranzan"
+  - "the-bog"
+  - "the-chasm"
+  - "underdark"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
 ---
 
 The group heads through the natural tunnels surrounding the Drow city.

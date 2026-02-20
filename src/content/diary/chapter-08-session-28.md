@@ -1,8 +1,56 @@
 ---
-title: "The Underdark - New Faces at the Barony"
+title: The Underdark - New Faces at the Barony
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 28
+people:
+  - "aliyah-faen-tlabbar"
+  - "aurinax"
+  - "bahamut"
+  - "beryan"
+  - "cercei"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "corpsetaker"
+  - "doc"
+  - "eilistraee"
+  - "finn"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lady-faye"
+  - "li-xian"
+  - "lolth"
+  - "orcus"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "theodemir"
+places:
+  - "abyss"
+  - "amn"
+  - "baldurs-gate"
+  - "daggerford"
+  - "ethereal-plane"
+  - "evermeet"
+  - "fane-of-selune"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+  - "silverymoon"
+  - "the-crossroads"
+  - "underdark"
+things:
+  - "arkto"
+  - "chardalyn"
+  - "the-last-word"
+factions:
+  - "amnians"
+  - "svirfneblin-faction"
 ---
 
 Tark heads into the cave the Oni came from, remembering the fiend was wet with blood BEFORE being killed.

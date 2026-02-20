@@ -1,8 +1,29 @@
 ---
-title: "Beyond the Veil - Dragons"
+title: Beyond the Veil - Dragons
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 20
+people:
+  - "aliyah-faen-tlabbar"
+  - "ancalagon"
+  - "bolg"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "li-xian"
+  - "mordenkainen"
+  - "orcus"
+  - "ront"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "keep-of-thunder-bluff"
+  - "scornubel"
+  - "the-bog"
+  - "the-establishment"
+things:
+  - "arkto"
 ---
 
 The group deals with the immediate aftermath of the debutante ball.

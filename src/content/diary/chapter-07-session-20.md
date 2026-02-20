@@ -1,8 +1,57 @@
 ---
-title: "The Sanctum - Session 20"
+title: The Sanctum - Session 20
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 20
+people:
+  - "aliyah-faen-tlabbar"
+  - "anaxtrasa"
+  - "atropos"
+  - "aurinax"
+  - "bahamut"
+  - "cercei"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "corpsetaker"
+  - "doc"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lemerlais"
+  - "lodan"
+  - "lord-neverember"
+  - "megno-slatesunder"
+  - "mordenkainen"
+  - "ront"
+  - "shaahir"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "zhengyi"
+places:
+  - "amn"
+  - "astral-plane"
+  - "baldurs-gate"
+  - "faerun"
+  - "gauntlgrym"
+  - "helms-hold"
+  - "keep-of-thunder-bluff"
+  - "neverwinter"
+  - "silverymoon"
+  - "sundabar"
+  - "the-moonwood"
+  - "thundertree"
+  - "underdark"
+  - "vaasa"
+  - "waterdeep"
+things:
+  - "bag-of-holding"
+  - "crystal-tuning-fork"
+  - "tavern-of-doors"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "red-wizards-of-thay"
 ---
 
 The mansion burns as the second floor completely collapses, the remaining story groaning under the burning weight.

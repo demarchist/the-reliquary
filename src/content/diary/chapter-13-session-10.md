@@ -1,8 +1,24 @@
 ---
-title: "The Voyage Home - The Pursuit"
+title: The Voyage Home - The Pursuit
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 10
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "fawden"
+  - "gundren-rockseeker"
+  - "hohonu"
+  - "horatio-von-bumidere"
+  - "tarkathee-daru"
+  - "vecna"
+places:
+  - "barovia"
+  - "ethereal-plane"
+  - "machina-factory"
+things:
+  - "arkto"
+  - "bag-of-holding"
 ---
 
 The group begins to move away from the mists, only to stop and listen, as a series of shrill horn blasts sound from behind them and to the North.

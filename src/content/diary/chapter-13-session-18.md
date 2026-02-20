@@ -1,8 +1,25 @@
 ---
-title: "The Voyage Home - The Nasnas"
+title: The Voyage Home - The Nasnas
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 18
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "fawden"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+places:
+  - "barovia"
+  - "ethereal-plane"
+  - "the-chasm"
+  - "underdark"
+things:
+  - "gwen"
+factions:
+  - "drow-faction"
+  - "saurians"
 ---
 
 The group continues downward at a steady pace until the artificial tunnels of the Elves and Thri-Kreen give way to a saurian structure

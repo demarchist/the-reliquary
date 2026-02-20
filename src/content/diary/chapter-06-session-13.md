@@ -1,8 +1,43 @@
 ---
-title: "Silverymoon - Session 13"
+title: Silverymoon - Session 13
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 13
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "high-marshal-arasume"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "megno-slatesunder"
+  - "omar"
+  - "pickles"
+  - "ront"
+  - "s-olaa"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "vizerion-devir"
+  - "von-issinger"
+places:
+  - "amn"
+  - "baldurs-gate"
+  - "house-invincible"
+  - "silverymoon"
+  - "sundabar"
+things:
+  - "deck-of-illusions"
+  - "gwen"
+  - "thundercannon"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "illithid-faction"
+  - "ironarm-mercenary-company"
+  - "knights-in-silver"
+  - "spellguard"
 ---
 
 **The House Invincible**

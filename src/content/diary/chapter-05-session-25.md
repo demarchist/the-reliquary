@@ -1,8 +1,41 @@
 ---
-title: "Barovia - Session 25"
+title: Barovia - Session 25
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 25
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "cirrus-al-kayan"
+  - "ezmerelda"
+  - "goblin-king"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "mordenkainen"
+  - "pickles"
+  - "rahadin"
+  - "ront"
+  - "selune"
+  - "sergei"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "van-richten"
+places:
+  - "barovia"
+  - "faerun"
+  - "krezk"
+  - "silverymoon"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "luck-blade"
+  - "tavern-of-doors"
+  - "the-reaver"
+factions:
+  - "drow-faction"
 ---
 
 Turn 1

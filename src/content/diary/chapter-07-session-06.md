@@ -1,8 +1,28 @@
 ---
-title: "The Sanctum - Session 6"
+title: The Sanctum - Session 6
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "cirrus-al-kayan"
+  - "ella"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ingrbotha"
+  - "li-xian"
+  - "madame-eva"
+  - "megno-slatesunder"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "sanctum-of-krasus"
+  - "shatterpeak"
+things:
+  - "gwen"
 ---
 
 **Fallout from the vision and a Short Rest**

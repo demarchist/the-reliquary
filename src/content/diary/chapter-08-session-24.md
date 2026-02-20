@@ -1,8 +1,35 @@
 ---
-title: "The Underdark - An old Friend"
+title: The Underdark - An old Friend
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 24
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "ella"
+  - "hemeth"
+  - "madame-eva"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "snorbul"
+places:
+  - "blingdenstone"
+  - "darklake"
+  - "gravenhollow"
+  - "menzoberranzan"
+  - "underdark"
+things:
+  - "tavern-of-doors"
+factions:
+  - "bregan-daerthe"
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "house-baenre"
+  - "stoneguard"
+  - "zhentarim"
 ---
 
 Claudine & The Alchemy shop

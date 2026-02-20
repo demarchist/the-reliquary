@@ -1,8 +1,38 @@
 ---
-title: "The Demon Lords - The Sovereignty"
+title: The Demon Lords - The Sovereignty
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "beryan"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "ront"
+  - "selune"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "thorna"
+  - "topsy-and-turvy"
+places:
+  - "daggerford"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "keep-of-thunder-bluff"
+  - "kossenberg"
+  - "rockseeker-manufactory"
+  - "temple-of-helm"
+things:
+  - "arkto"
+  - "eclipse"
+  - "gwen"
 ---
 
 Thunder crashes and lightning illuminates the edge of New Daggerford.

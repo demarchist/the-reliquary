@@ -1,8 +1,27 @@
 ---
-title: "The Voyage Home - Battle of The Pit"
+title: The Voyage Home - Battle of The Pit
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "camea"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "hohonu"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "abyss"
+  - "al-askar"
+  - "ethereal-plane"
+things:
+  - "saurian-firelance"
+factions:
+  - "saurians"
 ---
 
 The “prisoners” approach the dark ritual and are acknowledged by the Shaman.

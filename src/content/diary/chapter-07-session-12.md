@@ -1,8 +1,43 @@
 ---
-title: "The Sanctum - Session 12"
+title: The Sanctum - Session 12
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lord-neverember"
+  - "moot"
+  - "mordenkainen"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "zhengyi"
+places:
+  - "amn"
+  - "barovia"
+  - "keep-of-thunder-bluff"
+  - "luskan"
+  - "neverwinter"
+  - "sanctum-of-krasus"
+  - "silverymoon"
+  - "snorbuls-hole"
+  - "waterdeep"
+things:
+  - "bag-of-holding"
+  - "eclipse"
+  - "gwen"
+  - "tavern-of-doors"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "the-harpers"
 ---
 
 **Dinner & The Captain**

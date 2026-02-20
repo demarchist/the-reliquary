@@ -1,8 +1,43 @@
 ---
-title: "Beyond the Veil - Full Circle"
+title: Beyond the Veil - Full Circle
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 21
+people:
+  - "aliyah-faen-tlabbar"
+  - "beryan"
+  - "bolg"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "eilistraee"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "li-xian"
+  - "lolth"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "blingdenstone"
+  - "dokkar"
+  - "faerun"
+  - "feanons-tower"
+  - "scornubel"
+  - "snorbuls-hole"
+  - "svartalfheim"
+things:
+  - "arkto"
+  - "eclipse"
+  - "gwen"
+  - "piwafwi"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 Back in the tower, Buumi and Tark head back to the Orc village to report to the troops what just happened.

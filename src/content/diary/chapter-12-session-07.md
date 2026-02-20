@@ -1,8 +1,24 @@
 ---
-title: "Al Askar - The Fiery Flower"
+title: Al Askar - The Fiery Flower
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 7
+people:
+  - "cirrus-al-kayan"
+  - "doc"
+  - "liara"
+  - "moot"
+  - "rudjek"
+  - "snorbul"
+places:
+  - "feywild"
+  - "shadowfell"
+  - "temple-of-carthus"
+factions:
+  - "medjay"
+  - "usurpers-of-rudjek"
+events:
+  - "the-calamity"
 ---
 
 In the waiting area of the Crucible, the group waits

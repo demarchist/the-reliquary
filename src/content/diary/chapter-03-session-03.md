@@ -1,8 +1,17 @@
 ---
-title: "Baldur’s Gate - Session 3"
+title: Baldur’s Gate - Session 3
 chapter: 3
-chapterTitle: "Baldur’s Gate"
+chapterTitle: Baldur’s Gate
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lady-faye"
+  - "tarkathee-daru"
+  - "zhink"
+factions:
+  - "flaming-fist"
 ---
 
 The group stares down the long corridors of the mausoleum, thinking about what to do next.  After some consideration, they decide that clearing a veritable army from beneath the city is not only beyond their current abilities, but beyond the purview of their instructions.  Fey anon grabs a zombie arm from one of the recent undead as proof that the catacombs are infested, for the Mercenary company.  As the group heads back into the city proper to deliver the news of undead infestation, a runner comes up to the group out of breath, carrying a sealed message for Patches from Lady Faye.  Deciding that the group simply had to meet Patches mysterious benefactor, the group heads off to the Garden district, giving the messenger the zombie arm and instructions to take it to the Flaming Fist Mercenary company to prove the undead threat.

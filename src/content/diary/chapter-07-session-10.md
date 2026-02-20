@@ -1,8 +1,49 @@
 ---
-title: "The Sanctum - Session 10"
+title: The Sanctum - Session 10
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 10
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "captain-dink"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lady-faye"
+  - "lemerlais"
+  - "lodan"
+  - "lord-neverember"
+  - "mordenkainen"
+  - "orcus"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+  - "zhengyi"
+places:
+  - "amn"
+  - "baldurs-gate"
+  - "barovia"
+  - "faerun"
+  - "feanons-tower"
+  - "gracksuluth"
+  - "helms-hold"
+  - "keep-of-thunder-bluff"
+  - "neverwinter"
+  - "sundabar"
+  - "underdark"
+things:
+  - "eclipse"
+  - "gwen"
+  - "the-last-word"
+factions:
+  - "amnians"
+  - "bregan-daerthe"
+  - "drow-faction"
+events:
+  - "council-of-helms-hold"
 ---
 
 **A Chat, A Stroll and The Long House**

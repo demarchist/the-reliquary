@@ -1,8 +1,28 @@
 ---
-title: "Al Askar - Attempted Mutiny"
+title: Al Askar - Attempted Mutiny
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 12
+people:
+  - "cirrus-al-kayan"
+  - "doc"
+  - "drizzly-dawg"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "liara"
+  - "madame-eva"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "faerun"
+  - "iyum"
+things:
+  - "saurian-firelance"
+  - "tome-of-al-azif"
+factions:
+  - "saurians"
 ---
 
 As the group walks aboard, the Captain fetches a drinking vessel as the group challenges him for free accomodations.

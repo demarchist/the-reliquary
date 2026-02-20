@@ -1,8 +1,31 @@
 ---
-title: "Beyond the Veil - The Apprentice"
+title: Beyond the Veil - The Apprentice
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 17
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "megno-slatesunder"
+  - "pickles"
+  - "tarkathee-daru"
+places:
+  - "abyss"
+  - "amn"
+  - "keep-of-thunder-bluff"
+  - "menzoberranzan"
+  - "sundabar"
+  - "underdark"
+things:
+  - "thundercannon"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "faerun-defense-force"
+  - "house-faen-tlabbar"
 ---
 
 Grein Osstyl, embarrassed by the group, turns his fury upon them.

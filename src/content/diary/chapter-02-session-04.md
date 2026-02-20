@@ -1,8 +1,36 @@
 ---
-title: "Neverwinter - Session 4"
+title: Neverwinter - Session 4
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hendrell"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "moot"
+  - "nezzan"
+  - "raylen"
+  - "ront"
+  - "sha-alazzi"
+  - "tarkathee-daru"
+  - "ysera"
+places:
+  - "feanons-tower"
+  - "longsaddle"
+  - "moonstone-mask-inn"
+  - "the-moonwood"
+  - "underdark"
+  - "waterdeep"
+  - "wave-echo-cave"
+things:
+  - "tavern-of-doors"
+factions:
+  - "bregan-daerthe"
+  - "drow-faction"
 ---
 
 Tark and Fey'Anon find themselves alone facing Sha'Alazzi.  The small bald man smiles at them and says "come now, the whole group would make it too easy! I did bring in that ranger friend of yours though from the woods…".   Fey and Tark look at each other at a loss, Tark reaches for the small model tower on the shelf and tries to move it, but it is firmly rooted in place.  After about forty five seconds, a flash of light and the group re-appears.   JmJm, Dr.B and Gundren all head into the box for a rest.

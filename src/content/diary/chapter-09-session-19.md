@@ -1,8 +1,40 @@
 ---
-title: "The Demon Lords - Planar Visits"
+title: The Demon Lords - Planar Visits
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 19
+people:
+  - "aliyah-faen-tlabbar"
+  - "beryan"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "dorbo"
+  - "gurnik"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "mordenkainen"
+  - "ront"
+  - "ruthir"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "topsy-and-turvy"
+  - "vecna"
+places:
+  - "amn"
+  - "blingdenstone"
+  - "keep-of-thunder-bluff"
+  - "oerth"
+  - "silverymoon"
+things:
+  - "chardalyn"
+  - "well-of-many-worlds"
+factions:
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 Feanon is awoken from his Reverie by a knock on his door, annoyed, Fea gets up and checks through the peep slot on the door.

@@ -1,8 +1,33 @@
 ---
-title: "Kallista"
+title: Kallista
 chapter: 14
-chapterTitle: ""
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "eilistraee"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lolth"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "abyss"
+  - "dokkar"
+  - "fane-of-selune"
+  - "selunia"
+  - "shadowfell"
+  - "the-evermoors"
+  - "the-moonwood"
+things:
+  - "gwen"
+factions:
+  - "drow-faction"
+  - "house-faen-tlabbar"
+  - "illithid-faction"
 ---
 
 The battle against the Balors and Marilith rages with JmJm, Patches, Steeden and Cirrus in his angelic form surrounding the great serpentine Demon and her dervish of blades.

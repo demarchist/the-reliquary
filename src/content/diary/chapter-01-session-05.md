@@ -1,8 +1,31 @@
 ---
-title: "Phandalin - Session 5"
+title: Phandalin - Session 5
 chapter: 1
-chapterTitle: "Phandalin"
+chapterTitle: Phandalin
 session: 5
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "madame-eva"
+  - "nezzan"
+  - "orcus"
+  - "ront"
+  - "tarkathee-daru"
+places:
+  - "astral-plane"
+  - "the-chasm"
+  - "wave-echo-cave"
+things:
+  - "jade-frog"
+  - "megascope"
+  - "spellforge"
+  - "tavern-of-doors"
+factions:
+  - "drow-faction"
+  - "harpell-family"
 ---
 
 As the Balgura lies disintegrating, the ToD springs open and Lothli, JmJm and Dr.B spring forth surprising Harkell and Quetzee who are watching from the door way.

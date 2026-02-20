@@ -1,8 +1,51 @@
 ---
-title: "Beyond the Veil - Back into the Shadows"
+title: Beyond the Veil - Back into the Shadows
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 24
+people:
+  - "aliyah-faen-tlabbar"
+  - "bahamut"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "eilistraee"
+  - "ezmerelda"
+  - "finn"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "abyss"
+  - "amn"
+  - "astral-plane"
+  - "city-of-brass"
+  - "damara"
+  - "dokkar"
+  - "faerun"
+  - "neverwinter"
+  - "scornubel"
+  - "silverymoon"
+  - "svartalfheim"
+  - "the-labyrinth"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "eclipse"
+  - "mythallar"
+  - "the-last-word"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "duergar-faction"
+  - "netherese"
+  - "red-wizards-of-thay"
 ---
 
 The group spends the next two weeks in the Barony, attending to their duties as the lords of the area.

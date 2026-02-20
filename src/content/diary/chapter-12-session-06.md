@@ -1,8 +1,17 @@
 ---
-title: "Al Askar - The Crucible"
+title: Al Askar - The Crucible
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "shar"
+factions:
+  - "medjay"
+  - "saurians"
 ---
 
 The group heads into the Critereon and finds themselves in a massive oblong arena.

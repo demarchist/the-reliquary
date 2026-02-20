@@ -1,8 +1,41 @@
 ---
-title: "The Underdark - Gracksuluth on Edge"
+title: The Underdark - Gracksuluth on Edge
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 26
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "demogorgon"
+  - "doc"
+  - "droki"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "orcus"
+  - "ront"
+  - "shar"
+  - "snorbul"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "menzoberranzan"
+  - "sanctum-of-krasus"
+  - "selunia"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "tavern-of-doors"
+factions:
+  - "bregan-daerthe"
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "stoneguard"
 ---
 
 The group stands around in the Market, blood everywhere as the mangled Derro remains continue to seep.

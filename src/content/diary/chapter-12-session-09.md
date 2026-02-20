@@ -1,8 +1,34 @@
 ---
-title: "Al Askar - The Temple of Karthus"
+title: Al Askar - The Temple of Karthus
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 9
+people:
+  - "chani"
+  - "cirrus-al-kayan"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "orcus"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "zhengyi"
+places:
+  - "barovia"
+  - "ethereal-plane"
+  - "faerun"
+  - "feywild"
+  - "serinde-isle"
+  - "shadowfell"
+things:
+  - "bag-of-holding"
+factions:
+  - "cult-of-zalaam"
+events:
+  - "the-calamity"
 ---
 
 Cirrus enters a dark, ominous chamber.

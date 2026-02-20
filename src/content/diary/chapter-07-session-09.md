@@ -1,8 +1,26 @@
 ---
-title: "The Sanctum - Session 9"
+title: The Sanctum - Session 9
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 9
+people:
+  - "aliyah-faen-tlabbar"
+  - "captain-dink"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "mediocris-dente"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "baldurs-gate"
+things:
+  - "eclipse"
+  - "gwen"
+factions:
+  - "drow-faction"
 ---
 
 **Strange Tastes & Intrigue**

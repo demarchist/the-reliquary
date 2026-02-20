@@ -1,8 +1,22 @@
 ---
-title: "The Bog - Session 11"
+title: The Bog - Session 11
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "bahamut"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "kangaxx"
+  - "selune"
+  - "tarkathee-daru"
+  - "ysera"
+places:
+  - "ethereal-plane"
+things:
+  - "tavern-of-doors"
 ---
 
 Patches looks down onto the city and witnesses the mist begin to flow into the Docks.  As this is happening Gundren and Tark rush out from the ToD and onto the street and begin asking questions about how they got there and what had happened while they were asleep.  The group fills in the newcomers just as the sounds of battle erupt from down by the docks. Above, patches sees the water boil and writhe as an undead horde erupts from the water and flows into the nearby city, meeting staunch defenders in brutal combat.  Everything and anything that had ever died along the seafloor seems to be marching on the defenders of the city.

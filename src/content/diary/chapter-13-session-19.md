@@ -1,8 +1,26 @@
 ---
-title: "The Voyage Home - Journey to the Center of Gaia"
+title: The Voyage Home - Journey to the Center of Gaia
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 19
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "fawden"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "al-askar"
+  - "barovia"
+  - "faerun"
+  - "iyum"
+things:
+  - "bag-of-holding"
 ---
 
 The group finds themselves on a small plateau high up on a pillar overlooking the Disphotic Forest of Al Askar - an inner world existing beneath the crust of the planet, lit by untold millions of glowing sourcestones

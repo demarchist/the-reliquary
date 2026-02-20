@@ -1,8 +1,37 @@
 ---
-title: "The Underdark - Session 2"
+title: The Underdark - Session 2
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "finn"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lord-neverember"
+  - "pickles"
+  - "shaahir"
+  - "shar"
+  - "sharess"
+  - "tarkathee-daru"
+places:
+  - "athkatla"
+  - "keep-of-thunder-bluff"
+  - "moondancer-village"
+  - "neverwinter"
+  - "the-moonwood"
+  - "thunder-bluff"
+  - "underdark"
+things:
+  - "thundercannon"
+factions:
+  - "drow-faction"
+  - "netherese"
 ---
 
 **Neverwinter**

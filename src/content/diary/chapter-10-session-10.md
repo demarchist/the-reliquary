@@ -1,8 +1,35 @@
 ---
-title: "Beyond the Veil - The Gallery of Angels"
+title: Beyond the Veil - The Gallery of Angels
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 10
+people:
+  - "aliyah-faen-tlabbar"
+  - "baphomet"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gaddock"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "kenshi"
+  - "orcus"
+  - "ront"
+  - "shar"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "yeenoghu"
+  - "zhengyi"
+places:
+  - "blingdenstone"
+  - "ethereal-plane"
+  - "menzoberranzan"
+  - "sundabar"
+  - "underdark"
+things:
+  - "eclipse"
+factions:
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 The group finds themselves descending an ancient stone tunnel, mostly natural but peppered with bricks or supporting archways.

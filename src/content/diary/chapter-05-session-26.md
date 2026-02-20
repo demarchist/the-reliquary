@@ -1,8 +1,42 @@
 ---
-title: "Barovia - Session 26"
+title: Barovia - Session 26
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 26
+people:
+  - "aliyah-faen-tlabbar"
+  - "anaxtrasa"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "ezmerelda"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "moot"
+  - "mordenkainen"
+  - "pickles"
+  - "rahadin"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+places:
+  - "anauroch"
+  - "barovia"
+  - "castle-ravenloft"
+  - "oerth"
+  - "phandalin"
+  - "snorbuls-hole"
+  - "sundabar"
+  - "the-bog"
+  - "waterdeep"
+things:
+  - "bag-of-holding"
+  - "piwafwi"
+  - "tavern-of-doors"
+factions:
+  - "drow-faction"
 ---
 
 The Group splits up in exhaustion, some heading into the box, others taking to the upper castle and yet others remaining in the main hall.  Tark sits with the corpse of the grand Silver Dragon and places a hand upon Rahadin's head, praying and meditating that the majestic creature find peace in the afterlife.  Fey turns from the somber scene and begins making his way upstairs, across cracked stone and floating sections of castle back to Strahds study.  Leaning heavily on his staff, Fey makes it back to the library, the fireplace now reduced to cold ash.  Fey stares at the hearth, willing his exhausted mind to function and recalls that there's a secret passage behind it.  He takes a few minutes to study the area but in his current state, spots nothing and turns to head out of the Library and into Strahds bedroom.  There, he throws the grand windows open wide to let in as much sunlight as possible, takes off his Alhoon mask and then flops onto the ancient, but well kept four poster bed.  For the first time in a long time, and very much unlike an elf, he sleeps.

@@ -1,8 +1,50 @@
 ---
-title: "The Demon Lords - (5yr Anniversary) - Into the Dark"
+title: The Demon Lords - (5yr Anniversary) - Into the Dark
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "beryan"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "lady-faye"
+  - "lemerlais"
+  - "lolth"
+  - "madame-eva"
+  - "moradin"
+  - "orcus"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "thorna"
+  - "topsy-and-turvy"
+places:
+  - "amn"
+  - "blingdenstone"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "gravenhollow"
+  - "selunia"
+  - "silverymoon"
+  - "sundabar"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "tavern-of-doors"
+  - "well-of-many-worlds"
+factions:
+  - "bedine"
+  - "drow-faction"
+  - "faerun-defense-force"
+  - "netherese"
+  - "svirfneblin-faction"
 ---
 
 The sun grows low on the horizon and reflects beautifully across Lake Selunia

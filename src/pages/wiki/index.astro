@@ -3,13 +3,42 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import WikiCard from '../../components/WikiCard.astro';
 import { getCollection } from 'astro:content';
 
-const allEntries = await getCollection('wiki');
+const allWiki = await getCollection('wiki');
+const allDiary = await getCollection('diary');
 
 const categories = ['People', 'Places', 'Things', 'Factions', 'Events'] as const;
+const categoryToKey: Record<string, string> = {
+  People: 'people',
+  Places: 'places',
+  Things: 'things',
+  Factions: 'factions',
+  Events: 'events',
+};
 
-const grouped = new Map<string, typeof allEntries>();
+// Compute appearance counts for each wiki entry
+const appearanceCounts = new Map<string, number>();
+for (const wiki of allWiki) {
+  const fmKey = categoryToKey[wiki.data.category];
+  let count = 0;
+  for (const diary of allDiary) {
+    const arr = diary.data[fmKey as keyof typeof diary.data] as string[] | undefined;
+    if (arr?.includes(wiki.id)) count++;
+  }
+  appearanceCounts.set(wiki.id, count);
+}
+
+// Key entities: top 20 by appearance count
+const sortedByAppearances = [...allWiki].sort((a, b) => (appearanceCounts.get(b.id) || 0) - (appearanceCounts.get(a.id) || 0));
+const keyEntities = sortedByAppearances.filter(e => (appearanceCounts.get(e.id) || 0) > 0).slice(0, 20);
+const keyEntityIds = new Set(keyEntities.map(e => e.id));
+
+// Group remaining entries by category, sorted by appearance count descending
+const grouped = new Map<string, typeof allWiki>();
 for (const cat of categories) {
-  grouped.set(cat, allEntries.filter(e => e.data.category === cat).sort((a, b) => a.data.title.localeCompare(b.data.title)));
+  grouped.set(cat, allWiki
+    .filter(e => e.data.category === cat && !keyEntityIds.has(e.id))
+    .sort((a, b) => (appearanceCounts.get(b.id) || 0) - (appearanceCounts.get(a.id) || 0))
+  );
 }
 ---
 
@@ -17,12 +46,31 @@ for (const cat of categories) {
   <h1 class="font-serif text-3xl font-bold text-ink-900 mb-2">Wiki</h1>
   <p class="text-ink-400 mb-8">People, places, factions, items, and events of <em>The Rise of Atropos</em>.</p>
 
-  {allEntries.length === 0 ? (
+  {allWiki.length === 0 ? (
     <div class="text-center py-12 text-ink-400">
-      <p>No wiki entries yet. Entity extraction will be performed in a future phase.</p>
+      <p>No wiki entries yet.</p>
     </div>
   ) : (
     <div class="space-y-10">
+      {/* Key Entities Featured Section */}
+      {keyEntities.length > 0 && (
+        <section>
+          <h2 class="font-serif text-xl font-semibold text-ink-800 mb-4">Key Entities</h2>
+          <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {keyEntities.map(entry => (
+              <WikiCard
+                title={entry.data.title}
+                category={entry.data.category}
+                description={entry.data.description}
+                slug={entry.id}
+                appearanceCount={appearanceCounts.get(entry.id) || 0}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Category Sections */}
       {categories.map(category => {
         const entries = grouped.get(category) || [];
         if (entries.length === 0) return null;
@@ -36,6 +84,7 @@ for (const cat of categories) {
                   category={entry.data.category}
                   description={entry.data.description}
                   slug={entry.id}
+                  appearanceCount={appearanceCounts.get(entry.id) || 0}
                 />
               ))}
             </div>

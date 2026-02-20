@@ -1,8 +1,43 @@
 ---
-title: "A Chair Too Far"
+title: A Chair Too Far
 chapter: 14
-chapterTitle: ""
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "bahamut"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lo-dan"
+  - "orcus"
+  - "pickles"
+  - "selune"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "topsy-and-turvy"
+  - "vaketh"
+  - "vecna"
+  - "zhengyi"
+places:
+  - "anauroch"
+  - "castle-ravenloft"
+  - "damara"
+  - "faerun"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "the-establishment"
+  - "vaasa"
+things:
+  - "arkto"
+  - "delzoun-instant-fortress"
+factions:
+  - "drow-faction"
+  - "house-faen-tlabbar"
+  - "netherese"
+  - "svirfneblin-faction"
 ---
 
 The day prior:  Cirrus addresses the adoring masses, healing the sick and making his presence known before heading to his Fane (kissing babies and whatnot)

@@ -1,8 +1,38 @@
 ---
-title: "Barovia - Session 17"
+title: Barovia - Session 17
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 17
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "baba-lysaga"
+  - "cirrus-al-kayan"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "lathander"
+  - "mordenkainen"
+  - "rahadin"
+  - "ront"
+  - "sergei"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "van-richten"
+places:
+  - "amber-temple"
+  - "barovia"
+  - "castle-ravenloft"
+  - "feanons-tower"
+  - "krezk"
+  - "oerth"
+things:
+  - "bag-of-holding"
+  - "luck-blade"
+  - "the-last-word"
+  - "tome-of-strahd"
+factions:
+  - "keepers-of-the-feather"
 ---
 
 Peytr and his entourage have left and the group breathes easier as they hear the patrol leave and ascend the stairs.  Everyone relaxes for a moment and finishes up their short rest, steeling themselves against the horrors they know are in the rest of the castle and consulting the map for they best way down to the catacombs.  Buumi examines his irreparably damaged armor and sighs, shaking his head before re-donning the breastplate and Patches ties the headband of intellect around her head.  Patches' mind immediately expands, new possibilities and avenues of thought opening up to her. 

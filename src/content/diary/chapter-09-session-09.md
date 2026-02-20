@@ -1,8 +1,29 @@
 ---
-title: "The Demon Lords - Negotiations"
+title: The Demon Lords - Negotiations
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 9
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "ront"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "thorna"
+places:
+  - "abyss"
+  - "feanons-tower"
+things:
+  - "arkto"
+  - "eclipse"
+  - "thundercannon"
 ---
 
 Engulfed in mucus and restrained by the Aboleth’s minions, Feanon is held fast as the monster reaches forth with catfish like tendrils.

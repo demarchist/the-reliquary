@@ -1,8 +1,35 @@
 ---
-title: "The Demon Lords - Examinations"
+title: The Demon Lords - Examinations
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 10
+people:
+  - "aliyah-faen-tlabbar"
+  - "auril"
+  - "beryan"
+  - "cirrus-al-kayan"
+  - "dean-sejuk"
+  - "gundren-rockseeker"
+  - "lady-faye"
+  - "lemerlais"
+  - "mordenkainen"
+  - "tarkathee-daru"
+  - "thorna"
+places:
+  - "abyss"
+  - "amn"
+  - "daggerford"
+  - "evermeet"
+  - "feanons-tower"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+  - "silverymoon"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "chardalyn"
+factions:
+  - "zhentarim"
 ---
 
 The group splits up, though most remain behind at Feanons tower in case of further attacks from the Sovereignty.

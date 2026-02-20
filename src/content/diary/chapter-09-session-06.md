@@ -1,8 +1,35 @@
 ---
-title: "The Demon Lords - Quil’Sygoth"
+title: The Demon Lords - Quil’Sygoth
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "lolth"
+  - "madame-eva"
+  - "ront"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "veygar"
+places:
+  - "abyss"
+  - "snorbuls-hole"
+things:
+  - "chardalyn"
+  - "gwen"
+  - "tavern-of-doors"
+  - "thundercannon"
+  - "well-of-many-worlds"
+factions:
+  - "bedine"
+  - "drow-faction"
+  - "duergar-faction"
+  - "illithid-faction"
 ---
 
 The Wormlike beast slithers forward, assaulting the nearby Duergar.

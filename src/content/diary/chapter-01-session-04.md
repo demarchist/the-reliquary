@@ -1,8 +1,37 @@
 ---
-title: "Phandalin - Session 4"
+title: Phandalin - Session 4
 chapter: 1
-chapterTitle: "Phandalin"
+chapterTitle: Phandalin
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lolth"
+  - "lothli"
+  - "moot"
+  - "orcus"
+  - "pickles"
+  - "ront"
+  - "tarkathee-daru"
+  - "ysera"
+places:
+  - "astral-plane"
+  - "barovia"
+  - "ivy-mansion"
+  - "longsaddle"
+  - "neverwinter"
+  - "shadowfell"
+  - "wave-echo-cave"
+things:
+  - "piwafwi"
+  - "tavern-of-doors"
+  - "thundercannon"
+factions:
+  - "drow-faction"
+  - "harpell-family"
+  - "svirfneblin-faction"
 ---
 
 Gundren Rockseeker wakes in ToD surrounded by pillows and next to an unconscious and scarred halfling.

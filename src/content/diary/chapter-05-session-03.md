@@ -1,8 +1,28 @@
 ---
-title: "Barovia - Session 3"
+title: Barovia - Session 3
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "donavich"
+  - "ella"
+  - "gowain"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "madame-eva"
+  - "mordenkainen"
+  - "pickles"
+  - "ront"
+  - "sergei"
+  - "strahd-von-zarovich"
+places:
+  - "the-crossroads"
+  - "tser-pool"
+  - "vallaki"
+factions:
+  - "vistani"
 ---
 
 The group entered the graveyard through a small side gate.  They chase off some Ghouls, feasting on a newly interred body and lay the coffin of the Burgomaster in the new grave, dug for him by magic.   A few moments later, summoned by another Unseen Servant and Mr. Pickles, the priest, Donavich exits the church.  He finds out from the group what transpired and agrees to bury the Burgomaster.  After a brief ceremony, the body is interred.  Just then, a scream is heard from within the Church and Donavich gets nervous.  As he tries to sneak back inside, the group catches him and forces him to tell them about his Vampire Spawn son he has locked in the basement.   Not wanting to get involved with the large group of formidable adventurers, Ireena stays outside the church with the Squire Chekhov.

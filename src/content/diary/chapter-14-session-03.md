@@ -1,8 +1,26 @@
 ---
-title: "The Wyvern Graveyard"
+title: The Wyvern Graveyard
 chapter: 14
-chapterTitle: ""
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "tarkathee-daru"
+places:
+  - "anauroch"
+  - "ethereal-plane"
+  - "shadowfell"
+  - "the-chasm"
+things:
+  - "arkto"
+  - "tavern-of-doors"
+  - "thundercannon"
+factions:
+  - "netherese"
 ---
 
 The group treks through the wasteland, making great time toward the ever looming High Plateau of the Northern Anauroch Desert

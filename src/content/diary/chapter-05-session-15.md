@@ -1,8 +1,37 @@
 ---
-title: "Barovia - Session 15"
+title: Barovia - Session 15
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 15
+people:
+  - "aliyah-faen-tlabbar"
+  - "boris"
+  - "cirrus-al-kayan"
+  - "ella"
+  - "gowain"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "mordenkainen"
+  - "rahadin"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "wachter"
+  - "ysera"
+places:
+  - "amber-temple"
+  - "barovia"
+  - "krezk"
+  - "snorbuls-hole"
+  - "the-moonwood"
+  - "vallaki"
+things:
+  - "gwen"
+  - "the-reaver"
+factions:
+  - "drow-faction"
 ---
 
   Many people are scattered through the room, some seated, others mingling freely.  Many of the people are clearly vampires, including the adventuring group they fought in Vallaki, with Gowain.  The rest end up being Ludmilla, a vampire noblewoman with dark skin and hair, in a beautiful white gown and gold crown.  Anastrasya, a vampire noblewoman in a red silk gown and headscarf with rich caramel skin and gold eyes. Volenta, a tiny vampire noblewoman in a shimmering gold dress, she has milk white skin and red eyes that flash through a platinum skull mask.  Escher, a fop of a vampire nobleman with gaunt features and golden hair, canoodling with a sixteen year old human girl in a black and silver gown; named Gertruda. The vampire group is all there save for Balthazar who was killed by Patches, Beerna catches the eye of Buumi and Kenga looks to want to talk to Gundren and Tark.  Lelrin hangs around on the edges of the gathering and Growland looks on, brooding against a pillar.  As well as vampires, there are several humans in attendance (including Gertruda): Boris the guard, Lady Wachter of Vallaki, Ireena and a man no one recognizes, who is Ludwig from Krezk.  

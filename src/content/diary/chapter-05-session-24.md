@@ -1,8 +1,40 @@
 ---
-title: "Barovia - Session 24"
+title: Barovia - Session 24
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 24
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "ezmerelda"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "mordenkainen"
+  - "rahadin"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+  - "wachter"
+places:
+  - "barovia"
+  - "ethereal-plane"
+  - "feanons-tower"
+  - "snorbuls-hole"
+  - "vallaki"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "jade-frog"
+  - "the-reaver"
+factions:
+  - "vistani"
 ---
 
 Rahadin faces off against the group, revealed in all his glory as a nimbus of dark energy wafts from the Silver Dragon.  The castles vibrating and trembling increases, dust dropping from overhead as cracks begin to spiderweb throughout.  Mordenkainen ducks through the destroyed doors leading to the Chapel Hall and immediately puts his back to the wall, using an ornate suit of ceremonial armor as cover.  Looking down the hall, he spies another set of copper doors much like the first, except this set is already hot with energy.  Knowing he has backup just behind him, Mordenkainen draws both hands back to his hip while taking a wide stance, gathering his focus.  Thrusting both hands forwards, a cascade of scarlet lightning slams into the doors in a shower of sparks, the Witchbolt assaulting the door.   The castle shakes under the assault and chunks of rock drops from the already weakening ceiling and one of the ceremonial armor suits collapses on it's plinth.  Patches slinks toward the Chapel Hall, darting inside and to the right, using a suit of armor as cover.  As she enters the hall, her eyes scan the shadows and likely spots for ambush and her keen sight picks out the form of three vampires waiting on the ceiling, using archways as cover.  Looking at the would-be attackers, Patches recognizes them from the dinner with Strahd a few nights before.  They are two of his Ex-wives, the one in red (Anastrasya) and the one in white (Ludmilla), as well as the teenage girl that had been present from Barovia Village (Gertruda).  Seeing Mordenkainen in a delicate position, Patches pulls two of her remaining grenades from her belt and rolls them down the hall, ruining the ambush with her devastating gadgets.  The grenades detonate in a flash, filling the end of the hall with glowing light and spraying the area with holy water...  

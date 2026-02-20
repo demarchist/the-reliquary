@@ -1,8 +1,40 @@
 ---
-title: "Barovia - Session 22"
+title: Barovia - Session 22
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 22
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "ezmerelda"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "mordenkainen"
+  - "pickles"
+  - "rahadin"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+places:
+  - "barovia"
+  - "castle-ravenloft"
+  - "krezk"
+  - "sanctum-of-krasus"
+  - "snorbuls-hole"
+  - "the-chasm"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "the-last-word"
+  - "thundercannon"
+factions:
+  - "drow-faction"
 ---
 
 With a plan in mind, the group looks over their map to try and figure out the closest teleportation circle.  After spending a few minutes scouring the map, the group comes to the conclusion that there isn't one.  Mordenkainen offers to have Stick take them and the group agrees but spends a few minutes gathering supplies, looking at notes on Silver Dragons and organizing packs - knowing they are heading into the lion's den.  JmJm stands up from the corner he was sitting in, the now putrefying corpse of Stephen at his feet, and says that he wants in on the final battle...that he needs to avenge his friend.  Buumi also points out that he can't be climbing the pillarstone of Ravenloft with one arm and decides to stay with Mordenkainen while the group infiltrates.  The party splits into to teams; Mordenkainen, Stick, JmJm, Buumi, Ireena, Ezmerelda, Waldo (the guardsman from Krezk) and the non-combatants will teleport into the castle once the main party has gotten inside the castle; using the sending stone from Morden as a homing beacon for the spell.  Looking around the Sanctum of Argynvost for presumably the last time, the party exchanges worried glances.  The main infiltration group heads over to the wereravens in the teleport circle; Stick at it's center.  Mordenkainen wishes them luck and with a flash of white light Patches, Cirrus, Fey, Tark, Gundren, Gwen and the six wereravens find themselves in a misty field outside Barovia Village.  Stick wishes the group luck, especially to Patches; who shoots the magical artifact's flirting attempts down instantly.  With a sigh, Stick returns to Mordenkainen with a teleport spell, leaving the infiltration party alone in the cool misty night.

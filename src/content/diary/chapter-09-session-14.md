@@ -1,8 +1,31 @@
 ---
-title: "The Demon Lords - Blingdenstone pt.2"
+title: The Demon Lords - Blingdenstone pt.2
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 14
+people:
+  - "aliyah-faen-tlabbar"
+  - "bane"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "moot"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "blingdenstone"
+  - "ethereal-plane"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "eclipse"
+  - "gwen"
+factions:
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 The group heads into the downstairs rooms at the Foaming Mug Tavern in Blingdenstone.

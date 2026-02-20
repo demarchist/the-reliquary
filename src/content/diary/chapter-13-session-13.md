@@ -1,8 +1,21 @@
 ---
 title: "The Voyage Home - & 14: The Machina Factory"
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 13
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ront"
+  - "tarkathee-daru"
+places:
+  - "machina-factory"
+  - "shadowfell"
+things:
+  - "gwen"
+  - "saurian-firelance"
 ---
 
 The group slays the Alghoul, though with great effort.

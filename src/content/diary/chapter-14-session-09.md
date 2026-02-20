@@ -1,8 +1,40 @@
 ---
-title: "Assault on the Barony"
+title: Assault on the Barony
 chapter: 14
-chapterTitle: ""
 session: 9
+people:
+  - "aliyah-faen-tlabbar"
+  - "ancalagon"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "doc"
+  - "ezmerelda"
+  - "gneiss"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "pickles"
+  - "ront"
+  - "ruthir"
+  - "tarkathee-daru"
+  - "topsy-and-turvy"
+  - "vaketh"
+  - "zhengyi"
+places:
+  - "baldurs-gate"
+  - "blingdenstone"
+  - "faerun"
+  - "fane-of-selune"
+  - "keep-of-thunder-bluff"
+  - "luskan"
+  - "selunia"
+  - "silverymoon"
+  - "snorbuls-hole"
+  - "the-establishment"
+factions:
+  - "faerun-defense-force"
+  - "svirfneblin-faction"
+  - "zhentarim"
 ---
 
 Tark awakens in his Tree Fort, in the predawn light to the sounds of shouting and screaming

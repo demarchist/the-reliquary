@@ -1,8 +1,45 @@
 ---
-title: "Barovia - Session 14"
+title: Barovia - Session 14
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 14
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "atropos"
+  - "bahamut"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "kangaxx"
+  - "mordenkainen"
+  - "orcus"
+  - "rahadin"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "van-richten"
+places:
+  - "amber-temple"
+  - "baldurs-gate"
+  - "barovia"
+  - "castle-ravenloft"
+  - "feanons-tower"
+  - "keep-of-thunder-bluff"
+  - "oerth"
+  - "sanctum-of-krasus"
+  - "underdark"
+  - "vallaki"
+things:
+  - "artifact-shard"
+  - "bag-of-holding"
+  - "gwen"
+  - "tome-of-strahd"
+factions:
+  - "drow-faction"
 ---
 
 The group is breathing heavily on the slopes of Mt. Baratok, injured and tired from the battle with the simian beast - The Genoskwa.  Taking a moment to ensure that no further combat is incoming, the group looks out into the misty night air of the forest, a chill rain misting the mountainside.  Ensuring that they are safe for the moment, Buumi and Cirrus rush around healing to prevent any serious injuries.  The group discusses whether to rest up, or push on to find Mordenkainen - who Stick assures is close.  The group decides to push on, up the mountain.  After another hour of hiking up the steep alpine slopes, the tall pines give way to rocky alpine "meadows" (more moss than grass), the snow line only a few hundred meters further up blanketed in thick roiling clouds.  The rain at this point is more snow than water and the cold wind howls across the open slope.  Fey asks Stick how much farther, getting a rather inaccurate response of "not far now!" but being assured that Mordekainen is farther up, in the snow.  Approaching the wall of clouds, snow whipping into their faces, the group realizes that they are nearing the border of the valley of Barovia and that the storm here is ever-present.  The group reluctantly sets off, into the storm - Patches complaining that she's fed up with Barovia - with affirmatives echoing throughout the group.

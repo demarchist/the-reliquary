@@ -4,6 +4,7 @@ category: "Factions"
 aliases: ["Redbrands"]
 firstAppearance: "chapter-01-session-01"
 description: "A bandit gang formed by Iarno/Glasstaff to fleece Phandalin, operating from tunnels beneath Tresendar Manor."
+status: "Disbanded"
 ---
 
 The Redbrand Ruffians are a bandit gang formed by Iarno (also known as Glasstaff) to fleece the frontier town of Phandalin. They operate out of tunnels beneath Tresendar Manor and are supported by bugbears sent by the Black Spider.

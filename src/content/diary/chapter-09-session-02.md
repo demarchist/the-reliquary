@@ -1,8 +1,49 @@
 ---
-title: "The Demon Lords - Thorna"
+title: The Demon Lords - Thorna
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "auril"
+  - "aurinax"
+  - "beryan"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "orcus"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "thorna"
+places:
+  - "abyss"
+  - "amn"
+  - "blingdenstone"
+  - "daggerford"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "gauntlgrym"
+  - "gravenhollow"
+  - "menzoberranzan"
+  - "moondancer-village"
+  - "silverymoon"
+  - "sundabar"
+  - "the-crossroads"
+things:
+  - "eclipse"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "netherese"
+  - "svirfneblin-faction"
 ---
 
 Patches looks upon her son's face for the first time in many years.

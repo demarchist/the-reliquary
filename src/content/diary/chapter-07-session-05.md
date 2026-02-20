@@ -1,8 +1,31 @@
 ---
-title: "The Sanctum - Session 5"
+title: The Sanctum - Session 5
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 5
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "megno-slatesunder"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "astral-plane"
+  - "ethereal-plane"
+  - "sanctum-of-krasus"
+things:
+  - "gwen"
+  - "mythallar"
+  - "tavern-of-doors"
+  - "thundercannon"
+factions:
+  - "netherese"
 ---
 
 **The Allip Promethi**

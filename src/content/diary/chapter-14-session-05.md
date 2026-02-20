@@ -1,8 +1,32 @@
 ---
-title: "Dokkar"
+title: Dokkar
 chapter: 14
-chapterTitle: ""
 session: 5
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ront"
+  - "shar"
+  - "tarkathee-daru"
+  - "zhengyi"
+places:
+  - "amn"
+  - "astral-plane"
+  - "dokkar"
+  - "faerun"
+  - "shadowfell"
+  - "svartalfheim"
+  - "the-establishment"
+things:
+  - "deck-of-illusions"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "illithid-faction"
+  - "svirfneblin-faction"
 ---
 
 The party looks around and spots a promising looking Inn named “Her Gift”

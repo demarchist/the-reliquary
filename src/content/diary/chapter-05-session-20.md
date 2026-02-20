@@ -1,8 +1,41 @@
 ---
-title: "Barovia - Session 20"
+title: Barovia - Session 20
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 20
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "atropos"
+  - "baba-lysaga"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "gowain"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "moradin"
+  - "mordenkainen"
+  - "rahadin"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "amber-temple"
+  - "astral-plane"
+  - "barovia"
+  - "castle-ravenloft"
+  - "ethereal-plane"
+  - "feanons-tower"
+  - "krezk"
+  - "old-bonegrinder"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "thundercannon"
+factions:
+  - "drow-faction"
 ---
 
 Grey-black ash drifts down from the dark sky, laying thick about the abbey and town of Krezk.  Patches slumps back against the well in the courtyard, blood oozing from several wounds as she catches her breath and rubs are her stinging eyes, averting her gaze from a battered Tark and the Ashbringer sword.  Fey and Cirrus both look at one another, sharing a telepathic message and begin to sort the aftermath of the battle.  Cirrus walks to Patches and Tark and begins to assist them in bandaging and healing while Fey begins to flip through his spellbook to his teleportation circle.  The mists swirl in a corner, and from the veiling fog steps Gundren and his mechanical pet.  Their confusion lasts only a second as the magic of Barovia fills in the gaps of peoples memory, making the sudden appearance fade quickly from their minds.   Seeing Peytr's mighty Obsidian axe, gundren moves in to investigate it and gets out his equipment to determine the nature of the artifact.  A few moments later, Gundren snaps his book closed with a sigh and dons a pair of heavy leather welding gloves, picking up the heavily cursed ax.  Trying to decide what to do with it, the group decides to use Cirrus' bag of devouring and simply toss the artifact into the bag, casting it adrift in the astral plane.

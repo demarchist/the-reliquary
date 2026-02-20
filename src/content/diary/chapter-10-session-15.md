@@ -1,8 +1,27 @@
 ---
-title: "Beyond the Veil - Slave Break"
+title: Beyond the Veil - Slave Break
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 15
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "finn"
+  - "gromph-baenre"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "kimmuriel"
+  - "lolth"
+  - "tarkathee-daru"
+places:
+  - "menzoberranzan"
+  - "snorbuls-hole"
+  - "underdark"
+things:
+  - "tavern-of-doors"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
 ---
 
 The group plans their assault on the Slave Pens.

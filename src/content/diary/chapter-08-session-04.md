@@ -1,8 +1,28 @@
 ---
-title: "The Underdark - Session 4"
+title: The Underdark - Session 4
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+places:
+  - "keep-of-thunder-bluff"
+  - "shadowfell"
+  - "silverymoon"
+  - "the-labyrinth"
+  - "underdark"
+things:
+  - "thundercannon"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
 ---
 
 **Awaking in the Dark and the Deepening Gloom**

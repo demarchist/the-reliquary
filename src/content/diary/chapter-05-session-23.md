@@ -1,8 +1,43 @@
 ---
-title: "Barovia - Session 23"
+title: Barovia - Session 23
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 23
+people:
+  - "aliyah-faen-tlabbar"
+  - "baba-lysaga"
+  - "bahamut"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "ezmerelda"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "madame-eva"
+  - "mordenkainen"
+  - "rahadin"
+  - "ront"
+  - "sergei"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+  - "wachter"
+places:
+  - "barovia"
+  - "castle-ravenloft"
+  - "oerth"
+  - "vallaki"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "the-last-word"
+  - "thundercannon"
+factions:
+  - "drow-faction"
+  - "vistani"
 ---
 
 Rahadin immediately dukes to his left, beginning a run perpendicular to the group as the heroes and their allies charge down the steps in the grand hall of Ravenloft castle.   The massive structure begins to vibrate and dust falls as it's felt through the soles of everyone's feet.  The massive teleport spell nears it's execution, the entire castle is about to leave Barovia, torn free from the demiplane by the power of The Last Word.  Mordenkainen surveys the situation and slams Stick down onto a step as he descends with the party, azure light cascading from the diamond cap atop the archmages' staff.  The light focuses on Tark and the monk finds his vision begin to flicker, showing echoes of the near future, granting him foresight.  Seeing the future, Tark looks to Patches and sees the drow crouched behind a piece of furniture, hiding from the Red Dragon as it steps from it's plinth.  The echoes of the future show Patches turning to beckon Tark over, calling to bring Ireena and the journals of Strahd and Sergei.  As Patches begins to call out in the present, Tark is already moving, pulling Ireena along and grabbing the books from Fey's pack as he passes.  Tark arrives at Patches just as she finishes her call to him and she cuts herself off, looking at Tark with surprise as he presents the books to the rogue.  Patches tells Tark and those nearby, that Ireena should hop into Tark's bag of holding while she quaffs an invisibility potion and heads to Strahd, using Ireena and the evidence to turn him against Rahadin.  The group quickly agrees and Tark hands the bag to Patches.  Ireena takes a deep breath before hopping into the extra-dimensional bag.  Patches pops the cork off of a vial and drinks the liquid inside, disappearing instantly and sprinting off across the hall to the grand copper doors leading to Strahd and the chapel. Behind Tark and Patches, Gundren steps forwards on the grand stairs and pulls a special shell from his satchel, loading it into his Thundercannon and takes aim at the Young Red Dragon.   The dragon sees Gundren lining up a shot and dodges it's serpentine neck to the side, but just as it does so Gundren adjusts and squeezes the trigger, hitting the dragon squarely in the eye.  The dragon staggers into the nearby wall, molten lava dribbling from it's snout as it tries to recover from the very lucky dazing shot. 

@@ -1,8 +1,34 @@
 ---
-title: "The Underdark - Leaving the Stone Giants"
+title: The Underdark - Leaving the Stone Giants
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 25
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "demogorgon"
+  - "doc"
+  - "droki"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "orcus"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "gracksuluth"
+  - "gravenhollow"
+  - "thunder-bluff"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "thundercannon"
+factions:
+  - "derro-faction"
+  - "duergar-faction"
+  - "stoneguard"
 ---
 
 Gundren wraps up working on Gwen, reactivating the magnificent lion after Gil has left (much to the disappointment of the young Duergar).

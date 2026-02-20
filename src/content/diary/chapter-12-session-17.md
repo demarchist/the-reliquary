@@ -1,8 +1,25 @@
 ---
-title: "Al Askar - The Storm Aftermath"
+title: Al Askar - The Storm Aftermath
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 17
+people:
+  - "cirrus-al-kayan"
+  - "djoser"
+  - "doc"
+  - "hasrala"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "shar"
+places:
+  - "faerun"
+  - "mt-saqar"
+  - "shadowfell"
+  - "sharza"
+things:
+  - "the-last-word"
+factions:
+  - "saurians"
 ---
 
 Doc and JmJm are alive and back in the hands of the group!

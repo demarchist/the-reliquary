@@ -1,8 +1,27 @@
 ---
-title: "The Sanctum - Session 4"
+title: The Sanctum - Session 4
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "megno-slatesunder"
+  - "ront"
+  - "tarkathee-daru"
+places:
+  - "astral-plane"
+  - "sanctum-of-krasus"
+  - "snorbuls-hole"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "tavern-of-doors"
+factions:
+  - "netherese"
 ---
 
 **Deeper into the Sanctum**

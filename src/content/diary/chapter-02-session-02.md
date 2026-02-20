@@ -1,8 +1,18 @@
 ---
-title: "Neverwinter - Session 2"
+title: Neverwinter - Session 2
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "ront"
+  - "sha-alazzi"
+places:
+  - "feanons-tower"
 ---
 
 The group looks around startled and no longer in Sha'Alazzi's tent.  Instead, they find themselves in what appears to be the bottom floor of a tower.  The room is Octagonal and while serving as the entry to the tower, also appears to be a library of sorts, with bookshelves and reading desks arranged throughout the space.  Ahead of the group is a large staircase leading up a level, but in front of it loom two horned creatures.  Seven feet tall, with pointed horns, elongated heads and flickering tongues, the two Devils heave their greatswords to the ready with supernatural ease.

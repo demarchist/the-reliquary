@@ -1,8 +1,35 @@
 ---
-title: "Neverwinter - Session 10"
+title: Neverwinter - Session 10
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 10
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "kangaxx"
+  - "lodan"
+  - "lolth"
+  - "lothli"
+  - "myria-brightlance"
+  - "orcus"
+  - "pickles"
+  - "shar"
+  - "tarkathee-daru"
+  - "ysera"
+places:
+  - "abyss"
+  - "barovia"
+  - "longsaddle"
+  - "the-crossroads"
+  - "underdark"
+things:
+  - "tavern-of-doors"
+  - "the-reaver"
+factions:
+  - "bregan-daerthe"
+  - "drow-faction"
+  - "harpell-family"
 ---
 
 Facing off against ten skeletons, the group quickly rallies into action.  Each arrow from Lothli downing a skeleton, each blow from Tark shattering ribs, Patches dropping behind and destroying skeletons efficiently and Buumi defending his comrades from attack.  During the fight however, an ancient Wight steps through the mists to engage the group but is quickly downed.  During the fighting, Myria takes a stab to the shoulder and she collapses against the wall with a skeleton looming over her about to finish her off.  Patches however disposes of the undead creature and advances on Myria.  Thinking the treachery of the Drow at hand, Myria sneers at Patches, remarking she should have expected treachery.  Patches however simply belittles her and tells her she is out of her league and should go home before stalking off into the tunnels.  Kangaxx through the whole event has fallen into blabbering madness and has to be carried by Buumi, who must also carry the wounded Myria.  Assaulted by another wave of madness, the group manages to shield their minds, Fey determines that the mist is the same spell they have come across out in the wilds - a necromantic mist.  Tark immediately downs the Necrotic resistance potion and feels his mind clear.  Free of the insanity of the mist, Tark takes point, mapping some tunnels and using Ysera to scout as best she can.  Finding many dead ends, but as many clear passages, the group comes to a larger cavern with torn up ground while others come across a room filled with a green slime.  Crossing the torn ground, an Umber Hulk bursts from the ground, attacking Tark, clipping him but dealing little damage.  The group quickly rushes to aid Tark, with Lothli pelting it with arrows and Patches dancing in for the ambush.  The arrows have little effect on it's thick carapace, but a deep wound from Patches cursed dagger and subsequent drawing on it's life force causes significant damage and it flies into a rage.  In it's flailing it opens up an opportunity for Lothli who downs it with an arrow in each of it's multifaceted bug eyes.  Checking down a short side tunnel, Patches finds the ancient mummified corpse of a Dwarven smith, his equipment long having turned to dust.  She does however find a magically preserved scroll tube and an ornate marble box with gold inlay, containing a fragrant ointment (Keoghtom's Ointment).

@@ -1,8 +1,25 @@
 ---
-title: "Baldur’s Gate - Session 8"
+title: Baldur’s Gate - Session 8
 chapter: 3
-chapterTitle: "Baldur’s Gate"
+chapterTitle: Baldur’s Gate
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lady-faye"
+  - "ront"
+  - "tarkathee-daru"
+  - "veygar"
+things:
+  - "tavern-of-doors"
+  - "thundercannon"
+factions:
+  - "duergar-faction"
+  - "illithid-faction"
 ---
 
 The door opened in front of the group and those out of the box readied themselves.  Just before the door fully opened, Gundren, Doc. B and JmJm all exited the box, recuperated and ready to find Patches and Lady Faye.

@@ -1,8 +1,31 @@
 ---
-title: "The Underdark - Ront Riot"
+title: The Underdark - Ront Riot
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 30
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "horatio-von-bumidere"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "gracksuluth"
+  - "helms-hold"
+  - "the-chasm"
+things:
+  - "gwen"
+  - "tavern-of-doors"
+factions:
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "stoneguard"
 ---
 
 In an alleyway in Gracksuluth, the group surveys the bridge across Ladueger's Furrow that their target will be crossing.

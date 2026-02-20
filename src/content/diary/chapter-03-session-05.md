@@ -1,8 +1,23 @@
 ---
-title: "Baldur’s Gate - Session 5"
+title: Baldur’s Gate - Session 5
 chapter: 3
-chapterTitle: "Baldur’s Gate"
+chapterTitle: Baldur’s Gate
 session: 5
+people:
+  - "doc"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lady-faye"
+  - "lothli"
+  - "ront"
+  - "tarkathee-daru"
+  - "zhink"
+places:
+  - "astral-plane"
+things:
+  - "tavern-of-doors"
+factions:
+  - "duergar-faction"
 ---
 
 The group awakes to find themselves imprisoned in some ancient looking cells.  Divided into pairs, as they came to consciousness each person began their own escape attempt.  After a few moments of this, Fey discovers that Zhink, lady Faye's retainer is imprisoned across the hall.  After each person managed to free themselves, they opened a door into the next room after Fey teleported to the other side to unlock it.

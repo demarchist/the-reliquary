@@ -1,8 +1,22 @@
 ---
-title: "The Voyage Home - Righting a Wrong"
+title: The Voyage Home - Righting a Wrong
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 5
+people:
+  - "aliyah-faen-tlabbar"
+  - "camea"
+  - "cirrus-al-kayan"
+  - "hohonu"
+  - "horatio-von-bumidere"
+  - "orcus"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "feywild"
+  - "snorbuls-hole"
+factions:
+  - "saurians"
 ---
 
 The group is faced by three massive winged serpents from this worlds Fae realms

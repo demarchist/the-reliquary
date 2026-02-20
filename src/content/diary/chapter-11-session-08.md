@@ -1,8 +1,27 @@
 ---
-title: "Shadows of the Empire - Thunderdome"
+title: Shadows of the Empire - Thunderdome
 chapter: 11
-chapterTitle: "Shadows of the Empire"
+chapterTitle: Shadows of the Empire
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "hazzim"
+  - "horatio-von-bumidere"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "al-askar"
+  - "faerun"
+  - "feanons-tower"
+things:
+  - "arkto"
+  - "delzoun-instant-fortress"
+  - "saurian-firelance"
+factions:
+  - "saurians"
 ---
 
 The group thinks up a strategy.  

@@ -1,8 +1,33 @@
 ---
-title: "Silverymoon - Session 2"
+title: Silverymoon - Session 2
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "cercei"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "gebbin-steeltoe"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lady-faye"
+  - "lathander"
+  - "madame-eva"
+  - "moot"
+  - "moradin"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "castle-ravenloft"
+  - "gauntlgrym"
+  - "sundabar"
+  - "the-establishment"
+factions:
+  - "drow-faction"
 ---
 
 The Dwarven patrol pushes forward to greet the group, looking upon their saviors in awe and finally taking in the sight of them as the adrenaline of battle fades.  Gundren immediately gets the majority of his kinsmen ogling his equipment and wishing to speak to him.  Indeed, Gebbin Steeltoe, the Patrol captain immediately begins chatting with his fellow Dwarf, naturally assuming him to be the leader of the party.  The wagon, Cercei and the the Rockseeker brothers have joined the party at the bridge by this point and Patches trots up astride Kitty with Mr. Pickles pulling the cowl of his cloak low and trying to look as inconspicuous as possible behind her.  The newly revived dwarves are attended to by Cirrus, bringing both back to consciousness with blessings from Selune.   Meanwhile, Buumi stands up wearily from reviving the two Dwarves and Stumbles over to Aurora and mounts up.  Gebbin turns to one of his officers and has him blow the all clear on the patrol horn and then begins ordering his troops to prepare to head into the city, to escort the group and take them to The Hopping Hair military Tavern for a feast as a thanks.  The Dwarven captain has his troops go over and butcher the dead Hill giant, proclaiming that nothing tastes better, as it's essentially a sixteen hundred pound pig...  Collecting the meat, and after the Patrol finally manages to settle down from inspecting their heroic saviors, they turn and head across the bridge to Sundabar, with a Moon-elf disguised Patches taking up the rear and the Wagon in the center.

@@ -1,8 +1,20 @@
 ---
-title: "Neverwinter - Session 13"
+title: Neverwinter - Session 13
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 13
+people:
+  - "aliyah-faen-tlabbar"
+  - "horatio-von-bumidere"
+  - "kangaxx"
+  - "kimmuriel"
+  - "lodan"
+  - "madame-eva"
+  - "ront"
+  - "tarkathee-daru"
+  - "ysera"
+factions:
+  - "drow-faction"
 ---
 
 Kangaxx, glowing brightly and floating above the group points at one of his enemies, uttering an arcane word.  The Dwarf cleric the group picked up in the demon woods drops dead instantly.  Kangaxx throws his arms out wide, a shower of magic missiles erupt, striking all present.

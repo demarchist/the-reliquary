@@ -1,8 +1,43 @@
 ---
-title: "Barovia - Session 13"
+title: Barovia - Session 13
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 13
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gowain"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "kasimir"
+  - "lolth"
+  - "mediocris-dente"
+  - "mordenkainen"
+  - "pickles"
+  - "rahadin"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "van-richten"
+  - "zhengyi"
+places:
+  - "amber-temple"
+  - "barovia"
+  - "feanons-tower"
+  - "oerth"
+  - "silverymoon"
+  - "vallaki"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "the-reaver"
+  - "thundercannon"
+factions:
+  - "drow-faction"
 ---
 
 Cirrus leans against the wall of the stairway, his hand against his bloodstained side, Tark holding his hands against his back at the exit wound.  Buumi rushes down the stairs and casts a healing spell upon Cirrus, further closing the wound.  They look out into the hall ahead of them and see a huge hall, coated in amber, and a hundred small alcoves, each containing a beautiful Amber sculpture of a wizards familiar.  The group is drawn towards them until Patches points out that after Cirrus getting Kabob'd, she should probably go first and check for traps.  Moving through the hall, slowly and carefully, Patches finds several pressure plates along the floor and disarms them as she goes.  She checks the two wooden doors of the hall, finding one of those trapped as well and disarming it.  Behind, the group spreads out into the hall.  The last of the group to descend the stairs, Fey'anon notes a blast mark on some of the stones and a strangely long shard of ice against the wall there.  With an exclamation of excitement from Stick - on Fey's back, Fey realizes that the shard of ice is actually a Staff of Frost and excitedly puts it into his bag of holding before descending the stairs to join the group.

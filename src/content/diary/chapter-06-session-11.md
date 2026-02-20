@@ -1,8 +1,40 @@
 ---
-title: "Silverymoon - Session 11"
+title: Silverymoon - Session 11
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "dean-sejuk"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "li-xian"
+  - "madame-eva"
+  - "pickles"
+  - "ront"
+  - "s-olaa"
+  - "shaahir"
+  - "shar"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "zhengyi"
+places:
+  - "amn"
+  - "house-invincible"
+  - "silverymoon"
+  - "snorbuls-hole"
+  - "sundabar"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "tavern-of-doors"
+  - "the-last-word"
+  - "thundercannon"
+factions:
+  - "amnians"
+  - "illithid-faction"
+  - "spellguard"
 ---
 
 **Fighting Neero**

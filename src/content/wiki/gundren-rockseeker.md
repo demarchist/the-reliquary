@@ -4,6 +4,7 @@ category: "People"
 aliases: ["Gundren"]
 firstAppearance: "chapter-01-session-01"
 description: "Mountain Dwarf Gunslinger, master Artificer, and member of the Faerûn Defense Force."
+status: "Alive"
 ---
 
 Gundren Rockseeker is a male Mountain Dwarf Gunslinger and a member of the Faerûn Defense Force. He is renowned both as a fearsome marksman and as perhaps the greatest Artificer in all of Faerûn.

@@ -1,8 +1,19 @@
 ---
-title: "Baldur’s Gate - Session 7"
+title: Baldur’s Gate - Session 7
 chapter: 3
-chapterTitle: "Baldur’s Gate"
+chapterTitle: Baldur’s Gate
 session: 7
+people:
+  - "doc"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "mediocris-dente"
+  - "tarkathee-daru"
+things:
+  - "tavern-of-doors"
+factions:
+  - "saurians"
 ---
 
 After taking a short rest, JmJm, Doc. B and Lothli heading into the box to recuperate further, the rest of the group decided to open the orange sarcophagi.  Placing the orange crystal into the pedestal, the sarcophagi slid open with a rumble and three wraiths immediately attacked the group.  After a short battle, in which Buumi discovered he could wreath his sword in lightning, the Wraiths were destroyed.  Buumi sanctified the remains and the group looted about 200g worth of jewels from the sarcophagi.  Unbeknownst to the group however, Cyrrus - the Tiefling Warlock, and new member of the group, stashed and stole 160g worth of gems as a gift for his Archfey patron.  

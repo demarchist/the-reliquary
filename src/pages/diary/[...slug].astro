@@ -24,39 +24,94 @@ const currentIndex = allEntries.findIndex(e => e.id === entry.id);
 const prev = currentIndex > 0 ? allEntries[currentIndex - 1] : null;
 const next = currentIndex < allEntries.length - 1 ? allEntries[currentIndex + 1] : null;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Load wiki entries for entity sidebar lookups
+const allWiki = await getCollection('wiki');
+const wikiBySlug = new Map(allWiki.map(w => [w.id, w]));
+
+const categoryColors: Record<string, string> = {
+  People: 'bg-amber-100 text-amber-800',
+  Places: 'bg-emerald-100 text-emerald-800',
+  Things: 'bg-sky-100 text-sky-800',
+  Factions: 'bg-violet-100 text-violet-800',
+  Events: 'bg-rose-100 text-rose-800',
+};
+
+// Build entity sidebar sections
+const entitySections = [
+  { label: 'People', key: 'people' as const, slugs: entry.data.people || [] },
+  { label: 'Places', key: 'places' as const, slugs: entry.data.places || [] },
+  { label: 'Things', key: 'things' as const, slugs: entry.data.things || [] },
+  { label: 'Factions', key: 'factions' as const, slugs: entry.data.factions || [] },
+  { label: 'Events', key: 'events' as const, slugs: entry.data.events || [] },
+].filter(s => s.slugs.length > 0);
+
+const hasEntities = entitySections.length > 0;
 ---
 
-<BaseLayout title={entry.data.title}>
+<BaseLayout title={entry.data.title} wide={hasEntities}>
   <article>
     <div class="mb-6">
       <a href={`${base}/diary/`} class="text-sm text-ink-400 hover:text-accent-600 no-underline">&larr; Back to Diary</a>
     </div>
 
-    <header class="mb-8">
-      <div class="text-sm text-ink-400 mb-1 font-mono">
-        Chapter {entry.data.chapter}{entry.data.chapterTitle ? `: ${entry.data.chapterTitle}` : ''} &middot; Session {entry.data.session}
+    <div class:list={[hasEntities && 'lg:grid lg:grid-cols-[1fr_280px] lg:gap-8']}>
+      <!-- Main Content -->
+      <div>
+        <header class="mb-8">
+          <div class="text-sm text-ink-400 mb-1 font-mono" data-pagefind-meta={`chapter:Chapter ${entry.data.chapter}`}>
+            Chapter {entry.data.chapter}{entry.data.chapterTitle ? `: ${entry.data.chapterTitle}` : ''} &middot; Session {entry.data.session}
+          </div>
+          <h1 class="font-serif text-3xl font-bold text-ink-900" data-pagefind-meta="title">{entry.data.title}</h1>
+          {entry.data.summary && (
+            <p class="mt-2 text-ink-500 italic">{entry.data.summary}</p>
+          )}
+        </header>
+
+        <div class="prose" data-pagefind-body>
+          <Content />
+        </div>
+
+        <nav class="flex justify-between mt-12 pt-6 border-t border-parchment-200 text-sm">
+          {prev ? (
+            <a href={`${base}/diary/${prev.id}/`} class="text-ink-500 hover:text-accent-600 no-underline">
+              &larr; {prev.data.title}
+            </a>
+          ) : <span />}
+          {next ? (
+            <a href={`${base}/diary/${next.id}/`} class="text-ink-500 hover:text-accent-600 no-underline">
+              {next.data.title} &rarr;
+            </a>
+          ) : <span />}
+        </nav>
       </div>
-      <h1 class="font-serif text-3xl font-bold text-ink-900">{entry.data.title}</h1>
-      {entry.data.summary && (
-        <p class="mt-2 text-ink-500 italic">{entry.data.summary}</p>
+
+      <!-- Entity Sidebar -->
+      {hasEntities && (
+        <aside class="mt-8 lg:mt-0">
+          <div class="bg-parchment-100 rounded-lg p-4 lg:sticky lg:top-20 space-y-4">
+            <h2 class="font-serif text-lg font-semibold text-ink-800">Featured In</h2>
+            {entitySections.map(section => (
+              <div>
+                <h3 class="text-xs font-semibold text-ink-500 uppercase tracking-wide mb-1.5">{section.label}</h3>
+                <div class="flex flex-wrap gap-1.5">
+                  {section.slugs.map(slug => {
+                    const wiki = wikiBySlug.get(slug);
+                    return wiki ? (
+                      <a
+                        href={`${base}/wiki/${slug}/`}
+                        class:list={['text-xs font-medium px-2 py-0.5 rounded-full no-underline hover:opacity-80 transition-opacity', categoryColors[section.label] || 'bg-parchment-200 text-ink-600']}
+                      >
+                        {wiki.data.title}
+                      </a>
+                    ) : null;
+                  })}
+                </div>
+              </div>
+            ))}
+          </div>
+        </aside>
       )}
-    </header>
-
-    <div class="prose">
-      <Content />
     </div>
-
-    <nav class="flex justify-between mt-12 pt-6 border-t border-parchment-200 text-sm">
-      {prev ? (
-        <a href={`${base}/diary/${prev.id}/`} class="text-ink-500 hover:text-accent-600 no-underline">
-          &larr; {prev.data.title}
-        </a>
-      ) : <span />}
-      {next ? (
-        <a href={`${base}/diary/${next.id}/`} class="text-ink-500 hover:text-accent-600 no-underline">
-          {next.data.title} &rarr;
-        </a>
-      ) : <span />}
-    </nav>
   </article>
 </BaseLayout>

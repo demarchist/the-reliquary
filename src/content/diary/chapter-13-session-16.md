@@ -1,8 +1,30 @@
 ---
-title: "The Voyage Home - Back in Iyum"
+title: The Voyage Home - Back in Iyum
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 16
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "djoser"
+  - "doc"
+  - "fawden"
+  - "gundren-rockseeker"
+  - "hasrala"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jareem"
+  - "rudjek"
+  - "selune"
+  - "sultan-bashir"
+  - "tarkathee-daru"
+  - "vecna"
+places:
+  - "feanons-tower"
+  - "golden-tower"
+  - "machina-factory"
+factions:
+  - "saurians"
 ---
 
 The group returns to the Gate Room of the Golden Tower 

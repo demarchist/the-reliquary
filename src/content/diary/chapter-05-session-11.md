@@ -1,8 +1,49 @@
 ---
-title: "Barovia - Session 11"
+title: Barovia - Session 11
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "boris"
+  - "cirrus-al-kayan"
+  - "gowain"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "kangaxx"
+  - "kasimir"
+  - "madame-eva"
+  - "mediocris-dente"
+  - "mordenkainen"
+  - "orcus"
+  - "pickles"
+  - "rahadin"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+  - "van-richten"
+  - "wachter"
+places:
+  - "amber-temple"
+  - "barovia"
+  - "castle-ravenloft"
+  - "faerun"
+  - "menzoberranzan"
+  - "oerth"
+  - "vallaki"
+things:
+  - "gwen"
+  - "holy-symbol-of-ravenkind"
+  - "piwafwi"
+  - "the-last-word"
+  - "the-reaver"
+factions:
+  - "drow-faction"
+  - "vistani"
 ---
 
 The group faces down the street, corpses clogging the gaps between tables.  Patches surveys the scene, seeing three Zombies coming for her.  They shamble towards her and flail their broken bodies at her in a clumsy attempt to bring her down.  Patches dodges and parries the worst of it, taking superficial damage, but with Stabby draining her life force Patches is starting to look fairly weak.  Across the street, Gundren lies unconscious against a crate, bleeding profusely from numerous stab wounds.  Buumi, seeing a companion in need starts towards Gundren, but is stopped as Gowain shadowsteps next to him delivering a stunning blow to Buumi's head, causing him to stagger and drop to a knee, his helmet askew.  Gowain laughs.  Fey hastes Patches, giving her blinding speed and ducks back into the cover of a building.  Cirrus, face to face with Gowain can hardly breathe, thinking quickly, he casts a globe of Darkness on his owl to obscure himself.  By the now blazing church, Gwen tries in vain to deal some damage to the Vampire Dwarf in front of her, but his heavy plate armor is almost impervious.  Tark, seeing an opportunity to take out the enemy healer, shadowsteps to Kenga (The Vampire Dwarf) and hits him hard in the face, smashing his huge Dwarvish nose flat, but it immediately begins to reform from the regenerative powers of the Vampire.

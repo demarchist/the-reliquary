@@ -1,8 +1,23 @@
 ---
-title: "Shadows of the Empire - Finding the Crests"
+title: Shadows of the Empire - Finding the Crests
 chapter: 11
-chapterTitle: "Shadows of the Empire"
+chapterTitle: Shadows of the Empire
 session: 5
+people:
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "hasrala"
+  - "hazzim"
+  - "horatio-von-bumidere"
+  - "ront"
+  - "tarkathee-daru"
+places:
+  - "al-askar"
+  - "faerun"
+things:
+  - "the-last-word"
+factions:
+  - "saurians"
 ---
 
 The group moves out from the Longhouses, moving to the ancient mine cart tracks and the bridge over the water.

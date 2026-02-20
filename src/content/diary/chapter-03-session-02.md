@@ -1,8 +1,22 @@
 ---
-title: "Baldur’s Gate - Session 2"
+title: Baldur’s Gate - Session 2
 chapter: 3
-chapterTitle: "Baldur’s Gate"
+chapterTitle: Baldur’s Gate
 session: 2
+people:
+  - "amaram"
+  - "doc"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "lothli"
+  - "orcus"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "feanons-tower"
+factions:
+  - "the-brotherhood"
 ---
 
 The group is rewarded by the tavern owner for saving them, being given free food and drink while the group rests up and awaits the city guard.  Across the tavern, they see a Tiefling in rags that catches their eye.  The group sends him over some free food and drink and he begins to ingratiate himself with the group.  The city guard arrives relatively quickly, putting JmJm in a deranged panic.

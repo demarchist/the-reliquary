@@ -1,8 +1,40 @@
 ---
-title: "The Underdark - Prep"
+title: The Underdark - Prep
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 29
+people:
+  - "aliyah-faen-tlabbar"
+  - "aurinax"
+  - "bahamut"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "moot"
+  - "pickles"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "abyss"
+  - "fane-of-selune"
+  - "gracksuluth"
+  - "gravenhollow"
+  - "sundabar"
+  - "underdark"
+things:
+  - "tavern-of-doors"
+  - "the-last-word"
+factions:
+  - "derro-faction"
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 Patches meditates and prays over Cercei, then catches up with the group.  

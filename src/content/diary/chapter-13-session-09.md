@@ -1,8 +1,26 @@
 ---
-title: "The Voyage Home - The Death Wyrm"
+title: The Voyage Home - The Death Wyrm
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 9
+people:
+  - "aliyah-faen-tlabbar"
+  - "camea"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "hohonu"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "ethereal-plane"
+  - "feanons-tower"
+  - "golden-tower"
+  - "machina-factory"
+things:
+  - "arkto"
+  - "the-last-word"
 ---
 
 In the ethereal plane, JmJm and Tark witness the swirling vortex of energies around Hohonu’s prison erupt as the Great Wyrm pulls itself from the pit.

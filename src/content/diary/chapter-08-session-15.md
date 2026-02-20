@@ -1,8 +1,40 @@
 ---
-title: "The Underdark - Session 15"
+title: The Underdark - Session 15
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 15
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "jack-mayer-johnson-mathews"
+  - "ront"
+  - "snorbul"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "darklake"
+  - "feanons-tower"
+  - "gracksuluth"
+  - "menzoberranzan"
+  - "the-chasm"
+  - "the-establishment"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "piwafwi"
+factions:
+  - "bregan-daerthe"
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "netherese"
+  - "svirfneblin-faction"
 ---
 
 **The Dark Iron City**

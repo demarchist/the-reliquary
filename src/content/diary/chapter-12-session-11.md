@@ -1,8 +1,23 @@
 ---
-title: "Al Askar - Drizzly Dawg"
+title: Al Askar - Drizzly Dawg
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 11
+people:
+  - "cirrus-al-kayan"
+  - "doc"
+  - "drizzly-dawg"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "ront"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "iyum"
+  - "ras-alkan"
+  - "temple-of-carthus"
 ---
 
 The group rests for only a short time in the Temple of Carthus

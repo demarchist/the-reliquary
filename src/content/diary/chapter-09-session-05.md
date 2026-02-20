@@ -1,8 +1,24 @@
 ---
-title: "The Demon Lords - Chardalin Mine"
+title: The Demon Lords - Chardalin Mine
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 5
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "ront"
+  - "snorbul"
+  - "thorna"
+places:
+  - "abyss"
+  - "snorbuls-hole"
+  - "underdark"
+things:
+  - "chardalyn"
+  - "tavern-of-doors"
+factions:
+  - "duergar-faction"
 ---
 
 The group quickly strips the Duergar of important items; weapons, a letter, armor, keys and a jar of Keoghtom’s Ointment.

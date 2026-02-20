@@ -1,8 +1,24 @@
 ---
-title: "Beyond the Veil - Into the Web"
+title: Beyond the Veil - Into the Web
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "tarkathee-daru"
+  - "vizerion-devir"
+  - "zuggtmoy"
+places:
+  - "blingdenstone"
+  - "gravenhollow"
+  - "menzoberranzan"
+  - "silverymoon"
+  - "underdark"
+  - "vaasa"
+factions:
+  - "drow-faction"
+  - "netherese"
 ---
 
 5 days until Lady Avelyere of the Netherese arrive

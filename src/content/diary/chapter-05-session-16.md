@@ -1,8 +1,34 @@
 ---
-title: "Barovia - Session 16"
+title: Barovia - Session 16
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 16
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "bahamut"
+  - "boris"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "rahadin"
+  - "ront"
+  - "sergei"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "castle-ravenloft"
+  - "ethereal-plane"
+  - "feanons-tower"
+things:
+  - "bag-of-holding"
+  - "holy-symbol-of-ravenkind"
+  - "the-reaver"
+factions:
+  - "drow-faction"
 ---
 
 The Stone golem lies in a heap of crushed stone and oozing tar and Gundren fades into mist, leaving the group.  Tark sags against the wall in weariness and Buumi rushes over to provide some healing.  Looking around, the group sees Steven at one door, looking through the keyhole and another door farther down the hall with moldering crates outside that looks like they leads to a dining hall of some kind.  Tark moves up cautiously to the doors but as there's no keyhole, he cannot glance inside.  The group gathers outside the doors as Patches begins to inspect the area for traps.  Patches finds an old and poor tripwire trapping JmJm's door and moves on to the dining hall doors.  Determining the door itself to be safe, Patches inches it open and quickly spots a pressure plate on the other side of the door.  Working nimbly and quickly, she moves to disarm it, but the awkward angle proves too much and the opening door sets off the trap, hurling a hidden blade directly for Patches' face.  As fast as a striking snake, Tark's hand shoots out, catching the blade mere inches from Patches who gulps audibly and stares at the blade...Tark reassures Patches and pockets the new throwing knife.  The portal now safe, the group begins to make their way into the dining hall on this floor and are greeted with a macabre sight.  

@@ -1,8 +1,22 @@
 ---
-title: "Al Askar - The Mysterious Couple"
+title: Al Askar - The Mysterious Couple
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 13
+people:
+  - "cirrus-al-kayan"
+  - "drizzly-dawg"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "shadowfell"
+  - "snorbuls-hole"
+things:
+  - "tome-of-al-azif"
 ---
 
 The tension begins to drain from the scene as the crew breaks up.

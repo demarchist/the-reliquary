@@ -1,8 +1,24 @@
 ---
-title: "The Voyage Home - Thueba Swamp"
+title: The Voyage Home - Thueba Swamp
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 2
+people:
+  - "cirrus-al-kayan"
+  - "doc"
+  - "fawden"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jareem"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "vecna"
+places:
+  - "golden-tower"
+  - "machina-factory"
+  - "sharza"
+  - "thueba-swamp"
 ---
 
 The group rallies as the Ghostly Giants swoop down to attack

@@ -1,8 +1,29 @@
 ---
-title: "The Demon Lords - The Battle of Blingdenstone"
+title: The Demon Lords - The Battle of Blingdenstone
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 22
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "juiblex"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "thorna"
+  - "zuggtmoy"
+places:
+  - "abyss"
+  - "blingdenstone"
+  - "gravenhollow"
+  - "selunia"
+  - "the-chasm"
+things:
+  - "eclipse"
+factions:
+  - "svirfneblin-faction"
 ---
 
 The Balor surges forward, showering the Deep Gnomes with Acid, causing them to call out in agony.

@@ -1,8 +1,30 @@
 ---
-title: "The Demon Lords - Cleansing Blingdenstone"
+title: The Demon Lords - Cleansing Blingdenstone
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 17
+people:
+  - "aliyah-faen-tlabbar"
+  - "bane"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "lolth"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "abyss"
+  - "blingdenstone"
+  - "menzoberranzan"
+  - "underdark"
+things:
+  - "chardalyn"
+  - "eclipse"
+  - "the-reaver"
+factions:
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 The group takes a long rest in the Tavern, taking refuge from the energies of the Underdark in Feanon’s Mansion.

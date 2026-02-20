@@ -1,8 +1,50 @@
 ---
-title: "The Demon Lords - The Battle of Gracksuluth"
+title: The Demon Lords - The Battle of Gracksuluth
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "aurinax"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "doc"
+  - "finn"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "horatio-von-bumidere"
+  - "juiblex"
+  - "lolth"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "abyss"
+  - "blingdenstone"
+  - "darklake"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+  - "moondancer-village"
+  - "neverwinter"
+  - "snorbuls-hole"
+  - "the-chasm"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "eclipse"
+  - "thundercannon"
+factions:
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "svirfneblin-faction"
 ---
 
 Patches stands atop the Demon Prince, flips her blades over in her hands and plunges them both home.

@@ -1,8 +1,39 @@
 ---
-title: "The Underdark - Session 18"
+title: The Underdark - Session 18
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 18
+people:
+  - "aliyah-faen-tlabbar"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "doc"
+  - "droki"
+  - "gaddock"
+  - "gundren-rockseeker"
+  - "kenshi"
+  - "madame-eva"
+  - "mediocris-dente"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+  - "zhengyi"
+places:
+  - "gracksuluth"
+  - "gravenhollow"
+  - "menzoberranzan"
+  - "underdark"
+things:
+  - "gwen"
+  - "tavern-of-doors"
+factions:
+  - "bregan-daerthe"
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "stoneguard"
 ---
 
 The group finds themselves standing over the corpse of the mutated giant, the remains smoldering from the lava immersion.

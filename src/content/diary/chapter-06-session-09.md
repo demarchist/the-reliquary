@@ -1,8 +1,34 @@
 ---
-title: "Silverymoon - Session 9"
+title: Silverymoon - Session 9
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 9
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lolth"
+  - "megno-slatesunder"
+  - "omar"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "barovia"
+  - "gauntlgrym"
+  - "silverymoon"
+  - "snorbuls-hole"
+  - "sundabar"
+things:
+  - "bag-of-holding"
+  - "gwen"
+factions:
+  - "amnians"
+  - "illithid-faction"
 ---
 
 The group finds themselves in the bottom of the crater once occupied by the Illithid hive.  No snow falls, but the wind is biting this high up in the mountains and the sun is getting low on the horizon. 

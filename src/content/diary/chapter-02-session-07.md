@@ -1,8 +1,26 @@
 ---
-title: "Neverwinter - Session 7"
+title: Neverwinter - Session 7
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hendrell"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lorde"
+  - "moot"
+  - "tarkathee-daru"
+places:
+  - "moonstone-mask-inn"
+  - "the-moonwood"
+things:
+  - "bag-of-holding"
+  - "tavern-of-doors"
+factions:
+  - "drow-faction"
 ---
 
 The group just met with Bastillion and received their reward for finding the missing sailors.  Milling around in the Moonstone mask, Buumi, Patches, Tark and Fey'Anon grab a few drinks and think about what to do next.  Eventually heading upstairs and into the Tavern of Doors to check on the others.  Doc.B, JmJm and Gundren are inside.  Doc B and JmJm are prepping for the bards stage in an hour.  Gundren and his brothers seemed to be making something, Gundren eventually leaves the smithy to join the others in helping JmJm prepare for his show that evening.  The entire group assists in the preparations, creating props, fireworks, and an intricate planned performance.  Eventually, the group heads to the stage, several of them veering off to make small purchases and hand in quests. Buumi heading to the fish monger, Patches buying more poisons and Fey'Anon picking up a few scrolls.

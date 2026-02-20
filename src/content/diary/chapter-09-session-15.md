@@ -1,8 +1,26 @@
 ---
-title: "The Demon Lords - The Bane of Blingdenstone"
+title: The Demon Lords - The Bane of Blingdenstone
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 15
+people:
+  - "aliyah-faen-tlabbar"
+  - "bane"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "lolth"
+  - "ront"
+  - "shar"
+  - "tarkathee-daru"
+places:
+  - "blingdenstone"
+things:
+  - "bag-of-holding"
+  - "gwen"
+factions:
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 As Gurnik turns to leave, the group stops him and decide NOT to bring any elementals in to Rockblight until The Bane is dealt with.

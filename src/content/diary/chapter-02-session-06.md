@@ -1,8 +1,25 @@
 ---
-title: "Neverwinter - Session 6"
+title: Neverwinter - Session 6
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hendrell"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "moot"
+  - "raylen"
+  - "tarkathee-daru"
+places:
+  - "moonstone-mask-inn"
+  - "neverwinter"
+  - "waterdeep"
+things:
+  - "tavern-of-doors"
 ---
 
 The group finds themselves post tournament match back in the combatants tent congratulating Tark and Patches.  The group looks over as JmJm and Doc B. enter the tent and quickly retreat into the Tavern of Doors to prepare for the Bards stage that evening.  Lothli appears smitten with Hendrell, despite just losing to him, and leaves the tournament to spend some time with him.

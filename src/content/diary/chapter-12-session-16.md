@@ -1,8 +1,28 @@
 ---
-title: "Al Askar - The Storm"
+title: Al Askar - The Storm
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 16
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "djoser"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "liara"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+places:
+  - "amn"
+  - "iyum"
+  - "mt-saqar"
+  - "shadowfell"
+factions:
+  - "amnians"
+  - "cult-of-zalaam"
 ---
 
 At the crashed spelljammer, Tark, Snorbul and Gundren look for a way in with the Highstorm looming and growing closer.

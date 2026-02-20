@@ -1,8 +1,30 @@
 ---
-title: "Silverymoon - Session 1"
+title: Silverymoon - Session 1
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "gebbin-steeltoe"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "rahadin"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "zhengyi"
+places:
+  - "castle-ravenloft"
+  - "sundabar"
+things:
+  - "bag-of-holding"
+  - "tavern-of-doors"
+  - "thundercannon"
+factions:
+  - "drow-faction"
 ---
 
 After putting some distance between themselves and the site of the Bandit massacre, the group pulls the wagon to a stop for the rest of the night.  Setting up camp, the group pulls the wagon in close as Patches strings up a tripwire perimeter.  Fey camps on the back of the Wagon, reading his spell book and combing through all the treasure the group had gotten, identifying items and transcribing spells.  Buumi and Cercei talk for a bit, with Tark coming over and asking numerous questions of the little girl - such as if she can fly?  Tentatively, Cercei says that she can, but not in her human form.  To put her at ease, Tark enacts the magic of his staff and flits around the area, showing off.  Put at ease, Cercei transforms into her Hatchling form - a small dragon the size of a hunting dog and begins flying around after Tark.  Buumi smiles, but it fades as he realizes that his daughters nature will certainly change as she loses her shorter lived friends and family members and he calls out to Fey and Patches that he made need their help.  Patches and Gundren have been going over some of the treasure and Patches shows the Artificer the gun she picked up from Castle Ravenloft - a Revolver.  Astounded, the dwarf and his brothers crowd around and after some inspection hand it back over to the Drow.  Patches takes several old bottles and sets them up on a log, taking careful aim and then shooting them with cracks of thunder.  The whole camps looks at her stunned and she returns to the campfire smiling.  Cercei shifts back to her human form and heads back to Buumi, who has taken the little girls pillow and stuffed it with coins, thinking a dragon would appreciate such things, he also takes the ornate fur cloak Patches found and drapes it around the little girl.  Tark and Cercei eat their food ravenously and Buumi lets out a cry of displeasure, rushing to his daughter to try and instruct her in some good table manners, pointing out Fey's perfect etiquette and restraint as the elf picks at his own food.  After some instruction, it appears that the little girl gets it and Buumi falls asleep by the fire.  Everyone heads to their bedrolls and the group sleeps for several hours, until they are awoken mid morning by a downpour of rain.

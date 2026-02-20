@@ -1,8 +1,18 @@
 ---
-title: "The Bog - Session 2"
+title: The Bog - Session 2
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 2
+people:
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lothli"
+  - "tarkathee-daru"
+places:
+  - "goblin-town"
+  - "the-bog"
+  - "the-labyrinth"
 ---
 
 Descending farther and farther, the group eventually finds themselves suspended thousands of feet up in the air, a vast bog stretching out before them, ruins visible and a massive labyrinth stretching horizon to horizon.  The stairs the group had been descending simply ends, as if the "tower" containing the stairs was destroyed and fell to the earth far below. The group investigates and comes up with nothing.  Several members of the group begin to convulse and shrink, turning into tiny inchworms with their own humanoid heads.  Shrugging, Fey'anon creates a tiny harness and straps them to his chest.  Using Tarks robes of featherfall, he then leaps from the building and slowly begins to descend.

@@ -1,8 +1,33 @@
 ---
-title: "The Sanctum - Session 8"
+title: The Sanctum - Session 8
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "boris"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "ella"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lord-neverember"
+  - "mediocris-dente"
+  - "mordenkainen"
+  - "ront"
+  - "tarkathee-daru"
+places:
+  - "faerun"
+  - "feanons-tower"
+  - "helms-hold"
+  - "neverwinter"
+  - "the-establishment"
+things:
+  - "gwen"
+  - "tavern-of-doors"
+  - "thundercannon"
+events:
+  - "council-of-helms-hold"
 ---
 
 **The Bluelake District**

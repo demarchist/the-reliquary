@@ -1,8 +1,40 @@
 ---
-title: "Barovia - Session 21"
+title: Barovia - Session 21
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 21
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "baba-lysaga"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "madame-eva"
+  - "mordenkainen"
+  - "rahadin"
+  - "selune"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+  - "wachter"
+places:
+  - "amber-temple"
+  - "barovia"
+  - "castle-ravenloft"
+  - "sanctum-of-krasus"
+  - "tser-pool"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "the-reaver"
+  - "thundercannon"
+factions:
+  - "keepers-of-the-feather"
+  - "vistani"
 ---
 
 Battling for their lives, the group hunkers around the animated hut, using it for cover as Tark flies through the air and Baba falls from her destroyed flying skull.  Tark catches himself in the branches of a tree before he can fall back to the ground and arrests his flight, and as he does so, looks back at the falling Baba just as she splits into hundreds of oozing, flying insects.  Patches sees the blur of the Genoskwa, circling them and gestures at the form, summoning the power of her people and casting Faerie fire at the beast.  The fire simply flickers out of existence and Patches swears under her breath, hearing a low guttural chuckle, distorted and with no apparent direction.  Hearing the taunting chuckle, Patches hurls two throwing knives, but both sail off into the mist and in her head, Patches hears the voice of her cursed sword begging to be wielded.   Telling the sword to shut up but ultimately agreeing with it, Patches sheathes her dagger and summons the spectral, cursed blade.  Surprisingly, she finds that the mental spell Mordenkainen gave her is shielding her mind from the worst of the curse and a wry smile lifts up the corner of her mouth.

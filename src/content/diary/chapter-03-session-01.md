@@ -1,8 +1,21 @@
 ---
-title: "Baldur’s Gate - Session 1"
+title: Baldur’s Gate - Session 1
 chapter: 3
-chapterTitle: "Baldur’s Gate"
+chapterTitle: Baldur’s Gate
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lady-faye"
+  - "lodan"
+  - "tarkathee-daru"
+places:
+  - "ethereal-plane"
+things:
+  - "tavern-of-doors"
 ---
 
 Awaking the next day, the group goes about helping aboard the ship when possible and generally recovering.  JmJm picks up the new sword from the captain and puts it through some practice swings, seeing it's magic and being thoroughly impressed.  As the ship limps back into harbor, the group sees the city is in quite a dour mood.  They hear from the captain that the undead mists have made it to Baldurs gate and in fact, from every land they have word from, the dead rise.  People are beginning to speak of it as the end times, or another time of troubles.

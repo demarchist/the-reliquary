@@ -1,8 +1,38 @@
 ---
-title: "The Underdark - Session 14"
+title: The Underdark - Session 14
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 14
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "ilvara-mizzrym"
+  - "jack-mayer-johnson-mathews"
+  - "kenshi"
+  - "madame-eva"
+  - "orcus"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "darklake"
+  - "gracksuluth"
+  - "gravenhollow"
+  - "shatterpeak"
+  - "underdark"
+things:
+  - "piwafwi"
+  - "saurian-firelance"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
+  - "illithid-faction"
+  - "netherese"
+  - "svirfneblin-faction"
 ---
 
  **Extortion**

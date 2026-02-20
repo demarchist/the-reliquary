@@ -1,8 +1,34 @@
 ---
-title: "The Sanctum - Session 3"
+title: The Sanctum - Session 3
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "ella"
+  - "gaddock"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "kenshi"
+  - "megno-slatesunder"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+  - "zhengyi"
+places:
+  - "damara"
+  - "faerun"
+  - "helms-hold"
+  - "sanctum-of-krasus"
+  - "underdark"
+things:
+  - "gwen"
+  - "piwafwi"
+factions:
+  - "netherese"
 ---
 
 **The Sanctum**

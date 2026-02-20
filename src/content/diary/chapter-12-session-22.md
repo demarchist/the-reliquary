@@ -1,8 +1,22 @@
 ---
-title: "Al Askar - The Temple of Vaketh"
+title: Al Askar - The Temple of Vaketh
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 22
+people:
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "vaketh"
+places:
+  - "ras-alkan"
+  - "shadowfell"
+factions:
+  - "drow-faction"
+  - "saurians"
 ---
 
 The group awakes on the side of the great volcano

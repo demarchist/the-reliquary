@@ -1,8 +1,53 @@
 ---
 title: "Al Askar - Vecna, The Undying King"
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 21
+people:
+  - "aliyah-faen-tlabbar"
+  - "auril"
+  - "cirrus-al-kayan"
+  - "djoser"
+  - "doc"
+  - "fawden"
+  - "gaddock"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jareem"
+  - "liara"
+  - "lolth"
+  - "mordenkainen"
+  - "orcus"
+  - "rudjek"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "vaketh"
+  - "vecna"
+  - "zhengyi"
+places:
+  - "iyum"
+  - "oerth"
+  - "shadowfell"
+  - "sharza"
+  - "temple-of-carthus"
+  - "thueba-swamp"
+  - "toril"
+  - "vaasa"
+things:
+  - "hammer-of-niraz"
+  - "saurian-firelance"
+  - "the-last-word"
+factions:
+  - "cult-of-zalaam"
+  - "drow-faction"
+  - "illithid-faction"
+  - "saurians"
+  - "usurpers-of-rudjek"
+events:
+  - "the-calamity"
 ---
 
 Snorbul looks down at the decapitated head of the cult leader and the constricting tongue wrapping his arm.

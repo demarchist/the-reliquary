@@ -4,6 +4,7 @@ category: "People"
 aliases: ["The Golden Skeleton", "Son of Orcus"]
 firstAppearance: "chapter-02-session-01"
 description: "A powerful servant of Orcus who poses as an adventurer before revealing his true nature as a golden lich skeleton."
+status: "Dead"
 ---
 
 Kangaxx is a deceptive mage and powerful servant of Orcus. He initially poses as a gold-toothed adventurer seeking help, but his true form is that of a golden lich skeleton — one of the so-called Sons of Orcus.

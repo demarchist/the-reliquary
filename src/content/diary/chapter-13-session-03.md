@@ -1,8 +1,28 @@
 ---
-title: "The Voyage Home - The Halflings"
+title: The Voyage Home - The Halflings
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 3
+people:
+  - "atropos"
+  - "camea"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "hohonu"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "moot"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "vecna"
+places:
+  - "abyss"
+  - "machina-factory"
+  - "thueba-swamp"
+things:
+  - "arkto"
+factions:
+  - "cult-of-zalaam"
 ---
 
 The group is surrounded by a dozen assailants and arrows begin to fly in at the unsuspecting group!

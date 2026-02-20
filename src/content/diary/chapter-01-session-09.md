@@ -1,8 +1,28 @@
 ---
-title: "Phandalin - Session 9"
+title: Phandalin - Session 9
 chapter: 1
-chapterTitle: "Phandalin"
+chapterTitle: Phandalin
 session: 9
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "iarno"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "sildar"
+  - "tarkathee-daru"
+  - "venomfang"
+places:
+  - "cragmaw-castle"
+  - "ivy-mansion"
+  - "longsaddle"
+  - "neverwinter"
+things:
+  - "tavern-of-doors"
+factions:
+  - "drow-faction"
 ---
 
 The group awakens in a tavern, returning from the nightmare world of the hag den.  JmJm, Patches, Gundren, Lothli and Tark all awake to find that Dr.B and Buumi managed to take them from the fields just outside town into the safety of the towns tavern but could not wake them.  Recounting tale, Sildar joins the group with Harkell to express their dismay and confusion about the reports of hags and undead monstrosities.  Strangely, as they awoke, all the items that they picked up in the dream reality materialized next to them.  He pays the group 250gp for rescuing Gundren and Barthen, Gundrens other brother shows up and pays them another 250gp before going into the box with Gundren to see their other surviving brother.

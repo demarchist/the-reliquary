@@ -1,8 +1,26 @@
 ---
-title: "A Good Soul"
+title: A Good Soul
 chapter: 14
-chapterTitle: ""
 session: 15
+people:
+  - "aliyah-faen-tlabbar"
+  - "ceregorach"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "jarlaxle"
+  - "lady-faye"
+  - "selune"
+places:
+  - "fane-of-selune"
+  - "luskan"
+things:
+  - "arkto"
+factions:
+  - "drow-faction"
+  - "zhentarim"
 ---
 
 Patches contacts Lady Faye saying that she has magical goods to trade and is looking for offers on a Ring of Water Elemental Command

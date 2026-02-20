@@ -1,8 +1,46 @@
 ---
-title: "The Sanctum - Session 7"
+title: The Sanctum - Session 7
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gaddock"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lady-faye"
+  - "li-xian"
+  - "madame-eva"
+  - "mediocris-dente"
+  - "megno-slatesunder"
+  - "mordenkainen"
+  - "ront"
+  - "s-olaa"
+  - "selune"
+  - "shaahir"
+  - "shar"
+  - "tarkathee-daru"
+  - "zhengyi"
+places:
+  - "amn"
+  - "baldurs-gate"
+  - "helms-hold"
+  - "neverwinter"
+  - "sanctum-of-krasus"
+  - "shatterpeak"
+  - "silverymoon"
+  - "sundabar"
+  - "vaasa"
+things:
+  - "gwen"
+factions:
+  - "drow-faction"
+  - "zhentarim"
+events:
+  - "council-of-helms-hold"
 ---
 
 **The Sleigh Ride and the Dream**

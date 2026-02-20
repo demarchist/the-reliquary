@@ -1,8 +1,17 @@
 ---
-title: "Phandalin - Session 7"
+title: Phandalin - Session 7
 chapter: 1
-chapterTitle: "Phandalin"
+chapterTitle: Phandalin
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "lothli"
+  - "orcus"
+  - "ront"
+  - "tarkathee-daru"
+factions:
+  - "drow-faction"
 ---
 
 The Group awakens in a Hag coven, separated and all in dire straights and missing their gear.  No one remembers how they got there.

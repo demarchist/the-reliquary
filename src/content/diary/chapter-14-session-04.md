@@ -1,8 +1,35 @@
 ---
-title: "Borborygmos"
+title: Borborygmos
 chapter: 14
-chapterTitle: ""
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "bolg"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "orcus"
+  - "pickles"
+  - "shar"
+  - "tarkathee-daru"
+places:
+  - "anauroch"
+  - "dokkar"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "rockseeker-manufactory"
+  - "svartalfheim"
+  - "the-establishment"
+  - "underdark"
+things:
+  - "piwafwi"
+factions:
+  - "drow-faction"
+  - "netherese"
 ---
 
 JmJm charges in atop Steden, and gets about 10ft before the rest of the party all shout at him to stop and come back.

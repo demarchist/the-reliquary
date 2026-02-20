@@ -1,8 +1,26 @@
 ---
-title: "Neverwinter - Session 5"
+title: Neverwinter - Session 5
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 5
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hendrell"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "moot"
+  - "raylen"
+  - "tarkathee-daru"
+places:
+  - "neverwinter"
+  - "silverymoon"
+  - "sundabar"
+  - "the-moonwood"
+factions:
+  - "drow-faction"
 ---
 
 The group awoke to Fey'Anon's magical alarm - his time piece set for 7:30 am

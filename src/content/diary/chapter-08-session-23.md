@@ -1,8 +1,35 @@
 ---
-title: "The Underdark - The Orc and the Alchemist"
+title: The Underdark - The Orc and the Alchemist
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 23
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "demogorgon"
+  - "doc"
+  - "ella"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "ront"
+  - "snorbul"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "castle-ravenloft"
+  - "ethereal-plane"
+  - "gracksuluth"
+  - "menzoberranzan"
+  - "the-establishment"
+  - "velkynvelve"
+things:
+  - "bag-of-holding"
+  - "gwen"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
 ---
 
 The Party

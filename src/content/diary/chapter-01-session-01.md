@@ -1,8 +1,29 @@
 ---
-title: "Phandalin - Session 1"
+title: Phandalin - Session 1
 chapter: 1
-chapterTitle: "Phandalin"
+chapterTitle: Phandalin
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "iarno"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "ront"
+  - "sildar"
+places:
+  - "cragmaw-castle"
+  - "neverwinter"
+  - "phandalin"
+  - "tresendar-manor"
+  - "wave-echo-cave"
+things:
+  - "spellforge"
+  - "tavern-of-doors"
+factions:
+  - "drow-faction"
+  - "redbrand-ruffians"
+  - "zhentarim"
 ---
 
  Game began taking goods from Neverwinter to Phandalin town to Barthen's Provisions (2nd brother) for dwarf brothers: GUNDREN ROCKSEEKER.

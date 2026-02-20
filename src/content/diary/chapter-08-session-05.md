@@ -1,8 +1,32 @@
 ---
-title: "The Underdark - Session 5"
+title: The Underdark - Session 5
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 5
+people:
+  - "aliyah-faen-tlabbar"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "finn"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "lolth"
+  - "tarkathee-daru"
+places:
+  - "abyss"
+  - "darklake"
+  - "evermeet"
+  - "gracksuluth"
+  - "menzoberranzan"
+  - "silverymoon"
+  - "the-chasm"
+things:
+  - "bag-of-holding"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
+  - "illithid-faction"
 ---
 
 **The Steam Caves**

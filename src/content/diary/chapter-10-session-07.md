@@ -1,8 +1,34 @@
 ---
-title: "Beyond the Veil - The Labyrinth"
+title: Beyond the Veil - The Labyrinth
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lady-faye"
+  - "lemerlais"
+  - "madame-eva"
+  - "megno-slatesunder"
+  - "ront"
+  - "shar"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "vizerion-devir"
+  - "yeenoghu"
+places:
+  - "ethereal-plane"
+  - "feanons-tower"
+  - "selunia"
+  - "svartalfheim"
+  - "the-labyrinth"
+  - "underdark"
+factions:
+  - "drow-faction"
 ---
 
 Cirrus pops back into the material world, re-appearing from his extra-planar jaunt, back in his sanctum room.

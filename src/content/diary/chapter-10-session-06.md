@@ -1,8 +1,52 @@
 ---
-title: "Beyond the Veil - Dinner with a Spider"
+title: Beyond the Veil - Dinner with a Spider
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "corpsetaker"
+  - "demogorgon"
+  - "eilistraee"
+  - "ella"
+  - "finn"
+  - "gromph-baenre"
+  - "gundren-rockseeker"
+  - "jarlaxle"
+  - "li-xian"
+  - "lolth"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+  - "theodemir"
+places:
+  - "abyss"
+  - "amn"
+  - "anauroch"
+  - "astral-plane"
+  - "darklake"
+  - "dokkar"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "gracksuluth"
+  - "gravenhollow"
+  - "menzoberranzan"
+  - "sundabar"
+  - "svartalfheim"
+  - "the-labyrinth"
+  - "underdark"
+things:
+  - "piwafwi"
+  - "the-last-word"
+  - "well-of-many-worlds"
+factions:
+  - "bregan-daerthe"
+  - "drow-faction"
+  - "house-faen-tlabbar"
+  - "illithid-faction"
 ---
 
 Feanon has been so distracted with his personal project that he has not had time to go downstairs and meet with the servant from Vizeron.

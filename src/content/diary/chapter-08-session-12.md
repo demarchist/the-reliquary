@@ -1,8 +1,33 @@
 ---
-title: "The Underdark - Session 12"
+title: The Underdark - Session 12
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "ella"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "jack-mayer-johnson-mathews"
+  - "ront"
+  - "shar"
+  - "shuushar"
+  - "snorbul"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "blingdenstone"
+  - "darklake"
+  - "gracksuluth"
+  - "underdark"
+factions:
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "netherese"
 ---
 
 **Sloodublop**

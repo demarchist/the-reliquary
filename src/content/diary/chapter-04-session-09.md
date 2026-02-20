@@ -1,8 +1,18 @@
 ---
-title: "The Bog - Session 9"
+title: The Bog - Session 9
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 9
+people:
+  - "doc"
+  - "goblin-king"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "tarkathee-daru"
+  - "zhink"
+things:
+  - "gwen"
 ---
 
 A Huge branch from the animated tree wraps around Buumi, slamming him into the ground.  As this happens, Tark and Gundren both revert to their normal states from being worms and immediately join in the fray.  Zhink begins to pick off Goblins one by one, Tark attacks others and Gundren and Gwen begin to take down the fodder as well.

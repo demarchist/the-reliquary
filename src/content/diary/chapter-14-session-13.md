@@ -1,8 +1,49 @@
 ---
-title: "Aftermath"
+title: Aftermath
 chapter: 14
-chapterTitle: ""
 session: 13
+people:
+  - "aliyah-faen-tlabbar"
+  - "ancalagon"
+  - "bowie"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "dean-sejuk"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jarlaxle"
+  - "madame-eva"
+  - "megno-slatesunder"
+  - "mordenkainen"
+  - "mystra"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "surtr"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "vaketh"
+  - "vecna"
+  - "zhengyi"
+places:
+  - "amn"
+  - "astral-plane"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "keep-of-thunder-bluff"
+  - "luskan"
+  - "oerth"
+  - "silverymoon"
+  - "sundabar"
+  - "the-establishment"
+  - "vaasa"
+factions:
+  - "amnians"
+  - "bregan-daerthe"
+  - "drow-faction"
+  - "netherese"
+  - "the-harpers"
+  - "zhentarim"
 ---
 
 As the adrenaline from the battle fades, the group gathers in the Keep courtyard

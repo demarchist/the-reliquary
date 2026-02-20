@@ -1,8 +1,35 @@
 ---
-title: "Al Askar - Into the Fiery Gorge"
+title: Al Askar - Into the Fiery Gorge
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 19
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "hasrala"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "ront"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "vaketh"
+  - "ventari"
+places:
+  - "faerun"
+  - "mt-saqar"
+  - "sharza"
+  - "thueba-swamp"
+  - "toril"
+  - "underdark"
+things:
+  - "arkto"
+  - "ringed-veils"
+  - "saurian-firelance"
+  - "titanic-forge"
+factions:
+  - "saurians"
 ---
 
 The group wakes from their long rest and begin to go about their morning routine

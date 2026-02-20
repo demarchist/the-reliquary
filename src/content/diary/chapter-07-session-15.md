@@ -1,8 +1,26 @@
 ---
-title: "The Sanctum - Session 15"
+title: The Sanctum - Session 15
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 15
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "shar"
+  - "tarkathee-daru"
+places:
+  - "ethereal-plane"
+  - "underdark"
+things:
+  - "gwen"
+  - "saurian-firelance"
+factions:
+  - "drow-faction"
 ---
 
 **The Trials**

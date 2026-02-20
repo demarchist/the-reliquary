@@ -1,8 +1,34 @@
 ---
-title: "The Voyage Home - The Font"
+title: The Voyage Home - The Font
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 20
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "fawden"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "moot"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "vecna"
+places:
+  - "machina-factory"
+  - "sharza"
+things:
+  - "bag-of-holding"
+  - "eclipse"
+  - "saurian-firelance"
+  - "the-last-word"
+factions:
+  - "saurians"
 ---
 
 The group settles in to rest, summoning the mansion while the camping group does their best to hide and conceal themselves

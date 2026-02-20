@@ -1,8 +1,20 @@
 ---
-title: "Phandalin - Session 8"
+title: Phandalin - Session 8
 chapter: 1
-chapterTitle: "Phandalin"
+chapterTitle: Phandalin
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "orcus"
+  - "ront"
+  - "tarkathee-daru"
+places:
+  - "phandalin"
+things:
+  - "the-reaver"
 ---
 
 The group explored the remaining room, finding nothing else in the shrine of Orcus.  Moving back to the room with the ladder, they find several pearls embedded in the fleshy folds of the walls.   They climb the ladder and find themselves one floor up and face to face with JmJm and an unknown Barbarian.  They awake the both of them and JmJm wakes with a start. JmJm is cut free and begins to show signs of insanity, constantly biting on a gold coin.  The barbarian is freed by Tark who immedeiately sweeps the halfling into a huge hug.  The group scouts on ahead, coming across a number of zombies.  They trap the hallway and lure the Zombies back into the traps, easily killing them all.  During the fight they heard a massive slam and upon checking the room post battle, they find a trap in the center of the room had crushed a Zombie.  Scouting on ahead, they go into the first hag room, luckily avoiding a trap.  They loot the room, getting some gold and a spellbook and 500g of spell components.  They harvest the trap and then scout on ahead, seeing another hag.   The hag in the center of the room is meditating.  They once again trap the hallway and then set up on the other side of the crushing trap.  Shooting the hag, Lothli then retreats, luring the hag into each trap.  The hag is quickly destroyed from the combined traps and planning of the group, but not before she gouged a huge claw mark across Tarks chest, tearing down to the bone.  He has to drink a healing potion to stay alive and put him on the mend.  They loot the room the hag was in, finding more gold, 2 healing potions, a potion of cats agility and a Longbow +1 along with two keys.  They also find an old priests journal, detailing his descent to madness.  The longer th group stays in the room, staring at the flayed faces on the wall, the group begins to lose their sanity, Patches becoming mute.

@@ -1,8 +1,24 @@
 ---
-title: "Barovia - Session 7"
+title: Barovia - Session 7
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "izek"
+  - "ront"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+  - "wachter"
+places:
+  - "the-establishment"
+  - "vallaki"
+things:
+  - "bag-of-holding"
 ---
 
 The group finds themselves in the Den in Burgomaster Vargas mansion.  They look at one another, a little unsure how to handle the obvious madman in front of them.  They decide tact - Cirrus leans in and placates the man, agreeing with him, despite the obvious discomfort of Tark and Buumi.  Cirrus goes on to offer the groups services to the Burgomaster, to appraise the magical and monetary fortunes of the town.  Taken aback by this, Vargas excuses himself to discuss it with his wife.  Patches then steps from the shadows, handing off what she found in the study to Fey before heading to the Bluewater inn to secure the group accommodation.  Buumi decides to stay in the Den for when the Burgomaster returns and the rest of the group - through a mix of magic and stealth - leaves the den to begin exploring the house.  Tark heads through the kitchens while Cirrus, now disguised as Izek, heads up to the second floor, noting the many beautiful landscape paintings in the hallway.  The first door he tries is locked and just as he is about to move on, one of the maids spots him and asks if he misplaced his key again in a drunken stupor.  Going with it, Cirrus pretends to be drunk and gets the maid to unlock the door for him, discovering that it's Izek's room.  The maid hustles off to the ground floor.

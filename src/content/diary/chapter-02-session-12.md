@@ -1,8 +1,30 @@
 ---
-title: "Neverwinter - Session 12"
+title: Neverwinter - Session 12
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "doc"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "kangaxx"
+  - "lodan"
+  - "orcus"
+  - "ront"
+  - "shar"
+  - "tarkathee-daru"
+  - "venomfang"
+places:
+  - "abyss"
+  - "barovia"
+things:
+  - "artifact-shard"
+  - "spellforge"
+  - "tavern-of-doors"
+factions:
+  - "drow-faction"
+  - "spellforged-adventuring-company"
 ---
 
 The group is camped down in the catacomb, resting after the hard fought battle.  After several hours, Doc B. and JmJm come out of the ToD to the strange sight of the marble tomb. JmJm hear the escapades from the group and share short greetings with the new Elf and Dwarf in the group.   Deciding that they had rested long enough, and not finding much of use in the tomb, the group steps through the next portal.

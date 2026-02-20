@@ -1,8 +1,30 @@
 ---
-title: "The Demon Lords - Wererats"
+title: The Demon Lords - Wererats
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 20
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "dorbo"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "juiblex"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "topsy-and-turvy"
+places:
+  - "abyss"
+  - "blingdenstone"
+  - "ethereal-plane"
+  - "the-establishment"
+things:
+  - "chardalyn"
+  - "gwen"
+factions:
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 The group collects the wounded Wererat and places him on the Tenser’s Disc summoned by Gundren.

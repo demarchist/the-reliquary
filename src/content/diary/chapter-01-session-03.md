@@ -1,8 +1,30 @@
 ---
-title: "Phandalin - Session 3"
+title: Phandalin - Session 3
 chapter: 1
-chapterTitle: "Phandalin"
+chapterTitle: Phandalin
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "nezzan"
+  - "reidoth"
+  - "ront"
+  - "shar"
+  - "sharess"
+  - "tarkathee-daru"
+  - "venomfang"
+places:
+  - "cragmaw-castle"
+  - "neverwinter"
+  - "thundertree"
+  - "wave-echo-cave"
+things:
+  - "tavern-of-doors"
+factions:
+  - "drow-faction"
 ---
 
  Lothli (Shauna) treks out to Thundertree with the wolves tamed in the goblin hideout, has a normal trek, avoids a Hobgoblin patrol.  Camps for the night at which point odd mist rolls in, scares everyone.

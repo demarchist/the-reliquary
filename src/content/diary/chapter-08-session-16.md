@@ -1,8 +1,35 @@
 ---
-title: "The Underdark - Session 16"
+title: The Underdark - Session 16
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 16
+people:
+  - "aliyah-faen-tlabbar"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "droki"
+  - "hemeth"
+  - "ilvara-mizzrym"
+  - "lady-faye"
+  - "lolth"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "baldurs-gate"
+  - "blingdenstone"
+  - "darklake"
+  - "underdark"
+  - "velkynvelve"
+things:
+  - "the-last-word"
+factions:
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "stoneguard"
 ---
 
 **The Wyrmsmith**

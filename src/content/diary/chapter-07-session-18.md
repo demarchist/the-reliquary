@@ -1,8 +1,35 @@
 ---
-title: "The Sanctum - Session 18"
+title: The Sanctum - Session 18
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 18
+people:
+  - "aliyah-faen-tlabbar"
+  - "cercei"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "corpsetaker"
+  - "doc"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "li-xian"
+  - "lord-neverember"
+  - "rahadin"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "keep-of-thunder-bluff"
+  - "silverymoon"
+  - "sundabar"
+things:
+  - "gwen"
+factions:
+  - "amnians"
+  - "drow-faction"
 ---
 
 **The Attack**

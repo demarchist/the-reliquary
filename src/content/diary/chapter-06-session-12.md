@@ -1,8 +1,44 @@
 ---
-title: "Silverymoon - Session 12"
+title: Silverymoon - Session 12
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "dean-sejuk"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "kangaxx"
+  - "lathander"
+  - "lodan"
+  - "orcus"
+  - "pickles"
+  - "s-olaa"
+  - "selune"
+  - "shaahir"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "von-issinger"
+  - "zhengyi"
+places:
+  - "amn"
+  - "athkatla"
+  - "damara"
+  - "house-invincible"
+  - "silverymoon"
+  - "the-moonwood"
+things:
+  - "bag-of-holding"
+  - "deck-of-illusions"
+  - "eclipse"
+  - "gwen"
+factions:
+  - "amnians"
+  - "illithid-faction"
+  - "ironarm-mercenary-company"
 ---
 
 **Patches**

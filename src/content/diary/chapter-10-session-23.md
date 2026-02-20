@@ -1,8 +1,29 @@
 ---
-title: "Beyond the Veil - The Great Escape"
+title: Beyond the Veil - The Great Escape
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 23
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "ezmerelda"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "orcus"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "amn"
+  - "barovia"
+  - "city-of-brass"
+  - "scornubel"
+things:
+  - "bag-of-holding"
+  - "deck-of-illusions"
+factions:
+  - "amnians"
 ---
 
 The group immediately moves to cross the Chionthar River and move on the Efreeti this very night.

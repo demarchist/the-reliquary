@@ -1,8 +1,43 @@
 ---
-title: "Barovia - Session 10"
+title: Barovia - Session 10
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 10
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "captain-dink"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "ella"
+  - "ezmerelda"
+  - "gowain"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "madame-eva"
+  - "pickles"
+  - "ront"
+  - "tarkathee-daru"
+  - "urwen"
+  - "van-richten"
+  - "wachter"
+places:
+  - "barovia"
+  - "ethereal-plane"
+  - "vallaki"
+things:
+  - "gwen"
+  - "jade-frog"
+  - "piwafwi"
+  - "the-reaver"
+  - "thundercannon"
+factions:
+  - "drow-faction"
+  - "keepers-of-the-feather"
+  - "vistani"
 ---
 
 The group sits around their table in the bluewater inn, looking at Urwen in shock.  Tark speaks up first asking if the wife is a "bird person" and makes flapping motions with his arms.  Urwen urges the group to keep it down, looking around the deserted Inn cautiously. Then Cirrus speaks up, asking about the kids too and mimicking the flapping arm motion, to which Urwen sighs and nods as well.  Eventually, after much mimicking of one another, the group determines that Urwens entire bloodline are Were-Ravens.  Urwen off handidly remarks that the undead cat that Tark brough back stopped moving earlier in the day and he buried it out back.   Just then, a commotion erupts from the stables, with the screeches of children and a lions roar, Chekhov and the other two Urwen boys come tearing into the common room, with Aurora fast on their heels, a 600lb tiger charging after them scattering tables and chairs.   The kids laugh in glee and Aurora pounces around a bit, her white and grey stripes and spots catching the firelight before rolling onto her back, presenting a belly for some rubs.  Urwen, initially outraged and calling for the kids to "take it outside!" shakes his head and chuckles, lamenting that laughter is not a common thing in Barovia and heads to the bar to fetch the group some more Ale.  Mr. Pickles, the Goblin servant, steps into the doorway, his heavy robe obscuring his inhuman features, and shakes his head in disgust before plodding over to Patches.  Mr. Pickles laments the weakness of human children, that Chekhov is not taking well to his stabbing lessons.   Chekhov approaches the group at this point, saying that he hates Mr. Pickles lessons, and that Mr. Pickles is weird and asks if maybe he could just stay in Vallaki.  The group scoffs at this, saying that the life of a Squire is on the road, with his master and that the only way to survive this place is though training and endurance.  Chekhov asks several of the group about their backgrounds but gets little.  Chekhov agrees to continue training., albeit reluctantly, and Patches sends him off with Mr. Pickles.  After the events of the last two weeks; The attack on Baldurs gate and this horrid Demi-plane, the group decides to take an inventory and divide up their potions and scrolls. With the chores out of the way, the group ends up drinking heavily, with Buumi passing out and being carried to his bed by Tark, Patches smoking by herself in a corner the common room.

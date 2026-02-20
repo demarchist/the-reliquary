@@ -1,8 +1,42 @@
 ---
-title: "Pirates and Fireworks"
+title: Pirates and Fireworks
 chapter: 14
-chapterTitle: ""
 session: 16
+people:
+  - "aliyah-faen-tlabbar"
+  - "beryan"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jarlaxle"
+  - "lathander"
+  - "li-xian"
+  - "lolth"
+  - "megno-slatesunder"
+  - "ront"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "vecna"
+places:
+  - "damara"
+  - "faerun"
+  - "feanons-tower"
+  - "luskan"
+  - "machina-factory"
+  - "menzoberranzan"
+  - "the-establishment"
+  - "vaasa"
+things:
+  - "arkto"
+  - "bag-of-holding"
+  - "eclipse"
+factions:
+  - "drow-faction"
+  - "house-faen-tlabbar"
+  - "red-wizards-of-thay"
 ---
 
 Feanon has things to do in his Tower, things that cannot wait.

@@ -1,8 +1,24 @@
 ---
-title: "The Demon Lords - Marilith Attack"
+title: The Demon Lords - Marilith Attack
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "juiblex"
+  - "shar"
+  - "snorbul"
+places:
+  - "blingdenstone"
+  - "underdark"
+things:
+  - "gwen"
+factions:
+  - "svirfneblin-faction"
 ---
 
 Snorbuls cousin blinks and smiles at his cousin in greeting.

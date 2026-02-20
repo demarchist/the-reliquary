@@ -1,8 +1,31 @@
 ---
-title: "Barovia - Session 5"
+title: Barovia - Session 5
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 5
+people:
+  - "aliyah-faen-tlabbar"
+  - "baba-lysaga"
+  - "gerwan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "morgantha"
+  - "pickles"
+  - "ront"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "castle-ravenloft"
+  - "ethereal-plane"
+  - "old-bonegrinder"
+  - "vallaki"
+things:
+  - "gwen"
+  - "piwafwi"
+  - "thundercannon"
+factions:
+  - "drow-faction"
 ---
 
 The group rested up on the high road, just after the Bridge spanning the Tser Chasm.  Tark appears out of the mist, confused, but after a few seconds everything seems normal and no one seems to notice his absence.  As the group decides to head on along the road to Vallaki, they ask Ireena what they can expect.  She tells them of the ominous gates that separate the Valley in half, huge and unmanned.  Patches moves on ahead, scaling a small cliff and hill to get a good view and confirms that the massive gate is a duplicate of the ones they had seen before and are indeed unmanned.  The group continues on, through the gates and begins to descend into the valley.  Behind them, up the slope of the mountain looms the Castle Ravenloft, ahead of them in the valley, shrouded in mists and dreary rain, is a dark forest with the town of Vallaki nestled between it and the banks of a large lake, the mountains rising steeply facing the town across the water. 

@@ -1,8 +1,25 @@
 ---
-title: "Al Askar - Arrival at Iyum"
+title: Al Askar - Arrival at Iyum
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 25
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "djoser"
+  - "doc"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jareem"
+  - "liara"
+  - "moot"
+  - "vecna"
+places:
+  - "amn"
+  - "iyum"
+factions:
+  - "amnians"
+  - "obsidian-order"
 ---
 
 They awake the next morning on the northern shores of the Throat of Al Hawia and begin to make breakfast.

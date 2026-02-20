@@ -1,8 +1,33 @@
 ---
-title: "Al Askar - The Golden Tower pt.2"
+title: Al Askar - The Golden Tower pt.2
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 30
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "fawden"
+  - "gundren-rockseeker"
+  - "rudjek"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "vecna"
+places:
+  - "feanons-tower"
+  - "golden-tower"
+  - "machina-factory"
+  - "sharza"
+  - "thueba-swamp"
+  - "toril"
+  - "underdark"
+things:
+  - "efreeti-bottle"
+  - "ringed-veils"
+  - "the-last-word"
+factions:
+  - "saurians"
 ---
 
 It takes a few moments for the group to understand they are under attack.

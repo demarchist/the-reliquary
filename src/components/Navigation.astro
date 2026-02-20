@@ -8,6 +8,7 @@ const links = [
   { href: `${base}/wiki/`, label: 'Wiki' },
   { href: `${base}/timeline/`, label: 'Timeline' },
   { href: `${base}/map/`, label: 'Map' },
+  { href: `${base}/search/`, label: 'Search' },
 ];
 
 function isActive(href: string): boolean {
@@ -17,7 +18,7 @@ function isActive(href: string): boolean {
 ---
 
 <header class="border-b border-parchment-200 bg-parchment-50/80 backdrop-blur-sm sticky top-0 z-50">
-  <nav class="max-w-4xl mx-auto px-4 sm:px-6 flex items-center justify-between h-14">
+  <nav class="max-w-6xl mx-auto px-4 sm:px-6 flex items-center justify-between h-14">
     <a href={`${base}/`} class="font-serif text-lg font-bold text-ink-900 no-underline hover:text-accent-600 transition-colors">
       The Reliquary
     </a>

@@ -1,8 +1,16 @@
 ---
-title: "Ziggurat"
+title: Ziggurat
 chapter: 14
-chapterTitle: ""
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "tarkathee-daru"
+places:
+  - "shadowfell"
 ---
 
 The group continues their assault on the Doomstar Legion, hammering the steps of the Ziggurat and the shield-wall formation of Devils

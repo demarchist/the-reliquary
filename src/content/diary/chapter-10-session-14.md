@@ -1,8 +1,26 @@
 ---
-title: "Beyond the Veil - The City of Spiders pt 2."
+title: Beyond the Veil - The City of Spiders pt 2.
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 14
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "finn"
+  - "horatio-von-bumidere"
+  - "jarlaxle"
+  - "kangaxx"
+  - "kimmuriel"
+  - "lolth"
+  - "madame-eva"
+  - "pickles"
+  - "tarkathee-daru"
+places:
+  - "the-establishment"
+factions:
+  - "drow-faction"
+  - "house-baenre"
 ---
 
 The group begins their trek across the city, as they go though they begin to question their destination.

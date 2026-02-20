@@ -1,8 +1,40 @@
 ---
-title: "The Demon Lords - Interlude"
+title: The Demon Lords - Interlude
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "beryan"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "doc"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "pickles"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "thorna"
+places:
+  - "astral-plane"
+  - "daggerford"
+  - "evermeet"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "kossenberg"
+  - "rockseeker-manufactory"
+  - "the-crossroads"
+  - "the-establishment"
+things:
+  - "chardalyn"
+  - "well-of-many-worlds"
+factions:
+  - "bedine"
 ---
 
 Returned to the Barony, the group splits up.

@@ -1,8 +1,21 @@
 ---
-title: "The Bog - Session 5"
+title: The Bog - Session 5
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 5
+people:
+  - "doc"
+  - "ella"
+  - "goblin-king"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lorde"
+  - "tarkathee-daru"
+places:
+  - "feanons-tower"
+  - "goblin-town"
+  - "the-bog"
+  - "the-labyrinth"
 ---
 
 Riding the snail and Turtle, the group sees a large settlement in the distance.  Eventually they arrive at Goblin town, a sprawling collection of ramshackle abodes.  Four landmarks stand out, a set of Docks, a large decrepit tower, a huge green glowing cauldron with a structure around it and a huge Mushroom housing an inn.

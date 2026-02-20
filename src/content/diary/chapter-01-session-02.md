@@ -1,8 +1,27 @@
 ---
-title: "Phandalin - Session 2"
+title: Phandalin - Session 2
 chapter: 1
-chapterTitle: "Phandalin"
+chapterTitle: Phandalin
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "iarno"
+  - "jack-mayer-johnson-mathews"
+  - "reidoth"
+  - "ront"
+  - "shar"
+  - "sharess"
+  - "sildar"
+  - "tarkathee-daru"
+places:
+  - "cragmaw-castle"
+  - "feanons-tower"
+  - "neverwinter"
+  - "thundertree"
+things:
+  - "tavern-of-doors"
 ---
 
 head back to inn, Sildar takes care of IARNO. - discuss the fate of Blackspider with SILDAR.

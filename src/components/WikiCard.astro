@@ -4,9 +4,10 @@ interface Props {
   category: string;
   description?: string;
   slug: string;
+  appearanceCount?: number;
 }
 
-const { title, category, description, slug } = Astro.props;
+const { title, category, description, slug, appearanceCount } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const categoryColors: Record<string, string> = {
@@ -24,6 +25,9 @@ const categoryColors: Record<string, string> = {
       <span class:list={['text-xs font-medium px-2 py-0.5 rounded-full', categoryColors[category] || 'bg-parchment-200 text-ink-600']}>
         {category}
       </span>
+      {appearanceCount != null && appearanceCount > 0 && (
+        <span class="text-xs text-ink-400 font-mono">{appearanceCount} entries</span>
+      )}
     </div>
     <h3 class="font-serif font-semibold text-ink-800 group-hover:text-accent-600 transition-colors">
       {title}

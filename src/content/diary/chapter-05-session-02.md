@@ -1,8 +1,35 @@
 ---
-title: "Barovia - Session 2"
+title: Barovia - Session 2
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "baba-lysaga"
+  - "chani"
+  - "chekov"
+  - "cirrus-al-kayan"
+  - "gowain"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "irmesk"
+  - "jack-mayer-johnson-mathews"
+  - "morgantha"
+  - "ront"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "zhink"
+places:
+  - "barovia"
+  - "blood-on-the-vine-tavern"
+  - "castle-ravenloft"
+  - "vallaki"
+things:
+  - "gwen"
+  - "tavern-of-doors"
+factions:
+  - "vistani"
 ---
 
 The group surveys the aftermath of the battle and decides there's nothing left to do there.  They take their loot from the bodies and just as they are about to leave, JmJm fades into mist and disappears, and Gundren bursts from a shallow grave in a fountain of grave dirt and curses.  Gwen, the mechanical lion pads out of the mist and the group explains what has happened to them - the cursed mist and that they are heading to Barovia village, but don't know yet who to side with.

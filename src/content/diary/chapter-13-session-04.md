@@ -1,8 +1,20 @@
 ---
-title: "The Voyage Home - Ghosts of the Ancients"
+title: The Voyage Home - Ghosts of the Ancients
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 4
+people:
+  - "camea"
+  - "hohonu"
+  - "horatio-von-bumidere"
+  - "orcus"
+  - "vecna"
+places:
+  - "golden-tower"
+things:
+  - "saurian-firelance"
+factions:
+  - "saurians"
 ---
 
 The group spends some time deciding on their course of action.

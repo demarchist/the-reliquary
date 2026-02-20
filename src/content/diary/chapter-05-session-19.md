@@ -1,8 +1,43 @@
 ---
-title: "Barovia - Session 19"
+title: Barovia - Session 19
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 19
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "baba-lysaga"
+  - "cirrus-al-kayan"
+  - "ezmerelda"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "madame-eva"
+  - "mordenkainen"
+  - "pickles"
+  - "rahadin"
+  - "ront"
+  - "sergei"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+places:
+  - "amber-temple"
+  - "barovia"
+  - "castle-ravenloft"
+  - "feanons-tower"
+  - "krezk"
+  - "oerth"
+  - "sanctum-of-krasus"
+  - "vallaki"
+things:
+  - "bag-of-holding"
+  - "piwafwi"
+  - "the-reaver"
+factions:
+  - "drow-faction"
 ---
 
 The Sanctum of Argynvost has not seen people for over 1400 years, but now it is veritably crowded.  Mordenkainen reclines in a plush chair, reviewing and re-reading his re aquired spellbook with stick leaning up against a nearby shelf while Ezmerelda sits at the large oak table, sequestered in one wing of the chamber, looking tired and unsure, glancing at the group occasionally.  Mr. Pickles has fallen asleep against the wall near the huge bed, his heavy crossbow across his lap and further along the wall.  Near the treasure, Chekhov is curled fast asleep at its foot, in awe of the mounds of coins and gems and behind him around the fire lay the great Wartigers.  The group settles down and rests, secure and safe in a chamber that has eluded Strahd for more than a millenia.

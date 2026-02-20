@@ -1,8 +1,35 @@
 ---
-title: "The Bog - Session 10"
+title: The Bog - Session 10
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 10
+people:
+  - "aliyah-faen-tlabbar"
+  - "amaram"
+  - "doc"
+  - "goblin-king"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "kangaxx"
+  - "lady-faye"
+  - "mediocris-dente"
+  - "orcus"
+  - "ront"
+  - "shar"
+  - "tarkathee-daru"
+  - "zhink"
+places:
+  - "baldurs-gate"
+  - "goblin-town"
+  - "menzoberranzan"
+  - "neverwinter"
+  - "the-bog"
+things:
+  - "tavern-of-doors"
+  - "the-last-word"
+factions:
+  - "duergar-faction"
 ---
 
 The group is battling Goblins in the bog, and the Goblin king suddenly leaps from his shoes after a vicious hit against him. Suddenly a massive boom and the whole bog begins to shake. Looking into the sky, a massive outline in the form of the Goblin king looms over the bog - and it's moving towards the group and Goblin town.  Doc B. is carried off in a tidal wave of Goblins as a mist rises.  As the group looks around, portals begin to open, fleeing goblins heading towards Goblin town.  In fact, everything seems to be fleeing in the direction of Goblin town.

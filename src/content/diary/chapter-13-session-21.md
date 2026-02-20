@@ -1,8 +1,36 @@
 ---
-title: "The Voyage Home - Vecna Attacks"
+title: The Voyage Home - Vecna Attacks
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 21
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "fawden"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jareem"
+  - "madame-eva"
+  - "ront"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "vaketh"
+  - "vecna"
+places:
+  - "astral-plane"
+  - "feanons-tower"
+  - "sharza"
+  - "the-establishment"
+things:
+  - "delzoun-instant-fortress"
+  - "saurian-firelance"
+factions:
+  - "faerun-defense-force"
+  - "saurians"
 ---
 
 The first wave of Undead fodder mindlessly pushes through the shield and is chewed apart by Doc B’s insect Swarm as they bring firelances to bear.

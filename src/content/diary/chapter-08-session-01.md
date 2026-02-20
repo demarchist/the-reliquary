@@ -1,8 +1,60 @@
 ---
-title: "The Underdark - Session 1"
+title: The Underdark - Session 1
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "anaxtrasa"
+  - "atropos"
+  - "aurinax"
+  - "bahamut"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "corpsetaker"
+  - "doc"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "karsus"
+  - "li-xian"
+  - "lodan"
+  - "lord-neverember"
+  - "megno-slatesunder"
+  - "mordenkainen"
+  - "orcus"
+  - "pickles"
+  - "selune"
+  - "shaahir"
+  - "tarkathee-daru"
+  - "theodemir"
+places:
+  - "amn"
+  - "astral-plane"
+  - "feanons-tower"
+  - "gravenhollow"
+  - "helms-hold"
+  - "keep-of-thunder-bluff"
+  - "menzoberranzan"
+  - "neverwinter"
+  - "oerth"
+  - "sanctum-of-krasus"
+  - "selunia"
+  - "silverymoon"
+  - "sundabar"
+  - "the-moonwood"
+  - "thunder-bluff"
+  - "underdark"
+  - "waterdeep"
+things:
+  - "crystal-tuning-fork"
+  - "gwen"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "illithid-faction"
+  - "netherese"
 ---
 
 **The Briefing Ctd. & Sundabar**

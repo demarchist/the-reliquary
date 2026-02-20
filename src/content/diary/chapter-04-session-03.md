@@ -1,8 +1,20 @@
 ---
-title: "The Bog - Session 3"
+title: The Bog - Session 3
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 3
+people:
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lothli"
+  - "tarkathee-daru"
+  - "zhink"
+places:
+  - "snorbuls-hole"
+  - "the-bog"
+things:
+  - "gwen"
 ---
 
 Lodged in a tree above the ruined tower, Fey'Anon is doubly startled as the Tree grabs at him and Tark simultaneously erupts from his chest harness.  Tark is grabbed by the tree almost instantly, but Fey quickly puts the creature to sleep and it releases them.  Fey is still flying and settles onto the tree, Tark falls, but catches the ruined roof edge and pulls himself up and into the ruins and sees Buumi below - mid coitus with a beautiful woman.

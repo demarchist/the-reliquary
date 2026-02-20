@@ -1,8 +1,33 @@
 ---
-title: "Al Askar - The Speaker of Zalaam"
+title: Al Askar - The Speaker of Zalaam
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 26
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "djoser"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "liara"
+  - "ront"
+  - "rudjek"
+  - "sebek"
+  - "tarkathee-daru"
+  - "vecna"
+places:
+  - "al-askar"
+  - "astral-plane"
+  - "iyum"
+  - "ras-alkan"
+things:
+  - "arkto"
+  - "bag-of-holding"
+  - "gwen"
+factions:
+  - "cult-of-zalaam"
+  - "usurpers-of-rudjek"
 ---
 
 The group continues their debate with the Speaker, tension is high

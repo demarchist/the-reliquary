@@ -1,8 +1,21 @@
 ---
-title: "The Voyage Home - Caught in the Act"
+title: The Voyage Home - Caught in the Act
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "camea"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hohonu"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "ethereal-plane"
 ---
 
 The group begins to rest in the cleansed Solarium, it takes some effort, but they get a fire going.

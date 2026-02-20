@@ -1,8 +1,50 @@
 ---
-title: "Home"
+title: Home
 chapter: 14
-chapterTitle: ""
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "bolg"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "doc"
+  - "finn"
+  - "gaddock"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jarlaxle"
+  - "lathander"
+  - "lo-dan"
+  - "pickles"
+  - "ront"
+  - "ruthir"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "vladalma"
+  - "zhengyi"
+places:
+  - "amn"
+  - "barovia"
+  - "blingdenstone"
+  - "ethereal-plane"
+  - "faerun"
+  - "feanons-tower"
+  - "keep-of-thunder-bluff"
+  - "rockseeker-manufactory"
+  - "scornubel"
+  - "silverymoon"
+  - "the-establishment"
+  - "vaasa"
+factions:
+  - "amnians"
+  - "bregan-daerthe"
+  - "drow-faction"
+  - "faerun-defense-force"
+  - "netherese"
+  - "red-wizards-of-thay"
+  - "svirfneblin-faction"
 ---
 
 The group finds themselves in the middle of town on a hot summer's afternoon

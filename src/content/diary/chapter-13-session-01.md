@@ -1,8 +1,17 @@
 ---
-title: "The Voyage Home - The Undead Legions"
+title: The Voyage Home - The Undead Legions
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "tarkathee-daru"
+things:
+  - "arkto"
 ---
 
 A horde of Undead rises from the swamps and the group turns to face them.

@@ -1,8 +1,48 @@
 ---
-title: "Silverymoon - Session 14"
+title: Silverymoon - Session 14
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 14
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gaddock"
+  - "gundren-rockseeker"
+  - "high-marshal-arasume"
+  - "horatio-von-bumidere"
+  - "kenshi"
+  - "megno-slatesunder"
+  - "omar"
+  - "orcus"
+  - "pickles"
+  - "shaahir"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "zhengyi"
+places:
+  - "amn"
+  - "baldurs-gate"
+  - "barovia"
+  - "damara"
+  - "gauntlgrym"
+  - "helms-hold"
+  - "neverwinter"
+  - "silverymoon"
+  - "sundabar"
+  - "thunder-bluff"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "tavern-of-doors"
+factions:
+  - "amnians"
+  - "illithid-faction"
+events:
+  - "council-of-helms-hold"
 ---
 
 **The Plaza of the Watchers**

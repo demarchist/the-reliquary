@@ -1,8 +1,37 @@
 ---
-title: "The Sanctum - Session 14"
+title: The Sanctum - Session 14
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 14
+people:
+  - "aliyah-faen-tlabbar"
+  - "anaxtrasa"
+  - "aurinax"
+  - "bahamut"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "li-xian"
+  - "madame-eva"
+  - "ront"
+  - "s-olaa"
+  - "shaahir"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "athkatla"
+  - "castle-ravenloft"
+  - "helms-hold"
+  - "neverwinter"
+  - "waterdeep"
+things:
+  - "tavern-of-doors"
+  - "the-last-word"
+factions:
+  - "amnians"
 ---
 
 **Prepping for Battle**

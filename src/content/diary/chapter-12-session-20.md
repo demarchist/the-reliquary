@@ -1,8 +1,23 @@
 ---
-title: "Al Askar - The Coldgate"
+title: Al Askar - The Coldgate
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 20
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+things:
+  - "saurian-firelance"
+  - "titanic-forge"
+factions:
+  - "cult-of-zalaam"
 ---
 
 *Past this tunnel is a vast cavern lit by the light of lava pools and magma. Many chains, pulleys, and cages hang from the ceiling. Past that you see a dragon, red and crystalline in nature, chained up in front of an ancient titanic forge, being tortured and prodded by a group of cultists in black robes wearing skull masks. The cultists punish the creature and you hear a piercing cry of pain from the dragon as it slumps over: it appears to be too weak to set itself free.*

@@ -1,8 +1,35 @@
 ---
-title: "Silverymoon - Session 15"
+title: Silverymoon - Session 15
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 15
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "luumsh"
+  - "megno-slatesunder"
+  - "moot"
+  - "pickles"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "high-hold"
+  - "kossenberg"
+  - "lake-seluna"
+  - "silverymoon"
+  - "sundabar"
+  - "the-evermoors"
+  - "the-moonwood"
+  - "thunder-bluff"
+  - "waterdeep"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "tavern-of-doors"
 ---
 
 **Silverymoon and the Teleport Circle**

@@ -1,8 +1,41 @@
 ---
-title: "Beyond the Veil - Time at Home"
+title: Beyond the Veil - Time at Home
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 19
+people:
+  - "aliyah-faen-tlabbar"
+  - "anaxtrasa"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "finn"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lady-faye"
+  - "snorbul"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "thorna"
+  - "veygar"
+places:
+  - "dokkar"
+  - "feanons-tower"
+  - "keep-of-thunder-bluff"
+  - "kossenberg"
+  - "menzoberranzan"
+  - "scornubel"
+  - "svartalfheim"
+  - "the-establishment"
+  - "the-labyrinth"
+  - "underdark"
+things:
+  - "mythallar"
+factions:
+  - "duergar-faction"
+  - "netherese"
+  - "zhentarim"
 ---
 
 The group stays in svartalfheim for a few days.

@@ -1,8 +1,38 @@
 ---
 title: "The Underdark - & 20"
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 19
+people:
+  - "aliyah-faen-tlabbar"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "droki"
+  - "gaddock"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "kenshi"
+  - "madame-eva"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "zuggtmoy"
+places:
+  - "astral-plane"
+  - "ethereal-plane"
+  - "feywild"
+  - "gracksuluth"
+  - "sanctum-of-krasus"
+  - "shadowfell"
+  - "underdark"
+factions:
+  - "derro-faction"
+  - "duergar-faction"
+  - "netherese"
 ---
 
 Tark is holed up in the bathroom, in the process of pounding the stone with his fists, wrecking the place

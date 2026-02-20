@@ -1,8 +1,29 @@
 ---
-title: "Shadows of the Empire - Through the Gates"
+title: Shadows of the Empire - Through the Gates
 chapter: 11
-chapterTitle: "Shadows of the Empire"
+chapterTitle: Shadows of the Empire
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "ella"
+  - "horatio-von-bumidere"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "al-askar"
+  - "barovia"
+  - "faerun"
+  - "iyum"
+  - "the-crossroads"
+things:
+  - "ringed-veils"
+factions:
+  - "cult-of-zalaam"
+  - "duergar-faction"
+  - "saurians"
 ---
 
 The group moves the bodies away from the Ringed Veils (Fargates)

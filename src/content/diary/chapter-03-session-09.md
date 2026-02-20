@@ -1,8 +1,28 @@
 ---
-title: "Baldur’s Gate - Session 9"
+title: Baldur’s Gate - Session 9
 chapter: 3
-chapterTitle: "Baldur’s Gate"
+chapterTitle: Baldur’s Gate
 session: 9
+people:
+  - "aliyah-faen-tlabbar"
+  - "chani"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lady-faye"
+  - "lothli"
+  - "ront"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "silverymoon"
+  - "the-moonwood"
+  - "underdark"
+things:
+  - "thundercannon"
+factions:
+  - "bregan-daerthe"
+  - "drow-faction"
 ---
 
 Leaping onto his animated carpet, JmJm then rode his carpet forward to attack the Alhoon.  Swiping at it with his Smoking cutlass, he got several good hits before the Stone Golem managed to grab the carpet from the air.  With a casual touch, the Alhoon disintegrated the carpet.  Leaping from it, JmJm stares in disbelief at the power of the Alhoon, and quickly decides he is out matched.  JmJm then proceeds to flee the chamber, with Steven on his back. 

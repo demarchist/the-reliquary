@@ -1,8 +1,48 @@
 ---
-title: "The Demon Lords - Barony Mercenaries"
+title: The Demon Lords - Barony Mercenaries
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 18
+people:
+  - "aliyah-faen-tlabbar"
+  - "beryan"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "jack-mayer-johnson-mathews"
+  - "juiblex"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "topsy-and-turvy"
+places:
+  - "abyss"
+  - "amn"
+  - "blingdenstone"
+  - "ethereal-plane"
+  - "faerun"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "gauntlgrym"
+  - "keep-of-thunder-bluff"
+  - "rockseeker-manufactory"
+  - "sanctum-of-krasus"
+  - "silverymoon"
+  - "sundabar"
+  - "temple-of-helm"
+  - "underdark"
+things:
+  - "chardalyn"
+  - "gwen"
+  - "thundercannon"
+  - "well-of-many-worlds"
+factions:
+  - "faerun-defense-force"
+  - "svirfneblin-faction"
 ---
 
 The group retires back to the party, Feanon needing a long rest to recharge his Arcane batteries.

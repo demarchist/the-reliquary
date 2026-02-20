@@ -1,8 +1,27 @@
 ---
-title: "Barovia - Session 6"
+title: Barovia - Session 6
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "boris"
+  - "cirrus-al-kayan"
+  - "gowain"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "izek"
+  - "morgantha"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "feanons-tower"
+  - "old-bonegrinder"
+  - "vallaki"
+things:
+  - "bag-of-holding"
+  - "the-reaver"
 ---
 
 The group found themselves at the top of the small hill where the old Bonegrinder once stood.  Now, the old windmill was nothing but a burning corpse of a building.  Fey finds a bag of holding on the corpse of Morgantha and ties her severed head to his belt.  Tired and hurt and the sun long since gone, the group began looking around for a good camp site.  The mists of Barovia had begun to thicken, and Fey and Buumi were fearful that the burning building may draw undesirable attention.   A little closer to the woods, not too far from the Old Bonegrinder, the group spotted some standing stone and decided to head over there, using the Megaliths to form a defensive perimeter.  Patches had an ulterior motive for going to the stones.  

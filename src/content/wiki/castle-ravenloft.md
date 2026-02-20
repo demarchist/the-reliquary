@@ -4,6 +4,7 @@ category: "Places"
 aliases: ["Ravenloft"]
 firstAppearance: "chapter-05-session-02"
 description: "Strahd Von Zarovich's massive dark gothic castle looming above the village of Barovia."
+status: "Active"
 ---
 
 Castle Ravenloft is the massive dark gothic castle of Strahd Von Zarovich, looming above the village of Barovia. It serves as the seat of his power over the cursed demiplane and houses his vampire court, crypts, and dark sanctums.

@@ -1,8 +1,26 @@
 ---
-title: "The Bog - Session 12"
+title: The Bog - Session 12
 chapter: 4
-chapterTitle: "The Bog"
+chapterTitle: The Bog
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "kangaxx"
+  - "lathander"
+  - "madame-eva"
+  - "orcus"
+  - "ront"
+  - "shar"
+  - "tarkathee-daru"
+  - "ysera"
+places:
+  - "barovia"
+  - "the-crossroads"
+things:
+  - "gwen"
 ---
 
 The group surveys the area, seeing a great many enemies milling around in the crater.  An outer ring of Zombies is spotted, with an inner ring of armored wights.  The group stealthily moves into position to get the best opening assault possible.  Using a large broken building as a staging point, Patches begins to flank the zombies, stealthily killing each she comes across.

@@ -1,8 +1,24 @@
 ---
-title: "Barovia - Session 1"
+title: Barovia - Session 1
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "kangaxx"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+things:
+  - "tavern-of-doors"
+  - "the-reaver"
+factions:
+  - "vistani"
 ---
 
 The group takes the lay of the land.  Gathering up the remains of Kangaxx, the group heads to the nearby tavern.

@@ -6,9 +6,10 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
+  wide?: boolean;
 }
 
-const { title, description = 'A scholarly archive of the Rise of Atropos campaign' } = Astro.props;
+const { title, description = 'A scholarly archive of the Rise of Atropos campaign', wide = false } = Astro.props;
 ---
 
 <!doctype html>
@@ -24,7 +25,7 @@ const { title, description = 'A scholarly archive of the Rise of Atropos campaig
   </head>
   <body class="min-h-screen flex flex-col">
     <Navigation />
-    <main class="flex-1 w-full max-w-4xl mx-auto px-4 sm:px-6 py-8">
+    <main class:list={['flex-1 w-full mx-auto px-4 sm:px-6 py-8', wide ? 'max-w-6xl' : 'max-w-4xl']}>
       <slot />
     </main>
     <Footer />

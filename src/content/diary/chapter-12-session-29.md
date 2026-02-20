@@ -1,8 +1,22 @@
 ---
-title: "Al Askar - The Golden Tower"
+title: Al Askar - The Golden Tower
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 29
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "kumuzu-isa"
+  - "madame-eva"
+  - "ront"
+  - "rudjek"
+  - "tarkathee-daru"
+places:
+  - "feanons-tower"
+factions:
+  - "saurians"
 ---
 
 The group battles the elementals, two are banished and the Water elemental is still taking time to return from where it fell.

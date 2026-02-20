@@ -1,8 +1,50 @@
 ---
-title: "Beyond the Veil - The Aftermath"
+title: Beyond the Veil - The Aftermath
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 5
+people:
+  - "aliyah-faen-tlabbar"
+  - "beryan"
+  - "bolg"
+  - "cercei"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "mordenkainen"
+  - "omar"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "topsy-and-turvy"
+  - "vladalma"
+places:
+  - "anauroch"
+  - "castle-ravenloft"
+  - "fane-of-selune"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+  - "luskan"
+  - "rockseeker-manufactory"
+  - "silverymoon"
+  - "temple-of-helm"
+  - "the-establishment"
+  - "the-labyrinth"
+  - "underdark"
+  - "vaasa"
+things:
+  - "tavern-of-doors"
+factions:
+  - "drow-faction"
+  - "illithid-faction"
+  - "svirfneblin-faction"
 ---
 
 Back in the Barony, the group all go their separate ways from Feanons tower.

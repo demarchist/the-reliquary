@@ -10,6 +10,11 @@ const diary = defineCollection({
     session: z.number(),
     summary: z.string().optional(),
     date: z.string().optional(),
+    people: z.array(z.string()).optional(),
+    places: z.array(z.string()).optional(),
+    things: z.array(z.string()).optional(),
+    factions: z.array(z.string()).optional(),
+    events: z.array(z.string()).optional(),
   }),
 });
 
@@ -21,6 +26,8 @@ const wiki = defineCollection({
     aliases: z.array(z.string()).optional(),
     firstAppearance: z.string().optional(),
     description: z.string().optional(),
+    status: z.string().optional(),
+    quote: z.string().optional(),
   }),
 });
 

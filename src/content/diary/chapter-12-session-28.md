@@ -1,8 +1,17 @@
 ---
-title: "Al Askar - Conversing with Vecna"
+title: Al Askar - Conversing with Vecna
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 28
+people:
+  - "atropos"
+  - "orcus"
+  - "vecna"
+places:
+  - "feanons-tower"
+  - "golden-tower"
+things:
+  - "the-last-word"
 ---
 
 The group decides to head back to the tower and take a long rest rather than push through the tower wards that night.

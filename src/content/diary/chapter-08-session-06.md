@@ -1,8 +1,40 @@
 ---
-title: "The Underdark - Session 6"
+title: The Underdark - Session 6
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 6
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ilvara-mizzrym"
+  - "jack-mayer-johnson-mathews"
+  - "kenshi"
+  - "lemerlais"
+  - "megno-slatesunder"
+  - "pickles"
+  - "ront"
+  - "shar"
+  - "shuushar"
+  - "tarkathee-daru"
+  - "topsy-and-turvy"
+places:
+  - "darklake"
+  - "gracksuluth"
+  - "menzoberranzan"
+  - "the-crossroads"
+  - "underdark"
+  - "velkynvelve"
+things:
+  - "bag-of-holding"
+  - "piwafwi"
+factions:
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "illithid-faction"
 ---
 
 **Waking up and Wind Walking**

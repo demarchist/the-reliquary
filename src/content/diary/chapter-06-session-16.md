@@ -1,8 +1,36 @@
 ---
 title: "Silverymoon - (85th!)"
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 16
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "ella"
+  - "gundren-rockseeker"
+  - "harold-ophrella"
+  - "horatio-von-bumidere"
+  - "luumsh"
+  - "madame-eva"
+  - "megno-slatesunder"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "ethereal-plane"
+  - "high-hold"
+  - "keep-of-thunder-bluff"
+  - "kossenberg"
+  - "silverymoon"
+  - "sundabar"
+  - "thunder-bluff"
+things:
+  - "gwen"
+factions:
+  - "zhentarim"
 ---
 
 **Tapas in Sundabar**

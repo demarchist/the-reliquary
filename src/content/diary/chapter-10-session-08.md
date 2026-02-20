@@ -1,8 +1,27 @@
 ---
-title: "Beyond the Veil - Titanic Battles"
+title: Beyond the Veil - Titanic Battles
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 8
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "ella"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ront"
+  - "tarkathee-daru"
+  - "yeenoghu"
+places:
+  - "feanons-tower"
+  - "gauntlgrym"
+  - "the-labyrinth"
+  - "underdark"
+things:
+  - "deck-of-illusions"
+  - "delzoun-instant-fortress"
+factions:
+  - "drow-faction"
 ---
 
 The battle does not go well for Yenooghu.

@@ -1,8 +1,39 @@
 ---
-title: "Neverwinter - Session 1"
+title: Neverwinter - Session 1
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jeckeyll"
+  - "kangaxx"
+  - "lord-neverember"
+  - "lorde"
+  - "lothli"
+  - "madame-eva"
+  - "sha-alazzi"
+  - "tarkathee-daru"
+  - "venomfang"
+places:
+  - "barovia"
+  - "keep-of-thunder-bluff"
+  - "moonstone-mask-inn"
+  - "neverwinter"
+  - "shadowfell"
+  - "the-chasm"
+things:
+  - "spellforge"
+  - "tavern-of-doors"
+  - "the-reaver"
+factions:
+  - "drow-faction"
+  - "netherese"
+  - "red-wizards-of-thay"
+  - "spellforged-adventuring-company"
+events:
+  - "refounding-festival"
 ---
 
 Breaking camp early, Lothli heads out north on her horse, cresting a small hill about an hour after sunrise, seeing the city of Neverwinter sprawling out before her.  Crowds are already gathering for the day, coming from nearby hamlets to enjoy the Refounding festival.  As Lothli trots her horse towards the gates, the box opens and Tark leaps forth.  One by one, the group members hop out of the box, startling the horse.  Buumi gives some backstory on the city, the refounding festival and points out the long dormant Volcano overlooking the city. Buumi also mentions he is the Nephew of the Lord of the City - Lord Dagult Neverember.

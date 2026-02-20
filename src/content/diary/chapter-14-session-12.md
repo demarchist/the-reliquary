@@ -1,8 +1,44 @@
 ---
-title: "The Grafted (anniversary game)"
+title: The Grafted (anniversary game)
 chapter: 14
-chapterTitle: ""
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "ancalagon"
+  - "atropos"
+  - "bolg"
+  - "cirrus-al-kayan"
+  - "corpsetaker"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jareem"
+  - "li-xian"
+  - "madame-eva"
+  - "selune"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "thorna"
+  - "vecna"
+  - "zhengyi"
+places:
+  - "amn"
+  - "faerun"
+  - "feanons-tower"
+  - "keep-of-thunder-bluff"
+  - "shadowfell"
+  - "snorbuls-hole"
+  - "thunder-bluff"
+things:
+  - "bag-of-holding"
+  - "the-reaver"
+  - "thundercannon"
+  - "well-of-many-worlds"
+factions:
+  - "drow-faction"
+  - "netherese"
+  - "svirfneblin-faction"
 ---
 
 Snorbul and Thorna arrive, having seen the plume of dust and smoke from the Barony proper

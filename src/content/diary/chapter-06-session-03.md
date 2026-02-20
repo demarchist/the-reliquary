@@ -1,8 +1,40 @@
 ---
-title: "Silverymoon - Session 3"
+title: Silverymoon - Session 3
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "bahamut"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "mediocris-dente"
+  - "megno-slatesunder"
+  - "rahadin"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+places:
+  - "barovia"
+  - "gauntlgrym"
+  - "neverwinter"
+  - "silverymoon"
+  - "sundabar"
+  - "temple-of-helm"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "deck-of-illusions"
+  - "gwen"
+  - "luck-blade"
+  - "the-reaver"
+factions:
+  - "derro-faction"
+  - "illithid-faction"
 ---
 
 The group is upstairs in their rooms in The Hopping Hair, staring at their accumulated wealth.   Cirrus turns to the others, looking up from his improvised ledger and simply proclaims "We are rich".  Cercei immediately strolls over to the sacks of coin and demands no one spend her treasure!  The group shares incredulous looks and Buumi attempts to diffuse the situation, eventually convincing the little dragon that by spending gold on equipment they can in turn accumulate more gold, which mollifies the hatchling.  Having reduced their load considerably, the group splits the gold between their two bags of holding, Fey taking one and Tark the other.  The idea of shopping comes up and the party splits, with Gundren, Fey and Buumi heading to the Everfire forges while Cirrus and Patches go looking for an alchemist.  The group asks Tark what he's going to do for the day and he responds with "exploring".  Cercei is left on her pile of coins in the room with Aurora and Kitty.

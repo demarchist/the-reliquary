@@ -1,8 +1,50 @@
 ---
-title: "Beyond the Veil - Visions"
+title: Beyond the Veil - Visions
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "bahamut"
+  - "cirrus-al-kayan"
+  - "feanon-serinde"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lady-faye"
+  - "lolth"
+  - "moot"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "vizerion-devir"
+  - "zhengyi"
+places:
+  - "abyss"
+  - "amn"
+  - "ethereal-plane"
+  - "evermeet"
+  - "faerun"
+  - "feanons-tower"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+  - "menzoberranzan"
+  - "scornubel"
+  - "selunia"
+  - "silverymoon"
+  - "underdark"
+things:
+  - "delzoun-instant-fortress"
+  - "tavern-of-doors"
+  - "the-last-word"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "illithid-faction"
+  - "red-wizards-of-thay"
 ---
 
 Tark looks upon the great stonegiant standing beneath the magnificent crystal heart of the library.

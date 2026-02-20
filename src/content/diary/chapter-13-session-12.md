@@ -1,8 +1,23 @@
 ---
-title: "The Voyage Home - Entering the Factory"
+title: The Voyage Home - Entering the Factory
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 12
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "tarkathee-daru"
+  - "vecna"
+places:
+  - "machina-factory"
+  - "shadowfell"
+  - "thueba-swamp"
+things:
+  - "saurian-firelance"
+factions:
+  - "saurians"
 ---
 
 The group is tired and the subterranean ruins of this place seem as good as any to take a rest.

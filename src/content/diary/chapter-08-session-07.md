@@ -1,8 +1,47 @@
 ---
-title: "The Underdark - Session 7"
+title: The Underdark - Session 7
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "eilistraee"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ilvara-mizzrym"
+  - "jack-mayer-johnson-mathews"
+  - "juiblex"
+  - "lolth"
+  - "megno-slatesunder"
+  - "pickles"
+  - "ront"
+  - "shar"
+  - "shuushar"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "feanons-tower"
+  - "feywild"
+  - "gracksuluth"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+  - "menzoberranzan"
+  - "silverymoon"
+  - "snorbuls-hole"
+  - "the-crossroads"
+  - "underdark"
+  - "velkynvelve"
+things:
+  - "bag-of-holding"
+factions:
+  - "amnians"
+  - "derro-faction"
+  - "drow-faction"
+  - "red-wizards-of-thay"
+  - "svirfneblin-faction"
 ---
 
 **Captured**

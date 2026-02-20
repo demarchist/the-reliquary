@@ -4,6 +4,7 @@ category: "People"
 aliases: ["Baba Lysaga"]
 firstAppearance: "chapter-05-session-03"
 description: "Powerful witch and master of Morgantha and the other hags of Barovia."
+status: "Dead"
 ---
 
 ## Background

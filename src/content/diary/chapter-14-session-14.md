@@ -1,8 +1,26 @@
 ---
-title: "Lair Raid"
+title: Lair Raid
 chapter: 14
-chapterTitle: ""
 session: 14
+people:
+  - "aliyah-faen-tlabbar"
+  - "ancalagon"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "ront"
+  - "shar"
+  - "topsy-and-turvy"
+places:
+  - "ethereal-plane"
+  - "feanons-tower"
+  - "selunia"
+  - "snorbuls-hole"
+  - "the-bog"
+  - "the-establishment"
+factions:
+  - "drow-faction"
 ---
 
 The group parties and carouses until around midnight, when exhaustion finally overtakes them and they retire to their lairs.

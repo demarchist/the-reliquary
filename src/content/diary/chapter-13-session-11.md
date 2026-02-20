@@ -1,8 +1,25 @@
 ---
-title: "The Voyage Home - The Tunnel"
+title: The Voyage Home - The Tunnel
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "hohonu"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "ethereal-plane"
+  - "machina-factory"
+  - "shadowfell"
+  - "thueba-swamp"
+factions:
+  - "saurians"
 ---
 
 The next morning, the group packs their camp and continues their trek toward the Machina factory

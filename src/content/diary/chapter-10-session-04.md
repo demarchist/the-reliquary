@@ -1,8 +1,32 @@
 ---
-title: "Beyond the Veil - Killing Li Xian"
+title: Beyond the Veil - Killing Li Xian
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "corpsetaker"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "li-xian"
+  - "orcus"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+places:
+  - "amn"
+  - "ethereal-plane"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+things:
+  - "eclipse"
+  - "the-reaver"
+  - "thundercannon"
+factions:
+  - "amnians"
 ---
 
 The group finishes their spells and preparation, Buumi summoning his wings and Gundren ringing the bell of blessings.

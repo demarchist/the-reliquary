@@ -1,8 +1,33 @@
 ---
-title: "Al Askar - The Red Hills"
+title: Al Askar - The Red Hills
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "hasrala"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "omar"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+places:
+  - "al-askar"
+  - "ras-alkan"
+  - "sharza"
+  - "toril"
+  - "underdark"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "saurian-firelance"
+factions:
+  - "saurians"
 ---
 
 The group finds themselves in a familiar ancient set of ruins.

@@ -1,8 +1,20 @@
 ---
-title: "Al Askar - Leaving the Isle"
+title: Al Askar - Leaving the Isle
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 15
+people:
+  - "cirrus-al-kayan"
+  - "drizzly-dawg"
+  - "gundren-rockseeker"
+  - "jack-mayer-johnson-mathews"
+  - "liara"
+  - "rudjek"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "iyum"
+  - "serinde-isle"
 ---
 
 The group begins to scour the lair, looking for secret passages, coffins and treasure.

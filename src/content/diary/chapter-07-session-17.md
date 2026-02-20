@@ -1,8 +1,68 @@
 ---
-title: "The Sanctum - Session 17"
+title: The Sanctum - Session 17
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 17
+people:
+  - "aliyah-faen-tlabbar"
+  - "amaram"
+  - "anaxtrasa"
+  - "atropos"
+  - "aurinax"
+  - "baba-lysaga"
+  - "bahamut"
+  - "cercei"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "karsus"
+  - "lady-faye"
+  - "lemerlais"
+  - "li-xian"
+  - "lord-neverember"
+  - "megno-slatesunder"
+  - "mordenkainen"
+  - "myria-brightlance"
+  - "rahadin"
+  - "ront"
+  - "s-olaa"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "ysera"
+  - "zhengyi"
+places:
+  - "amn"
+  - "anauroch"
+  - "baldurs-gate"
+  - "barovia"
+  - "castle-ravenloft"
+  - "helms-hold"
+  - "keep-of-thunder-bluff"
+  - "neverwinter"
+  - "oerth"
+  - "phandalin"
+  - "sanctum-of-krasus"
+  - "shadowfell"
+  - "silverymoon"
+  - "sundabar"
+  - "the-crossroads"
+  - "thunder-bluff"
+  - "underdark"
+things:
+  - "gwen"
+  - "tavern-of-doors"
+  - "the-last-word"
+factions:
+  - "amnians"
+  - "illithid-faction"
+  - "netherese"
+events:
+  - "council-of-helms-hold"
 ---
 
 **Breakfast and Simulacra **

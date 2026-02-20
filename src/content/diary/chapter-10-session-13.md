@@ -1,8 +1,24 @@
 ---
-title: "Beyond the Veil - The City of Spiders pt.1"
+title: Beyond the Veil - The City of Spiders pt.1
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 13
+people:
+  - "aliyah-faen-tlabbar"
+  - "finn"
+  - "gromph-baenre"
+  - "gundren-rockseeker"
+  - "jarlaxle"
+  - "lolth"
+  - "tarkathee-daru"
+  - "vizerion-devir"
+places:
+  - "menzoberranzan"
+  - "sundabar"
+  - "underdark"
+factions:
+  - "drow-faction"
+  - "house-baenre"
 ---
 
 The group sits down in the shielded room and get the lay of the land from Dalfred.

@@ -1,8 +1,28 @@
 ---
-title: "The Voyage Home - Into the Depths"
+title: The Voyage Home - Into the Depths
 chapter: 13
-chapterTitle: "The Voyage Home"
+chapterTitle: The Voyage Home
 session: 17
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "fawden"
+  - "gundren-rockseeker"
+  - "hasrala"
+  - "jareem"
+  - "lolth"
+  - "sultan-bashir"
+  - "tarkathee-daru"
+  - "thorna"
+  - "vecna"
+places:
+  - "faerun"
+  - "golden-tower"
+  - "the-labyrinth"
+factions:
+  - "drow-faction"
+  - "obsidian-order"
 ---
 
 Cirrus has a fitful night’s sleep

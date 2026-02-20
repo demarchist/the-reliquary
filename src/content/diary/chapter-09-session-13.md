@@ -1,8 +1,33 @@
 ---
-title: "The Demon Lords - Blingdenstone"
+title: The Demon Lords - Blingdenstone
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 13
+people:
+  - "aliyah-faen-tlabbar"
+  - "bane"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "juiblex"
+  - "lolth"
+  - "moot"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "blingdenstone"
+  - "ethereal-plane"
+  - "gravenhollow"
+  - "underdark"
+things:
+  - "thundercannon"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
+  - "svirfneblin-faction"
 ---
 
 The group heads on through the tunnels, only a few scant hours from Blingdenstone.

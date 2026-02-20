@@ -1,8 +1,41 @@
 ---
-title: "The Underdark - Session 17"
+title: The Underdark - Session 17
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 17
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "ceregorach"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "demogorgon"
+  - "doc"
+  - "droki"
+  - "gundren-rockseeker"
+  - "ilvara-mizzrym"
+  - "jack-mayer-johnson-mathews"
+  - "pickles"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "veygar"
+places:
+  - "amn"
+  - "blingdenstone"
+  - "darklake"
+  - "gravenhollow"
+  - "menzoberranzan"
+  - "neverwinter"
+things:
+  - "arkto"
+  - "gwen"
+  - "piwafwi"
+  - "the-last-word"
+factions:
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "stoneguard"
 ---
 
  Current hooks: 

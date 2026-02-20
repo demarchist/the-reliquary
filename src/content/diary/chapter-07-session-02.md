@@ -1,8 +1,32 @@
 ---
-title: "The Sanctum - Session 2"
+title: The Sanctum - Session 2
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 2
+people:
+  - "aliyah-faen-tlabbar"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ingrbotha"
+  - "lady-faye"
+  - "lodan"
+  - "megno-slatesunder"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+places:
+  - "baldurs-gate"
+  - "menzoberranzan"
+  - "sanctum-of-krasus"
+  - "shatterpeak"
+  - "underdark"
+factions:
+  - "bregan-daerthe"
+  - "drow-faction"
+  - "house-faen-tlabbar"
 ---
 
 The huge giant looks down at the group, his face stoic and unreadable.

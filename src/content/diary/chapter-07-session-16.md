@@ -1,8 +1,36 @@
 ---
-title: "The Sanctum - Session 16"
+title: The Sanctum - Session 16
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 16
+people:
+  - "aliyah-faen-tlabbar"
+  - "anaxtrasa"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "gneiss"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "li-xian"
+  - "madame-eva"
+  - "ront"
+  - "s-olaa"
+  - "shar"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "feanons-tower"
+  - "helms-hold"
+  - "neverwinter"
+  - "the-bog"
+  - "underdark"
+things:
+  - "deck-of-illusions"
+  - "tavern-of-doors"
+factions:
+  - "amnians"
+  - "drow-faction"
 ---
 
 **The Aftermath**

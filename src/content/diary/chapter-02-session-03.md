@@ -1,8 +1,22 @@
 ---
-title: "Neverwinter - Session 3"
+title: Neverwinter - Session 3
 chapter: 2
-chapterTitle: "Neverwinter"
+chapterTitle: Neverwinter
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "lothli"
+  - "sha-alazzi"
+  - "shar"
+  - "tarkathee-daru"
+places:
+  - "feanons-tower"
+things:
+  - "the-reaver"
+  - "thundercannon"
 ---
 
 Giblets splattered across the dusty room, the Undead beast has been obliterated where it lay.  The group proceeds to investigate the room, finding nothing until Patches sets here eyes on the mass of necrotic flesh still in the bed.  Steeling herself against the grossness, Patches plunges her hand in and retracts it with a beautiful golden earring.  Buumi Vomits.  The Earring is gold metal work that looks like a beetles head and legs and with a large ruby set into it as the "abdomen" .  Gundren investigates the earring, determining that it's a variation of the classic Ruby Necklace of Fireballs.  Patches looks around and finds the second earring splattered to the wall, devoid of a ruby.

@@ -1,8 +1,35 @@
 ---
-title: "Barovia - Session 9"
+title: Barovia - Session 9
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 9
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "cirrus-al-kayan"
+  - "ezmerelda"
+  - "gowain"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "madame-eva"
+  - "ront"
+  - "shar"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+  - "van-richten"
+places:
+  - "amber-temple"
+  - "barovia"
+  - "castle-ravenloft"
+  - "keep-of-thunder-bluff"
+  - "snorbuls-hole"
+  - "vallaki"
+things:
+  - "gwen"
+factions:
+  - "keepers-of-the-feather"
+  - "vistani"
 ---
 
 The group looks up at the ancient dragon statue.  Buumi stands there, wondering at the Sun-symbol amulet as Tark fades into the mist, quickly forgotten in this mind bending place.  Gundren phases into existence, heaving the non functional Gwen onto the back of a mount before meeting up with the group at the statue, and being suitably impressed by it.  Fey and Gundren investigate the statue while the rest of the group begins looking over the massive derelict Manor house.  Four stories tall, each floor being twenty feet high, the fortified manor is enormous, but it's east side has sustained heavy damage, with large portions collapsed.  The rain continues it's constant, cold drizzle and the sound of flowing water through ancient gutters is constant. The group, wary of traps, begins searching for pressure plate or triggers, but find none.  Patches climbs up to the second story quickly with her climbing kit and looks in through an arrow slit, seeing the large main hall, ancient decrepit furnishings and decoration throughout.   Down below, Fey and Gundren determine that the statue is indeed trapped but out of charge.  Cirrus decides to be straight forward and climbs the stairs to the main door, knocking one of the massive dragon headed knockers.  Triggering the trap of the statue, it opens it's mouth and blows a strong cold wind, the cone of cold long since depleted of power.  As the dragon statue closes it's mouth, Gundren snatches the blue gemstone core of the trap, a split second before losing his arm in the closing jaws.  The huge double doors swing open slowly with a screech of protesting hinges.  Cirrus and Buumi head into the main hall, and as they do, a great shadow flickers across the space and they hear a soft echoing flap of leathery wings. 

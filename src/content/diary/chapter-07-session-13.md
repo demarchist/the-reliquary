@@ -1,8 +1,51 @@
 ---
-title: "The Sanctum - Session 13"
+title: The Sanctum - Session 13
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 13
+people:
+  - "aliyah-faen-tlabbar"
+  - "atropos"
+  - "aurinax"
+  - "cercei"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "eilistraee"
+  - "ella"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lady-faye"
+  - "lemerlais"
+  - "lodan"
+  - "madame-eva"
+  - "moot"
+  - "mordenkainen"
+  - "ront"
+  - "s-olaa"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+  - "zhengyi"
+places:
+  - "amn"
+  - "feanons-tower"
+  - "helms-hold"
+  - "keep-of-thunder-bluff"
+  - "neverwinter"
+  - "selunia"
+  - "silverymoon"
+  - "the-evermoors"
+  - "thunder-bluff"
+things:
+  - "gwen"
+  - "tavern-of-doors"
+  - "thundercannon"
+factions:
+  - "amnians"
+  - "drow-faction"
+  - "red-wizards-of-thay"
 ---
 
 **Petey Greene, Money Launderer Extraordinaire**

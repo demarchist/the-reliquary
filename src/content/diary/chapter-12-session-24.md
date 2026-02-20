@@ -1,8 +1,30 @@
 ---
-title: "Al Askar - The Death Lord Flees"
+title: Al Askar - The Death Lord Flees
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 24
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "djoser"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jareem"
+  - "tarkathee-daru"
+  - "thorna"
+  - "vaketh"
+  - "vecna"
+places:
+  - "al-askar"
+  - "faerun"
+  - "iyum"
+  - "machina-factory"
+  - "sharza"
+  - "thueba-swamp"
+things:
+  - "the-last-word"
+factions:
+  - "saurians"
 ---
 
 The Death Lord looks to be in a dire situation as the tide of the battle turns, but he still has some tricks to play.

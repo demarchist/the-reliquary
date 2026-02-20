@@ -1,8 +1,24 @@
 ---
-title: "Barovia - Session 4"
+title: Barovia - Session 4
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "gerwan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "madame-eva"
+  - "mordenkainen"
+  - "strahd-von-zarovich"
+places:
+  - "tser-pool"
+things:
+  - "book-of-strahd"
+  - "gwen"
+factions:
+  - "vistani"
 ---
 
 The group found themselves discussing the ramifications of the book they found in the Vistani cart.  Going back to try to gather some clues about the cart, they discovered a loose floorboard, under which they find a suit of leather armor, daggers and poisons.  The group is then approached by a half Orc bard, another stranger in this land that had been with the Vistani for about a week.  Seeing other travelers, the half Orc Gerwan enthusiastically asked to be taken with them.  The half Orc also mentions that having stayed with the Vistani for the last week, he would have to tell them if Patches took what she found in the cart.  Reluctantly, Patches "returned" the items.  The group did however question one of the guards whose family owned the wagon.  The Guard claimed that the Book of Strahd was given to her family to safeguard many generations ago and knows nothing of it other than if Madame Eva wants them to have it, they can take it.

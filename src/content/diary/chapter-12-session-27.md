@@ -1,8 +1,31 @@
 ---
-title: "Al Askar - Slaying the Speaker"
+title: Al Askar - Slaying the Speaker
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 27
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "djoser"
+  - "doc"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "jareem"
+  - "rudjek"
+  - "selune"
+  - "sultan-bashir"
+  - "tarkathee-daru"
+  - "thorna"
+  - "vecna"
+places:
+  - "feanons-tower"
+  - "iyum"
+things:
+  - "saurian-firelance"
+  - "titanic-forge"
+factions:
+  - "usurpers-of-rudjek"
 ---
 
 Surrounded by a hoard of peasants and facing a powerful servant of Vecna, the group is in a tough situation.

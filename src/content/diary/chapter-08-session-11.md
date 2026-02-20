@@ -1,8 +1,33 @@
 ---
-title: "The Underdark - Session 11"
+title: The Underdark - Session 11
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 11
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "doc"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "jack-mayer-johnson-mathews"
+  - "orcus"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "shuushar"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "darklake"
+  - "gracksuluth"
+things:
+  - "eclipse"
+  - "luck-blade"
+factions:
+  - "drow-faction"
+  - "duergar-faction"
 ---
 
 **The Blood Ritual**

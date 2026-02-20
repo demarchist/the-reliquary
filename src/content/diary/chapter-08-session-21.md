@@ -1,8 +1,35 @@
 ---
-title: "The Underdark - Session 21"
+title: The Underdark - Session 21
 chapter: 8
-chapterTitle: "The Underdark"
+chapterTitle: The Underdark
 session: 21
+people:
+  - "aliyah-faen-tlabbar"
+  - "ceregorach"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "droki"
+  - "gundren-rockseeker"
+  - "kenshi"
+  - "madame-eva"
+  - "orcus"
+  - "pickles"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "gracksuluth"
+  - "sanctum-of-krasus"
+  - "sundabar"
+  - "underdark"
+factions:
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "house-baenre"
 ---
 
 Snorbul finishes up repairing the bathroom in the townhouse after a few hours of work.  Oddly, he has a pile of leftover rock pieces which he just piles in a corner and puts some flowers (from Doc) on top.

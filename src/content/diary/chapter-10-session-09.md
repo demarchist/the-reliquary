@@ -1,8 +1,31 @@
 ---
-title: "Beyond the Veil - The Depths"
+title: Beyond the Veil - The Depths
 chapter: 10
-chapterTitle: "Beyond the Veil"
+chapterTitle: Beyond the Veil
 session: 9
+people:
+  - "aliyah-faen-tlabbar"
+  - "baphomet"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "moradin"
+  - "selune"
+  - "tarkathee-daru"
+  - "yeenoghu"
+places:
+  - "ethereal-plane"
+  - "feanons-tower"
+  - "gauntlgrym"
+  - "sundabar"
+  - "the-chasm"
+  - "the-labyrinth"
+  - "underdark"
+things:
+  - "delzoun-instant-fortress"
+  - "gwen"
+  - "tavern-of-doors"
+factions:
+  - "illithid-faction"
 ---
 
 Locking up the newly acquired Instant Fortress, the group sets a watch and begins to rest up as Cirrus and Gundren begin to discuss what to do with the bodies of his kin.

@@ -1,8 +1,44 @@
 ---
-title: "Barovia - Session 18"
+title: Barovia - Session 18
 chapter: 5
-chapterTitle: "Barovia"
+chapterTitle: Barovia
 session: 18
+people:
+  - "aliyah-faen-tlabbar"
+  - "argynvost"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "ezmerelda"
+  - "goblin-king"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "ireena"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "madame-eva"
+  - "mordenkainen"
+  - "pickles"
+  - "rahadin"
+  - "ront"
+  - "sergei"
+  - "strahd-von-zarovich"
+  - "tarkathee-daru"
+  - "urwen"
+  - "van-richten"
+places:
+  - "barovia"
+  - "castle-ravenloft"
+  - "feanons-tower"
+  - "vallaki"
+things:
+  - "bag-of-holding"
+  - "gwen"
+  - "holy-symbol-of-ravenkind"
+  - "piwafwi"
+  - "the-last-word"
+  - "the-reaver"
+  - "thundercannon"
+  - "tome-of-strahd"
 ---
 
 The Stone Golems step from their plinths and turn to the group, their heavy footfalls shaking the stone hall.   Patches hurls a smoke bomb far down the corridor, just as she sees Peytr and his entourage ascend the steps and make the hallway.  The smoke bomb explodes in a swirl of opaque fog, blocking sight.  Cirrus, thinking fast, cracks his new staff against the stone floor and the diamond at it's top casts a brilliant blue glow.  A blue line of energy separates the group from the Golems and Peytr.   The Wall of Force takes effect and the glow fades, becoming completely invisible.  The rest of the group begins piling into the tower and making their ascent, Ireena protectively in the center of the group. With Patches leading, she finds trap after trap, marking them as she goes, unable to stop and disarm them.    The group begins their ascent as fast as they can,  Buumi and Gundren take up the rear as Gwen leaps up the stair well.  High above, the sullen glow of the crystal heart grows brighter and a dull thump of a heartbeat shakes the tower to it's very foundations.  On the narrow staircase, Buumi and Gwen lose their footing and begin to fall.  Seeing her companions in need, Patches shoots a web down onto Buumi from the floor above, stopping his fall before it starts.  Fey sees Gwen begin to tumble and condenses a wall of ice underneath her, stopping her fall, but not her momentum.  She slides across the slick ice, her claws raking long lines in the ice, until Tark grabs her mechanical tail and hauls, bringing her back to safety.

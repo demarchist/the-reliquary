@@ -1,8 +1,35 @@
 ---
-title: "The Sanctum - Session 19"
+title: The Sanctum - Session 19
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 19
+people:
+  - "aliyah-faen-tlabbar"
+  - "anaxtrasa"
+  - "aurinax"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "corpsetaker"
+  - "doc"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "li-xian"
+  - "ront"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "amn"
+  - "keep-of-thunder-bluff"
+  - "neverwinter"
+  - "snorbuls-hole"
+  - "sundabar"
+things:
+  - "gwen"
+factions:
+  - "amnians"
+  - "drow-faction"
 ---
 
 **The Attack Ctd.**

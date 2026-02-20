@@ -1,8 +1,23 @@
 ---
-title: "Moonlight Battle"
+title: Moonlight Battle
 chapter: 14
-chapterTitle: ""
 session: 7
+people:
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "jack-mayer-johnson-mathews"
+  - "selune"
+  - "tarkathee-daru"
+places:
+  - "abyss"
+things:
+  - "arkto"
+  - "eclipse"
+factions:
+  - "drow-faction"
+  - "illithid-faction"
 ---
 
 Gundren appears hundreds of feet in the air, flying over the battlefield astride Arkto and begins to blast at one of the Balors, getting her attention

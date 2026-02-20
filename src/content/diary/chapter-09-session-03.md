@@ -1,8 +1,56 @@
 ---
 title: "The Demon Lords - Sidequest!"
 chapter: 9
-chapterTitle: "The Demon Lords"
+chapterTitle: The Demon Lords
 session: 3
+people:
+  - "aliyah-faen-tlabbar"
+  - "aurinax"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "doc"
+  - "ella"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lady-faye"
+  - "lord-neverember"
+  - "megno-slatesunder"
+  - "ront"
+  - "selune"
+  - "strahd-von-zarovich"
+  - "surtr"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "thorna"
+  - "zhengyi"
+places:
+  - "amn"
+  - "anauroch"
+  - "castle-ravenloft"
+  - "daggerford"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "gracksuluth"
+  - "keep-of-thunder-bluff"
+  - "kossenberg"
+  - "neverwinter"
+  - "scornubel"
+  - "silverymoon"
+  - "sundabar"
+  - "underdark"
+  - "vaasa"
+  - "waterdeep"
+things:
+  - "chardalyn"
+  - "eclipse"
+factions:
+  - "amnians"
+  - "bedine"
+  - "drow-faction"
+  - "duergar-faction"
+  - "netherese"
+  - "red-wizards-of-thay"
 ---
 
 Things I forgot to include:

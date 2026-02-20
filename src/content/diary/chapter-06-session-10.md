@@ -1,8 +1,29 @@
 ---
-title: "Silverymoon - Session 10"
+title: Silverymoon - Session 10
 chapter: 6
-chapterTitle: "Silverymoon"
+chapterTitle: Silverymoon
 session: 10
+people:
+  - "aliyah-faen-tlabbar"
+  - "bahamut"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "li-xian"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "tarkathee-daru"
+  - "theodemir"
+places:
+  - "neverwinter"
+  - "silverymoon"
+things:
+  - "eclipse"
+  - "gwen"
+factions:
+  - "derro-faction"
 ---
 
 **The Hot Springs**

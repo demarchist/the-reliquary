@@ -1,8 +1,33 @@
 ---
-title: "The Sanctum - Session 1"
+title: The Sanctum - Session 1
 chapter: 7
-chapterTitle: "The Sanctum"
+chapterTitle: The Sanctum
 session: 1
+people:
+  - "aliyah-faen-tlabbar"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lady-faye"
+  - "madame-eva"
+  - "megno-slatesunder"
+  - "pickles"
+  - "ront"
+  - "tarkathee-daru"
+  - "theodemir"
+places:
+  - "amn"
+  - "sanctum-of-krasus"
+  - "shatterpeak"
+  - "sundabar"
+things:
+  - "deck-of-illusions"
+  - "gwen"
+  - "luck-blade"
+  - "thundercannon"
+factions:
+  - "netherese"
 ---
 
 **Planning and Expeditions**

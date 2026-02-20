@@ -1,8 +1,25 @@
 ---
-title: "Al Askar - Approaching the Temple"
+title: Al Askar - Approaching the Temple
 chapter: 12
-chapterTitle: "Al Askar"
+chapterTitle: Al Askar
 session: 8
+people:
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "liara"
+  - "madame-eva"
+  - "ront"
+  - "snorbul"
+  - "tarkathee-daru"
+places:
+  - "faerun"
+  - "feanons-tower"
+  - "shadowfell"
+  - "temple-of-carthus"
+factions:
+  - "faerun-defense-force"
+  - "saurians"
 ---
 
 The group looks across the coast, to the towering cliffs and the rocky beach below.

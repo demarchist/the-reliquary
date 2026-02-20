@@ -1,8 +1,24 @@
 ---
-title: "Shadows of the Empire - They call it a Mine…"
+title: Shadows of the Empire - They call it a Mine…
 chapter: 11
-chapterTitle: "Shadows of the Empire"
+chapterTitle: Shadows of the Empire
 session: 4
+people:
+  - "aliyah-faen-tlabbar"
+  - "bowie"
+  - "cirrus-al-kayan"
+  - "gundren-rockseeker"
+  - "hazzim"
+  - "horatio-von-bumidere"
+  - "veygar"
+places:
+  - "snorbuls-hole"
+  - "underdark"
+things:
+  - "the-last-word"
+factions:
+  - "duergar-faction"
+  - "saurians"
 ---
 
 The group decide to head back through the Ringed Veil, to the turquoise coast and the ramshackle village there.
