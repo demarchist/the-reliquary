@@ -509,19 +509,24 @@
     "title": "Djoser",
     "category": "People"
   },
+  "doctor breakfast": {
+    "slug": "doc",
+    "title": "Doctor Breakfast",
+    "category": "People"
+  },
   "doc": {
     "slug": "doc",
-    "title": "Doc",
+    "title": "Doctor Breakfast",
     "category": "People"
   },
   "doc b.": {
     "slug": "doc",
-    "title": "Doc",
+    "title": "Doctor Breakfast",
     "category": "People"
   },
   "doc b": {
     "slug": "doc",
-    "title": "Doc",
+    "title": "Doctor Breakfast",
     "category": "People"
   },
   "dokkar": {
