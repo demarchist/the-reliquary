@@ -9,6 +9,7 @@ people:
   - "chani"
   - "chekov"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

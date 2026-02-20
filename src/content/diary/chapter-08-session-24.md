@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "claudine"
   - "ella"
+  - "feanon-serinde"
   - "hemeth"
   - "madame-eva"
   - "ront"

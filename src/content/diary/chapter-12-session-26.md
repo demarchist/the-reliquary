@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "djoser"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

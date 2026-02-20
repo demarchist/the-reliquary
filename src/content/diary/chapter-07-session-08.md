@@ -9,6 +9,7 @@ people:
   - "ceregorach"
   - "cirrus-al-kayan"
   - "ella"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "lord-neverember"

@@ -6,6 +6,7 @@ session: 7
 people:
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "liara"
   - "moot"
   - "rudjek"

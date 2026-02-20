@@ -8,6 +8,7 @@ people:
   - "captain-dink"
   - "ceregorach"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "mediocris-dente"

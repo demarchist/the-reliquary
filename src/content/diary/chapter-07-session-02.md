@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cercei"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "ingrbotha"

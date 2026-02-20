@@ -10,6 +10,7 @@ people:
   - "bahamut"
   - "cirrus-al-kayan"
   - "eilistraee"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

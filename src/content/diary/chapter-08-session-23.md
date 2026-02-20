@@ -10,6 +10,7 @@ people:
   - "demogorgon"
   - "doc"
   - "ella"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "jack-mayer-johnson-mathews"
   - "ront"

@@ -5,6 +5,7 @@ chapterTitle: Al Askar
 session: 28
 people:
   - "atropos"
+  - "feanon-serinde"
   - "orcus"
   - "vecna"
 places:

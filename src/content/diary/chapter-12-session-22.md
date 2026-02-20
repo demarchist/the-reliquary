@@ -5,6 +5,7 @@ chapterTitle: Al Askar
 session: 22
 people:
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "ront"

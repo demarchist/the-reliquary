@@ -5,6 +5,7 @@ chapterTitle: Neverwinter
 session: 10
 people:
   - "aliyah-faen-tlabbar"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "kangaxx"

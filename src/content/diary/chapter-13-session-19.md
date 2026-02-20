@@ -8,6 +8,7 @@ people:
   - "chani"
   - "cirrus-al-kayan"
   - "fawden"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "madame-eva"

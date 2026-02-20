@@ -9,6 +9,7 @@ people:
   - "cercei"
   - "cirrus-al-kayan"
   - "eilistraee"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "mediocris-dente"

@@ -11,6 +11,7 @@ people:
   - "chani"
   - "cirrus-al-kayan"
   - "claudine"
+  - "feanon-serinde"
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

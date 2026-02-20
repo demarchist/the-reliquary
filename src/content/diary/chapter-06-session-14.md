@@ -8,6 +8,7 @@ people:
   - "atropos"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
   - "high-marshal-arasume"

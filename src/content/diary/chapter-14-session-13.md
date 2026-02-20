@@ -9,6 +9,7 @@ people:
   - "ceregorach"
   - "cirrus-al-kayan"
   - "dean-sejuk"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "jarlaxle"

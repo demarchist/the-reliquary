@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "ella"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "harold-ophrella"
   - "horatio-von-bumidere"

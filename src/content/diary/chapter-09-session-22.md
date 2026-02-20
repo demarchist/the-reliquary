@@ -6,6 +6,7 @@ session: 22
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
   - "juiblex"

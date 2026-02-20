@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "baphomet"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "moradin"
   - "selune"

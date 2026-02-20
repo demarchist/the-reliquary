@@ -5,6 +5,7 @@ chapterTitle: Phandalin
 session: 7
 people:
   - "aliyah-faen-tlabbar"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "lothli"
   - "orcus"

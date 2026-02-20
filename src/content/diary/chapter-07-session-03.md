@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "ella"
+  - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

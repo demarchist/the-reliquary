@@ -6,6 +6,7 @@ session: 6
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "liara"
   - "shar"

@@ -9,6 +9,7 @@ people:
   - "baba-lysaga"
   - "cirrus-al-kayan"
   - "ezmerelda"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "ireena"
   - "jack-mayer-johnson-mathews"

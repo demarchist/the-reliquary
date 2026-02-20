@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "eilistraee"
+  - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
   - "gurnik"

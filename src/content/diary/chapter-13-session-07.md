@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "fawden"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hohonu"
   - "horatio-von-bumidere"

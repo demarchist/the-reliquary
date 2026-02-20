@@ -11,6 +11,7 @@ people:
   - "cirrus-al-kayan"
   - "ella"
   - "ezmerelda"
+  - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

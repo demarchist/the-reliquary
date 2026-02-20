@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "droki"
+  - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
   - "jack-mayer-johnson-mathews"

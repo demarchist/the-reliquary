@@ -10,6 +10,7 @@ people:
   - "claudine"
   - "doc"
   - "droki"
+  - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
   - "kenshi"

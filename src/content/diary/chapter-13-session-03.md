@@ -7,6 +7,7 @@ people:
   - "atropos"
   - "camea"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hohonu"
   - "horatio-von-bumidere"

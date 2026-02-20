@@ -7,6 +7,7 @@ people:
   - "bolg"
   - "cirrus-al-kayan"
   - "eilistraee"
+  - "feanon-serinde"
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

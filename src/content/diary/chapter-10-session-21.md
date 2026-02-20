@@ -10,6 +10,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "eilistraee"
+  - "feanon-serinde"
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

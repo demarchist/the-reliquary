@@ -11,6 +11,7 @@ people:
   - "demogorgon"
   - "doc"
   - "droki"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"

@@ -7,6 +7,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "drizzly-dawg"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

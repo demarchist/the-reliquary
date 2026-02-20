@@ -5,6 +5,7 @@ chapterTitle: Baldur’s Gate
 session: 3
 people:
   - "aliyah-faen-tlabbar"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"

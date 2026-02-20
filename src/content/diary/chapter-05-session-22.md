@@ -9,6 +9,7 @@ people:
   - "chani"
   - "cirrus-al-kayan"
   - "ezmerelda"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "ireena"

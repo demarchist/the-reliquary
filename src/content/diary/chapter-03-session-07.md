@@ -5,6 +5,7 @@ chapterTitle: Baldur’s Gate
 session: 7
 people:
   - "doc"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "lothli"

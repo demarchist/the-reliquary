@@ -8,6 +8,7 @@ people:
   - "argynvost"
   - "cirrus-al-kayan"
   - "ezmerelda"
+  - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

@@ -8,6 +8,7 @@ people:
   - "chani"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "jack-mayer-johnson-mathews"
   - "jarlaxle"

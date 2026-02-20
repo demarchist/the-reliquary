@@ -10,6 +10,7 @@ people:
   - "cirrus-al-kayan"
   - "corpsetaker"
   - "doc"
+  - "feanon-serinde"
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

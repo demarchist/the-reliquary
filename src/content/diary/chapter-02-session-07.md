@@ -6,6 +6,7 @@ session: 7
 people:
   - "aliyah-faen-tlabbar"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hendrell"
   - "horatio-von-bumidere"

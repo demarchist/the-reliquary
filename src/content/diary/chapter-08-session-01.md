@@ -13,6 +13,7 @@ people:
   - "cirrus-al-kayan"
   - "corpsetaker"
   - "doc"
+  - "feanon-serinde"
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

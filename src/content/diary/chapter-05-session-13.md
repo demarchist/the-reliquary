@@ -8,6 +8,7 @@ people:
   - "argynvost"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

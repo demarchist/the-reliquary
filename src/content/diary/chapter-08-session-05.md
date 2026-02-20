@@ -8,6 +8,7 @@ people:
   - "ceregorach"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "finn"
   - "gundren-rockseeker"
   - "jack-mayer-johnson-mathews"

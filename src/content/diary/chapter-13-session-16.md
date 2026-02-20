@@ -9,6 +9,7 @@ people:
   - "djoser"
   - "doc"
   - "fawden"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hasrala"
   - "horatio-von-bumidere"

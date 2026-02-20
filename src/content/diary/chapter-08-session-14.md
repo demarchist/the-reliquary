@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "demogorgon"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
   - "ilvara-mizzrym"

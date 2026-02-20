@@ -5,6 +5,7 @@ chapterTitle: Phandalin
 session: 6
 people:
   - "aliyah-faen-tlabbar"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "lodan"
   - "nezzan"

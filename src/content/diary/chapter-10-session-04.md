@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "claudine"
   - "corpsetaker"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "li-xian"

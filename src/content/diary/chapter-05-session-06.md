@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "boris"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gowain"
   - "horatio-von-bumidere"
   - "ireena"

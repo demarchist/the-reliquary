@@ -9,6 +9,7 @@ people:
   - "bolg"
   - "cirrus-al-kayan"
   - "corpsetaker"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

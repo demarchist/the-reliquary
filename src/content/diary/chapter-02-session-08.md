@@ -6,6 +6,7 @@ session: 8
 people:
   - "aliyah-faen-tlabbar"
   - "doc"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "kangaxx"

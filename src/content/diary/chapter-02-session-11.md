@@ -5,6 +5,7 @@ chapterTitle: Neverwinter
 session: 11
 people:
   - "aliyah-faen-tlabbar"
+  - "feanon-serinde"
   - "lolth"
   - "lothli"
   - "madame-eva"

@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "camea"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "hohonu"
   - "horatio-von-bumidere"
   - "orcus"

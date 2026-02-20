@@ -12,6 +12,7 @@ people:
   - "demogorgon"
   - "doc"
   - "droki"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "ilvara-mizzrym"
   - "jack-mayer-johnson-mathews"

@@ -6,6 +6,7 @@ session: 13
 people:
   - "cirrus-al-kayan"
   - "drizzly-dawg"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "liara"

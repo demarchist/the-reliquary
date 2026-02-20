@@ -9,6 +9,7 @@ people:
   - "cercei"
   - "cirrus-al-kayan"
   - "ezmerelda"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

@@ -8,6 +8,7 @@ people:
   - "camea"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hohonu"
   - "horatio-von-bumidere"

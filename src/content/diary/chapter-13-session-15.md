@@ -9,6 +9,7 @@ people:
   - "baba-lysaga"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "vecna"
 places:

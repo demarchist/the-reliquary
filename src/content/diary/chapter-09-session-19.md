@@ -10,6 +10,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "dorbo"
+  - "feanon-serinde"
   - "gurnik"
   - "horatio-von-bumidere"
   - "madame-eva"

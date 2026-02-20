@@ -5,6 +5,7 @@ session: 7
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

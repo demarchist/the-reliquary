@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "djoser"
   - "doc"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "jareem"

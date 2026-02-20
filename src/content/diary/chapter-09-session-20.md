@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "dorbo"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
   - "juiblex"

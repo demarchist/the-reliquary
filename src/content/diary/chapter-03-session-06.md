@@ -4,6 +4,7 @@ chapter: 3
 chapterTitle: Baldur’s Gate
 session: 6
 people:
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "lothli"
   - "shar"

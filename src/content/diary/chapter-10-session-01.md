@@ -11,6 +11,7 @@ people:
   - "doc"
   - "dorbo"
   - "eilistraee"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
   - "horatio-von-bumidere"

@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "ceregorach"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "tarkathee-daru"
 places:

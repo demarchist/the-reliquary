@@ -8,6 +8,7 @@ people:
   - "atropos"
   - "cirrus-al-kayan"
   - "demogorgon"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "juiblex"
   - "lolth"

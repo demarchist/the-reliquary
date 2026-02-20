@@ -9,6 +9,7 @@ people:
   - "bahamut"
   - "boris"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "ireena"
   - "izek"

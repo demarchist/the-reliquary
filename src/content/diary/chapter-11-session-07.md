@@ -6,6 +6,7 @@ session: 7
 people:
   - "chani"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"

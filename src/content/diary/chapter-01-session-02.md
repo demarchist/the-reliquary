@@ -5,6 +5,7 @@ chapterTitle: Phandalin
 session: 2
 people:
   - "aliyah-faen-tlabbar"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "iarno"

@@ -15,6 +15,7 @@ people:
   - "corpsetaker"
   - "doc"
   - "eilistraee"
+  - "feanon-serinde"
   - "finn"
   - "gneiss"
   - "gundren-rockseeker"

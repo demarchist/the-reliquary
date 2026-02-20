@@ -10,6 +10,7 @@ people:
   - "claudine"
   - "doc"
   - "ezmerelda"
+  - "feanon-serinde"
   - "gneiss"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

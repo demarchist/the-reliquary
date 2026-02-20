@@ -9,6 +9,7 @@ people:
   - "chani"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gruttag"
   - "gundren-rockseeker"
   - "lady-faye"

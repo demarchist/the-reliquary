@@ -10,6 +10,7 @@ people:
   - "claudine"
   - "corpsetaker"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
   - "horatio-von-bumidere"

@@ -5,6 +5,7 @@ chapterTitle: Barovia
 session: 4
 people:
   - "aliyah-faen-tlabbar"
+  - "feanon-serinde"
   - "gerwan"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

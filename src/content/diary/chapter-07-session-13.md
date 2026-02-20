@@ -13,6 +13,7 @@ people:
   - "doc"
   - "eilistraee"
   - "ella"
+  - "feanon-serinde"
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

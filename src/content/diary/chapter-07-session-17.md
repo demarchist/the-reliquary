@@ -15,6 +15,7 @@ people:
   - "chani"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

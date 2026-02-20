@@ -10,6 +10,7 @@ people:
   - "claudine"
   - "doc"
   - "eilistraee"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "madame-eva"

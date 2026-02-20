@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "chani"
   - "doc"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"

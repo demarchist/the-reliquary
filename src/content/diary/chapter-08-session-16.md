@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "droki"
+  - "feanon-serinde"
   - "hemeth"
   - "ilvara-mizzrym"
   - "lady-faye"

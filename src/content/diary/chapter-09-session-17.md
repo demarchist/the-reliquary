@@ -8,6 +8,7 @@ people:
   - "bane"
   - "cirrus-al-kayan"
   - "eilistraee"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
   - "lolth"

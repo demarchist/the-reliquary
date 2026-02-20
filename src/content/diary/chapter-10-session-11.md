@@ -6,6 +6,7 @@ session: 11
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "tarkathee-daru"
   - "vizerion-devir"
   - "zuggtmoy"

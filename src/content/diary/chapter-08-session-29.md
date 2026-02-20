@@ -11,6 +11,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "eilistraee"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
   - "horatio-von-bumidere"

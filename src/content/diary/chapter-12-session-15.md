@@ -6,6 +6,7 @@ session: 15
 people:
   - "cirrus-al-kayan"
   - "drizzly-dawg"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "jack-mayer-johnson-mathews"
   - "liara"

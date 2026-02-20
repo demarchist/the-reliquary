@@ -10,6 +10,7 @@ people:
   - "djoser"
   - "doc"
   - "fawden"
+  - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

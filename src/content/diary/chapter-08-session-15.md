@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "claudine"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
   - "jack-mayer-johnson-mathews"

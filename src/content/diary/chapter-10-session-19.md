@@ -8,6 +8,7 @@ people:
   - "anaxtrasa"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "finn"
   - "gundren-rockseeker"
   - "hemeth"

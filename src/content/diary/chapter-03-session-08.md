@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "chani"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

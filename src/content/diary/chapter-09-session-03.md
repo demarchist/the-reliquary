@@ -11,6 +11,7 @@ people:
   - "claudine"
   - "doc"
   - "ella"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "lady-faye"

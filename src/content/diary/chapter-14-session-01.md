@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "claudine"
   - "doc"
+  - "feanon-serinde"
   - "finn"
   - "gaddock"
   - "gundren-rockseeker"

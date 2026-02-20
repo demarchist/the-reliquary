@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "bowie"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "hazzim"
   - "jack-mayer-johnson-mathews"
   - "megno-slatesunder"

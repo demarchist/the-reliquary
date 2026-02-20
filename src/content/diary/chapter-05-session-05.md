@@ -6,6 +6,7 @@ session: 5
 people:
   - "aliyah-faen-tlabbar"
   - "baba-lysaga"
+  - "feanon-serinde"
   - "gerwan"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

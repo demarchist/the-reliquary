@@ -5,6 +5,7 @@ chapterTitle: The Voyage Home
 session: 4
 people:
   - "camea"
+  - "feanon-serinde"
   - "hohonu"
   - "horatio-von-bumidere"
   - "orcus"

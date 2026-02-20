@@ -9,6 +9,7 @@ people:
   - "atropos"
   - "bahamut"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "ireena"

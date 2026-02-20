@@ -10,6 +10,7 @@ people:
   - "baba-lysaga"
   - "chani"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

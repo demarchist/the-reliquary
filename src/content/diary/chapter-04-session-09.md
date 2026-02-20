@@ -5,6 +5,7 @@ chapterTitle: The Bog
 session: 9
 people:
   - "doc"
+  - "feanon-serinde"
   - "goblin-king"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "bowie"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"

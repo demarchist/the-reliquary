@@ -5,6 +5,7 @@ chapterTitle: Al Askar
 session: 31
 people:
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "jareem"
   - "kumuzu-isa"

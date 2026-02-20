@@ -6,6 +6,7 @@ session: 15
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "finn"
   - "gromph-baenre"
   - "gundren-rockseeker"

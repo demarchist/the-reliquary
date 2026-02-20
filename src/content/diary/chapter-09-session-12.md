@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "eilistraee"
+  - "feanon-serinde"
   - "gruttag"
   - "gundren-rockseeker"
   - "juiblex"

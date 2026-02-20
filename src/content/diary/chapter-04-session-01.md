@@ -6,6 +6,7 @@ session: 1
 people:
   - "aliyah-faen-tlabbar"
   - "doc"
+  - "feanon-serinde"
   - "goblin-king"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

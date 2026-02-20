@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
   - "horatio-von-bumidere"

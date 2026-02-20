@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "ezmerelda"
+  - "feanon-serinde"
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

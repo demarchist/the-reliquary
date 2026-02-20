@@ -6,6 +6,7 @@ session: 2
 people:
   - "amaram"
   - "doc"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "lathander"

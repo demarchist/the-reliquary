@@ -7,6 +7,7 @@ people:
   - "ancalagon"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"
   - "ront"

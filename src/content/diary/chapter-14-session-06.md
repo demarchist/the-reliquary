@@ -7,6 +7,7 @@ people:
   - "atropos"
   - "cirrus-al-kayan"
   - "eilistraee"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "jack-mayer-johnson-mathews"
   - "kangaxx"

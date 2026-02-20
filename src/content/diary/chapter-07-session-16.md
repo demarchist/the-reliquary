@@ -9,6 +9,7 @@ people:
   - "chani"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gneiss"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

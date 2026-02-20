@@ -10,6 +10,7 @@ people:
   - "demogorgon"
   - "eilistraee"
   - "ella"
+  - "feanon-serinde"
   - "finn"
   - "gromph-baenre"
   - "gundren-rockseeker"

@@ -1,7 +1,7 @@
 ---
 title: "Fëanon Sërindë"
 category: "People"
-aliases: ["Fëanon", "The Archivist"]
+aliases: ["Fëanon", "Feanon", "Fey'Anon", "Fey", "The Archivist"]
 firstAppearance: "chapter-01-session-01"
 description: "High Elf Wizard, founder of The Reliquary, and member of the Faerûn Defense Force."
 ---

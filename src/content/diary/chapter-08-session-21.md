@@ -10,6 +10,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "droki"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "kenshi"
   - "madame-eva"

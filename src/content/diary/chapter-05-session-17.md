@@ -8,6 +8,7 @@ people:
   - "atropos"
   - "baba-lysaga"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "ireena"
   - "lathander"

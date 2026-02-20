@@ -10,6 +10,7 @@ people:
   - "beryan"
   - "cirrus-al-kayan"
   - "demogorgon"
+  - "feanon-serinde"
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

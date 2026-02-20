@@ -5,6 +5,7 @@ chapterTitle: The Bog
 session: 4
 people:
   - "doc"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "tarkathee-daru"
   - "zhink"

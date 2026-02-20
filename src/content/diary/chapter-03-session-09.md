@@ -6,6 +6,7 @@ session: 9
 people:
   - "aliyah-faen-tlabbar"
   - "chani"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

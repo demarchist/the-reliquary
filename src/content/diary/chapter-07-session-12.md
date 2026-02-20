@@ -8,6 +8,7 @@ people:
   - "atropos"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "lord-neverember"

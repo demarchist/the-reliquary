@@ -5,6 +5,7 @@ chapterTitle: Baldur’s Gate
 session: 5
 people:
   - "doc"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"

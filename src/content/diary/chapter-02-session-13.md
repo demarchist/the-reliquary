@@ -5,6 +5,7 @@ chapterTitle: Neverwinter
 session: 13
 people:
   - "aliyah-faen-tlabbar"
+  - "feanon-serinde"
   - "horatio-von-bumidere"
   - "kangaxx"
   - "kimmuriel"

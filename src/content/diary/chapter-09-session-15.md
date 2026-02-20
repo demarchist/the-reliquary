@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "bane"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
   - "lolth"

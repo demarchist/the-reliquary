@@ -9,6 +9,7 @@ people:
   - "beryan"
   - "cirrus-al-kayan"
   - "dean-sejuk"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "lady-faye"
   - "lemerlais"

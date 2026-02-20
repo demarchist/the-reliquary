@@ -11,6 +11,7 @@ people:
   - "doc"
   - "eilistraee"
   - "ezmerelda"
+  - "feanon-serinde"
   - "finn"
   - "gneiss"
   - "gundren-rockseeker"

@@ -5,6 +5,7 @@ chapterTitle: The Bog
 session: 6
 people:
   - "doc"
+  - "feanon-serinde"
   - "goblin-king"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

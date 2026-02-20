@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "fawden"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

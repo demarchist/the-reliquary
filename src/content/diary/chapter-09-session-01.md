@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "demogorgon"
   - "doc"
+  - "feanon-serinde"
   - "finn"
   - "gruttag"
   - "gundren-rockseeker"

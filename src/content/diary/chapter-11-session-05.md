@@ -5,6 +5,7 @@ chapterTitle: Shadows of the Empire
 session: 5
 people:
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hasrala"
   - "hazzim"

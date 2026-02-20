@@ -8,6 +8,7 @@ people:
   - "bolg"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "madame-eva"
   - "ront"

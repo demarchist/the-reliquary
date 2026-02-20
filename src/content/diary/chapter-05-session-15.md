@@ -8,6 +8,7 @@ people:
   - "boris"
   - "cirrus-al-kayan"
   - "ella"
+  - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

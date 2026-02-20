@@ -8,6 +8,7 @@ people:
   - "baphomet"
   - "cirrus-al-kayan"
   - "doc"
+  - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

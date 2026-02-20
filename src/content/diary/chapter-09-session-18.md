@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "beryan"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
   - "jack-mayer-johnson-mathews"

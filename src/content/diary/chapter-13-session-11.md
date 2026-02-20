@@ -6,6 +6,7 @@ session: 11
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "hohonu"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

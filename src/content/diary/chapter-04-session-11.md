@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "bahamut"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "kangaxx"

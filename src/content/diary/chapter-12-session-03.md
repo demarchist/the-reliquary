@@ -6,6 +6,7 @@ session: 3
 people:
   - "chrysalis"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "liara"

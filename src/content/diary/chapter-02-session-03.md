@@ -5,6 +5,7 @@ chapterTitle: Neverwinter
 session: 3
 people:
   - "aliyah-faen-tlabbar"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

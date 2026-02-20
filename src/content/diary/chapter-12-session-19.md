@@ -6,6 +6,7 @@ session: 19
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "hasrala"
   - "horatio-von-bumidere"
