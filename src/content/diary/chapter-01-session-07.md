@@ -3,6 +3,7 @@ title: Phandalin - Session 7
 chapter: 1
 chapterTitle: Phandalin
 session: 7
+summary: "The party awakens trapped in a hag's lair with no gear and no memory. They fight through Grimlocks, flesh golems, and traps, discover a shrine to Orcus, and hear a second prophecy about The Three walking the material plane."
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
@@ -15,24 +16,48 @@ factions:
   - "drow-faction"
 ---
 
-The Group awakens in a Hag coven, separated and all in dire straights and missing their gear.  No one remembers how they got there.
+The group awoke separated, stripped of their gear, and trapped in a nightmare. No one remembered how they'd gotten there — only that the ground had given way beneath them after a deep mist rolled in and the vegetation withered around them.
 
-Deep in a refuse pit, Tark awakens to the sounds of bone crunching and meat tearing. Not moving, Tark looks around to see a Ghoul on the edge of the pit, chewing on fleshy remnants.  Striking, Tark takes it unawares, drowning it in the pool of blood.  Searching the pool, Tark finds some gold and a pouch of spell reagents and starts his way up the sloping blood soaked tunnel.
+## The Refuse Pit
 
-In a room from the tunnel leading from the refuse pit, Gundren is strapped to a large butchers table, a massive cleaver leaning against it. Bits of meat and limbs hang from the ceiling of this rough stone room, old blood and refuse abounds. Patches is unconscious in the corner, tied up in a human-hair rope.  As Gundren awakens, he sees the shadow of a hulking form moving off speaking an unknown language, he struggles to free himself unsuccessfully but manages to wake Patches by calling her name insistently.  With one of the many rusty cutting implements around, Patches cuts herself free and removes Gundrens restraints.  Arming themselves with knives, and Gundren with the massive cleaver, they investigate the room finding a pack with some gold and two scrolls of healing.  A Massive Iron door with a primitive lock is one exit, the hallway down which they had seen a Shadow is another, and the last is the refuse chute leading down to Tark (unbeknownst to them).
+Tark came to at the bottom of a blood-soaked refuse pit, the sound of bone crunching and meat tearing echoing above him. A ghoul perched on the pit's edge was gnawing on fleshy remnants. Tark struck without warning, drowning the creature in the pool of blood. Searching the filth, he found some gold and a pouch of spell reagents before climbing up the sloping tunnel.
 
-Lothli and Fey'Anon awake suspended from the ceiling of another rough hewn stone room, they are restrained by more human hair rope.  Nearby a massive cauldron is bubbling, throwing up red meaty froth.  Many shelves adorn the room covered in jars holding unspeakable horrors.  A Large Iron bound door, the same one currently being investigated by Patches, is on one side of the room, with a corridor leading deeper into the complex.  Hearing shuffling and guttural noises approaching, Fey'Anon burns the rope away, falling heavily to the floor.  Lothli lands nimbly on her feet and grabs a large bone saw, taking cover behind the bubbling cauldron.  Two bloated and twisted humanoids appear; mutated and blind Grimlocks, who begin to sniff around for prey they know is near.  The Large Iron door swings wide and Patches and Gundren enter the room.  The Grimlocks wail and begin to charge, but Fey strikes first, throwing a magical patch of grease down in front of them, causing the Grimlocks to stumble and fall.
+## The Butcher's Room
 
-Patches unleashes a barrage of throwing knives as Gundren and Lothli slash heavily at the prone Grimlocks. Tark rushes in from the Butchers room at this point, crushing the windpipe of one of the downed enemies, killing it, as the last is hacked apart by the Ranger and Artificer.
+In a rough stone room beyond the tunnel, Gundren was strapped to a massive butcher's table. Bits of meat and severed limbs hung from the ceiling, and old blood covered every surface. Patches lay unconscious in the corner, bound in rope woven from human hair. Gundren couldn't free himself but managed to wake Patches by calling her name. She cut herself loose with a nearby rusty blade, then freed the dwarf. They armed themselves — Patches with knives, Gundren with a massive cleaver — and found a pack containing gold and two scrolls of healing.
 
-The Group tries to connect the dots and figure out how they got to this strange and terrifying place.  The last thing they remember is falling into a deep hole as the ground gave way beneath them.  A deep mist had rolled in and the vegetation had seemed to wither around them just beforehand.  With no gear and not knowing where the rest of the group might be, they go the only way that can, down the hallway.  Before they go, they search the room, finding some minor treasure and a healing potion.
+The room had three exits: a heavy iron door with a primitive lock, a hallway down which they'd seen a hulking shadow pass, and the refuse chute leading back to Tark's pit.
 
-In the Hallway, they come across several traps and oil lamps, they take several of the lamps as explosives. They come across a locked door with an effigy of a spider splayed across it, through the bars of the door, they can see that there are stairs that lead downwards.  Nearing the end of the hallway, they see a pulsating fleshy mass attached to the wall around the corner.  Approaching it, it detaches and forms into a roughly humanoid monster, made of lumps of flesh, bone and teeth.  Using the oil lamps, they make quick work of it, burning and killing it.  Tark at this point suspects that the hallway Gundren had seen earlier and their current hallway are connected and decides to sprint along it to fully map it.  As he turns a corner and indeed determines the two are connected, he sprints into a deadly trap and is impaled to the ceiling.  At the instant of death however, he awakens again in the refuse pit, thoroughly shaken and suffering from short term insanity.  He makes it back to the group presently.
+## Reunion
 
-Heading further into the complex, the group makes it into a large hall that appears to be the remnants of an ancient catacomb, with alcoves lining the area.  Several passages lead off of this main chamber.  At the back is a large statue holding a Jewel encrusted Greataxe.  At the front however, several Grimlocks are standing on the edge of a pit fascinated with something far below.  The group surprises them, pushing several into the whole by using the web bracer to tackle one into it and swing to safety with Lothli anchoring the rope.  The group kills and pushes in the others.  Investigating the area, they find a wrought Iron sarcophagus.  Not taking any chances, they stack up oil lamps next to it and then detonate them.  The ensuing inferno cooks the mummy within.  It bursts forth a mass of fire and is quickly destroyed in it's helpless and conflagrated state.  They find within the sarcophagus a Ring of Regeneration, which Gundren promptly wears.  
+Lothli and Fëanon awoke suspended from the ceiling of another chamber, hung by human-hair rope above a massive cauldron bubbling with red, meaty froth. Shelves lined the walls, filled with jars of unspeakable contents. Hearing shuffling and guttural noises approaching, Fëanon burned through the rope with magic. Lothli landed nimbly; Fëanon hit the floor hard. Lothli grabbed a bone saw and took cover behind the cauldron.
 
-Heading to the statue, Gundren removes the Greataxe, causing Iron bars to spring down, imprisoning him within until he replaces the Axe with his cleaver, as he does so, they find the first half of a key.
+Two Grimlocks appeared — bloated, mutated, and blind — sniffing the air for prey. At that moment, the iron door swung wide and Patches and Gundren charged through from the other side. Fëanon threw down a patch of magical grease, sending the Grimlocks sprawling. Patches unleashed a barrage of throwing knives as Gundren and Lothli hacked at the prone creatures. Tark arrived from the butcher's room and crushed one's windpipe. The last was chopped apart.
 
-The group then heads down one of the side passages leading off of the main chamber and come across a hulking and monstrously mutated hag.  Attacking the hag in an ambush, with assassination techniques and a barrage of oil lamps, the hag is taken down and promptly burned.  On her is found a healing potion and some jewelry.  Where they found the hag, they find a locked door with a lock matching the first half of the key they have found.
+The group compared notes. The last thing any of them remembered was falling through the ground as mist closed in. With no gear, no knowledge of where the rest of the party might be, and only one way forward, they pressed on — but not before searching the room for minor treasure and a healing potion.
 
-Continuing past this current dead end, the group comes across two more rooms, one is fully engulfed in flesh and as they enter, a fleshling pulls itself from the wall.  It is quickly cut down.  Before the group can loot the room, Patches who was scouting comes across a shrine to Orcus.  The entry way being trapped and two ghouls and a flameskull are within.  They lure the enemies out, hitting the traps and either being killed or taking heavy wounds.  The group then destroys the Flameskull and enters the shrine.  Inside they find a Rusted Shortsword on the altar, but everyone who handles it is promptly attacked psychically by the magical item, they manage to handle it enough to throw it in a makeshift pack.  They hear the whisperings of Orcus, and hear that The Three are walking the material plane once more, preparing for their master.
+## Traps and Horrors
+
+The hallway ahead was riddled with traps and lined with oil lamps. They pocketed several lamps as improvised explosives. A locked door decorated with a spider effigy blocked a staircase leading down. Near the end of the corridor, they found a pulsating fleshy mass attached to the wall. As they approached, it detached and formed into a roughly humanoid abomination of flesh, bone, and teeth. The oil lamps made quick work of it.
+
+Tark suspected the corridor looped back to the butcher's hallway and sprinted ahead to confirm. Rounding a corner, he triggered a lethal trap and was impaled against the ceiling. At the instant of death, he awoke — back in the refuse pit, alive but thoroughly shaken and suffering from short-term insanity. He rejoined the group shortly after.
+
+## The Catacombs
+
+The group entered a large hall — the remnants of an ancient catacomb, with alcoves lining the walls and passages branching in several directions. At the far end stood a statue holding a jewel-encrusted greataxe. Near the entrance, several Grimlocks stood at the edge of a deep pit, fascinated by something far below.
+
+The party ambushed them — Tark used the web bracer to tackle one into the hole and swing to safety with Lothli anchoring the rope, while the rest were pushed or killed and thrown in after. In the catacomb they found a wrought-iron sarcophagus. Taking no chances, they stacked oil lamps around it and detonated them. The mummy within burst forth in flames and was destroyed in its helpless, burning state. Inside the sarcophagus lay a Ring of Regeneration, which Gundren immediately wore.
+
+At the statue, Gundren pulled the greataxe free, causing iron bars to slam down and trap him. He swapped it for his cleaver and the bars retracted. Hidden inside was the first half of a key.
+
+## The Hag
+
+Down a side passage, they found a hulking, monstrously mutated hag. Ambushing her with assassination techniques and a barrage of oil lamps, they brought her down and burned the corpse. On her body they found a healing potion and some jewelry, and nearby was a locked door — its lock matching the half-key they'd recovered.
+
+## The Shrine of Orcus
+
+Continuing deeper, the group found two more rooms. One was entirely engulfed in living flesh; a fleshling pulled itself from the wall and was quickly cut down. In the other, Patches discovered a shrine to Orcus. Two ghouls and a flameskull guarded the entrance, which was trapped. The group lured the undead into their own traps, killing the ghouls and destroying the flameskull.
+
+Inside the shrine, a rusted shortsword sat on the altar. Everyone who touched it was attacked psychically by the cursed weapon. They managed to handle it enough to throw it into a makeshift pack. As they did, they heard the whisperings of Orcus:
+
+> *The Three are walking the material plane once more, preparing for their master.*

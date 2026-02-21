@@ -3,6 +3,7 @@ title: Phandalin - Session 5
 chapter: 1
 chapterTitle: Phandalin
 session: 5
+summary: "The sleepers awaken with shared visions of a dark moon and pale nobleman, the party teleports to Wave Echo Cave, and they fight their way through the mine to discover the Spellforge — now absorbed into a jade frog golem."
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
@@ -29,70 +30,60 @@ factions:
   - "harpell-family"
 ---
 
-As the Balgura lies disintegrating, the ToD springs open and Lothli, JmJm and Dr.B spring forth surprising Harkell and Quetzee who are watching from the door way.
+As the Barlgura lay disintegrating, the Tavern of Doors sprang open and Lothli, JmJm, and Doctor Breakfast burst forth — startling Harkell and Quetzee, who had been watching from the doorway.
 
-The group catches up, tells each other what they missed. Sleepers then tell then group of their dreams, they all dreamed the exact same thing:  A Dark moon blotting out the stars, an old but majestic castle and a pale serious faced Nobleman of gracious bearing.
+## The Sleepers' Vision
 
-Harpell clan gathers to check out the box, the group however is quite guarded and decides to trade access to the box in exchange for some valuable supplies, and even then only Harkell is allowed in.
+The group caught each other up on what they'd missed. The three sleepers then shared something unsettling: they had all dreamed the exact same thing. A dark moon blotting out the stars. An old but majestic castle. A pale, serious-faced nobleman of gracious bearing.
 
-Group goes to alchemy lab, gathering **supplies**.
+No one could explain the shared dream, but it left an uneasy feeling over the group.
 
-Group heads to library and get a book of Drow history and Fey gets the spells Sleep and Dominate person.
+## Dealings with the Harpells
 
-Dr.B gets distracted by a massive rat and follows it out to the mini-farm, terrifying the tiny horses.
+The Harpell clan gathered to examine the Tavern of Doors. The party was guarded about granting access, eventually trading limited entry in exchange for valuable supplies — and even then, only Harkell was allowed inside.
 
-Buumi and Lothli in the box convince Harkell to stay with the group to analyze the box and provide some extra wizardly services.  He agrees and offers to have the group teleported to Wave Echo Cave.
+Fëanon visited the alchemy lab and gathered supplies. In the library, the group acquired a book of Drow history, and Fëanon copied the spells Sleep and Dominate Person. Doctor Breakfast got distracted by a massive rat and chased it out to the mini-farm, terrifying the tiny horses.
 
-Patches makes it back to the Library with a satchel of alchemy supplies.
+Buumi and Lothli, still inside the box, convinced Harkell to join the group — he would analyze the Tavern and provide wizardly services in exchange. He agreed and offered to have the party teleported to Wave Echo Cave.
 
-Tark comes across Gundren tinkering with a magical gas mask.
+The wardstone was completed ahead of schedule. As the group assembled outside, Quetzee gave Doctor Breakfast the ox and Harkell's horse in miniaturized form. The Harpells, wanting regular updates on the Tavern of Doors, gifted Fëanon a Megascope — a holographic communication device consisting of three brass tripods mounted with crystal-bearing armatures, lenses, and etched brass gears, set around a marble slab engraved with a focusing glyph. It could contact other Megascopes and serve as an astral focus for meditation, though it was far too large to carry.
 
-The wardstone gets completed ahead of schedule.
+## Wave Echo Cave
 
-The group then heads outside and meets up, Harkell runs to gather his things, Quetzee gives Dr. B the Ox and Harkells horse in mini-form.
+The party teleported to within five miles of Wave Echo Cave using the Harpells' mass teleportation rings. Gundren hopped into the box to tinker with new schematics while the group followed a deer path into the foothills of the Sword Mountains, toward a small box canyon.
 
-The harpells want regular updates on the box and so gift Fey with a Megascope, a holographic telephone, it can only be used to contact other megascopes and is too large to carry, it can however act as an astral focus for meditation.  Looks like three brass tripods atop which are mounted a series of brass spheres holding crystals on armatures, with many lenses and etched brass gears. Comes with a slab of marble, engraved on which is a focusing glyph, it sits at the center of the megascope.
+A recent rockslide was evident at the canyon entrance, along with numerous orc prints. Tark found a zombified orc trapped under a boulder and splatted its head. Deeper in, they found the ruined foundations of old buildings before reaching a carved doorframe set around a crack in the canyon wall.
 
-Then group then teleports within 5 miles of Wave Echo cave using the Harkells mass teleporting rings.
+The scouts pressed ahead down a narrow passage into the rock, emerging at the bottom of a sinkhole open to the sky above. A pit with two tunnels branched left and right. A dead dwarf lay by the right path.
 
-Gundren, who rejoined the party before teleporting, heads into the box to tinker with some new schematics.
+## Nebby's Grave
 
-The group follows a small deer path into the foothills of the Sword mountains and towards a small box-canyon.
+The dead dwarf was Nebby — Gundren's youngest brother. Gundren chose to remain behind and give him a proper burial. Patches quietly took a vial of blood and the clan battlehammer signet ring from the corpse. JmJm tried to steal the dead dwarf's beard; Buumi was extremely unhappy about this and stopped him.
 
-Approaching the canyon, a recent rock slide is apparent as well as a number of Orc prints
+## Into the Mine
 
-Exploring the rock slide, Tark comes across a zombified orc trapped under a boulder, he splats it's head…
+The group took the left path into the cave proper. In the maze-like interior, they spotted the tracks of an Ochre Jelly and pushed deeper along the longest, straightest passage — unaware they were being stalked.
 
-Heading further into the canyon, they come across some ruined foundations of old buildings before coming across a carved door frame around a crack in the back of the canyon wall.
+JmJm paused at a gold ore vein in the rock wall to lick it, exhibiting increasingly strange behavior. The Ochre Jelly chose that moment to drop onto him. The Doppelganger skin he wore as a cape took the brunt of the acid before the group engaged. Lothli sliced off a chunk, creating a smaller jelly, and Doctor Breakfast blasted the creature off JmJm with a magical gust of wind.
 
-The scouts head down this narrow path, directly into the rock face before coming to the bottom of a sinkhole the sky barely visible above.
+Continuing on, they reached a large water pool and found a long-dead mage at the bottom. They hauled up the corpse and recovered a Wand of Magic Missiles and a Belt of Dwarvenkind.
 
-They see a pit with two tunnels, one left one right and a dead dwarf by the right path.
+## The Chasm
 
-They determine that the dead dwarf is Nebby, Gundrens youngest brother, Gundren decides to remain behind to give his brother a proper burial.  Patches takes a vial of dead blood and the clan battlehammer signet ring off the corpse.  JmJm tries to steal the dead dwarfs beard, Buumi is very unhappy with this and stops him.
+Wading through a flooded tunnel, the group emerged into a large cavern where four bugbears were searching the edge of a deep crevasse. Doctor Breakfast used the same wind spell to knock two into the void. Patches sniped a third, and the last reached the party but was cut down before dealing any damage.
 
-The group then decides to take the left path and makes it into the Cave proper.
+Spotting numerous pathways, the group decided to cross the crevasse. They used the Tavern of Doors as a ferry while Tark descended on a web line from his bracer, with Lothli anchoring the rope. At the bottom, they found a dead dwarf lord bearing Gauntlets of Ogre Strength, which Buumi received via Patches.
 
-In the maze-like interior, they come across the tracks of an Ochre Jelly, the group pushes in deeper down the longest straightest path, unknowingly being stalked by the Jelly.
+Climbing out on the far side, the group headed east and found the chamber that gave the cave its name — the rhythmic echoing of waves reverberating through stone.
 
-Seeing a gold ore vein in the natural rock wall, JmJm stops to lick it, exhibiting strange behavior, as the group continues however, the Ocher Jelly drops onto JmJm to begin dissolving him - the doppleganger skin taking the brunt of the assault.
+## The Spellforge
 
-The group fights and kills the Ochre Jelly, with Lothli slicing off a chunk creating a smaller Jelly.  Dr.B manages to blow the jelly off of JmJm with a magical wind.
+Moving on, they came to an ornate structure with large double doors set in a vast cavern. They entered through a storeroom instead, finding it long since fallen to ruin with nothing of value.
 
-The group continues on to a large water pool, the group investigates and finds a long dead mage at the bottom, they bring up his corpse, recovering a wand of Magic Missiles and a Belt of Dwarvenkind.
+Inside the main chamber, a green glowing energy vortex pulsed atop a pedestal: the Spellforge. Nearby lay a sleeveless longcoat made of leaves that faded from orange at the collar to green at the hem, and a leather breastplate with an ornate dragon worked into the chest plate.
 
-Heading on through the pool into a flooded tunnel, the group makes it back onto dry land just as the tunnel opens up into a large cavern with four Bugbears searching the edge of a crevasse.  The group uses the same wind spell to knock two into the Crevasse, Patches snipes another and the last makes it to the group but does no damage before it's killed.  Seeing numerous pathways, the group decides to cross the crevasse, but checks the bottom, with the group using the ToD as a ferry in conjunction with Tark using the Web bracer to get down.  They see a dead dwarf lord who has on him Gauntlets of Ogre Strength which Buumi gets from Patches.
+Before they could approach the treasure, two Spectators — Igi and Gladi — appeared to greet them. Through conversation, the group learned that a wizard named Mormesk, deeper in the complex, could release the Spectators from their centuries-long vigil. The guardians knew nothing of the Barlgura's prophecy, but speculated that the "Goat Prince" could refer to the Demon Lord Orcus, Prince of Undeath.
 
-Climbing out of the Crevasse, the group heads east, finding the chamber that gives the cave it's name.
+The Spectators also revealed that the Black Spider's lair was back on the other side of the chasm, where the bugbears had been searching.
 
-Moving on they come to an ornate structure in a large cavern with large double doors. They decide to go in through the store room however.  The store room has long since fell to ruin, they find nothing worthwhile inside.
-
-Moving into the main structure, they see a green glowing energy vortex atop a pedestal: The spellforge.
-
-They also see a sleeveless long-coat made of leaves that gradiate from Orange at the collar to green at the hem and a Leather Breastplate with a metal plate on the chest and an ornate Dragon worked into the front.
-
-Approaching the treasure, the group is greeted by the Spectators Igi and Gladi, the group chats with them and determines that the wizard down the hall, Mormesk (human but is still around after 400 years…) can release them from their vigil if the group can prove he's dead or no longer needs their services.  The group asks them about the Balgura prophecy, they know nothing of it but speculate that the "goat" mentioned could be the Demon Lord Orcus, prince of Undeath. 
-
-The group also asks about the Drow and finds out that the Black Spiders lair was back on the other side of the chasm, where the bugbears were searching.
-
-The group decides to head for Mormesk to end the vigil of the Spectators, as they pass the spellforge however, the vortex flares up before snuffing out.  Pulling the Jade frog statue from their packs, it springs to life as a living tree frog made of stone…
+As the group passed the Spellforge on their way to find Mormesk, the energy vortex flared violently — then snuffed out entirely. The jade frog statue in their packs sprang to life, becoming a living golem of animated stone. The Spellforge had been absorbed into the frog.

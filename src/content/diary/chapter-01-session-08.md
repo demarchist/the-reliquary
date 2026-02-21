@@ -3,6 +3,7 @@ title: Phandalin - Session 8
 chapter: 1
 chapterTitle: Phandalin
 session: 8
+summary: "The party fights through the remaining hag lair, recovers their stolen gear, defeats the lair's fleshy heart to escape the nightmare, and awakens in Phandalin — where Patches accidentally bonds with the cursed dagger of Orcus."
 people:
   - "aliyah-faen-tlabbar"
   - "horatio-von-bumidere"
@@ -17,14 +18,34 @@ things:
   - "the-reaver"
 ---
 
-The group explored the remaining room, finding nothing else in the shrine of Orcus.  Moving back to the room with the ladder, they find several pearls embedded in the fleshy folds of the walls.   They climb the ladder and find themselves one floor up and face to face with JmJm and an unknown Barbarian.  They awake the both of them and JmJm wakes with a start. JmJm is cut free and begins to show signs of insanity, constantly biting on a gold coin.  The barbarian is freed by Tark who immedeiately sweeps the halfling into a huge hug.  The group scouts on ahead, coming across a number of zombies.  They trap the hallway and lure the Zombies back into the traps, easily killing them all.  During the fight they heard a massive slam and upon checking the room post battle, they find a trap in the center of the room had crushed a Zombie.  Scouting on ahead, they go into the first hag room, luckily avoiding a trap.  They loot the room, getting some gold and a spellbook and 500g of spell components.  They harvest the trap and then scout on ahead, seeing another hag.   The hag in the center of the room is meditating.  They once again trap the hallway and then set up on the other side of the crushing trap.  Shooting the hag, Lothli then retreats, luring the hag into each trap.  The hag is quickly destroyed from the combined traps and planning of the group, but not before she gouged a huge claw mark across Tarks chest, tearing down to the bone.  He has to drink a healing potion to stay alive and put him on the mend.  They loot the room the hag was in, finding more gold, 2 healing potions, a potion of cats agility and a Longbow +1 along with two keys.  They also find an old priests journal, detailing his descent to madness.  The longer th group stays in the room, staring at the flayed faces on the wall, the group begins to lose their sanity, Patches becoming mute.
+The group finished searching the shrine of Orcus and found nothing else of value. Moving back to the room with the ladder, they discovered several pearls embedded in the fleshy folds of the walls. Climbing up, they emerged one floor above and came face to face with JmJm and an unknown barbarian, both unconscious.
 
-Returning to the door the fat hag was guarding, the group uses their two keys to open the door.  Inside are two large chests, one has all the gear in, the other ends up being a mimic that the group kills and gets 200gp diamond and a potion of fire giant strength.
+JmJm woke with a start and immediately showed signs of insanity, compulsively biting down on a gold coin. The barbarian was freed by Tark, who swept the halfling into an enormous hug.
 
-After re-donning their equipment, they stowed they old gear and took up their proper weapons.  They  headed to the basement stairs, locked by the spider door.  Using the spider key gotten from the flesh room, they descended into the bowls of the lair. 
+## The Gauntlet
 
-Checking the corridor in front of them, Lothli accidentally triggers a deadly trap, almost crushing the life from her as the wall smashed in.  Tark grabs her out from the trap before it resets and slams home, killing Lothli.  The group uses one of the two healing scrolls to save her life and return her to health. Heading further in, they discover a room constantly raining blood.  They skirt the outside and quickly run through and out of the blood rain.
+Scouting ahead, the group encountered a pack of zombies. They trapped the hallway and lured the undead back into the kill zone, destroying them easily. During the fight, a massive trap in the center of the room slammed down and crushed a straggling zombie flat.
 
-Heading into a large room filled with Pews, the group spies a large door at the end of the room.  Upon arriving at the door, the group is attacked by several fleshlings.  They cut them down with powerful assassinations and spellcasting and open the door.  Inside they find a massive fleshy beast, growing into the walls, as it screams at the group to kill it, they find several pieces of jewelry from burned Mummy they threw down the pit.  The group kills the fleshy mutated soul, returning to the waking world.
+They entered the first hag's chamber, narrowly avoiding another trap. Inside they found gold, a spellbook, and 500 gold worth of spell components. After harvesting the room's trap for later use, they pressed on and spotted a second hag meditating in the next chamber.
 
-The group awakes in the Phandalin Inn.  Everyone awakes, and Buumi and Dr.B rush over noticing people sit  up.  Patches, still disoriented, reaches into her pack and grasps the cursed sacrificial dagger without thinking.  Energy flooding into her from the dagger, it attacks her soul as it attempts to feed on her life force.  Only with the healing powers of Buumi does Patches survive long enough to bring the dagger under her mental control.  Subduing it, in horror she realizes the evil power of the dagger and throws it on the table to her side.  It puffs into mist as it leaves her hand and she realizes it is now bound to her…
+Once again, they trapped the hallway and positioned themselves behind the crushing mechanism. Lothli shot the hag and retreated, luring her through each trap in sequence. The combined planning and preparation destroyed the creature, though not before she gouged a massive claw wound across Tark's chest, tearing down to the bone. He drank a healing potion to stay alive.
+
+From the hag's room they recovered gold, two healing potions, a Potion of Cat's Agility, a Longbow +1, two keys, and an old priest's journal detailing his descent into madness. The longer the group lingered in the room, staring at the flayed faces decorating the walls, the more their sanity frayed. Patches went mute.
+
+## Recovery
+
+Using both keys on the door the fat hag had been guarding, they found two large chests inside. One held all their stolen gear. The other was a mimic — they killed it and looted a 200 gold diamond and a Potion of Fire Giant Strength.
+
+Re-equipped and armed with their proper weapons, the group descended the spider-locked stairs using the key from the flesh room. Lothli accidentally triggered a wall-crusher trap in the corridor below and was nearly killed. Tark yanked her free just before the wall slammed home. They used one of their two healing scrolls to save her life.
+
+Beyond the trap, they found a room where blood rained perpetually from the ceiling. They skirted the edges and sprinted through. Past it lay a large chamber filled with pews. As they approached a heavy door at the far end, fleshlings attacked — the group cut them down with quick assassinations and spellwork.
+
+## The Heart
+
+Behind the door was the lair's heart: a massive fleshy beast growing into the walls, screaming at the group to kill it. Among the creature's folds they found the jewelry from the mummy they'd burned and dropped down the pit. The group obliged the creature's request and destroyed it.
+
+## Awakening
+
+The party awoke in the Phandalin inn. Buumi and Doctor Breakfast rushed over as the others sat up — the two of them had managed to drag the unconscious group from the fields outside town to safety but had been unable to wake them.
+
+Patches, still disoriented, reflexively reached into her pack and grasped the cursed sacrificial dagger. Dark energy flooded into her as the weapon attacked her soul, feeding on her life force. Only Buumi's healing magic kept her alive long enough to bring the dagger under her mental control. She subdued it — and in horror realized the full extent of its evil power. She threw it on the table, but the dagger puffed into mist as it left her hand and reappeared at her side. The Reaver was bound to her now.

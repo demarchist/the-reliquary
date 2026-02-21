@@ -3,6 +3,7 @@ title: Phandalin - Session 4
 chapter: 1
 chapterTitle: Phandalin
 session: 4
+summary: "The party raids Cragmaw Castle to recover Gundren's artificer gear, travels to Longsaddle to commission a new wardstone, meets the enigmatic monk Moot, and witnesses a demon's dying prophecy about the Goat Prince."
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
@@ -35,74 +36,66 @@ factions:
   - "svirfneblin-faction"
 ---
 
-Gundren Rockseeker wakes in ToD surrounded by pillows and next to an unconscious and scarred halfling.
+Gundren Rockseeker awoke in the Tavern of Doors, surrounded by pillows and lying next to an unconscious, scarred halfling. Looking around, he saw a meditating high elf, a drow, a wood elf, a half-elf, and a cat-thing. He shook the halfling awake — JmJm bolted upright yelling, only to have his mouth quickly covered. The commotion woke the rest of the group anyway, with a drunken Buumi poking his head over the couch to observe.
 
-Looking around he sees a meditating high elf, drow, wood elf, half elf, cat-thing and the halfling.
+Tark discovered he was blind in his left eye.
 
-Gundren shakes awake the Halfling, who bolts upright and beings to yell, only to have his mouth quickly covered.
+## Mr. Pickles and the Astral Goblins
 
-The rest of the group however is awoken by this exchange, a drunken Buumi poking his head over a couch and observing.
+At that moment, the goblin Mr. Pickles walked in carrying drinks. Startled, Tark killed the goblin with a flurry of blows and a snapped neck. Buumi, feeling bad, healed the goblin with a lay on hands, and Mr. Pickles got right back to work as if nothing had happened.
 
-Tark realizes he is Blind in his left eye.
+The goblins that had been living in the Tavern of Doors for about a week now had blue skin and solid black eyes — they were becoming Astral Goblins, transformed by the box's extradimensional nature.
 
-At this moment, the Goblin Mr.Pickles walks in carrying drinks, surprising Tark, he kills the goblin with a flurry of blows and a snapped neck.  Buumi, fealing bad, Lays on Hands the Goblin, healing it and it gets right back to work.
+## The Sleepers
 
-The Goblins that have been living in the ToD for about a week now have blue skin and solid black eyes. Astral Goblins.
+Strangely, Doctor Breakfast, JmJm, and Lothli wouldn't wake up. Fëanon investigated and determined that their minds were trapped in the Shadowfell during sleep. There was nothing the party could do, so they kept the three comfortable and pressed on.
 
-Gundren realizes this is the group he hired in Neverwinter to help him with Wave Echo
+## Return to Cragmaw
 
-Strangely, Dr.B, JmJm and Lolthli don’t wake up. Investigating, Fey discovers that their minds are trapped in sleep in the Shadowfell. There's not much they can do so they keep them comfortable.
+Gundren convinced the group to return to Cragmaw Castle for his gear. The only way into Wave Echo Cave required a wardstone, which he'd had commissioned in the wizard town of Longsaddle — and it was the reason he'd been kidnapped. Standing in nothing but his long johns, Gundren requested a weapon and was given the axe Hew.
 
-Gundren then convinces the group to head back to cragmaw to retrieve his gear, as the only way into Wave Echo Cave requires a wardstone, which he got made in the Wizard town of Longsaddle. Gundren was originally captured for the wardstone.  In nothing but his long jons, Gundren requests a weapon and is given Chopsticks (axe +1)
+Tark, distraught over his injuries, left the Tavern to mull things over alone. Outside, a disturbing fog was dissipating in the morning sun.
 
-A distraught Tark (distraught over his injuries) leaves ToD to mull over the situation. Leaving ToD they notice a disturbing fog dissipating in the morning sun.
+The group sneaked back into Cragmaw the way they'd left, making their way to the throne room. Through the keyhole, they could see the bugbear chief sleeping. Patches crept through the door — a hobgoblin standing on either side — invisible under the Piwafwi cloak she'd taken from Tarla. She snuck up to the chief and attempted to assassinate him. The bugbear kept shifting just enough to survive each strike, but she finally slit his throat.
 
-Heading back into Cragmaw then way they got out, they sneak back to the throne room, looking through the keyhole, they see the Bugbear chief sleeping.
+The hobgoblins drew their swords as the rest of the party kicked open the door and charged in. Gundren buried his axe in one hobgoblin's stomach while Fëanon finished it with magic missiles and tagged the other, which then took a crossbow bolt from Patches. Buumi stood in the doorframe with his sword drawn, never having gotten a chance to swing it.
 
-Patches sneaks through the door, a Hobgoblin on either side.  No one notices due to the use of the Piwafwi she took from Tarla.
+They looted the 200 gold the Doppelganger had paid for Gundren and recovered his artificer gear: his schematic book, pack, splint mail, ammo magazine, and his thundercannon.
 
-Patches sneaks up to the Bugbear, chief and attempts to assassinate him several times, each time the chieften moving just enough to miss dying, before finally slitting his throat.
+## The Road to Longsaddle
 
-The Hobgoblins finally notice and draw their swords, the rest of the group kicks open the door and charges through
+The party set out through Neverwinter Wood toward the main road, bound for Longsaddle — three days away. The sleepers still hadn't woken and looked increasingly distressed.
 
-Gundren immediately embeds his axe in the stomach of the one on the left, with Fey - magic missiling it to death and hitting the other, which then takes a crossbow bolt from Patches.  Buumi is still in the door frame, with his sword out, not having gotten a chance to use it.
+On the first day, they reached the ruins of Conyberry and followed a path to the lair of Agatha the banshee. Flattering her sufficiently, they learned that the spellbook Sister Gisele sought was no longer in the area. On the way out, the group purchased a pair of spidersilk bracers from Agatha's treasure — one for Tark, one for Gundren.
 
-Looting the room of the 200g the Doppleganger paid for Gundren, the dwarf retrieves his artificing gear; his schematic book, pack, splint mail, ammo magazine and his thundercannon.
+The second day was uneventful until they stumbled across two arguing Ettins concerned about the mists and wanting to head east. Patches distracted them with a natural twenty and the group continued on.
 
-The group then leaves the way it came in.
+## Moot
 
-Heading back to the wagon, the group decides to travel through the rest of Neverwinter wood and to the road to get to Longsaddle which is three days away.  The others still have not woken up and look increasingly distressed.
+On the third day, nearing Longsaddle, they spotted a figure approaching on the road. They met Moot — an elderly monk attended by a flock of seven golden canaries. He served the group tea, chatted warmly, and asked Tark to spar.
 
-Day 1, through the woods and on the main road, the group makes it's way to the ruins of Coneyberry on the way to longsaddle, they go along a path to the Banshee Agatha's lair.  They talk with Agatha, flattering her and get the information that the spellbook Sister Gisele wants is no longer in the area.  On the way out, the group pays Agatha for the contents of her chest, a pair of spiderkin bracers. (tark has one, Gundren the other)
+The two fought, and Tark found himself enjoying it despite his injuries. One of the canaries, Ysera, took a liking to Tark and decided to follow him. Moot mentioned the upcoming Neverwinter Festival of Refounding and said he'd like to see the group there after they finished their quest. When the party detected magic on his staff, it radiated with tremendous enchantment. Moot ended the sparring match with a Ki blast and remarked to Tark that study and perseverance would reveal all secrets.
 
-Day 2 uneventful until the group stumble across two arguing Ettins, they seem to have concern over the mists and want to head East, Patches distracts (nat 20) them and the group continues onwards to Longsaddle.
+Tark was feeling considerably less despondent by the time Longsaddle came into view — the town spread out ahead with the Ivy Mansion up on a hill to the left, a small bridge crossing a river in front of it.
 
-Day 3, approaching their goal, they see a figure in the distance coming towards them.  They meet Moot, an elderly Monk with a flock of golden canaries (7).  He serves the group tea, chats with them and asks Tark to spar.  He fights Tark, and they end up having a good time, Ysera, one of the canaries takes a liking to Tark and decides to follow him.  Moot mentions the Neverwinter festival of re-founding and tells the group he would like to see them at it after they finish their quest.  The group detects magic on his staff and see that it is tremendously enchanted.  Moot ends the fight with a Ki Blast and remarks to Tark that study and perseverance will reveal all secrets.
+## The Ivy Mansion
 
-Tark is now feeling less despondent and the group arrives to longsaddle, the town off in front of them, but the Ivy Manor up on a hill to the left, with a small bridge crossing a river.
+Tark stripped naked and jumped in the river, apparently no longer troubled by his blindness. He was, the party noted, very well endowed.
 
-Tark strips naked and jumps in the river, no longer seeming to care about his blindness. he is very well endowed…
+The moment they stepped onto the bridge, the group's perception of reality flipped — they saw themselves hanging from the underside of the bridge as they walked across it. Tark, however, saw them walking over it normally while the rest of the group flailed in panic. It was hilarious.
 
-The group passes over the bridge, the moment they step foot on it however, their perception of the world flips, they see themselves hanging on the underside of the bridge moving forwards.  Tark however sees them traveling over it normally, but with the group freaking out.  It's hilarious.
+A small aging woman came out to greet them at the mansion, petting a black stuffed cat: Quetzee Harpell. She gave the group a quick tour as they explained their need for a new wardstone. The ox and cart were taken into the barn and magically shrunk. The group settled into the Fuzzy Quarterstaff — the mansion's tavern — and ordered drinks from a magical ordering gem. Patches enjoyed a nice Svirfneblin wine while Buumi was charmed by a young woman in the corner and went to mingle.
 
-Group approaches the Ivy mansion and a small aging woman comes out to greet them petting a black stuffed cat. Quetzee Harpell.
+Fëanon chatted with the resident wizards. Patches headed into town and gathered rumors — there were issues at the mini-farm, and the "Bidderdoo" side of the Harpell family was reportedly riled up.
 
-The group is given a quick tour as Quetzee is made aware of their need for the Wardstone, they are shown the Mini-farm and the Ox and Cart is taken into the Barn and shrunk.
+The group paid 200 gold to have Gaspren Harpell craft a new wardstone. Meanwhile, Fëanon, Penelope Harpell, and Quetzee collaborated to enchant a blindfold for Tark — when worn over his dead eye, it let him see through it as if under a permanent Detect Magic spell.
 
-The group settles into the Fuzzy Quarterstaff and orders drinks from the magical ordering gem.  Patches gets a nice Svirfneblin wine to sip on and Buumi is taken by a young woman in the corner of the room, he goes over to mingle…
+## The Demon
 
-Fey chats with the wizards
+On the evening of the second day, the group was startled by a yell. Investigating, they found an ancient wizard — Harkell Harpell — holding his door shut, frantic. He'd accidentally summoned a demon while trying to conjure an Air Elemental.
 
-Patches then heads into town and gathers rumors, hears there are issues at the mini farm and the "Bidderdoo" side of the Harpell family is "riled up"
+The group entered the room to face a massive Barlgura demon. The wards, designed for an elemental, did nothing to slow it. Despite the beast's ferocity, the party made quick work of it, with Gundren landing the killing blow — a critical shot from his thundercannon straight through its chest.
 
-Group pays 200g to have Gaspren Harpell work up a new wardstone.
+As the demon died, its eyes clouded over and it spoke in a voice not its own:
 
-Fey Anon, Penelope Harpell and Quetzee work and enchant a blindfold for Tark, that when over the dead eye, lets him see with that eye as if by Detect Magic spell.
-
-In the evening of the second day, the group is surprised by a yell, and going to investigate, see an ancient wizard holding the door to his room shut and appearing frantic.  Harkell Harpell accidentally summoned a Demon, though he claims he tried for an Air Elemental.
-
-The group enters the room to see a massive Balgura demon before them, it charges, the wards meant for an elemental doing nothing to slow it.
-
-The group makes extremely quick work of the Demon, with Gundren killing it with a critical shot from his Thundercannon to it's chest.
-
-As it dies, it's eyes cloud over and it says: The Planet Born Dead waxes and it pulls it's puppets strings. The Goat Prince commands and his children are reborn; one of Gold, one of Adamantite and one of Obsidian.  The Prince stirs in his prison, hearing the music of the ancient sphere. It will call, and all will answer. All shall know loss, and be united in shadow.
+> *The Planet Born Dead waxes and it pulls its puppet's strings. The Goat Prince commands and his children are reborn; one of Gold, one of Adamantite and one of Obsidian. The Prince stirs in his prison, hearing the music of the ancient sphere. It will call, and all will answer. All shall know loss, and be united in shadow.*

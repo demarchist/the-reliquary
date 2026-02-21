@@ -3,6 +3,7 @@ title: Phandalin - Session 6
 chapter: 1
 chapterTitle: Phandalin
 session: 6
+summary: "The party defeats the wraith Mormesk, frees the Spectators, claims powerful loot from the Spellforge chamber, and confronts the Black Spider — only for the Drow to let them do it, watching as Gundren executes Nezzan with his thundercannon."
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
@@ -19,46 +20,42 @@ factions:
   - "drow-faction"
 ---
 
-Gundren catches up to the group outside the spell forge and demands to know where the forge is, upon discovering it's in the frog, they discover the frog is a Golem and it's growing.
+Gundren caught up to the group outside the Spellforge chamber and demanded to know where the forge had gone. Upon learning it had been absorbed into the jade frog — now a growing golem — the party pressed on toward the domain of Mormesk.
 
-Heading down the hall, the group approaches the old domain of Mormesk.
+## Mormesk the Wraith
 
-The group scouts the area, finding poisonous moss, Patches grabs a sample to cultivate it for later.
+Scouting ahead, the group found poisonous moss growing along the corridor. Patches scraped a sample to cultivate later. Tark, peering through his enchanted blindfold into the world of magic, saw the long-dead wizard staring at them from his abode with undisguised menace.
 
-Seeing into the world of magic, tark sees the now dead wizard looking at the group menacingly from the abode
+Mormesk flew out as a wraith, summoning a wight and a spectre from the ancient corpses littering the ground. The battle was fierce but decisive — Doctor Breakfast landed the killing blow on Mormesk with her fire magic. The group looted his ancient quarters, finding 50 gold, his old spellbook, and a rather nice mahogany desk.
 
-He flies out as a wraith and attacks the group, summoning a wight and spectre from ancient corpses on the ground.
+## Freeing the Spectators
 
-The group battles the monsters and defeats them, the killing blow on mormesk coming from Dr. B and her fire
+Returning to the Spectators, the group attempted to trick Igi and Gladi into serving them directly. The Spectators, however, proved cleverer than expected and turned the tables — the party ended up freeing them from their vigil without gaining any further service.
 
-The group proceeds to loot the ancient abode of mormesk finding: 50gp, his old spellbook and a nice mahogany desk.
+With the guardians gone, the party claimed the two treasures from the Spellforge chamber: a Breastplate +1 that granted immunity to dragon breath, and the Coat of the Cerulean — a longcoat that could cast Mass Cure Wounds once per long rest.
 
-Going back to the Spectators, the group chats with them and attempts to trick them into serving the group, but the group is tricked themselves and the Spectators are freed. 
+## The Black Spider
 
-The group then loots the Breastplate +1 (immune to dragon breath) and the Coat of the Cerulean  (Mass cure wounds once per long rest)
+Rested and re-equipped, the group headed for the Black Spider's lair on the far side of the chasm. They found a locked room they couldn't get into or see inside, then approached the grand doors of the Temple of Dumathoin.
 
-The group rests up and then heads off to the lair of the Black Spider
+Patches went in first, with Fëanon disguised as a Drow. The rest of the group hid inside the Tavern of Doors — and for reasons known only to themselves, painted themselves purple.
 
-They come across a locked room just before the Spider but cannot get in or see inside.
+Inside the temple, Fëanon and Patches found Lo'Dan and his retinue of Drow elite. Another Drow arrived, brushing past the disguised Fëanon without a second glance.
 
-Approaching the grand doors to the temple of Dumathoin, Patches decides to go inside with Fey disguised as a Drow.
+The group quickly discovered that Lo'Dan was deeply unhappy with the progress Nezzan — the Black Spider — had made with the Spellforge. So unhappy, in fact, that Lo'Dan offered to let the party deal with Nezzan themselves while his Drow watched.
 
-The rest of the group is within the ToD and stupidly paint themselves purple…
+## The Execution of Nezzan
 
-After a quick discussion with Lo'Dan and his group of Drow Elite, another drow shows up brushing past Fey.
+The battle with Nezzan was intense. Furious at Lo'Dan's betrayal, the Black Spider fought with desperate ferocity. But the party had the advantage of numbers and the Drow audience had no intention of intervening.
 
-The group discovers that Lo'Dan is unhappy with the progress that Nezzan made with the spell forge, so much so that they allow the group to exact their vengeance upon him without interfering, in fact watching the whole spectacle.
+When the group finally brought Nezzan to his knees, he begged for his life. Gundren — whose brother had died because of this Drow's scheming — told him to suck it, then blew his head off with his thundercannon.
 
-The group battles Nezzan epicly (who is pissed at Lo'Dan for throwing him to the wolves)
+The Drow elite applauded the performance. Lo'Dan told the group to travel to Neverwinter, where they would have a task for them. Then the Drow vanished into their magical darkness.
 
-The group gets Nezzan on his last legs and he begs for his life, Gundren, whose brother was slain, tells him to suck it, before blowing his head off with his thundercannon.
+## Loot and Revelations
 
-The drow clap at the performance and tell the group to head to Neverwinter where they have a task for them
+From Nezzan's body they recovered Elven Chain +1, a Staff of Spiders, scrolls of Web and Cloudkill, a bottle of Drow spirits, and 50 gold. They also found a key — the one for the locked room they'd passed earlier.
 
-The drow then disappear using their darkness.
+Inside, they found Gundren's last surviving brother, tortured horribly and repeatedly healed to prolong his suffering. He was essentially comatose. The party carried him gently into the Tavern of Doors.
 
-The group loots Elven Chain +1 from Nezzan, a Staff of Spiders, web, cloudkill, a bottle of Drow Spirits and 50gp
-
-They get a key as well and open the room they could not get into, inside they find Gundrens last brother, tortured horribly and healed, he is essentially comatose.
-
-The group heads into ToD bringing the brother, inside the Tavern has finished growing the main rooms (common room, stage, bar, kitchen, upstairs hallway and living rooms, magical focus room) the specialty rooms are still growing.
+Inside the box, the Tavern had continued to grow. The main rooms — common room, stage, bar, kitchen, upstairs hallway, living rooms, and the magical focus room — were now fully formed. The specialty rooms were still developing.

@@ -3,6 +3,7 @@ title: Phandalin - Session 9
 chapter: 1
 chapterTitle: Phandalin
 session: 9
+summary: "The party collects their rewards in Phandalin beneath the shadow of Iarno's gallows, only for Venomfang to return — corrupted into a Dracolich that destroys half the town before Tark tears out its phylactery heart."
 people:
   - "aliyah-faen-tlabbar"
   - "doc"
@@ -25,22 +26,40 @@ factions:
   - "drow-faction"
 ---
 
-The group awakens in a tavern, returning from the nightmare world of the hag den.  JmJm, Patches, Gundren, Lothli and Tark all awake to find that Dr.B and Buumi managed to take them from the fields just outside town into the safety of the towns tavern but could not wake them.  Recounting tale, Sildar joins the group with Harkell to express their dismay and confusion about the reports of hags and undead monstrosities.  Strangely, as they awoke, all the items that they picked up in the dream reality materialized next to them.  He pays the group 250gp for rescuing Gundren and Barthen, Gundrens other brother shows up and pays them another 250gp before going into the box with Gundren to see their other surviving brother.
+The party awoke in the tavern, returned from the nightmare realm of the hag lair. JmJm, Patches, Gundren, Lothli, and Tark all found that Doctor Breakfast and Buumi had carried them to safety but couldn't rouse them. Strangely, every item they'd collected in the dream had materialized beside them.
 
-Harkell at this point teleports to The Ivy Mansion in Longsaddle to do some research on what may be happening.  The group gathers their things and head to the town center to meet the Mayor; Harbrim.  Harbrim pays the group 500gp for taking care of the Drow plans and Cragmaw castle, Sister Gisele shows up and gives each member of the group a healing potion for conferring with Agatha the Banshee.  All of this is happening in the shadow of the Hanged Iarno.
+## Rewards and Loose Ends
 
-As the group prepares to leave with Sildar for Neverwinter to report the happenings a Rider comes in screaming about a Dragon, just as Venomfang flies overhead and lands on the Mansion on the hill. The dragon looks sickly, it's scales cracking and showing an orange glow from within, the dragons eyes glow orange and dark smoke trails from it's wings.  The town rallies to defense and the Dragon attacks the group, yelling "THIEVES".  Attempting to fly overhead, the dragon takes off from the building, only to be knocked from the sky by a massive lightning bolt from the storm building overhead (Doc B).  Crashing into the center of town, the Dragon enters a frenzy.  Tark leaps forwards, quaffing a Fire Giant Strength potion and batters the dragons face tremendously, shattering scale and bone.  The Dragon breathes on the group, and then charges buumi, smashing his shield and throwing him far away, wounding him direly.  After a brief but intense battle, the dragon is killed in the center of town, Harbrim storms over to the corpse, asking the group how they managed to bring this down on them.  Sensing a building magical energy within the dragon, the group backs off, JmJm reaching for the dragons corpse but deciding at the last moment not to go near it.  The dragon explodes in a gout of ash and black smoke.  As it clears, they see a Dracolich standing before them, tearing Harbrim in half and then charging the group, a massive orange glowing gemstone in it's chest.
+Sildar arrived with Harkell to hear the group's account. Both were alarmed by the reports of hags and undead monstrosities. Sildar paid the group 250 gold for rescuing Gundren, and Barthen — Gundren's other brother — appeared and paid another 250 gold before entering the Tavern of Doors with Gundren to see their surviving, comatose brother.
 
-The Dragon breathes on the group, which take only minor damage, but the crowd of villagers that had gathered take the full blast, killing half the town and raising them as zombies.
+Harkell teleported back to the Ivy Mansion in Longsaddle to research what might be happening. The party gathered their things and headed to the town center to meet the mayor. Harbrim paid them 500 gold for dealing with the Drow threat and clearing Cragmaw Castle. Sister Gisele arrived and gave each party member a healing potion for their help with Agatha the banshee.
 
-The group engages, Tark, with his strength picks up the dragon and throws it into a nearby building.
+All of this played out beneath the shadow of Iarno's gallows — the traitor had been hanged in their absence.
 
-JmJm and Dr.b do a dual synchronized Thunderwave at the zombies, all but destroying them and pushing them into a heap of dead flesh. Climbing out of the smashed building, the dragon snaps it's maw towards Faye, smashing him backwards as the maw hits his shield.  Patches leaps forwards, plunging her dagger into the beast as arrows fly from Lothli across the plaza.
+## The Dragon Returns
 
-Running forwards, Dr.B unleashes a healing wave, bringing the group back to full strength.  Tark then picks up the Dragon by the tail and flings it onto the mass of destroyed Zombies, squashing them further.
+As the group prepared to leave with Sildar for Neverwinter, a rider galloped in screaming about a dragon. Venomfang swept overhead and landed on the mansion atop the hill. But this was not the same dragon they'd robbed in Thundertree. Its scales were cracking, revealing an orange glow from within. Its eyes burned the same sickly orange, and dark smoke trailed from its wings.
 
-The battle continues, the dragon smashing the town and the group.  Patches leaps atop it's back and slashes wickedly with her weapons, severing it's vertebrae and detaching it's body from the waist down.  Running forwards, the dragon making a few desperate attacks at the group, Tark grabs it's gem heart and tears it from it's rotted body, turning the dragon into a corpse once more as it disintegrates to ash.
+The town rallied to defend itself. Venomfang attacked the group directly, shrieking "THIEVES!" as it launched from the building. Doctor Breakfast called down a massive lightning bolt from the storm building overhead, knocking the dragon out of the sky. It crashed into the center of town and entered a frenzy.
 
-The group now have the phylactery heart of this Dragon turned Undead.
+Tark charged forward, quaffing the Potion of Fire Giant Strength, and battered the dragon's face with tremendous force — shattering scale and bone. Venomfang breathed on the group, then charged Buumi, smashing his shield and hurling him across the square, nearly killing him.
 
-The town in ruins, Sildar appears from some rubble, insisting they go directly to Neverwinter to inform the Lord about what happened.  The group complies, hopping into the ToD as Lothli secures a wandering now-ownerless horse and rides off towards Neverwinter…
+After a brief but savage battle, the dragon died in the town center. Harbrim stormed over to the corpse demanding to know how the group had brought this upon them. But a building magical energy pulsed within the dragon's body. JmJm reached for the corpse, then thought better of it at the last moment and stepped back.
+
+## The Dracolich
+
+Venomfang exploded in a gout of ash and black smoke. When it cleared, a Dracolich stood where the dragon had fallen — skeletal, burning with necrotic energy, a massive orange-glowing gemstone embedded in its chest. Its first act was to tear Harbrim in half.
+
+The Dracolich breathed on the party and the gathered crowd. The adventurers took minor damage. The townsfolk were not so lucky — the blast killed half the population of Phandalin and raised them as zombies.
+
+JmJm and Doctor Breakfast performed a dual synchronized Thunderwave at the zombie horde, obliterating most of them and pushing the rest into a heap of dead flesh. Tark, still empowered by the potion, picked up the dragon and hurled it into a nearby building.
+
+The Dracolich crawled from the wreckage and snapped at Fëanon, who blocked with his shield. Patches leaped forward and drove her dagger into the beast as Lothli fired arrows from across the plaza. Doctor Breakfast unleashed a healing wave that brought the group back to full strength. Tark grabbed the dragon by the tail and flung it onto the mass of crushed zombies.
+
+The battle raged on — the Dracolich smashing through buildings and the party alike. Patches leaped onto its back and slashed with vicious precision, severing its spine and detaching its body from the waist down. The dragon dragged itself forward on its front claws, making desperate attacks. Tark stepped in, grabbed the glowing gemstone in its chest, and tore the phylactery heart from its rotting body. The Dracolich crumbled to ash.
+
+## Departure
+
+The group now held the phylactery heart of a dragon turned undead. The town lay in ruins around them — half its people dead, its mayor torn in two.
+
+Sildar emerged from the rubble, insisting they leave immediately for Neverwinter to report what had happened. The group agreed, piling into the Tavern of Doors as Lothli secured a wandering, now-ownerless horse and rode hard for Neverwinter.
