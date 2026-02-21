@@ -63,6 +63,10 @@ for (const d of appearances) {
   byChapter.get(ch)!.entries.push(d);
 }
 
+// Build a lookup of wiki slugs → titles for linking bio fields
+const allWiki = await getCollection('wiki');
+const wikiBySlug = new Map(allWiki.map(w => [w.id, w.data.title]));
+
 // Find first appearance diary entry
 let firstAppearanceEntry = null;
 if (entry.data.firstAppearance) {
@@ -138,6 +142,58 @@ if (entry.data.firstAppearance) {
                 <figcaption class="text-xs text-ink-400 mt-1 text-center">{entry.data.imageAlt}</figcaption>
               )}
             </figure>
+          )}
+          {(entry.data.race || entry.data.class || entry.data.affiliation || entry.data.home || entry.data.status) && entry.data.category === 'People' && (
+            <table class="w-full text-sm mb-4">
+              <tbody>
+                {entry.data.race && (
+                  <tr class="border-b border-parchment-200">
+                    <td class="py-1.5 pr-2 text-ink-400 font-medium">Race</td>
+                    <td class="py-1.5 text-ink-700">{entry.data.race}</td>
+                  </tr>
+                )}
+                {entry.data.class && (
+                  <tr class="border-b border-parchment-200">
+                    <td class="py-1.5 pr-2 text-ink-400 font-medium">Class</td>
+                    <td class="py-1.5 text-ink-700">{entry.data.class}</td>
+                  </tr>
+                )}
+                {entry.data.affiliation && (
+                  <tr class="border-b border-parchment-200">
+                    <td class="py-1.5 pr-2 text-ink-400 font-medium">Affiliation</td>
+                    <td class="py-1.5 text-ink-700">
+                      {wikiBySlug.has(entry.data.affiliation) ? (
+                        <a href={`${base}/wiki/${entry.data.affiliation}/`} class="text-accent-600 hover:text-accent-700 no-underline hover:underline">
+                          {wikiBySlug.get(entry.data.affiliation)}
+                        </a>
+                      ) : entry.data.affiliation}
+                    </td>
+                  </tr>
+                )}
+                {entry.data.home && (
+                  <tr class="border-b border-parchment-200">
+                    <td class="py-1.5 pr-2 text-ink-400 font-medium">Home</td>
+                    <td class="py-1.5 text-ink-700">
+                      {wikiBySlug.has(entry.data.home) ? (
+                        <a href={`${base}/wiki/${entry.data.home}/`} class="text-accent-600 hover:text-accent-700 no-underline hover:underline">
+                          {wikiBySlug.get(entry.data.home)}
+                        </a>
+                      ) : entry.data.home}
+                    </td>
+                  </tr>
+                )}
+                {entry.data.status && (
+                  <tr>
+                    <td class="py-1.5 pr-2 text-ink-400 font-medium">Status</td>
+                    <td class="py-1.5">
+                      <span class:list={['text-xs font-medium px-2 py-0.5 rounded-full', statusColors[entry.data.status] || 'bg-gray-100 text-gray-600']}>
+                        {entry.data.status}
+                      </span>
+                    </td>
+                  </tr>
+                )}
+              </tbody>
+            </table>
           )}
           {appearances.length > 0 && (
             <div>
