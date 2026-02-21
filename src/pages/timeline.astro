@@ -2,71 +2,215 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
-const allEntries = await getCollection('diary');
-allEntries.sort((a, b) => {
+const allDiary = await getCollection('diary');
+allDiary.sort((a, b) => {
   if (a.data.chapter !== b.data.chapter) return a.data.chapter - b.data.chapter;
   return a.data.session - b.data.session;
 });
 
-// Group by chapter
-const chapters: Map<number, typeof allEntries> = new Map();
-for (const entry of allEntries) {
+const allWiki = await getCollection('wiki');
+
+// --- Build data maps ---
+
+// sessionDebuts: which wiki entities debut in each session
+const sessionDebuts: Map<string, { slug: string; title: string; category: string }[]> = new Map();
+for (const w of allWiki) {
+  if (!w.data.firstAppearance) continue;
+  if (!sessionDebuts.has(w.data.firstAppearance)) sessionDebuts.set(w.data.firstAppearance, []);
+  sessionDebuts.get(w.data.firstAppearance)!.push({
+    slug: w.id,
+    title: w.data.title,
+    category: w.data.category,
+  });
+}
+// Sort debuts within each session by category order then title
+const catOrder = { People: 0, Places: 1, Things: 2, Factions: 3, Events: 4 };
+for (const [, arr] of sessionDebuts) {
+  arr.sort((a, b) => (catOrder[a.category as keyof typeof catOrder] ?? 9) - (catOrder[b.category as keyof typeof catOrder] ?? 9) || a.title.localeCompare(b.title));
+}
+
+// entitySessions: which sessions each entity appears in (from diary frontmatter)
+const categoryKeys = ['people', 'places', 'things', 'factions', 'events'] as const;
+const entitySessions: Record<string, string[]> = {};
+for (const d of allDiary) {
+  for (const key of categoryKeys) {
+    const slugs = d.data[key];
+    if (!slugs) continue;
+    for (const slug of slugs) {
+      if (!entitySessions[slug]) entitySessions[slug] = [];
+      entitySessions[slug].push(d.id);
+    }
+  }
+}
+
+// entityMeta: display info for each entity
+const entityMeta: Record<string, { title: string; category: string; description?: string }> = {};
+for (const w of allWiki) {
+  entityMeta[w.id] = { title: w.data.title, category: w.data.category, description: w.data.description };
+}
+
+const entitySessionsJSON = JSON.stringify(entitySessions);
+const entityMetaJSON = JSON.stringify(entityMeta);
+
+// Events for milestone banners
+const events = allWiki.filter(w => w.data.category === 'Events' && w.data.firstAppearance);
+
+// Group diary by chapter
+const chapters: Map<number, typeof allDiary> = new Map();
+for (const entry of allDiary) {
   const ch = entry.data.chapter;
   if (!chapters.has(ch)) chapters.set(ch, []);
   chapters.get(ch)!.push(entry);
 }
 
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-
-// Chapter title fallback
-function chapterTitle(entries: typeof allEntries): string {
+function chapterTitle(entries: typeof allDiary): string {
   return entries[0]?.data.chapterTitle || `Chapter ${entries[0]?.data.chapter}`;
 }
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Category color CSS class mapping
+const catCss: Record<string, string> = {
+  People: 'people',
+  Places: 'places',
+  Things: 'things',
+  Factions: 'factions',
+  Events: 'events',
+};
 ---
 
 <BaseLayout title="Timeline" wide={true}>
-  <h1 class="font-serif text-3xl font-bold text-ink-900 mb-2">Timeline</h1>
-  <p class="text-ink-400 mb-8">A chronological record of all sessions across <em>The Rise of Atropos</em>.</p>
+  <h1 class="font-serif text-3xl font-bold text-ink-900 mb-1">Timeline</h1>
+  <p class="text-ink-400 mb-4">A chronological record of all sessions across <em>The Rise of Atropos</em>.</p>
 
-  <div class="timeline-wrapper">
+  <!-- Category filter bar -->
+  <div class="tl-filters" id="tl-filters">
+    <button class="tl-filter tl-filter--people active" data-cat="people" type="button">
+      <span class="tl-filter-dot tl-filter-dot--people"></span>People
+    </button>
+    <button class="tl-filter tl-filter--places active" data-cat="places" type="button">
+      <span class="tl-filter-dot tl-filter-dot--places"></span>Places
+    </button>
+    <button class="tl-filter tl-filter--things active" data-cat="things" type="button">
+      <span class="tl-filter-dot tl-filter-dot--things"></span>Things
+    </button>
+    <button class="tl-filter tl-filter--factions active" data-cat="factions" type="button">
+      <span class="tl-filter-dot tl-filter-dot--factions"></span>Factions
+    </button>
+    <div class="tl-entity-badge" id="tl-entity-badge" hidden>
+      <span id="tl-entity-badge-name"></span>
+      <button type="button" id="tl-entity-badge-clear" aria-label="Clear selection">&times;</button>
+    </div>
+  </div>
+
+  <!-- Two-column layout -->
+  <div class="tl-layout">
     <!-- Main timeline -->
-    <div class="timeline-main">
-      {[...chapters.entries()].map(([chapterNum, entries], chapterIdx) => (
-        <section id={`chapter-${chapterNum}`} class="timeline-chapter" data-chapter={chapterNum}>
-          {/* Chapter header */}
+    <div class="tl-main">
+      {[...chapters.entries()].map(([chapterNum, entries]) => (
+        <section id={`chapter-${chapterNum}`} class="tl-chapter" data-chapter={chapterNum}>
           <div class="chapter-header">
             <span class="chapter-number">Chapter {chapterNum}</span>
             <span class="chapter-title">{chapterTitle(entries)}</span>
             <span class="chapter-count">{entries.length} sessions</span>
           </div>
 
-          {/* Session nodes */}
-          <div class="timeline-spine">
-            {entries.map((entry, i) => {
-              const peopleCount = entry.data.people?.length || 0;
-              const placesCount = entry.data.places?.length || 0;
-              const thingsCount = entry.data.things?.length || 0;
-              const factionsCount = entry.data.factions?.length || 0;
-              const side = i % 2 === 0 ? 'left' : 'right';
+          <div class="tl-spine">
+            {entries.map((entry) => {
+              const sessionId = entry.id;
+              const debuts = sessionDebuts.get(sessionId) || [];
+              const nonEventDebuts = debuts.filter(d => d.category !== 'Events');
+              const eventDebuts = debuts.filter(d => d.category === 'Events');
+
+              // Entity counts per category for density bar
+              const pCount = entry.data.people?.length || 0;
+              const plCount = entry.data.places?.length || 0;
+              const tCount = entry.data.things?.length || 0;
+              const fCount = entry.data.factions?.length || 0;
+              const total = pCount + plCount + tCount + fCount;
+
+              // Collect all entity slugs for this session (for highlight matching)
+              const allSlugs = [
+                ...(entry.data.people || []),
+                ...(entry.data.places || []),
+                ...(entry.data.things || []),
+                ...(entry.data.factions || []),
+                ...(entry.data.events || []),
+              ];
 
               return (
-                <div class={`timeline-node timeline-node--${side}`}>
-                  <div class="node-dot" />
-                  <a href={`${base}/diary/${entry.id}/`} class="node-card">
-                    <span class="node-label font-mono">
-                      Ch.{entry.data.chapter} / S{entry.data.session}
-                    </span>
-                    <span class="node-title">{entry.data.title}</span>
-                    {(peopleCount > 0 || placesCount > 0 || thingsCount > 0 || factionsCount > 0) && (
-                      <div class="node-tags">
-                        {peopleCount > 0 && <span class="tag tag--people">{peopleCount} people</span>}
-                        {placesCount > 0 && <span class="tag tag--places">{placesCount} places</span>}
-                        {thingsCount > 0 && <span class="tag tag--things">{thingsCount} things</span>}
-                        {factionsCount > 0 && <span class="tag tag--factions">{factionsCount} factions</span>}
+                <>
+                  {/* Event milestone banners before the session node */}
+                  {eventDebuts.map((ev) => (
+                    <div class="tl-milestone">
+                      <div class="tl-milestone-inner">
+                        <span class="tl-milestone-label font-mono">Ch.{entry.data.chapter}/S{entry.data.session}</span>
+                        <a href={`${base}/wiki/${ev.slug}/`} class="tl-milestone-title">{ev.title}</a>
+                        {entityMeta[ev.slug]?.description && (
+                          <p class="tl-milestone-desc">{entityMeta[ev.slug].description}</p>
+                        )}
                       </div>
-                    )}
-                  </a>
-                </div>
+                    </div>
+                  ))}
+
+                  <div
+                    class="tl-node"
+                    data-session={sessionId}
+                    data-entities={allSlugs.join(',')}
+                  >
+                    <div class="tl-node-dot"></div>
+                    <div class="tl-node-content">
+                      {/* Row 1: label + title */}
+                      <div class="tl-node-header">
+                        <span class="tl-node-label font-mono">Ch.{entry.data.chapter}/S{entry.data.session}</span>
+                        <a href={`${base}/diary/${sessionId}/`} class="tl-node-title">{entry.data.title}</a>
+                      </div>
+
+                      {/* Row 2: density bar */}
+                      {total > 0 && (
+                        <div class="tl-density" title={`${pCount} people, ${plCount} places, ${tCount} things, ${fCount} factions`}>
+                          {pCount > 0 && <div class="tl-density-seg tl-density-seg--people" style={`flex:${pCount}`}></div>}
+                          {plCount > 0 && <div class="tl-density-seg tl-density-seg--places" style={`flex:${plCount}`}></div>}
+                          {tCount > 0 && <div class="tl-density-seg tl-density-seg--things" style={`flex:${tCount}`}></div>}
+                          {fCount > 0 && <div class="tl-density-seg tl-density-seg--factions" style={`flex:${fCount}`}></div>}
+                        </div>
+                      )}
+
+                      {/* Row 3: debut chips */}
+                      {nonEventDebuts.length > 0 && (
+                        <div class="tl-debuts">
+                          {nonEventDebuts.slice(0, 4).map((d) => (
+                            <button
+                              class={`tl-chip tl-chip--${catCss[d.category]}`}
+                              data-entity={d.slug}
+                              type="button"
+                              title={`${d.title} — first appearance`}
+                            >
+                              {d.title}
+                            </button>
+                          ))}
+                          {nonEventDebuts.length > 4 && (
+                            <button class="tl-chip tl-chip--overflow" type="button" data-overflow={sessionId}>
+                              +{nonEventDebuts.length - 4} more
+                            </button>
+                          )}
+                          {/* Hidden overflow chips */}
+                          {nonEventDebuts.length > 4 && nonEventDebuts.slice(4).map((d) => (
+                            <button
+                              class={`tl-chip tl-chip--${catCss[d.category]} tl-chip--hidden`}
+                              data-entity={d.slug}
+                              data-overflow-item={sessionId}
+                              type="button"
+                              title={`${d.title} — first appearance`}
+                            >
+                              {d.title}
+                            </button>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                </>
               );
             })}
           </div>
@@ -74,50 +218,153 @@ function chapterTitle(entries: typeof allEntries): string {
       ))}
     </div>
 
-    <!-- Chapter navigation sidebar -->
-    <nav class="chapter-nav" aria-label="Chapter navigation">
-      <h2 class="text-sm font-semibold text-ink-500 uppercase tracking-wider mb-3">Chapters</h2>
-      <ul class="space-y-1">
-        {[...chapters.entries()].map(([chapterNum, entries]) => (
-          <li>
-            <a
-              href={`#chapter-${chapterNum}`}
-              class="chapter-nav-link"
-              data-chapter-link={chapterNum}
-            >
-              <span class="chapter-nav-num">{chapterNum}.</span>
-              <span class="chapter-nav-name">{chapterTitle(entries)}</span>
-            </a>
-          </li>
-        ))}
-      </ul>
-    </nav>
+    <!-- Right sidebar -->
+    <aside class="tl-sidebar" id="tl-sidebar">
+      {/* Chapter nav (default view) */}
+      <div id="tl-sidebar-nav">
+        <h2 class="tl-sidebar-heading">Chapters</h2>
+        <ul class="tl-chapter-list">
+          {[...chapters.entries()].map(([chapterNum, entries]) => (
+            <li>
+              <a href={`#chapter-${chapterNum}`} class="tl-chapter-link" data-chapter-link={chapterNum}>
+                <span class="tl-chapter-num">{chapterNum}.</span>
+                <span class="tl-chapter-name">{chapterTitle(entries)}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      {/* Entity detail panel (shown when entity selected) */}
+      <div id="tl-sidebar-entity" hidden>
+        <button type="button" id="tl-sidebar-back" class="tl-sidebar-back">&larr; Chapters</button>
+        <div class="tl-entity-detail">
+          <h3 id="tl-entity-name" class="tl-entity-name"></h3>
+          <span id="tl-entity-cat" class="tl-entity-cat"></span>
+          <p id="tl-entity-desc" class="tl-entity-desc"></p>
+          <p id="tl-entity-sessions" class="tl-entity-sessions"></p>
+          <a id="tl-entity-link" href="#" class="tl-entity-wiki-link">View wiki entry &rarr;</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  {/* Mobile entity bottom sheet */}
+  <div class="tl-bottomsheet" id="tl-bottomsheet" hidden>
+    <div class="tl-bottomsheet-inner">
+      <button type="button" id="tl-bottomsheet-close" class="tl-bottomsheet-close">&times;</button>
+      <h3 id="tl-bs-name" class="tl-entity-name"></h3>
+      <span id="tl-bs-cat" class="tl-entity-cat"></span>
+      <p id="tl-bs-desc" class="tl-entity-desc"></p>
+      <p id="tl-bs-sessions" class="tl-entity-sessions"></p>
+      <a id="tl-bs-link" href="#" class="tl-entity-wiki-link">View wiki entry &rarr;</a>
+    </div>
   </div>
 </BaseLayout>
 
 <style>
-  /* Layout */
-  .timeline-wrapper {
+  /* ===== Filter bar ===== */
+  .tl-filters {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.625rem 0;
+    margin-bottom: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: var(--color-parchment-50);
+    border-bottom: 1px solid var(--color-parchment-200);
+  }
+
+  .tl-filter {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.25rem 0.75rem;
+    border: 1px solid var(--color-parchment-300);
+    border-radius: 9999px;
+    background: var(--color-parchment-100);
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--color-ink-400);
+    cursor: pointer;
+    transition: opacity 0.15s, background 0.15s;
+    user-select: none;
+  }
+
+  .tl-filter.active {
+    color: var(--color-ink-700);
+    border-color: var(--color-parchment-400);
+    background: var(--color-parchment-200);
+  }
+
+  .tl-filter:not(.active) {
+    opacity: 0.5;
+  }
+
+  .tl-filter-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+  }
+
+  .tl-filter-dot--people { background: #f59e0b; }
+  .tl-filter-dot--places { background: #10b981; }
+  .tl-filter-dot--things { background: #0ea5e9; }
+  .tl-filter-dot--factions { background: #8b5cf6; }
+
+  .tl-entity-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    margin-left: auto;
+    padding: 0.25rem 0.5rem 0.25rem 0.75rem;
+    background: var(--color-accent-500);
+    color: #fff;
+    border-radius: 9999px;
+    font-size: 0.8125rem;
+    font-weight: 500;
+  }
+
+  .tl-entity-badge[hidden] { display: none; }
+
+  #tl-entity-badge-clear {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+    line-height: 1;
+    padding: 0 0.125rem;
+    opacity: 0.8;
+  }
+
+  #tl-entity-badge-clear:hover { opacity: 1; }
+
+  /* ===== Two-column layout ===== */
+  .tl-layout {
     display: flex;
     flex-direction: column;
     gap: 2rem;
   }
 
   @media (min-width: 1024px) {
-    .timeline-wrapper {
+    .tl-layout {
       display: grid;
       grid-template-columns: 1fr 240px;
       gap: 2rem;
     }
   }
 
-  /* Chapter navigation sidebar */
-  .chapter-nav {
+  /* ===== Sidebar ===== */
+  .tl-sidebar {
     display: none;
   }
 
   @media (min-width: 1024px) {
-    .chapter-nav {
+    .tl-sidebar {
       display: block;
       background: var(--color-parchment-100);
       border-radius: 0.5rem;
@@ -130,7 +377,25 @@ function chapterTitle(entries: typeof allEntries): string {
     }
   }
 
-  .chapter-nav-link {
+  .tl-sidebar-heading {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-ink-400);
+    margin-bottom: 0.75rem;
+  }
+
+  .tl-chapter-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.125rem;
+  }
+
+  .tl-chapter-link {
     display: flex;
     gap: 0.375rem;
     padding: 0.25rem 0.5rem;
@@ -142,25 +407,84 @@ function chapterTitle(entries: typeof allEntries): string {
     transition: background-color 0.15s, color 0.15s;
   }
 
-  .chapter-nav-link:hover {
+  .tl-chapter-link:hover {
     background: var(--color-parchment-200);
     color: var(--color-ink-800);
     text-decoration: none;
   }
 
-  .chapter-nav-link.active {
+  .tl-chapter-link.active {
     background: var(--color-parchment-300);
     color: var(--color-ink-900);
     font-weight: 600;
   }
 
-  .chapter-nav-num {
+  .tl-chapter-num {
     flex-shrink: 0;
     font-variant-numeric: tabular-nums;
     min-width: 1.5rem;
   }
 
-  /* Chapter headers */
+  .tl-sidebar-back {
+    background: none;
+    border: none;
+    color: var(--color-ink-400);
+    font-size: 0.8125rem;
+    cursor: pointer;
+    padding: 0.25rem 0;
+    margin-bottom: 0.75rem;
+  }
+
+  .tl-sidebar-back:hover { color: var(--color-ink-700); }
+
+  /* Entity detail (sidebar + bottomsheet shared) */
+  .tl-entity-name {
+    font-family: var(--font-serif);
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: var(--color-ink-900);
+    margin: 0 0 0.375rem;
+  }
+
+  .tl-entity-cat {
+    display: inline-block;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.125rem 0.5rem;
+    border-radius: 9999px;
+  }
+
+  .tl-entity-cat[data-cat="People"]   { background: #fef3c7; color: #92400e; }
+  .tl-entity-cat[data-cat="Places"]   { background: #d1fae5; color: #065f46; }
+  .tl-entity-cat[data-cat="Things"]   { background: #e0f2fe; color: #075985; }
+  .tl-entity-cat[data-cat="Factions"] { background: #ede9fe; color: #5b21b6; }
+  .tl-entity-cat[data-cat="Events"]   { background: #ffe4e6; color: #9f1239; }
+
+  .tl-entity-desc {
+    font-size: 0.8125rem;
+    color: var(--color-ink-500);
+    line-height: 1.5;
+    margin: 0.5rem 0;
+  }
+
+  .tl-entity-sessions {
+    font-size: 0.75rem;
+    color: var(--color-ink-400);
+    margin: 0 0 0.5rem;
+  }
+
+  .tl-entity-wiki-link {
+    font-size: 0.8125rem;
+    color: var(--color-accent-600);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .tl-entity-wiki-link:hover { text-decoration: underline; }
+
+  /* ===== Chapter headers ===== */
   .chapter-header {
     display: flex;
     align-items: baseline;
@@ -192,13 +516,13 @@ function chapterTitle(entries: typeof allEntries): string {
     margin-left: auto;
   }
 
-  /* Spine */
-  .timeline-spine {
+  /* ===== Spine ===== */
+  .tl-spine {
     position: relative;
-    padding: 1rem 0 2rem;
+    padding: 1rem 0 2rem 2rem;
   }
 
-  .timeline-spine::before {
+  .tl-spine::before {
     content: '';
     position: absolute;
     left: 0.5rem;
@@ -208,177 +532,357 @@ function chapterTitle(entries: typeof allEntries): string {
     background: var(--color-parchment-300);
   }
 
-  @media (min-width: 1024px) {
-    .timeline-spine::before {
-      left: 50%;
-      transform: translateX(-50%);
-    }
-  }
-
-  /* Nodes */
-  .timeline-node {
+  /* ===== Session nodes ===== */
+  .tl-node {
     position: relative;
-    display: flex;
-    align-items: flex-start;
-    gap: 1rem;
     padding: 0.5rem 0;
-    padding-left: 2rem;
+    transition: opacity 0.2s;
   }
 
-  @media (min-width: 1024px) {
-    .timeline-node {
-      width: 50%;
-      padding-left: 0;
-    }
-
-    .timeline-node--left {
-      margin-left: 0;
-      padding-right: 2rem;
-      justify-content: flex-end;
-      text-align: right;
-    }
-
-    .timeline-node--right {
-      margin-left: 50%;
-      padding-left: 2rem;
-    }
-
-    .timeline-node--left .node-tags {
-      justify-content: flex-end;
-    }
-  }
-
-  /* Dot marker */
-  .node-dot {
+  .tl-node-dot {
     position: absolute;
     width: 10px;
     height: 10px;
     border-radius: 50%;
     background: var(--color-parchment-400);
     border: 2px solid var(--color-parchment-200);
-    left: 4px;
+    left: -1.5rem;
     top: 0.875rem;
+    transform: translateX(-50%);
     z-index: 1;
   }
 
-  @media (min-width: 1024px) {
-    .timeline-node--left .node-dot {
-      left: auto;
-      right: -5px;
-    }
-
-    .timeline-node--right .node-dot {
-      left: -5px;
-    }
-  }
-
-  /* Card */
-  .node-card {
+  .tl-node-content {
     display: flex;
     flex-direction: column;
-    gap: 0.125rem;
-    padding: 0.625rem 0.875rem;
-    background: var(--color-parchment-100);
-    border: 1px solid var(--color-parchment-200);
-    border-radius: 0.375rem;
-    text-decoration: none;
-    transition: border-color 0.15s, box-shadow 0.15s;
-    width: 100%;
+    gap: 0.25rem;
   }
 
-  .node-card:hover {
-    border-color: var(--color-parchment-400);
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
-    text-decoration: none;
+  .tl-node-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
   }
 
-  .node-label {
+  .tl-node-label {
     font-size: 0.6875rem;
     color: var(--color-ink-300);
     letter-spacing: 0.02em;
+    flex-shrink: 0;
   }
 
-  .node-title {
+  .tl-node-title {
     font-family: var(--font-serif);
     font-size: 0.9375rem;
     font-weight: 600;
     color: var(--color-ink-800);
     line-height: 1.3;
+    text-decoration: none;
   }
 
-  /* Entity tags */
-  .node-tags {
+  .tl-node-title:hover {
+    color: var(--color-accent-600);
+    text-decoration: underline;
+    text-decoration-color: var(--color-parchment-300);
+  }
+
+  /* ===== Density bar ===== */
+  .tl-density {
+    display: flex;
+    height: 4px;
+    border-radius: 2px;
+    overflow: hidden;
+    max-width: 200px;
+    gap: 1px;
+  }
+
+  .tl-density-seg { min-width: 3px; border-radius: 1px; }
+  .tl-density-seg--people { background: #f59e0b; }
+  .tl-density-seg--places { background: #10b981; }
+  .tl-density-seg--things { background: #0ea5e9; }
+  .tl-density-seg--factions { background: #8b5cf6; }
+
+  /* Category filter: hide density segments */
+  :global(body.tl-hide-people) .tl-density-seg--people { display: none; }
+  :global(body.tl-hide-places) .tl-density-seg--places { display: none; }
+  :global(body.tl-hide-things) .tl-density-seg--things { display: none; }
+  :global(body.tl-hide-factions) .tl-density-seg--factions { display: none; }
+
+  /* ===== Debut chips ===== */
+  .tl-debuts {
     display: flex;
     flex-wrap: wrap;
     gap: 0.25rem;
-    margin-top: 0.25rem;
+    margin-top: 0.125rem;
   }
 
-  .tag {
+  .tl-chip {
     font-size: 0.625rem;
-    padding: 0.0625rem 0.375rem;
+    padding: 0.0625rem 0.4375rem;
     border-radius: 9999px;
     font-weight: 500;
     line-height: 1.5;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: box-shadow 0.15s, border-color 0.15s;
   }
 
-  .tag--people { background: #fef3c7; color: #92400e; }
-  .tag--places { background: #d1fae5; color: #065f46; }
-  .tag--things { background: #e0f2fe; color: #075985; }
-  .tag--factions { background: #ede9fe; color: #5b21b6; }
+  .tl-chip:hover { box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
 
-  /* Scroll-driven reveal animations */
+  .tl-chip--people { background: #fef3c7; color: #92400e; }
+  .tl-chip--places { background: #d1fae5; color: #065f46; }
+  .tl-chip--things { background: #e0f2fe; color: #075985; }
+  .tl-chip--factions { background: #ede9fe; color: #5b21b6; }
+
+  .tl-chip--overflow {
+    background: var(--color-parchment-200);
+    color: var(--color-ink-500);
+    font-size: 0.625rem;
+  }
+
+  .tl-chip--hidden { display: none; }
+  .tl-chip--hidden.tl-chip--revealed { display: inline-block; }
+
+  /* Category filter: hide debut chips */
+  :global(body.tl-hide-people) .tl-chip--people { display: none; }
+  :global(body.tl-hide-places) .tl-chip--places { display: none; }
+  :global(body.tl-hide-things) .tl-chip--things { display: none; }
+  :global(body.tl-hide-factions) .tl-chip--factions { display: none; }
+
+  /* ===== Entity highlight mode ===== */
+  :global(body.tl-entity-mode) .tl-node {
+    opacity: 0.15;
+  }
+
+  :global(body.tl-entity-mode) .tl-node.tl-node--matched {
+    opacity: 1;
+  }
+
+  :global(body.tl-entity-mode) .tl-node.tl-node--matched .tl-node-dot {
+    background: var(--color-accent-500);
+    border-color: var(--color-accent-700);
+    width: 12px;
+    height: 12px;
+  }
+
+  /* ===== Event milestones ===== */
+  .tl-milestone {
+    position: relative;
+    margin: 0.75rem 0 0.75rem -2rem;
+    padding: 0;
+  }
+
+  .tl-milestone-inner {
+    background: #ffe4e6;
+    border: 1px solid #fecdd3;
+    border-radius: 0.5rem;
+    padding: 0.75rem 1rem;
+  }
+
+  .tl-milestone-label {
+    font-size: 0.6875rem;
+    color: #9f1239;
+    display: block;
+    margin-bottom: 0.125rem;
+  }
+
+  .tl-milestone-title {
+    font-family: var(--font-serif);
+    font-size: 1.0625rem;
+    font-weight: 700;
+    color: #881337;
+    text-decoration: none;
+    line-height: 1.3;
+  }
+
+  .tl-milestone-title:hover { text-decoration: underline; }
+
+  .tl-milestone-desc {
+    font-size: 0.8125rem;
+    color: #9f1239;
+    margin: 0.25rem 0 0;
+    line-height: 1.4;
+  }
+
+  /* ===== Bottom sheet (mobile) ===== */
+  .tl-bottomsheet {
+    display: none;
+  }
+
+  .tl-bottomsheet[hidden] { display: none; }
+
+  @media (max-width: 1023px) {
+    .tl-bottomsheet:not([hidden]) {
+      display: block;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 50;
+      background: rgba(0,0,0,0.3);
+    }
+
+    .tl-bottomsheet-inner {
+      background: var(--color-parchment-50);
+      border-radius: 1rem 1rem 0 0;
+      padding: 1.25rem 1.25rem 2rem;
+      max-height: 50vh;
+      overflow-y: auto;
+      position: relative;
+    }
+
+    .tl-bottomsheet-close {
+      position: absolute;
+      top: 0.75rem;
+      right: 0.75rem;
+      background: none;
+      border: none;
+      font-size: 1.25rem;
+      color: var(--color-ink-400);
+      cursor: pointer;
+    }
+  }
+
+  /* ===== Scroll-driven reveal ===== */
   @supports (animation-timeline: view()) {
-    .timeline-node {
-      opacity: 0;
-      transform: translateY(1rem);
-      animation: node-reveal linear both;
+    .tl-node, .tl-milestone {
+      animation: tl-reveal linear both;
       animation-timeline: view();
-      animation-range: entry 0% entry 30%;
+      animation-range: entry 0% entry 25%;
     }
 
-    @media (min-width: 1024px) {
-      .timeline-node--left {
-        transform: translateX(-1rem) translateY(0);
-        animation-name: node-reveal-left;
+    @keyframes tl-reveal {
+      from {
+        opacity: 0;
+        transform: translateY(0.75rem);
       }
-
-      .timeline-node--right {
-        transform: translateX(1rem) translateY(0);
-        animation-name: node-reveal-right;
+      to {
+        opacity: 1;
+        transform: translateY(0);
       }
     }
-  }
 
-  @keyframes node-reveal {
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  @keyframes node-reveal-left {
-    to {
-      opacity: 1;
-      transform: translateX(0) translateY(0);
-    }
-  }
-
-  @keyframes node-reveal-right {
-    to {
-      opacity: 1;
-      transform: translateX(0) translateY(0);
+    /* Don't let scroll animation fight with entity highlight dimming */
+    :global(body.tl-entity-mode) .tl-node {
+      animation: none;
     }
   }
 </style>
 
-<script is:inline>
+<script is:inline define:vars={{ entitySessionsJSON, entityMetaJSON, base }}>
   document.addEventListener('DOMContentLoaded', () => {
-    const sections = document.querySelectorAll('.timeline-chapter');
-    const links = document.querySelectorAll('.chapter-nav-link');
+    const entitySessions = JSON.parse(entitySessionsJSON);
+    const entityMeta = JSON.parse(entityMetaJSON);
+    const body = document.body;
+    const nodes = document.querySelectorAll('.tl-node');
+    const nodeMap = new Map();
+    nodes.forEach(n => {
+      const entities = (n.dataset.entities || '').split(',').filter(Boolean);
+      nodeMap.set(n, entities);
+    });
+
+    // --- Category filters ---
+    document.querySelectorAll('.tl-filter[data-cat]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const cat = btn.dataset.cat;
+        btn.classList.toggle('active');
+        body.classList.toggle('tl-hide-' + cat, !btn.classList.contains('active'));
+      });
+    });
+
+    // --- Overflow debut expansion ---
+    document.querySelectorAll('.tl-chip--overflow').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const sid = btn.dataset.overflow;
+        document.querySelectorAll(`[data-overflow-item="${sid}"]`).forEach(c => {
+          c.classList.add('tl-chip--revealed');
+        });
+        btn.style.display = 'none';
+      });
+    });
+
+    // --- Entity highlight mode ---
+    let activeEntity = null;
+
+    function clearHighlight() {
+      activeEntity = null;
+      body.classList.remove('tl-entity-mode');
+      nodes.forEach(n => n.classList.remove('tl-node--matched'));
+      document.getElementById('tl-entity-badge').hidden = true;
+      document.getElementById('tl-sidebar-nav').hidden = false;
+      document.getElementById('tl-sidebar-entity').hidden = true;
+      const bs = document.getElementById('tl-bottomsheet');
+      if (bs) bs.hidden = true;
+    }
+
+    function highlightEntity(slug) {
+      if (activeEntity === slug) { clearHighlight(); return; }
+      activeEntity = slug;
+      const meta = entityMeta[slug];
+      if (!meta) return;
+
+      body.classList.add('tl-entity-mode');
+
+      // Mark matching nodes
+      const sessions = entitySessions[slug] || [];
+      const sessionSet = new Set(sessions);
+      nodes.forEach(n => {
+        n.classList.toggle('tl-node--matched', sessionSet.has(n.dataset.session));
+      });
+
+      // Badge in filter bar
+      const badge = document.getElementById('tl-entity-badge');
+      document.getElementById('tl-entity-badge-name').textContent = meta.title;
+      badge.hidden = false;
+
+      // Sidebar entity detail (desktop)
+      document.getElementById('tl-sidebar-nav').hidden = true;
+      const panel = document.getElementById('tl-sidebar-entity');
+      panel.hidden = false;
+      document.getElementById('tl-entity-name').textContent = meta.title;
+      const catEl = document.getElementById('tl-entity-cat');
+      catEl.textContent = meta.category;
+      catEl.dataset.cat = meta.category;
+      document.getElementById('tl-entity-desc').textContent = meta.description || '';
+      document.getElementById('tl-entity-sessions').textContent = 'Appears in ' + sessions.length + ' session' + (sessions.length !== 1 ? 's' : '');
+      document.getElementById('tl-entity-link').href = base + '/wiki/' + slug + '/';
+
+      // Bottom sheet (mobile)
+      if (window.innerWidth < 1024) {
+        const bs = document.getElementById('tl-bottomsheet');
+        bs.hidden = false;
+        document.getElementById('tl-bs-name').textContent = meta.title;
+        const bsCat = document.getElementById('tl-bs-cat');
+        bsCat.textContent = meta.category;
+        bsCat.dataset.cat = meta.category;
+        document.getElementById('tl-bs-desc').textContent = meta.description || '';
+        document.getElementById('tl-bs-sessions').textContent = 'Appears in ' + sessions.length + ' session' + (sessions.length !== 1 ? 's' : '');
+        document.getElementById('tl-bs-link').href = base + '/wiki/' + slug + '/';
+      }
+    }
+
+    // Chip click handlers
+    document.querySelectorAll('.tl-chip[data-entity]').forEach(chip => {
+      chip.addEventListener('click', (e) => {
+        e.stopPropagation();
+        highlightEntity(chip.dataset.entity);
+      });
+    });
+
+    // Clear handlers
+    document.getElementById('tl-entity-badge-clear').addEventListener('click', clearHighlight);
+    document.getElementById('tl-sidebar-back').addEventListener('click', clearHighlight);
+    const bsClose = document.getElementById('tl-bottomsheet-close');
+    if (bsClose) bsClose.addEventListener('click', clearHighlight);
+    const bs = document.getElementById('tl-bottomsheet');
+    if (bs) bs.addEventListener('click', (e) => { if (e.target === bs) clearHighlight(); });
+
+    // --- Chapter nav: smooth scroll + IntersectionObserver ---
+    const sections = document.querySelectorAll('.tl-chapter');
+    const links = document.querySelectorAll('.tl-chapter-link');
     if (!sections.length || !links.length) return;
 
-    // Smooth scroll for chapter links
     links.forEach(link => {
       link.addEventListener('click', (e) => {
         e.preventDefault();
@@ -387,7 +891,6 @@ function chapterTitle(entries: typeof allEntries): string {
       });
     });
 
-    // IntersectionObserver for active chapter highlighting
     let activeChapter = null;
     const observer = new IntersectionObserver((entries) => {
       for (const entry of entries) {
