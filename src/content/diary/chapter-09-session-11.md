@@ -38,6 +38,7 @@ places:
   - "underdark"
 things:
   - "bag-of-holding"
+  - "iron-tome"
   - "tavern-of-doors"
   - "well-of-many-worlds"
 factions:

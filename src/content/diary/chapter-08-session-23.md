@@ -28,6 +28,7 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
+  - "iron-tome"
 factions:
   - "drow-faction"
   - "duergar-faction"

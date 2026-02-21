@@ -24,6 +24,7 @@ places:
 things:
   - "arkto"
   - "eclipse"
+  - "iron-tome"
   - "thundercannon"
 ---
 

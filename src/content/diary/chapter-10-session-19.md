@@ -32,6 +32,7 @@ places:
   - "the-labyrinth"
   - "underdark"
 things:
+  - "iron-tome"
   - "mythallar"
 factions:
   - "duergar-faction"

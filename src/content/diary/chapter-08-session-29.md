@@ -30,6 +30,7 @@ places:
   - "sundabar"
   - "underdark"
 things:
+  - "iron-tome"
   - "tavern-of-doors"
   - "the-last-word"
 factions:

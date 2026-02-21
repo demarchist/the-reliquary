@@ -40,6 +40,7 @@ places:
   - "the-crossroads"
 things:
   - "eclipse"
+  - "iron-tome"
 factions:
   - "amnians"
   - "drow-faction"

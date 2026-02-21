@@ -23,6 +23,7 @@ places:
   - "the-chasm"
 things:
   - "eclipse"
+  - "iron-tome"
 factions:
   - "svirfneblin-faction"
 ---

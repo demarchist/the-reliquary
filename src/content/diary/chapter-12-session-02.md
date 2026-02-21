@@ -13,6 +13,8 @@ people:
   - "tarkathee-daru"
 places:
   - "ras-alkan"
+things:
+  - "iron-tome"
 ---
 
 Cirrus remains awake all night, refusing to sleep.  He grows exhausted.

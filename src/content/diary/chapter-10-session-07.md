@@ -28,6 +28,8 @@ places:
   - "svartalfheim"
   - "the-labyrinth"
   - "underdark"
+things:
+  - "iron-tome"
 factions:
   - "drow-faction"
 ---
