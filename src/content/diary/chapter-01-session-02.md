@@ -3,8 +3,10 @@ title: Phandalin - Session 2
 chapter: 1
 chapterTitle: Phandalin
 session: 2
+summary: "The party meets Doctor Breakfast, receives the Tavern of Doors from Sharess, travels north to Thundertree, and narrowly survives an encounter with the green dragon Venomfang."
 people:
   - "aliyah-faen-tlabbar"
+  - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -16,81 +18,67 @@ people:
   - "sharess"
   - "sildar"
   - "tarkathee-daru"
+  - "venomfang"
 places:
   - "cragmaw-castle"
   - "feanons-tower"
   - "neverwinter"
+  - "phandalin"
+  - "stonehill-inn"
   - "thundertree"
+  - "tresendar-manor"
 things:
   - "tavern-of-doors"
+  - "talon"
+  - "hew"
 ---
 
-head back to inn, Sildar takes care of IARNO. - discuss the fate of Blackspider with SILDAR.
+The party returned to the Stonehill Inn after clearing the Redbrands from Tresendar Manor. Sildar took custody of Iarno while the group settled in to rest and discuss what they'd learned about the Black Spider.
 
-- Buumi barges in while everyone is relaxing, turns out he went off on his own and found some hostages in the upper levels of the Manor house and saved them
+## Buumi's Solo Mission
 
-- Is miffed he was left behind, ask to wield the Longsword Talon (+1)
+Their rest was short-lived. Buumi barged into the common room, incensed at having been left behind during the manor assault. As it turned out, he'd gone off on his own and rescued hostages from the upper levels of Tresendar Manor single-handedly. He was miffed, but his attention quickly turned to the +1 longsword Talon recovered from the hideout — he asked to wield it, and the party obliged.
 
-- met by a Gnome Druid shapeshifted into a cat person in the inn, looking for adventurers to travel to Thundertree looking for a druid.
+## The Cat in the Inn
 
-- Jack Meyer Jhonson Matthews (JmJm) and Cat druid get along very well, rest in inn.
+A gnome druid arrived at the inn, shapeshifted into a cat-person — Doctor Breakfast, though they wouldn't learn her name right away. She was looking for adventurers willing to travel to Thundertree to find a druid named Reidoth. JmJm and the cat druid hit it off immediately, and the group agreed to rest for the night before setting out.
 
-- That night, JmJm is awoken by mysterious woman (Sharess), despite his insolence, is given the Tavern of Doors, Sharess the godess leaves exasperated.
+## The Gift of Sharess
 
-- Open Tavern of Doors, explore it, find magical harp in the room and Wine of Charming, drink half the wine...
+That night, JmJm was awoken by a mysterious woman who materialized in his room. She introduced herself as Sharess, goddess of hedonism and indulgence. Despite JmJm's insolence — or perhaps because of it — she gifted him the Tavern of Doors, a pocket dimension accessible through a magical door. Sharess left exasperated by the encounter.
 
-- Next morning, met again with townmaster, proclaim searching for cragmaw, also find out about Temple of Secrets quest (agatha) but decide to leave for thundertree
+The party explored the Tavern of Doors, discovering a magical harp in one of its rooms and a bottle of Wine of Charming. They promptly drank half the wine.
 
-- met with townmaster, discuss information, know Gundren is in Cragmaw castle, no one knows where that is
+## Setting Out for Thundertree
 
-- find out Thundertree druid may know about Cragmaw, also same druid that the Gnome-cat is looking for.
+The next morning, the party met again with the townmaster. They proclaimed their intention to search for Cragmaw Castle, where Gundren Rockseeker was being held, though no one knew its location. They also learned of the Temple of Secrets quest involving someone named Agatha, but decided to head for Thundertree first — the druid Reidoth might know the way to Cragmaw, and he was the same druid Doctor Breakfast was seeking.
 
-- Tark takes off not really waiting for the group, leaves Orc Paladin and Elf Ranger behind, rest of group manages to hitch a ride on the wagon.
+Tark took off without waiting for the group, leaving the orc paladin and elf ranger behind. The rest managed to hitch a ride on the wagon and followed the road north.
 
-- Traveling north to Thundertree, the group has an uneventful first day, setting up camp for the night, the group eats outside and then retires into ToD (tavern of doors)
+## The Road North
 
-- Patches and Fey'Anon climb the tree with ToD and settle in for the night.
+The first day of travel was uneventful. The party set up camp for the night, ate outside, then retired into the Tavern of Doors. Patches and Fëanon climbed a tree with the ToD and settled in to keep watch.
 
-- Ghouls approach, drawn by the fire
+Ghouls approached in the night, drawn by the dying campfire. The group nearly slipped away unnoticed, but when Patches mentioned the ghouls to Tark, the monk flew into a rage and charged out of the Tavern of Doors — forgetting he was twenty feet up in a tree. Patches caught him, but they both toppled out. Fëanon made his way down with the ToD and the group charged forth. The ghouls were easily dispatched with no injuries.
 
-- Group almost escapes unnoticed, but when Patches mentions the ghouls to the monk, he flies into a rage and charges out of ToD, not knowing he was up in a tree almost falling 20ft
+The next day they continued on with the wagon, which they'd hidden the night before along with the oxen inside the Tavern of Doors. They came across an ogre attempting to ambush travelers. Tark, ever the diplomat, tried to reason with it and offered it flowers. The ogre hesitated, but hunger won over curiosity and it attacked. Patches assassinated the creature as the group laid into it, and it fell quickly.
 
-- Patches catches Tark, but they both topple out of the tree, Fey'Anon makes his way down with the ToD and the group charges forth.
+## Thundertree
 
-- The Ghouls are easily dispatched with no injuries
+The party arrived at Thundertree — a desolate town ravaged by volcanic eruptions thirty years prior. They explored the first few buildings and encountered twig blights. Doctor Breakfast attempted to communicate with them using her druidic abilities, but the creatures attacked regardless. They were easily dispatched, and the party looted the houses.
 
-- rest for the rest of the night
+Scouts reported sighting a green dragon circling above the old mage's tower on the hill. The party pressed on and found Reidoth's house, where the druid warned them that confronting the dragon would be suicide.
 
-- next day continue on the road with the Wagon (hidden the night before with the Oxen inside ToD too.
+## Venomfang's Trap
 
-- come across an Ogre attempting to ambush travelers, sneak up on it, Tark decides to try and reason with it and gives it flowers.
+The group ignored Reidoth's warning and climbed the hill toward the tower, walking past a house draped in cobwebs. Patches wisely stealthed and shadowed the group from a distance.
 
-- The ogre doesnt know what to do at first but decides that hunger wins over curiosity and attacks.  Patches assassinates the Ogre as the group lays into it and kills it quickly.
+Approaching the tower, the dragon appeared atop it and offered parlay. Venomfang proposed a deal — he would pay the party if they dealt with his "vile sister" in Neverwinter Wood. The party agreed and approached the entrance to examine a map to the other dragon's lair.
 
-- Make it to Thundertree, desolate town ravaged by the volcanic eruptions 30 years ago
+It was a trap. Venomfang unleashed his poison breath on the party clustered by the doorway. Everyone was hit except Patches. Tark was brought to the brink of death; everyone else was badly wounded. Buumi shielded the group while they grabbed the unconscious Tark and dove into the Tavern of Doors. JmJm quaffed an invisibility potion, grabbed the ToD, and ran like hell back to Reidoth's house.
 
-- explore first few houses, come across Twig blights, try to talk to them with Druid but get attacked.  Easily dispatch them and loot the houses.
+## The Dragon's Hoard
 
-- Continue on, scouts report sighting a green dragon.
+Patches, still hidden, seized the opportunity. She snuck past the confused dragon and into the tower, thoroughly looting the hoard. Just as she was wrapping up, Venomfang returned and breathed down into the tower. Patches escaped by the skin of her teeth and stealthed her way back to Reidoth's hut, where the group had taken shelter — unbeknownst to Reidoth.
 
-- Come across Reidoth's (druid) house and talk to the druid, group gets distracted by the Dragon in the mages tower up the hill, Reidoth tells them that confronting it is suicide.
-
-- Group decides to try their luck and approach the tower, walking past a house covered in cobwebs, they make their way up the hill.
-
-- Patches wisely stealths and shadows the group
-
-- approaching the tower, the Dragon appears atop it and seeks parlay.  Offering to pay the party if they deal with his vile sister in Neverwinter wood.
-
-- the party agrees and approaches the entrance of the tower to look at a map to the other dragon lair
-
-- Dragon springs it's trap and breathes on the party clumped by the door entrance, everyone is hit save Patches.  Tark is brought to the brink of death and everyone else is badly wounded.
-
-- Buumi shields the group while they grab the unconcious Tark and hop into the ToD, JmJm quaffs an invisibility potion, grabs ToD and runs like hell back to Reidoths house
-
-- Patches, still hidden, sneaks past the now very confused dragon and into the tower and thoroughly loots it.  Just as she was wrapping up, the Dragon returns and breathes down into the tower
-
-- Patches escapes by the skin of her teeth and high-tails it (stealthed) back to Reidoths hut where the group takes shelter (unbeknownst to Reidoth).
-
-- Tark is healed by the Gnome-cat and the group patches it's wounds, counting themselves lucky.
-
-- loot from Dragon hoard is: 200gp, four silver goblets set with moonstone (60gp each), scroll of misty step, scroll of lightnening bolt, Axe +1 (hew), Vial of infinite liquids.
+Doctor Breakfast healed Tark, and the group counted themselves lucky to be alive. The loot from the dragon's hoard was considerable: 200 gold pieces, four silver goblets set with moonstone worth 60 gold each, a scroll of Misty Step, a scroll of Lightning Bolt, the +1 axe Hew, and a Vial of Infinite Liquids.

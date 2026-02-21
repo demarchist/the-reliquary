@@ -2,7 +2,7 @@
 title: "Doctor Breakfast"
 category: "People"
 aliases: ["Doc", "Doc B.", "Doc B"]
-firstAppearance: "chapter-01-session-09"
+firstAppearance: "chapter-01-session-02"
 description: "A druid companion who has adventured with the Spellforged since early days."
 ---
 
