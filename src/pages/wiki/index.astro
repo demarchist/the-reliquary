@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import WikiCard from '../../components/WikiCard.astro';
 import { getCollection } from 'astro:content';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const allWiki = await getCollection('wiki');
 const allDiary = await getCollection('diary');
@@ -44,7 +45,26 @@ for (const cat of categories) {
 
 <BaseLayout title="Wiki">
   <h1 class="font-serif text-3xl font-bold text-ink-900 mb-2">Wiki</h1>
-  <p class="text-ink-400 mb-8">People, places, factions, items, and events of <em>The Rise of Atropos</em>.</p>
+  <p class="text-ink-400 mb-6">People, places, factions, items, and events of <em>The Rise of Atropos</em>.</p>
+
+  <div id="search" class="mb-8"></div>
+
+  <link href={`${base}/pagefind/pagefind-ui.css`} rel="stylesheet" />
+  <script is:inline define:vars={{ base }}>
+    window.addEventListener('DOMContentLoaded', function() {
+      var script = document.createElement('script');
+      script.src = base + '/pagefind/pagefind-ui.js';
+      script.onload = function() {
+        new PagefindUI({
+          element: '#search',
+          showSubResults: true,
+          showImages: false,
+          baseUrl: base + '/',
+        });
+      };
+      document.head.appendChild(script);
+    });
+  </script>
 
   {allWiki.length === 0 ? (
     <div class="text-center py-12 text-ink-400">
@@ -94,3 +114,35 @@ for (const cat of categories) {
     </div>
   )}
 </BaseLayout>
+
+<style is:global>
+  .pagefind-ui-container {
+    --pagefind-ui-scale: 0.9;
+    --pagefind-ui-primary: var(--color-accent-600);
+    --pagefind-ui-text: var(--color-ink-800);
+    --pagefind-ui-background: var(--color-parchment-50);
+    --pagefind-ui-border: var(--color-parchment-300);
+    --pagefind-ui-tag: var(--color-parchment-200);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 8px;
+    --pagefind-ui-font: var(--font-sans);
+  }
+
+  .pagefind-ui .pagefind-ui__search-input {
+    font-family: var(--font-sans);
+    background: var(--color-parchment-100);
+  }
+
+  .pagefind-ui .pagefind-ui__result-link {
+    color: var(--color-accent-600);
+    font-family: var(--font-serif);
+  }
+
+  .pagefind-ui .pagefind-ui__result-link:hover {
+    color: var(--color-accent-700);
+  }
+
+  .pagefind-ui .pagefind-ui__result-excerpt {
+    color: var(--color-ink-500);
+  }
+</style>
