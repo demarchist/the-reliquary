@@ -125,8 +125,22 @@ if (entry.data.firstAppearance) {
 
       <!-- Sidebar -->
       <aside class="mt-8 lg:mt-0">
-        {appearances.length > 0 && (
-          <div class="bg-parchment-100 rounded-lg p-4 lg:sticky lg:top-20">
+        <div class="bg-parchment-100 rounded-lg p-4 lg:sticky lg:top-20">
+          {entry.data.image && (
+            <figure class="mb-4">
+              <img
+                src={`${base}${entry.data.image}`}
+                alt={entry.data.imageAlt || entry.data.title}
+                class="w-full rounded-md"
+                loading="lazy"
+              />
+              {entry.data.imageAlt && (
+                <figcaption class="text-xs text-ink-400 mt-1 text-center">{entry.data.imageAlt}</figcaption>
+              )}
+            </figure>
+          )}
+          {appearances.length > 0 && (
+            <div>
             <h2 class="font-serif text-lg font-semibold text-ink-800 mb-3">
               Appearances
               <span class="text-sm font-normal text-ink-400 ml-1">({appearances.length})</span>
@@ -149,8 +163,9 @@ if (entry.data.firstAppearance) {
                 </div>
               ))}
             </div>
-          </div>
-        )}
+            </div>
+          )}
+        </div>
       </aside>
     </div>
   </article>

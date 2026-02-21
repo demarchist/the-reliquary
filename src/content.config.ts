@@ -28,6 +28,8 @@ const wiki = defineCollection({
     description: z.string().optional(),
     status: z.string().optional(),
     quote: z.string().optional(),
+    image: z.string().optional(),
+    imageAlt: z.string().optional(),
   }),
 });
 

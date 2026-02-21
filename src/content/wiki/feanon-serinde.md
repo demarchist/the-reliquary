@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Fëanon", "Feanon", "Fey'Anon", "Fey", "The Archivist"]
 firstAppearance: "chapter-01-session-01"
 description: "High Elf Wizard, founder of The Reliquary, and member of the Faerûn Defense Force."
+image: "/images/feanon-serinde.png"
+imageAlt: "Portrait of Fëanon Sërindë"
 ---
 
 Fëanon Sërindë is a High Elf Wizard and one of the founding members of the Faerûn Defense Force. He resides within an enormous tower built into the rocky prominence of Sërindë Isle, in the middle of Lake Seluna within the Barony of Thunder Bluff.
