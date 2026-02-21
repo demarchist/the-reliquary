@@ -3,6 +3,7 @@ title: Neverwinter - Session 12
 chapter: 2
 chapterTitle: Neverwinter
 session: 12
+summary: "The group passes the Androsphinx's moral trials, reaches the vault's heart to find a golden obelisk containing an artifact shard, and Kangaxx reveals himself as a servant of Orcus — summoning demons and shattering the obelisk before Lo'Dan intervenes with a devastating ambush that triggers Kangaxx's true form: a golden skeleton of terrifying power."
 people:
   - "aliyah-faen-tlabbar"
   - "doc"
@@ -28,24 +29,38 @@ factions:
   - "spellforged-adventuring-company"
 ---
 
-The group is camped down in the catacomb, resting after the hard fought battle.  After several hours, Doc B. and JmJm come out of the ToD to the strange sight of the marble tomb. JmJm hear the escapades from the group and share short greetings with the new Elf and Dwarf in the group.   Deciding that they had rested long enough, and not finding much of use in the tomb, the group steps through the next portal.
+The group rested in the tomb for several hours. Doctor Breakfast and JmJm emerged from the Tavern of Doors to the strange sight of the ornate marble chamber, and JmJm listened eagerly as the group recounted their escapades. They exchanged short greetings with the elf and dwarf who had joined the party in the forest. Deciding they had rested long enough and finding nothing else of use in the tomb, the group stepped through the next portal.
 
-   They find themselves in a wheat field, seemingly endless and in a perpetual dusk.  Up ahead, the group can see the next archway.  Suspecting something not right, Patches begins to flank the group, using the long grass Wheat as a visual blocker.
+## The Androsphinx
 
-The group enters into a clearing, in front of the archway sits a massive Androsphinx.  The beast sits back on it's haunches, the humanoid face scrutinizing the group.   The group is told to answer several moral quandries to pass.  They answer the first incorrectly and are subject to the Roar of the Androsphinx, being terrified.  The answer the next two correctly however and the portal shines to life behind the beast.  As it dissolves into motes of light, it roars, summoning a heroes feast of which the group partakes.  The group steps through the last portal.
+They found themselves in a wheat field — seemingly endless, bathed in perpetual dusk. The next archway was visible ahead. Patches, suspecting trouble, broke off to flank the group through the tall wheat.
 
-   They discover themselves in a massive cavern, spherical in nature with a massive solid gold Obelisk from floor to ceiling, a dozen feet thick.   Looking behind them, the group can see several archways, a rough hewn tunnel and the caverns they got to the vault through.  The group realizes they have not traveled very far in the real world, reinforced by Kangaxx jogging up to the group from down the tunnel.   He rests his hands on his knees, huffing and puffing but staring at the Obelisk.   The group starts to tell him what he missed but Kangaxx ignores, it smiling and says "So kind of you fools to bring me so far…"
+In a clearing before the archway sat a massive Androsphinx, its humanoid face scrutinizing the group as they approached. The beast posed a series of moral quandaries they had to answer to pass. They answered the first incorrectly and the Sphinx unleashed its roar — a wave of primal terror that shook them to the bone. They answered the next two correctly, however, and the portal blazed to life. As the Androsphinx dissolved into motes of golden light, it let out a final roar that summoned a heroes' feast. The group ate gratefully before stepping through the last portal.
 
-  In an explosion of black smoke and orange lightning, the group is thrown to the ground and Kangaxx strides forth from the vortex, glowing flesh silhouetting his skeleton.  Cackling, he explains the group took him through the wards of this place, that he summoned the mists, and drove Venomfang to madness and undeath, that his master Orcus has been craving the artifact shards and will now have this one.  From the vortex steps two Glabrezu demons and a host of manes to attack the group.  Kangaxx begins an incantation on the obelisk and is immune from all damage.
+## The Golden Obelisk
 
-The battle against the Glabrezu is intense.  Lightning bolts and fireballs fly.  Fey managing to subdue all the lesser demons in a flash of magical energy.  The Dwarf cleric was torn in half by the Glabrezu, Buumi was bloodied by the rending claws and Tark was even dropped from 60ft by the claws of a Glabrezu.  Arrow after arrow found their mark, fists of fury reigned down and the assassination and magic attacks managed to pound down the two great demons.
+They emerged in a massive spherical cavern dominated by a solid gold obelisk stretching from floor to ceiling, a dozen feet thick. Looking behind them, the group could see several archways, a rough-hewn tunnel, and the caverns they'd originally entered through. They realized they hadn't traveled far in the real world at all — confirmed when Kangaxx came jogging up from the tunnel, huffing and puffing.
 
-As the demons dissolved into smoke the group sees two more Glabrezu beginning to take form…
+He rested his hands on his knees, staring at the obelisk. The group started to fill him in on what he'd missed. Kangaxx ignored them. He smiled.
 
-A flash of light and the golden pillar is no more, instead about 15ft in the air is a golden chit, maybe an inch in length, Kangaxx smiles and reaches for it…
+"So kind of you fools to bring me so far..."
 
-A shrill whistled not splits the air and all the magic in the room is suddenly dispelled.  The portal to the abyss is gone, all the parties buffs and spell effects end, and Kangaxx's shield is no more.
+## The Betrayal
 
-Stepping from the air, Lo'Dan swings his massive sword directly into the faxe of Kangaxx and with a spray of blood and sparks, Kangaxx is tossed forty feet rolling and skipping along the stone ground.
+An explosion of black smoke and orange lightning hurled the group to the ground. Kangaxx strode forth from the vortex, his flesh glowing to silhouette the skeleton beneath. Cackling, he explained everything — the group had carried him through the vault's wards. He had summoned the necromantic mists. He had driven Venomfang to madness and undeath. His master Orcus craved the artifact shards, and now this one would be his. Two Glabrezu demons and a host of manes stepped from the vortex to attack the group. Kangaxx began an incantation on the obelisk and became immune to all damage.
 
-Ten other drow warriors step from the stone, pulling swords and Lo'Dan turns to address the group.  "So kind of you to lure this beast into our trap, you played your roles marvelously Spellforged!" and he tosses the group the other thousand gold he owed them.  At that instant a scream rent the air and the "corpse" of Kangaxx leaps into the air and emits a massive pulse of light, blinding all in the cavern (dex save).  As the glow subsides everyone can see a solid gold skeleton hovering where kangaxx was, magical energy and light cascading from it's form.  Precious gems and jewels cover Kangaxx, making intricate magical symbols and glowing with inner light.  Kangaxx, the Golden Skeleton and Son of Orcus raises his golden hand to strike down the group…
+The battle against the Glabrezu was intense. Lightning bolts and fireballs flew across the cavern. Fëanon subdued the lesser demons in a flash of magical energy. The dwarf cleric was torn in half by a Glabrezu's rending claws. Buumi was bloodied badly, and Tark was seized and dropped sixty feet by the claws of the second demon. Lothli's arrows found their marks, Tark's fists rained down with fury, and Patches' assassinations and the group's combined magic finally pounded the two great demons into dissolving smoke.
+
+As the demons faded, two more Glabrezu began to take form from the vortex. Above, a flash of light consumed the golden obelisk — in its place, hovering fifteen feet in the air, was a golden chit no larger than an inch. Kangaxx smiled and reached for it.
+
+## Lo'Dan's Ambush
+
+A shrill whistle split the air and every scrap of magic in the room was dispelled at once. The abyssal portal collapsed. The party's buffs and spell effects ended. Kangaxx's shield was no more.
+
+Stepping from thin air, Lo'Dan swung his massive sword directly into Kangaxx's face. With a spray of blood and sparks, Kangaxx was hurled forty feet, rolling and skipping along the stone floor. Ten Drow warriors materialized from the walls, drawing swords.
+
+Lo'Dan turned to the group. "So kind of you to lure this beast into our trap. You played your roles marvelously, Spellforged!" He tossed them the remaining thousand gold he owed.
+
+At that instant a scream rent the air. The "corpse" of Kangaxx leaped upward and emitted a massive pulse of light, blinding everyone in the cavern. As the glow subsided, the group saw what Kangaxx truly was — a solid gold skeleton hovering where the halfling had been, magical energy and light cascading from its form. Precious gems and jewels covered every bone, forming intricate magical symbols that glowed with inner fire.
+
+Kangaxx, the Golden Skeleton, Son of Orcus, raised his golden hand to strike.

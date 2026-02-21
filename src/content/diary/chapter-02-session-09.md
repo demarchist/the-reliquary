@@ -3,6 +3,7 @@ title: Neverwinter - Session 9
 chapter: 2
 chapterTitle: Neverwinter
 session: 9
+summary: "The group battles a spider horde on the Chasm ledges — including a gargantuan matriarch — before descending into a mist-filled labyrinth that drives them to the edge of madness, ending with skeletons closing in from every tunnel."
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
@@ -16,6 +17,18 @@ places:
   - "the-labyrinth"
 ---
 
-The group forms up, casting numerous spells to prepare for the onslaught of the spider horde.  Buumi and Tark both meet the spiders on the ledge as they crest, but two phase spiders warp past the perimeter guard, attacking Budder, killing and devouring him.  The second phase spider heads for Kangaxx, but using her web gauntlet, Patches drops from the ceiling, assassinating the beast with ease.  Myria and Lester hold the back tunnel against giant spiders and Lothli cuts down many spiders with her hail of arrows.  Fey'Anon supports the group with haste and enchantment spells and Kangaxx shoots out a number of magic missiles and even charms one of the spiders.  The massive spider crests the ledge, only to catch two fireballs in the face, one from the Ruby earring from Patches, and one from Fey'Anon.  The earring ruby, when thrown, hatches into a ruby firefly obeying the mental commands of Patches (lasts 24 hours before reverting to a Ruby).  The massive spider lets out a shriek, calling more of it's underlings to it as Buumi strikes a powerful blow, enchanted with the power of Helm.  As the spider re-enforcements swarm, Lester is brought down in a press of legs and fangs, Myria too taking many wicked bites but surviving…barely.  The large beast is downed in a flurry of blows from Tark and a sizzling lightning bolt from Fey (clipping Buumi in the process).  The remaining spiders are easily mopped up.  Buumi quickly rushes to Myria's aid, healing her wounds and poison, but she's still in a rough state.  The group searches the area, gathering a large amount of spider venom - with Patches tearing off one of the large fangs of the gargantuan spider, now wielding it as a dagger (1d4 +4 Poison dmg).
+The group formed up along the ledge, casting every protective spell they had as the spider horde surged upward through the webbing. Buumi and Tark met the first wave as they crested the edge, cutting down giant spiders in quick succession. Two phase spiders warped past the perimeter guard — one materialized on top of Budder Glint and killed the gnome mage before anyone could react, devouring him where he fell. The second phase spider lunged for Kangaxx, but Patches dropped from the ceiling on her web gauntlet, assassinating the creature mid-pounce.
 
-   The group heads deeper into the crevasse, eventually getting to the bottom but are met by a wall of fog and mist, Myria breaks out the torches and the group steps into the mist and are immediately assaulted by waves of insanity.  Fey'Anon is rendered mute and Patches, in a rage, lashes out for Tark only to be restrained by Buumi and his enhanced strength.  As Fey and Patches recover, the rest of the group is having a hard time staying lucid.  As they head into a labyrinth of tunnels, the clinking of bones and ancient armor echoes through the too-still air of the tunnels and the group is met by animated skeletons, coming at them from every tunnel.
+Myria and Lester held the rear tunnel against a stream of giant spiders while Lothli cut down wave after wave with her arrows. Fëanon bolstered the group with haste and enchantment spells, and Kangaxx contributed volleys of magic missiles — even managing to charm one of the spiders into turning on its kin.
+
+## The Matriarch
+
+The gargantuan spider crested the ledge, legs spanning wider than a wagon. It caught two fireballs in the face — one from Patches' ruby earring, and one from Fëanon. The earring's ruby, when thrown, hatched into a ruby firefly that obeyed Patches' mental commands for twenty-four hours before reverting to a gem. The matriarch let out a piercing shriek, summoning reinforcements from the webs below. Buumi struck a powerful blow enchanted with the power of Helm, but the spider reinforcements swarmed the rear line — Lester was dragged down in a press of legs and fangs, and Myria took many wicked bites before barely surviving.
+
+Tark hammered the great beast with a flurry of blows while Fëanon loosed a sizzling lightning bolt — clipping Buumi in the process — that finished the matriarch. The remaining spiders were easily mopped up. Buumi rushed to Myria's side, healing her wounds and neutralizing the venom, though she remained badly shaken. The group harvested a large amount of spider venom from the corpses, and Patches tore off one of the matriarch's massive fangs to wield as a dagger.
+
+## Into the Mist
+
+The group pressed deeper into the crevasse, eventually reaching the bottom — only to find their path blocked by a wall of roiling fog. Myria broke out torches, and the group stepped into the mist. The effect was immediate. Waves of insanity crashed over them — Fëanon was struck mute, unable to form words, while Patches flew into a blind rage and lunged for Tark. Buumi restrained her with his enhanced strength until the madness passed.
+
+As Fëanon and Patches recovered, the rest of the group struggled to stay lucid. They pushed forward into a labyrinth of tunnels, the air unnaturally still and heavy. Then, from deep within the passages, came the clinking of bones and ancient armor — growing louder from every direction. Animated skeletons emerged from the tunnels, converging on the group from all sides.

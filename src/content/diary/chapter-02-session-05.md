@@ -3,6 +3,7 @@ title: Neverwinter - Session 5
 chapter: 2
 chapterTitle: Neverwinter
 session: 5
+summary: "Lothli wins the rigged archery tournament, the group collects 10,000 gold from the thieves' guild, and the martial tournament begins — Tark and Patches advance while Lothli falls to Hendrell, Champion of the Moonwood."
 people:
   - "aliyah-faen-tlabbar"
   - "doc"
@@ -24,30 +25,42 @@ factions:
   - "drow-faction"
 ---
 
-The group awoke to Fey'Anon's magical alarm - his time piece set for 7:30 am
+The group awoke to Fëanon's magical alarm — his timepiece set for 7:30 AM. Annoyed at being roused, the group ambled around getting ready. Fëanon decided to sleep in. Gundren was absent, but the ring of hammers from the forge room suggested the Rockseekers were busy with something. Buumi was passed out on the couch, recovering from a hangover.
 
-Annoyed at being woken up, the group ambles around getting ready for the day.  Fey decides to sleep in
+## Blessings and Preparations
 
-After the adventures of the night before, and Gundren is absent, but the ring of hammers sound from the forge room, The Rockseekers must be up to something.  Buumi is passed out on the couch, recovering from a hangover.
+The group noticed Tark sitting in a corner meditating and went to investigate. Patches attempted to mess with him but was astonished by his focus and instead drew an intricate eye sigil on his forehead. JmJm spiked Tark's mohawk and beard. Buumi staggered over and blessed him. Lothli, nervous about her tournament bout, requested similar treatment and received several boons and buffs.
 
-The group notices tark, sitting in the corner meditating and heads over to investigate.  Patches attempts to mess with him, but is astonished by his focus and discipline, and draws an intricate eye sigil on his forehead.  JmJm works to spike Tarks mohawk and beard.  Drunkenly Buumi wanders over and blesses him too.  Fearing for her tournament
+Tark awoke, pleasantly surprised by the benefits bestowed by his companions. The group headed to the festival, tension high — Tark had bet his new magical ring that Lothli would win the archery tournament.
 
-Bout later in the day, Lothli requests a similar treatment, and receives several boons and buffs.
+## The Archery Tournament
 
-Tark awakes, surprised by the benefits bestowed upon him by his companions.  The group then heads off  to the festival to win both the Archery tournament and the Martial tournament.  Things are tense, as the Tark better his new magical ring that Lothli would win the Archery Tournament.  The group makes their way through the bustling city of Neverwinter, heading with the flowing crowds to the festival.  The group decides to take on the Archery tournament first and head over to the range.  Seeing a band of adventurers wishing to shoot, Elariel the elven proprieter asks if they would wish to compete.  Patches, JmJm and Lothli each participate, but when Elariel mentions the entry fee, JmJm was having none of it and beautifully rhymed his disbelief at such a stiff fee and convinced her to let us in free of charge!
+The group decided to tackle archery first. Elariel, the elven proprietor, offered to let them compete — but when she mentioned the entry fee, JmJm rhymed his disbelief in such beautiful verse that she let the group in free of charge.
 
-The following tournament would have the citizens of Neverwinter abuzz with excitement.  Of the many participants, three stood out as exceptional, one was a flamboyant half elf with fuzzy boots, a strange cloak and a hand crossbow that he fired with exciting flair, at one point even shimmering like a hundred thousand sequins. Another, was a cloaked and hooded in secrecy, being followed by a smaller hooded figure who served her tea, near the end, the large figure threw off her cloak to reveal herself as a Drow!!  The third was a beautiful but road-dirty elven ranger, with a gleaming mythril breastplate with a worked Dragon relief.  Despite one or two missed shots, both the elf and drow performed admirably and had several spectacular shots.  The Half Elf Bard however hit every target and with incredible flair.  At the end however, JmJm declared that he in fact cheated! Getting disqualified and landing Lothli in the lead, winning the tournament, being asked to return the next day for her magical quiver prize.  The group also won their wager with the thieves guild and went over to cvollect their winnings from Benny the Halfling.
+The tournament electrified the citizens of Neverwinter. Three competitors stood out among the many participants. First was a flamboyant half-elf with fuzzy boots, a strange cloak, and a hand crossbow he fired with incredible flair — at one point shimmering like a hundred thousand sequins. Second was a figure cloaked in secrecy, followed by a smaller hooded attendant who served her tea; near the end, she threw off her cloak to reveal herself as a Drow. Third was a beautiful but road-dirty elven ranger with a gleaming mithril breastplate worked with a dragon relief.
 
-Benny laughed when he saw the group, mentioning he didn’t think we were so crafty as to rig the fight.  He respected the groups boldness and beckoned for a small wooden chest.  The group were initially cautious, but opened it after a second, seeing racks of gold coins, a number of platinum chits and two gold cards stamped with the guild mark.  Benny paid them 10,000 gold and two Black-Market tokens in exchange for us doing them a favor.  Benny mentions that the start of that favor could be shutting up Jesmond of Canderberry in regards to Raylen the Moon Elf…
+Despite a missed shot or two, both the elf and the Drow performed admirably with several spectacular shots. The half-elf bard hit every target with incredible style. At the end, however, JmJm declared that the bard had cheated. Disqualified, the bard's removal left Lothli in the lead — winning the tournament and earning an invitation to return the next day for her magical quiver prize.
 
-The Group agrees and takes their reward and heads over to the Martial Arts Tournament.
+## Collecting the Winnings
 
-Now 10,000 gold richer, the group heads to the tournament with springs in their steps.   Arriving at the tournament around noon, the group sees a large crowd gathering and the combatants are ushered to the waiting room.  There they see their opponents stretching and getting ready for their bouts.  Moot approaches Tark to wish him luck and claims he will see him in the final.  Gasciogne, Patches adversary looks pale and shaky on his feet.  Verith the knight appears calm and ready for combat against Tark.  Hendrell, champion of the moonwood, looks impassive as he goes through his practice attack routines with his two longswords.  The announcer comes into the back room to get the fighters for the next few bouts and the group steps out onto the arena.  Buumi is sulking that he missed the sign-ups, JmJm and Dr.B are down near the arena in the guest section trying to figure out how to help their friends.  Looking at the situation, JmJm attempts to rile up the crowd, but fails miserably and instead plans on casting some under-the radar spells.  Doc.B studies the fighters and notices a hawk circling overhead, cawing and calling to Hendrell of the moonwood, which gives her an idea.
+The group headed to the thieves' guild pavilion to collect their 10,000 gold wager from Benny. The halfling laughed when he saw them, remarking that he hadn't expected them to be crafty enough to rig the fight. He respected the boldness. From a small wooden chest, he produced racks of gold coins, a number of platinum chits, and two gold cards stamped with the guild mark. Ten thousand gold and two black-market tokens — in exchange for the group doing them a favor. Benny mentioned that the start of that favor could be shutting up Jasmond of Canderberry about Raylen the Moon Elf. The group agreed and took their reward.
 
-Lothli faces off against Hendrell, Champion of the Moonwood, and a veteran of the War for the Silver Marches.  Tark against Verith, a human knight of the sacked Sundabar and Patches against Gasciogne, a human martial artist from Silverymoon.  Lothli battled valiantly, using her short sword to the best of her abilities, defending cunningly and landing many good, but glancing hits against Hendrell.  With Hendrell's skill, Lothli could never land a strong enough hit to truly damage him, but the hits he gave in return were precise and strong.  At a particularly dire moment, a frantic bird call eminates from above, thinking it's his eagle companion,Hendrell, distracted, glances around.  The moments distraction costed him and he got smacked solidly for his foolishness.  Returning to the fight with renwed fervor, he quickly ends the battle, knocking Lothli to the ground in defeat.
+## The Martial Tournament
 
-Despite the fake bird call, Doc.B could not distract Hendrell enough to give Lothli a fighting chance.  Tark and Verith exchanged savage blows.  Verith's shield work however was fantastic, and although he can't hit him, Tark cannot get past the shield either.  Cunningly, Tark centers himself and strikes powerfully against the wooden shield…splintering and cracking it, causing it to fall apart.  Panicking and backing up, Verith re-centers himself and charges right back in, Longsword in both hands.  Striking powerfully and quickly, Tark takes several wicked blows and looks to be in a dire situation.  JmJm strikes! Verith becomes afflicted with a madness spell and throws his sword aside, charging Tark with his bare hands.  Now unarmed, Gasciogne stands no chance. Tark takes him down in a full assault, pummeling Verith to the ground and defeat.
+Now 10,000 gold richer, the group arrived at the tournament arena around noon. A large crowd was gathering and the combatants were ushered to the waiting room. Their opponents were stretching and preparing. Moot approached Tark to wish him luck, claiming he'd see him in the final. Gasciogne, Patches' adversary, looked pale and shaky on his feet — the effects of last night's drinking. Verith the knight appeared calm and ready. Hendrell, Champion of the Moonwood, went through practice routines with his two longswords, impassive and focused.
 
-Patches charges her opponent, the one she got drunk the night before.  Having difficulty, Gasciogne strikes at Patches, but misses badly, patches twin weapons hammering into the man.  A few minutes of exchanges and one or two lucky hits landing on Patches, she finally takes the monk down in a flourish.
+Buumi sulked that he'd missed the sign-ups. JmJm and Doctor Breakfast took seats in the guest section near the arena, JmJm planning to cast some under-the-radar spells while Doctor Breakfast studied the fighters. She noticed a hawk circling overhead, calling to Hendrell — which gave her an idea.
 
-Hendrell helps up Lothli, showing a chivalrous and kind side.  The group relocates to the Combatant tent, where Moot and Lord Penterghast prepare to battle…
+## Lothli vs. Hendrell
+
+Lothli faced off against Hendrell, a veteran of the War for the Silver Marches. She fought valiantly with her shortsword, defending cunningly and landing many good hits — but Hendrell's skill was another level entirely. His strikes were precise and powerful, while hers were mostly glancing blows. At a dire moment, Doctor Breakfast mimicked Hendrell's eagle companion's cry from above. Distracted, Hendrell glanced around — the momentary lapse cost him a solid hit. But he returned to the fight with renewed ferocity and quickly ended the bout, knocking Lothli to the ground.
+
+## Tark vs. Verith
+
+Tark and Verith exchanged savage blows. Verith's shield work was fantastic — Tark couldn't land a solid hit, but neither could the knight get past Tark's defenses. Cunningly, Tark centered himself and struck powerfully against the wooden shield, splintering and cracking it until it fell apart. Panicking briefly, Verith regained composure and charged back with his longsword in both hands, landing several wicked blows that put Tark in a dire state. Then JmJm struck — afflicting Verith with a madness spell that caused him to throw his sword aside and charge Tark bare-handed. Now unarmed, the knight stood no chance. Tark pummeled him to the ground.
+
+## Patches vs. Gasciogne
+
+Patches charged her hungover opponent. Gasciogne swung and missed badly, and Patches hammered into him with both weapons. After a few exchanges and one or two lucky hits landing on Patches, she took the monk down in a flourish.
+
+Hendrell helped Lothli to her feet, showing a chivalrous side despite their contest. The group relocated to the combatant tent, where Moot and Lord Penterghast prepared for their own bout.

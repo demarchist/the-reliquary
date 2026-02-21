@@ -3,6 +3,7 @@ title: Neverwinter - Session 11
 chapter: 2
 chapterTitle: Neverwinter
 session: 11
+summary: "Patches bluffs a demon warband as a priestess of Lolth while Fëanon cons the devils as a servant of Asmodeus — both securing keys to the next trial, where the group battles paladin king ghosts and their mummies in an ancient tomb."
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
@@ -13,8 +14,26 @@ people:
   - "tarkathee-daru"
 ---
 
-Following the Balgura demon, Patches makes her way to the Demon stronghold in the forest.  Once there, she negotiated as a priestess of Lolth with a Glabrezu and Chasme Demon. Gaining their trust, Patches convinces the demons to give her their key and she will lead them to attack the devils at her signal.  She leaves, breathing much easier and meets up with Lothli and the strange Elf and Dwarf they ran into (Jedds parents).  Across the forest, Fey Anon is taken to meet with a Malbranche Devil.  Acting as if he is a servant of Asmodeus, Fey convinces the Devils, even go so far as to get one of the bearded devils executed.  With the same deal as Patches, the group meets back at the archway portal to the next area, leaving the demons and devils.
+Following the Balgura demon deeper into the forest, Patches arrived at the demon stronghold. There she negotiated — in full Drow priestess regalia — with a Glabrezu and a Chasme demon. Gaining their trust through sheer audacity, she convinced them to hand over their key. In return she would signal them to attack the devils. She left the stronghold breathing considerably easier and rendezvoused with Lothli and a strange elf and dwarf the ranger had encountered in the woods.
 
-The group then finds themselves in an ornate marble tomb, four sarcophagi of exquisite craftsmanship are in the center of the chamber.  At the far end is the next archway, but it is flanked by two ancient thrones, in which sit ancient armored skeletons.  An altar lies in front of them, with four metal keys on it.
+Across the forest, Fëanon was escorted to meet a Malbranche devil. Acting as though he were a servant of Asmodeus, he delivered a performance convincing enough to get one of the bearded devils executed on the spot. He struck the same deal as Patches — the devils' key in exchange for a signal to attack their enemies.
 
-As the group approaches, a ghostly glow suffuses the skeletons seated in the thrones and they take on a ghostly look of what they used to look like, vibrant and glorious paladin kings. Nebbuchanezzar and Azrael tell the group one of they keys opens the portal, all the rest are trapped.  The group manages to discern the correct one (Patches, who just grabs it) but not before they choose incorrectly and Fey anon gets electrocuted.  After picking the right key, the group is teleported to one end of the room, and the paladin ghosts rise from their thrones, holding their greatswords aloft.  The sarcophagi lids slide off to the floor, and four ancient mummies begin to climb out.  The group attacks quickly, setting fire to one mummy within his box, another getting pummled and magic and shot being directed at the Paladin kings.  Engaging in defensive formations, the paladin kings deal out heavy damage while healing, ressurecting and buffing their allies.  Tark is struck with a curse, preventing healing and he is knocked uncocnious not long after before getting a second wind smashing into Nebuchanezzar and downing him.  Azrael and his mummies do significant damage to the group, almost taking down many, but cannot prevail and is destroyed.  The moment the kings go down, mummies fall inactive.  The group takes a much needed break, healing and mending themselves before heading further inside the Vault.
+The two groups met back at the inactive archway portal, leaving demons and devils waiting for signals that would never come.
+
+## The Tomb
+
+Stepping through the portal, the group found themselves in an ornate marble tomb. Four sarcophagi of exquisite craftsmanship stood in the center of the chamber. At the far end sat the next archway, flanked by two ancient thrones in which rested armored skeletons. An altar lay before them, four metal keys resting upon it.
+
+As the group approached, a ghostly glow suffused the skeletons. The ancient bones took on the spectral forms of what they had once been — vibrant and glorious paladin kings. Nebuchadnezzar and Azrael told the group that one key opened the portal; all the rest were trapped.
+
+The group attempted to discern the correct key. Fëanon chose incorrectly and was blasted with a jolt of electricity. Patches, characteristically, simply grabbed the next one — and it was the right choice. The portal blazed to life.
+
+## The Paladin Kings
+
+The moment the correct key was chosen, the group was teleported to the far end of the chamber. The paladin ghosts rose from their thrones, hoisting massive greatswords. The sarcophagus lids crashed to the floor as four ancient mummies began to climb out.
+
+The group attacked immediately. One mummy was set ablaze within its own sarcophagus. Another was pummeled with fists and steel while arrows and spells hammered the paladin kings. But the ghostly champions fought with devastating skill — dealing heavy damage while healing, resurrecting, and buffing their mummified allies. Tark was struck with a curse that prevented all healing, and the accumulated wounds soon dropped him unconscious. Finding a second wind through sheer willpower, he surged back to his feet and smashed into Nebuchadnezzar, bringing the first paladin king down.
+
+Azrael and his remaining mummies pressed the assault, nearly felling several members of the group, but they could not prevail against the combined onslaught and were destroyed. The moment both kings fell, the remaining mummies went inert.
+
+Battered and drained, the group rested in the tomb — healing, mending, and steeling themselves for whatever lay deeper inside the vault.
