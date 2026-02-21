@@ -12,7 +12,13 @@ const allWiki = await getCollection('wiki');
 
 // --- Build data maps ---
 
-// sessionDebuts: which wiki entities debut in each session
+// Debut map: which session each wiki entity first appears in
+const debutMap: Map<string, string> = new Map();
+for (const w of allWiki) {
+  if (w.data.firstAppearance) debutMap.set(w.id, w.data.firstAppearance);
+}
+
+// sessionDebuts: which wiki entities debut in each session (for debut chips)
 const sessionDebuts: Map<string, { slug: string; title: string; category: string }[]> = new Map();
 for (const w of allWiki) {
   if (!w.data.firstAppearance) continue;
@@ -23,7 +29,6 @@ for (const w of allWiki) {
     category: w.data.category,
   });
 }
-// Sort debuts within each session by category order then title
 const catOrder = { People: 0, Places: 1, Things: 2, Factions: 3, Events: 4 };
 for (const [, arr] of sessionDebuts) {
   arr.sort((a, b) => (catOrder[a.category as keyof typeof catOrder] ?? 9) - (catOrder[b.category as keyof typeof catOrder] ?? 9) || a.title.localeCompare(b.title));
@@ -31,6 +36,7 @@ for (const [, arr] of sessionDebuts) {
 
 // entitySessions: which sessions each entity appears in (from diary frontmatter)
 const categoryKeys = ['people', 'places', 'things', 'factions', 'events'] as const;
+const keyToCategory: Record<string, string> = { people: 'People', places: 'Places', things: 'Things', factions: 'Factions', events: 'Events' };
 const entitySessions: Record<string, string[]> = {};
 for (const d of allDiary) {
   for (const key of categoryKeys) {
@@ -49,11 +55,32 @@ for (const w of allWiki) {
   entityMeta[w.id] = { title: w.data.title, category: w.data.category, description: w.data.description };
 }
 
+// sessionEntitiesGrouped: all entities per session, grouped by category, with debut flag
+// Used in the expandable detail panel
+interface EntityInfo { slug: string; title: string; category: string; debut: boolean; }
+const sessionEntitiesGrouped: Map<string, Map<string, EntityInfo[]>> = new Map();
+for (const d of allDiary) {
+  const grouped: Map<string, EntityInfo[]> = new Map();
+  for (const key of categoryKeys) {
+    const slugs = d.data[key];
+    if (!slugs) continue;
+    const cat = keyToCategory[key];
+    const list: EntityInfo[] = [];
+    for (const slug of slugs) {
+      const meta = entityMeta[slug];
+      if (!meta) continue;
+      list.push({ slug, title: meta.title, category: cat, debut: debutMap.get(slug) === d.id });
+    }
+    if (list.length > 0) {
+      list.sort((a, b) => a.title.localeCompare(b.title));
+      grouped.set(cat, list);
+    }
+  }
+  sessionEntitiesGrouped.set(d.id, grouped);
+}
+
 const entitySessionsJSON = JSON.stringify(entitySessions);
 const entityMetaJSON = JSON.stringify(entityMeta);
-
-// Events for milestone banners
-const events = allWiki.filter(w => w.data.category === 'Events' && w.data.firstAppearance);
 
 // Group diary by chapter
 const chapters: Map<number, typeof allDiary> = new Map();
@@ -69,14 +96,16 @@ function chapterTitle(entries: typeof allDiary): string {
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
-// Category color CSS class mapping
 const catCss: Record<string, string> = {
-  People: 'people',
-  Places: 'places',
-  Things: 'things',
-  Factions: 'factions',
-  Events: 'events',
+  People: 'people', Places: 'places', Things: 'things', Factions: 'factions', Events: 'events',
 };
+
+// Density tiers for heat map dots
+function densityTier(total: number): string {
+  if (total >= 20) return 'high';
+  if (total >= 10) return 'mid';
+  return 'low';
+}
 ---
 
 <BaseLayout title="Timeline" wide={true}>
@@ -121,15 +150,14 @@ const catCss: Record<string, string> = {
               const debuts = sessionDebuts.get(sessionId) || [];
               const nonEventDebuts = debuts.filter(d => d.category !== 'Events');
               const eventDebuts = debuts.filter(d => d.category === 'Events');
+              const grouped = sessionEntitiesGrouped.get(sessionId) || new Map();
 
-              // Entity counts per category for density bar
               const pCount = entry.data.people?.length || 0;
               const plCount = entry.data.places?.length || 0;
               const tCount = entry.data.things?.length || 0;
               const fCount = entry.data.factions?.length || 0;
               const total = pCount + plCount + tCount + fCount;
 
-              // Collect all entity slugs for this session (for highlight matching)
               const allSlugs = [
                 ...(entry.data.people || []),
                 ...(entry.data.places || []),
@@ -140,7 +168,7 @@ const catCss: Record<string, string> = {
 
               return (
                 <>
-                  {/* Event milestone banners before the session node */}
+                  {/* Event milestone banners */}
                   {eventDebuts.map((ev) => (
                     <div class="tl-milestone">
                       <div class="tl-milestone-inner">
@@ -154,16 +182,21 @@ const catCss: Record<string, string> = {
                   ))}
 
                   <div
-                    class="tl-node"
+                    class={`tl-node tl-node--density-${densityTier(total)}`}
                     data-session={sessionId}
                     data-entities={allSlugs.join(',')}
                   >
                     <div class="tl-node-dot"></div>
                     <div class="tl-node-content">
-                      {/* Row 1: label + title */}
+                      {/* Row 1: label + title + expand toggle */}
                       <div class="tl-node-header">
                         <span class="tl-node-label font-mono">Ch.{entry.data.chapter}/S{entry.data.session}</span>
                         <a href={`${base}/diary/${sessionId}/`} class="tl-node-title">{entry.data.title}</a>
+                        {total > 0 && (
+                          <button class="tl-node-toggle" type="button" data-expand={sessionId} aria-label="Expand session details" title="Show all entities">
+                            <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                          </button>
+                        )}
                       </div>
 
                       {/* Row 2: density bar */}
@@ -179,14 +212,15 @@ const catCss: Record<string, string> = {
                       {/* Row 3: debut chips */}
                       {nonEventDebuts.length > 0 && (
                         <div class="tl-debuts">
+                          <span class="tl-debuts-label">Debuts</span>
                           {nonEventDebuts.slice(0, 4).map((d) => (
                             <button
-                              class={`tl-chip tl-chip--${catCss[d.category]}`}
+                              class={`tl-chip tl-chip--${catCss[d.category]} tl-chip--debut`}
                               data-entity={d.slug}
                               type="button"
                               title={`${d.title} — first appearance`}
                             >
-                              {d.title}
+                              <span class="tl-chip-star">&#10038;</span>{d.title}
                             </button>
                           ))}
                           {nonEventDebuts.length > 4 && (
@@ -194,20 +228,50 @@ const catCss: Record<string, string> = {
                               +{nonEventDebuts.length - 4} more
                             </button>
                           )}
-                          {/* Hidden overflow chips */}
                           {nonEventDebuts.length > 4 && nonEventDebuts.slice(4).map((d) => (
                             <button
-                              class={`tl-chip tl-chip--${catCss[d.category]} tl-chip--hidden`}
+                              class={`tl-chip tl-chip--${catCss[d.category]} tl-chip--debut tl-chip--hidden`}
                               data-entity={d.slug}
                               data-overflow-item={sessionId}
                               type="button"
                               title={`${d.title} — first appearance`}
                             >
-                              {d.title}
+                              <span class="tl-chip-star">&#10038;</span>{d.title}
                             </button>
                           ))}
                         </div>
                       )}
+
+                      {/* Expandable detail panel */}
+                      <div class="tl-detail" data-detail={sessionId} hidden>
+                        {entry.data.summary && (
+                          <p class="tl-detail-summary">{entry.data.summary}</p>
+                        )}
+                        <div class="tl-detail-entities">
+                          {(['People', 'Places', 'Things', 'Factions'] as const).map(cat => {
+                            const entities = grouped.get(cat);
+                            if (!entities) return null;
+                            return (
+                              <div class={`tl-detail-group tl-detail-group--${catCss[cat]}`}>
+                                <span class="tl-detail-cat-label">{cat}</span>
+                                <div class="tl-detail-chips">
+                                  {entities.map(e => (
+                                    <button
+                                      class={`tl-chip tl-chip--${catCss[cat]}${e.debut ? ' tl-chip--debut' : ''}`}
+                                      data-entity={e.slug}
+                                      type="button"
+                                      title={e.debut ? `${e.title} — first appearance` : e.title}
+                                    >
+                                      {e.debut && <span class="tl-chip-star">&#10038;</span>}{e.title}
+                                    </button>
+                                  ))}
+                                </div>
+                              </div>
+                            );
+                          })}
+                        </div>
+                        <a href={`${base}/diary/${sessionId}/`} class="tl-detail-link">Read full entry &rarr;</a>
+                      </div>
                     </div>
                   </div>
                 </>
@@ -220,22 +284,26 @@ const catCss: Record<string, string> = {
 
     <!-- Right sidebar -->
     <aside class="tl-sidebar" id="tl-sidebar">
-      {/* Chapter nav (default view) */}
       <div id="tl-sidebar-nav">
         <h2 class="tl-sidebar-heading">Chapters</h2>
         <ul class="tl-chapter-list">
-          {[...chapters.entries()].map(([chapterNum, entries]) => (
-            <li>
-              <a href={`#chapter-${chapterNum}`} class="tl-chapter-link" data-chapter-link={chapterNum}>
-                <span class="tl-chapter-num">{chapterNum}.</span>
-                <span class="tl-chapter-name">{chapterTitle(entries)}</span>
-              </a>
-            </li>
-          ))}
+          {[...chapters.entries()].map(([chapterNum, entries]) => {
+            const sessionCount = entries.length;
+            const maxSessions = Math.max(...[...chapters.values()].map(e => e.length));
+            const barWidth = Math.round((sessionCount / maxSessions) * 100);
+            return (
+              <li>
+                <a href={`#chapter-${chapterNum}`} class="tl-chapter-link" data-chapter-link={chapterNum}>
+                  <span class="tl-chapter-num">{chapterNum}.</span>
+                  <span class="tl-chapter-name">{chapterTitle(entries)}</span>
+                  <span class="tl-chapter-bar" style={`width:${barWidth}%`}></span>
+                </a>
+              </li>
+            );
+          })}
         </ul>
       </div>
 
-      {/* Entity detail panel (shown when entity selected) */}
       <div id="tl-sidebar-entity" hidden>
         <button type="button" id="tl-sidebar-back" class="tl-sidebar-back">&larr; Chapters</button>
         <div class="tl-entity-detail">
@@ -243,13 +311,14 @@ const catCss: Record<string, string> = {
           <span id="tl-entity-cat" class="tl-entity-cat"></span>
           <p id="tl-entity-desc" class="tl-entity-desc"></p>
           <p id="tl-entity-sessions" class="tl-entity-sessions"></p>
+          <div id="tl-entity-session-list" class="tl-entity-session-list"></div>
           <a id="tl-entity-link" href="#" class="tl-entity-wiki-link">View wiki entry &rarr;</a>
         </div>
       </div>
     </aside>
   </div>
 
-  {/* Mobile entity bottom sheet */}
+  <!-- Mobile entity bottom sheet -->
   <div class="tl-bottomsheet" id="tl-bottomsheet" hidden>
     <div class="tl-bottomsheet-inner">
       <button type="button" id="tl-bottomsheet-close" class="tl-bottomsheet-close">&times;</button>
@@ -300,16 +369,9 @@ const catCss: Record<string, string> = {
     background: var(--color-parchment-200);
   }
 
-  .tl-filter:not(.active) {
-    opacity: 0.5;
-  }
+  .tl-filter:not(.active) { opacity: 0.5; }
 
-  .tl-filter-dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-  }
-
+  .tl-filter-dot { width: 8px; height: 8px; border-radius: 50%; }
   .tl-filter-dot--people { background: #f59e0b; }
   .tl-filter-dot--places { background: #10b981; }
   .tl-filter-dot--things { background: #0ea5e9; }
@@ -359,9 +421,7 @@ const catCss: Record<string, string> = {
   }
 
   /* ===== Sidebar ===== */
-  .tl-sidebar {
-    display: none;
-  }
+  .tl-sidebar { display: none; }
 
   @media (min-width: 1024px) {
     .tl-sidebar {
@@ -397,6 +457,7 @@ const catCss: Record<string, string> = {
 
   .tl-chapter-link {
     display: flex;
+    align-items: center;
     gap: 0.375rem;
     padding: 0.25rem 0.5rem;
     border-radius: 0.25rem;
@@ -405,6 +466,8 @@ const catCss: Record<string, string> = {
     color: var(--color-ink-500);
     text-decoration: none;
     transition: background-color 0.15s, color 0.15s;
+    position: relative;
+    overflow: hidden;
   }
 
   .tl-chapter-link:hover {
@@ -423,6 +486,26 @@ const catCss: Record<string, string> = {
     flex-shrink: 0;
     font-variant-numeric: tabular-nums;
     min-width: 1.5rem;
+    z-index: 1;
+  }
+
+  .tl-chapter-name { z-index: 1; }
+
+  .tl-chapter-bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background: var(--color-parchment-200);
+    border-radius: 0.25rem;
+    opacity: 0.5;
+    z-index: 0;
+    transition: opacity 0.15s;
+  }
+
+  .tl-chapter-link:hover .tl-chapter-bar,
+  .tl-chapter-link.active .tl-chapter-bar {
+    opacity: 0.7;
   }
 
   .tl-sidebar-back {
@@ -475,6 +558,26 @@ const catCss: Record<string, string> = {
     margin: 0 0 0.5rem;
   }
 
+  .tl-entity-session-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.125rem;
+    margin-bottom: 0.75rem;
+    max-height: 200px;
+    overflow-y: auto;
+  }
+
+  .tl-entity-session-link {
+    font-size: 0.75rem;
+    color: var(--color-ink-500);
+    text-decoration: none;
+    padding: 0.125rem 0;
+  }
+
+  .tl-entity-session-link:hover {
+    color: var(--color-accent-600);
+  }
+
   .tl-entity-wiki-link {
     font-size: 0.8125rem;
     color: var(--color-accent-600);
@@ -492,6 +595,7 @@ const catCss: Record<string, string> = {
     padding: 1rem 0 0.5rem;
     margin-bottom: 0.5rem;
     border-bottom: 1px solid var(--color-parchment-300);
+    transition: opacity 0.2s;
   }
 
   .chapter-number {
@@ -536,20 +640,68 @@ const catCss: Record<string, string> = {
   .tl-node {
     position: relative;
     padding: 0.5rem 0;
-    transition: opacity 0.2s;
+    transition: opacity 0.25s ease;
   }
 
+  /* Entity mode: hide non-matching nodes */
+  :global(body.tl-entity-mode) .tl-node {
+    display: none;
+  }
+
+  :global(body.tl-entity-mode) .tl-node.tl-node--matched {
+    display: block;
+  }
+
+  /* Entity mode: hide chapters with no matches */
+  :global(body.tl-entity-mode) .tl-chapter.tl-chapter--empty {
+    display: none;
+  }
+
+  /* Spine accent for matched nodes */
+  :global(body.tl-entity-mode) .tl-node.tl-node--matched .tl-node-dot {
+    background: var(--color-accent-500);
+    border-color: var(--color-accent-700);
+    width: 12px;
+    height: 12px;
+    box-shadow: 0 0 6px rgba(139, 94, 60, 0.4);
+  }
+
+  :global(body.tl-entity-mode) .tl-spine::before {
+    background: var(--color-accent-500);
+    opacity: 0.3;
+  }
+
+  /* ===== Heat map dots ===== */
   .tl-node-dot {
     position: absolute;
-    width: 10px;
-    height: 10px;
     border-radius: 50%;
-    background: var(--color-parchment-400);
     border: 2px solid var(--color-parchment-200);
     left: -1.5rem;
     top: 0.875rem;
     transform: translateX(-50%);
     z-index: 1;
+    transition: all 0.2s;
+  }
+
+  .tl-node--density-low .tl-node-dot {
+    width: 8px;
+    height: 8px;
+    background: var(--color-parchment-400);
+  }
+
+  .tl-node--density-mid .tl-node-dot {
+    width: 10px;
+    height: 10px;
+    background: var(--color-accent-500);
+    border-color: var(--color-parchment-300);
+  }
+
+  .tl-node--density-high .tl-node-dot {
+    width: 12px;
+    height: 12px;
+    background: var(--color-accent-600);
+    border-color: var(--color-accent-500);
+    box-shadow: 0 0 4px rgba(139, 94, 60, 0.25);
   }
 
   .tl-node-content {
@@ -586,6 +738,23 @@ const catCss: Record<string, string> = {
     text-decoration-color: var(--color-parchment-300);
   }
 
+  /* Expand toggle */
+  .tl-node-toggle {
+    background: none;
+    border: none;
+    color: var(--color-ink-300);
+    cursor: pointer;
+    padding: 0.125rem;
+    margin-left: auto;
+    flex-shrink: 0;
+    transition: transform 0.2s, color 0.15s;
+    display: flex;
+    align-items: center;
+  }
+
+  .tl-node-toggle:hover { color: var(--color-ink-600); }
+  .tl-node-toggle.tl-node-toggle--open { transform: rotate(90deg); }
+
   /* ===== Density bar ===== */
   .tl-density {
     display: flex;
@@ -594,7 +763,10 @@ const catCss: Record<string, string> = {
     overflow: hidden;
     max-width: 200px;
     gap: 1px;
+    cursor: pointer;
   }
+
+  .tl-density:hover { opacity: 0.7; }
 
   .tl-density-seg { min-width: 3px; border-radius: 1px; }
   .tl-density-seg--people { background: #f59e0b; }
@@ -602,7 +774,6 @@ const catCss: Record<string, string> = {
   .tl-density-seg--things { background: #0ea5e9; }
   .tl-density-seg--factions { background: #8b5cf6; }
 
-  /* Category filter: hide density segments */
   :global(body.tl-hide-people) .tl-density-seg--people { display: none; }
   :global(body.tl-hide-places) .tl-density-seg--places { display: none; }
   :global(body.tl-hide-things) .tl-density-seg--things { display: none; }
@@ -614,6 +785,16 @@ const catCss: Record<string, string> = {
     flex-wrap: wrap;
     gap: 0.25rem;
     margin-top: 0.125rem;
+    align-items: center;
+  }
+
+  .tl-debuts-label {
+    font-size: 0.5625rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-ink-300);
+    margin-right: 0.125rem;
   }
 
   .tl-chip {
@@ -634,6 +815,16 @@ const catCss: Record<string, string> = {
   .tl-chip--things { background: #e0f2fe; color: #075985; }
   .tl-chip--factions { background: #ede9fe; color: #5b21b6; }
 
+  .tl-chip--debut {
+    font-weight: 600;
+  }
+
+  .tl-chip-star {
+    font-size: 0.5rem;
+    margin-right: 0.125rem;
+    opacity: 0.7;
+  }
+
   .tl-chip--overflow {
     background: var(--color-parchment-200);
     color: var(--color-ink-500);
@@ -641,29 +832,74 @@ const catCss: Record<string, string> = {
   }
 
   .tl-chip--hidden { display: none; }
-  .tl-chip--hidden.tl-chip--revealed { display: inline-block; }
+  .tl-chip--hidden.tl-chip--revealed { display: inline-flex; }
 
-  /* Category filter: hide debut chips */
   :global(body.tl-hide-people) .tl-chip--people { display: none; }
   :global(body.tl-hide-places) .tl-chip--places { display: none; }
   :global(body.tl-hide-things) .tl-chip--things { display: none; }
   :global(body.tl-hide-factions) .tl-chip--factions { display: none; }
 
-  /* ===== Entity highlight mode ===== */
-  :global(body.tl-entity-mode) .tl-node {
-    opacity: 0.15;
+  /* ===== Expandable detail panel ===== */
+  .tl-detail {
+    border-top: 1px solid var(--color-parchment-200);
+    margin-top: 0.375rem;
+    padding-top: 0.5rem;
   }
 
-  :global(body.tl-entity-mode) .tl-node.tl-node--matched {
-    opacity: 1;
+  .tl-detail[hidden] { display: none; }
+
+  .tl-detail-summary {
+    font-size: 0.8125rem;
+    color: var(--color-ink-500);
+    line-height: 1.5;
+    margin: 0 0 0.5rem;
+    font-style: italic;
   }
 
-  :global(body.tl-entity-mode) .tl-node.tl-node--matched .tl-node-dot {
-    background: var(--color-accent-500);
-    border-color: var(--color-accent-700);
-    width: 12px;
-    height: 12px;
+  .tl-detail-entities {
+    display: flex;
+    flex-direction: column;
+    gap: 0.375rem;
   }
+
+  .tl-detail-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem;
+  }
+
+  .tl-detail-cat-label {
+    font-size: 0.5625rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-ink-300);
+    min-width: 4rem;
+    flex-shrink: 0;
+  }
+
+  .tl-detail-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+  }
+
+  :global(body.tl-hide-people) .tl-detail-group--people { display: none; }
+  :global(body.tl-hide-places) .tl-detail-group--places { display: none; }
+  :global(body.tl-hide-things) .tl-detail-group--things { display: none; }
+  :global(body.tl-hide-factions) .tl-detail-group--factions { display: none; }
+
+  .tl-detail-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-size: 0.75rem;
+    color: var(--color-accent-600);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .tl-detail-link:hover { text-decoration: underline; }
 
   /* ===== Event milestones ===== */
   .tl-milestone {
@@ -673,10 +909,11 @@ const catCss: Record<string, string> = {
   }
 
   .tl-milestone-inner {
-    background: #ffe4e6;
+    background: linear-gradient(135deg, #ffe4e6, #fecdd3);
     border: 1px solid #fecdd3;
     border-radius: 0.5rem;
     padding: 0.75rem 1rem;
+    box-shadow: 0 2px 8px rgba(159, 18, 57, 0.08);
   }
 
   .tl-milestone-label {
@@ -705,10 +942,7 @@ const catCss: Record<string, string> = {
   }
 
   /* ===== Bottom sheet (mobile) ===== */
-  .tl-bottomsheet {
-    display: none;
-  }
-
+  .tl-bottomsheet { display: none; }
   .tl-bottomsheet[hidden] { display: none; }
 
   @media (max-width: 1023px) {
@@ -720,6 +954,7 @@ const catCss: Record<string, string> = {
       right: 0;
       z-index: 50;
       background: rgba(0,0,0,0.3);
+      animation: tl-overlay-in 0.2s ease;
     }
 
     .tl-bottomsheet-inner {
@@ -729,6 +964,7 @@ const catCss: Record<string, string> = {
       max-height: 50vh;
       overflow-y: auto;
       position: relative;
+      animation: tl-sheet-up 0.25s ease;
     }
 
     .tl-bottomsheet-close {
@@ -741,28 +977,35 @@ const catCss: Record<string, string> = {
       color: var(--color-ink-400);
       cursor: pointer;
     }
+
+    @keyframes tl-overlay-in { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes tl-sheet-up { from { transform: translateY(100%); } to { transform: translateY(0); } }
   }
 
   /* ===== Scroll-driven reveal ===== */
   @supports (animation-timeline: view()) {
-    .tl-node, .tl-milestone {
+    .tl-node {
       animation: tl-reveal linear both;
       animation-timeline: view();
       animation-range: entry 0% entry 25%;
     }
 
-    @keyframes tl-reveal {
-      from {
-        opacity: 0;
-        transform: translateY(0.75rem);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
+    .tl-milestone {
+      animation: tl-milestone-reveal linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 30%;
     }
 
-    /* Don't let scroll animation fight with entity highlight dimming */
+    @keyframes tl-reveal {
+      from { opacity: 0; transform: translateY(0.75rem); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes tl-milestone-reveal {
+      from { opacity: 0; transform: translateY(1rem) scale(0.97); }
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+
     :global(body.tl-entity-mode) .tl-node {
       animation: none;
     }
@@ -775,30 +1018,51 @@ const catCss: Record<string, string> = {
     const entityMeta = JSON.parse(entityMetaJSON);
     const body = document.body;
     const nodes = document.querySelectorAll('.tl-node');
-    const nodeMap = new Map();
-    nodes.forEach(n => {
-      const entities = (n.dataset.entities || '').split(',').filter(Boolean);
-      nodeMap.set(n, entities);
-    });
+    const chapters = document.querySelectorAll('.tl-chapter');
 
     // --- Category filters ---
     document.querySelectorAll('.tl-filter[data-cat]').forEach(btn => {
       btn.addEventListener('click', () => {
-        const cat = btn.dataset.cat;
         btn.classList.toggle('active');
-        body.classList.toggle('tl-hide-' + cat, !btn.classList.contains('active'));
+        body.classList.toggle('tl-hide-' + btn.dataset.cat, !btn.classList.contains('active'));
       });
     });
 
-    // --- Overflow debut expansion ---
+    // --- Overflow debut expansion (toggleable) ---
     document.querySelectorAll('.tl-chip--overflow').forEach(btn => {
+      let expanded = false;
       btn.addEventListener('click', (e) => {
         e.stopPropagation();
         const sid = btn.dataset.overflow;
-        document.querySelectorAll(`[data-overflow-item="${sid}"]`).forEach(c => {
-          c.classList.add('tl-chip--revealed');
-        });
-        btn.style.display = 'none';
+        const items = document.querySelectorAll('[data-overflow-item="' + sid + '"]');
+        expanded = !expanded;
+        items.forEach(c => c.classList.toggle('tl-chip--revealed', expanded));
+        const count = items.length;
+        btn.textContent = expanded ? 'Show less' : '+' + count + ' more';
+      });
+    });
+
+    // --- Session expand/collapse ---
+    document.querySelectorAll('.tl-node-toggle').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const sid = btn.dataset.expand;
+        const detail = document.querySelector('[data-detail="' + sid + '"]');
+        if (!detail) return;
+        const isOpen = !detail.hidden;
+        detail.hidden = isOpen;
+        btn.classList.toggle('tl-node-toggle--open', !isOpen);
+      });
+    });
+
+    // Density bar also toggles expand
+    document.querySelectorAll('.tl-density').forEach(bar => {
+      bar.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const node = bar.closest('.tl-node');
+        if (!node) return;
+        const btn = node.querySelector('.tl-node-toggle');
+        if (btn) btn.click();
       });
     });
 
@@ -809,51 +1073,81 @@ const catCss: Record<string, string> = {
       activeEntity = null;
       body.classList.remove('tl-entity-mode');
       nodes.forEach(n => n.classList.remove('tl-node--matched'));
+      chapters.forEach(c => c.classList.remove('tl-chapter--empty'));
       document.getElementById('tl-entity-badge').hidden = true;
       document.getElementById('tl-sidebar-nav').hidden = false;
       document.getElementById('tl-sidebar-entity').hidden = true;
-      const bs = document.getElementById('tl-bottomsheet');
+      document.getElementById('tl-entity-session-list').innerHTML = '';
+      var bs = document.getElementById('tl-bottomsheet');
       if (bs) bs.hidden = true;
     }
 
     function highlightEntity(slug) {
       if (activeEntity === slug) { clearHighlight(); return; }
       activeEntity = slug;
-      const meta = entityMeta[slug];
+      var meta = entityMeta[slug];
       if (!meta) return;
 
       body.classList.add('tl-entity-mode');
 
       // Mark matching nodes
-      const sessions = entitySessions[slug] || [];
-      const sessionSet = new Set(sessions);
+      var sessions = entitySessions[slug] || [];
+      var sessionSet = new Set(sessions);
       nodes.forEach(n => {
         n.classList.toggle('tl-node--matched', sessionSet.has(n.dataset.session));
       });
 
-      // Badge in filter bar
-      const badge = document.getElementById('tl-entity-badge');
-      document.getElementById('tl-entity-badge-name').textContent = meta.title;
-      badge.hidden = false;
+      // Hide chapters with no matching sessions
+      chapters.forEach(ch => {
+        var hasMatch = false;
+        ch.querySelectorAll('.tl-node').forEach(n => {
+          if (n.classList.contains('tl-node--matched')) hasMatch = true;
+        });
+        ch.classList.toggle('tl-chapter--empty', !hasMatch);
+      });
 
-      // Sidebar entity detail (desktop)
+      // Badge
+      document.getElementById('tl-entity-badge-name').textContent = meta.title;
+      document.getElementById('tl-entity-badge').hidden = false;
+
+      // Sidebar
       document.getElementById('tl-sidebar-nav').hidden = true;
-      const panel = document.getElementById('tl-sidebar-entity');
+      var panel = document.getElementById('tl-sidebar-entity');
       panel.hidden = false;
       document.getElementById('tl-entity-name').textContent = meta.title;
-      const catEl = document.getElementById('tl-entity-cat');
+      var catEl = document.getElementById('tl-entity-cat');
       catEl.textContent = meta.category;
       catEl.dataset.cat = meta.category;
       document.getElementById('tl-entity-desc').textContent = meta.description || '';
       document.getElementById('tl-entity-sessions').textContent = 'Appears in ' + sessions.length + ' session' + (sessions.length !== 1 ? 's' : '');
+
+      // Session list in sidebar
+      var listEl = document.getElementById('tl-entity-session-list');
+      listEl.innerHTML = '';
+      sessions.forEach(function(sid) {
+        var node = document.querySelector('[data-session="' + sid + '"]');
+        if (!node) return;
+        var title = node.querySelector('.tl-node-title');
+        var label = node.querySelector('.tl-node-label');
+        var a = document.createElement('a');
+        a.className = 'tl-entity-session-link';
+        a.href = '#' + sid;
+        a.textContent = (label ? label.textContent : '') + ' ' + (title ? title.textContent : sid);
+        a.addEventListener('click', function(e) {
+          e.preventDefault();
+          node.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        });
+        listEl.appendChild(a);
+      });
+
       document.getElementById('tl-entity-link').href = base + '/wiki/' + slug + '/';
 
       // Bottom sheet (mobile)
       if (window.innerWidth < 1024) {
-        const bs = document.getElementById('tl-bottomsheet');
+        var bs = document.getElementById('tl-bottomsheet');
         bs.hidden = false;
         document.getElementById('tl-bs-name').textContent = meta.title;
-        const bsCat = document.getElementById('tl-bs-cat');
+        var bsCat = document.getElementById('tl-bs-cat');
         bsCat.textContent = meta.category;
         bsCat.dataset.cat = meta.category;
         document.getElementById('tl-bs-desc').textContent = meta.description || '';
@@ -862,7 +1156,7 @@ const catCss: Record<string, string> = {
       }
     }
 
-    // Chip click handlers
+    // Chip click handlers (both debut chips and detail panel chips)
     document.querySelectorAll('.tl-chip[data-entity]').forEach(chip => {
       chip.addEventListener('click', (e) => {
         e.stopPropagation();
@@ -873,29 +1167,34 @@ const catCss: Record<string, string> = {
     // Clear handlers
     document.getElementById('tl-entity-badge-clear').addEventListener('click', clearHighlight);
     document.getElementById('tl-sidebar-back').addEventListener('click', clearHighlight);
-    const bsClose = document.getElementById('tl-bottomsheet-close');
+    var bsClose = document.getElementById('tl-bottomsheet-close');
     if (bsClose) bsClose.addEventListener('click', clearHighlight);
-    const bs = document.getElementById('tl-bottomsheet');
-    if (bs) bs.addEventListener('click', (e) => { if (e.target === bs) clearHighlight(); });
+    var bs = document.getElementById('tl-bottomsheet');
+    if (bs) bs.addEventListener('click', function(e) { if (e.target === bs) clearHighlight(); });
 
-    // --- Chapter nav: smooth scroll + IntersectionObserver ---
-    const sections = document.querySelectorAll('.tl-chapter');
-    const links = document.querySelectorAll('.tl-chapter-link');
+    // Escape key to clear
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && activeEntity) { clearHighlight(); }
+    });
+
+    // --- Chapter nav ---
+    var sections = document.querySelectorAll('.tl-chapter');
+    var links = document.querySelectorAll('.tl-chapter-link');
     if (!sections.length || !links.length) return;
 
     links.forEach(link => {
       link.addEventListener('click', (e) => {
         e.preventDefault();
-        const target = document.querySelector(link.getAttribute('href'));
+        var target = document.querySelector(link.getAttribute('href'));
         if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
       });
     });
 
-    let activeChapter = null;
-    const observer = new IntersectionObserver((entries) => {
-      for (const entry of entries) {
+    var activeChapter = null;
+    var observer = new IntersectionObserver((entries) => {
+      for (var entry of entries) {
         if (entry.isIntersecting) {
-          const ch = entry.target.dataset.chapter;
+          var ch = entry.target.dataset.chapter;
           if (ch !== activeChapter) {
             activeChapter = ch;
             links.forEach(l => {
