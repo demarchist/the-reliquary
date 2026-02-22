@@ -11,6 +11,7 @@ people:
   - "hasrala"
   - "hazzim"
   - "horatio-von-bumidere"
+  - "intent"
   - "ront"
   - "snorbul"
   - "tarkathee-daru"

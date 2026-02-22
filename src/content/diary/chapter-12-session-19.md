@@ -10,6 +10,7 @@ people:
   - "gundren-rockseeker"
   - "hasrala"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "ront"
   - "shar"

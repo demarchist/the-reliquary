@@ -7,11 +7,11 @@ summary: "Patches bluffs a demon warband as a priestess of Lolth while Fëanon c
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
-  - "lolth"
   - "lothli"
   - "madame-eva"
-  - "ront"
   - "tarkathee-daru"
+factions:
+  - "drow-faction"
 ---
 
 Following the Balgura demon deeper into the forest, Patches arrived at the demon stronghold. There she negotiated — in full Drow priestess regalia — with a Glabrezu and a Chasme demon. Gaining their trust through sheer audacity, she convinced them to hand over their key. In return she would signal them to attack the devils. She left the stronghold breathing considerably easier and rendezvoused with Lothli and a strange elf and dwarf the ranger had encountered in the woods.

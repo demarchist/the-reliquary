@@ -8,10 +8,12 @@ people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "lothli"
   - "orcus"
-  - "ront"
   - "tarkathee-daru"
+places:
+  - "snorbuls-hole"
 factions:
   - "drow-faction"
 ---

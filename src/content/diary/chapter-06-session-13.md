@@ -10,6 +10,7 @@ people:
   - "gundren-rockseeker"
   - "high-marshal-arasume"
   - "horatio-von-bumidere"
+  - "intent"
   - "madame-eva"
   - "megno-slatesunder"
   - "omar"

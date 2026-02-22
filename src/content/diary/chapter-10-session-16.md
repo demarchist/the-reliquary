@@ -6,6 +6,7 @@ session: 16
 people:
   - "baphomet"
   - "demogorgon"
+  - "intent"
   - "juiblex"
   - "orcus"
   - "ront"

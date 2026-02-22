@@ -12,6 +12,7 @@ people:
   - "hemeth"
   - "horatio-von-bumidere"
   - "ilvara-mizzrym"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "megno-slatesunder"
   - "pickles"

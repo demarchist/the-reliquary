@@ -15,6 +15,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "ilvara-mizzrym"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "pickles"
   - "snorbul"
@@ -30,6 +31,7 @@ places:
 things:
   - "arkto"
   - "gwen"
+  - "hew"
   - "piwafwi"
   - "the-last-word"
 factions:

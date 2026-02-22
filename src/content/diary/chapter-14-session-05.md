@@ -9,6 +9,7 @@ people:
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "ront"
   - "shar"
   - "tarkathee-daru"

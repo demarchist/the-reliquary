@@ -10,6 +10,7 @@ people:
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "madame-eva"
   - "ront"
   - "shar"
@@ -21,6 +22,7 @@ places:
 things:
   - "chardalyn"
   - "gwen"
+  - "hew"
   - "jade-frog"
   - "thundercannon"
 factions:

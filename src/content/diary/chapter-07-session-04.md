@@ -9,6 +9,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "madame-eva"
   - "megno-slatesunder"
   - "ront"

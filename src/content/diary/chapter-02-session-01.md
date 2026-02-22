@@ -6,8 +6,10 @@ session: 1
 summary: "The party arrives in Neverwinter during the Refounding Festival, reports to Lord Neverember at the Keep, founds the Spellforged Adventuring Company, and begins exploring the festival — meeting Kangaxx, visiting the Temple of Oghma, and being transported into Sha'Alazzi's iron tower."
 people:
   - "aliyah-faen-tlabbar"
+  - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "jeckeyll"
   - "kangaxx"
@@ -19,13 +21,16 @@ people:
   - "tarkathee-daru"
   - "venomfang"
 places:
+  - "baldurs-gate"
   - "barovia"
+  - "cragmaw-castle"
   - "keep-of-thunder-bluff"
   - "moonstone-mask-inn"
   - "neverwinter"
   - "shadowfell"
   - "the-chasm"
 things:
+  - "hew"
   - "spellforge"
   - "tavern-of-doors"
   - "the-reaver"

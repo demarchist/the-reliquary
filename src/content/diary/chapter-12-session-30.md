@@ -9,6 +9,7 @@ people:
   - "fawden"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "rudjek"
   - "selune"
   - "shar"

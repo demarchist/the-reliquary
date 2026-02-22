@@ -15,6 +15,7 @@ places:
   - "ras-alkan"
 things:
   - "iron-tome"
+  - "talon"
 ---
 
 Cirrus remains awake all night, refusing to sleep.  He grows exhausted.

@@ -13,6 +13,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "jack-mayer-johnson-mathews"
   - "lathander"
@@ -34,6 +35,7 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
+  - "hew"
   - "the-last-word"
   - "thundercannon"
 factions:

@@ -9,6 +9,7 @@ people:
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "moot"
   - "pickles"

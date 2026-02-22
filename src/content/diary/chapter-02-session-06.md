@@ -11,16 +11,21 @@ people:
   - "gundren-rockseeker"
   - "hendrell"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lothli"
   - "moot"
   - "raylen"
+  - "ront"
   - "tarkathee-daru"
 places:
+  - "baldurs-gate"
   - "moonstone-mask-inn"
   - "neverwinter"
+  - "the-moonwood"
   - "waterdeep"
 things:
+  - "jade-frog"
   - "tavern-of-doors"
 ---
 

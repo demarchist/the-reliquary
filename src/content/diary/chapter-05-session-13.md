@@ -12,6 +12,7 @@ people:
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "kasimir"
   - "lolth"
@@ -35,6 +36,7 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
+  - "hew"
   - "the-reaver"
   - "thundercannon"
 factions:

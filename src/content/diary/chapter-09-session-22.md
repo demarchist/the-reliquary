@@ -9,6 +9,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
+  - "intent"
   - "juiblex"
   - "snorbul"
   - "tarkathee-daru"

@@ -12,6 +12,7 @@ people:
   - "gundren-rockseeker"
   - "hohonu"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "tarkathee-daru"
 places:

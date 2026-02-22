@@ -11,6 +11,7 @@ people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "izek"
   - "jack-mayer-johnson-mathews"

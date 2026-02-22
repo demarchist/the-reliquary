@@ -10,6 +10,7 @@ people:
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"
+  - "intent"
   - "shar"
 places:
   - "neverwinter"

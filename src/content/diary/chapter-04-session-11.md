@@ -16,6 +16,7 @@ people:
   - "tarkathee-daru"
   - "ysera"
 places:
+  - "baldurs-gate"
   - "ethereal-plane"
 things:
   - "tavern-of-doors"

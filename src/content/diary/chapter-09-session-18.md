@@ -10,6 +10,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "juiblex"
   - "pickles"

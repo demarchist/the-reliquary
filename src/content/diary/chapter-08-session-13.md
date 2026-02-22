@@ -10,6 +10,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"
   - "ront"

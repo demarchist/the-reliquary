@@ -12,6 +12,7 @@ people:
   - "lothli"
   - "madame-eva"
   - "myria-brightlance"
+  - "orcus"
   - "tarkathee-daru"
 places:
   - "the-labyrinth"

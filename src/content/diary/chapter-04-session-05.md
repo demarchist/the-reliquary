@@ -9,7 +9,9 @@ people:
   - "ella"
   - "goblin-king"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
+  - "kazoo"
   - "lorde"
   - "tarkathee-daru"
 places:

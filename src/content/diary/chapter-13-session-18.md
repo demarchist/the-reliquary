@@ -9,6 +9,7 @@ people:
   - "fawden"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"
 places:

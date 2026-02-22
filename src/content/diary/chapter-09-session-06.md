@@ -9,6 +9,7 @@ people:
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "lolth"
   - "madame-eva"
   - "ront"

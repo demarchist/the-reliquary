@@ -13,6 +13,7 @@ people:
   - "gundren-rockseeker"
   - "high-marshal-arasume"
   - "horatio-von-bumidere"
+  - "intent"
   - "kenshi"
   - "megno-slatesunder"
   - "omar"

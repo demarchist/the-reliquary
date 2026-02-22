@@ -13,6 +13,7 @@ people:
   - "feanon-serinde"
   - "gneiss"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "pickles"
   - "ront"

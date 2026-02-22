@@ -8,12 +8,15 @@ people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
+  - "ront"
   - "tarkathee-daru"
   - "zhink"
 factions:
   - "flaming-fist"
+  - "the-brotherhood"
 ---
 
 The group stared down the long corridors of the mausoleum and came to a sensible conclusion: clearing a veritable army of undead from beneath the city was beyond their current abilities and beyond the scope of their contract. Fëanon grabbed a zombie arm as proof of the infestation, and the group headed back to the surface to deliver the news.

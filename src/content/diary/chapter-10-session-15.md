@@ -11,6 +11,7 @@ people:
   - "gromph-baenre"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "kimmuriel"
   - "lolth"
   - "tarkathee-daru"

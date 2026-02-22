@@ -5,8 +5,10 @@ chapterTitle: Baldur's Gate
 session: 6
 summary: "The group ambushes a Duergar gemstone-infusing workshop, battles invisible assassins, and uses the infused crystals to unlock deeper sections of the ancient ruins before barricading for a long rest."
 people:
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "lothli"
   - "shar"
   - "tarkathee-daru"

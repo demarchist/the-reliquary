@@ -5,13 +5,17 @@ chapterTitle: Phandalin
 session: 9
 summary: "The party collects their rewards in Phandalin beneath the shadow of Iarno's gallows, only for Venomfang to return — corrupted into a Dracolich that destroys half the town before Tark tears out its phylactery heart."
 people:
+  - "agatha"
   - "aliyah-faen-tlabbar"
+  - "barthen"
   - "doc"
+  - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "iarno"
   - "jack-mayer-johnson-mathews"
   - "lothli"
+  - "ront"
   - "sildar"
   - "tarkathee-daru"
   - "venomfang"
@@ -20,6 +24,8 @@ places:
   - "ivy-mansion"
   - "longsaddle"
   - "neverwinter"
+  - "phandalin"
+  - "thundertree"
 things:
   - "tavern-of-doors"
 factions:

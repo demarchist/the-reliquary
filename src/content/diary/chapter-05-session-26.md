@@ -6,12 +6,14 @@ session: 26
 people:
   - "aliyah-faen-tlabbar"
   - "anaxtrasa"
+  - "barthen"
   - "cercei"
   - "cirrus-al-kayan"
   - "ezmerelda"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "moot"
   - "mordenkainen"
@@ -35,6 +37,7 @@ places:
 things:
   - "bag-of-holding"
   - "piwafwi"
+  - "talon"
   - "tavern-of-doors"
 factions:
   - "drow-faction"

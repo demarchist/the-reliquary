@@ -5,13 +5,18 @@ chapterTitle: Phandalin
 session: 2
 summary: "The party meets Doctor Breakfast, receives the Tavern of Doors from Sharess, travels north to Thundertree, and narrowly survives an encounter with the green dragon Venomfang."
 people:
+  - "agatha"
   - "aliyah-faen-tlabbar"
+  - "black-spider"
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "harbin-wester"
   - "horatio-von-bumidere"
   - "iarno"
+  - "intent"
   - "jack-mayer-johnson-mathews"
+  - "nezzan"
   - "reidoth"
   - "ront"
   - "shar"
@@ -23,14 +28,15 @@ places:
   - "cragmaw-castle"
   - "feanons-tower"
   - "neverwinter"
-  - "phandalin"
   - "stonehill-inn"
   - "thundertree"
   - "tresendar-manor"
 things:
-  - "tavern-of-doors"
-  - "talon"
   - "hew"
+  - "talon"
+  - "tavern-of-doors"
+factions:
+  - "redbrand-ruffians"
 ---
 
 The party returned to the Stonehill Inn after clearing the Redbrands from Tresendar Manor. Sildar took custody of Iarno while the group settled in to rest and discuss what they'd learned about the Black Spider.

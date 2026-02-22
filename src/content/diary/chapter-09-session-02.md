@@ -14,6 +14,7 @@ people:
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "orcus"
   - "pickles"
   - "ront"

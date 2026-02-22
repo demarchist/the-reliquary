@@ -9,6 +9,11 @@
     "title": "The Abyss",
     "category": "Places"
   },
+  "agatha": {
+    "slug": "agatha",
+    "title": "Agatha",
+    "category": "People"
+  },
   "al askar": {
     "slug": "al-askar",
     "title": "Al Askar",
@@ -234,6 +239,21 @@
     "title": "Barovia",
     "category": "Places"
   },
+  "elmar barthen": {
+    "slug": "barthen",
+    "title": "Elmar Barthen",
+    "category": "People"
+  },
+  "barthen": {
+    "slug": "barthen",
+    "title": "Elmar Barthen",
+    "category": "People"
+  },
+  "barthen's provisions": {
+    "slug": "barthens-provisions",
+    "title": "Barthen's Provisions",
+    "category": "Places"
+  },
   "battle of silverymoon": {
     "slug": "battle-of-silverymoon",
     "title": "Battle of Silverymoon",
@@ -262,6 +282,21 @@
   "beryan the sage": {
     "slug": "beryan",
     "title": "Beryan",
+    "category": "People"
+  },
+  "the black spider": {
+    "slug": "nezzan",
+    "title": "Nezzan",
+    "category": "People"
+  },
+  "black spider": {
+    "slug": "black-spider",
+    "title": "The Black Spider",
+    "category": "People"
+  },
+  "nezznar": {
+    "slug": "black-spider",
+    "title": "The Black Spider",
     "category": "People"
   },
   "blingdenstone": {
@@ -327,6 +362,11 @@
   "dink": {
     "slug": "captain-dink",
     "title": "Captain Dink",
+    "category": "People"
+  },
+  "carp alderleaf": {
+    "slug": "carp-alderleaf",
+    "title": "Carp Alderleaf",
     "category": "People"
   },
   "castle ravenloft": {
@@ -414,6 +454,16 @@
     "title": "Cragmaw Castle",
     "category": "Places"
   },
+  "cragmaw tribe": {
+    "slug": "cragmaw-tribe",
+    "title": "Cragmaw Tribe",
+    "category": "Factions"
+  },
+  "cragmaw goblins": {
+    "slug": "cragmaw-tribe",
+    "title": "Cragmaw Tribe",
+    "category": "Factions"
+  },
   "crystal tuning fork": {
     "slug": "crystal-tuning-fork",
     "title": "Crystal Tuning Fork",
@@ -478,6 +528,16 @@
     "slug": "delzoun-instant-fortress",
     "title": "Delzoun Instant Fortress",
     "category": "Things"
+  },
+  "demetrius": {
+    "slug": "demetrius",
+    "title": "Demetrius",
+    "category": "People"
+  },
+  "the malk": {
+    "slug": "demetrius",
+    "title": "Demetrius",
+    "category": "People"
   },
   "demogorgon": {
     "slug": "demogorgon",
@@ -774,6 +834,16 @@
     "title": "Flaming Fist",
     "category": "Factions"
   },
+  "foxy crazy": {
+    "slug": "foxy-crazy",
+    "title": "Foxy Crazy",
+    "category": "People"
+  },
+  "foxxy crazy": {
+    "slug": "foxy-crazy",
+    "title": "Foxy Crazy",
+    "category": "People"
+  },
   "gaddock": {
     "slug": "gaddock",
     "title": "Gaddock",
@@ -914,6 +984,16 @@
     "title": "Hammer of Niraz",
     "category": "Things"
   },
+  "harbin wester": {
+    "slug": "harbin-wester",
+    "title": "Harbin Wester",
+    "category": "People"
+  },
+  "townmaster": {
+    "slug": "harbin-wester",
+    "title": "Harbin Wester",
+    "category": "People"
+  },
   "harold ophrella": {
     "slug": "harold-ophrella",
     "title": "Harold Ophrella",
@@ -973,6 +1053,11 @@
     "slug": "hendrell",
     "title": "Hendrell",
     "category": "People"
+  },
+  "hew": {
+    "slug": "hew",
+    "title": "Hew",
+    "category": "Things"
   },
   "high-hold": {
     "slug": "high-hold",
@@ -1089,6 +1174,16 @@
     "title": "Ingrbotha",
     "category": "People"
   },
+  "intent": {
+    "slug": "intent",
+    "title": "Intent",
+    "category": "People"
+  },
+  "tent": {
+    "slug": "intent",
+    "title": "Intent",
+    "category": "People"
+  },
   "ireena": {
     "slug": "ireena",
     "title": "Ireena",
@@ -1103,6 +1198,16 @@
     "slug": "irmesk",
     "title": "Irmesk",
     "category": "People"
+  },
+  "the iron tome": {
+    "slug": "iron-tome",
+    "title": "The Iron Tome",
+    "category": "Things"
+  },
+  "iron tome": {
+    "slug": "iron-tome",
+    "title": "The Iron Tome",
+    "category": "Things"
   },
   "ironarm mercenary company": {
     "slug": "ironarm-mercenary-company",
@@ -1224,6 +1329,16 @@
     "title": "Kasimir",
     "category": "People"
   },
+  "kazoo": {
+    "slug": "kazoo",
+    "title": "Kazoo",
+    "category": "People"
+  },
+  "kaazoo": {
+    "slug": "kazoo",
+    "title": "Kazoo",
+    "category": "People"
+  },
   "the keep of thunder bluff": {
     "slug": "keep-of-thunder-bluff",
     "title": "The Keep of Thunder Bluff",
@@ -1252,6 +1367,11 @@
   "kimmuriel": {
     "slug": "kimmuriel",
     "title": "Kimmuriel",
+    "category": "People"
+  },
+  "klarg": {
+    "slug": "klarg",
+    "title": "Klarg",
     "category": "People"
   },
   "knights in silver": {
@@ -1324,13 +1444,28 @@
     "title": "Liara",
     "category": "People"
   },
+  "lightbringer": {
+    "slug": "lightbringer",
+    "title": "Lightbringer",
+    "category": "Things"
+  },
+  "linene greywind": {
+    "slug": "linene-greywind",
+    "title": "Linene Greywind",
+    "category": "People"
+  },
+  "lionshield coster": {
+    "slug": "lionshield-coster",
+    "title": "Lionshield Coster",
+    "category": "Places"
+  },
   "lo'dan": {
     "slug": "lodan",
     "title": "Lo'Dan",
     "category": "People"
   },
   "lo dan": {
-    "slug": "lo-dan",
+    "slug": "lodan",
     "title": "Lo'Dan",
     "category": "People"
   },
@@ -1368,6 +1503,21 @@
     "slug": "lorde",
     "title": "Lorde",
     "category": "People"
+  },
+  "the lords' alliance": {
+    "slug": "lords-alliance",
+    "title": "The Lords' Alliance",
+    "category": "Factions"
+  },
+  "lords alliance": {
+    "slug": "lords-alliance",
+    "title": "The Lords' Alliance",
+    "category": "Factions"
+  },
+  "lords' alliance": {
+    "slug": "lords-alliance",
+    "title": "The Lords' Alliance",
+    "category": "Factions"
   },
   "lothli": {
     "slug": "lothli",
@@ -1585,11 +1735,6 @@
     "category": "Places"
   },
   "nezzan": {
-    "slug": "nezzan",
-    "title": "Nezzan",
-    "category": "People"
-  },
-  "the black spider": {
     "slug": "nezzan",
     "title": "Nezzan",
     "category": "People"
@@ -1994,10 +2139,25 @@
     "title": "The Spellguard",
     "category": "Factions"
   },
+  "staff of defense": {
+    "slug": "staff-of-defense",
+    "title": "Staff of Defense",
+    "category": "Things"
+  },
+  "glasstaff's staff": {
+    "slug": "staff-of-defense",
+    "title": "Staff of Defense",
+    "category": "Things"
+  },
   "stoneguard": {
     "slug": "stoneguard",
     "title": "Stoneguard",
     "category": "Factions"
+  },
+  "stonehill inn": {
+    "slug": "stonehill-inn",
+    "title": "Stonehill Inn",
+    "category": "Places"
   },
   "strahd von zarovich": {
     "slug": "strahd-von-zarovich",
@@ -2058,6 +2218,11 @@
     "slug": "svirfneblin-faction",
     "title": "The Svirfneblin",
     "category": "Factions"
+  },
+  "talon": {
+    "slug": "talon",
+    "title": "Talon",
+    "category": "Things"
   },
   "tarkathee daru": {
     "slug": "tarkathee-daru",
@@ -2254,6 +2419,11 @@
     "title": "Titanic Forge",
     "category": "Things"
   },
+  "toblen stonehill": {
+    "slug": "toblen-stonehill",
+    "title": "Toblen Stonehill",
+    "category": "People"
+  },
   "tome of al azif": {
     "slug": "tome-of-al-azif",
     "title": "Tome of Al Azif",
@@ -2292,6 +2462,11 @@
   "tresendar manor": {
     "slug": "tresendar-manor",
     "title": "Tresendar Manor",
+    "category": "Places"
+  },
+  "triboar trail": {
+    "slug": "triboar-trail",
+    "title": "Triboar Trail",
     "category": "Places"
   },
   "tser pool": {

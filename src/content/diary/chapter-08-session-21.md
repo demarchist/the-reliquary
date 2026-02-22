@@ -12,6 +12,7 @@ people:
   - "droki"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "kenshi"
   - "madame-eva"
   - "orcus"
@@ -26,6 +27,8 @@ places:
   - "sanctum-of-krasus"
   - "sundabar"
   - "underdark"
+things:
+  - "hew"
 factions:
   - "derro-faction"
   - "drow-faction"

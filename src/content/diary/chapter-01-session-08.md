@@ -6,11 +6,13 @@ session: 8
 summary: "The party fights through the remaining hag lair, recovers their stolen gear, defeats the lair's fleshy heart to escape the nightmare, and awakens in Phandalin — where Patches accidentally bonds with the cursed dagger of Orcus."
 people:
   - "aliyah-faen-tlabbar"
+  - "chani"
+  - "doc"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lothli"
   - "orcus"
-  - "ront"
   - "tarkathee-daru"
 places:
   - "phandalin"

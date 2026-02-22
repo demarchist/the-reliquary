@@ -14,6 +14,7 @@ people:
   - "finn"
   - "gromph-baenre"
   - "gundren-rockseeker"
+  - "intent"
   - "jarlaxle"
   - "li-xian"
   - "lolth"

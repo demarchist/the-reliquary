@@ -12,6 +12,7 @@ people:
   - "ella"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "ront"
   - "snorbul"

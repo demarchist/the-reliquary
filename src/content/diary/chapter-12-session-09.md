@@ -26,6 +26,7 @@ places:
   - "shadowfell"
 things:
   - "bag-of-holding"
+  - "talon"
 factions:
   - "cult-of-zalaam"
 events:

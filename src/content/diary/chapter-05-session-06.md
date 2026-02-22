@@ -10,6 +10,7 @@ people:
   - "feanon-serinde"
   - "gowain"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "izek"
   - "morgantha"

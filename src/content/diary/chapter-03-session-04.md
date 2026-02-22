@@ -7,12 +7,15 @@ summary: "The group infiltrates Lord Fendrel's restricted wing — solving puzzl
 people:
   - "aliyah-faen-tlabbar"
   - "chani"
+  - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"
   - "tarkathee-daru"
+things:
+  - "tavern-of-doors"
 factions:
   - "duergar-faction"
 ---

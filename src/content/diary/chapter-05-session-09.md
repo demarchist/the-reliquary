@@ -12,6 +12,7 @@ people:
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "madame-eva"
   - "ront"
   - "shar"

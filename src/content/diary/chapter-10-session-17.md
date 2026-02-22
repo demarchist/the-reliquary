@@ -10,6 +10,7 @@ people:
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "megno-slatesunder"
   - "pickles"
   - "tarkathee-daru"

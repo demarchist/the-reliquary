@@ -13,7 +13,7 @@ people:
   - "tarkathee-daru"
   - "zhink"
 places:
-  - "snorbuls-hole"
+  - "feanons-tower"
   - "the-bog"
 things:
   - "gwen"

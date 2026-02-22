@@ -13,6 +13,7 @@ people:
   - "droki"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"
   - "orcus"
@@ -30,6 +31,7 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
+  - "hew"
   - "tavern-of-doors"
 factions:
   - "bregan-daerthe"

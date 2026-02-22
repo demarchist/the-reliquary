@@ -14,6 +14,7 @@ people:
   - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "jareem"
   - "liara"

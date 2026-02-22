@@ -5,6 +5,7 @@ chapterTitle: The Demon Lords
 session: 11
 people:
   - "aliyah-faen-tlabbar"
+  - "barthen"
   - "beryan"
   - "chani"
   - "cirrus-al-kayan"
@@ -12,6 +13,7 @@ people:
   - "feanon-serinde"
   - "gruttag"
   - "gundren-rockseeker"
+  - "intent"
   - "lady-faye"
   - "lemerlais"
   - "lolth"
@@ -38,6 +40,7 @@ places:
   - "underdark"
 things:
   - "bag-of-holding"
+  - "hew"
   - "iron-tome"
   - "tavern-of-doors"
   - "well-of-many-worlds"

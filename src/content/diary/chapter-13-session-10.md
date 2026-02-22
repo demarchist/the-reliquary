@@ -11,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "hohonu"
   - "horatio-von-bumidere"
+  - "intent"
   - "tarkathee-daru"
   - "vecna"
 places:

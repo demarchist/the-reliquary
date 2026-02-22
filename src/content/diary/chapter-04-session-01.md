@@ -8,9 +8,11 @@ people:
   - "aliyah-faen-tlabbar"
   - "doc"
   - "feanon-serinde"
+  - "foxy-crazy"
   - "goblin-king"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
   - "mediocris-dente"
@@ -20,9 +22,9 @@ people:
   - "zhink"
 places:
   - "astral-plane"
-  - "baldurs-gate"
   - "goblin-town"
 things:
+  - "hew"
   - "tavern-of-doors"
 factions:
   - "duergar-faction"

@@ -13,6 +13,7 @@ people:
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "irmesk"
   - "jack-mayer-johnson-mathews"

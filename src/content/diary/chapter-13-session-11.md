@@ -9,6 +9,7 @@ people:
   - "feanon-serinde"
   - "hohonu"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"
   - "ront"

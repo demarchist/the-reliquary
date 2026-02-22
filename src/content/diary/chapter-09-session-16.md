@@ -13,6 +13,7 @@ people:
   - "gaddock"
   - "gundren-rockseeker"
   - "gurnik"
+  - "intent"
   - "lolth"
   - "ront"
   - "tarkathee-daru"

@@ -12,6 +12,7 @@ people:
   - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "kenshi"
   - "orcus"
   - "ront"

@@ -12,6 +12,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "ront"
   - "snorbul"
@@ -28,6 +29,7 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
+  - "hew"
   - "piwafwi"
 factions:
   - "bregan-daerthe"

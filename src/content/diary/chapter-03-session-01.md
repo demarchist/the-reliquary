@@ -10,13 +10,17 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
   - "lodan"
   - "tarkathee-daru"
 places:
+  - "astral-plane"
+  - "baldurs-gate"
   - "ethereal-plane"
 things:
+  - "guinevere"
   - "tavern-of-doors"
 ---
 

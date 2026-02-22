@@ -8,10 +8,12 @@ people:
   - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "tarkathee-daru"
   - "zhink"
 places:
   - "goblin-town"
+  - "the-bog"
 ---
 
 Tark struggled against the grasping hands but could not break free — the wall tickled him instead of crushing him. Fëanon read the creature's mind and heard a single word: *FEED.* He relayed this telepathically, and the group assumed the worst. Zhink jumped in after Tark and was immediately caught. Doctor Breakfast sprayed poison onto the wall while Fëanon launched a lightning bolt and Buumi blessed those around him.

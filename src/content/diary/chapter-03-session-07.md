@@ -5,9 +5,10 @@ chapterTitle: Baldur's Gate
 session: 7
 summary: "The group opens the wraith sarcophagi, discovers Cirrus' dark pact with the tooth fairy Mediocris Dente, navigates a gauntlet of traps through the ancient ruins, and activates the color-coded crystal system to unlock the final door."
 people:
+  - "cirrus-al-kayan"
   - "doc"
-  - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lothli"
   - "mediocris-dente"

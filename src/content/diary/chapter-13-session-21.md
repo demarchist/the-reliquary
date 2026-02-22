@@ -11,6 +11,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "jareem"
   - "madame-eva"
@@ -28,6 +29,7 @@ places:
   - "the-establishment"
 things:
   - "delzoun-instant-fortress"
+  - "hew"
   - "saurian-firelance"
 factions:
   - "faerun-defense-force"

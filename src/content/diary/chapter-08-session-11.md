@@ -11,6 +11,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "orcus"
   - "pickles"
@@ -26,6 +27,7 @@ places:
 things:
   - "eclipse"
   - "luck-blade"
+  - "talon"
 factions:
   - "drow-faction"
   - "duergar-faction"

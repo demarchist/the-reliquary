@@ -8,7 +8,6 @@ people:
   - "aliyah-faen-tlabbar"
   - "doc"
   - "feanon-serinde"
-  - "ront"
   - "tarkathee-daru"
 places:
   - "the-labyrinth"

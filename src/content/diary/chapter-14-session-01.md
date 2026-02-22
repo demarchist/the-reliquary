@@ -17,7 +17,7 @@ people:
   - "jack-mayer-johnson-mathews"
   - "jarlaxle"
   - "lathander"
-  - "lo-dan"
+  - "lodan"
   - "pickles"
   - "ront"
   - "ruthir"
@@ -38,6 +38,8 @@ places:
   - "silverymoon"
   - "the-establishment"
   - "vaasa"
+things:
+  - "hew"
 factions:
   - "amnians"
   - "bregan-daerthe"

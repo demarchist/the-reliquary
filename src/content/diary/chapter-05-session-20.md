@@ -14,6 +14,7 @@ people:
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"
   - "moradin"

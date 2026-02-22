@@ -12,6 +12,7 @@ people:
   - "goblin-king"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "jack-mayer-johnson-mathews"
   - "lathander"
@@ -33,6 +34,7 @@ things:
   - "bag-of-holding"
   - "gwen"
   - "luck-blade"
+  - "talon"
   - "tavern-of-doors"
   - "the-reaver"
 factions:

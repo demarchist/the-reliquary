@@ -13,6 +13,7 @@ people:
   - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
+  - "intent"
   - "kenshi"
   - "madame-eva"
   - "mediocris-dente"
@@ -28,6 +29,7 @@ places:
   - "underdark"
 things:
   - "gwen"
+  - "hew"
   - "tavern-of-doors"
 factions:
   - "bregan-daerthe"

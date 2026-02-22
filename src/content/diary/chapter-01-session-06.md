@@ -6,14 +6,20 @@ session: 6
 summary: "The party defeats the wraith Mormesk, frees the Spectators, claims powerful loot from the Spellforge chamber, and confronts the Black Spider — only for the Drow to let them do it, watching as Gundren executes Nezzan with his thundercannon."
 people:
   - "aliyah-faen-tlabbar"
+  - "black-spider"
+  - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "lodan"
   - "nezzan"
   - "tarkathee-daru"
 places:
   - "neverwinter"
+  - "the-chasm"
 things:
+  - "jade-frog"
+  - "spellforge"
   - "tavern-of-doors"
   - "thundercannon"
 factions:

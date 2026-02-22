@@ -9,6 +9,7 @@ people:
   - "ella"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "selune"
   - "snorbul"
   - "tarkathee-daru"

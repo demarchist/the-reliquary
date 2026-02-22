@@ -12,6 +12,7 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "ingrbotha"
+  - "intent"
   - "li-xian"
   - "madame-eva"
   - "megno-slatesunder"

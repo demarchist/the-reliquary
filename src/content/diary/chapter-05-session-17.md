@@ -10,6 +10,7 @@ people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "lathander"
   - "mordenkainen"
@@ -29,6 +30,7 @@ places:
   - "oerth"
 things:
   - "bag-of-holding"
+  - "hew"
   - "luck-blade"
   - "the-last-word"
   - "tome-of-strahd"

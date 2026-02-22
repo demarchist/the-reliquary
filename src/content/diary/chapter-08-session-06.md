@@ -11,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "ilvara-mizzrym"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "kenshi"
   - "lemerlais"
@@ -31,6 +32,7 @@ places:
 things:
   - "bag-of-holding"
   - "piwafwi"
+  - "talon"
 factions:
   - "derro-faction"
   - "drow-faction"

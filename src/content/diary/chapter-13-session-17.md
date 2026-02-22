@@ -11,6 +11,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hasrala"
+  - "intent"
   - "jareem"
   - "lolth"
   - "sultan-bashir"

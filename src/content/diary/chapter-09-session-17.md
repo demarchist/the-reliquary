@@ -11,6 +11,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
+  - "intent"
   - "lolth"
   - "snorbul"
   - "tarkathee-daru"

@@ -20,6 +20,8 @@ places:
   - "snorbuls-hole"
   - "the-bog"
   - "the-establishment"
+things:
+  - "talon"
 factions:
   - "drow-faction"
 ---

@@ -19,6 +19,7 @@ people:
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "karsus"
   - "lady-faye"
@@ -56,6 +57,7 @@ places:
   - "underdark"
 things:
   - "gwen"
+  - "hew"
   - "tavern-of-doors"
   - "the-last-word"
 factions:

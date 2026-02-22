@@ -6,14 +6,19 @@ session: 2
 summary: "The party begins clearing Sha'Alazzi's iron tower — charming bearded devils on the library floor, solving the elemental steam puzzle, and fighting a worm-infested undead horror in the guest chambers."
 people:
   - "aliyah-faen-tlabbar"
+  - "doc"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lothli"
   - "ront"
   - "sha-alazzi"
 places:
   - "feanons-tower"
+things:
+  - "the-reaver"
+  - "thundercannon"
 ---
 
 The group found themselves no longer in Sha'Alazzi's tent but standing in what appeared to be the bottom floor of a tower. The room was octagonal — part entryway, part library, with bookshelves and reading desks arranged throughout. Ahead, a large staircase led up a level, but in front of it loomed two horned creatures. Seven feet tall, with pointed horns, elongated heads, and flickering tongues, the two bearded devils hefted their greatswords with supernatural ease.

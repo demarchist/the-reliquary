@@ -10,6 +10,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
+  - "intent"
   - "juiblex"
   - "ront"
   - "snorbul"

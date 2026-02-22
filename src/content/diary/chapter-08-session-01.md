@@ -17,6 +17,7 @@ people:
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "karsus"
   - "li-xian"

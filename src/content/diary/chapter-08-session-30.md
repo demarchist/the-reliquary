@@ -11,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "hemeth"
   - "horatio-von-bumidere"
+  - "intent"
   - "ront"
   - "snorbul"
   - "tarkathee-daru"

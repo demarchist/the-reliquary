@@ -12,6 +12,7 @@ people:
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jarlaxle"
   - "kimmuriel"
   - "lolth"

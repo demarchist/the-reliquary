@@ -12,6 +12,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "lord-neverember"
   - "mediocris-dente"
   - "mordenkainen"
@@ -25,6 +26,7 @@ places:
   - "the-establishment"
 things:
   - "gwen"
+  - "hew"
   - "tavern-of-doors"
   - "thundercannon"
 events:

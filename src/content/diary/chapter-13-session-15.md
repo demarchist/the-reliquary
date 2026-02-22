@@ -11,6 +11,7 @@ people:
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "vecna"
 places:
   - "barovia"

@@ -5,13 +5,16 @@ chapterTitle: The Bog
 session: 2
 summary: "The group descends into a vast extradimensional bog beneath the Tavern of Doors, several companions are transformed into worms by the plane's magic, and Buumi stumbles into a Black Dragon's lair — charming his way out of being eaten by charming the dragon herself."
 people:
+  - "demetrius"
   - "doc"
   - "feanon-serinde"
+  - "foxy-crazy"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "lothli"
   - "tarkathee-daru"
 places:
+  - "feanons-tower"
   - "goblin-town"
   - "the-bog"
   - "the-labyrinth"

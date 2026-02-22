@@ -10,6 +10,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "lady-faye"
   - "madame-eva"
   - "megno-slatesunder"

@@ -10,6 +10,7 @@ people:
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "kangaxx"
   - "lathander"
   - "lothli"
   - "orcus"
@@ -17,6 +18,7 @@ people:
 places:
   - "barovia"
   - "feanons-tower"
+  - "the-establishment"
 factions:
   - "the-brotherhood"
 ---

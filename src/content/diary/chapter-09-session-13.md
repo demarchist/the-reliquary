@@ -12,6 +12,7 @@ people:
   - "gruttag"
   - "gundren-rockseeker"
   - "gurnik"
+  - "intent"
   - "juiblex"
   - "lolth"
   - "moot"
@@ -24,6 +25,7 @@ places:
   - "gravenhollow"
   - "underdark"
 things:
+  - "hew"
   - "thundercannon"
 factions:
   - "drow-faction"

@@ -6,9 +6,11 @@ session: 3
 summary: "The party finishes clearing the iron tower — finding the Ruby Earring of Fireballs, negotiating with sauna oozes, shattering a forge illusion, and defeating a chain devil at the summit before being returned to Sha'Alazzi."
 people:
   - "aliyah-faen-tlabbar"
+  - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lothli"
   - "sha-alazzi"

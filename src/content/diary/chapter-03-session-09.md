@@ -7,6 +7,7 @@ summary: "The group battles the Alhoon and its Stone Golem in a desperate fighti
 people:
   - "aliyah-faen-tlabbar"
   - "chani"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -16,7 +17,9 @@ people:
   - "ront"
   - "tarkathee-daru"
   - "veygar"
+  - "zhink"
 places:
+  - "baldurs-gate"
   - "silverymoon"
   - "the-moonwood"
   - "underdark"
@@ -25,6 +28,8 @@ things:
 factions:
   - "bregan-daerthe"
   - "drow-faction"
+  - "duergar-faction"
+  - "illithid-faction"
 ---
 
 JmJm leaped onto his animated carpet and rode it forward to attack the Alhoon, swiping at the creature with his smoking cutlass and landing several good hits. The Stone Golem seized the carpet from the air, and the Alhoon disintegrated it with a casual touch. JmJm stared in disbelief at the creature's power, decided he was outmatched, and fled the chamber with Steven on his back.

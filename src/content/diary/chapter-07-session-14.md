@@ -13,6 +13,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lathander"
   - "li-xian"
@@ -29,6 +30,7 @@ places:
   - "neverwinter"
   - "waterdeep"
 things:
+  - "hew"
   - "tavern-of-doors"
   - "the-last-word"
 factions:

@@ -11,6 +11,7 @@ people:
   - "dean-sejuk"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "lady-faye"
   - "lemerlais"
   - "mordenkainen"

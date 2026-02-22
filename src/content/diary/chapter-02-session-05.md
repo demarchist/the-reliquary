@@ -11,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "hendrell"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lothli"
   - "moot"
@@ -18,8 +19,6 @@ people:
   - "tarkathee-daru"
 places:
   - "neverwinter"
-  - "silverymoon"
-  - "sundabar"
   - "the-moonwood"
 factions:
   - "drow-faction"

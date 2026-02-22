@@ -10,6 +10,7 @@ people:
   - "hasrala"
   - "hazzim"
   - "horatio-von-bumidere"
+  - "intent"
   - "ront"
   - "tarkathee-daru"
 places:

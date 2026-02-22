@@ -5,12 +5,14 @@ chapterTitle: Silverymoon
 session: 1
 people:
   - "aliyah-faen-tlabbar"
+  - "barthen"
   - "cercei"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gebbin-steeltoe"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "rahadin"
   - "ront"
   - "shar"

@@ -8,6 +8,7 @@ people:
   - "feanon-serinde"
   - "hohonu"
   - "horatio-von-bumidere"
+  - "intent"
   - "orcus"
   - "vecna"
 places:

@@ -6,6 +6,7 @@ session: 1
 people:
   - "aliyah-faen-tlabbar"
   - "aurinax"
+  - "barthen"
   - "cirrus-al-kayan"
   - "demogorgon"
   - "doc"
@@ -15,6 +16,7 @@ people:
   - "gundren-rockseeker"
   - "hemeth"
   - "horatio-von-bumidere"
+  - "intent"
   - "juiblex"
   - "lolth"
   - "orcus"

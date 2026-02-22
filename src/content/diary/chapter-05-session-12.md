@@ -10,6 +10,7 @@ people:
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "kasimir"
   - "madame-eva"
@@ -37,6 +38,7 @@ things:
   - "gwen"
   - "holy-symbol-of-ravenkind"
   - "piwafwi"
+  - "talon"
 factions:
   - "drow-faction"
 ---

@@ -15,6 +15,7 @@ people:
   - "gundren-rockseeker"
   - "gurnik"
   - "horatio-von-bumidere"
+  - "intent"
   - "juiblex"
   - "mordenkainen"
   - "mystra"

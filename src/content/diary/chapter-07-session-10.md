@@ -13,6 +13,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "lady-faye"
   - "lemerlais"
   - "lodan"

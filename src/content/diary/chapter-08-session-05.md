@@ -11,6 +11,7 @@ people:
   - "feanon-serinde"
   - "finn"
   - "gundren-rockseeker"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lolth"
   - "tarkathee-daru"

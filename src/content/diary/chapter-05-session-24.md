@@ -12,6 +12,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"

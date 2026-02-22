@@ -12,6 +12,7 @@ people:
   - "gebbin-steeltoe"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "lady-faye"
   - "lathander"
   - "madame-eva"

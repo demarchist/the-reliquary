@@ -6,6 +6,8 @@ session: 5
 summary: "The sleepers awaken with shared visions of a dark moon and pale nobleman, the party teleports to Wave Echo Cave, and they fight their way through the mine to discover the Spellforge — now absorbed into a jade frog golem."
 people:
   - "aliyah-faen-tlabbar"
+  - "black-spider"
+  - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -14,7 +16,7 @@ people:
   - "madame-eva"
   - "nezzan"
   - "orcus"
-  - "ront"
+  - "shar"
   - "tarkathee-daru"
 places:
   - "astral-plane"

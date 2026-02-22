@@ -25,6 +25,7 @@ places:
   - "underdark"
   - "velkynvelve"
 things:
+  - "hew"
   - "the-last-word"
 factions:
   - "derro-faction"

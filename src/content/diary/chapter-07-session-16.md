@@ -8,10 +8,12 @@ people:
   - "anaxtrasa"
   - "chani"
   - "cirrus-al-kayan"
+  - "demetrius"
   - "doc"
   - "feanon-serinde"
   - "gneiss"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "li-xian"
   - "madame-eva"
@@ -28,6 +30,7 @@ places:
   - "underdark"
 things:
   - "deck-of-illusions"
+  - "hew"
   - "tavern-of-doors"
 factions:
   - "amnians"

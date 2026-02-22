@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "intent"
   - "ront"
   - "snorbul"
   - "thorna"

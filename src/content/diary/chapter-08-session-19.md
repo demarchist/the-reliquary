@@ -12,6 +12,7 @@ people:
   - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "kenshi"
   - "madame-eva"

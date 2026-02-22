@@ -12,13 +12,12 @@ people:
   - "jack-mayer-johnson-mathews"
   - "kangaxx"
   - "lathander"
-  - "madame-eva"
   - "orcus"
-  - "ront"
   - "shar"
   - "tarkathee-daru"
   - "ysera"
 places:
+  - "baldurs-gate"
   - "barovia"
   - "the-crossroads"
 things:

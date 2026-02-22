@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "hazzim"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "megno-slatesunder"
   - "snorbul"

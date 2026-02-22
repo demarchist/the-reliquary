@@ -14,6 +14,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "lady-faye"
   - "lord-neverember"
   - "megno-slatesunder"
@@ -45,6 +46,7 @@ places:
 things:
   - "chardalyn"
   - "eclipse"
+  - "hew"
 factions:
   - "amnians"
   - "bedine"

@@ -13,6 +13,7 @@ people:
   - "gundren-rockseeker"
   - "hemeth"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
   - "snorbul"

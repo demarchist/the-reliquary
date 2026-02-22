@@ -5,12 +5,13 @@ chapterTitle: Phandalin
 session: 4
 summary: "The party raids Cragmaw Castle to recover Gundren's artificer gear, travels to Longsaddle to commission a new wardstone, meets the enigmatic monk Moot, and witnesses a demon's dying prophecy about the Goat Prince."
 people:
+  - "agatha"
   - "aliyah-faen-tlabbar"
+  - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
-  - "lolth"
   - "lothli"
   - "moot"
   - "orcus"
@@ -21,12 +22,14 @@ people:
 places:
   - "astral-plane"
   - "barovia"
+  - "cragmaw-castle"
   - "ivy-mansion"
   - "longsaddle"
   - "neverwinter"
   - "shadowfell"
   - "wave-echo-cave"
 things:
+  - "hew"
   - "piwafwi"
   - "tavern-of-doors"
   - "thundercannon"

@@ -10,6 +10,7 @@ people:
   - "ella"
   - "gowain"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "madame-eva"
   - "mordenkainen"

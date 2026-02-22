@@ -10,6 +10,7 @@ people:
   - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "jareem"
   - "liara"

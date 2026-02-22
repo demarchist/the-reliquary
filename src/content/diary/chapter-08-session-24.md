@@ -10,6 +10,7 @@ people:
   - "ella"
   - "feanon-serinde"
   - "hemeth"
+  - "intent"
   - "madame-eva"
   - "ront"
   - "selune"

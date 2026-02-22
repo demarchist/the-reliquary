@@ -12,16 +12,16 @@ people:
   - "jack-mayer-johnson-mathews"
   - "kangaxx"
   - "lodan"
+  - "lothli"
   - "orcus"
-  - "ront"
   - "shar"
   - "tarkathee-daru"
   - "venomfang"
 places:
   - "abyss"
-  - "barovia"
 things:
   - "artifact-shard"
+  - "hew"
   - "spellforge"
   - "tavern-of-doors"
 factions:

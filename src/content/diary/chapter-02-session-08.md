@@ -9,6 +9,7 @@ people:
   - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "kangaxx"
   - "lodan"
@@ -23,13 +24,12 @@ people:
   - "venomfang"
   - "ysera"
 places:
-  - "abyss"
   - "keep-of-thunder-bluff"
   - "moonstone-mask-inn"
   - "the-chasm"
 things:
-  - "spellforge"
   - "tavern-of-doors"
+  - "the-reaver"
 factions:
   - "bregan-daerthe"
   - "drow-faction"

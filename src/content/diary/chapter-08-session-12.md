@@ -12,6 +12,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "ront"
   - "shar"

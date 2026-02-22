@@ -11,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "harold-ophrella"
   - "horatio-von-bumidere"
+  - "intent"
   - "luumsh"
   - "madame-eva"
   - "megno-slatesunder"

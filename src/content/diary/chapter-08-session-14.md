@@ -12,6 +12,7 @@ people:
   - "gundren-rockseeker"
   - "hemeth"
   - "ilvara-mizzrym"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "kenshi"
   - "madame-eva"

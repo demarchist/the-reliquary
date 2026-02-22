@@ -7,6 +7,7 @@ people:
   - "cirrus-al-kayan"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lathander"
   - "tarkathee-daru"

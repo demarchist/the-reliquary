@@ -11,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"
+  - "intent"
   - "veygar"
 places:
   - "snorbuls-hole"

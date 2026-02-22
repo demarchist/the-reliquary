@@ -13,6 +13,7 @@ people:
   - "goblin-king"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "jack-mayer-johnson-mathews"
   - "lathander"

@@ -9,6 +9,7 @@ people:
   - "ezmerelda"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "orcus"
   - "ront"
   - "snorbul"

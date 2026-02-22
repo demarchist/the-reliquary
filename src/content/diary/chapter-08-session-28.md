@@ -20,6 +20,7 @@ people:
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
   - "li-xian"

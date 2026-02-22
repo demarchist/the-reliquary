@@ -13,6 +13,7 @@ people:
   - "gruttag"
   - "gundren-rockseeker"
   - "gurnik"
+  - "intent"
   - "moot"
   - "snorbul"
   - "tarkathee-daru"

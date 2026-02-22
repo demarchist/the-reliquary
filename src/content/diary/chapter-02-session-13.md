@@ -12,9 +12,14 @@ people:
   - "kimmuriel"
   - "lodan"
   - "madame-eva"
-  - "ront"
+  - "shar"
   - "tarkathee-daru"
   - "ysera"
+places:
+  - "baldurs-gate"
+things:
+  - "artifact-shard"
+  - "the-reaver"
 factions:
   - "drow-faction"
 ---

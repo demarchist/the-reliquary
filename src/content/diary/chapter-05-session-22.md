@@ -32,6 +32,7 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
+  - "talon"
   - "the-last-word"
   - "thundercannon"
 factions:
