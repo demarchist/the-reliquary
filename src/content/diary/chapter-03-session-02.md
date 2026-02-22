@@ -1,8 +1,9 @@
 ---
-title: Baldur’s Gate - Session 2
+title: Baldur's Gate - Session 2
 chapter: 3
-chapterTitle: Baldur’s Gate
+chapterTitle: Baldur's Gate
 session: 2
+summary: "The group confronts the Brotherhood cult, meets the archmage Amaram, accepts a contract to clear the catacombs, and descends into a mausoleum teeming with the walking dead."
 people:
   - "amaram"
   - "doc"
@@ -20,12 +21,22 @@ factions:
   - "the-brotherhood"
 ---
 
-The group is rewarded by the tavern owner for saving them, being given free food and drink while the group rests up and awaits the city guard.  Across the tavern, they see a Tiefling in rags that catches their eye.  The group sends him over some free food and drink and he begins to ingratiate himself with the group.  The city guard arrives relatively quickly, putting JmJm in a deranged panic.
+The tavern owner rewarded the group with free food and drink for saving the establishment. While they ate, they noticed a Tiefling in rags across the room who caught their eye. The group sent over some free food and he began to ingratiate himself with them. The city guard arrived shortly after, sending JmJm into a deranged panic.
 
-The group explains what happened to the city guard, and he asks the group if they would be interested in clearing out the catacombs for a hefty 5000 gold reward (after the new tiefling negotiates a bit for them).  The group readily agrees.  The group also hears that the local archmage; Amaram would like to hear any information on the mists.  The group heads off into the city in the direction of the archmage.  On the way however, they come across a merchant tied to a stake, ready to be burned alive by some fanatics and a mob.  The Brotherhood (cultists) claim that the merchant is a necromancer, and they are cleansing the wicked.  The group quickly talks the mob down, winning them over with a magnificent magical display of power by Fey and some kind words from Tark (while the bard made them more receptive).  Just as the cultists are about to take things up a notch, a squad of Paladins of Lathander - the morning lord - arrive to assist and free the merchant.  The group bullies the merchant into offering a reward, but he attempts to get out of it.  The group follows the Paladins back to their temple, where the Grand Master  asks the group to help with The Brotherhood, he knows there's something fishie about them but they don't have the manpower to investigate with all the undead attacks.  They know the Brotherhood did in fact find a few legitimate necromancers at first, but now things appear to be going the route of a witch hunt.  The group initially declines the quest and head off to the Archmage, Doc B and Buumi head back however to say they will help and in exhange are offered some rare spell scrolls upon completion.
+After the group explained the night's events, the guard offered them a contract: clear the catacombs beneath the city for a hefty five thousand gold reward — the Tiefling negotiating the fee up on their behalf before they even asked. The group readily agreed. They also learned that the local archmage, Amaram, wanted to hear any information about the mists.
 
-The group makes it to the Mage's guild and manage to convince the Door Golems to let them inside.  The group explores the tower and eventually find the archmage and tell him what's been happening.  It sheds a great deal of light on the fog for Amaram.  It's still not too much to go on, but Amaram says he will do some research on Orcus and on the artifact the group now has but that it will take a few days at least.
+## The Brotherhood
 
-the group heads off to the catacombs to clear them out.  Upon arriving at the well guarded district, Lothli meditates to try to sense the undead in the area and determines that a veritable army of them fill the tunnels beneath the graveyard.  Knowing this, the group decides to head into one of the larger mausoleums anyways.  The foyer is empty, but descending into the first major room, the group finds the newest bodies as zombies and quickly destroys them.
+Heading through the city toward the archmage, the group came across a merchant tied to a stake, about to be burned alive by fanatics and a mob. The Brotherhood — a cult that had sprung up in the wake of the undead crisis — claimed the merchant was a necromancer. Fëanon quelled the mob with a magnificent display of magical power while Tark offered kind words, and JmJm made the crowd more receptive with subtle enchantment. Just as the cultists were about to escalate, a squad of Paladins of Lathander arrived to free the merchant.
 
-With more tunnels reaching out before them, the group takes a moment - hearing the scraping a shuffling of the walking dead.
+The group bullied the grateful merchant into offering a reward, though he tried to weasel out of it. They followed the Paladins back to their temple, where the Grand Master asked them to investigate the Brotherhood. The order knew the cultists had found a few legitimate necromancers at first, but the purges were spiraling into witch hunts. The group initially declined, but Doctor Breakfast and Buumi circled back to accept, negotiating rare spell scrolls as payment.
+
+## The Archmage
+
+The group made it to the Mage's Guild and convinced the Door Golems to let them inside. They explored the tower and eventually found Amaram, to whom they recounted the full story — the mists, the artifact, Orcus, Kangaxx's betrayal. It shed considerable light on the situation for the archmage. He said he would research Orcus and the artifact but needed at least a few days.
+
+## The Catacombs
+
+The group headed to the heavily guarded graveyard district to begin clearing the catacombs. Lothli meditated to sense the undead below and determined that a veritable army of them filled the tunnels beneath the graveyard. Knowing this, the group descended into one of the larger mausoleums anyway. The foyer was empty, but in the first major chamber below, the newest bodies had risen as zombies. The group destroyed them quickly.
+
+More tunnels stretched out before them, and from the darkness came the scraping and shuffling of the walking dead.

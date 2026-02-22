@@ -1,8 +1,9 @@
 ---
-title: Baldur’s Gate - Session 4
+title: Baldur's Gate - Session 4
 chapter: 3
-chapterTitle: Baldur’s Gate
+chapterTitle: Baldur's Gate
 session: 4
+summary: "The group infiltrates Lord Fendrel's restricted wing — solving puzzles, charming nobles, fighting animated suits of armor, and cracking the vault — only to discover the whole heist was a Duergar trap."
 people:
   - "aliyah-faen-tlabbar"
   - "chani"
@@ -16,12 +17,30 @@ factions:
   - "duergar-faction"
 ---
 
-The group finds themselves standing in a long hallway.  Tark looks thoughtful for a moment, focusing on his staff before entering the Tavern to mediate on something.  As he does so, Doc B. Sirrus the hobo-tiefling and JmJm leap from the chest, arrayed for adventure!  The two partygoers - Fey and Buumi don their gear, in Fey's case simply dropping an illusion. Feeling insecure about clomping around in his heavy plate, Buumi gets an illusion to look like he's simply wearing a nice suit.  The group explains the situation to Doc B. and JmJm with Sirrus in the background completely ready to loot the place for all it's worth.  Buumi, having none of that lawlessness puts his foot down, adamant the group only steals what they were hired to steal.  The group agrees as Doc B. backs him, however each time something gets stolen, one of the group simply distracts Buumi from the theft.
+Tark paused in the restricted hallway, focused on his staff for a moment, then stepped into the Tavern of Doors to meditate. As he did, Doctor Breakfast, Cirrus the Tiefling warlock, and JmJm leaped out — arrayed for adventure. Fëanon dropped his party disguise with a thought. Buumi, feeling self-conscious about clomping around in full plate at a masquerade, asked Fëanon for an illusion to make him look like he was wearing a nice suit.
 
-The group heads into the restricted area, a beautiful marble affair lined with suits of armor. The group explores, coming across ancient eye constructs, designed to only let certain people through and past their gaze.  The group manages to circumvent enough of them to explore fairly thoroughly.  Eventually they come across a young noble couple, enjoying one another's company who are deeply offended at the interruption - until JmJm lays on the charm and attempts to join them.  Buumi at this point has been drinking quite heavily and simply makes borderline rude and terrible passes at the pretty young noble lady while the rest of the group chats with the man.  The group discovers that in order to get around, they need a magical pendant that marks the wearer as authorized.  Upon seeing that the noble is wearing such a device, Fey immediately puts them to sleep with a spell and the group steals it, with a drunken Buumi taking the time to put the two love birds to bed.
+The group explained the infiltration to the newcomers. Cirrus was thoroughly ready to loot the place for all it was worth. Buumi put his foot down — they would steal only what they were hired to steal. The group agreed, though each time something valuable appeared, someone simply distracted Buumi from the theft.
 
-The group manages to juggle the single pendant to get past the first eye, discovering an expensive wine pantry and picking up a valuable bottle for themselves while Buumi was distracted.  Leaving the wine pantry, the group heads deeper into the structure, eventually finding a secured office, locked with a magical keypad.  Fey, with his wizardly intellect, quikcly deciphers the code and gets the group inside, where they quicky begin ransacking the room.  Discovering a beautiful ruby rose on the desk, Sirrus grabs it, only to suddenly begin to sink into the floor.  Others nearby attempting to help begin to get sucked in as well, until Doc B. sees the illusion for what it is, and shattered it.  The group picked up a spellbook for concealment, the ruby and a bottle of duergar Brandy as well as a higher clearance pendant.
+## The Restricted Wing
 
-Heading back to the main hub room, with a golden shaft leading to the higher levels, the group approaches the central column guarded by many higher security eyes.  One of them approaches and places the pendant in the column, de activating then eyes.  In a flash of magical light however, the eyes scan the room and a moment later the statues surrounding the party begin to animate and attack the group.  In a drunken stupor, Buumi has trouble fighting until he clears his system of alcohol with his righteous powers.  Sirrus begins dishing out heavy hits with his Eldritch blasts but takes several arrows in response, causing him to need a healing potion.  Doc B. in a flash of light calls down a moon beam, incinerating her foes and scouring the battlefield.  JmJm rushes in with his magical rapier trailing smoke and lays into several of the suits and Patches sneak attacks where she can.   Fey'anon hasting and buffing hits a few with fire blasts and in short order, the whole lot are down in smoking heaps.
+The wing was a beautiful marble affair lined with suits of armor. Ancient eye constructs patrolled the corridors, designed to allow only authorized personnel past their gaze. The group managed to circumvent enough of them to explore fairly thoroughly.
 
-With the security dealt with, the group heads up to the next level via the golden central shaft.  At the top, they find themselves outside a beautiful vault with a ringed locking mechanism with images of the sun, moon and stars on them.  Finding an elvish riddle, the group correctly deduces the symbol order and the vault doors swing open, a gaping maw of blackness and shadow before them.  Entering the vault, and breaching the darkness, the group finds….nothing, except a slow clap from behind.  Turning, they see an opulent dwarf, Lord Faendahl, stride forwards and proclaim the groups foolishness, that they delivered to him exactly what he wanted.  Gas hisses into the chamber and the group begins to fall uncocnious, staying awake long enough to see the dwarf fuzz into nothingness - an illusion.  Sirrus manages to make it to the elevator in time to see a squad of grey dwarves in gas masks ascending towards him and then darkness as unconsciousness took him.
+They came across a young noble couple enjoying each other's company in a secluded alcove, deeply offended at the interruption — until JmJm turned on the charm. Buumi, who had been drinking quite heavily, made borderline terrible passes at the young noblewoman while the rest of the group chatted with her companion. They noticed he was wearing a magical pendant that marked the wearer as authorized. Fëanon immediately put both nobles to sleep, and the group stole the pendant. A drunken Buumi took the time to tuck the two lovebirds into bed before they moved on.
+
+## The Office
+
+Juggling the single pendant to get past the eye constructs, the group discovered an expensive wine pantry — liberating a valuable bottle while Buumi was distracted — then pushed deeper into the structure. They found a secured office locked with a magical keypad. Fëanon deciphered the code quickly, and the group began ransacking the room.
+
+Cirrus grabbed a beautiful ruby rose from the desk and immediately began sinking into the floor. Others rushing to help started getting pulled in as well, until Doctor Breakfast saw the illusion for what it was and shattered it. The group recovered a spellbook, the ruby, and a bottle of Duergar brandy — along with a higher-clearance pendant.
+
+## The Animated Armor
+
+Returning to the main hub, the group approached the central golden column guarded by high-security eye constructs. Placing the higher-clearance pendant in the column deactivated the eyes — but triggered a flash of light that scanned the room. A moment later, every suit of armor lining the walls animated and attacked.
+
+In his drunken stupor, Buumi struggled to fight until he purged the alcohol from his system with divine power. Cirrus hammered the suits with Eldritch blasts but took several arrows in return. Doctor Breakfast called down a searing moonbeam that scoured the battlefield. JmJm rushed in with his smoking rapier, and Patches struck from the shadows wherever she could. Fëanon cast haste and buffs before adding fire blasts of his own. The animated suits went down in smoking heaps.
+
+## The Vault
+
+The golden shaft carried the group to the upper level, where they found a vault sealed with a ringed locking mechanism bearing images of the sun, moon, and stars. An elvish riddle guarded the combination. The group correctly deduced the symbol order and the vault doors swung open onto a gaping maw of darkness.
+
+They stepped inside and found nothing — except a slow clap from behind. An opulent dwarf, Lord Faendral, strode forward and proclaimed the group's foolishness: they had delivered exactly what he wanted. Gas hissed into the chamber. As consciousness faded, the group saw the dwarf dissolve into nothing — an illusion. Cirrus managed to stumble toward the elevator in time to see a squad of grey dwarves in gas masks ascending toward him before darkness took him.

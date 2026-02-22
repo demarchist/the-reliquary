@@ -1,8 +1,9 @@
 ---
-title: Baldur’s Gate - Session 6
+title: Baldur's Gate - Session 6
 chapter: 3
-chapterTitle: Baldur’s Gate
+chapterTitle: Baldur's Gate
 session: 6
+summary: "The group ambushes a Duergar gemstone-infusing workshop, battles invisible assassins, and uses the infused crystals to unlock deeper sections of the ancient ruins before barricading for a long rest."
 people:
   - "feanon-serinde"
   - "horatio-von-bumidere"
@@ -13,4 +14,10 @@ factions:
   - "duergar-faction"
 ---
 
-Getting up from their short rest, the group heads down the hallway cautiously after making such a racket in the purple room.  Scouting ahead, Tark comes up to a doorway, locked, and looks through the keyhole.  On the other side he sees six Duergar in the room.  Several are working a set of three plinths holding colored gemstones.  A pile of clear crystals are in the corner awaiting to be infused.  Pulling back from the door, the group decides to bide their time, distracting several of the Duergar with a complex illusion spell from Cyrrus while Fey tries to snatch the newly infused gem through the door during the distraction.  Succeeding excellently, the plan is foiled by the locked door as the gem smashes into the lock, buckling a bit of the door.  Buumi preps his shield and armor, preparing to kick the door in the second a Duergar comes to investigate the gemstone that zipped into the lock.  Judging his timing, buumi smashes down the door, into the Duergar.  The dark dwarf however reacts blindingly fast, taking the door on his shield instead of his face and the group storm into the room.  Spells and arrows fly, with the group rushing into melee to focus fire.  Guenwhyvar leaps into the room, bearing one Dwarf to the ground, while Buumi engages the closest.  Another is put to sleep and another is entagled in druidic vines.  Lothli lays down a barrage of fire, and an illusion of a Gold dragon appears, startling the Dwarves.  The Dwarves are slaughtered quickly.  Just as the fight is about to end, one of the Duergar, disappears from sight using her innate powers of invisibility.  Before the group can cover the door, the assassin slipped from the room, leaving the group exhausted from the quick but furious battle.  Infusing one of the clear gems with purple energy, which the group uses to open the previously locked room that they couldn’t break into. Inside they find a chest containing three greater healing potions and an Oil of Sharpness. The group then heads back to the undead containing sarcophagi room, unwilling to leave potential enemies behind them and then barricade the room for a long rest and planning session.
+Rested and ready, the group advanced cautiously down the hallway. Tark scouted ahead and peered through a keyhole to find six Duergar in a workshop on the other side. Several were working a set of three plinths holding colored gemstones, with a pile of clear crystals in the corner awaiting infusion.
+
+The group hatched a plan: Cirrus would distract several Duergar with a complex illusion while Fëanon used mage hand to snatch a newly infused gem through the door. The illusion worked beautifully, but the plan was foiled by the locked door — the gem smashed into the lock, buckling the wood. Buumi readied himself and judged his timing, kicking the door in the instant a Duergar came to investigate. The grey dwarf reacted with blinding speed, catching the door on his shield instead of his face, but the group stormed in regardless.
+
+Spells and arrows flew. Guenwhyvar leaped in and bore one dwarf to the ground. Buumi engaged the nearest while another was put to sleep and a third was entangled in druidic vines. Lothli laid down a barrage of fire, and an illusion of a gold dragon appeared, startling the Duergar. The grey dwarves were slaughtered quickly — but just as the fight ended, one of them vanished using her innate powers of invisibility. The assassin slipped from the room before anyone could cover the door.
+
+Using the workshop's plinths, the group infused a clear crystal with purple energy and used it to open the previously locked cage room, recovering three Greater Healing Potions and an Oil of Sharpness. They then returned to the sarcophagi room — unwilling to leave potential enemies behind them — and barricaded the chamber for a long rest.

@@ -1,8 +1,9 @@
 ---
-title: Baldur’s Gate - Session 8
+title: Baldur's Gate - Session 8
 chapter: 3
-chapterTitle: Baldur’s Gate
+chapterTitle: Baldur's Gate
 session: 8
+summary: "The group enters the deepest chamber to find Patches and Lady Faye held captive by the Duergar leader Veygar, battles grey dwarves, mechanical spiders, and a Stone Golem — then an Alhoon emerges from a portal, seizing control of the golem and unleashing a new wave of enemies."
 people:
   - "aliyah-faen-tlabbar"
   - "chani"
@@ -23,14 +24,22 @@ factions:
   - "illithid-faction"
 ---
 
-The door opened in front of the group and those out of the box readied themselves.  Just before the door fully opened, Gundren, Doc. B and JmJm all exited the box, recuperated and ready to find Patches and Lady Faye.
+The final door opened onto a declining corridor. Just before advancing, Gundren, Doctor Breakfast, and JmJm emerged from the Tavern of Doors — rested and ready to find Patches and Lady Faye.
 
-The group walked down a declining corridor.  Ahead of them was a large chamber, lit with glowing crystals.  At the far end of the large chamber a foyer-like set of double stairs led up to a large Dais, with some manner of decorative stone statue overlooking a set of stone rings.  In front of the ring, A Duergar Dwarf.  Veygar, the deep dwarf that had been impersonating Lord Feyndral, welcomed the group.  Attempting to bargain with the group, he showed them that he had captured Patches and Lady Faye.  Immediately enraged at the sight of a bound Patches, Tark charged with a shout.  As he crossed into the rooms threshold however, he was immediately paralyzed by a magical glyph trap.  The stone ring behind Veygar began to shine with light and two more Duergar seemed to materialize out of nowhere.  Verygar shot at Tark with a heavy repeating crossbow, Fey managed to cast Hold person on one of the Duergar and the rest of the team began to lay down fire (magical and otherwise). Buumi quickly ran up behind Tark, touching him and restoring Tark's movement.
+## Veygar
 
-The next moment however, two Duergar step from behind cover and attack, clipping Tark but doing no Damage to Buumi.  Battling the Duergar, the group managed to do some serious damage, but before too long Veygar pressed a button on a staff he was holding and four mechanical spiders climb from the pillars in the room to attack.
+The corridor opened into a large crystal-lit chamber. At the far end, a foyer of double stairs led up to a dais, behind which sat a decorative stone statue overlooking a set of stone rings. In front of the rings stood a Duergar — Veygar, the deep dwarf who had been impersonating Lord Faendral. He welcomed the group and attempted to bargain, revealing Patches and Lady Faye bound behind him.
 
-Battling the Dwarves and Spiders now, the group found themselves beset by many enemies, but were successfully holding them off, killing a spider and two Duergar warriors.  Just when the group thought they had the upper hand, Veygar pressed another button, and the statue behind the Dais started to rumble to life.  The Stone Golem strode into battle to smash into Tark.  Realizing the predicament he was soon to be in, Tark dispatched the Duergar cleric he was dealing with and then retreated from the Golem, but not before snatching Patches earring of fireballs.  Recognizing the serious danger, JmJm used a great deal of magic from his brooch to animate the massive rug in the room, creating a huge animated object.  The rug quickly helped dispatch the last standing Duergar the group could see, by rolling itself up and hammering him as if he was a nail…
+Tark saw Patches in chains and charged with a shout. As he crossed the threshold, a magical glyph paralyzed him mid-stride. The stone ring behind Veygar blazed to life and two more Duergar materialized. Veygar opened fire with a heavy repeating crossbow. Fëanon managed to hold one of the Duergar with a spell while the rest of the group laid down covering fire. Buumi sprinted to Tark and broke the paralysis with a touch.
 
-Veygar and a Duergar assassin harassed the group, using invisibility and expert stealth.  The Stone Golem began to turn to the group, just as the last remaining mechanical spiders were destroyed, being shot by Thundercannons and being dropped from ceiling. Suddenly, the portal on the Dais flickered to life, an angry red glow suffusing the room.  A strange otherworldy creature materialized in front of the group. 
+Two more Duergar stepped from cover to engage, clipping Tark but failing to penetrate Buumi's armor. The group began cutting them down — then Veygar pressed a button on his staff. Four mechanical spiders climbed from the pillars to join the fight.
 
-Floating a few feet off the floor, with robes moving as if underwater, the tentacle-faced Illithid took note of the room.  Buumi could feel the wrongness emanating from it and yelled to the group that this was no Mind-Flayer, but an Alhoon, an undead Illithid. Even more deadly.  Floating above the Stone Golem, the Alhoon performed some quick magic, wresting crontrol of the golem.  As it did this, four more mechanical spiders pulled themselves from the wall, surrounding the group.
+## The Stone Golem
+
+Battling both Duergar and spiders, the group held their ground, destroying one spider and two warriors. Just as they gained the upper hand, Veygar pressed another button. The massive stone statue behind the dais rumbled to life and strode into battle, smashing into Tark. Recognizing the danger, Tark dispatched the Duergar cleric he was fighting and retreated from the golem — snatching Patches' ruby earring of fireballs on the way. JmJm poured magic from his brooch to animate the massive rug in the chamber, creating an enormous animated object. The rug rolled itself up and hammered the last visible Duergar like a nail.
+
+Veygar and a Duergar assassin harassed the group from invisibility while the golem advanced. Just as the last mechanical spiders were destroyed, the portal on the dais flickered to life with an angry red glow.
+
+## The Alhoon
+
+A strange creature materialized before the group — floating several feet above the floor, robes drifting as if underwater, tentacles writhing where a face should have been. Buumi felt the wrongness emanating from it and shouted to the group: this was no ordinary Mind Flayer, but an Alhoon — an undead Illithid, even more deadly. The Alhoon floated above the Stone Golem and, with a gesture, wrested control of it. Four more mechanical spiders pulled themselves from the walls, surrounding the group.
