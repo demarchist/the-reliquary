@@ -109,6 +109,16 @@
     "title": "Ancalagon the Void",
     "category": "People"
   },
+  "anduriel": {
+    "slug": "anduriel",
+    "title": "Anduriel",
+    "category": "People"
+  },
+  "the abbot": {
+    "slug": "anduriel",
+    "title": "Anduriel",
+    "category": "People"
+  },
   "argynvost": {
     "slug": "argynvost",
     "title": "Argynvost",
@@ -132,6 +142,16 @@
   "artifact shard": {
     "slug": "artifact-shard",
     "title": "The Celestial Artifact Shard",
+    "category": "Things"
+  },
+  "ashbringer": {
+    "slug": "ashbringer",
+    "title": "Ashbringer",
+    "category": "Things"
+  },
+  "the crystal greatsword": {
+    "slug": "ashbringer",
+    "title": "Ashbringer",
     "category": "Things"
   },
   "the astral plane": {
@@ -1797,6 +1817,11 @@
   "the great beast": {
     "slug": "orcus",
     "title": "Orcus",
+    "category": "People"
+  },
+  "peytr": {
+    "slug": "peytr",
+    "title": "Peytr",
     "category": "People"
   },
   "phandalin": {

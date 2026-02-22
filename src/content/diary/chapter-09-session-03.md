@@ -18,6 +18,7 @@ people:
   - "lady-faye"
   - "lord-neverember"
   - "megno-slatesunder"
+  - "peytr"
   - "ront"
   - "selune"
   - "strahd-von-zarovich"

@@ -1,31 +1,51 @@
 ---
-title: Barovia - Session 4
+title: The Tser Pool
 chapter: 5
 chapterTitle: Barovia
 session: 4
+summary: "The group investigates the Vistani wagon, recruits the half-orc bard Gerwan, destroys a nest of water trolls in the Tser Pool where Mordenkainen fell, and recovers a wand of lightning bolts before climbing the ancient stairs to the high road."
 people:
   - "aliyah-faen-tlabbar"
+  - "chekov"
   - "feanon-serinde"
   - "gerwan"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "ireena"
   - "madame-eva"
   - "mordenkainen"
   - "strahd-von-zarovich"
 places:
+  - "barovia"
   - "tser-pool"
+  - "vallaki"
 things:
   - "book-of-strahd"
   - "gwen"
+  - "thundercannon"
 factions:
   - "vistani"
 ---
 
-The group found themselves discussing the ramifications of the book they found in the Vistani cart.  Going back to try to gather some clues about the cart, they discovered a loose floorboard, under which they find a suit of leather armor, daggers and poisons.  The group is then approached by a half Orc bard, another stranger in this land that had been with the Vistani for about a week.  Seeing other travelers, the half Orc Gerwan enthusiastically asked to be taken with them.  The half Orc also mentions that having stayed with the Vistani for the last week, he would have to tell them if Patches took what she found in the cart.  Reluctantly, Patches "returned" the items.  The group did however question one of the guards whose family owned the wagon.  The Guard claimed that the Book of Strahd was given to her family to safeguard many generations ago and knows nothing of it other than if Madame Eva wants them to have it, they can take it.
+## The Journal and the Half-Orc
 
-Deciding to head back to the main road via the ancient stairs by the Tser Pool, the group heads farther along the river until they make it to the pool at the base of the waterfall - the same pool that The Archmage Mordenkainen supposedly fell into.  Deciding to search the ominously dark and still pool, the group is halted by the realisation that something lurks beneath.  Stepping back and planning, the group decides to cast a series of spells to ensnare the water Trolls they detect.  Striding forwards, staff raised, Fey'Anon causes the water in the centre of the pool for 50ft to swirl into a churning maelstrom.  The Trolls, caught unawares are ensnared and pummeled, two manage to escape temporarily, but Buumi, Gwen, Gerwan and Patches push them back into the maelstrom with a series of attacks.  The trolls, now webbed by patches, getting hit by the Dancing hammer, crossbow bolts from Patches and shot by Gundren, are fully entrapped in the Maelstrom.  The group then throws Grease into the whirlpool, ignites it, and summons a cloud of levitating whirling blades at it's center, quickly shredding and immolating the trapped Trolls.
+The group lingered at Madame Eva's camp, turning over the implications of the Book of Strahd they had found in the Vistani cart. Returning to investigate the wagon further, they discovered a loose floorboard hiding a suit of leather armour, daggers, and poisons — the kit of an assassin, though whose remained a mystery.
 
-Now free of monsters, the group searches the pool for signs of the Archmage.  The only thing they discover is an Iron wrought wand, a wand of Lightning Bolts.  The group then circles the pool and begins to climb the ancient, moss covered and slippery stairs.  Helping the mounts up the incredibly steep angle, with Chekhov and Ireena in tow, the group makes good progress, with no major falls.  A few slips result in some bruises, but the group makes it to the high road, a thousand feet above from the pool.  Back on the main road, with an old stone bridge, guarded by gargoyles behind them, the group decides to sit down for a short rest, with Ireena standing watch as she did not participate in the previous battle.
+A half-orc bard named Gerwan approached them, another stranger trapped in this cursed land. He had been with the Vistani for about a week and was delighted to see other travellers. He asked — with considerable enthusiasm — to be taken along, though he also mentioned that having lived with the Vistani, he would feel obliged to tell them if Patches kept what she had found. Reluctantly, Patches "returned" the items.
 
-** **
+They questioned the guard whose family owned the wagon. She claimed the Book of Strahd had been given to her family to safeguard many generations ago — she knew nothing of its contents, only that if Madame Eva wished the group to have it, they could take it.
+
+## The Tser Pool
+
+The group headed along the river toward the main road, arriving at the pool at the base of the waterfall — the same pool Mordenkainen had supposedly fallen into during his failed assault on Strahd. The water was ominously dark and still. Something lurked beneath.
+
+They formed a plan. Fëanon strode forward, staff raised, and conjured a churning maelstrom in the centre of the pool. The water trolls were caught off guard, dragged into the vortex and pummelled by the spinning current. Two managed to briefly escape, but Buumi, Gwen, Gerwan, and Patches drove them back in with a flurry of attacks. Patches webbed the thrashing creatures in place as Gundren's thundercannon and her crossbow bolts hammered them from above. The group then threw grease into the whirlpool, set it ablaze, and summoned a cloud of whirling blades at its centre. The trolls were shredded and immolated in short order.
+
+With the pool clear, they searched for any trace of the Archmage. All they found was an iron-wrought wand — a wand of lightning bolts, presumably Mordenkainen's.
+
+## The High Road
+
+The group circled the pool and began climbing the ancient moss-covered stairs carved into the cliffside. The ascent was steep and treacherous, slick with moisture. They helped the mounts up the worst sections, with Chekov and Ireena picking their way along. A few slips earned bruises but nothing worse, and after a long climb they reached the high road — a thousand feet above the pool, with an old stone bridge guarded by gargoyle statues behind them.
+
+They sat down for a much-needed rest, with Ireena standing watch. The valley of Barovia spread out below them in all its grey, miserable splendour, the road to Vallaki winding through the mist ahead.

@@ -1,20 +1,18 @@
 ---
-title: Barovia - Session 8
+title: The Festival of the Blazing Sun
 chapter: 5
 chapterTitle: Barovia
 session: 8
+summary: "The group unmasks the vampire hunter Van Richten, shares a prophetic dream revealing two ancient conspirators manipulating Strahd, topples the Burgomaster in a humiliating public spectacle, and unearths the Holy Symbol of Ravenkind beneath the dragon statue at Argynvostholt."
 people:
   - "aliyah-faen-tlabbar"
+  - "argynvost"
   - "atropos"
-  - "bahamut"
   - "boris"
-  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "intent"
   - "ireena"
-  - "izek"
-  - "jack-mayer-johnson-mathews"
   - "kangaxx"
   - "lathander"
   - "madame-eva"
@@ -36,67 +34,88 @@ places:
   - "vallaki"
 things:
   - "holy-symbol-of-ravenkind"
-  - "the-reaver"
 factions:
   - "vistani"
 ---
 
-The Group sits around a table in the Bluewater inn, watching a fancily dressed Half elf descend the stairs to the common room.  Wearing a wide brimmed hat, spectacles and wearing a fine leather overcoat and wielding a walking cane with an ebony handle, the half elf cuts an impressive figure.  The group also notices his age though, that he is clearly quite old for a half Elf, looking more like a fit human in his sixties, but with pointed ears.  The man ignores the group and walks to the bar, making polite and friendly conversation with Urwen, asking for his regular order. The group, intrigued, watches intently.  When the man continues to ignore them, they ask one of the young Martikov boys about him.  they determine his name is Rictavio, a bard from outside of Barovia who has been staying with them for many weeks now and has great stories and is quite friendly.  The man picks up a large raw steak and heads out of the Bluewater, his cane clacking against the floorboards and then wet cobblestones.  Patches decides to tail the man for more information while the group enjoys a breakfast.  Staying in communication with the Rockietalkies, Patches relays what she sees.  Rictavio heads to the Stockyard where the carnival cart is apparently his.  He goes up to it, and opening a small slit drops the steak inside.  Some large creature can be heard eating the steak with happy large chuffing sounds.  Rictavio then sits and talks to the beast for a while before heading back in the direction of the Inn.  Patches investigates the cart, opening the slot when she realizes whatever is inside can sense her.  She discovers a huge armored sabertoothed tiger inside, and it sniffs her with curiosity. Patches leaves and heads after the fast disappearing Ricatvio.  Fey, hearing that Ricavio was on his way, goes to wait for him at the door, making eye contact with the next people to come into the Inn.  Hoping to catch Rictavio, but hitting the Wachter brothers instead as they come inside, knocking them unconscious.   Urwen, furious, berates the careless mage and threatens to kick him out if he can't control his powers, displaying an uncharacteristic insight into magic for a Barovian...Fey heads to the bar and looks at his feel where he can do no more damage.  Patches enters the Inn a few moments later, reporting that Rictavio was heading out of town to the west and not coming back to the inn.   The group decide where to head next, deciding on Argynvolstholt the next day and that they would get some rest after visiting Ireena to make sure she's ok.
+## The Vampire Hunter
 
-Heading down to the Toymakers shop (Buumi remaining behind in the Inn), the group hears the sounds of an argument from within, the group looks in the window to See Ireena, holding a doll of herself, yelling at a large fat man in a jester outfit.  The group heads inside and quickly discovers that Ireena is Irate after discovering that her uncle had been making dolls of her.  After some questioning, the group determines that Blinsky was truly ignorant of who the dolls were meant to represent, that he was bullied into it by Izek.  Ireena, exasperated, does calm down.  While the group talks with Ireena, Blinsky makes a Tark doll for Tark, missing it's eyes and with large claws and begins working on a large JmJm doll.  The group asks Ireena if she would take control of the city if it was given to her by the group.  While she admits that the Burgomaster is definitely crazier than when she was last here, she's not entirely sure and retires to her room.  The group heads back to the Bluewater inn.
+The finely dressed half-elf descended the stairs to the common room of the Bluewater Inn. He wore spectacles and a leather overcoat and carried a walking cane with an ebony handle — clearly old for a half-elf, looking more like a fit human in his sixties. He ignored the group entirely, made pleasant conversation with Urwen at the bar, collected his regular order and a large raw steak, and departed.
 
-Before they all retire, the two trappers in the inn offer their services as guides for an inordinate sum of gold.  The group refuses, but Tark ends up playing dice for some gold, while Patches and Buumi join the two for a smoke of pipe-weed and Buumi tries, hopelessly to hit on Patches.
+Patches tailed him. Via the group's communication devices she relayed what she saw: Rictavio headed to the stockyard, where the carnival cart turned out to be his. He opened a small slot and dropped the steak inside. Something large ate it with happy chuffing sounds. He sat and spoke to the beast for a while before heading back toward the inn. Patches investigated the cart and found a huge armoured sabretooth tiger inside, which sniffed at her with curiosity. She left and followed Rictavio, but the man had vanished.
 
-Tark retires to his room first, intent to meditate on Argynvolstholt and Ysera's Scale.  One by one, the others move up to the guest rooms until Fey alone, waits downstairs for Rictavio to return.   When the half elf finally does return, he chats amicably with Urwen, taking his meal and then a bushel of apples to his horse in the Stables.  A few minutes after that, he heads up to his room - the large private guest bedroom.  Fey follow him and knocks on his door.  Rictavio answers suspiciously, but is convinced quickly that the group could be potential allies.  He reveals himself as a human Vampire hunter in disguise, named Van Richten, and he is in the Valley to kill Strahd as his last.  After some potentially ill fated words, Fey attempts to charm Van Richten, not knowing he is immune from a magic item.  Feeling the intrusion fail against his mind, Van, outraged draws his sword cane and demands Fey leaves his room.  Fey, confused why his charm did not work, retires for the evening.  The group sleeps through the night, but they all share a strange dream:
+Back at the inn, Fëanon positioned himself at the door to catch Rictavio's return — but hit the Wachter brothers instead as they walked in, knocking both unconscious with an accidental psychic blast. Urwen, furious, threatened to evict Fëanon if he could not control his powers. The chastened wizard retreated to the bar.
 
-They find themselves in a grey expanse of mist, with a plane of water extending in all directions.  It’s neither cold, nor warm, it simply…is.
+That evening, when Rictavio finally returned, Fëanon followed him to his private room and knocked. The half-elf was suspicious but allowed himself to be drawn into conversation. He revealed himself as Rudolph Van Richten, a human vampire hunter in magical disguise, in the valley to kill Strahd as his final hunt. When Fëanon attempted to charm him — a poor decision — the spell broke against a protective amulet. Van Richten drew his sword-cane and ordered Fëanon out at blade-point.
 
-Suddenly, reflected in the expanse of water, they see  a flash of images: An old, once grand manor, now crumbling, a statue of a dragon out front.  A massive living dragon, luminous silver, the size of a small mountain and majestic beyond compare.  The sight of it makes your heart soar.  Ysera’s golden scale, glowing in a void of darkness.  An old wisened and kind face, one that they recognize – Moot, the old monk. 
+## The Dream
 
-And they hear, insistently, but quietly “listen!  You must, LISTEN!”
+That night, the entire group shared the same dream.
 
-The world goes dark and the mists resolve themselves into two distinct shapes.  A tall straight figure of mist, and one shorter and hunched, shuffling around in what appears to be a small room.
+They stood in a grey expanse of mist above an infinite plane of still water. Images flashed in the reflection: an old manor, once grand, now crumbling, with a dragon statue out front. A living silver dragon, luminous and majestic, the size of a small mountain. Ysera's golden scale, glowing in darkness. The kind, wise face of Moot — the old monk they knew.
 
-They can hear two voices, one regal and calm, the other withered and rasping:
+A voice, quiet but insistent: *"Listen! You must LISTEN!"*
 
- “I checked the perimeter.  I found what was left of him”.
+The mist resolved into two figures. One tall and straight, the other shorter and hunched, shuffling in what appeared to be a small room. Two voices — one regal and calm, the other withered and rasping:
 
- “Kangaxx always was a fool.  Why Orcus chose him as the third, I will never know”. 
+*"I checked the perimeter. I found what was left of him."*
 
- “It matters little, the Shard is in Barovia, he fulfilled his purpose.  I have mentioned it to Strahd, that it opens up…possibilities”.
+*"Kangaxx always was a fool. Why Orcus chose him as the third, I will never know."*
 
- “hmmm, Indeed, the time is almost upon us!  Atropos nears the material and we MUST be ready.  What of this new group?”.
+*"It matters little. The Shard is in Barovia — he fulfilled his purpose. I have mentioned it to Strahd, that it opens up… possibilities."*
 
- “By all accounts they are formidable, they killed Morgantha and her daughters easily enough.  It appears that they cannot use the shard though, or they would have already left”.
+*"The time is almost upon us! Atropos nears the material and we MUST be ready. What of this new group?"*
 
- ***chuckles*** “No mortal can handle that power, even for us it would be…traumatic”.  ***pause***  “You have prepared Strahd to leave Barovia?”.
+*"By all accounts they are formidable. They killed Morgantha and her daughters easily enough. It appears they cannot use the Shard, or they would have already left."*
 
- “I have, but there is an issue.  The girl has been reborn, despite our…interference”.
+*"No mortal can handle that power. Even for us it would be… traumatic." A pause. "You have prepared Strahd to leave Barovia?"*
 
- “Gah! Curse that stupid whore, she is not good enough for our boy!  Fix it, kill her!  There is not enough time for her soul to cycle back through”.
+*"I have, but there is an issue. The girl has been reborn, despite our… interference."*
 
- “…I do not believe that He will leave, knowing that before long she will resurface again.  We need a different solution”.
+*"Curse that stupid whore! She is not good enough for our boy! Fix it — kill her! There is not enough time for her soul to cycle back through."*
 
-“The Elf girl? Patrina?”
+*"I do not believe he will leave, knowing that before long she will resurface again. We need a different solution."*
 
- “no, she is still trapped.  However, this new group carries with them another artifact, one that may rid us of several problems”.
+*"The elf girl? Patrina?"*
 
- “Intriguing.  Go forth, execute your plans.  But, be careful my love.  We have not sunk fifteen centuries into this place, into our boy, only to be undone by a group of hapless adventurers, and not even the most powerful we have seen!”
+*"No, she is still trapped. However, this new group carries with them another artifact, one that may rid us of several problems."*
 
- “Do not fret my dear, as with all things, I will be subtle and the Planeswalker Mordenkainen has been rendered…ineffectual, his items of power scattered.”
+*"Intriguing. Go forth, execute your plans. But be careful, my love. We have not sunk fifteen centuries into this place, into our boy, only to be undone by a group of hapless adventurers — and not even the most powerful we have seen."*
 
-***pleased mumbles of assent***   “good, good…”.
+*"Do not fret, my dear. As with all things, I will be subtle. And the Planeswalker Mordenkainen has been rendered… ineffectual. His items of power, scattered."*
 
-The misty figures disperse, and you are left in the dream void.  After a moment, that too fades and you wake with a start…
+The figures dispersed. The dream faded.
 
-The group awakes well rested, to discover that they all had the same dream.  Unsure of what transpired, they discuss what they each heard, and what they think it means.  The group concludes that whoever these two are, they expected Kangaxx, and want the Artifact he was seeking.  They appear to be manipulating Strahd in some way, and likely seek to harm Ireena to do so.  They also recognize the group as a threat but have a plan, and think Mordenkainen neutralized but alive.  They mentioned an elf at some point and the group worries they mean either Fey or Patches.  Recognizing Argynvolstholt by appearance and description in the dream, the group decides to head there right away.  As they head down to the Common room to head out for the day, they realize they have overslept a little, the time already being around 10 a.m.   Urwens wife, behind the bar, informs the group that everyone is in the center of town for the Festival of the Blazing Sun.  The group tells Chekhov and Mr. Pickles to remain behind and rush to the square, knowing something horrific is inevitable from the deranged Vargas.
+The group awoke and compared notes. Whoever these two were, they had expected Kangaxx and wanted the artifact he sought. They were manipulating Strahd and intended harm to Ireena. They considered the group a threat but had a plan. Mordenkainen was alive but neutralised. An elf had been mentioned, and the group worried they meant Fëanon or Patches. Recognising Argynvostholt from the dream, they resolved to go there — but first, the town demanded their attention.
 
-Arriving at the town center, the group sees that a large crowd has gathered before the stage where the stocks were the day before.  Atop the stage is a large wicker and wood effigy of a sun, with empty shackles on the front, ready to accept a poor prisoner.  Vargas is atop the stage, trying to rile up the crowd in the light, damp rain.  Knowing what is most likely in store, Cirrus uses a cantrip to prematurely ignite the sun effigy, while Buumi pushes through the crowd to the stage, Tark simply teleports right up to Vargas, startling him.  Fey prepares a charm spell to unleash on Vargas, and Cirrus creates a minor illusion of a butt where Vargas' face is, prestidigitating fart noises whenever he speaks.  Quickly losing the crowd to chuckles and giggles, Vargas becomes enraged, threatening Tark by drawing his Rapier, his personal guard begin to surround Tark. A full laugh breaks out from the crowd and everything goes silent, Vargas, finally pulling out a small hand mirror sees the illusion and dismisses it with his family signet ring.  Furious and embarrassed, Vargas demands that the laughing man - Boris the guard, be dragged up onto the stage.  Fey releases his charm spell, hitting Vargas and while his demeanor towards the group suddenly becomes amicable, he still insists on executing Boris for his impertinence.  While all this has been going on, Patches has been quietly moving amongst the crowd, handing out pamphlets espousing the good qualities of Ireena and then went on to paint a massive portrait of the woman on the side of a house facing the square.  Buumi makes it to Boris and hoists him away from the guards with his incredible strength.  The charm fades from Vargas and he sees the group arrayed against him, with the crowd of peasants quickly being turned against him.  With a yell of rage and sputtering in protest, Vargas retreats to his manor with his guards, leaving the square.  The group decides they are done with Vargas and quickly follow.
+## The Festival
 
-Approaching the manor, they see two guards out front.  Cirrus uses illusion to transform himself into the image of a fiery demon, Buumi summons holy light and Fey begins to whisper doubts into their minds.  The two guards look at each other and flee.  The group smashes down the front door and heads inside.  Patches meanwhile goes behind the building and scales to the second floor where she enters through the Bath room, inside which is the Baroness Lydia.  Patches convinces the woman to flee, and using her spider bracer, pushes her out the window and safely to the ground using the cord like a rope.  Patches then heads behind the library and sets up a satchel charge and two traps at the end of the hallway.  The group comes up the stairs, Tark rushing on ahead.  As Tark zooms by the hallway to the Library, two musket shots ring out, one going wide and one being narrowly deflected by the Ki infused hands of the skilled monk.  Knowing where the rest of the guards now are, the group decides on shock and awe, Cirrus rounding the corner in his fiery disguise and Fey unleashing a hypnotic blast that renders all but one of the guards unconscious.  The final guard is knocked out by Tark and Cirrus the old fashioned way.
+The group had overslept. It was already mid-morning, and Urwen's wife informed them that everyone was in the town centre for the Festival of the Blazing Sun. They told Chekhov and Mr. Pickles to stay behind and rushed to the square.
 
-Hearing the Baron inside the library the group makes a grand entrance.  Cirrus blasts open the wooden wall with an Eldritch Blast, Buumi kicks in the door, and at the same moment, the back wall behind the Baron explodes inwards from the Satchel Charge.  Vargas and the twelve pistols he had been loading go flying.  Vargas manages to get a shot off into Buumi as he lands awkwardly but is quickly seized by a spell and paralyzed from the neck down. The group stalks in.  Patches comes at Vargas from behind and stabs him wickedly with Stabby and prepares to cut the mans throat and be done with him.  The group however, seeing the man defeated and no threat quickly ask Patches to stay her hand.  Confused and a little disappointed, Patches shrugs and agrees, withdrawing her bloody blade.  The group decides to banish the crazed Burgomaster out into the mists.  Buumi grabs the man by his breastplate and the group leaves the manor.  In front of the manor a large crowd had gathered, and a couple shouts to lynch to Burgomaster float around but are quickly silenced by the group.  The crowd agrees to exile for the man, and he is taken to the East gate and thrown out into the mud there, with the gate slamming shut behind him.  Tired of the politics of the town and wanting to investigate the Dragon manor, the group quickly returns to the Inn to fetch their mounts and head out of town along the west road.  As they go, the local priest of Lathander - Lucien, tries to ask them for help in retrieving the missing bones of St. Andral to hallow the temple grounds for the feast the next evening.  The group tells the man that they will be back in the morning and look into it then, but for now have other business to attend to.  Buumi is conflicted but ultimately decides that investigating the dream from Bahamut and sticking with the group to be the right course.
+A large crowd had gathered before the stage. Atop it stood a wicker effigy of a sun with empty shackles on its front, ready for a prisoner. Vargas was attempting to rouse the crowd in the damp rain. The group moved fast. Cyrrus ignited the effigy prematurely with a cantrip. Buumi pushed through the crowd toward the stage. Tark teleported directly beside Vargas, startling him. Fëanon prepared a charm spell. Cyrrus created an illusion of a pair of buttocks where the Burgomaster's face should be, complete with prestidigitated flatulence whenever the man spoke.
 
-The group heads out from Vallaki, passing the small path to the Vistani camp and making their way through the Svalich woods, arriving at a crossroad.  They see no signpost, but do come across several Barovian commoners from Vallaki, seemingly out searching for an armed and armored Vistani woman.  The commoners don't trust the group and ignore them and the group heads on their way, south towards Argynvoltholt after finding the signpost.
+The crowd dissolved into giggles. Vargas, losing his audience, drew his rapier and threatened Tark. His personal guard closed in. Then a full laugh broke from the crowd and everything went silent. Vargas pulled out a hand mirror, saw the illusion, and dismissed it with his family signet ring. Furious and humiliated, he pointed at the man who had laughed — Boris, the guard captain — and ordered him dragged onto the stage.
 
-With the mists mostly retreated from the midday "sun" and the wind and rain light this day, the group makes it up the hill to the ruined manor without incident.  A once magnificent fortified manor house, the great residence is now in ruins with large portions collapsed.  A magnificent silver plated statue of a Dragon is out front, facing the front door of the place.  Tark feels called to the Dragon statue and stands in front of it looking up at it's face and focusing intently on the scale from Ysera, Tark gets the urge to dig.  Seeing their friend clawing in the dirt, the rest of the group stands confused until Cirrus shapes the earth, instantly excavating an old wooden chest.  The group does a cursory inspection, and determining it to be safe, open the container.  Inside they find an ornate platinum amulet shaped like a stylized sun with a huge Ruby set into it's face, the group can feel the holy power emanating from it and recalling the words of Madame Eva, realize they have found one of the artifacts they need to escape Barovia - the Holy Symbol of Ravenkind.
+Fëanon released his charm. Vargas became suddenly amicable toward the group, but even charmed he insisted on executing Boris. Patches, meanwhile, had been moving through the crowd handing out pamphlets extolling Ireena's virtues and painted an enormous portrait of the woman on the side of a house facing the square. Buumi grabbed Boris away from the guards with raw strength. The charm faded. Vargas saw the group arrayed against him, the crowd turning hostile, Ireena's painted face gazing down at him, and retreated to his manor with his guards.
+
+## The Fall of Vargas
+
+The group followed. Two guards at the manor doors took one look at Cyrrus — who had transformed himself into the image of a fiery demon — Buumi radiating holy light, and Fëanon whispering doubt into their minds, and fled. The group smashed down the front door.
+
+Patches went around back and scaled to the second floor, entering through the bathroom where she found the Baroness Lydia. She talked the woman into fleeing and lowered her safely to the ground with her spider bracers. Then she circled to the library hallway and set a satchel charge and two traps.
+
+The group came up the main stairs. Tark sprinted ahead and drew two musket shots — one going wide, one deflected by the monk's ki-infused hands. Cyrrus rounded the corner in his fiery disguise while Fëanon unleashed a hypnotic blast that dropped every guard but one. Tark and Cyrrus dispatched the last the old-fashioned way.
+
+Vargas had barricaded himself in the library with twelve loaded flintlocks. Cyrrus blasted through the wall with eldritch energy. Buumi kicked in the door. Patches detonated the satchel charge behind the Baron. The triple breach sent Vargas and his arsenal flying. He managed one shot into Buumi before a spell paralysed him from the neck down. Patches stepped up behind the helpless man and drove her blade into his back, preparing to finish it — but the group called her off, satisfied the threat was ended.
+
+They dragged Vargas out the front door to a crowd already gathered in the street. A few voices called for a lynching, quickly silenced by the group. The crowd agreed on exile. Vargas was hauled to the east gate and thrown into the mud, the gate slamming behind him.
+
+## The Holy Symbol
+
+Eager to leave the politics behind, the group returned to the inn for their mounts. On the way, the local priest of Lathander — Lucian — begged them to help retrieve the missing bones of St. Andral to hallow the temple for the next evening's feast. The group promised to look into it the following morning.
+
+They rode west out of Vallaki, past the path to the Vistani camp, through the Svalich woods, and arrived at Argynvostholt by midday. The fortified manor was enormous — four storeys, each twenty feet high, its east side heavily damaged and partially collapsed. A magnificent silver-plated dragon statue stood before the entrance.
+
+Tark felt drawn to the statue. He stood beneath it, focusing on Ysera's scale, and felt the urge to dig. The rest of the group watched in confusion as their friend began clawing at the earth until Cyrrus shaped the ground away, instantly excavating an old wooden chest. Inside lay an ornate platinum amulet shaped like a stylised sun, a huge ruby set into its face. The holy power radiating from it was unmistakable.
+
+Recalling the words of Madame Eva, the group realised they had found one of the artifacts they needed to escape Barovia — the Holy Symbol of Ravenkind.

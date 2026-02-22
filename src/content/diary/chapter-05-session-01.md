@@ -1,20 +1,20 @@
 ---
-title: Barovia - Session 1
+title: Into the Mists
 chapter: 5
 chapterTitle: Barovia
 session: 1
+summary: "The group arrives at a misty crossroads after defeating Kangaxx, discovers they are trapped in the demiplane of Barovia, and fights through a violent clash between barbarians and pistoliers before reaching the outskirts of the cursed valley."
 people:
   - "aliyah-faen-tlabbar"
-  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "kangaxx"
-  - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
 places:
   - "barovia"
+  - "the-crossroads"
 things:
   - "tavern-of-doors"
   - "the-reaver"
@@ -22,18 +22,42 @@ factions:
   - "vistani"
 ---
 
-The group takes the lay of the land.  Gathering up the remains of Kangaxx, the group heads to the nearby tavern.
+## The Crossroads
 
-On the way, Patches spies a golden dragonscale on the ground which she goes to pick up.  As she reaches for it, she gets a strong impression that it is not for her, she sees a flash of a gargantuan Platinum dragon in her mind and moves on.  Tark then reaches the scale and picks it up.  Meditating on it, he gets a strong sense he should be the one to have the scale and that it's important.
+The group gathered themselves at the misty crossroads, still reeling from the death of Kangaxx. The golden lich was no more, but the air here tasted wrong — damp, cold, and heavy with something none of them could name. They collected what remained of Kangaxx and turned toward the nearby tavern, the only sign of civilisation in the grey landscape.
 
-Just before the group gets to the tavern, they notice a silver ring surrounding the place, warding it against evil spirits.  The group heads inside and meet Ivonova a middle aged Vistani woman running the most remote Inn of Barovia.  Ivonova makes the group comfortable, bringing food and drink and telling them of her people, the curse of Barovia and the sad fate of Count Strahd Von Zarovich.  Exhausted, many of the group head to bed, just as a group of Vistani traders enter the tavern for the night.   The group begins haggling and perusing their wares.  At one point, Patches attempts to lift a map of the Valley, only to be caught by a Vistani.  The group decides to ratched up the stakes and play dice for the map if they win, or all leave if they lose.  After a tense game of dice (and some subtle cheating), the party wins and the fine evening continues.  Eventually, the entire party retires for the night, with JmJm enticing a large Vistani man and an attractive younger woman to his rooms.
+Along the way, Patches spied a golden dragonscale glinting on the muddy ground. She reached for it, but the moment her fingers drew close, a vision slammed into her mind — the silhouette of a gargantuan platinum dragon, vast beyond comprehension. The scale was not meant for her. She withdrew her hand and moved on. Tark came next and picked it up without hesitation. Meditating on the warm metal, he felt a certainty settle into his bones: this was his to carry, and it mattered.
 
-The next morning the group finds a letter awaiting them, addressed to the group personally, calling for them to head to the village of Barovia to aid the Burgomaster of the town.  The group decides to make their way to the town and then find Strahd and discuss their imprisonment in this plane - maybe they can bargain their way free?  Both Tark and Buumi are less than happy about bargaining with a Vampire, but they agree to at least try talking.
+## The Vistani Inn
 
-Heading off down the road to Barovia, the group mounts up/hops on a shared mount and head down into the valley of Barovia.  After travelling a few miles, the group comes up to a massive set of gates, over a hundred feet high, with two massive decapitated statues of knights flanking a massive Iron gate.  They see the flicker of movement in an arrow slit, but see and sense no more than that.   Realizing that they had taken everyone's word about being trapped here, before committing to the gate the group decides to return to the border and test the mists.  Turning around, they find the misty border only a hundred feet or so behind them  and slowly drifting closer.  Fey'Anon gallops his magical steed directly into the mist and after a second or so of hoofbeats, all goes silent.   A few seconds pass and suddenly he bursts forth from the mist, a little disheveled and a haunted look in his eyes.  It takes him a second, but Fey remembers his group - he has not seen them in 100 years.  To Fey's perspective, he had been wandering a misty void for 100 years, but to all others only seconds have transpired.  The group looks in horror at the mists and Tark suddenly sees misty forms and spirits clawing at an invisible wall in the mists, trying to get free of the land but unable to do so.   Patches looks into the sky and for a brief instant, thinks she sees a massive, infinitely huge, black mass of tendrils, snaking down into the valley to touch thousands of things.  One such tendril is snaked around The Tavern of Doors preventing it from opening.  Patches closes her eyes before the very sight of the thing drives her insane…
+The tavern sat within a silver ring etched into the earth — a ward against evil spirits. Inside, the group met Ivonova, a middle-aged Vistani woman who ran the most remote inn in Barovia. She brought food and drink and told them of her people, of the curse that held this valley in its grip, and of the tragic fate of Count Strahd Von Zarovich. Exhausted, most of the group retired early, but a troupe of Vistani traders arrived and the evening took a turn toward commerce.
 
-The group decides the only way is forwards, to head to the Village of Barovia and go from there.  The group heads through the massive gates.  Farther along the path, they smell the stench of death and Decay, looking around, they find a mauled corpse, holding a letter.  Wolves howl in the distance.  The letter on the body seems to be very similar to the one they got at the Inn, with the exception that this one is a warning to stay away and not an invitation like they got in the Inn.  Unsure what it all means, the group continues along, hearing more wolf howls.  The group decides to investigate the nearby forest for signs of wolves.  As their eyes turn from the road, they all see a crucified form  affixed to a tree about 100ft off the road.  Tark teleports directly to it and is brought face to face with himself, strung up on a tree and melted from chemicals.  Face to face with his own death, he is suddenly struck by an intense feeling of paranoia and feels like he is being watched.  As the rest of the group gets to him, the body in the tree melts into mist.  Patches peers off further into the forest and sees an impression of a huge, 10ft humanoid shape in the mists, watching them with a flash of golden eyes.  The group makes their way quickly back to the road and ride from the area in the direction of Barovia.
+Patches attempted to lift a map of the valley from one of the traders, only to be caught mid-swipe. Rather than escalate, the group proposed a wager — a game of dice. Win, and the map was theirs. Lose, and they would leave immediately. The game was tense, the cheating was subtle, and the party won. The night continued in fine spirits, with JmJm enticing a large Vistani man and an attractive younger woman to his rooms, because of course he did.
 
-About two miles from the village, the group hears the sounds of battle, punctuated by cracks of thunder from flintlock weapons.  Coming around a bend, they see a number of hulking, hide clad barbarians and a Shaman battling a group of mounted Barovian Pistoliers.   Looking up into the sky, they see a ghostly winged woman presiding over the battle.  Not knowing which side to get involved in, the Shaman is charmed and questioned - the barbarians are here to die in glorious combat and indeed, adorn themselves with grisly trophies.  The riders are forced to swerve their mounts away from a massive illusionary crack that appears, summoned by JmJm as he splits the battlefield.  Buumi rides in atop Aurora, his mount and throws a Javelin at the Shaman that had knocked a rider from his horse, only to miss and hit the rider...  The riders are then pinned between two groups of barbarians and the Shaman creates a mass of thorned vines to tear at them, just as the group casts a zone of entangling plants, and  Cirrus brings about an are of radiant sickness.  In Seconds, the whole combat is over, with both parties dead, or dying.  Not sure what happened, Buumi and Tark look on in confusion at all the death with Buumi aghast at the results.  Cyrrus calmy walks over to one of the dead riders and revives him with a glowing touch -the mans wounds seal up and he gasps a ragged breath.  His eyes go wide and he pulls a knife, crazed and attacks the group.  Patches comes up behind him and puts the insane man out of his misery, her cursed dagger feeding on his soul and turning him to ash.
+The next morning, a letter waited for them — addressed to the group by name, requesting they travel to the village of Barovia to aid the Burgomaster. The group resolved to find the village, then seek out Strahd himself. Perhaps they could negotiate their way free of this prison. Tark and Buumi liked the idea of bargaining with a vampire about as much as they liked the weather, but they agreed to at least try diplomacy before violence.
 
-The combat over, the group sees what can be salvaged, with JmJm getting two working Flintlocks, +1 Sabre, a complete set of Halfplate +1 and Hide armor +1 and numerous pieces of other weapons and armor.  The group is then left surrounded by the remains of the ill fated battle.
+## The Mists
+
+Heading down the road, the group mounted up and rode toward the valley. After a few miles, they came upon a monumental gateway — iron gates a hundred feet high, flanked by two decapitated statues of knights. Movement flickered in an arrow slit, but nothing else stirred.
+
+Before committing to the gate, someone pointed out that they had taken everyone's word about being trapped here without actually testing it. The group turned back to the misty border, now less than a hundred feet behind them and drifting closer. Fëanon, ever the empiricist, spurred his spectral steed directly into the fog.
+
+A second of hoofbeats. Then silence.
+
+A few heartbeats later he burst back through the mist, dishevelled and haunted. It took him a moment to recognise his companions — from his perspective, he had been wandering a featureless void for a hundred years. To everyone else, mere seconds had passed. The group stared at the mist in horror.
+
+Tark's eyes adjusted to the supernatural, and he saw them — misty spirits clawing at an invisible barrier within the fog, desperately trying to escape the valley. Patches looked skyward and for one terrible instant perceived something that nearly broke her mind: a black mass of infinite tendrils descending from above, snaking into the valley to touch a thousand things. One such tendril was coiled around the Tavern of Doors, preventing it from opening. She shut her eyes before the sight could drive her mad.
+
+## Blood on the Road
+
+The only way was forward. Through the massive gates, deeper into the valley. Farther along the path the stench of death hit them and they found a mauled corpse clutching a letter. Wolves howled in the distance. The letter was nearly identical to the one from the inn — except this version was a warning to stay away, not an invitation. Something was playing games with them.
+
+The group pressed on, hearing more howls. Investigating the treeline, they spotted a crucified figure affixed to a tree a hundred feet off the road. Tark shadowstepped directly to it and found himself face to face with his own body — strung up and dissolved by chemicals. The shock of staring into his own dead face brought a crushing wave of paranoia. He felt watched. When the others arrived, the body melted into mist and vanished. Patches peered deeper into the forest and caught the impression of a massive humanoid shape — easily ten feet tall — watching them through the fog with a flash of golden eyes.
+
+They returned to the road at speed.
+
+About two miles from the village, the crack of flintlock weapons echoed through the trees. Rounding a bend, they found hulking, hide-clad barbarians and a shaman locked in battle with a squad of mounted Barovian pistoliers, a ghostly winged woman presiding over the carnage from above. Not knowing which side to favour, they charmed and questioned the shaman — the barbarians were here to die in glorious combat, adorning themselves with grisly trophies. JmJm split the battlefield with a massive illusory chasm. Buumi rode in atop Aurora and hurled a javelin at the shaman, only to miss and skewer one of the riders instead. The group entangled, sickened, and blasted both sides in quick succession. In seconds, everyone was dead or dying.
+
+Buumi and Tark looked on in confusion at the pile of corpses, unsure what had just happened. Cyrrus calmly walked to one of the fallen riders and revived him with a touch of lunar light. The man's wounds sealed and he gasped back to life — then drew a knife with crazed eyes and attacked. Patches stepped behind him and put him down. Her cursed dagger fed on his soul, turning him to ash.
+
+The group stood among the remains of the ill-fated battle, scavenging what they could: two working flintlocks, a fine sabre, halfplate, hide armour, and assorted weapons. The valley of Barovia had greeted them with blood. Somehow, none of them were surprised.

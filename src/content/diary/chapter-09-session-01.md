@@ -5,6 +5,7 @@ chapterTitle: The Demon Lords
 session: 1
 people:
   - "aliyah-faen-tlabbar"
+  - "anduriel"
   - "aurinax"
   - "barthen"
   - "cirrus-al-kayan"

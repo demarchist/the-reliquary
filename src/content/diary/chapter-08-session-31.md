@@ -5,6 +5,7 @@ chapterTitle: The Underdark
 session: 31
 people:
   - "aliyah-faen-tlabbar"
+  - "anduriel"
   - "cirrus-al-kayan"
   - "demogorgon"
   - "feanon-serinde"
