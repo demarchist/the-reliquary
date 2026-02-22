@@ -3,6 +3,7 @@ title: The Bog - Session 9
 chapter: 4
 chapterTitle: The Bog
 session: 9
+summary: "Tark and Gundren revert from worm form mid-battle, Cyrrus destroys the Goblin King — who is reborn as a monstrous Drider — the group kills the animated treant, and the Goblin King charms Tark and turns him against his friends."
 people:
   - "doc"
   - "feanon-serinde"
@@ -16,14 +17,16 @@ things:
   - "gwen"
 ---
 
-A Huge branch from the animated tree wraps around Buumi, slamming him into the ground.  As this happens, Tark and Gundren both revert to their normal states from being worms and immediately join in the fray.  Zhink begins to pick off Goblins one by one, Tark attacks others and Gundren and Gwen begin to take down the fodder as well.
+A massive branch wrapped around Buumi and slammed him into the ground. At the same moment, Tark and Gundren reverted from their worm forms and threw themselves into the fight. Zhink picked off goblins one by one. Gundren and Gwen the lion tore through the fodder.
 
-Cyrrus, still in his ape form, smashes the Goblin King, who explodes.  One of the large nearby crystals shatters, but the goblin king is quickly reborn as a huge Goblin-Drider. He summons more of the spider-goblin-centaurs to him.  Fey Anon throws another fireball, immolating much of the group and dealing a great deal of damage.  Buumi finally manages to burst free from the root and Doc. B sends out a massive healing wave, rejuvenating the group.
+## The Drider
 
-After killing one of the Goblins, Tark hears some bells and investigates, discovering another of the tiny faerie folk.
+Cyrrus, still in ape form, brought both fists down on the Goblin King and crushed him. The creature exploded — and one of the large nearby crystals shattered with him. But the Goblin King was not dead. He reformed instantly as a towering Goblin-Drider, a spider-goblin centaur twice his previous size. He summoned more of the twisted creatures to him.
 
-Buumi and Zhink rush another group of Goblins (zhink having misty stepped out of trouble), while Cyrrus climbs the animated tree to smash it to splinters.  Fey anon hastes Gundren and the dwarf proceeds to unleash hell upon the Treant, blasting it to splinters with numerous shots as Cyrrus rips into it himself.
+Fëanon hurled a fireball that immolated a swath of the battlefield. Buumi finally burst free from the roots and Doctor Breakfast sent out a massive healing wave that pulled the group back from the brink.
 
-With the Treant dead and many of the Goblin fodder down, the group beings to re-organize.  The Driders that had gone invisible reappear, attacking Tark, Fey and Gwen.  Tark however uses his shadowstep to get out of trouble and deliver a devastating jumping blow to the Goblin king.  The Goblin king, looking injured but not done, charms Tark and sends him after his friends.  Doc B. directs her moonbeam onto the Goblin King and once again he is reverted back to his normal Goblin form.
+## Destroying the Treant
 
-Zhink, Cyrrus and Buumi all head from the rear battle towards the main combat, ready to come to the aid of their friends and free Tark from the influence of the Goblin King.
+Buumi and Zhink — who had misty-stepped clear of danger — charged another cluster of goblins. Cyrrus climbed the animated tree and began smashing it from above. Fëanon hasted Gundren, and the dwarf unleashed a withering barrage that splintered the treant as Cyrrus ripped into it from the canopy. The tree crashed.
+
+With the treant dead and the goblin ranks thinned, the group reorganised. The Goblin-Driders reappeared from invisibility, striking at Tark, Fëanon, and Gwen. Tark shadow-stepped clear and delivered a devastating leaping blow to the Goblin King himself. But the King, wounded but far from done, caught Tark's mind with a charm and turned him against his friends. Doctor Breakfast directed her moonbeam onto the King, and the celestial fire forced him back into his ordinary goblin form — but Tark was still charmed, and his allies were rushing from the rear to free him.

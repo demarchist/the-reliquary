@@ -3,6 +3,7 @@ title: The Bog - Session 7
 chapter: 4
 chapterTitle: The Bog
 session: 7
+summary: "Redcaps ambush the group outside the labyrinth wall, a charmed Redcap leads them to the real door just in time, and inside the maze they befriend a giant boar and discover a fairy trapped in a glowing crystal."
 people:
   - "aliyah-faen-tlabbar"
   - "doc"
@@ -15,10 +16,16 @@ things:
   - "piwafwi"
 ---
 
-Out front of the massive labyrinth wall, the group stands around, unsure of what to do.  Patches begins to feel unease and looking around, catches some movement off on the shore of a pool of bog water.  Deciding to investigate, she dons her Piwafwi and heads over.  As she nears, a small angry looking old man, deformed of proportion with an enormous red hat and Iron shoes leaps from behind some foliage.  As he leaps out, several others leap out around the party and attack.  With harpooned hooks, the Redcaps stab and drag the party around dealing vicious wounds.  The group quickly forms a defense and begins laying out their healing spells and buffs, quickly turning the surprise ambush into a slaughter of the Dark Fae.  During the fight, the group realizes that the Redcaps are a distraction and that they are missing their window for getting into the Labyrinth.  Thinking quickly, the group charms one of the remaining Redcaps and has him lead the group to the real door.  The group (and followers) makes it through with mere moments to spare.  On the other side, the group finds themselves in a dim and massive labyrinth, covered in moss.  As the group looks around, the Redcap makes a break for it as the Charm had worn off.
+The group waited at the labyrinth wall, unsure of what to do next. Patches felt something wrong and caught movement near a pool of bog water. She donned her Piwafwi and crept over to investigate. A small, angry old man — deformed, with an enormous red cap and iron shoes — burst from behind the foliage. More Redcaps erupted around the party from every direction, stabbing with barbed hooks and dragging people across the ground.
 
-Not knowing what else to do, the group begins exploring the Labyrinth.  After a few twists and turns, they come face to face with an enormous Boar the size of a Buffalo.  Readying themselves for battle, the group is pleasantly surprised when the Boar asks for assistance in finding it's mate and the wagon they are supposed to be transporting.  The group, happy at avoiding a fight, agrees to let it tag along and keep an eye out for it's Wagon.
+## The Redcap Ambush
 
-Devling deeper, the Boar claims to recognize a section and sure enough, the group finds a large chamber, inside which is the lost Wagon, but also a large red, glowing crystal.  Tark walks first into the room and is repelled by a powerful psychic force, giving him a terrible headache.  Not wanting to take any chances, Doc B. wards herself and Fey enters with his protective hood and Ring of Mind Shielding.
+The group rallied quickly, throwing up healing spells and buffs and turning the surprise attack into a slaughter of Dark Fae. Mid-fight, they realised the Redcaps were a distraction — the window for entering the labyrinth was closing. Thinking fast, the group charmed one of the surviving Redcaps and forced him to lead them to the real door. They made it through with moments to spare. On the other side, the dim labyrinth stretched away in every direction, its walls covered in moss. The Redcap's charm wore off and he bolted.
 
-Examining the room and crystal, Fey and Doc B. think that they determine that there is a fairy trapped in the crystal.  They decide to free it and smash the crystal...
+## The Lost Wagon
+
+With no better plan, the group began exploring. After a few twists and turns they came face to face with an enormous boar the size of a buffalo. They braced for a fight, but the boar spoke — it was searching for its mate and the wagon they were supposed to be transporting. Relieved to avoid another battle, the group agreed to let it tag along.
+
+Deeper in the labyrinth, the boar recognised a section. The group found a large chamber containing the lost wagon and a glowing red crystal pulsing with energy. Tark walked in first and was repelled by a powerful psychic force that gave him a splitting headache. Doctor Breakfast warded herself and Fëanon entered wearing his protective hood and Ring of Mind Shielding.
+
+Examining the crystal, Fëanon and Doctor Breakfast determined a fairy was trapped inside. They decided to smash the crystal and set it free.

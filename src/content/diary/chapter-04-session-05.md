@@ -3,6 +3,7 @@ title: The Bog - Session 5
 chapter: 4
 chapterTitle: The Bog
 session: 5
+summary: "The group arrives in Goblin Town and discovers Lorde — JmJm's rival and a Harper agent — locked in the stocks, learns the Goblin King has taken JmJm into the labyrinth, trades junk for supplies, and Buumi befriends Lorde's celestial war-tiger whose presence heals his Bog curse."
 people:
   - "doc"
   - "ella"
@@ -18,18 +19,22 @@ places:
   - "the-labyrinth"
 ---
 
-Riding the snail and Turtle, the group sees a large settlement in the distance.  Eventually they arrive at Goblin town, a sprawling collection of ramshackle abodes.  Four landmarks stand out, a set of Docks, a large decrepit tower, a huge green glowing cauldron with a structure around it and a huge Mushroom housing an inn.
+Riding the racing snail and the giant turtle, the group spotted a large settlement in the distance. Goblin Town was a sprawling collection of ramshackle abodes, dominated by four landmarks: a set of docks, a large decrepit tower, a massive green-glowing cauldron with a structure built around it, and a huge mushroom housing an inn.
 
-Deciding that a civilized approach made the most sense, the group sidled up to the docks, coming across a Goblin fishing.  The Goblin gave the group the lay of the land and explained that everything in Goblin town works on the barter system.  The group then were gifted fishing rods so they could fish up some junk from the bog to trade.  Buumi refused the rod, electing to keep watch over the group instead and try to get a sense of the townfolk.  The group managed to fish up several useful items, including a ring of jumping, a cursed longsword, a Rhomboid crystal, Brass cube and some miscellaneous junk.
+## The Docks and the Stocks
 
-Moving on from the docks, the group heads over to the huge glowing cauldron.  Passing through the center of town though, they see a female figure in the town stocks.  Investigating, they discover Lorde, the bardic rival of JmJm. They discover that JmJm is actually a native of Sigil and that Lorde is a Harper agent, sent to stop the Goblin king from consuming JmJm's mind and taking over his body, allowing him access to the prime material realm.  They find out that JmJm has been taken into the labyrinth and that her mount, a purple tiger is currently held behind the ruined tower.  Deciding that riling up the whole town by releasing Lorde seems like a bad idea, the group decides to leave her, but promises they will be back for her as soon as possible.  As they are leaving, Lorde mentions that she heard about a celestial mount south of town.
+Taking a civilised approach, the group sidled up to the docks and found a goblin fishing. He explained that everything in Goblin Town worked on the barter system and gifted them fishing rods so they could pull junk from the bog to trade. Buumi refused the rod, electing to keep watch and take the measure of the townsfolk. The others fished up a ring of jumping, a cursed longsword, a rhomboid crystal, a brass cube, and miscellaneous trinkets.
 
-The group heads into the structure with the huge glowing cauldron and find that for crystals, the group can buy Goblin Bog Brew, that acts like a very strong healing potion.  The group buys a single gourd of brew and find out they must trade junk at the junk shop (tower) for more crystals.  As they are leaving though, a cat-creature, Kaazoo, very similar to Doc. B tells the group to piss off.  After some back and forth, it's determined they may know one another and they decide to meet at the inn later that day when the cat gets off work as the bouncer for the Cauldron shop.
+Passing through the centre of town, they spotted a woman locked in the stocks. It was Lorde — JmJm's bardic rival. She was no mere performer. Lorde revealed she was a Harper agent, sent to stop the Goblin King from consuming JmJm's mind and using his body to escape into the prime material plane. JmJm had already been taken into the labyrinth. Lorde's mount, a purple war-tiger, was being held behind the ruined tower. The group decided that freeing her in the middle of town would provoke the goblins, so they promised to return for her and moved on. As they left, Lorde mentioned she had heard of a celestial mount somewhere south of town.
 
-Buumi at this point heads around the back of the tower, looking for Lordes mount.  Pushing through moss and overgrowth, he eventually comes into a small clearing and sees a huge purple war-tiger lounging by a small pool.  He heads over to investigate it and is immediately grabbed by the tiger and pressed into it's chest fur while it drinks some water.
+## Goblin Commerce
 
-The rest of the group heads to the tower, the junk shop.  Once there, they see a huge line of Goblins, waiting to sell their goods.  Impatient, Tark looks around and finds a tall mushroom shepherd talking with a Goblin by the bridge.  He overhears that something is guarding the bridge and will eat the shepherds goats and sheep.  Being noticed, the two creatures conversing stop talking and look at Tark.  He leaps away awkwardly.
+At the cauldron, the group found they could buy Goblin Bog Brew — a potent healing draught — for crystals. A cat-creature named Kazoo, strikingly similar to Doctor Breakfast, served as bouncer for the shop and told the group to piss off. After some back and forth, it became clear the two might know each other, and they agreed to meet at the inn later.
 
-The rest of the group passes the time in line by fishing a little bit and find more junk.  Eventually, they make it into the junk shop to sell their wares and discover a Halfling named Steven - the Halfling version of JmJm's butler Steven, before he was twisted by this demi-plane.  Being "friends" Steven gives the group a discount and they make off with many crystals, spell scrolls and giant chicken mounts, including a beautiful blue rooster.
+At the junk shop tower, a long line of goblins waited to sell their wares. Tark, impatient, eavesdropped on a mushroom shepherd complaining about a creature guarding the bridge that ate his livestock. Inside the shop, the group found a halfling named Steven — the original version of JmJm's goblin butler, before the demiplane had twisted him. Steven gave them a discount on account of their being friends, and they walked away with crystals, spell scrolls, and giant chicken mounts, including a handsome blue rooster.
 
-Buumi meanwhile finds his twisted body healed by the presence of the celestial tiger, talking to it, he convinces it to come with him and the group and lead them into the labyrinth to find JmJm and ultimately release Lorde.  Buumi meets up with the group and they head over to the inn with their mounts for a much needed long rest before heading over the bridge and into the labyrinth…
+## The Celestial Tiger
+
+Buumi, meanwhile, pushed through moss and overgrowth behind the tower searching for Lorde's mount. He found a massive purple war-tiger lounging by a small pool. When he approached, the tiger grabbed him and pressed him into its chest fur while it drank. More importantly, the celestial creature's presence healed Buumi's Bog curse — his hunched spine straightened, the deformity fading in the tiger's aura. He convinced Borealis to join the group and guide them into the labyrinth.
+
+The group gathered their mounts and headed for the mushroom inn. A long rest before the labyrinth seemed wise.
