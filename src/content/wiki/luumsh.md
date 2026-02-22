@@ -3,19 +3,13 @@ title: "Luumsh"
 category: "People"
 aliases: ["Luumsh"]
 firstAppearance: "chapter-06-session-15"
-description: "Orc tribal leader who occupies the ruins of High-Hold and negotiates with the party."
+description: "Pragmatic leader of an Orc tribe of Horde deserters who negotiated citizenship in the Barony of Thunder Bluff."
 ---
 
-## Background
+Luumsh is the leader of a tribe of Orc deserters who fled the Horde during its invasion of the region two years prior. Rather than fight to the death in a war they did not believe in, Luumsh led his people into the Evermoors, where they lost many before settling in caves beneath Thunder Bluff. The tribe prospered briefly until a spirit troll called Shadowclaw drove them to the surface, forcing them into the ruins of High Hold for the winter.
 
-Luumsh is an Orc tribal leader who has established his tribe in the ruins of High-Hold (Moorwatch) castle. He leads through strength and pragmatism rather than pure aggression.
+When the group arrived — the new lords of the barony — Luumsh initially feared expulsion. His tribe grew agitated until Cyrrus made the opposite clear: they were looking for citizens, not enemies. In exchange for safety and the settlement of Old Kossenberg, the orcs would work the land and contribute to the barony's defence.
 
-## Role in the Campaign
+Luumsh put a condition on the deal: prove your strength by destroying Shadowclaw. The group obliged, and the tribe erupted in cheers when everyone returned alive. Over Ankheg stew and storytelling, the orcs became convinced the group had been sent by Gruumsh himself. Luumsh declared he would settle Old Kossenberg and gather other like-minded tribes for the great war Tark warned was coming.
 
-The party negotiates with Luumsh rather than simply fighting through his forces, finding a pragmatic leader willing to discuss terms. His occupation of High-Hold connects to the broader political landscape of the Thunder Bluff barony.
-
-## Notable Traits
-
-- Pragmatic Orc leader open to negotiation
-- Supported by the shaman Keek, an old Lady-Orc of Luthic
-- Has established a functioning settlement in the castle ruins
+He is supported by Keek, a little old lady-orc and shaman of Luthic, who serves as both spiritual advisor and cook.

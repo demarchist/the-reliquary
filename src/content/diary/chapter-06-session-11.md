@@ -1,12 +1,11 @@
 ---
-title: Silverymoon - Session 11
+title: The Invasion of Silverymoon
 chapter: 6
 chapterTitle: Silverymoon
 session: 11
+summary: "The group kills the Oni in a desperate blizzard chase to save a stolen baby, learns that Zhengyi's imprisonment is failing, and arrives in Silverymoon to discover the city is being quietly invaded by disguised Amnian soldiers during the Winter Solstice festival."
 people:
   - "aliyah-faen-tlabbar"
-  - "cirrus-al-kayan"
-  - "dean-sejuk"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -24,12 +23,10 @@ places:
   - "amn"
   - "house-invincible"
   - "silverymoon"
-  - "snorbuls-hole"
   - "sundabar"
 things:
   - "bag-of-holding"
   - "gwen"
-  - "tavern-of-doors"
   - "the-last-word"
   - "thundercannon"
 factions:
@@ -38,214 +35,74 @@ factions:
   - "spellguard"
 ---
 
-**Fighting Neero**
+## Killing the Oni
 
-Facing off against the Oni, Tark and Cirrus flank the creature that stole the baby.
+Tark and Cyrrus flanked the Oni in the driving snow. Neero hurled the baby at Tark, forcing the monk to leap and catch the child — plunging beneath the snow crust in the process. The demon spun on Cyrrus and attacked in a flurry of deadly slashes, carving up the already battered warlock.
 
-The Oni throws the baby at Tark, forcing him to leap and catch the child, falling and plunging beneath the snow crust.
+Back at the farmhouse, Patches swore when her telescope showed nothing but white. She rushed through the bedroom, stabbing a sleeping half-ogre in the head as she passed, and found Buumi smashing the skull of another with a flash of divine light before fumbling for a diamond to revive the dead farmer. Downstairs, Fëanon rushed from the house in time to see Gwen and the war-tigers sprint out of the barn. He concentrated, tore a rift to the Plane of Fire and summoned a fiery Azer with instructions to find and slay the Oni.
 
-The Oni spins on Cirrus and begins attacking in a flurry of deadly blows, cutting up the already beleaguered warlock
+In the kitchen, Mr. Pickles and Gundren faced two more half-ogres. Gundren blasted one with a charged thundercannon shot, nearly killing it, and unloaded the second barrel into the one menacing Mr. Pickles. The wounded creature saw its allies dead, dove through a window and fled. The dying one in the kitchen staggered for the front door — and Gwen barrelled past Fëanon, charged her lightning blast and obliterated it in a torrent of gore. The bolt continued straight through the rear wall of the house. Outside, the fleeing half-ogre heard the blast and threw itself flat as the lightning sizzled overhead, burning it badly.
 
-Back at the farm house, Patches swears when she can see nothing but snow with her telescope and rushes into the main bedroom, past an unconscious half-ogre that she stabs in the head as she passes, killing it.
+Upstairs, Buumi pressed a diamond to Ned's chest and prayed. The farmer gasped awake, the axe wound scabbing over. Lyra woke in a panic, seized her bow, and demanded to know what was happening. Buumi gave her the essentials: Neero was a demon, he had stolen their baby and fled into the blizzard. Lyra charged from the room.
 
-Entering the room, Patches sees Buumi smash the skull in of another half-ogre in a flash of divine light from his hammer and then fumble at his pouch for spell components to help the now dead farmer.
+Out in the storm, Tark created a compacted pocket of snow, wrapped the baby in a winter cloak and prayed the insulation would hold. He leapt from beneath the surface, shadowstepped toward the Oni — and saw Cyrrus fall from the sky, his belly opened by one massive slash. The Azer tunnelled toward the fight like a fiery mole beneath the snow.
 
-Downstairs, Fey rushes from the house in time to see Gwen and the other Tiger mounts sprint out of the now open Barn. 
+Tark and Neero exchanged blow after blow. For every hit the monk landed, the Oni took two — but its wounds were healing faster than Tark could inflict them, and the extending katana was whittling the halfling down cut by cut. Tark summoned a globe of darkness on the sword to buy time. The Azer burst into the sphere, flanking the demon with its fiery hammer. Confused by the heat, Neero turned on the newcomer, giving Tark the opening to disengage and rush to Cyrrus's side.
 
-Fey concentrates 100ft in the distance, and tears a rift to the plane of fire and summons forth a fiery Azer with instructions to find and slay the Oni.
+In a compacted, blood-stained hole of snow, Tark found his friend pale and barely breathing. Crying, he searched his pack and pulled out a scroll of Mass Cure Wounds. He began reading, felt the magic build around him — and slip away. Without the arcane knowledge to focus it, the ink dissolved from the page. The scroll was destroyed. Tark grabbed his dying friend.
 
-In the kitchen, Mr. Pickles and Gundren face off against two more half ogres.  
+Patches leapt from her war-tiger into the snow beside them, pulled a potion from her belt and poured it down Cyrrus's throat. The warlock gasped and his eyes fluttered open. Tark let out a cry of joy and shadowstepped back into the globe of darkness.
 
-Gundren blasts the one on his left with a charged shot of his thundercannon, all but killing it and unloads the other shot into the half-ogre facing down Mr. Pickles, wounding it badly.
+Fëanon rode Aurora forward and threw the tiger at the Oni. The demon hurled the mount aside, but Fëanon stayed mounted and wheeled back around. The group surrounded the creature. Neero knew he was finished. He turned to gas.
 
-The Half-Ogre facing Mr. Pickles stumbles from the shot in its back and looks around, seeing all it's allies dead or unconscious and dives out of the nearby window, fleeing the scene.
+The darkness spell vanished and the group was left in the falling snow, unable to see the pale mist drifting across the ice crust — until it had moved twenty feet and Fëanon felt the subtle magic of the Gaseous Form spell. He targeted it with a fireball. The detonation evaporated a huge sphere of snow into steam. When it cleared, the broken and burned body of Neero lay at the edge of the blast. It twitched. The Azer walked over and flattened its head with a fiery hammer.
 
-The dying Half-Ogre in the kitchen manages to stagger to its feet, wheezing with every breath and stumbles toward the front door.
+Tark sprinted back to the baby. Cold and pale, but alive. He warmed the child as Buumi and Lyra arrived — the mother taking her son from the monk, weeping with relief.
 
-Gwen barges past Fey and moves into the house, charging her lightning blast and spotting the staggering and horribly wounded Half-Ogre.  She unleashes her lightning bolt directly into it, obliterating the target in a torrent of giblets.  The lightning bolt continues, blowing out the rear wall of the house.
+## The Spirit in the Ring
 
-The fleeing Half-ogre that dove out the window hears the blast and dives to the ground, into the snow just as the lightning bolt sizzles overhead, burning it badly.
+The group made it back to the farmhouse. Patches stopped to loot the Oni's remains — its magical sword and a pouch of platinum — while Fëanon took the shamisen. The family was awake and in shock. Together they sealed the house, built fires and made the shelter as hospitable as they could.
 
-In the floor above, Patches rushes to a window and looks down, calling to Kitty to come over so she can drop onto her mount.  
+During the night's reverie, Fëanon was visited by the spirit of Theodemir, his old mentor, residing within the fragment of the Last Word. Theodemir was glad to see his pupil free of the Illithid influence, but his tone was dire. The spell he had poured his very life force into — the one holding Zhengyi at bay — had been failing for the past year. A greater power was backing the Lich, slowly unravelling the enchantment. Theodemir had just nineteen hours before it collapsed entirely. He wished he had more time; he had a nugget of knowledge about time and space magic to bestow upon Fëanon before his spirit departed this plane.
 
-Fey calls Aurora to him and mounts the Tiger, riding off in the direction of the Onis tracks.
+Thinking fast, Fëanon pointed to his ring of mind shielding — his hand covered in dark veins from the fragment of the Atropal within. Together, master and student forced the Atropal shard from the ring and destroyed it, freeing a space for Theodemir's spirit to reside. Fëanon breathed a sigh of relief that his master might yet be restored. But Zhengyi was coming back, and there appeared to be nothing that could stop him this time.
 
-In the bedroom, Buumi grabs the diamond from his pack and with a prayer to Helm, asks that Ned be restored to life.  Ned awakes with a gasp, the axe wound on his chest scabbing over. 
+The next morning, the group helped repair the house and dispose of the half-ogre remains. Ned thanked the gods that the group had been there, saying he owed them a debt he could never repay. But the party was not convinced the attack had been random — a creature as rare and powerful as an Oni, here, now, was too great a coincidence. Ned insisted the group push on to Silverymoon and find out why its wards had been raised.
 
- Lyra, Ned's wife awakes with a start and panics seeing all the blood.
+On the road, Fëanon told the others about Theodemir's warning. Tark lifted his bag of holding and asked, panicked: did he have a lich in a bag? Fëanon tried to explain, but the information fell on panicked and less-than-receptive ears. The group doubled their pace toward the city.
 
-Leaping from bed and grabbing her bow from the hook next to it, Lyra demands to know what's happening.  An exhausted Buumi gives her the important info - Neero is a demon and has stolen her baby and fled out into the blizzard.
+## The Winter Solstice
 
-Lyra rushes from the room to go and find her child.
+Approaching Silverymoon, the group finally reached clear roads. Only a mile from the gates, they saw crowds of people — sleigh rides, elk and reindeer, Winter Solstice celebrations in full swing. Not the siege footing they had expected from a city with active wards.
 
-In the house, Mr. Pickles sprints upstairs just in time to see Lyra rush from her room.  The woman panics and almost shoots the Goblin before he can explain that he's a servant of Patches/Stitches.  Lyra pushes past and heads downstairs to don her winter gear and head out in pursuit of the Oni.
+At the Sundabar gate, they pushed to the front of a queue clogged by a burly merchant's weapons caravan. A guardsman recognised the party and let them through, handing a letter to Patches — still disguised as Stitches — as she passed through the Mythal.
 
-Meanwhile, Tark creates a small pocket of compacted snow, wraps the baby in a winter cloak and hopes the insulation will keep the baby alive.  Tark leaps from beneath the snow, high into the air and then shadowsteps to the Oni.  As he does so though, he sees Cirrus fall from the air, covered in cuts, his belly open from one massive slash and the Oni turns to meet the monks charge.
+Inside, the group split. Patches headed to the Spellguard offices to find Officer Li. The rest made for the Lady's College to search for something to stop Zhengyi, with Tark sprinting ahead.
 
-The fiery Azer, some fifty feet away, rushes toward the oni like a fiery mole beneath the snow.
+Patches reached Li's office and found the door locked. She let herself in and discovered the place ransacked — the Grell case missing, coagulated blood drops behind the desk, all papers gone. She rushed out and saw the weapons merchant caravan entering the city gate in front of her. The merchants were all large, tough-looking humans who moved with the grace of trained soldiers.
 
-Tark and the Oni face off, landing blow after blow upon one another.  For every blow the Oni lands on Tark, it takes two in turn.  However, the damage Tark inflicts seems to quickly heal and Tark finds himself being whittled down, cut by cut of the magically lengthening sword the demon is using.
+## Enemies Within
 
-Thinking quickly, Tark summons a globe of darkness on the sword to give his friends a chance to get to him before he's cut apart.
+Deeper in the city, the rest of the group pushed through the press of Winter Solstice revellers. Crossing the Moonbridge, Fëanon noticed fewer Amnian guards than when they had left — but more foreign travellers than the season would warrant. He looked closer and saw the pattern: groups of two or three foreigners, all very fit, all moving with military grace. In a panic, he pulled the group close and whispered that the city was being invaded. The merchants and travellers streaming through the gates were soldiers. Their wagons were laden with weapons.
 
-Fey and Patches rush onward, following the trail of the Oni through the snow atop their mounts, dashing as fast as they can.
+Fëanon grabbed a nearby urchin, pressed coin and candy into his hand and sent him running with a note to Maximus Maximus at the House Invincible. Patches caught up and confirmed what she had seen at the gate, corroborating the suspicion.
 
-The Azer finally catches up to the action and barrels into the globe of darkness, flanking the Oni with Tark and lending its fiery hammer to the fray.
+Cyrrus decided to probe the Amnian embassy directly. He headed off, with Patches shadowing at a distance. Near the embassy, he cast an illusion to appear as an Amnian captain — but two plain-clothes soldiers witnessed the switch and began tailing him. Patches noted them and hung back further.
 
-Confused by the heat, the Oni turns on the newcomer, cutting at the fiery creature.  This gives Tark the opportunity to disengage from the globe of darkness, leaping high over the Onis swinging sword, and rushing to a dying Cirrus' side.
+Cyrrus marched up to the Amnian guards and demanded to be taken to whoever was in charge, claiming he had returned from the Illithid colony with vital intelligence. The soldiers were sceptical but eventually relented and escorted him to the embassy gates. There, a guard pulled out a monocle and saw through the illusion. Cyrrus reacted instantly, casting Mass Suggestion on every guard in the area. All but one fell under his sway and — dropping the failed illusion — he was escorted inside under heavy guard.
 
-In a compacted and bloodstained hole of snow, Tark sees his friend, pale and breathing shallowly.  Tears streaming down his face, Tark frantically searches his belt and pack for something to save him.  He pulls out a scroll of Mass Cure Wounds and begins to read it, unsure of the process.  As he reads, he feels the magic building around him, but slipping away.  Without the arcane knowledge necessary to focus the magic, the ink dissolves from the page and the scroll is destroyed.  Tark grabs his dying friend, crying at his failure.
+From a nearby rooftop, Patches watched Cyrrus disappear into the building. Twenty feet away on the same roof, a figure in white clothing lay prone, covering the embassy with a heavy crossbow fitted with a telescopic sight identical to her own.
 
-Just then, Patches leaps from her War-tiger into the snow next to them and pulls a potion from her belt, pouring it down Cirrus' throat and the Warlock gasps and his eyes flutter open.
+Inside, a captain halted Cyrrus and sent word up. A well-dressed Amnian watched from the second-storey foyer — middle-aged, fit, neatly trimmed hair and a precisely cut beard. After several minutes, a guard returned with the answer: Shaahir was debriefing Abdul and Cyrrus was to be sent away. Guards appeared from every hallway and door, making it clear the warlock should leave.
 
-Tark lets out an exultation of joy and shadowsteps into the globe to attack the Oni.
+Just as Cyrrus turned, the sharp-looking man descended the stairs. He introduced himself as S'Olaa — Cyrrus's brother and now head of the Al'Kayan clan. In a conspiratorial whisper, S'Olaa thanked Cyrrus for killing their father; he had been waiting years to take over the family. He remarked that he had no desire to know another brother, much less a freak Tiefling, and dismissed Cyrrus with a confident smirk.
 
-Riding forward, Fey instructs the war-tiger he is on to pounce on the Oni, but the powerful creature throws the Tiger off.  Fey stays mounted and whirls the tiger back on the Oni.
+Patches saw Cyrrus leave and met him once they were out of sight. She noted the two plain-clothes soldiers breaking off their tail. They exchanged information and made for the Lady's College, Cyrrus bamfing through the city with Far Step while Patches sprinted to keep up.
 
-The group surrounds the creature...
+## The Dean's Estate
 
-Back at the house, Buumi and Lyra have sprinted off into the blizzard, following the tracks on foot and leaving Gundren and Gwen in the house.
+At the college, the rest of the group found the campus largely deserted — a group of students were betting on animated snowman fights in the quad. The students informed them that the college was closed for the holiday and the Dean would be at home, though most had no idea where he lived. One young elf mentioned the Estate District. Tark sprinted off. Fëanon pressed until he had a rough description of the estate and followed, leaving Buumi and Gundren behind to wait for Patches and Cyrrus.
 
-Gundren goes around to each sleeping Half-Ogre and executes them with his double-barrelled shotgun, the last one waking up just long enough to land a pathetic strike on Gundrens breast plate.  It looks in confusion at it's weapon just before its head is blown apart by the dwarfs firearm.
+Fëanon caught the anxious monk and directed him to a large gated estate with a City Guard standing watch. They explained the situation — a matter of life and death — but the guard had his orders and would not let anyone inside. Tark tried to shadowstep over the ornate fence and bounced off an invisible barrier. The guard lowered his halberd and told them to leave. When they refused, he called for backup. Two more City Guards arrived. Tark tried a second time, higher, and hit the wall again.
 
-Walking to the hole in the back of the house, Gundren looks out to see the lightning-burned Half-Ogre hobbling away.  He lines up a shot with his thundercannon and shoots it square in the back, dropping it...
-
-The main group has the Oni completely surrounded and Neero knows he's in a tight spot.  Thinking quickly, he transforms into gas.
-
-The Darkness spell disappears and the group is left in the falling snow, unable to see the pale mist slowly moving across the surface crust of ice.
-
-That is, until Neero makes it about twenty feet away and Fey feels the subtle magic of the Gaseous Form spell and targets it with a fireball.
-
-The conflagration detonates, evaporating a huge portion of snow instantly into steam.  When it clears, the broken and burned body of Neero is on the edge of the blast.  The body begins to move, but the Azer walks up to it and flattens its head with a fiery hammer.
-
-Tark rushes back to the baby, finding it cold and pale, but alive.  Tark begins to warm the baby as best he can.
-
-Buumi and Lyra make it to the group, Lyra taking her baby from Tark, crying in happiness to see her baby alive. 
-
- Buumi begins casting healing spells and picking up the injured to take them back to the house.
-
-**Back at the Farmhouse**
-
-The group easily makes it back to the house, Patches stopping to loot the burned remains of the Oni, taking it's magical sword and a pouch of platinum coins. Fey taking the Shamisen.
-
-At the house, the family is awake and shocked to see the carnage and damage.  They do what they can to seal the house and build a fire, making the shelter as hospitable as they can.
-
-The group settles in for the night, casting healing spells and ensuring everyone is comfortable and safe.
-
-During the nights reverie, Fey is visited by the spirit of an old friend. Theodemir, the soul of his mentor within the fragment of The Last Word.
-
-Theodemir is happy to see his star pupil free of the Illithid influence but remarks that things are dire.  
-
-The spell stalling the return of Zhengyi has been failing slowly for the last year as a greater power backs the Lich, slowly unraveling the spell that he, Theodemir, had poured his very life force into.
-
-Theodemir remarks that he wishes he had more time, that he has a nugget of information on Time and Space magic to bestow upon Fey before his spirit leaves this plane.
-
-Theodemir has just 19 hours, until the spell keeping Zhengyi at bay is ended.
-
-Unwilling to let his mentors spirit leave and thinking quickly, Fay points to the ring of mind shielding on his hand.  His hand covered in dark veins and tendrils in the dreamscape from the fragment of the Atropal within.
-
-Together, Fey and the spirit of Theodemir force the piece of the Atropal from the ring and destroy it, allowing Theodemir's spirit to reside within the Ring of Mind Shielding.
-
-Fey breathes a sigh of relief, that maybe he can restore his master.  Zhengyi however, is coming back and there does not appear to be anything to stop him this time.
-
-The next morning, work begins in earnest to repair the house and remove the bodies.
-
-Tark, Buumi and Lyra make a stack of Half-Ogre "bits" off in the woods, Lyra asking why the group travels with a Goblin of all things.  Tark doesn't understand her prejudice.
-
-In the house, everyone else is hammering nails and boarding up the hole in the house or scrubbing away at bloodstains.
-
-Everyone chats about the event, Ned thanking the gods that the group was here to save him and his family, that he owes them a debt he can never repay.
-
-The group however is not convinced that the Oni attack was random.  A VERY rare and powerful creature like that...what are the chances?
-
-The party asks if there's anything else to be done at the house but Ned and his family insist that they have everything taken care of, that the party needs to go and check on Silverymoon and find out why it's wards have been raised.
-
-Gathering their things, the party makes due haste toward Silverymoon, only 10 miles away.
-
-On the way, Fey informs the group that he was visited by his old master, and relays the information about Zhengyi.
-
-Panicked, Tark lifts up his bag of holding as asks if he has a "Lich in a bag!?".  Fey attempts to inform the halfling, but it falls on panicked and less than intelligent ears.
-
-The group doubles their efforts to make it to the city, hoping to find something there to forestall the powerful Lichs return.
-
-**Silverymoon**
-
-Approaching the city, the group finally makes it onto clear roads.
-
-Only a mile away, the group sees crowds of people outside the city and as they approach, they see people enjoying sleigh rides or riding upon Elk and reindeer.  Not what they expected from a city with active wards.
-
-The group makes their way up to the Sundabar gate, ignoring a group of druids and their animals that have gathered quite a crowd, among them a towering Frost Giant woman.
-
-With more pressing matters however, the group ignores the festivities of the Winter Solstice festival and joins the line trying to enter the gate.
-
-Through forcefulness, the group makes it right to the front of the line but are held up by a burly merchant arguing with the city guard.
-
-The merchant is bringing in weapons to sell and his caravan is pretty large and has caused a bit of a traffic jam as citizens try to leave the city to see the Druids and their animals.
-
-Impatient, the group waves over one of the guardsmen and demands immediate access.  The guard recognizes the party and lets them inside, handing a letter to Patches (as Stitches) as she enters the city, pushing through the Mythal wards of the city to gain entry.
-
-Once inside, the group splits up with Patches heading to the Spellguard offices to find Officer Li.  The others head directly to The Lady's College to try and find something to stop Zhengyi, Tark veritably sprinting ahead.
-
-Patches heads into the offices and after a quick exchange with the desk officer, is let upstairs to meet Officer Li.  She gets to her office and finds it locked.  Unlocking it quietly, Patches slips inside and finds the place ransacked.  Checking the office, Patches finds the Grell-Case missing and some coagulated blood drops on the floor behind the desk.  All papers seem to be missing and the place is completely tossed.  
-
-Patches rushes out of the offices.  She sees the weapon merchant caravan just then entering the city gate in front of her and notes the number of merchants.  All large, tough looking humans and all moving with the grace of trained soldiers...
-
-Further in the city, the group is trying to make their way through the press of citizens enjoying the Winter festival.  Moving over the Moonbridge, the group notes Amnian guards, but not as many as when they were leaving.  The press of citizens is significant though and the atmosphere jovial.  Looking around, Fey notes many foreign travelers, more than is usual for the time of year.  Suspicious, he looks a little closer at the crowd and begins to note a pattern. 
-
-Groups of two or three foreigners, often very fit looking and moving gracefully.  It clicks and in a panic, Fey turns to the group and tells everyone to huddle close.  He whispers to them that the city is being invaded even now, that the merchants and travelers coming in are soldiers and their wagons are laden with weapons.
-
-Fey grabs a nearby urchin and offers the child coin and candy to take a message to Maximus Maximus in the House invincible.  The child does not seem to grasp the message but readily agrees to take a note and rushes off with a letter.
-
-Patches makes it back to the group and tells them what she saw at the gate, confirming Fey's suspicions of invasion.
-
-Cirrus decides to go and get more information and heads off toward the Amnian embassy, Patches shadowing at a safe distance.
-
-As Cirrus nears the embassy, he illusions himself to look like an Amnian captain when no one is looking.  Two of the foreign soldiers however see the switch and begin shadowing Cirrus, Patches notes this and hangs back even further to avoid being seen.
-
-Approaching the Amnian soldiers, Cirrus demands to be taken to see who's in charge at once, that he's back from the excursion to the Illithid colony and has vital information.  The soldiers are skeptical at first, but eventually relent and escort Cirrus to the front gates of the Embassy.
-
-Patches scales a nearby building and watches from a snowy rooftop. Twenty feet away, on the same roof, she spots a figure in white clothing, laying on the roof with her and covering the Embassy with a heavy crossbow with a similar telescope to her own...
-
-Down at the Embassy gate, Cirrus gives the guards the same spiel.  The guards are under strict orders not to let any strangers inside and on a hunch, one of them pulls out a monocle and sees through the illusion the warlock is maintaining.
-
-Suddenly on guard, Cirrus reacts, quickly casting a Mass Suggestion spell on every guard in the area.  All but one fall under his sway and after a few exchanged words, and dropping the failed illusion, the guards let Cirrus inside under heavy guard.
-
-Seeing this from the rooftop, Patches loses eyes on Cirrus as he enters the building.  The sniper nearby does not seem to react to the events below.
-
-Inside the embassy, a captain halts Cirrus at the door and asks his business.  The place is a bustle of activity.  The captain sends a guard to see if anyone of high rank will see Cirrus and then waits, with guards, watching the Warlock.
-
-Cirrus notes a well dressed Amnian on the second story foyer stairs.  The middle aged, but fit man has neatly trimmed hair and a precisely cut beard and appears to be watching him. 
-
-After a few minutes, the guard returns and remarks that Shaahir is debriefing Abdul and that Cirrus is to be sent away.  Guards appear from hallways and doors and make it very clear that Cirrus is to leave.
-
-Just as Cirrus turns to leave, the well dressed, sharp looking man descends the stairs and walks up to him.  He introduces himself as S'Olaa, Cirrus' brother and now head of the Al'Kayan clan.  Conspiratorially, S'Olaa whispers to Cirrus that he thanks him for killing their father, that he had been waiting to take over the family for years. He remarks that he has no desire to know another brother, much less a freak Tiefling and then dismisses Cirrus from the building with a confident smirk on his face.
-
-Patches sees Cirrus leaving and descends from the rooftops to join him once he's out of line of sight of the building.  She notes the two foreign, plain-clothes soldiers that were tailing Cirrus leave and walk off down the street, away from the area.
-
-Cirrus is startled as Patches sidles up, they exchange information on what they saw and decide to meet up at the Lady's College, where the rest of the group is headed and Cirrus begins rapidly bamfing through the city using Far Step.
-
-Patches rushes to catch up.
-
-Over at the college, the rest of the group enters the campus and look around to see a number of students lounging about in the Quad.
-
-Seeing one large group betting on animate-snow-men fights, they head over to ask the location of the College Dean.
-
-The annoyed students quickly let the party know that the college is closed today as it's a holiday and the Dean wouldn't be around, that he is most likely at home.
-
-When pressed, many of the students admit they don't know where Dean Sejuk lives, until one young elf woman mentions it's almost certainly in the Estate district.  Hearing this, Tark sprints off to the same district Georg lived in.
-
- Fey remains behind, pressing the students until he manages to get a vague description from the Elf of Sejuk's estate.
-
- Fey hurry's on to catch up with Tark, while Buumi and Gundren remain behind in case Patches and Cirrus catch up.
-
-Catching up to a confused and anxious Tark, Fey directs the beleaguered monk to a large gated estate, a City Guard standing outside with an ornate halberd.
-
-They approach the guard and explain the situation, that they must meet with Dean Sejuk and it's a matter of life and death.  The guard has his orders and won't let anyone inside.
-
-Frustrated and with the sun setting, Tark tries to shadowstep over the ornate fence, only to hit an invisible barrier and bounce off.  The guard reacts negatively to this percieved forced entry and lowers his halberd, asking the two to leave.
-
-When Fey and Tark refuses, the guard calls for backup and two more City Guard arrive.  The rich estates are well patrolled.
-
-Tark tries again to shadowstep over the fence, higher up this time and hits the invisible wall again.  
-
-Just as the guards have had enough, Fey tries one last time and exasperated, the guards relent and the original goes to knock on the door...
+Just as the guards lost their patience, Fëanon made one final plea. Exasperated, the original guard relented and went to knock on the door.

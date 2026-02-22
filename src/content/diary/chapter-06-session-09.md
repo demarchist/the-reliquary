@@ -1,12 +1,11 @@
 ---
-title: Silverymoon - Session 9
+title: The Crater and the Dragon
 chapter: 6
 chapterTitle: Silverymoon
 session: 9
+summary: "Free of the Illithid hive, the group camps in the devastated crater, heals the Amnian survivors, and escapes by improvised glider — crash-landing in the mountains before stumbling upon a young Red Dragon named Vaelstraza bathing in volcanic hot springs."
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
-  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -15,15 +14,13 @@ people:
   - "megno-slatesunder"
   - "omar"
   - "pickles"
-  - "ront"
-  - "selune"
   - "tarkathee-daru"
+  - "vaelstraza"
 places:
   - "amn"
-  - "barovia"
+  - "baldurs-gate"
   - "gauntlgrym"
   - "silverymoon"
-  - "snorbuls-hole"
   - "sundabar"
 things:
   - "bag-of-holding"
@@ -33,174 +30,68 @@ factions:
   - "illithid-faction"
 ---
 
-The group finds themselves in the bottom of the crater once occupied by the Illithid hive.  No snow falls, but the wind is biting this high up in the mountains and the sun is getting low on the horizon. 
+## Free at Last
 
-Fey breaks down in tears, finally free of the whispers of the Illithid hive after fifty years (150 counting Barovia?).  Tark and Buumi console him, even Patches seems moved
+The group found themselves at the bottom of the crater once occupied by the Illithid hive. No snow fell, but the wind bit hard this high in the mountains and the sun hung low on the horizon. Fëanon broke down in tears — finally free of the whispers that had plagued him for fifty years. Tark and Buumi consoled him while even Patches seemed moved.
 
-Group looks for shelter, finds several possibilities.
+Searching for shelter, Patches spotted a patch of white nearby and investigated. It was not snow but a bone pile — the Illithids' dumping ground. She picked through the remains and found a collection of jewellery stripped of its gemstones — wedding rings, earrings, worth perhaps seven hundred and fifty gold — and an Archmage's brooch from Silverymoon. The rest of the group found a small cave among the rubble and made camp, setting a fire in a natural chimney.
 
-Patches spots a patch of "snow" nearby in the bottom of the crater.  Investigates it to find that it's a pile of bones, the dumping ground for the Illithids.  She searches the pile, finding a lot of jewelry (wedding rings, earrings etc. 750g) with the gemstones removed.  She also finds an Archmage Brooch from silverymoon.
+As the rocks and debris finally settled, they heard the wails of the wounded and dying — the Amnian force that had been in the area when the hive collapsed. The group stayed to make camp while Patches scaled the sheer crater walls for a better view. She reached the top just in time to see a wounded Amnian soldier stagger to the edge and peer dazedly in, apparently not seeing the soft glow of the campfire below. Cyrrus sent his owl overhead and from the air the picture became clear: a field of blood and corpses, the earth torn open as if the Illithid sentry golems had sprung from beneath it. All but thirty of a two-hundred-strong force had been slaughtered. The survivors were attempting to consolidate and tend to their wounded.
 
-The rest of the group finds a small cave among the rubble and makes camp, setting a fire in a natural chimney.
+## Aid to the Amnians
 
-As the rocks and debris have finally settled, the group hears the wails of the wounded and dying - the Amnian force that was in the area.
+Patches rushed back to inform the group and found them already making plans. Gundren stayed behind with Alura, the Mindslayers, Gwen and Fëanon while the rest headed to the surface. Cyrrus and Buumi floated up by levitation, Patches scaled the cliff face, and Tark simply leapt twice — barely making the rim and startling the concussed Amnian soldier.
 
-The group stays to make camp as Patches scales the sheer Crater walls for a better look. 
+The group convinced the wounded man he needed help and Buumi healed his head wound. The now clear-headed soldier recognised who they were and grew reluctant, but the group pressured him into leading them to the larger batch of survivors. There they found Captain Omar — an older man in his fifties with a huge bristly grey moustache, serious dark eyes and rich armour, a white turban and gold helm — seated astride a warhorse, surveying the carnage.
 
-She reaches the top just in time to see a wounded Amnian come to the edge of the crater and look dazedly in, apparently not seeing the soft glow of the campfire beneath him.
+The group struck a deal: they would heal as many of his men as they could. Cyrrus and Buumi made rounds, finding the most severe injuries and stabilising them. Tark, Patches and Gwen commandeered a small sled, dumped the crossbow bolts and went around the battlefield collecting the wounded. Patches steered while Tark stabilised each one. She found several intact healing potions on the dead and used a few to save the living — pocketing the rest.
 
-As Patches scouts, Cirrus' Owl flies overhead.
+By the time the cries of the wounded had faded to silence, many lives had been saved. Omar was saddened but immensely grateful. His surviving men had set up a winter camp as the sun went down. The Captain remarked bitterly that his force had not been prepared for this engagement — his anger directed not at the group but at his commanding officer.
 
-Patches heads in far enough to see the disturbance in the dimming winter sunlight - a field of blood and corpses.  From the air, the Owl sees a slight pattern, as if the Illithid sentry golems had sprung out of the earth. 
+Two horses galloped over from another cluster of survivors. Abdul Al Suyuuk dismounted, flanked by a cloaked wizard the group did not recognise. Abdul saw the group and erupted, blaming them for the disaster and moving to order an attack. Omar and the wizard stepped close and talked him down in Amnian. Red-faced, Abdul turned his horse and galloped back to his personal guard, the wizard in close pursuit.
 
-All but 30 or so of the Amnian force of 200 has been slaughtered.  The survivors are attempting to consolidate and tend to their wounded.
+Omar apologised and thanked the group before ordering them to leave so as not to further provoke his superior. As they departed, he tossed a small ring to Cyrrus — a token of his gratitude. Patches, meanwhile, lingered above, stalking Abdul back to his camp. She overheard the robed wizard being called Leigham but could make out nothing else of their conversation. Feeling the cold bite, she crept to Abdul's horse, emptied his saddlebags of twenty-five platinum and a very fine set of rations, and returned to camp. She handed the fancy rations to Fëanon to cheer him up.
 
-Patches rushes back to inform the group. And finds them already making plans. Gundren stays behind with Alura, The Mindslayers, Gwen and Fey while everyone else decides to go and help the Amnians.
+## The Bag and the Pull
 
-Cirrus and Buumi float to the top of the crater using levitation, while Patches scales the side with her climbing and Tark simply leaps twice, making it barely to the top and startling the concussed Amnian.
+The next morning the group packed up and left the crater, finding that the Amnians had departed even earlier. On the march, Tark opened his bag of holding to inspect the new artefact fragment. As the bag opened, a charge of energy built around him and twenty feet behind on the path, Buumi lurched forward as if shoved. Tark closed the bag quickly and eyed his friend with suspicion.
 
-The group convinces the wounded man that he needs help and Buumi heals his head wound.  The now clear-headed man realizes who the group is and becomes far more reluctant to engage.
+After half a day of uneventful travel — sledding on Buumi's shield and using the packed snow of the Amnians' passage as a road — the group reached the village of Gashaus, where they had met Marian, Abner's daughter. They barged into the inn and found the fiery young woman passed out from drink. Fëanon took her upstairs to rest while the party settled in for the night, reuniting with their mounts and Mr. Pickles.
 
-The group pressures the man into taking them to his comrades and the fact they healed him convinces the Amnian and he leads them to one batch of survivors.
+The next morning, a grumpy Marian woke to find her inn full of adventurers and grudgingly made breakfast. The Mindslayers and Alura decided to stay in Gashaus until the snow eased, helping Marian and the villagers. The group agreed and pushed on alone.
 
-Walking through the blood, the group makes it to the larger batch of men and talk with the General there - Captain Omar, an older man in his fifties with a huge bristly grey mustache, serious dark eyes and rich armor - a white turban and gold helm.  He is astride a warhorse.
+That night, Cyrrus and Fëanon contacted Megno Slatesunder through a dream spell. Fëanon told the enchanter that the Illithid influence was gone. Megno was genuinely happy to hear his friend was free. Fëanon then told him about the Dwarven adventurer's journal and the need for a translation of Old Delzoun — a language Megno had recently been studying. The enchanter agreed enthusiastically and said he would meet them in Silverymoon within the week, as he was already planning to attend treaty negotiations there.
 
-The group make a deal with the distraught man, offering to help heal as many of his men as they are able.
+## A Lazy Morning
 
-Cirrus and Buumi begin making rounds, finding the most severe of the injuries and healing them enough to save the wounded.
+Mr. Pickles brewed tea for Patches and produced a pouch of Orcish Rudgrub Hash he had found in the pantry. Patches took the hash to sell later. Fascinated by the ritual, Fëanon asked for a cup and thoroughly enjoyed the green tea alongside the wine and smoked meats Patches had given him.
 
-Tark, Patches and Gwen grab a small sled, cast out all the crossbow bolts and begin going around collecting injured from the battlefield, saving many lives.
+Over tea, Fëanon asked Patches about her training. She revealed that her brother — the Weapons Master of her noble house — had taught her combat from a young age. At twenty, she had been sent to train as a cleric of Lolth. The group pressed for more and extracted a story about Patches spending time in a Baldur's Gate circus — to catch a target — where she had learned knife throwing. Tark grabbed an apple and asked for a demonstration. Patches hit it perfectly, slicing it in half. Buumi missed with his hammer and smashed a hole in the wall. The Mindslayers sighed and set about patching it.
 
-Patches spots the wounded, steering the cart while Tark stabilizes the wounded.  Patches finds several intact healing potions from the dead and they use a few to save the living (and pocket a few more).
+## The Glider
 
-Exhausted and the cries of the wounded becoming the silence of the dead, the group reconvenes with Omar - who is saddened, but immensely grateful for the lives that were saved.  Meanwhile, the healthy men had set up a winter camp as the sun was setting.
+After the lazy morning, the group decided to find the glider they had arrived in. Half a mile from town, they pieced together their memories of the night and narrowed down the location beneath the fresh snowfall. Finding nothing with bare hands, Fëanon summoned a massive spectral hand and swept the snow aside. Just before the spell ended, the top of the glider was uncovered.
 
-Omar remarks that he and his men were not prepared for this engagement, he does not seem to blame the group, so much as his commanding officer.
+They spent hours excavating and de-frosting the craft above the treeline. Fëanon tried to wrench the door open against what he assumed was ice — until Cyrrus simply unlocked it. Inside, Fëanon found a piece of purple chalk he had left behind and spent several minutes sketching a teleportation circle to get them back to Silverymoon. He activated the circle. Nothing happened. He tried again with the same result. Studying the runes and meditating on the magical emanations, he determined the problem was not on his end — the Mythal was active and disrupting teleportation in and out of the city.
 
-Just then, two horses gallop over from another batch of survivors - Abdul Al Suyuuk and a cloaked wizard that none of the group recognize (Leigham Al Suyuuk).
+Alarmed, Fëanon informed the group. They would have to fly.
 
-Abdul recognizes the group and fumes, blaming them for this disaster.  He is about to order an attack when Omar and the Wizard step in close and apparently talk him out of it (in Amnian).
+Meanwhile, Gundren took several of his shells and blackpowder charges and built a large firework rocket, strapping it to the craft. Everyone took positions — Gundren at the pilot's seat, Fëanon as co-pilot, Patches, Cyrrus, Mr. Pickles and the cats in the back, Buumi and Tark outside to push. They ran with the glider, picking up speed on the snowy slope, until Buumi hopped inside and Tark leapt on top, content to hang on. The craft launched off a cliff and began a lazy glide into the valley. Fëanon took the stick while Gundren ran back and lit the rocket. The glider surged higher — Tark screaming from the roof as it shook — before the rocket tore free and careened into the mountainside, detonating a small avalanche.
 
-Red faced, Abdul turns his horse and gallops back to his personal guard, the Wizard in close pursuit.
+The glider covered a good twenty miles before Fëanon brought it in for a landing, aiming for the snow-covered Tradesway between Sundabar and Silverymoon. Ten feet above the ground, one wing clipped a tree and was ripped away, sending Tark flying into a snowbank and the glider crunching down the last few feet. The mangled craft slid to a halt. Tark waved from far behind, then slumped back into the cold white powder. The group came together laughing, fierce grins on every face.
 
-Omar apologizes and thanks the group before demanding they leave, so as not to further anger his superior.  The group heads out but not before Omar tosses a small ring to Cirrus as a token of his gratitude.
+## The Hot Springs
 
-Patches stays up top, stalking Abdul back to his camp. She watches the Amnian politician and his Wizard - who she overhears being called Leigham - talk, but cannot make out anything except the name of the robed Wizard.  
+The sun set quickly behind the mountains and the cold of night crept in. Gundren noticed the river here was oddly clear of ice and spotted a warm stream flowing in from the hills. They waded through the deep snow, found the hot-spring-fed stream and followed it to its source — hoping for a warm place to camp.
 
-Feeling the cold beginning to bite at her, Patches sneaks over to Abdul's horse, steals the contents of his saddlebags - 25 pp and a VERY nice set of rations - and makes her way back to the group's camp
+Patches took point. A splashing sound reached them from ahead. She crept forward into a de-frosted clearing around a large heated pool. Blue, steaming water shimmered in the moonlight, an ice waterfall trickling in at the back to moderate the temperature of the volcanic spring. And lounging in the pool was a young Red Dragon.
 
- Back at camp, the group relays what had happened to the others and they settle in for the evening.  Patches hands Abdul's fancy rations to Fey to make him feel better. 
+Patches froze behind a tree and whispered over the rockie talkies. The dragon heard and began calling out, her tone oddly friendly. The group — reasoning they had fought worse — walked into view. The dragon looked around in surprise, then settled back into the pool with casual confidence. She introduced herself as Vaelstraza, a migrating young Red, looking to make her home in Gauntlgrym after hearing the call of the Fire Primordial Magaera.
 
-Thinking over the events of the day, the group heads to sleep.
+The group engaged the dragon in conversation. Tark eventually grew comfortable enough to dive into the pool — and got a little burned — swimming alongside her. Patches came out from behind her tree once it became clear the dragon would not attack. As thoughts turned to food, Vaelstraza casually mentioned eating one or two of them. The group chuckled — because everyone present knew how that fight would end — and offered dinner instead.
 
-  The next morning, the group packs up their camp and leaves the crater, finding that the Amnians had left even earlier.
+Patches headed into the night to hunt. She found a nearby elk herd, slid across the frozen snow crust and quietly slit the throats of two large specimens before the scent of blood startled the rest into flight. She field-dressed the kills and called Buumi on the rockie talkies. The paladin arrived moments later, wading effortlessly through the deep snow, and shouldered both massive elk — one hand of flesh, one of glowing green energy.
 
-While walking, Tark opens his bag of holding to inspect the new Artifact fragment the group had recieved.  As the bag opens, Tark feels a charge of energy build around him and twenty feet behind on the path, Buumi acts as if he is shoved forwards, toward the Halfling.  Tark closes the bag quickly and eyes Buumi suspiciously.
+Back at the springs, the two elk were dumped before the dragon. Vaelstraza inhaled and roasted them in a single breath as the group dove for cover. She claimed an entire elk for herself and left the other for everyone else, cats included.
 
-After a half day of uneventful travel and sledding using Buumi's shield.  The group, using the packed snow as a road from the Amnians passage ,  makes it back to the village of Gashaus.   Where they had met the daughter of Abner: Marian.
-
-Barging into the inn, the group found the fiery young woman passed out from drink.  Fey takes her upstairs to make her comfortable while the rest of the party begins setting up for the night - making food and the like.
-
-The party reunites with their mounts and Mr. Pickles.
-
-The next day, Marian wakes to find her inn filled with adventurers.  Grumpily, she makes breakfast.  The mindslayers and Alura decide to stay in Gashaus village until the snow melts a little more, helping Marian and the villagers.  The group agrees and decides to push on back to Silverymoon themselves.
-
-Having a thought, Cirrus and Fey attempt to contact Megno with a dream vision and luckily, the Dwarf is still asleep.
-
-Fey tells Megno that Nostalgia is gone and the Dwarf is truly happy that his friend appears to be free of their influence.  Fey then relays to Megno about the Dwarf adventurer's journal and that the group needs a translation of Old Delzoun - a language Megno has been recently studying.  
-
-Megno enthusiastically agrees, wanting to read the book and tells the group he will meet them in Silverymoon in a week as he was already planning on heading there for some treaty negotiations.
-
-The spell ends and Fey relays the dream to the group.
-
-Mr. Pickles brews some tea for Patches and reveals a pouch of Orcish Rudgrub Hash that he had found in the pantry.  Patches takes the Hash to sell later.
-
-Fascinated by the tea ritual and curious, Fey asks for some tea and thoroughly enjoys his cup of Green tea to go with the wine and smoked meats Patches gave him.
-
-Fey asks Patches about her training and Patches reveals that she was trained in combat by her brother - the Weapons Master of her noble house.  At the age of 20, she was then sent to train as a cleric of Lolth.
-
-The group finds this fascinating and even gets a tid bit about Patches time in a BG circus (to catch a target) where she learned knife throwing.  Tark grabs an apple and asks for a demonstration.
-
-Patches hits the apple perfectly, slicing it in half  and Buumi missed with his hammer, smashing a hole in the wall.  The mind slayers sigh and get to work patching the hole.
-
-After a lazy morning, the group decides to go and try to find the glider they came in on, heading down the mountain to look for it.  A half mile from town, the group manages to combine their memories of the night and find the general location of the Glider, but it's nowhere to be found.
-
-Covered from recent snow fall, the group narrows down the area and begins to dig.
-
-Having no luck, Fey summons a massive construct of a hand and begins sweeping the snow aside.  Just before the spell ends, the top of the glider is found.
-
-The group spends the next few hours uncovering and de-frosting the Glider above the tree line, high up on the mountainside.
-
-Fey has a thought however and tries to open the door, straining against the "ice".  Until cirrus unlocks the door and it opens easily.
-
-meanwhile, Gundren takes several of his shells and blackpowder and creates a large fire-work rocket, strapping it to the craft.
-
-Inside, fey finds a piece of purple chalk that he had forgotten in the craft and spends the next several minutes sketching out a teleportation circle to get them back to Silverymoon even faster.
-
-Activating the circle...nothing happens.  Confused, Fey starts over...with the same result.  Studying the runes of his circle and meditating on the magical emanations of his malfunctioning spell, he determines that the issue is not on his end, but on Silverymoon's - The Mythal is active and disrupting teleportation in and out of the city.
-
-Alarmed, he informs the group and they decide to make use of the glider to get back to the city quickly.
-
-the group get's into position in and around the glider. Gundren takes the pilot seat, with Fey as co-pilot.  Patches, Cirrus, Mr. Pickles and the cats are in back while Buumi and Tark are on the outside to give the Glider a push.
-
-They push, and begin running with the glider, picking up speed.  
-
-No longer able to keep up, Buumi hops inside and Tark hops on top of the glider (content to hang on...).
-
-Buumi takes his seat with Patches and the pilots steer the craft steadily to a cliff.
-
-Picking up speed on the snowy slope, the craft launches off the cliff and begins a lazy glide out into the valley.
-
-Giving the stick to Fey, Gundren runs back and ignites his rocket, launching the glider higher (Tark screaming from on top as the craft shakes at high-speed).
-
-The rocket shakes free and careens off, exploding on the mountainside and causing a small avalanche.
-
-The glider makes it a good twenty miles before it finally has to be brought in for a landing.
-
-Fey at the stick, he aims for a pathway of cleared trees - the snow covered Tradesway road between Sundabar and Silverymoon acting as a runway.
-
-Ten feet above the ground, one wing clips a tree and is ripped off, sending Tark flying into the soft snow below and the glider crashing down the last few feet.
-
-The mangled craft comes to a halt, many of the party thrown from the craft into soft snow.  Tark looks up from far behind the wrecked craft, waving at the group before slumping back into the cold, white powder.
-
-Thrilled at the flight and descent, the group all comes together, fierce grins on their faces and laughing at the ridiculousness of everything.
-
-The sun goes behind the mountains, setting quickly and the cold of night begins to creep in.  Looking around at the terrain, Gundren notes the river here is oddly clear of ice and spots a small heated stream flowing into the river downstream. 
-
-Wading through the deep snow, the group makes it to the point in the river where the two bodies of water meet up and easily spot the hot-spring fed stream ascending into the hills.
-
-Using Gwen as an anchor, the mechanical lion leaps across the river and the group uses a rope tied to a tree to shimmy across the cold waters without incident.
-
-Now on the same side of the river as the heated waters, the group decides to follow them to their source, hoping to spend the night at some relaxing hot-springs.
-
-Patches takes point when suddenly everyone hears a splashing from up on ahead.
-
-Sneaking in, Patches makes it out of the snow and into a de-frosted area around a large heated pool.  
-
-The blue, steaming waters have an ice waterfall trickling in at the back, moderating the temperature of the volcanic spring...and a young red dragon lounging in the pool.
-
-Patches freezes behind a tree and rockie talkies to the group, relaying the dragon information.  The dragon hears the whispers and begins calling out to the person it knows is out there.
-
-The group, hearing this somewhat "friendly" sounding call decides that they've fought worse, and really want to see a live Red Dragon and walk into view.
-
-The dragon looks around in surprise before lounging back into the pool, seemingly confident.  She introduces herself as Vaelstraza, a migrating Young Red, looking to make her home in Gauntlgrym after hearing the call of the Fire Primordial there - The Dawn Titan Magaera.
-
-Not wishing to disuade the dragon, the group engages in conversation.  Tark eventually gets comfortable enough to dive in (and get a little burned!) and swim with her and Patches come out from behind a tree once she realizes the dragon won't attack.
-
-Beginning to lounge and set up camp for the evening, thoughts turn to food, the dragon casually mentioning eating one or two of them.
-
-Chuckling (because everyone there knew the Dragon would die...) the group offers dinner and Patches heads out into the night to try and find a nearby herd of Elk the Dragon heard pass by earlier.
-
-Easily finding the tracks and droppings, Patches sneaks up to a small herd of Elk, sliding across the surface of the frozen snow. She finds two large specimen and quietly cuts their throats while they sleep. The herd is startled on the second cut as the scent of blood fills the air from the first and the rest of the herd bolts.
-
-Patches begins field dressing the kills and calls back to Buumi with the Rockie Talkies for the strong Paladin to collect the meat.
-
-Buumi shows up quickly, simply wading through the deep snow effortlessly, shoulders both massive Elk (one hand made of green energy).
-
-Back at the hot springs, the two Elk are dumped in front of the dragon and she inhales to cook them. The group dives out of the way and the Elk are roasted.
-
-Vaelstraza takes an entire Elk herself and leaves the other for everyone else (including cats).
-
-Full from a good mea, warm and enjoying a beautiful clear night the group looks upon the scene before them. A beautiful Dragon lounging in hot-springs, deep in the winter mountains of Luruar on a clear December night, the light of Selune shining off the pure white snow.
-
-The group sleeps for the night.
+Full from a good meal, warm and enjoying a beautiful clear night, the group took in the scene — a dragon lounging in hot springs deep in the winter mountains of Luruar, the light of Selûne shining off the pure white snow. They slept without setting a watch for the first time in months.

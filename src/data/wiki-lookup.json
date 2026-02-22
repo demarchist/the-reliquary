@@ -869,6 +869,11 @@
     "title": "Gaddock",
     "category": "People"
   },
+  "gabbock": {
+    "slug": "gaddock",
+    "title": "Gaddock",
+    "category": "People"
+  },
   "gauntlgrym": {
     "slug": "gauntlgrym",
     "title": "Gauntlgrym",
@@ -1439,6 +1444,16 @@
     "title": "Lathander",
     "category": "People"
   },
+  "the leanansidhe": {
+    "slug": "leanansidhe",
+    "title": "The Leanansidhe",
+    "category": "People"
+  },
+  "leanansidhe": {
+    "slug": "leanansidhe",
+    "title": "The Leanansidhe",
+    "category": "People"
+  },
   "lemerlais": {
     "slug": "lemerlais",
     "title": "Lemerlais",
@@ -1638,6 +1653,11 @@
     "slug": "menzoberranzan",
     "title": "Menzoberranzan",
     "category": "Places"
+  },
+  "moogie": {
+    "slug": "moogie",
+    "title": "Moogie",
+    "category": "People"
   },
   "moondancer village": {
     "slug": "moondancer-village",
@@ -2050,6 +2070,11 @@
     "category": "People"
   },
   "shaahir": {
+    "slug": "shaahir",
+    "title": "Shaahir",
+    "category": "People"
+  },
+  "shaahir of athkatla": {
     "slug": "shaahir",
     "title": "Shaahir",
     "category": "People"
@@ -2533,6 +2558,16 @@
     "slug": "vaasa",
     "title": "Vaasa",
     "category": "Places"
+  },
+  "vaelstraza": {
+    "slug": "vaelstraza",
+    "title": "Vaelstraza",
+    "category": "People"
+  },
+  "vael": {
+    "slug": "vaelstraza",
+    "title": "Vaelstraza",
+    "category": "People"
   },
   "vaketh": {
     "slug": "vaketh",

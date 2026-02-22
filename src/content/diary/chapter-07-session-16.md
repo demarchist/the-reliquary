@@ -15,6 +15,7 @@ people:
   - "horatio-von-bumidere"
   - "intent"
   - "jack-mayer-johnson-mathews"
+  - "leanansidhe"
   - "li-xian"
   - "madame-eva"
   - "ront"
