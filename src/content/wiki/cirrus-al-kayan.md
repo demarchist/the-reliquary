@@ -18,7 +18,7 @@ Cirrus can charitably be described as a megalomaniac. His friends might call him
 
 ## Devotion to Selune
 
-Cirrus' devotion to Selune is unflappable. He believes he owes his entire life to the moon goddess, who interceded on his behalf to save him from enslavement to an evil Archfey. He will take whatever means necessary to spread Selune's influence across Faerûn and across the entire Cosmos.
+Cirrus' devotion to Selune is unflappable. He believes he owes his entire life to the moon goddess, who interceded on his behalf to save him from enslavement to [[Mediocris Dente|Ceregorach]] — the evil Archfey also known as Mediocris Dente. He will take whatever means necessary to spread Selune's influence across Faerûn and across the entire Cosmos.
 
 ## The Fane of Selune
 
