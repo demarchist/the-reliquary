@@ -19,7 +19,17 @@ Ares claims no fealty to Tiamat or any god, seeking only his own power and salva
 
 ## Encounter
 
-Rather than allow a battle that could prove fatal to both sides, the [[Dragons of Shou Lung]] withdrew from the lair. As they retreated, Ares struck — detonating an explosion around [[Fellasin Stormwing|Fellasin]] and breathing magically enhanced fire at [[Vakuun the Dreadblade|Vakuun]], fire that burned even his red kin. Ares then fled north with his entourage toward the great storm on the horizon.
+Rather than allow a battle that could prove fatal to both sides, the [[Dragons of Shou Lung]] withdrew from the lair. As they retreated, Ares struck — detonating an explosion around [[Fellasin Stormwing|Fellasin]] and breathing magically enhanced fire at [[Vakuun the Dreadblade|Vakuun]], fire that burned even his red kin. Ares then fled north into the great storm.
+
+In the pursuit, Ares sacrificed his White Dragon retinue as a rearguard, commanding the Adult White Dragon to *"Die for me!"* — which it did, obediently. The Efreeti Firelord fell to the Dragonflight just inside the storm, dying in a great combustion.
+
+Ares was caught, but proved nearly untouchable — the exoskeleton projects an ethereal armor that absorbed every strike. He taunted the Dragonflight as he battered [[Vakuun the Dreadblade|Vakuun]], seemingly at ease. Under sustained assault from eight dragons simultaneously, his composure broke. A wave of poison shattered the ethereal shield, and Ares escaped via a scroll of Dimension Door before the first real blows could land.
+
+He remains in the storm to the north, taunting further pursuit.
+
+## The Armor
+
+The black exoskeleton serves as more than protection — it projects a field of ethereal force that renders Ares effectively immune to physical and elemental attack while active. The gemstone in the chestplate is the focus of both this shield and the charm effect noted by [[Vakuun the Dreadblade|Vakuun]]. The shield was broken by concentrated poison but Ares escaped before the advantage could be pressed.
 
 ## Connection to Zhengyi
 
