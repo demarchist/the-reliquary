@@ -3038,5 +3038,15 @@
     "slug": "dragons-of-shou-lung",
     "title": "Dragons of Shou Lung",
     "category": "Factions"
+  },
+  "ares": {
+    "slug": "ares",
+    "title": "Ares",
+    "category": "People"
+  },
+  "vulcan": {
+    "slug": "vulcan",
+    "title": "Vulcan",
+    "category": "People"
   }
 }
