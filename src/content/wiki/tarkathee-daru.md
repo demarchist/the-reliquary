@@ -54,9 +54,9 @@ When Kangaxx revealed himself as a servant of Orcus and unleashed demons in the 
 
 In the dread domain of Barovia, Tark confronted horrors that tested even his optimism. He came face to face with his own corpse — crucified, chemically melted — hanging in the cursed forest. The sight struck him with intense paranoia, a feeling of being watched that lingered long after. Yet he also found a golden dragonscale in the mists and, meditating on it, felt a powerful conviction that it was meant for him — that it was important in ways he could not yet articulate.
 
-## Vendetta Against Zenghi
+## Vendetta Against Zhengyi
 
-Tark carries a personal vendetta against Zenghi the Lich, who destroyed Tark's homeland and killed his family and mentor. This deep wound drives a thirst for revenge that contrasts sharply with his otherwise peaceful nature — a reminder that even the group's moral compass has limits to his forgiveness.
+Tark carries a personal vendetta against [[Zhengyi]], the Witch-King, who destroyed Tark's homeland and killed his family and mentor. This deep wound drives a thirst for revenge that contrasts sharply with his otherwise peaceful nature — a reminder that even the group's moral compass has limits to his forgiveness.
 
 ## Tark's Treehouse
 
