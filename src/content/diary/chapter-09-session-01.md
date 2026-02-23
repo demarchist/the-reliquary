@@ -12,6 +12,7 @@ people:
   - "demogorgon"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "finn"
   - "gruttag"
   - "gundren-rockseeker"

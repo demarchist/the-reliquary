@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "ella"
   - "feanon-serinde"
+  - "fen"
   - "horatio-von-bumidere"
   - "intent"
   - "selune"

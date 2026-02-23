@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "intent"
   - "madame-eva"

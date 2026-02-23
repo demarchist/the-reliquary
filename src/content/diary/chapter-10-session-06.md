@@ -11,6 +11,7 @@ people:
   - "eilistraee"
   - "ella"
   - "feanon-serinde"
+  - "fen"
   - "finn"
   - "gromph-baenre"
   - "gundren-rockseeker"

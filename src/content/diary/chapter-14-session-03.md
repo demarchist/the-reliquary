@@ -5,6 +5,7 @@ session: 3
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"

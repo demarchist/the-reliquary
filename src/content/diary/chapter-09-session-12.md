@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "eilistraee"
   - "feanon-serinde"
+  - "fen"
   - "gruttag"
   - "gundren-rockseeker"
   - "juiblex"

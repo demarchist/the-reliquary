@@ -7,6 +7,7 @@ people:
   - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"

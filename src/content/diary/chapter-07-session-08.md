@@ -10,6 +10,7 @@ people:
   - "cirrus-al-kayan"
   - "ella"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"

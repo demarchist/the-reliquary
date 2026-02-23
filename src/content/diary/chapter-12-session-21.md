@@ -11,6 +11,7 @@ people:
   - "doc"
   - "fawden"
   - "feanon-serinde"
+  - "fen"
   - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

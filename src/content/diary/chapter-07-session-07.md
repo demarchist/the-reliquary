@@ -35,6 +35,7 @@ places:
   - "shatterpeak"
   - "silverymoon"
   - "sundabar"
+  - "the-short-and-curlies"
   - "vaasa"
 things:
   - "gwen"

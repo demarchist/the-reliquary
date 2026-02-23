@@ -8,6 +8,7 @@ people:
   - "beryan"
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "gurnik"
   - "intent"

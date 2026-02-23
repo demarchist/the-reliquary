@@ -7,6 +7,7 @@ summary: "The group abandons the catacombs, meets Lady Faye and her champion Zhi
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
+  - "fen"
   - "horatio-von-bumidere"
   - "intent"
   - "jack-mayer-johnson-mathews"

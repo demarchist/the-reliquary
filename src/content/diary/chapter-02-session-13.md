@@ -7,6 +7,7 @@ summary: "The group and the Drow battle Kangaxx's true golden lich form through 
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
+  - "fen"
   - "horatio-von-bumidere"
   - "kangaxx"
   - "kimmuriel"

@@ -13,6 +13,7 @@ people:
   - "doc"
   - "droki"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "ilvara-mizzrym"
   - "intent"

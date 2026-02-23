@@ -9,6 +9,7 @@ people:
   - "baba-lysaga"
   - "chani"
   - "feanon-serinde"
+  - "fen"
   - "horatio-von-bumidere"
   - "ireena"
   - "mordenkainen"

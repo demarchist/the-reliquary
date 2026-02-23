@@ -12,6 +12,7 @@ people:
   - "corpsetaker"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

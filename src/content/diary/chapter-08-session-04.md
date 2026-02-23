@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "intent"
   - "jack-mayer-johnson-mathews"

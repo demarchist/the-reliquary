@@ -10,6 +10,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "madame-eva"

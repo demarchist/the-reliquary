@@ -8,6 +8,7 @@ people:
   - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "tarkathee-daru"

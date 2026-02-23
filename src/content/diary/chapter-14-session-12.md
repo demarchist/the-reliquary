@@ -10,6 +10,7 @@ people:
   - "cirrus-al-kayan"
   - "corpsetaker"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"

@@ -9,6 +9,7 @@ people:
   - "doc"
   - "eilistraee"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "ilvara-mizzrym"

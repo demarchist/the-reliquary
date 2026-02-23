@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "atropos"
   - "feanon-serinde"
+  - "fen"
   - "gowain"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "hemeth"
   - "horatio-von-bumidere"

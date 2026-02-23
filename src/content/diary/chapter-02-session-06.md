@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "hendrell"
   - "horatio-von-bumidere"

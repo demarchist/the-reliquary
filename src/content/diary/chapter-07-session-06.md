@@ -4,11 +4,13 @@ chapter: 7
 chapterTitle: The Sanctum
 session: 6
 people:
+  - "aegir"
   - "aliyah-faen-tlabbar"
   - "atropos"
   - "cirrus-al-kayan"
   - "ella"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "ingrbotha"
@@ -16,6 +18,8 @@ people:
   - "li-xian"
   - "madame-eva"
   - "megno-slatesunder"
+  - "meljir"
+  - "mervklo"
   - "orcus"
   - "ront"
   - "selune"

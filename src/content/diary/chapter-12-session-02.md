@@ -6,6 +6,7 @@ session: 2
 people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "liara"

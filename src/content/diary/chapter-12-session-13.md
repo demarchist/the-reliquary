@@ -7,6 +7,7 @@ people:
   - "cirrus-al-kayan"
   - "drizzly-dawg"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"

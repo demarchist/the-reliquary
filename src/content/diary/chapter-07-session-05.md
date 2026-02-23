@@ -3,17 +3,17 @@ title: The Sanctum - Session 5
 chapter: 7
 chapterTitle: The Sanctum
 session: 5
+summary: "The group destroys the Allip Promethi and a stone golem, collects Netherese medallions that bypass the dampening field, discovers the incomplete Mythallar, pops a two-thousand-year time bubble to release trapped arcanists, and uses a crystal scrying orb that reveals the escaped elder evil Atropos — triggering a battle against a fragment of the Planet Born Dead."
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"
-  - "madame-eva"
   - "megno-slatesunder"
-  - "selune"
   - "shar"
   - "tarkathee-daru"
 places:
@@ -24,235 +24,89 @@ places:
 things:
   - "gwen"
   - "mythallar"
-  - "tavern-of-doors"
   - "thundercannon"
 factions:
   - "netherese"
 ---
 
-**The Allip Promethi**
+## The Allip Promethi
 
-Struggling on the ground, Tark attempts to free himself from Patches grip in his possessed state, but has no luck.
+[[Tarkathee Daru]] struggled against [[Aliyah Faen Tlabbar]]'s grip, still possessed, but could not break free. [[Horatio von Bumidere]] rushed in and channelled Helm's power — Tark managed to eject the ghost, which fled up the spiral staircase. Most of the group averted their eyes in time, but [[Megno Slatesunder]] and [[Cirrus Al Kayan]] were caught by the spirit's ghostly visage and aged rapidly, losing a decade of life force.
 
-Buumi rushes in and with the bolstering force of Helm behind him, Tark finally manages to eject the ghost from his body, which flees up the stairs.
+Across the room, amid the ruined library, the dark spirit — the Allip Promethi — floated toward the group. Tattered robes fluttered in an unseen gale, ribbons of shadow trailing behind it. The creature shimmered and split into four mirror images, then drifted toward the massive four-armed marble statue in its alcove.
 
-As it goes, most of the group avert their eyes in time, but Megno and Cirrus are caught by the spirits ghostly visage and age rapidly, losing a decade of life force.
+[[Fëanon Serinde]] made the call. His firebolt destroyed one image, [[Gundren Rockseeker]]'s thundercannon shattered the rest. The Allip let out a slithering wail and phased through the statue and into the wall. Moments later, the statue stepped down from its plinth and hammered Cirrus with a stone fist, hurling the warlock back over a table.
 
-Across the room, amidst the ruined library, the rest of the group watches the dark spirit float toward them.
+Tark sprinted in. Buumi hung back as two shadows materialised and attacked the casters. Patches fired her pistol and waded in alongside the paladin, making quick work of the shadows — just in time for the Allip to emerge from the stairwell with a howl of babbling whispers. The maddening words clawed at their minds, but the group shook free and poured fire into the creature. It fled through a wall.
 
-Dark tattered robes flutter in an unseen gale and the creature is surrounded in a cloud of ribbons as it floats toward the group.  It floats toward the huge statue in the alcove.
+They turned their attention to the stone golem, which kept smashing people and casting slow — with no effect. Surrounded, the golem was reduced to chunks of scattered marble. The Allip attacked twice more in hit-and-run fashion, but the group held ready in the centre of the room. When the spectral form phased through the wall a final time, it was met with a concentrated flurry of spells and shots and obliterated.
 
-Patches and Tark stand up across the room and dust themselves off.
+A shining gold medallion dropped from the dissipating dark energy, marked with one of the [[Netherese]] schools of magic. Gundren pocketed it — faintly magical. Searching the chamber, they found a long-dead acolyte's corpse half-buried under ruined tomes, clutching an ivory box. Inside lay a quartz tuning fork for planar travel.
 
-Meanwhile Cirrus, Fey and the others are eyeing the spirit and backing up, unsure if this thing is going to be hostile or not.
+## The Mythallar
 
-As it approaches the statues, its form shimmers and splits into four, casting mirror image on itself.  At this point, Fey makes a call and firebolts the creature, destroying one of its images and Gundren unloads as well, destroying the rest.
+A single ice-bound door remained. Gundren blasted it open with his [[Thundercannon]]. Inside — the desolate remains of an arcane laboratory, once-magnificent equipment corroded and destroyed by time. All except a strange device atop a ruined desk: a latticework of geometric shapes, beginning with an icosahedron lattice of rune-etched platinum and nesting down through successive polyhedra to a tetrahedron lattice of gold. At the core glimmered the rainbow sparkle of a marble of refined Prismeum.
 
-The thing lets out a slithering wail and formlessly shifts through the statue and through the wall.
+Gundren reached down and picked it up. An ethereal scream echoed through the chamber and a second spectre phased through the wall — the Allip Tantalisia — her insane babbling reaching into their minds. She touched Gundren and Tark. Both went glassy-eyed, turned, and struck Fëanon hard. A moment later they shook free, horrified.
 
-Moments later, the statue comes to life, stepping down from its plinth and pummeling Cirrus with a fist, throwing him back over a table.
+Fëanon fled the room, badly bloodied. Cirrus called upon [[Selûne]] to heal him. Tark, Gundren, and Buumi drove the Allip back, and when it fled through the walls, the group repositioned and held ready. Like the last, the moment it emerged, they obliterated it. Another medallion fell — another school of magic.
 
-The group rushes into position.  A newly cognizant Tark sprinting in to attack the Golem.
+The group took a breather. Even Megno had a bloodied nose, and the premature aging from the ghostly visage had taken its toll on the already old dwarf. During the pause, Megno pulled out the book the Berbalang had been studying and flipped to a specific page. After a few minutes, he mentioned a diagram of the latticework device alongside the word "[[Mythallar]]."
 
-Buumi hangs back, just as two shadows materialize and attack the casters.
+Both Megno and Fëanon looked at one another. The word was suspiciously close to Mythal, a concept they knew well, but neither had heard of a Mythallar. Cirrus had, though. He remembered one of his better childhood memories — being raised by the kind tiefling woman in [[Amn]], listening to her stories of high magic and the elder days. Those stories had included the ancient empire of Netheril and how they floated their great cities among the clouds using arcane devices called Mythallars.
 
-Patches fires her pistol and then wades in and with the Paladin, make quick work of the Shadows.  Just in time for the Allip to float out of the stairwell and unleash a howl of babbling whispers. 
+Upon close inspection, the Prismeum core appeared unfinished — missing several sections and layers. Whatever it was, it was supremely valuable. They pocketed it.
 
-The attack claws at the groups minds, but they shake free of the insane whispers and unload into the creature, blasting it.
+## The Experiment
 
-The creature flees through a wall and the group turns their attention to the Stone Golem, which keeps smacking people and casting Slow (with no effect).
+The only unexplored path was the spiral staircase heading upward. Patches and Gundren took point, checking for traps. After climbing forty feet, they reached a landing with a short hallway leading to a large chamber — and a bizarre sight.
 
-Eventually, with the Golem surrounded and the Allip engaged in hit and run attacks, the group smashes the Golem into chunks and marble is scattered across the room.
+Inside a bubble of crystallised time, much like the distortion Tark had walked through earlier, an ancient experiment was detonating. Netherese arcanists were recoiling from the blast, being slowly disintegrated, only for time to snap back and replay the same few moments. These people had been dying for two thousand years.
 
-The Allip attacks again, but the group brushes off it's maddening affects and it flees through another wall.
+The group studied the bubble. Fëanon and Megno concluded it could be popped, but violently. They realised this was likely the very blast that had killed everyone in the Sanctum — the catastrophe that had been frozen in amber.
 
-The group centers themselves in the room and they hold ready, waiting for the Allip to appear and attack once more.
+They formed a plan, descended the stairs for cover, and sent in an unseen servant. Fëanon's will pushed it forward. As it hit the barrier, its magic began to scatter, but he reinforced it — and the servant pushed through. The bubble popped.
 
-The moment the spectral form exits a wall to strike, it's hit with a flurry of shots and spells and the creature is obliterated.
+The explosion rocked the complex. Debris blasted into the stairwell, but everyone was unscathed. They returned to find utter destruction — all four arcanists reduced to charred corpses, though a few magical items on their bodies remained intact. Gold medallions glinted on two of the bodies. As the group moved to collect them, dark energy shimmered around the remains. Spectral forms rose from the corpses and shadows attacked from the corners.
 
-As the dark energy of the creature wafts away, a shining gold medallion drops to the ground in the center of the ruined icy library.
+Already in position, the group ambushed the newly formed spirits and destroyed them in moments.
 
-Gundren approaches and inspects the medallion, and notes that it is marked with one of the Netherese schools of magic.  He pockets it, and when he does notes that it is faintly magical.
+## The Medallions
 
-The rest of the group spreads out to investigate the chamber. When they do, they discover something very interesting.  A long dead corpse of an Acolyte, half buried under ruined tomes and holding an ivory box.  Opening the box, they peer inside and see a Quartz tuning fork which they surmise to be used for Planar travel.
+The chamber was defensible — only the stairway provided access. The group set a trap, posted Gwen and Gundren on guard, and took a short rest. Over the hour, Fëanon and Megno compared notes. Tark dressed wounds. Cirrus took a pinch of Prismeum, offered it to Selûne in meditation, and felt the comforting embrace of his goddess. Patches attempted something similar with a gemstone and felt... something.
 
-The rest of the room is desolate and covered in glittering ice, leaving only a single door untouched.  The group approaches the ice bound door and Gundren blasts it open with a shot from his Thundercannon.
+During the study, Fëanon picked up one of the medallions and felt his magical connection to the associated school strengthen. The medallions allowed spellcasting despite the dampening field. After discussion, he distributed them — one each to Buumi, Megno, and Cirrus, keeping one for himself.
 
-The door explodes inwards. Fey, Tark and the Dwarf head into the room to take a look.
+The alarm on the Gauth's door had been tripped during the rest. Not wanting enemies at their backs, they descended and waited. Twenty minutes passed. Nothing came. They headed back upstairs.
 
-Inside, they see the desolate remains of an arcane laboratory, the once magnificent contraptions and materials corroded and destroyed by time.
+## Viewing Across the Planes
 
-All except a strange contraption lying atop the remains of a ruined desk.  A latticework of geometric shapes, starting with an icosahedron lattice of rune etched platinum and containing everything down to a Tetrahedron lattice of gold.  At the core glimmers the rainbow sparkle of a marble of refined Prismeum.
+Ascending past their rest chamber, the spiral staircase rose another forty feet before opening into a huge chamber glittering with crystal panelling. An octagonal room with four pillars rising ten feet and simply terminating, supporting a dome — the first curved architecture in the entire complex. At the centre, a pedestal held a softly glowing crystal ball, multicoloured light playing across its surface.
 
-The group in the room move forwards, the others outside still investigating, or healing others in the case of Cirrus.
+The walls were coated in an inch-thick layer of seamless crystal, forming impossibly sharp angles at every edge and joint. Gundren secured the entrance with [[Gwen]]. The rest moved inside.
 
-Gundren reaches down and picks up the Lattice, and immediately an ethereal scream can be heard and another specter reaches out of the wall, insane babbling reaching into minds.
+Fëanon and Megno inspected the crystal ball. Judging it safe, Fëanon placed his hand upon it.
 
-**The Allip Tantalisia**
+A network of energy descended from the dome and a holographic vision filled the room — the [[Astral Plane]], a nebulous expanse of swirling energies and sparse floating material. The vision catapulted to the edge of the multiverse, to a great tear in reality's walls — a portal to the Far Realm. Around it, celestial beings burned back endless hordes of extradimensional horrors.
 
-This second Allip touches Gundren and Tark and they both go glassy eyed. They turn and strike at Fey, both connecting solidly, before the two shake off the Allips influence a moment later.
+Through the portal and across the Far Realm's layers, the vision descended into a vast crystal prison — massive chains broken and scattered. The group's collective consciousness recognised it. A prison for [[Atropos]]. Now empty.
 
-Fey stumbles and flees from the room, badly bloodied from the previous fight and the strikes of his friends. He flees out to Cirrus, who promptly calls upon Selune to heal his wounds.
+The Elder Evils of the Far Realm noticed the intrusion. Whispers and promises crept into their minds. A celestial rushed forward and yanked them back to the breach, then streaked away to continue the defence.
 
-Tark, Gundren and Buumi rush forwards to engage the Allip, beating it away.
+The vision followed the trail of corruption through the astral sea to a Crystal Sphere near the wound — a planetoid of death. A world made of dead flesh, bone, and gristle reaching hungrily toward the sphere. Three celestials orbited it, trying desperately to hold it back. A massive tendril formed and engulfed the vision.
 
-As the thing flees into the walls, the group re positions in the main chamber, holding ready for the moment the creature shows itself.
+The crystal ball exploded in orange sparks and shards. From the pedestal, a mass of flesh and bone flowed in an amorphous wave, releasing a wail and a blast of necrotic energy — a fragment of Atropos, the Planet Born Dead.
 
-Like the last, it shifts through a wall and the group unleashes against it, obliterating it in short order.
+## The Fragment
 
-Another medallion falls from the remains, again depicting a school of Magic.  Gundren collects it.
+The group scrambled to their feet and attacked. The mass assumed a vaguely humanoid shape, hurling bolts of orange lightning and striking with tendrils of flesh and teeth. Tark moved in and was engulfed — the creature forcing itself into his mouth, dominating his mind briefly before the monk expelled it.
 
-The group takes a breather, patching one another up with healing magic, but they know that they all need a Long Rest soon to recuperate.
+For every strike the fragment landed, it took multiple in return. Great gobs were cut or blasted away, but each piece that hit the ground formed into a smaller wailing creature. Megno tried to banish the thing but it was too strong. Buumi rushed between it and the casters and was engulfed. Fëanon was caught by a second tendril. Cirrus blasted them free.
 
-Even Megno has a bloodied nose and the premature aging from the Ghostly Visage has taken its toll on the already old Dwarf.
+Patches shimered and teleported, striking the creature a dozen times in rapid succession, cutting deep ruts into its mass. More small creatures dropped free. The main host was greatly diminished.
 
-During the moments rest, Megno pulls out the book they got earlier that the Berbalang was investigating and flips through to a specific page.
+The group focused fire on the central mass, blasting it down — but it created nearly a dozen of the smaller things. Before they could turn to deal with them, the remnant of the main body wailed and called its pieces home. The small creatures rushed back, diving into the mass to partially reconstitute it.
 
-After a few minutes reading, he mentions to the group that he might have found something interesting, that the book has a diagram of the Lattice-work device and the word "Mythallar" nearby.
+Megno tried one last time. In its diminished and weakened state, the banishment rift took hold. The mass of Atropal flesh was ripped from the Prime Material and hurled back to where it came from. The sole remaining piece was scorched to ash.
 
-Both Megno and Fey look at one another, the word being suspiciously close to Mythal (of which they are very familiar) but have not heard of a Mythallar.
-
-The word is familiar to Cirrus though.
-
-**​**Cirrus remembers one of his better childhood memories, being raised by the kind Tiefling woman in Amn.  He remembers the stories she told him, of high magic and the elder days.  These stories included the ancient empire of Netheril, and that they floated their great cities among the clouds using arcane devices called Mythallars.
-
-He relays the story to the group and they take a closer look at the Lattice, believing it to be a one of the fabled Mythallars.
-
-Upon close inspection, the Prismeum core appears unfinished, missing several sections and layers.  They pocket the device, whatever it is, realizing that it is supremely valuable.
-
-The group then approaches the only place they have yet to explore - the spiral staircase heading upwards.
-
-**The Experiment**
-
-**​**Patches and Gundren take the lead, checking for traps but find none during the ascent.
-
-After a good forty feet, they make it to a landing that has a short hallway leading to a much larger chamber.
-
-Inspecting the chamber, the group close behind, the scouts see a bizarre sight.
-
-The large chamber appears to be frozen in time, or at least repeating the same few moments.
-
-Inside a bubble of crystallized time, much like what Tark walked through earlier, an ancient experiment appears to be detonating.  Ancient arcanists are recoiling from the blast, being disintegrated by it slowly, only to have time re-adjust and snap back a few moments, only to play forwards again.  These poor people have been dying for 2000 years.
-
-The group gathers to investigate the bubble of time, coming to the conclusion that something must be done to help the poor people - whether to let events finish playing out or trying to save them.
-
-Fey and Megno work on the bubble and quickly come to the conclusion that it can be "popped" but it would most certainly be a violent event.
-
-Wondering about the destructiveness of the blast, they realize that the the other issues in the Sanctum and indeed, probably what killed everyone in this place is the blast they are witnessing.
-
-The group hashes out a plan and put it into action.  They descend the stairs, taking cover from any potential blast and then send in an unseen servant, Fey's will pushing it forward.
-
-As it hits the barrier, its magic begins to scatter, but Fey reinforces it and the unseen servant pushes through...popping the bubble.
-
-The explosion rocks the complex and debris is blasted into the stairwell, but everyone remains unscathed, having taken the appropriate precautions.
-
-The group returns to the experiment room and see the utter destruction wrought on the chamber.  All four Arcanists are blasted corpses, though a few magical items on their bodies remain unscathed.
-
-As the party moves in, the glimmer of gold medallions on two of the charred corpses catches their eyes.  
-
-They move in to grab them, but as they do, they note the shimmer of dark energies around the corpses and ready themselves, calling out that they think more of the spirits are forming.
-
-Sure enough, moments later, spectral forms rise from the corpses and shadows attack from the corners of the room.
-
-Already in position, the fight is over in moments as the group ambushes the newly formed spirits and destroys them utterly.
-
-Checking out the room again now that the fight is over, the group realizes that it is very defensible with only the stairway to give access.
-
-The group puts up a trap in the stairway, and with Gwen and Gundren on guard, the group takes a short rest for the next hour, healing their wounds and studying what they have found in this place.
-
- Over the hour, Fey and Megno compare notes while the Tark helps dress peoples wounds.   
-
-Cirrus takes a pinch of the Prismeum from the pouch and meditates on it, offering it to Selune.  The dust evaporates in a sparkle and Cirrus feels the comforting embrace of his goddess, feeling blessed.
-
-Patches attempts something similar with a gemstone and feels...something.
-
-During this study, Fey picks up one of the medallions and instantly feels his magical connection to the associated schools strengthen.  When holding the medallions it allows them to cast spells, despite being in the dampening field.
-
-Fey distributes the medallions after the group discusses who would utilize which the best, handing one to Buumi, Megno and Cirrus, keeping one for himself.
-
-After the rest, the group heads to the stairwell and head back down to the library for a moment, Patches leading.  During the rest, the alarm that was left on the door leading to the Gauth was tripped. Not wanting to leave enemies behind, the group heads down to wait for it.
-
-They wait.
-
-twenty minutes goes by and nothing happens, so the group heads back upstairs, determined to keep going higher in the complex.
-
-They ascend past the room they rested in and keep going up.
-
-After another forty feet, the spiral staircase ends and opens up into a huge chamber, glittering with crystal paneling.
-  
-
-**Viewing across the Planes**
-
-**​**Before them is an octagonal room with four pillars in each quadrant of the chamber, rising to support...nothing.  The pillars rise a good ten feet and simply terminate, but above them rises the first dome that the group as seen in this place, the first bit of architecture not made of strong, harsh lines.
-
-In the middle of the chamber, in the center of the pillars, a pedestal rises with a softly glowing crystal ball atop it.  Multicolored light plays across its surface, casting a subtle light across the walls of the place.
-
-Inspecting the walls themselves, the group discovers that the entire place is coated in an inch thick layer of seamless crystal, much as if it was frozen over by ice.  But where every edge meets, every architectural feature ends, the crystal does not flow, but forms impossibly sharp and harsh angles.
-
-Gundren stays on the stairs with Gwen, securing the entrance to the chamber.  The rest of the group heads inside, curious about what this place must be.
-
-Fey and Megno approach the crystal ball and begin inspecting it.  They think it harmless and decide to touch it, Fey'Anon reaching out and placing a hand upon the ball...
-
-A network of energy descends from the dome above and a holographic image comes into being, filling the room with a vision of the Astral plane, a nebulous expanse of swirling energies, lights and sparse floating material.
-
-The vision catapults through the Astral Plane to the very edge of the multiverse, to a great tear in the walls of reality, creating a portal to The Far Realm.
-
-Around the portal, great celestial beings burn back the endless hordes of extra-dimensional horrors and the group looks on in awe.
-
-Looking out into the Far Realm, they see that something has punched a hole through it, and indeed, torn its way into our reality.
-
-Following the trail, pulled even, the vision falls through the endless layers of the Far Realm until the vision stops within a vast crystal prison, massive chains broken and scattered.
-
-As the group consciousness takes note of the place, they feel its energy and realize that it is a massive prison for the source of many evils they have faced.  It was a prison for Atropos, and it is now free.
-
-They have been noticed though.  The scrying is not perfectly safe, and the Elder Evils of the Far Realm begin to take note of the intruding magic and mortal minds.  The Elders begin to whisper and offer promises.
-
-Just as the Evil begins to take hold, one of the Celestials rushes forward to pull them back to the breach.  It leaves them there at the entrance to The Far Realm and goes back to defending the borders of reality, streaking off to the wound.
-
-The vision continues, drawn to follow the stinking trail of corruption left by Atropos.
-
-It travels through the astral sea until it approaches a Crystal Sphere near the wound, and approaching the Sphere it is a planetoid of death.  A world made of dead flesh, bone and gristle and it reaches hungrily toward the Crystal Sphere.
-
-Three Celestials orbit the Planet Born Dead, trying desperately to hold it back, but to no avail.
-
-As the vision closes in, a massive tendril forms from the planet and streaks toward the group, engulfing the view in a mass of dead flesh.
-
-The vision abruptly ceases as everyone is thrown back by a shockwave, the Crystal ball exploding in a shower of orange sparks and shards.
-
-From the pedestal, a mass of flesh and bone flows in an amorphous wave, letting out a tinny wail and releasing a blast of necrotic energy.
-
-The group gets to their feet quickly, recognizing the abomination as a fragment of Atropos and attack with all their might.
-
-The mass assums a vaguely humanoid shape and begins hurling bolts of orange lightning and striking with powerful tendrils of flesh and teeth.
-
-Tark moves in to assault it and is quickly engulfed, a portion of the creature going into his mouth and into the poor monk, dominating his mind, albeit briefly before the Monk can force it from his body.
-
-The mass moves across the battlefield, striking and sending out waves of energy.
-
-For every strike the creature makes though, it is hit multiple times in response and great gobs of the thing are cut or blasted away.
-
-As mass is shorn from the thing though, it hits the ground and forms into smaller creatures that wail and lurch forward to attack.
-
-Megno desperately tries to banish the thing, but it is too strong and he backs away under covering fire from Gundren.
-
-Buumi rushes forward to try and get between it and his friends and is mostly successful, until the thing engulfs the Paladin and attempts to feed on his life force.  It forms a second tendril and does the same to Fey but is blasted back by Cirrus.
-
-Patches rushes in and summoning her powerful blade, shimmers and teleports, rapidly striking the creature a dozen times, cutting deep ruts into its body.
-
-More of the small creatures fall free and the main host becomes greatly diminished.
-
-Thinking to kill the main mass, the group focuses their fire and the thing is blasted down considerably, but creates almost a dozen of the smaller creatures.
-
-Just as the group is about to turn and wipe out the mass of little things, what remains of the main host wails and calls the smaller ones to it.
-
-The small creatures rush to it, diving into the mass in an attempt to reconstitute it somewhat.  It regains a significant amount of itself, but the damage is still severe.
-
-Megno tries one last time and opens a rift, trying to banish the thing once more.
-
-This time, in its diminished and weakened state, they are successful and the main mass of the Atropal flesh is ripped back to where it came from.
-
-The sole remaining piece is quickly scorched to ash.
-
-The group pants, bloodied and tired.
-
-They look around at each other, trying to comprehend what they have just seen, and fought...
+The group stood panting, bloodied and exhausted, looking at one another and trying to comprehend what they had just seen — and fought.

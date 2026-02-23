@@ -9,6 +9,7 @@ people:
   - "amaram"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "foxy-crazy"
   - "goblin-king"
   - "gundren-rockseeker"

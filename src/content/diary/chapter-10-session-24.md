@@ -12,6 +12,7 @@ people:
   - "eilistraee"
   - "ezmerelda"
   - "feanon-serinde"
+  - "fen"
   - "finn"
   - "gneiss"
   - "gundren-rockseeker"

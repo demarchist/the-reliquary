@@ -10,6 +10,7 @@ people:
   - "doc"
   - "ezmerelda"
   - "feanon-serinde"
+  - "fen"
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

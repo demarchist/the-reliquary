@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "eilistraee"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "gurnik"
   - "intent"

@@ -10,6 +10,7 @@ people:
   - "claudine"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "hemeth"
   - "intent"

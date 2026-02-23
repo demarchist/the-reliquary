@@ -9,6 +9,11 @@
     "title": "The Abyss",
     "category": "Places"
   },
+  "aegir": {
+    "slug": "aegir",
+    "title": "Aegir",
+    "category": "People"
+  },
   "agatha": {
     "slug": "agatha",
     "title": "Agatha",
@@ -27,6 +32,11 @@
   "planet gaia": {
     "slug": "al-askar",
     "title": "Al Askar",
+    "category": "Places"
+  },
+  "albert's armor": {
+    "slug": "alberts-armor",
+    "title": "Albert's Armor",
     "category": "Places"
   },
   "aliyah faen tlabbar": {
@@ -624,6 +634,11 @@
     "title": "Dorbo",
     "category": "People"
   },
+  "dregthana": {
+    "slug": "dregthana",
+    "title": "Dregthana",
+    "category": "People"
+  },
   "drizzly dawg": {
     "slug": "drizzly-dawg",
     "title": "Drizzly Dawg",
@@ -824,6 +839,11 @@
     "title": "Fëanon's Tower",
     "category": "Places"
   },
+  "fen": {
+    "slug": "fen",
+    "title": "Fen",
+    "category": "People"
+  },
   "the feywild": {
     "slug": "feywild",
     "title": "The Feywild",
@@ -908,6 +928,11 @@
     "slug": "gerwan",
     "title": "Gerwan",
     "category": "People"
+  },
+  "gilbert's gumptions": {
+    "slug": "gilberts-gumptions",
+    "title": "Gilbert's Gumptions",
+    "category": "Places"
   },
   "gneiss": {
     "slug": "gneiss",
@@ -1052,6 +1077,11 @@
   "hazem": {
     "slug": "hazzim",
     "title": "Hazzim",
+    "category": "People"
+  },
+  "helga stoneheart": {
+    "slug": "helga-stoneheart",
+    "title": "Helga Stoneheart",
     "category": "People"
   },
   "helm's hold": {
@@ -1494,6 +1524,11 @@
     "title": "Lionshield Coster",
     "category": "Places"
   },
+  "ljokjar": {
+    "slug": "ljokjar",
+    "title": "Ljokjar",
+    "category": "People"
+  },
   "lo'dan": {
     "slug": "lodan",
     "title": "Lo'Dan",
@@ -1644,6 +1679,11 @@
     "title": "Megno Slatesunder",
     "category": "People"
   },
+  "meljir": {
+    "slug": "meljir",
+    "title": "Meljir",
+    "category": "People"
+  },
   "menzoberranzan": {
     "slug": "menzoberranzan",
     "title": "Menzoberranzan",
@@ -1653,6 +1693,16 @@
     "slug": "menzoberranzan",
     "title": "Menzoberranzan",
     "category": "Places"
+  },
+  "mervklo": {
+    "slug": "mervklo",
+    "title": "Mervklo",
+    "category": "People"
+  },
+  "mimor": {
+    "slug": "mimor",
+    "title": "Mimor",
+    "category": "People"
   },
   "moogie": {
     "slug": "moogie",
@@ -2423,6 +2473,11 @@
     "slug": "the-reaver",
     "title": "The Reaver",
     "category": "Things"
+  },
+  "the short and curlies": {
+    "slug": "the-short-and-curlies",
+    "title": "The Short and Curlies",
+    "category": "Places"
   },
   "theodemir": {
     "slug": "theodemir",

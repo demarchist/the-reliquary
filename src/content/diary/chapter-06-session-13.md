@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "chani"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "high-marshal-arasume"
   - "horatio-von-bumidere"

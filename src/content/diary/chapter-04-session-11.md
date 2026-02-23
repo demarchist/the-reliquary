@@ -9,6 +9,7 @@ people:
   - "bahamut"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "kangaxx"

@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "ezmerelda"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"

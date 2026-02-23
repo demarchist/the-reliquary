@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "demogorgon"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "juiblex"
   - "lolth"

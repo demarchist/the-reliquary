@@ -9,6 +9,7 @@ people:
   - "doc"
   - "fawden"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"

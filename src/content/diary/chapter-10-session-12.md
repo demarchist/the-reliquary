@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "demogorgon"
   - "feanon-serinde"
+  - "fen"
   - "lolth"
   - "ront"
   - "tarkathee-daru"

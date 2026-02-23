@@ -8,6 +8,7 @@ people:
   - "bowie"
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "fen"
   - "hazzim"
   - "intent"
   - "jack-mayer-johnson-mathews"

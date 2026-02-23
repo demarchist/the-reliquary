@@ -11,6 +11,7 @@ people:
   - "doc"
   - "droki"
   - "feanon-serinde"
+  - "fen"
   - "gaddock"
   - "gundren-rockseeker"
   - "intent"

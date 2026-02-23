@@ -6,6 +6,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "fen"
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

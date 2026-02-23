@@ -7,6 +7,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "intent"
   - "ront"

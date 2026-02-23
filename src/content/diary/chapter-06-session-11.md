@@ -7,6 +7,7 @@ summary: "The group kills the Oni in a desperate blizzard chase to save a stolen
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "li-xian"

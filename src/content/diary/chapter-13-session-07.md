@@ -10,6 +10,7 @@ people:
   - "doc"
   - "fawden"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "hohonu"
   - "horatio-von-bumidere"

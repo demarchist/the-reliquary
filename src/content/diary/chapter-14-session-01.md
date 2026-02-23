@@ -10,6 +10,7 @@ people:
   - "claudine"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "finn"
   - "gaddock"
   - "gundren-rockseeker"

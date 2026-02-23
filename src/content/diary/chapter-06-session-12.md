@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "dean-sejuk"
   - "feanon-serinde"
+  - "fen"
   - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

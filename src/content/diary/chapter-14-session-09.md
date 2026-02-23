@@ -11,6 +11,7 @@ people:
   - "doc"
   - "ezmerelda"
   - "feanon-serinde"
+  - "fen"
   - "gneiss"
   - "horatio-von-bumidere"
   - "intent"

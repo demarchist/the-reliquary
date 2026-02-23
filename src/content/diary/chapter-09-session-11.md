@@ -11,6 +11,7 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
+  - "fen"
   - "gruttag"
   - "gundren-rockseeker"
   - "intent"

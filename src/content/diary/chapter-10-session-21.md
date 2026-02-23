@@ -11,6 +11,7 @@ people:
   - "doc"
   - "eilistraee"
   - "feanon-serinde"
+  - "fen"
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

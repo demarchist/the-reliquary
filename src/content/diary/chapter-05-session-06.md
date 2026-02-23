@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "boris"
   - "feanon-serinde"
+  - "fen"
   - "gowain"
   - "horatio-von-bumidere"
   - "intent"

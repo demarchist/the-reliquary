@@ -3,6 +3,7 @@ title: The Sanctum - Session 3
 chapter: 7
 chapterTitle: The Sanctum
 session: 3
+summary: "The group enters the Sanctum of Krasus, rests in Cirrus's tiny hut, and Tark receives dream training from Kenshi — before they descend into the ancient Netherese complex, encounter shadows and aberrations, discover the Obelisk's countdown, and fight through gibbering mouthers as a magical dampening field traps them inside."
 people:
   - "aliyah-faen-tlabbar"
   - "chani"
@@ -10,13 +11,13 @@ people:
   - "doc"
   - "ella"
   - "feanon-serinde"
+  - "fen"
   - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "kenshi"
   - "megno-slatesunder"
   - "ront"
-  - "selune"
   - "tarkathee-daru"
   - "zhengyi"
 places:
@@ -24,237 +25,76 @@ places:
   - "faerun"
   - "helms-hold"
   - "sanctum-of-krasus"
-  - "underdark"
 things:
   - "gwen"
-  - "piwafwi"
 factions:
   - "netherese"
 ---
 
-**The Sanctum**
+## The Iron Door
 
-Standing atop the winding staircase and facing the dark Iron door of the sanctum, the group is buffeted by cold wind.
+Standing atop the winding staircase before the dark iron door of the [[Sanctum of Krasus]], the group was buffeted by freezing wind. [[Fëanon Serinde]] and [[Megno Slatesunder]] moved in to inspect, testing for arcane wards and traps while the others huddled in their snow-crusted winter gear.
 
-Now free of ice, Fey walks to the door with Megno and they begin inspecting it, testing for arcane wards and traps while the others look on, their winter gear covered in blowing snow.
+The door was etched in tiny runes and symbols — the entire surface functioning much like the archway further down the mountain. Fëanon pushed a measure of power into it and a small section flared to life, the runes glowing briefly before the energy dissipated. Megno offered to help. Fëanon responded curtly that he had it covered. [[Cirrus Al Kayan]] chuckled in the background.
 
-The wizards note that the door is etched in tiny runes and symbols and that the entire door appears to function much like the archway further down the mountain.
+Fëanon reached out again, this time pouring everything he had into the door — a sixth-level expenditure of raw arcane force. The symbols blazed in sequence, the entire door became energised, and it vanished in a flash of light. A frost-coated staircase of dark granite descended into darkness, the interior walls angled and unadorned. Fëanon determined he could pull the door back with a similar expenditure, or it would rematerialise after about nine hours.
 
-Fey puts forth some power and a small section of the door lights up, the runes and symbols glowing briefly before the energy dissipates.
+Tired and cold from the climb, the group decided to rest before descending. Cirrus materialised a book and began the ritual for his tiny hut, ending by tossing a glowing bead of crystal into the air. It expanded into a dome of opaque white, ten feet in radius. Inside was plush — cushions, blankets, rugs, a small fire in an iron brazier. Unfortunately, the transparent ceiling bore a fresco: a "tasteful" nude of Cirrus himself. Dismay spread across every face. [[Aliyah Faen Tlabbar]] turned and walked straight out.
 
-Megno whispers over that he can help, but Fey responds curtly that he has it covered.  Cirrus chuckles to himself in the background at this "hiccup".
+[[Tarkathee Daru]] proclaimed the painted Cirrus was "looking at him" and followed him like creepy eyes in a portrait. [[Horatio von Bumidere]] had a quiet word, suggesting that venerating oneself over one's god might lead down the wrong path. Taking the point, Cirrus transformed the mural into his imagining of [[Selûne]] — a pale, silver-haired woman in flowing white silk.
 
-Fey reaches his hand out once more, this time pouring a significant amount of power into the door, and does not stop.
+## Tark's Dream
 
-Expending a 6th level spell slot to do so, the door becomes energized and glows as all the arcane symbols become energized and the door vanishes in a flash of light.
+The group settled in for a long rest. Buumi cooked while Tark made s'mores, Cirrus meditated, Fëanon and Megno studied spellbooks, Patches tinkered with her gear and attempted a bit of praying, and [[Gundren Rockseeker]] tuned up [[Gwen]].
 
-A dark set of stairs, coated in frost descends into darkness, the interior of this place made of dark granite and slab-like unadorned, angled walls.
+Tark fell asleep quickly but found himself dreaming vividly — standing in the mountaintop monastery, much like when he had met [[Gaddock]] in the dreamscape. This time, though, he was the recipient. He walked the garden route he and his old master had taken long ago, descended to the reflecting pools overlooking the vast mountain range, and found an unknown figure sitting beneath a cherry tree.
 
-Checking the door frame, Fey realizes that he can pull the door back with a similar expenditure of energy, or the door would re-materialize after about 9 hours.
+A comfortably overweight man with eastern features, white silken hair, and a long beard. Laugh lines creased his old face as he looked up and smiled. He introduced himself as [[Kenshi]] — the man who had saved Gaddock.
 
-Tired and cold from the climb up the mountain, the group decides to set up a Tiny Hut and Cirrus materializes a book and begins the ritual, ending by throwing a glowing bead of crystal into the air that expands rapidly to create a dome of opaque white, 10 feet in radius.
+They talked for hours in the dreamscape. Kenshi hailed from Kara-Tur and had spent time in [[Faerun]] — notably in Thay and [[Damara]] — though he had never made it to the Monastery of the Yellow Rose. He told Tark that Gaddock was recovering well and that they would do all they could to fight the sickness spreading in the Bloodstone Lands.
 
-The group piles into the dome, the opaque exterior allowing entry to all who Cirrus designates.
+Then Kenshi taught Tark a technique — the ability to project one's Ki into a target to learn about them. They spent the remaining hours practising in the dreamscape, and Tark picked it up quickly. As the dream faded, Kenshi promised to stay in touch.
 
-The inside is plush, with cushions, blankets and rugs covering the floor and a small fire in the center in an iron brazier.
+## Descent into Darkness
 
-Uncomfortably though the roof of the dome, though transparent from the inside, has a fresco seemingly painted on the ceiling.  That of a…"tasteful" nude of cirrus himself.
+The group awoke, packed quickly, ate, and exited the dome before it collapsed and dumped its snow on them. Fëanon barely made it out in time. They assembled at the entrance — night swirled around them, snow drifting lazily. Past midnight, ten days remaining before they were due at [[Helm's Hold]].
 
-The group halts momentarily, dismay spreading over their faces and Patches simply turns and walks out of the dome, deciding to scout the Sanctum a bit.
+They entered the Sanctum.
 
-As Patches leaves, Tark proclaims that Cirrus' nudity is "looking at him" and "follows" him like creepy eyes in a painting.
+Patches warned the group about the suspected trap she had found during an earlier scout — a glyph on the floor between four statues. [[Fëanon Serinde]] pushed against it with his mind, shattering the magic that would have awakened the statues as gargoyles. Every surface was covered in the same arcane runes and script as the door, weathered from millennia of neglect.
 
-Buumi has a chat with Cirrus and remarks that venerating oneself over that of the god he worships may lead him down the wrong path.
+They pressed into the main chamber housing the obsidian obelisk. Patches moved ahead to check the passage leading deeper in. Everyone else approached the obelisk — and as they did, an electrical charge surged up its length and a lightning bolt lanced toward the entrance. The group threw themselves aside. As they stumbled back, the shadows in the room reached out with dark claws.
 
-Thinking that he may be on to something, Cirrus transforms the mural into what he imagines Selune to look like - a pale, silver haired, buxom human woman tastefully obfuscated in white silk.
+Four shadows attacked. The animate darkness leeched Tark's life force, sapping his strength. He cried out. Patches spun and fired her pistol — the bullets crumpled against the insubstantial shadowstuff but seemed to connect. Firebolts, eldritch blasts, and Gundren going somewhat berserk with his axe dispatched the shadows quickly. Cirrus touched Tark's face and kissed his forehead, casting greater restoration to return the monk's strength.
 
-Buumi heads out to follow Patches but waits at the door, calling into the darkness for Patches to return…
+They found a glowing diamond embedded in the back of the obelisk, and a hidden switch on the far wall. Fëanon pressed it with a mage hand. The gemstone dropped free — the lightning trap was disarmed. The obelisk bore four slots, each marked with a symbol: Sun, Snowflake, Flower, and Eye. Cirrus, Gundren, and Fëanon theorised that the symbols represented the ancient schools of magic. Around the slots, a pentagram within a circle — the symbol of ancient Netheril.
 
-Patches leaves the dome and heads into the Sanctum, pulling the cowl of her Piwafwi up and descending down the dark steps.
+Another hidden switch opened a door to a storage room. The furniture had disintegrated long ago, everything in dusty tatters. Patches found ancient gold coins marked with the pentagram and a handful of gemstones among the ruins. At the back, a set of stairs descended forty feet into an ice-encrusted cellar.
 
-As her eyes adjust, she gets a sense of familiarity harkening back to her time In the Underdark, her dark vision painting the world in shades of grey and easily allowing her to see all the way to the back of the main chamber.
+## The Hallway Trap
 
-Ahead, the stairs end and a hallway begins with four statues spaced ten feet apart.
+Frost and ancient dust crunching underfoot, the group approached the large hall leading deeper into the complex. Twenty feet wide and forty long, it terminated at a set of double doors gleaming with solid gold, flanked by two robed statues wielding staves.
 
-For a moment, Patches thinks she sees a flash of purple in the middle of the hallway, between the statues.
+Tark took the lead while Patches was still returning from the storage chamber. The air distorted in front of the monk and he could not stop in time. He walked through a crystallisation of time and space that raked at his body and mind — and the group watched in horror as he grew younger by ten years, reverting to an eleven-year-old. Blood streamed from his nose as the shimmering bubble shattered around his smaller frame.
 
-Further down, past the hall into a large chamber, she can see an Obsidian obelisk in an otherwise unremarkable chamber.
+They rushed to his side. Fëanon confirmed Tark had walked through a distortion of time and space and warned there would be more. Cirrus threw up his hands, demanding to know why they were in a place this dangerous. Megno reminded him of the payment. Tark reminded him of [[Zhengyi]].
 
-Heading down to where she saw the purple glint, Patches inspects the area but finds nothing.
+They confirmed Tark was fit to continue and pressed on past the statues — which were neither gargoyles nor golems — to the golden doors. Fëanon found an arcane lock, broke it easily, and the doors swung inward. A lance of fire shot out. Fëanon dove into cover, catching a glimpse of a floating creature with four eyestalks and a central eye — a Spectator — hovering near the ceiling of a junction hall beyond.
 
-Not trusting this place, she takes a few steps back and then runs and jumps, running along the wall and past the section of the hallway she suspects to be trapped.
+The creature darted up a staircase. Patches and Tark moved in and took cover. Fëanon spotted a glyph just inside the door — radiant sickness, but keyed to trigger only for aberrations, fiends, or undead. A defence, not a threat to them.
 
-Landing on the other side, she crouches down and waits, seeing if anything happens.
+Patches poked around the corner and up the stairs. A landing ten feet up held a statue of a woman with a vase, then more stairs. The Spectator hovered there and fired two eye beams. She dodged the first but the second paralysed her. Buumi rushed forward, his protective aura breaking the paralysis. Tark charged in and between Fëanon's firebolts, Cirrus's eldritch blasts, and a flying knee from the monk, the Spectator was obliterated.
 
-Just then she hears Buumi call out from behind her, asking her to return to the dome.
+## Trapped Inside
 
-Patches looks around and out of the corner of her eye, spots movement in the darkest shades of grey in her vision.
+Not wanting to go upstairs yet, the group turned to a second set of golden doors. Patches used her black-powder kit to blow the mechanical lock. The door cracked open enough for her to peer inside — four tiny beholder-kin floating near the ceiling, piles of refuse around ancient tables and mouldering chairs, four murals splashing colour against the dark stone, four gargoyle statues arrayed around the room. Several of the refuse piles were moving toward the door.
 
-Knowing that something is out there, she turns, climbs back past the statues and reunites with Buumi at the stairs and they both head back into the Dome.
-  
+Patches shut it and relayed what she'd seen. The group arrayed for a fight. [[Gwen]] charged her lightning blast. Patches opened the door and the bolt rocketed through, destroying the little beholder-kin and scorching the oozing creatures. They formed mouths across their bodies and began gibbering — maddening wails that clawed at Patches' mind — spitting blazing gobs of goo that exploded and blinded several people.
 
-**A Much needed rest**
+The group fell back, pouring fire into the slowly advancing aberrations as reality itself grew doughy and malleable around them. Cirrus slammed his staff down and called up a wall of force to block the creatures.
 
-Inside the comfortably warm dome, the group settles in for a long rest.
+The moment he did, a hum and flash erupted from the entry chamber behind them. They spun to find a shimmering wall of force — not Cirrus's — sealing the Sanctum's entrance, and a magical dampening field preventing any spell above second level from being cast. The obelisk was generating both effects. A large crack ran through the monument, and the group could feel the energy building within. Eventually, it would reach critical mass and detonate.
 
-Buumi cooks while Tark makes smores, cirrus meditates and prays to Selune, Fey and Megno study their spellbooks, Patches tinkers with her gear (and tries a bit of praying herself) while Gundren works on tuning up Gwen.
+They estimated eleven hours. The marked slots were clearly for some kind of key to disarm it.
 
-Eventually, the group settles in and gets some much needed rest.
-  
-
-Tark falls asleep soundly, but quickly finds himself dreaming vividly.
-
-Dreaming of the Monastery, much like when he met Gaddock recently in the dreamscape, Tark realizes that another of these spells has been cast, though this time he is the recipient.
-
-Expecting his master, Tark makes his way through the mountaintop Monastery, walking the garden route that he and his old master took long ago.
-
-Descending to the reflecting pools that overlook the vast mountain range and forests below, Tark sees an unknown figure sitting beneath a cherry tree.
-
-Approaching Tark sees a comfortably overweight man with eastern features, white silken hair and a long beard.
-
-The man looks up and smiles, laugh lines and wrinkles creasing his old face.  The old man introduces himself as Kenshi, the man who saved Gaddock.
-
-Tark and Kenshi talk for a while in the dreamscape of the Monastery. 
-
-Tark thanks the old man and asks about him and his past and discovers that Kenshi hails from Kara-Tur and has spend time in Faerun before.
-
-Notably, Kenshi has spent time in Thay and Damara though he never made it to the Monastery of the Yellow Rose himself, though he wishes he had.
-
-Kenshi lets Tark know that Gaddock is recovering well and that they will do all they can to fight the sickness spreading in The Bloodstone Lands.
-
-Tark is thankful and reassured.
-
-Kenshi goes on to teach Tark a technique that might help him, the ability to project ones Ki into a target to learn about another.
-
-They spend the next eight hours in the dreamscape practicing the technique and Tark picks it up quickly, impressing Kenshi.
-
-As the dream ends, Kenshi tells Tark that he will stay in touch.
-  
-
-The group awakens in the dome, the spell nearing its completion and the group goes about packing up, making a quick meal and then exiting the dome before the collected snow is dumped on them as the spell ends.
-
-Fey makes it out just in time.
-
-Assembling around the entrance, the group looks into the darkness. 
-
-Night swirls around them and snow lazily drifts down.
-
-It is past midnight and ten days remain before they are to be at Helm's Hold.
-
-They enter the Sanctum of Krasus.
-
- **Descent into Darkness
-**  
-
-Descending the stairs, Patches warns the group about the suspected trap and indeed, Gundren and Fey both note a Glyph on the floor.
-
-Pushing mentally against the Glyph, Fey manages to shatter its magic and remove the trap that would have awoken the statues as gargoyles.
-
-Fey inspects the dark stone walls and notes that every surface is covered in the same arcane runes and script as the door, weathered from millennia of neglect.
-
-The group presses on, into the main chamber housing the Obsidian Obelisk.
-
-Patches moves up to try and get a look down the only other passage leading from the main chamber.
-
-Everyone else moves up to the Obelisk and as they do so, an electrical charge surges up its length and a lightning bolt is launched at the entry to the Sanctum.
-
-The group dives back, the electricity burning them and as they step back from the Obelisk, the shadows themselves in the room reach out with dark claws to rake at them.
-
-Four shadows attack.
-
-The animate shadows leech the life force from Tark, sapping his strength and he yells in sudden pain.
-
-Patches spins, aiming her pistol and firing a series of shots at the insubstantial creatures. The bullets crumple and tumble, seemingly hitting the insubstantial shadowstuff.
-
-With firebolts, Eldritch blasts and Gundren going a little crazy with his axe, the four shadows are dispatched quickly, though not without some damage to the group.
-
-Cirrus touches Tarks face and kisses him on the forehead, casting Greater Restoration on his little friend and returning his strength.
-
-Warily, the group fans out around the chamber, moving with utmost care.
-
-As they pass the Obelisk, on the back they find a glowing diamond embedded just as Fey finds a hidden switch on the far wall and presses it with a Mage hand.
-
-With a click, the gemstone falls out of the Obelisk and they know the Lightning bolt trap has been disarmed.
-
-They move in to better inspect the Obelisk and find that it has four slots, each with a symbol: A Sun, Snowflake, Flower and Eye.
-
-Cirrus, Gundren and Fey theorize that the symbols represent the schools of magic as in ancient times there were four.
-
-Around the whole set of slots and symbols is a pentagram contained within a cirlce - the symbol of ancient Netheril.
-
-Investigating the rest of the room, the group finds another switch in the dark granite wall and press it, opening a hidden door to a large storage room.
-
-The furniture has long since disintegrated and everything once held here is in dusty tatters.  Inspecting the area, Patches finds a number of ancient gold coins (marked with the pentagram of Netheril) and gemstones in ruined remains of coats and pouches.
-
-At the back of the storage chamber they find a set of stairs descending forty feet and encrusted in ice.  A cellar.
-  
-
-Heading back to the main chamber, frost and ancient dust crunching under foot, the group approaches the large hall leading deeper into the complex.
-
-Twenty feet wide and forty long, the group sees a set of double door down at the far end, gleaming and made of solid gold, flanked by two robed statues wielding staffs.
-
-Cautiously the group heads toward the doors, keeping their eyes peeled.
-
-Tark is in the lead as Patches is returning from the storage chamber when the air distorts in front of the Monk and he cant stop himself in time.
-
-Walking through a crystallization of time and space, it rakes at Tarks body and mind and the group watches as he grows younger by 10 years, reverting him to 11 years of age.
-
-Tark stumbles, blood streaming out of his nose and the shimmering magic shatters around him, his body breaking the bubble of magic.
-
-The group rushes to Tarks side, astounded by what they just saw.
-
-Fey reaches out with his arcane senses and confirms that Tark just walked through a distortion of time and space and can feel that this place has more of these bubbles.
-
-Cirrus throws up his hands in frustration, exclaiming how incredibly dangerous this place is and does not understand why they are here.
-
-Megno responds that he paid them and Tark that they need weapons to fight Zhengyi.
-
-They ensure Tark is ok to continue and press on to the golden door after they determine the statues are not gargoyles or golems.
-  
-
-At the golden door, Fey discovers an arcane lock and pushes past it easily disarming it and the golden doors swing inward.
-
-And a lance of fire shoots out, grazing Fey as he dives into cover, spotting a floating creature with four eyestalks and a central eye floating near the ceiling of the hallway on the other side of the door.
-
-The hallway appears to be a junction, with two staircases rising off either side and another set of golden double doors at the far end.
-
-The Spectator (recognized by Fey) darts up one of the staircases and out of sight, Patches and Tark moving in and taking cover in the hallway.
-
-As the group congregates at the open Golden doors, Fey spots a Glyph on the ground just on the inside of the door and recognizes a Glyph of Radiant Sickness but that it would only be triggered by Aberrations, Fiends or Undead. A defense of some kind.
-
-Patches pokes her head around the corner and looks up the stairs where the Spectator flew, seeing a landing 10ft up with a statue of a woman holding a vase and then another set of stairs. The Spectator is floating up there and shoots two eye beams at her, and she dodges the first but is paralyzed by the second.
-
-Buumi rushes forward and his protective aura allows Patches to push past the paralysis.
-
-Tark rushes in and with Fey's firebolts, Cirrus' eldritch blasts and a flying knee from the monk, the creature is obliterated in short order.
-  
-
-Not wanting to head up the stairs just yet, the group investigates the second set of Golden doors.
-
-Patches takes out her Black-Powder kit for this one and blows the lock - this time a mechanical one.
-
-The door opens from the force, just enough for Patches to look inside and see four small orbs, much like the Spectator but tiny, floating near the ceiling.  Looking around the room, she spies numerous piles of refuse, ancient tables and moldering chairs.  She sees doors leading off this grand hall and around the place four murals stand out as splashes of color against the dark stone.  She spies four gargoyle statues arrayed around the room and just as she begins to turn away, notes many of the refuse piles moving toward the door.
-
-Patches closes the door and relays all she saw.
-
-The group arrays themselves for a fight, with Gwen charging her lightning blast.
-
-Patches opens the door and the blast rockets forth, destroying all of the little Beholder-kin and scorching the oozing creatures.
-
-The strange creatures form mouths all over their bodies and begin letting out gibbering wails, assailing Patches mind and spitting blazing balls of goo that explode, blinding several people.
-
-The group backs up, using their firepower to whittle the strange creatures down as they slowly move along the ground, reality itself seeming to become doughy and malleable around the odd creatures.
-
-Cirrus slams his staff down and calls upon a wall of force to block the creatures.
-
-The moment he does though, a hum and flash from behind them in the entry chamber distracts them and they turn to see a shimmering wall of force not from Cirrus.  Rushing back, they see that the wall has trapped them inside the Sanctum and some kind of Magical dampening field has been enacted, preventing any spell higher than level 2 from being cast…
-
-The Obelisk appears to be the thing generating the wall of force and dampening field and as they inspect it again, they see a large crack running through it.  Feeling the energies within the monument, the group realizes that eventually the energy will reach a critical mass and detonate.
-
-They estimate about 11 hours before this happens.
-
-They also guess that the marked slots in the Obelisk are for some manner of key to disarm the thing.
-
-The group turns back and engages the Gibbering Mouthers, aberrations from beyond the Prime Material Plane. The group unleashes their fury at the creatures, blasting them and cutting them apart in moments as the creatures try to bite and tangle with the group.
-
-The aberrations are summarily destroyed and the group looks ahead, into the grand hall, now clear of enemies…
+The group turned back to the gibbering mouthers — aberrations from beyond the Prime Material Plane — and unleashed everything they had. The creatures tried to bite and tangle, but were blasted and cut apart in moments. The grand hall lay open ahead, empty of enemies at last.

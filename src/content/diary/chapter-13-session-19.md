@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "fawden"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"

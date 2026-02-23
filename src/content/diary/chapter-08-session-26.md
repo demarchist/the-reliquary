@@ -12,6 +12,7 @@ people:
   - "doc"
   - "droki"
   - "feanon-serinde"
+  - "fen"
   - "gundren-rockseeker"
   - "intent"
   - "jack-mayer-johnson-mathews"
