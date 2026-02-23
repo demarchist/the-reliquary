@@ -5,7 +5,6 @@ chapterTitle: The Underdark
 session: 5
 people:
   - "aliyah-faen-tlabbar"
-  - "ceregorach"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
@@ -14,6 +13,7 @@ people:
   - "intent"
   - "jack-mayer-johnson-mathews"
   - "lolth"
+  - "mediocris-dente"
   - "tarkathee-daru"
 places:
   - "abyss"

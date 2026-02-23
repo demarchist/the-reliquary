@@ -6,7 +6,6 @@ session: 7
 summary: "The Sanctum detonates behind them as the group flees by sleigh, Tark dreams the truth about Li Xian's connection to the Oni, the party returns to Sundabar for payday and a murder investigation fallout — before teleporting to Neverwinter and arriving scattered across the city."
 people:
   - "aliyah-faen-tlabbar"
-  - "ceregorach"
   - "cirrus-al-kayan"
   - "doc"
   - "esimir-von-bumidere"

@@ -5,10 +5,10 @@ chapterTitle: Beyond the Veil
 session: 22
 people:
   - "aliyah-faen-tlabbar"
-  - "ceregorach"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "mediocris-dente"
   - "tarkathee-daru"
 places:
   - "ethereal-plane"

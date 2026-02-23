@@ -5,7 +5,6 @@ chapterTitle: The Underdark
 session: 21
 people:
   - "aliyah-faen-tlabbar"
-  - "ceregorach"
   - "chani"
   - "cirrus-al-kayan"
   - "doc"
@@ -16,6 +15,7 @@ people:
   - "intent"
   - "kenshi"
   - "madame-eva"
+  - "mediocris-dente"
   - "orcus"
   - "pickles"
   - "selune"

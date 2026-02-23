@@ -14,6 +14,7 @@ people:
   - "horatio-von-bumidere"
   - "ireena"
   - "jack-mayer-johnson-mathews"
+  - "kurt-von-bumidere"
   - "mordenkainen"
   - "pickles"
   - "rahadin"

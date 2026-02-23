@@ -7,7 +7,6 @@ summary: "The group springs their trap at the Fallen Tower Inn — Patches rigs 
 people:
   - "aliyah-faen-tlabbar"
   - "captain-dink"
-  - "ceregorach"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "fen"

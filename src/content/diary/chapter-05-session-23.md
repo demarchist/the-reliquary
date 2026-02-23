@@ -15,6 +15,7 @@ people:
   - "intent"
   - "ireena"
   - "jack-mayer-johnson-mathews"
+  - "kurt-von-bumidere"
   - "lathander"
   - "mordenkainen"
   - "rahadin"

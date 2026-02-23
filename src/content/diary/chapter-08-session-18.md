@@ -5,7 +5,6 @@ chapterTitle: The Underdark
 session: 18
 people:
   - "aliyah-faen-tlabbar"
-  - "ceregorach"
   - "cirrus-al-kayan"
   - "claudine"
   - "doc"

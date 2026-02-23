@@ -5,7 +5,6 @@ chapterTitle: The Underdark
 session: 16
 people:
   - "aliyah-faen-tlabbar"
-  - "ceregorach"
   - "cirrus-al-kayan"
   - "doc"
   - "droki"
@@ -14,6 +13,7 @@ people:
   - "ilvara-mizzrym"
   - "lady-faye"
   - "lolth"
+  - "mediocris-dente"
   - "ront"
   - "snorbul"
   - "tarkathee-daru"

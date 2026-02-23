@@ -7,7 +7,6 @@ summary: "Scattered across Neverwinter, the group visits Buumi's family estate, 
 people:
   - "aliyah-faen-tlabbar"
   - "boris"
-  - "ceregorach"
   - "cirrus-al-kayan"
   - "ella"
   - "esimir-von-bumidere"

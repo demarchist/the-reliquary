@@ -6,7 +6,6 @@ session: 17
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
-  - "ceregorach"
   - "cirrus-al-kayan"
   - "claudine"
   - "demogorgon"
@@ -18,6 +17,7 @@ people:
   - "ilvara-mizzrym"
   - "intent"
   - "jack-mayer-johnson-mathews"
+  - "mediocris-dente"
   - "pickles"
   - "snorbul"
   - "tarkathee-daru"

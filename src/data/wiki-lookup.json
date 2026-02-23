@@ -194,6 +194,21 @@
     "title": "Atropos",
     "category": "People"
   },
+  "attack on neverwinter": {
+    "slug": "attack-on-neverwinter",
+    "title": "Attack on Neverwinter",
+    "category": "Events"
+  },
+  "neverwinter attack": {
+    "slug": "attack-on-neverwinter",
+    "title": "Attack on Neverwinter",
+    "category": "Events"
+  },
+  "assault on neverwinter": {
+    "slug": "attack-on-neverwinter",
+    "title": "Attack on Neverwinter",
+    "category": "Events"
+  },
   "auril": {
     "slug": "auril",
     "title": "Auril",
@@ -440,8 +455,8 @@
     "category": "People"
   },
   "ceregorach": {
-    "slug": "ceregorach",
-    "title": "Ceregorach",
+    "slug": "mediocris-dente",
+    "title": "Mediocris Dente",
     "category": "People"
   },
   "the laughing god": {
@@ -490,6 +505,11 @@
     "category": "People"
   },
   "corpsetaker": {
+    "slug": "corpsetaker",
+    "title": "Corpsetaker",
+    "category": "People"
+  },
+  "the corpsetaker": {
     "slug": "corpsetaker",
     "title": "Corpsetaker",
     "category": "People"
@@ -772,6 +792,16 @@
   "emma": {
     "slug": "emma-von-bumidere",
     "title": "Emma Von Bumidere",
+    "category": "People"
+  },
+  "ernst von bumidere": {
+    "slug": "ernst-von-bumidere",
+    "title": "Ernst Von Bumidere",
+    "category": "People"
+  },
+  "ernst": {
+    "slug": "ernst-von-bumidere",
+    "title": "Ernst Von Bumidere",
     "category": "People"
   },
   "esimir von bumidere": {
@@ -1269,6 +1299,16 @@
     "title": "House Invincible",
     "category": "Places"
   },
+  "hugh": {
+    "slug": "hugh",
+    "title": "Hugh",
+    "category": "People"
+  },
+  "hugh the spymaster": {
+    "slug": "hugh",
+    "title": "Hugh",
+    "category": "People"
+  },
   "hyrokken": {
     "slug": "hyrokken",
     "title": "Hyrokken",
@@ -1552,6 +1592,16 @@
   "kumuzu isa": {
     "slug": "kumuzu-isa",
     "title": "Kumuzu Isa",
+    "category": "People"
+  },
+  "kurt von bumidere": {
+    "slug": "kurt-von-bumidere",
+    "title": "Kurt Von Bumidere",
+    "category": "People"
+  },
+  "kurt": {
+    "slug": "kurt-von-bumidere",
+    "title": "Kurt Von Bumidere",
     "category": "People"
   },
   "lady faye": {
@@ -3044,7 +3094,12 @@
     "title": "Ysera",
     "category": "People"
   },
-  "zenghi the lich": {
+  "zhengyi": {
+    "slug": "zhengyi",
+    "title": "Zhengyi",
+    "category": "People"
+  },
+  "the witch-king": {
     "slug": "zhengyi",
     "title": "Zhengyi",
     "category": "People"
@@ -3054,12 +3109,7 @@
     "title": "Zhengyi",
     "category": "People"
   },
-  "zhengyi": {
-    "slug": "zhengyi",
-    "title": "Zhengyi",
-    "category": "People"
-  },
-  "the witch-king": {
+  "zenghi the lich": {
     "slug": "zhengyi",
     "title": "Zhengyi",
     "category": "People"
