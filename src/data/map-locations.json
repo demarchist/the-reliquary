@@ -1,0 +1,37 @@
+{
+  "maps": {
+    "sword-coast": {
+      "image": "/images/maps/sword-coast-map.jpg",
+      "bounds": [[0, 0], [6600, 10200]],
+      "minZoom": -4,
+      "maxZoom": 1,
+      "defaultCenter": [4400, 4500],
+      "defaultZoom": -3
+    }
+  },
+  "locations": {
+    "luskan": { "sword-coast": [5478, 3825] },
+    "neverwinter": { "sword-coast": [5148, 3672] },
+    "helms-hold": { "sword-coast": [5016, 3700] },
+    "thundertree": { "sword-coast": [5082, 3850] },
+    "gauntlgrym": { "sword-coast": [5200, 3750] },
+    "phandalin": { "sword-coast": [4950, 3900] },
+    "cragmaw-castle": { "sword-coast": [5000, 3950] },
+    "wave-echo-cave": { "sword-coast": [4920, 3870] },
+    "triboar-trail": { "sword-coast": [5050, 3830] },
+    "longsaddle": { "sword-coast": [5250, 4200] },
+    "thunder-bluff": { "sword-coast": [5350, 4700] },
+    "high-hold": { "sword-coast": [5300, 4600] },
+    "the-evermoors": { "sword-coast": [5280, 4500] },
+    "the-moonwood": { "sword-coast": [5450, 5000] },
+    "silverymoon": { "sword-coast": [5214, 5304] },
+    "sundabar": { "sword-coast": [5100, 5550] },
+    "waterdeep": { "sword-coast": [4224, 3774] },
+    "daggerford": { "sword-coast": [3960, 3720] },
+    "baldurs-gate": { "sword-coast": [3432, 3876] },
+    "scornubel": { "sword-coast": [3564, 4400] },
+    "amn": { "sword-coast": [2900, 4100] },
+    "blingdenstone": { "sword-coast": [5150, 5200] },
+    "menzoberranzan": { "sword-coast": [5000, 5500] }
+  }
+}

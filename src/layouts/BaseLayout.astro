@@ -8,9 +8,10 @@ interface Props {
   description?: string;
   wide?: boolean;
   extraWide?: boolean;
+  fullWidth?: boolean;
 }
 
-const { title, description = 'A scholarly archive of the Rise of Atropos campaign', wide = false, extraWide = false } = Astro.props;
+const { title, description = 'A scholarly archive of the Rise of Atropos campaign', wide = false, extraWide = false, fullWidth = false } = Astro.props;
 ---
 
 <!doctype html>
@@ -26,7 +27,7 @@ const { title, description = 'A scholarly archive of the Rise of Atropos campaig
   </head>
   <body class="min-h-screen flex flex-col">
     <Navigation />
-    <main class:list={['flex-1 w-full mx-auto px-4 sm:px-6 py-8', extraWide ? 'max-w-7xl' : wide ? 'max-w-6xl' : 'max-w-4xl']}>
+    <main class:list={[fullWidth ? 'flex-1 w-full' : `flex-1 w-full mx-auto px-4 sm:px-6 py-8 ${extraWide ? 'max-w-7xl' : wide ? 'max-w-6xl' : 'max-w-4xl'}`]}>
       <slot />
     </main>
     <Footer />

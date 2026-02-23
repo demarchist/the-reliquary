@@ -1,13 +1,39 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import InteractiveMap from '../components/map/InteractiveMap.astro';
+import { getCollection } from 'astro:content';
+import mapData from '../data/map-locations.json';
+
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Fetch wiki Places and all diary entries at build time
+const allWiki = await getCollection('wiki');
+const allDiary = await getCollection('diary');
+
+const places = allWiki.filter(e => e.data.category === 'Places');
+
+// Count diary sessions per place slug
+const sessionCounts: Record<string, number> = {};
+for (const diary of allDiary) {
+  const placeSlugs = diary.data.places ?? [];
+  for (const slug of placeSlugs) {
+    sessionCounts[slug] = (sessionCounts[slug] || 0) + 1;
+  }
+}
+
+// Merge wiki data with map coordinates
+const locations = places
+  .filter(place => mapData.locations[place.id as keyof typeof mapData.locations])
+  .map(place => ({
+    slug: place.id,
+    title: place.data.title,
+    description: place.data.description || '',
+    coordinates: mapData.locations[place.id as keyof typeof mapData.locations],
+    sessionCount: sessionCounts[place.id] || 0,
+    wikiUrl: `${basePath}/wiki/${place.id}/`,
+  }));
 ---
 
-<BaseLayout title="World Map">
-  <h1 class="font-serif text-3xl font-bold text-ink-900 mb-2">World Map</h1>
-  <p class="text-ink-400 mb-8">An interactive map of locations across the realms.</p>
-
-  <div class="text-center py-16 text-ink-400">
-    <p class="text-lg mb-2">Coming Soon</p>
-    <p class="text-sm">The interactive map will feature key locations from the campaign, powered by Leaflet.js.</p>
-  </div>
+<BaseLayout title="World Map" fullWidth>
+  <InteractiveMap locations={locations} maps={mapData.maps} basePath={basePath} />
 </BaseLayout>

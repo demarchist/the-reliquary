@@ -1,0 +1,187 @@
+---
+import '../../styles/map.css';
+
+interface MapLocation {
+  slug: string;
+  title: string;
+  description: string;
+  coordinates: Record<string, [number, number]>;
+  sessionCount: number;
+  wikiUrl: string;
+}
+
+interface MapConfig {
+  image: string;
+  bounds: [[number, number], [number, number]];
+  minZoom: number;
+  maxZoom: number;
+  defaultCenter: [number, number];
+  defaultZoom: number;
+}
+
+interface Props {
+  locations: MapLocation[];
+  maps: Record<string, MapConfig>;
+  basePath: string;
+}
+
+const { locations, maps, basePath } = Astro.props;
+---
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<div class="relative">
+  <div class="map-layer-switcher">
+    {Object.keys(maps).map((key) => (
+      <button class:list={['map-layer-btn', { active: key === 'sword-coast' }]} data-layer={key}>
+        {key.split('-').map(w => w[0].toUpperCase() + w.slice(1)).join(' ')}
+      </button>
+    ))}
+  </div>
+
+  <div id="map" class="map-container"></div>
+</div>
+
+<script id="map-locations" type="application/json" set:html={JSON.stringify({ locations, maps, basePath })} />
+
+<script>
+  async function initMap() {
+    // @ts-ignore
+    const L = await import('https://unpkg.com/leaflet@1.9.4/dist/leaflet-src.esm.js');
+
+    const dataEl = document.getElementById('map-locations');
+    if (!dataEl) return;
+    const { locations, maps, basePath } = JSON.parse(dataEl.textContent || '{}');
+
+    const params = new URLSearchParams(window.location.search);
+    const calibrateMode = params.get('calibrate') === 'true';
+
+    // Determine initial layer
+    let currentLayer = 'sword-coast';
+    const mapConfig = maps[currentLayer];
+    if (!mapConfig) return;
+
+    // Initialize map with CRS.Simple
+    const map = L.map('map', {
+      crs: L.CRS.Simple,
+      minZoom: mapConfig.minZoom,
+      maxZoom: mapConfig.maxZoom,
+      zoomControl: true,
+      attributionControl: false,
+    }).setView(mapConfig.defaultCenter, mapConfig.defaultZoom);
+
+    // Track current overlays and markers
+    let imageOverlay: any = null;
+    let markers: any[] = [];
+
+    function loadLayer(layerKey: string) {
+      const config = maps[layerKey];
+      if (!config) return;
+
+      // Remove existing overlay and markers
+      if (imageOverlay) map.removeLayer(imageOverlay);
+      markers.forEach(m => map.removeLayer(m));
+      markers = [];
+
+      // Check if map image exists by trying to load it
+      const imagePath = basePath + config.image;
+
+      imageOverlay = L.imageOverlay(imagePath, config.bounds).addTo(map);
+
+      // Set map bounds and zoom
+      map.setMaxBounds(config.bounds);
+      map.setMinZoom(config.minZoom);
+      map.setMaxZoom(config.maxZoom);
+      map.setView(config.defaultCenter, config.defaultZoom);
+
+      // Add markers for locations that have coordinates for this layer
+      const markerIcon = L.divIcon({
+        className: '',
+        html: '<div class="map-marker"></div>',
+        iconSize: [12, 12],
+        iconAnchor: [6, 6],
+        popupAnchor: [0, -8],
+        tooltipAnchor: [8, 0],
+      });
+
+      for (const loc of locations) {
+        const coords = loc.coordinates[layerKey];
+        if (!coords) continue;
+
+        const marker = L.marker(coords, { icon: markerIcon }).addTo(map);
+
+        // Tooltip on hover
+        marker.bindTooltip(loc.title, {
+          direction: 'right',
+          offset: [4, 0],
+        });
+
+        // Popup on click
+        const sessionsText = loc.sessionCount === 1
+          ? '1 diary session'
+          : `${loc.sessionCount} diary sessions`;
+
+        const popupHtml = `
+          <div class="map-popup">
+            <h3>${loc.title}</h3>
+            ${loc.description ? `<p>${loc.description}</p>` : ''}
+            <div class="popup-links">
+              <a href="${loc.wikiUrl}">Wiki Entry &rarr;</a>
+              ${loc.sessionCount > 0 ? `<span class="session-count">${sessionsText}</span>` : ''}
+            </div>
+          </div>
+        `;
+
+        marker.bindPopup(popupHtml, { maxWidth: 280 });
+        markers.push(marker);
+      }
+
+      // Update layer switcher UI
+      document.querySelectorAll('.map-layer-btn').forEach(btn => {
+        btn.classList.toggle('active', (btn as HTMLElement).dataset.layer === layerKey);
+      });
+
+      currentLayer = layerKey;
+    }
+
+    // Initial load
+    loadLayer(currentLayer);
+
+    // Layer switcher click handlers
+    document.querySelectorAll('.map-layer-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const layer = (btn as HTMLElement).dataset.layer;
+        if (layer && layer !== currentLayer) {
+          loadLayer(layer);
+        }
+      });
+    });
+
+    // Calibration mode
+    if (calibrateMode) {
+      const banner = document.createElement('div');
+      banner.className = 'calibration-banner';
+      banner.textContent = 'Calibration mode: click to copy coordinates';
+      document.querySelector('.relative')?.appendChild(banner);
+
+      map.on('click', (e: any) => {
+        const { lat, lng } = e.latlng;
+        const coords = `[${Math.round(lat)}, ${Math.round(lng)}]`;
+        navigator.clipboard.writeText(coords).then(() => {
+          banner.textContent = `Copied: ${coords}`;
+          setTimeout(() => {
+            banner.textContent = 'Calibration mode: click to copy coordinates';
+          }, 2000);
+        });
+        console.log(`Map click: ${coords}`);
+      });
+    }
+  }
+
+  // Initialize when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initMap);
+  } else {
+    initMap();
+  }
+</script>
