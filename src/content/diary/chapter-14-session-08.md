@@ -16,6 +16,7 @@ people:
   - "lolth"
   - "selune"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "abyss"
   - "dokkar"

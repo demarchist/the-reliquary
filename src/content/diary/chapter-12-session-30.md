@@ -15,6 +15,7 @@ people:
   - "shar"
   - "snorbul"
   - "tarkathee-daru"
+  - "val-tengu"
   - "vecna"
 places:
   - "feanons-tower"

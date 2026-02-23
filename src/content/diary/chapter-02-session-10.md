@@ -17,6 +17,7 @@ people:
   - "lothli"
   - "myria-brightlance"
   - "pickles"
+  - "sera-von-bumidere"
   - "shar"
   - "tarkathee-daru"
   - "ysera"

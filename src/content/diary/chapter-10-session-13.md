@@ -5,6 +5,7 @@ chapterTitle: Beyond the Veil
 session: 13
 people:
   - "aliyah-faen-tlabbar"
+  - "delly-griplim"
   - "fen"
   - "finn"
   - "gromph-baenre"

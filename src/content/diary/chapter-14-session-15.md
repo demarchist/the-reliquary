@@ -15,6 +15,7 @@ people:
   - "jarlaxle"
   - "lady-faye"
   - "selune"
+  - "val-tengu"
 places:
   - "fane-of-selune"
   - "luskan"

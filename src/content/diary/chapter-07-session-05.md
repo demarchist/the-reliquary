@@ -16,6 +16,7 @@ people:
   - "megno-slatesunder"
   - "shar"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "amn"
   - "astral-plane"

@@ -19,6 +19,7 @@ people:
   - "lolth"
   - "selune"
   - "tarkathee-daru"
+  - "val-tengu"
   - "vladalma"
 places:
   - "dokkar"

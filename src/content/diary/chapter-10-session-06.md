@@ -25,6 +25,7 @@ people:
   - "shar"
   - "tarkathee-daru"
   - "theodemir"
+  - "val-tengu"
 places:
   - "abyss"
   - "amn"

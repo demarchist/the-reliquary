@@ -12,6 +12,7 @@ people:
   - "kangaxx"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "barovia"
   - "the-crossroads"

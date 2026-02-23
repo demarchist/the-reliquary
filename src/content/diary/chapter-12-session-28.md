@@ -7,6 +7,7 @@ people:
   - "atropos"
   - "feanon-serinde"
   - "orcus"
+  - "val-tengu"
   - "vecna"
 places:
   - "feanons-tower"

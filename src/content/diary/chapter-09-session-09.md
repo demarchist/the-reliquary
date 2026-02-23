@@ -20,6 +20,7 @@ people:
   - "tarkathee-daru"
   - "theodemir"
   - "thorna"
+  - "val-tengu"
 places:
   - "abyss"
   - "feanons-tower"

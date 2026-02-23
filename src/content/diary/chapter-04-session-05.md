@@ -14,6 +14,7 @@ people:
   - "kazoo"
   - "lorde"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "feanons-tower"
   - "goblin-town"

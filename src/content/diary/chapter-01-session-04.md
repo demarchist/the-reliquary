@@ -17,7 +17,9 @@ people:
   - "orcus"
   - "pickles"
   - "ront"
+  - "sera-von-bumidere"
   - "tarkathee-daru"
+  - "val-tengu"
   - "ysera"
 places:
   - "astral-plane"

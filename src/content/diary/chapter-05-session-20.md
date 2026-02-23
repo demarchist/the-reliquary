@@ -20,6 +20,7 @@ people:
   - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "amber-temple"
   - "astral-plane"

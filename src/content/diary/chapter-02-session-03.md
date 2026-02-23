@@ -16,6 +16,7 @@ people:
   - "sha-alazzi"
   - "shar"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "feanons-tower"
 things:

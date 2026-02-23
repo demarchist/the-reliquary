@@ -6,6 +6,7 @@ session: 14
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "delly-griplim"
   - "demogorgon"
   - "feanon-serinde"
   - "finn"
@@ -17,6 +18,7 @@ people:
   - "madame-eva"
   - "pickles"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "the-establishment"
 factions:

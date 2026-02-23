@@ -17,6 +17,7 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "vaketh"
+  - "val-tengu"
   - "ventari"
 places:
   - "faerun"

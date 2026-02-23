@@ -25,6 +25,7 @@ people:
   - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "urwen"
+  - "val-tengu"
   - "van-richten"
   - "wachter"
 places:

@@ -16,6 +16,7 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "thorna"
+  - "val-tengu"
 things:
   - "saurian-firelance"
   - "titanic-forge"

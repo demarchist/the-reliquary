@@ -26,6 +26,7 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "thorna"
+  - "vaas-redblade"
   - "vizerion-devir"
 places:
   - "anauroch"

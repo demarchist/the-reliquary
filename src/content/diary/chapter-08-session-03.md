@@ -15,6 +15,7 @@ people:
   - "pickles"
   - "tarkathee-daru"
   - "theodemir"
+  - "val-tengu"
 places:
   - "menzoberranzan"
   - "neverwinter"

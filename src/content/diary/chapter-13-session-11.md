@@ -15,6 +15,7 @@ people:
   - "ront"
   - "snorbul"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "ethereal-plane"
   - "machina-factory"

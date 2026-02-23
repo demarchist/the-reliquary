@@ -8,6 +8,7 @@ people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "tarkathee-daru"
+  - "vaas-redblade"
   - "vizerion-devir"
   - "zuggtmoy"
 places:

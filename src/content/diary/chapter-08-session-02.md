@@ -21,6 +21,7 @@ people:
   - "shar"
   - "sharess"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "athkatla"
   - "keep-of-thunder-bluff"

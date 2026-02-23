@@ -26,6 +26,8 @@ people:
   - "tarkathee-daru"
   - "theodemir"
   - "thorna"
+  - "vaas-redblade"
+  - "val-tengu"
   - "zhengyi"
 places:
   - "amn"

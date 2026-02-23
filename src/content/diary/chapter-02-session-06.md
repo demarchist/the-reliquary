@@ -19,6 +19,7 @@ people:
   - "raylen"
   - "ront"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "baldurs-gate"
   - "moonstone-mask-inn"

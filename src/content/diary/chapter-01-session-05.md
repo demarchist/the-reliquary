@@ -18,6 +18,7 @@ people:
   - "orcus"
   - "shar"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "astral-plane"
   - "the-chasm"

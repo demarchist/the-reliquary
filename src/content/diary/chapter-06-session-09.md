@@ -16,6 +16,7 @@ people:
   - "pickles"
   - "tarkathee-daru"
   - "vaelstraza"
+  - "val-tengu"
 places:
   - "amn"
   - "baldurs-gate"

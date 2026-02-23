@@ -19,6 +19,7 @@ people:
   - "moradin"
   - "pickles"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "barovia"
   - "castle-ravenloft"

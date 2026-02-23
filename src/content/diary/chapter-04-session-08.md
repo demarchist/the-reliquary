@@ -11,6 +11,7 @@ people:
   - "goblin-king"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "val-tengu"
   - "zhink"
 places:
   - "the-bog"

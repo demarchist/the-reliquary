@@ -20,6 +20,7 @@ people:
   - "ront"
   - "sergei"
   - "strahd-von-zarovich"
+  - "val-tengu"
 places:
   - "barovia"
   - "the-crossroads"

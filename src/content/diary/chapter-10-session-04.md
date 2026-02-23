@@ -15,6 +15,7 @@ people:
   - "li-xian"
   - "orcus"
   - "selune"
+  - "sera-von-bumidere"
   - "snorbul"
   - "tarkathee-daru"
   - "thorna"

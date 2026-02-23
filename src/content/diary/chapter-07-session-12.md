@@ -3,31 +3,37 @@ title: The Sanctum - Session 12
 chapter: 7
 chapterTitle: The Sanctum
 session: 12
+summary: "The group dines with Lord Neverember, Mordenkainen, and Delly Griplim at the keep — learning of Orcus's gathering forces and a new security assignment — before Captain Vaas Redblade storms in demanding restitution, sparking a desperate race to the harbour and a violent assault on the slaver ship The Silent Virtue."
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
   - "cirrus-al-kayan"
+  - "delly-griplim"
   - "doc"
+  - "esimir-von-bumidere"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"
+  - "laeral-silverhand"
   - "lord-neverember"
-  - "moot"
   - "mordenkainen"
   - "orcus"
-  - "ront"
-  - "selune"
+  - "petey-greene"
+  - "renaer-neverember"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "vaas-redblade"
+  - "val-tengu"
   - "zhengyi"
 places:
   - "amn"
   - "barovia"
+  - "helms-hold"
   - "keep-of-thunder-bluff"
   - "luskan"
   - "neverwinter"
+  - "sallow-manatee"
   - "sanctum-of-krasus"
   - "silverymoon"
   - "snorbuls-hole"
@@ -36,247 +42,103 @@ things:
   - "bag-of-holding"
   - "eclipse"
   - "gwen"
-  - "tavern-of-doors"
+  - "the-silent-virtue"
 factions:
   - "amnians"
   - "drow-faction"
   - "the-harpers"
+events:
+  - "council-of-helms-hold"
 ---
 
-**Dinner & The Captain**
+## Dinner at the Keep
 
-**​**The group's carriage rolls to a gentle stop outside the main gates of Neverwinter keep.
+The carriage rolled to a gentle stop outside the main gates of [[Neverwinter]] keep. A finely dressed servant descended the steps with precise movements and offered to lead them inside. As they followed — Tark incessantly trying to get the man to introduce himself, with no success — two figures emerged from the keep.
 
-Disembarking from the carriage, the group looks up the steps to see the main gate open and a fancily dressed servant come walking out, his movements precise as he descends to the group.
+Both were human. The woman was tall, slender, and striking in her middle years, with stark white hair and pale eyes, wearing white robes trimmed in silver. The young man beside her had strawberry-blond hair and a close-cut beard, dressed in rich blue nobleman's clothing with a gold chain across his shoulders. They were talking about [[Waterdeep]], the Council, and mobilising [[The Harpers]]. Seeing the group, they stopped to introduce themselves.
 
-The servant offers to lead the group into the keep for dinner and begins ascending the steps, leading the way.
+[[Laeral Silverhand]], Open Lord of Waterdeep. [[Renaer Neverember]], son of the Lord of [[Neverwinter]] and cousin of Buumi. Laeral had been visiting for a briefing from [[Mordenkainen]] and would be teleporting back to Waterdeep that night. Renaer was to serve as Neverwinter's new ambassador to Waterdeep and would attend the [[Council of Helm's Hold]]. He greeted his cousin, though the two hardly knew each other. The dignitaries took their leave, thanked the group for their efforts, and departed.
 
-As the group follows, Tark incessantly trying to get the man to introduce himself (with no luck), two figures begin to leave the keep and descent the steps, making to pass by the group.
+The group entered the keep, passing through long hallways lined with tapestries, ceremonial armour, and portraits, their boots soft on plush carpets laid over dark stone. Deep within the complex they came to a set of rich hardwood doors. The servant knocked once and the doors swung open, warmth and firelight spilling into the hall.
 
-The two figures are both human, one male, one female and both dressed in finery.  The woman is tall, slender and beautiful in her middle years but with stark white hair and pale eyes, wearing white robes trimmed in silver.  The man is young, in his thirties with strawberry blonde hair and a close cut beard and wearing rich blue noble mans clothing, a gold chain around his neck and shoulders.
+Inside the lavishly decorated dining room, four figures waited. By the large crackling fireplace, Mordenkainen reclined on a plush lounger, a generous glass of red wine in hand, talking with a female gnome — pink-haired pigtails, red robes trimmed in gold — floating in a crystal throne. [[Delly Griplim]].
 
-They are talking to one another and the group overhears mention of Waterdeep, the Council and mobilising the Harpers.  As the group passes, the two figures take better notice of the party and stop to introduce themselves, recognising the Heralds.
+At the far end of a long dining table set for ten sat [[Lord Neverember]], looking much the same as when the group had last seen him over a year before — rich brown hair, severe blue eyes, ruddy skin, a full beard streaked with grey. He wore a breastplate and embroidered gambeson under a blue cloak pinned at one shoulder by a massive golden lion's-head pauldron, a longsword resting against his chair. Beside him sat a man with a striking resemblance to Buumi — red-haired, greying at the temples, with a developing belly and a darkwood cane. [[Esimir Von Bumidere]].
 
-The woman introduces herself as Laeral Silverhand, Open Lord of Waterdeep and the young man as Renaer Neverember, son of the Lord of Neverwinter and cousin of Buumi.
+Neverember looked up, smiled, and told them to come in. Buumi and his father exchanged a brief nod before Buumi headed to pour himself a drink. [[Fëanon Serinde]] very intentionally followed Buumi, avoiding Mordenkainen, while everyone else gravitated toward the two wizards and the well-stocked table between them.
 
-The group talks with them for a few minutes, finding out that Laeral was visiting for a briefing from Mordenkainen about the situation and will be teleporting back to Waterdeep that very night.  
+[[Cirrus Al Kayan]] went straight to Mordenkainen with determination and pulled the warlock's eyeball from the jar he'd been keeping it in, imploring the Archmage to perform flesh to stone. Mordenkainen stammered a greeting through a sip of wine, set his glass down, and took the eyeball — dropping it into the emptied wine glass with some marble dust. A flash, and the thing was stone. Cirrus took it back with a sigh of relief.
 
-Renaer is to be the new ambassador to Waterdeep from Neverwinter and will be attending the Council (he greets his cousin, though they don't know each other well at all).
+[[Tarkathee Daru]] and [[Gundren Rockseeker]] hit the drinks cart and grabbed some impressive bottles. Tark walked up to Delly's floating crystal throne and stared. The gnome floated a little higher as he went to prod the seat. "Beautiful, isn't it?"
 
-The two noble dignitaries take their leave, thanking the group for their efforts and head down to the carriage, continuing to talk.
+The conversation turned to catching up. Mordenkainen asked what they had been doing these past months, and the group began to recount everything — Neverember and Esimir pausing their own conversation to listen, Delly leaning forward with rapt attention. When they reached the [[Sanctum of Krasus]], Fëanon blurted out the discovery, much to both archmages' surprise. They pressed for details but Fëanon was cagey, saying only that he feared it was now destroyed.
 
-The group sets off again, entering the magnificent keep and passing through long hallways lined with tapestries, ceremonial armor and portraits, stepping on plush carpets set atop the smooth cut dark stone of the castle.
+A bell rang. Dinner in fifteen minutes. They moved to the table and Lord Neverember toasted the group's return. He produced a small coffer containing five hundred platinum — payment for past services never rendered, plus extra for a new task. The conversation turned to the [[Council of Helm's Hold]] and the threat of [[Orcus]] and [[Atropos]]. With visiting dignitaries arriving from across the world, security was paramount — particularly regarding the [[Amnians]] and what had transpired in [[Silverymoon]]. The delegation would be staying at the Bumidere estate. Neverember wanted the group there as security.
 
-They make their way deep into the complex, eventually coming to a modestly sized set of rich hardwood doors.  The servant knocks once and the doors swing open, warmth and firelight spilling out into the hall from a dining room. The group is motioned to enter.
+Patches remarked that the Amnians wouldn't be happy to see them. Neverember smiled and told the Drow — adding that the moon-elf disguise was unnecessary here — that he didn't expect they would. The group agreed. Esimir stood to prepare the estate, exchanged a nod with his son, and departed.
 
-Inside the lavishly decorated room they see four figures.  Two are by the large crackling fireplace; Mordenkainen reclining on a plush lounger a large glass of red wine in hand and talking with the second person; a female Gnome with pink hair and pigtails, wearing a red robe with gold trim and floating in a crystal throne.
+Mordenkainen cleared his throat. Despite his best efforts, he could not find the majority of his allies or archmages of comparable power. He feared the liches and servants of Orcus had made a concentrated effort to neutralise anyone who could stand against them — his own imprisonment in [[Barovia]] was part of the greater plan. The freeing of [[Strahd Von Zarovich]], the Children of Orcus, the return of [[Zhengyi]] — all pointed toward a concerted gathering of forces for the Prince of Undeath.
 
-The other two people are two human men sitting at a long dining table set for ten, one sitting at its head and the other by his right side.  Lord Dagult Neverember looks much the same as when the group had last seen him over a year before, rich brown hair, severe blue eyes and ruddy skin and a full beard with streaks of grey by the pronounced chin.  Lord Neverember is wearing a breastplate and richly embroidered gambeson with a blue cloak wrapped and pinned at one shoulder by a massive golden lion's head pauldron.  A longsword rests against the chair at his side and he is in conversation with the other man.
+Delly spoke of her scrying efforts to track emanations of undeath. She had found little beyond a powerful signal from Thay. The group mentioned what they had seen in the Sanctum's vision — Atropos himself. Concerned, the mages pressed the need to find the artifact fragments. The group insisted that knowledge of the fragments remain secret from the Council. Everyone agreed.
 
-The man talking with Neverember has a striking resemblance to Buumi, with red hair, graying at the temples and a strong form, though with a bit of a belly developing and a darkwood cane in his hands; Esimir Von Bumidere.
+Then a knock at the door. The servant whispered into Neverember's ear. The lord sighed and said to let her in.
 
-Lord Neverember looks up and smiles, greeting the group and telling them to come in and get comfortable before returning to talking with Esimir.  Buumi and his father exchange a brief nod of greeting before Buumi heads to the table to pour himself a drink.
+## Captain Vaas Redblade
 
-Fey very intentionally heads with Buumi, avoiding Mordenkainen at first while everyone else heads towards the two wizards...and the drinks set between the two of them on a very well stocked table.
+A short, tanned-skinned, blond elven woman strode into the chamber, leather boots clicking, fancy overcoat swishing. Her stern gaze scoured the room and settled on the party. Captain [[Vaas Redblade]] of [[The Silent Virtue]], here for restitution for her slain crewmember. Behind her came a guard lieutenant — Graff, the man in charge of policing the docks.
 
-Cirrus heads straight to Mordenkainen with determination and pulls the warlock's eyeball from the jar he had been keeping it, imploring the Archmage to perform the flesh to stone spell.
+Mordenkainen and Delly sat back, amused.
 
-A little taken aback at the urgency, Mordenkainen stammers out a greeting through a sip of wine and sets his glass down, pulling out his spellbook to perform the incantation. He takes the eyeball from Cirrus, finishing his wine off in a large gulp and having the eye plopped into the glass.  Moments later, after sprinkling some marble dust over the eye, there's a flash and the eyeball is turned to stone.  Mordenkainen hands it back to Cirrus who takes the item with a sigh of relief.
+As the accusation of murder was thrown at the group, they retaliated — accusing Vaas of piracy, slavery, and Graff of bribery. The lieutenant went very red, stammered, and excused himself far too quickly. Neverember watched him leave and snapped his fingers once. Patches noticed a figure follow the departing guard.
 
-Tark and Gunren have hit up the drinks cart and grabbed some nice looking bottles.  Turning to look at the Gnome floating on a crystal throne, Tark walks up, staring.
+Vaas sneered at their accusations, explained away the Mintarn coinage, and demanded fourteen hundred gold for her crewman. The group said they would gladly pay — if she accepted an inspection of her ship. Vaas refused. Neverember stepped in, noting that as a representative of [[Luskan]] and Ship Rethnor, these accusations were particularly damaging. He suggested an inspection would clear things up. Vaas agreed through gritted teeth, then turned to leave, saying it would happen in the morning.
 
-The Gnome, Delly, floats a little higher as Tark goes to prod her floating seat and she remarks "beautiful isn't it?"
+The group stood. If an inspection was happening, it was happening now. Neverember agreed.
 
-The conversation turns to Mordenkainen welcoming the group, saying how good it is to see them.  He asks what they have been up to in the last few months, having heard some accounts but wanting the personal touch.
+## Racing to the Ship
 
-The group begins recounting what had happened since they last met, Lord Neverember and Esimir pausing their own conversation to listen, Delly leaning forward with rapt attention.
+They all but ran from the keep. Cirrus split off to get into Vaas's carriage but was shoved out by a powerfully built elf in heavy plate armour — the champion — while a blue-robed mage inside watched with a haughty stare. The door slammed shut and the carriage rolled away.
 
-As they get to the most recent events, Fey, who has wandered over near the Archmages, blurts out that they discovered and explored the Sanctum of Krasus'.  Much to both Delly and Mordenkainen's surprise.  They ask where it was but Fey is cagey and simply remarks that he fears it now destroyed.
+In the group's carriage, Tark saw Cirrus stumbling and told them not to wait. He dove from the moving vehicle into a patch of shadow, turned invisible, and leapt onto the side of Vaas's carriage as it passed.
 
-Before they can go into any further detail, a bell is rung and it is announced that dinner will be served in fifteen minutes.  The group and the mages all head to the table and begin to get comfortable.
+Cirrus attempted a Far Step to teleport into the carriage. A counterspell went off from within. He caught a smirk through the window. Left standing alone in the courtyard, he heard hooves — a valet appeared leading a horse, the palace staff having noted the exchange. Cirrus mounted, cast fly on both himself and the horse, and kicked the terrified, wide-eyed animal into the sky toward the harbour.
 
-Lord Neverember toasts the group, welcoming them back to the city after such a long absence.  He pulls out a small coffer and opens it, showing the group 500 platinum pieces and then having Esimir pass it down to the group.  Neverember remarks that it is for past services rendered (as the group never got paid for investigating the Vault beneath the city) and that the extra is payment for a new task.
+Clinging to the side of the carriage, Tark tried to listen. The voices inside spoke in hushed tones in a language he could not identify — neither Common nor Elvish. The carriage rattled across cobblestones and over the river bridge.
 
-Dinner is served and the conversation turns to current events, specifically the council to discuss the threat of Orcus and Atropos.  With visiting dignitaries the world over visiting, security is a concern, specifically with the Amnian delegation and what transpired in Silverymoon.  As such, the delegation is being put up at the Bumidere estate and Neverember wants the group to stay there too as security.
+The group's carriage arrived first. Gundren, Fëanon, and [[Horatio von Bumidere]] rushed to the water's edge to find boats. Patches told them she'd catch up and ran to her contact — a teenage boy spying on The Silent Virtue. The lad reported that a friend of a friend had seen boats ferrying agitated people out to the ship in absolute silence over the past few nights. Patches checked under the wharf and found a Mintarn coin and a handkerchief initialled J.H.
 
-Patches remarks that the Amnians won't be happy to see them and the Lord smiles, telling the Drow (and telling her the moon elf disguise in unnecessary there) that he doesn't expect they will.
+Gundren, Fëanon, and Buumi found night fishermen willing to rent their boats and set off across the choppy, frigid waters toward the three-masted galleon moored past the lighthouse. Vaas and her men boarded their own longboat. As it rocked from their weight, Tark leapt silently onto the prow, invisible and unnoticed. Patches found her own ride — two older teenagers with a small boat, overpaid for speed.
 
-The group agrees to Neverember's request and Esimir stands to take his leave, saying he has much to prepare at the estate.  He nods to Buumi and then heads out.
+## Assault on The Silent Virtue
 
-Mordenkainen clears his throat and begins to tell the group of his own discoveries over the last few months. Detailing that despite his best efforts, he cannot find the majority of his allies or archmages of similar power to himself (or greater).  His fear is that the Liches and allies of Orcus have made a concentrated effort to neutralize and counter anyone that could stand against them - his own imprisonment and near death in Barovia seems to be a part of the greater plan.  The freeing of Strahd, Children of Orcus and return of Zhengyi all point toward a concerted effort for the Prince of Undeath to be gathering forces.
+Cirrus landed the flying horse on deck, disguised as Vaas Redblade. He cast a major suggestion on as many pirates as he could see — they should only trust this captain, any other Vaas was an impostor. Then he rushed below, searching the hold. Crates of goods. No cages. No people.
 
-Delly perks up in her chair and begins talking about her efforts into scrying and looking for emanations of Undeath, tracking liches and their forces but that she's had little luck other than a very clear and powerful emanation from Thay, a nation ruled by the undead.
+Swearing, he ran back to the mid-deck, ducked behind a beam, and cast a flaming sphere against the ceiling. Wood ignited instantly. Calls of fire erupted below as he raced topside. Three boats were speeding toward The Silent Virtue, less than two hundred feet out.
 
-The group mentions the Sanctum of Krasus again and what they saw in the vision there; Atropos.
+The deck crew went on alert — bows drawn, guns manned, ballista swivelled. Vaas stood in her longboat and called out to her crew, pointing at the doppelgänger on deck. Half the crew, charmed, opened fire on their own captain's boat. The rest turned their weapons on the approaching group.
 
-Concerned, Delly and Mordenkainen bring up the artifacts and the necessity of finding all the pieces to combat the threat.  The group agrees and mention that the existence of the fragments needs to be kept secret from the Council, it should be "need to know" information.  Everyone agrees.
+The swivel guns roared. One shot hit the water near Gundren's boat. The other struck Buumi and Fëanon's vessel clean, splintering it and throwing them into the frigid sea. Buumi, mercifully dressed for dinner rather than war, did not sink. On Vaas's boat, the robed mage stood and thrust out a hand — a thirty-foot wall of water slammed into Gundren's craft, destroying it and casting the dwarf beneath the waves. [[Gwen]], following on a Tenser's disc, held fast and hauled Gundren from the water moments later.
 
-Mordy and Delly are both about to say something when a knock on the door to the dining hall interrupts them and the servant from earlier enters, approaching Lord Neverember and whispering into his ear.
+Fëanon cast fly, grabbed Buumi, and deposited them both on the fore deck beside the ballista. Buumi charged the operator, who fired point-blank — the massive bolt sparked off his enchanted breastplate and hurled him to the deck with cracked ribs. Vaas turned to mist, stepped between spaces, and materialised on deck, drawing her scimitar and dropping her disguise — no longer elven, but the hobgoblin she truly was. The charmed sailors attacked her anyway. She cut them both down.
 
-Neverember sighs and says to "let her in" and a few minutes later a short, tanned skinned, blonde elvish woman walks into the chamber, leather boots clicking on the floor and fancy leather overcoat swishing.  Her stern visage scours the room and settles on the party.  She introduces herself as Captain Vaas Redblade of The Silent Virtue.  She is here for restitution for her slain crewmember.
+From Vaas's sinking longboat, Tark made his move. He quaffed a potion of Storm Giant strength, reached down, and ripped the bottom of the boat apart. The champion spun to see the now-visible halfling behind him — just before Tark leapt through the hole and dragged the armoured warrior beneath the waves. Down they sank, Tark's ridiculously oversized muscles locked in a grapple the man could not break. The champion slashed with his greatsword, scoring deep wounds, but Tark did not relent. Two hundred feet they fell, until they hit the silty bottom. Tark released, kicked off, and drank a potion of water breathing. Then he watched the panicking man fight his way toward the surface against the weight of his own armour.
 
-Mordenkainen and Delly sit back and watch, amused at the spectacle.
+Above, the battle raged. The enemy wizard ran across the waves on a potion of water-walking, conjured a massive arcane hand to swat Buumi across the deck — then took two crossbow bolts in the back from Patches and lost concentration. Gundren floated closer on the disc, blasting crew from the guns. Fëanon's mirror images confused the sailors. [[Gwen]] raced up the hull and onto the deck.
 
-Behind Vaas, a guard Lieutenant enters and introduces himself as Graff, the man in charge of policing the Docks.
+Below, Cirrus found it — a masterfully disguised trapdoor beneath the floorboards, a metal hatch. He blasted it open. In a compartment no more than three feet tall, stretching the length of the ship, thirty-two prisoners sat in chains. Cirrus whispered that he would be back and strode to the mid-deck. Seeing him in his true form, the remaining sailors drew weapons. Cirrus raised a hand and blasted the entire deck with a cone of cold. There were no survivors.
 
-As the accusation of murder is thrown at the group, they retaliate by accusing Vaas of piracy, slavery and Graff of bribery.  Graff goes very red and begins getting flustered, excusing himself far too quickly and suspiciously. Neverember watches the man leave and then snaps his fingers once.  Patches notes as the guard leaves, he is followed by another figure.
+Patches put a third bolt into the wizard's back as he reached for a climbing net. He crumpled, floating on the reddening waves. She summoned [[Eclipse]], misty-stepped behind a pirate, and cut him down. Vaas, desperate, threw a bolt of lightning that struck Buumi. Patches cut a rope and was yanked to safety just before the blast hit.
 
-Vaas sneers at the group's accusations, explaining her crews Mintarn coinage away and denouncing any talk of piracy of slavery.  She demands 1400gp for the death of her crew member.
+Two hundred feet below, the champion breached the surface with a massive gasp — red-faced, capillaries bursting, barely alive. Tark exploded from the water and put him down with a single strike, then caught the unconscious man before he could sink and swam him to the ship.
 
-This raises some eyebrows and the group responds by saying they would gladly pay, if she would accept and inspection of her ship.  Something Vaas adamantly refuses.
+Vaas, cornered, called her surrender as Patches pressed a blade to her throat.
 
-Neverember steps in, mentioning that as a representative of Luskan and Ship Rethnor, these accusations are particularly damaging to future trade between the two cities.  He explains to the group that evidence would be required to take any action against her, but that an inspection of the ship should be enough to clear this up.  
+## Restitution
 
-Vaas is hesitant and indignant, but agrees.  She turns to go, telling Neverember that she will have the inspection done in the morning.
+Below decks, chains snapped under Tark's still-enhanced strength as the freed prisoners cried out. Vaas offered terms — let the champion and herself go in a lifeboat and she would give them her slaving contacts in the city and information about a strange metal box delivered to someone called Priss at the Sallow Manatee. The group agreed, on the condition she also paid them. She told them to investigate the kegs in the hold from Petey Greene — her slaving contact.
 
-Immediately the group stands and refuses, if an inspection is happening, its happening now, and by them.  Neverember agrees.
+Gundren found the kegs. The first held good ale. The second came apart, revealing a small compartment for ale and another filled with eight gold ingots. Chuckling, the dwarf dropped each into his [[Bag of Holding]].
 
-**Racing to the Ship**
+Patches kicked Vaas into a lifeboat. Tark deposited the champion beside her. They cut the ropes and let it drift. The remaining crew, knowing a return to Neverwinter meant death, refused to cooperate until Gundren offered them the barrel of his gun. They despondently got to work.
 
-**​**All but rushing from the Neverwinter Keep, the group descends the front steps toward two waiting carriages, Cirrus splits off to get into the same carriage as Vaas as she quickly heads to her own ride.
-
-Looking ahead, Cirrus sees two other figures waiting in the carriage, a powerfully built male elf with a sheathed greatsword, heavy plate armor and a stern expression and a blue robed elf male with short hair, an obvious spellbook on his hip and a haughty stare (looking right at Cirrus as he makes for the carriage).
-
-Vaas beats Cirrus to the carriage and steps inside and moments later Cirrus steps up to follow.  The plate-clad elf blocks his path, staring blankly and shoves Cirrus out of the carriage doorway, quickly shutting the door as the Warlock stumbles backwards.  The carriage begins rolling away, picking up speed.
-
-The momentary distraction of Cirrus attempting to enter the same carriage as Vaas gives the group and their own carriage a bit of a lead, clearing the courtyard just as the other begins to move.
-
-Looking back, Tark sees Cirrus stumbling and tells the group not to wait on him, diving from the carriage into a patch of shadow.  As Vaas's carriage passes, he turns invisible and leaps onto the side gingerly, stowing away.
-
-Seeing both carriages leaving quickly, Cirrus calls upon Selune to enact a Far Step, beginning to rapidly teleport into Vaas' carriage.  As the spell is enacted though, a Counterspell goes off from within the carriage and Cirrus can just see a smirk on one of the occupants looking back at him.
-
-The carriage leaves the courtyard and Cirrus is left, standing alone.  He hears the clip-clopping of hooves and turns, seeing a Valet leading a horse, evidently the palace staff noted the exchange and took the initiative to bring the Baron a horse.
-
-Mounting, Cirrus raises his staff and enacts a fly spell on himself and the Horse and kicks the creature to begin galloping.  With the spell though, the horse quickly begins to ascend into the sky, the creature going wide-eyed and whinnying in terror and Cirrus gets his bearings and heads to the harbor bay.
-
-As Tark clings to the side of the carriage, he tries to peek inside but his stature makes it difficult.  As the carriage rolls through the city, across cobblestone streets and the bridge spanning the river, Tark listens.
-
-The voices inside the carriage are speaking in hushed conversation and Tark cannot make it out, but he knows its not Common, or Elvish.
-
-The groups carriage arrives at the docks and they quickly disembark, Gundren, Fey and Buumi rushing to the waters edge to find some boats to buy or rent.
-
-Patches tells the group she will catch up and rushes off to talk to her contact she had spying on The Silent Virtue.  She finds the teenage boy in the alley he had indicated and she slips in behind him, startling the poor lad as she lights her pipe.
-
-The boy jumps but recognizes his employer.  He says he hasn't seen anything, but a friend of a friend of a friend saw a few boats ferrying people out to the ship over the last few nights in absolute silence.  He thought it odd how quiet the boat was as the people inside seemed agitated.
-
-Patches asks where the boat left from on the docks and is pointed underneath the nearby Wharf.  Patches thanks the lad and rushes off to check by the water.
-
-Making it under the Wharf, Patches looks around and finds a Mintarn coin, sign of traffic and a hanker chief with the initials J.H.
-
-Thinking she has dallied too long, Patches makes her way back to the group.
-
-Meanwhile, the carriage carrying Vaas and her henchmen has arrived at the docks and they have disembarked to a waiting boat.
-
-Gundren, Fey and Buumi have found some night fishermen willing to rent their boats and disembarked into the bay already, making steady speed toward the large 3 master galleon moored out in the bay, just past the lighthouse.
-
-Vaas and her lackeys board their own longboat. Ask it rocks from their entry, Tark leaps onto the front of the boat, silent and invisible, the crew none the wiser.
-
-The boats make their way, quickly splashing across the choppy, frigid waters of the winter sea and making good speed toward The Silent Virtue.
-
-Despite the initial lead from the party, Vaas and her men are gaining and look to be arriving at the ship almost simultaneously...
-
-Having missed the groups boats, Patches finds her contact and demands she be ferried out to The Silent Virtue.  The kid knows a guy and two older teenagers offer to take her out for some silver.  Patches readily agrees, overpaying them for expediency and they rush down to the small boat to begin catching up to the departed vessels.
-
-**Assault on the Silent Virtue**
-
-​Cirrus lands the flying horse, disguised as Vaas Redblade and startling the deck crew.
-
-Calling out, Cirrus waves his hand and casts major suggestion on as many of the pirates as he can see, while looking like their captain and calling out that the crew should only trust her (him) and any other captain look-alike is an impostor.
-
-He then rushes below decks to try and look around, rushing through the throngs of crew going about their nightly business.  Some of them look confused and ask what's happening and Cirrus repeats his order - look out for captain Vaas look alikes.  Confusion spreads.
-
-Cirrus finds the stairway down to the hold and rushes down into it, looking around but seeing nothing but crates of goods.  No cages, no people.
-
-Swearing, Cirrus rushes back up to the mid decks and then up to the main deck.  Just as he rushes through the hold, he ducks behind a beam and casts a flaming sphere behind him, against the ceiling of the deck.  The wood instantly ignites and calls of fire erupt, men rushing to buckets as this spontaneous blaze begins.
-
-Cirrus rushes up to the main deck and looks out toward the city and sees three boats speeding toward The Silent Virtue, less than two hundred feet out.
-
-Hearing the calls of fire from below deck, the main Deck crew instantly goes on alert, drawing bows, manning guns and swiveling the Ballista out to face the incoming ships.  
-
-Vaas stands up in her boat, calling out to her crew and seeing a doppleganger of herself standing on deck under lantern-light.  She calls out that the one on the deck is an imposter, she's with her lieutenants after all.  Half of the deck crew, charmed, begin taking pot shots at Vaas and her ship, but the rest immediately turn on the disguised Cirrus and the other approaching ships as Vaas takes command of her men.
-
-The two swivel guns on the poop deck are pointed at the group and fire.  One shot hits the water near Gundrens boat, but the other hits Buumi and Fey's vessel cleanly, splintering it and sending it down instantly, throwing the wizard and Paladin into the frigid waters.  Luckily, Buumi is dressed for dinner and not war, so he does not sink under the weight of his Plate armor.
-
-In Vaas's ship, the robed elf stands tall and thrusts out a hand and a massive, thirty foot tall wall of water rushes out and slams into Gundren's boat, destroying it and casting the Dwarf under the waves.
-
-Following on the Tenser's disc, Gwen is hit by the water but does not go under.  Moments later, Gundren splashes to the surface and the construct bends down to help him out of the water and onto the disc.
-
-Fey enacts a spell of flying and grabs onto Buumi, who grabs back much harder as they fly out of the sea and onto the front deck of the ship.  Right by the Ballista.
-
-Buumi rushes forward to engage the man on the massive crossbow, but as he rushes to engage, the man fires point blank.  The massive bolt sparks off Buumi's enchanted breastplate and throws the big man hard against the deck.  Ribs cracked and bleeding from the massive impact, Buumi looks up in alarm as the man reels to reload the thing and knows he cannot take another hit like that.
-
-Vaas turns to mist and steps between spaces, appearing on the deck of the ship and pulls her scimitar off her hip.  She turns to two sailors rushing at her and drops her disguise, no longer looking like an elf, but the Hobgoblin she is.  The sailors, under the suggestion spell, do not react to the red-skinned goblinoid and attack anyway.
-
-She cuts them both down with a deft twist of her blade and calls out to her crew, pointing at the imposter Cirrus.
-
-Crossbow bolts rain down from archers in the crows nests, some hitting Buumi, some Fey and some Vaas.
-
-Back on Vaas's longboat, Tark makes his move, quaffing a potion of Storm Giant strength and reaching down to the bottom of the boat with mighty hands.  Grabbing, the monk becomes visible, his invisibility dispelled by the violent act...of ripping the bottom of the boat apart.
-
-The small vessel immediately slows, the Champion spinning from the bow to look at a now visible Tark behind him just as the halfling leaps through the hole in the hull and into the water.
-
-The Champion strides forward to the hole and Tarks engorged hand lashes out, grabbing the warrior and dragging him under the waves.  Beneath the surface, Tark hugs the man tightly in a powerful grapple, the little halflings muscles ridiculously oversized from the potion.  Wearing heavy plate, Tark and the man quickly sink, falling into the icy depths of Neverwinter harbor.
-
-Panicking, the man tries to draw his greatsword and manages to cut at Tark, dealing deep wounds.  Tark does not relent and they sink further.  As the man retaliates, continuing to cut, the Monk batters the warrior as best he can, refusing to let go.
-
-They sink until they reach the silty, object strewn bottom, some two hundred feet down.  Tark releases and kicks off from the man, watching, and drinks a potion of Water Breathing...The man begins to panic as his air runs out and the pressure of this place gets to him and the man rushes to swim to the surface against the pull of his heavy armor...
-
-Up above, the enemy Wizard has quaffed a potion of water walking and rushes across the waves to get to his ship.
-
-Gundren is floating ever closer atop the slow moving Tenser's disc, returning fire against the deck crew manning the guns, driving them from their positions.
-
-Buumi swipes at the man on the Ballista, cutting him down and then turns, surveying the deck and sees numerous opponents, and Cirrus as Vaas rushing below decks again.  Then, Buumi's vision is blocked as a massive glowing arcane hand materializes in the air in front of him and moves to swat him, forcing the Paladin to dive and roll away.
-
-The wizard running across the waves smiles as his Arcane hand puts the group on the defensive. His smile is short lived as two crossbow quarrels dig into his back.  The man cries out in pain, stumbling, and the arcane hand on deck disappears as the wizard loses concentration.
-
-Below decks, Cirrus rushes past the confused sailors, making his way back to the hold.  This time, he begins searching in earnest.  Just as he's beginning to wonder if they have the wrong ship, he spots a glint of metal from between two of the floorboards.  Getting down on hands and knees, he sees a metal panel underneath.  Following the metal, Cirrus finds a masterfully disguised trap door and pulls the wood panel off the top, revealing a metal hatch.
-
-Up on deck, Gundren blasts away another crew member as Buumi and Fey begin downing assailants.  Crossbow bolts rain from above almost indiscriminately.
-
-Gwen leaps from the disc, nearing the boat and powering through the waves despite her weight.  Claws digging in deep, she races up the side of the boat and onto deck, Gundren following moments later as the disc makes it to the side of the boat.
-
-Patches takes aim and looses another shot at the wizard as he rushes for a net to climb aboard the ship.  The bolt flies true and the man arches his back as a third bolt digs deep, he falls to lie on the waves a moment later, a stream of blood falling into the ocean beneath his floating body.
-
-Smiling, Patches summons eclipse and Misty Steps to the vessel, directly behind an assailant and cuts him down.
-
-Vaas looks around, frantic, her most powerful allies dead or missing, and rushes over to one side of the ship and casts a spell.  A bolt of lightning rockets from her outstretched hand and smashes into poor Buumi, Patches cutting a rope and being pulled to safety just before it hits.
-
-Fey finds himself surrounded by sailors, but his form shifts and splits and none of them can land a blow on him.  As one tries to swing, his blow is redirected into his friend who cries out in pain, swearing at his companion for hitting him.
-
-Landing, Patches rushes over to Vaas, a recovering Buumi just behind her and trips the woman, taking her to the ground.
-
-As Vaas hits the deck, a blade to her throat, she calls out her surrender.
-
-Below decks, Cirrus blasts the hatch and rips it open.  In a small compartment, no more than three feet tall and the length of the ship, he sees thirty two prisoners, slaves. Cirrus whispers he will be back and strides up the stairs to the mid deck.  The fire here is under control and now seeing Cirrus in his true form, the sailors all draw weapons and move in.  Cirrus raises a hand and blasts the entire deck with a Cone of Cold.  There are no survivors.
-
-Tark floats in the icy waters, watching the mans incredible progress as he struggles to reach the surface.  Tark doesn't want the man to drown, despite being an enemy and hopes he makes it.
-
-Red in the face and beginning to spasm from lack of oxygen, the man's eyes bulging and with popping capillaries, he breaches the surface with a massive gasp.
-
-Tark explodes from the water, coming down on the man with a single strike, knocking him unconscious.
-
-Tark grabs the man before he can sink and swims him to the ship, the battle subsiding.
-
-As Tark leaps onto the deck, throwing the Champion down in a wet heap, the sounds of freed prisoners reach everyone's ears.
-
-Tark heads down to begin snapping chains with his incredible strength while the rest begin to question why they should keep Vaas alive.
-
-It comes down to handing the ship and crew over to the authorities for Slaving.  Vaas is adamant that she will hang for this, and in exchange for letting the Champion and herself go free in a boat, she will give them valuable information - Her slaving contacts in the city, and mentions a strange metal box she delivered to a Priss staying at the Sallow Manatee, supposedly a spice merchant.
-
-The group agrees on the condition she also pay them.  She agrees and tells them to investigate the kegs in the hold from Petey Green of the Sallow Manatee - he's her slaving contact in the city as well.
-
-Below decks, the last of the prisoners are being freed as Gundren enters the hold to look for the kegs.  Spotting them easily, he checks out the first, finding it full of good ale.  The second however can come apart and after opening it, sees a small compartment for ale, and another filled with eight gold ingots. Chuckling, the Dwarf takes each and drops them into his bag of holding.
-
-Up on deck, Patches kicks Vaas into a lifeboat and Tark comes on deck, dropping the Champion in with her.  They untie the boat and let it start drifting away.
-
-The few remaining, non charmed crew look sullen, realizing that if they are taken back to Neverwinter, its a death sentence.  They refuse to help bring the ship into berth.  Gundren offers them the barrel of his gun right then and there and they despondently get to work deciding to postpone death.
-
-AS the ship comes in, the group notes a squad of twenty city guard marching quickly toward the section of the docks they are nearing, torches burning and illuminating the solders.
-
-The ship makes it in as close as they dare to a wharf and drops anchor, throwing ropes twenty feet to shore to secure the ship and the city guard call out to the group on deck.  The ship, obviously showing signs of battle (the least of all being icicles and frost out of every window of the middle deck).
-
-Cirrus calls down for discretion and talks to the captain, appraising him of the situation and asking for subtlety and to not let anyone know the ship has been taken.  The guard agrees and simply post two soldiers at the dock, the rest move off to wait inconspicuously nearby as the pirates are ferried one by one to dry land and into custody.
-
-The middle of the night and remembering that he has an early breakfast with his father, Buumi heads back to the estate to get some sleep there.  He asks the group to join him at their earliest convenience.
-
-Deciding they like their new ship, the rest of the group breaks into the captains quarters to take a long rest, while the newly freed slaves remain below deck.
+Twenty city guards marched toward the wharf as the ship limped in. Cirrus called down for discretion and the captain agreed, posting two soldiers while the pirates were ferried ashore one by one. Buumi, remembering an early breakfast with his father, headed back to the estate. The rest broke into the captain's quarters to sleep, their new ship rocking gently in the harbour, the freed slaves resting below.

@@ -21,6 +21,7 @@ people:
   - "ront"
   - "selune"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "amn"
   - "keep-of-thunder-bluff"

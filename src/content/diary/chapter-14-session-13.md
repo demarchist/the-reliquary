@@ -23,6 +23,7 @@ people:
   - "surtr"
   - "tarkathee-daru"
   - "theodemir"
+  - "vaas-redblade"
   - "vaketh"
   - "vecna"
   - "zhengyi"

@@ -23,6 +23,7 @@ people:
   - "ront"
   - "selune"
   - "tarkathee-daru"
+  - "val-tengu"
   - "veygar"
 places:
   - "abyss"

@@ -26,6 +26,8 @@ people:
   - "tarkathee-daru"
   - "thorna"
   - "topsy-and-turvy"
+  - "vaas-redblade"
+  - "val-tengu"
   - "vladalma"
 places:
   - "anauroch"

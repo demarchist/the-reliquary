@@ -20,8 +20,10 @@ people:
   - "madame-eva"
   - "ront"
   - "s-olaa"
+  - "sera-von-bumidere"
   - "shar"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "amn"
   - "feanons-tower"
@@ -36,6 +38,7 @@ things:
 factions:
   - "amnians"
   - "drow-faction"
+  - "watchers-of-helm"
 ---
 
 **The Aftermath**

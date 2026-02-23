@@ -3,25 +3,29 @@ title: The Sanctum - Session 14
 chapter: 7
 chapterTitle: The Sanctum
 session: 14
+summary: "At Helm's Hold, the group reunites with JmJm and Cirrus reconciles with his brother S'Olaa, while Mordenkainen and Delly crack open the Thayan Drop Box to reveal assassination equipment — then the party descends into ancient catacombs where Buumi faces the Trials of the Crusader against the Narzugon Prime, Archdevil of the Nine Hells."
 people:
   - "aliyah-faen-tlabbar"
   - "anaxtrasa"
   - "aurinax"
   - "bahamut"
   - "cirrus-al-kayan"
+  - "delly-griplim"
   - "eilistraee"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"
   - "jack-mayer-johnson-mathews"
+  - "javen-tarkimos"
   - "lathander"
   - "li-xian"
   - "madame-eva"
-  - "ront"
+  - "mordenkainen"
   - "s-olaa"
   - "shaahir"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "amn"
   - "athkatla"
@@ -32,244 +36,92 @@ places:
 things:
   - "hew"
   - "tavern-of-doors"
+  - "thayan-drop-box"
   - "the-last-word"
 factions:
   - "amnians"
+events:
+  - "trials-of-the-crusader"
 ---
 
-**Prepping for Battle**
+## Aurinax
 
-"Ah good, I've been expecting you". 
+[[Aurinax]] led the group through the grand cathedral of [[Helm's Hold]], telling them a sitting room had been prepared. When they inquired about his odd appearance, he told them matter-of-factly that he was a gold dragon — the only gold dragon allowed in [[Waterdeep]].
 
-Aurinax looks over the group, introducing himself. He tells the group that there is a sitting room prepared for them and turns to begin walking through the grands cathedral of Helm.
+The group had many questions. Aurinax was friendly enough as they walked, though he remarked that he thought [[Horatio von Bumidere]] was a little insane for going up against a Narzugon — an Archdevil of the Nine Hells. The group was shocked. Buumi had to explain that he did not know the full scope; he had been operating on his dream and the commandments of Helm.
 
-The group inquires as to his odd appearance and he tells them, matter of factly, that he is a Gold Dragon, and the only Gold Dragon allowed in Waterdeep.
+Chuckling, Aurinax mentioned that the champion in the last [[Trials of the Crusader]] — two centuries prior — had been killed. They had about nine hours until the ceremony. [[Tarkathee Daru]] casually brought up that he "knew [[Bahamut]]." Aurinax smiled, pointed at the monk's staff, and noted that it was a branch of the Celestial Tree from Bahamut's divine realm. He had figured as much.
 
-Fascinated, the group has many questions and they begin to converse with the polymorphed dragon as they walk.
+They arrived at a well-appointed sitting room — food, drink, and a roaring fire. The group settled in. [[Fëanon Serinde]] showed Aurinax the half-burned letter from Neverwinter and asked for help, but the dragon chuckled and said he was very busy. He placed a hand on Tark's shoulder, pointed to the golden scale on the monk's hip, and said quietly, "I think she would be very proud."
 
-Leaving the main chamber and entering side hallways Aurinax is friendly enough, remarking that he thinks Buumi is a little insane though to be going up against a Narzugon, an Archdevil of the Nine Hells.
+Buumi began removing his armour, hands shaking. He was feeling much better about many things in his life — but he knew full well he would likely die in this fight, and that only by the power of Helm would he come back.
 
-After hearing this, the group is shocked and Buumi has to explain that he did not know, that he was operating off of his dream and commandments from Helm.
+## S'Olaa and JmJm
 
-Chuckling, Aurinax lets the group know that they have about 9 hours until the ceremony and that he was the Dragon called in that remembered the ceremony from the last time it occurred some two centuries before. During which the champion was killed…
+A servant arrived for [[Cirrus Al Kayan]], telling the Baron that [[S'Olaa]] Al Kayan was in the main hall by the Falls with a guest, and both wished to see him. In the midst of taking inventory to find every possible advantage for Buumi, Cirrus considered blowing his brother off — but the servant insisted.
 
-As they walk, Tark casually brings up that he "knows Bahamut" and Aurinax smiles, pointing at the monk's staff and mentioning that he figured as much as the staff is a branch of the Celestial Tree from Bahamut's divine realm.
+In the cathedral hall, two figures stood before the waterfall. The robed S'Olaa, and another Cirrus had not seen in months. Clad in his magical cape, kraken-hilted cutlass on his hip, flowing blond hair — [[Jack Mayer Johnson Mathews]] spun dramatically as Cirrus approached, calling out to his friend.
 
-They arrive at a set of nice doors and they open to reveal a well stocked sitting room, a table of food and drink prepared as well as a roaring fire around which many chairs are set.
+S'Olaa introduced "Whistler" — what the [[Amnians]] Resolvers had been calling JmJm. The team of adventurers worked for [[Shaahir]] Al Selemchant, and JmJm was one of them. Cirrus asked questions, but JmJm was characteristically cagey.
 
-The group heads inside and begin to make themselves comfortable.
+Then S'Olaa spoke. He apologised for his previous callousness — he had only known Cirrus as the man who killed their father. Since then, he had spoken to the spirits of both their parents and learned the whole story. He hoped that he and their other siblings could build some kind of relationship with the estranged warlock. Cirrus, taken aback, agreed. When he asked how S'Olaa had managed to contact the spirits, his brother replied that he was the apprentice of Shaahir Al Selemchant, Archmage of [[Athkatla]].
 
-Fey shows Aurinax the half burned letter from Neverwinter and asks if the dragon can assist with it, Aurinax chuckles and says he is very busy, but he has heard the group is accomplished and can probably figure it out.
+Cirrus took his leave. JmJm walked back with him to the sitting room.
 
-The dragon walks over to Tark and places a hand on his shoulder, pointing to the golden scale on his hip and mentions that he thinks "She would be very proud".
+The group rushed over to greet their old friend. JmJm explained that after the desert, he had wandered south, guarded some nomads, and eventually joined the Amnian Resolvers — a group of adventurers whose master, Shaahir, could supposedly find anyone. JmJm had been searching for Stephen. He earned the moniker "Whistler" working jobs for Shaahir in [[Amn]].
 
-Buumi shakily begins to take off his armor and get himself some food and drink (as Gundren and Tark begin to dig in too).
+Then disaster — one night, the [[Tavern of Doors]] was stolen. JmJm suspected Shaahir, though he had no proof.
 
-Aurinax decides to take his leave as he is very busy and opens the door. As he does, a Servant is about to knock.
+As they helped Buumi prepare, JmJm recalled an old song about the Narzugon and sang it — relaying that they were once paladins who fell to the Nine Hells, and that they rode into battle atop nightmares.
 
-The servant asks Aurinax if he can assist them in identifying an Ancient Red Dragon that has been spotted flying north near Myth Drannor.
+## Delly and the Drop Box
 
-Aurinax says he will help and walks into the hall.
+A small squeaky voice interrupted from the doorway. A gnome with pink pigtails, red wizard robes, and a massive grey Maine Coon cat draped across her shoulders smiled at them — [[Delly Griplim]] of [[Neverwinter]].
 
-The servant stays and addresses Cirrus. Telling the Baron that S'Olaa Al Kayan is in the main hall, by the Falls, with a guest and that they both wish to see him.
+Delly explained that the group's tale of the Oni had jogged her memory of an old eastern book. She handed over a translated section and then turned to Fëanon, asking if he would help her and [[Mordenkainen]] examine the [[Thayan Drop Box]] in a nearby room. Fëanon agreed, eager to crack the device despite his distaste for working with Mordenkainen. JmJm tagged along. Delly summoned her floating diamond throne and they set off.
 
-In the midst of doing inventory to find as much assistance for Buumi as possible, Cirrus thinks of blowing his brother off, but the Servant insists and Cirrus heads to the main Cathedral hall.
+Buumi tried to sleep. Cirrus cast a spell of dreaming to fill the paladin's rest with visions of a glorious Helm, inspiring him for what was to come.
 
-Staying in the sitting room, Patches begins preparing a small shrine in the corner of the room to Elistraee while Tark begins leading Buumi through stretches and massaging the terrified fellow to try and prep him for his test.
+In Mordenkainen's room, the Thayan Drop Box sat on a small table, the sentient staff Stick floating nearby. They all got to work. JmJm called upon his bardic magic to inspire Fëanon, and in a flash of insight, the wizard spotted two intentional weak points — emergency releases for the lid. He also realised the wards were building in power and would detonate if the box was not opened soon, consuming whatever magic lay within.
 
-Buumi knows full well he will likely die in the fight, and that only by the power of Helm will he come back.  He is justifiably terrified.
-  
+They cleared a section of the main cathedral. With Mordenkainen ready to counterspell the wards, Fëanon and Delly set up lances of force — modified magic missiles — and struck the weak points. A dark pulse of death energy erupted. Mordenkainen counterspelled, stealing the brunt of the destructive power. The box lay open.
 
-Cirrus is led by an acolyte back to the main hall of the Cathedral and easily sees the magical waterfall in the center of the place.
+While the wizards calculated further dangers, JmJm strolled up and looked inside. Several items floated within, suspended. He started pulling them out and putting them on. The wizards rushed forward, shaking their heads at the impulsive bard.
 
-Standing before it are two figures, the robed S'Olaa and another that Cirrus has not seen in months.
+Fëanon identified them after an hour: a venomous dagger, a cloak of fire resistance (drained by the glyphs), a necklace of fireballs (drained), a mask of clear breath granting immunity to gas attacks, a parrying dagger, and a greater healing potion. Assassination equipment. Whatever was planned for Neverwinter, someone had invested heavily.
 
-Clad in his magical cape, Kraken hilted cutlass on his hip and flowing blonde hair, Jack Myer Johnson Matthews spins dramatically as Cirrus approaches, calling out to his friend.
+JmJm picked up every piece and began donning it all, earning a raised eyebrow from Fëanon and a glare from Patches.
 
-S'Olaa smiles and introduces "Whistler", what they have been calling JmJm in the Amnian Resolvers - the team of adventurers that work for Shaahir, of which JmJm is a part.
+## The Descent
 
-Shocked by this Cirrus asks his friend a number of questions, but JmJm is cagey.
+Evening came. Buumi woke from his dreams of heroism and began donning his armour, feeling steadier than before. Patches pressed a small black pearl into his hand — a boon she had spent hours praying to [[Eilistraee]] to create. Aurinax arrived to collect them.
 
-S'Olaa begins to talk to Cirrus and apologizes for being so callous to him before, that he only knew him as the man that killed his father - he had since talked to the spirits of their father and mother and gotten the whole story.
+They descended deep beneath the Hold — past catacombs of the newly dead, many paladins fallen to the Undead Mists. The upper layers had candles and tending acolytes. Then deeper, through rough-hewn tunnels lit only by occasional glowing crystals, the smell of sulphur growing, the air turning humid and warm.
 
-Now knowing the whole story, S'Olaa hopes that he and their other siblings can have some sort of relationship with the estranged warlock.
+Aurinax explained they were heading to ancient catacombs in the Upperdark. As they walked, Patches lifted the venomous dagger from JmJm's belt without him noticing. Tark raised philosophical objections about summoning and fighting a devil on a god's command, sparking a bickering match that lasted until Aurinax shouted over the commotion: "Bahamut has one of the fragments!"
 
-Cirrus, taken aback by this change, agrees.  Surprised at the power of his brother to call back spirits, he asks S'Olaa how he managed it.
+Silence fell. Aurinax explained that [[Bahamut]] held a fragment of [[The Last Word]] in his divine domain on Mount Celestia. He offered to take the group's two pieces to Protanther, current ruler of all metallic dragons, who would personally deliver them. The group said they would think about it.
 
-The amnian replies that he is the apprentice of Shaahir Al Selemchant, Archmage of Athkatla.
+Approaching the second elevator, they found a figure waiting — a blonde elf in a blue gown. [[Anaxtrasa]], the blue dragon and new owner of [[Castle Ravenloft]]. She thanked the group for her magnificent new home. JmJm flirted. She made a kissy face and shocked him with a small bolt of lightning.
 
-Cirrus takes his leave, walking from his brother (who has to go and deal with Abdul who is also at The Hold).
+Aurinax greeted Ana like an old friend and the two immediately began bickering. As the group made for the elevator, they overheard Aurinax ask Anaxtrasa if her mother was still "messing around with the Storm Giants." The blue dragon's glare could have melted steel. She checked if the group had heard — which they very much had.
 
-JmJm and Cirrus head back to the group.
-  
+## The Trials
 
-Back in the sitting room, Patches begins to meditate and pray to Elistraee, focusing her efforts into a black pearl, hoping to create a boon for Buumi in the coming struggle.
+The ancient elevator rumbled to a stop. A short tunnel opened into a vast arena, the floor criss-crossed by glowing volcanic cracks venting sulphurous gas. A fifteen-foot wall ringed the fighting floor, above which rose rows of inclined stone seating carved into the cavern walls. Two paladins guarded each tunnel entrance. Four clerics huddled around a massive copper brazier burning in the centre.
 
-A knock on the door causes most people to look up and Cirrus enters, with JmJm just behind.
+Three figures sat in the stands — an older halfling woman in Helm's vestments, a human paladin of [[Lathander]], and a dark-skinned elf in a golden breastplate taking notes. Buumi leapt down to the arena floor with a metallic thud. The group took seats at the midline, noting a golden summoning ring at the wall's base and a massive cluster of crystal embedded in the ceiling above the brazier.
 
-Shocked, the group rushes over to greet their friend and hear his tale.
+Buumi summoned his Wings of Flying — angelic wings erupting from his back. JmJm let out a coo of appreciation. The clerics backed away from the brazier, the summoning spell building, and left the arena. Behind the group, [[Javen Tarkimos]] stepped from the elevator to watch.
 
-JmJm goes into a little more detail, explaining that he wandered the desert for a while, heading south.  He met up with some nomads and guarded them for a time until he came across a group of adventurers - The Amnian resolvers.  They told him their master could find anyone, and JmJm was still searching for Stephen so he joined with them.
+The brazier erupted. Lines of energy shattered outward and a hulking creature stepped from the flames. Nine feet tall, clad in black plate, its skin like cracked and cooling lava. Two red eyes glowed behind a visored helm. In its hands — a sword made of flame and a slab-like metal shield.
 
-Travelling south to Amn, JmJm began working with the Resolvers, doing jobs for Shaahir and earning the moniker of "whistler".
+Buumi called back, asking if the thing was supposed to be so big for a Narzugon. The creature laughed and replied in Common that it was not "a" Narzugon, but "the" Narzugon — the Archdevil himself, the first paladin to lose his soul to the Nine Hells.
 
-Then, disaster, one night, the Tavern of Doors was stolen and JmJm was no closer to finding Stephen.
+It surged forward. The first exchange of blows hurt Buumi badly, a kick sending him scraping across the stone. Then the Narzugon plunged its sword into the brazier and let out a great cry in Infernal.
 
-JmJm suspects it was Shaahir that stole the Tavern, though he does not know why and has no proof.
+A horde poured through: twenty bearded devil legionnaires and six lesser Narzugon cavalry. They rushed the barrier, the Narzugon plunging flaming weapons into the stone to melt through the golden circle while the legionnaires hacked at the flickering energy shield.
 
-As they continue to help Buumi prep, JmJm recalls an old song about the Narzugon and begins singing it to his friends, hoping to relay some information:  They learn they were once Paladins that fell to the Nine Hells and that they ride into battle atop Nightmares.
+Fëanon extended his arcane senses and felt the planar barriers shatter, centred on the Faerzress crystals in the ceiling. He pointed this out to [[Gundren Rockseeker]] and the dwarf pulled his cannon. Tark shadowstepped into the arena — immediately shattering the containment barrier as he crossed it. The devils began climbing out. The paladins and clerics surged forward.
 
-The group listens intently and continue to prepare for the evening, not hearing the knocks on the door to the room until a small squeaky voice interrupts them rom the doorway.
-
-Looking through the now open door, a small Gnome with pink pig-tails, red wizard robes and a massive grey Maine-Coon cat draped across her shoulders, smiles at them: Delly Griplim of Neverwinter.
-
-Delly greets them warmly and explains that she found their tale fascinating, especially their dealings with the Oni recently.  It jogged her memory of an old book from the far east and had a section translated for them, detailing the Oni and she hands over a small notebook.  She then turns to Fey and asks the wizard if he would want to help her and Mordy go over the Thayan Drop Box in a nearby room.
-
-Without a ton to do other than wait and study, Fey agrees, eager to take a crack at the impressive item (though not thrilled about working with Mordy).
-
-JmJm wants a look at the box too and he heads out with them, Delly summoning her impressive floating diamond throne and keeping pace with them as they head to another room.
-
-Buumi decides to try and get some sleep and settles down for a bit.
-
-Cirrus decides some motivation is in order for Buumi and uses a spell of Dreaming to depict a glorious Helm for the sleeping Paladin, inspiring him to acts of heroism.
-  
-
-JmJm, Fey and Delly make it to the Archmage's room and see Mordy pacing around the Thayan Box.  Laying on a small table, the strange box seems innocuous enough.  Stick, the sentient staff floats nearby.
-
-Mordy greets the two newcomers and they all get to work inspecting the box.
-
-As they look over it, JmJm calls upon his bardic magics to inspire his friend and in a flash of insight, Fey spots something.
-
-On the side of the box are two intentional weak points, releases for the lid in case of an emergency.  He also realizes that the wards of the box are building in power and will detonate if the box is not opened soon, consuming the magic held within.
-
-Informing the others, they come up with a plan to detonate the box early, under controlled circumstances and take the box to the main chamber of the Cathedral, clearing a section of all personnel.
-
-With Mordy ready to Counterspell the wards, Fey and Delly set up lances of Force - modified Magic missiles - the slam into the weak points of the box.
-
-They act, casting their spells and the box releases a dark pulse of death energy as the lances of force pierce the side.  Mordy counterspells, stealing a large amount of the destructive energy…all goes quiet.  The box lies open.
-
-As the mages wonder and calculate any other potential dangers, JmJm strolls up to the open box and looks inside.
-
-Inside, he sees a number of items, simply floating, suspended within and starts to pull them out, donning most of them. 
-
-The wizards all rush forwards, shaking their heads at the impulsive Bard.
-
-Delly and Mordy return to their room with the Box, determined to study it further, leaving Fey and JmJm to investigate the items they found within.
-  
-
-Back in the room, Fey sits down with the items (after coaxing JmJm to part with them) and pulls out his spellbook to begin identifying them.  After an hour of inspection he discovers each's purpose, including those that the Glyphs of the box had drained:
-
- +2 Venomous Dagger
-
-Cloak of Fire resistance (drained)
-
-Necklace of Fireballs (drained)
-
-Mask of Clear Breath (immunity to gas weapons and attacks)
-
-+1 Parrying Dagger
-
-Greater Healing Potion
-
-Fey looks this assortment of goods over and takes another look at the half burned letter, now sure that this box contained assassination equipment for whatever is going down in the city of Neverwinter.
-
-JmJm picks up all of the equipment and begins to put it on, gaining a raised eyebrow from fey and a sidelong glare from Patches.
-
-Eventually, the time comes and Buumi is woken up from his dreams of heroism and begins to don his armor.
-
-He's feeling much better and less terrified than before thanks to his friends.
-
-Patches hands him the small black pearl and hopes that it will grant him a measure of luck and blessing from Elistraee.
-
-The door opens and Aurinax has come to collect the group.
-
-They head from the sitting room and begin making their way through the halls of the Hold.
-
-Aurinax explains that they are going deep beneath the Hold, to ancient catacombs in the Upperdark from millennia ago and they need to take several elevators to get there.
-
-They head deep into the depths of Helm's Hold, past catacombs of newly dead, many of paladins recently fallen to the Undead Mists from the last year. The first layers have candles and acolytes tending to crypts.
-
-Then deeper, past ancient tombs and through rough hewn tunnels, the light becomes more scarce with only the occasional glowing crystal for light.
-
-The first elevator looks old but serviceable, and Aurinax throws the switch and it drops into the depths.
-
-Stopping a minute later, the dragon steps off and begins leading again, through mostly natural tunnels, the smell of sulfur growing along with a humid warmth in the tunnels.
-
-As the group goes, Patches swipes the Venomous dagger from JmJm as the bard is distracted.
-
-Tark begins asking questions about the ethics of summoning and fighting a Devil, even if commanded by a "god" and why this whole thing is necessary in the first place.
-
-As the group begins bickering, Aurinax tries to get the groups attention until he finally has to shout over their commotion that "BAHAMUT HAS ONE OF THE FRAGMENTS!".
-
-Finally getting their attention, he goes on to explain that his lord Bahamut has a fragment of the Last Word secreted away in the divine domain of Mount Celestia.
-
-He asks if the group would like their two fragments taken to Bahamut and safeguarded there.
-
-The group is unsure and asks how they would even get there to which Aurinax replies that he would take the two pieces to the current ruler of all Metallic Dragons - Protanther who would personally take them to Mount Celestia.
-
-The group says they will think about it.
-
-Finally approaching the second elevator to head down to the summoning chamber, the group sees a figure waiting by the ancient contraption.
-
-Approaching, they see a blonde elf in a blue gown and recognize the Blue Dragon Anaxtrasa, the new owner of Ravenloft castle.
-
-The group greets her and she smiles at the group, thanking them for her magnificent new home.  JmJm flirts with her a little and she makes a kissy face at him, shocking him with a bit of lightning.
-
-Aurinax greets Ana like an old friend and they quickly begin bickering, showing some history.
-
-Aurinax tells the group to take the elevator and head down as he has some things to chat with Ana about.
-
-Just as the group begins to leave they hear Aurinax ask Anaxtrasa if her mother is still messing around with the Storm Giants, eliciting a glare from the blue dragon and Ana looking over her shoulder to see if the group heard…which they did…
-
-The group throws the lever on the elevator and it drops into the dark depths.
-  
-
-The ancient elevator rumbles to a stop and the group sees a short tunnel in front of them, the area ahead lit by a reddish glow and the air now uncomfortably warm, the scent of volcanic gasses strong.
-
-A cleric meets them off the elevator and leads them the last two dozen feet to the Trials.
-
-**The Trials**
-
-Approaching the end of the tunnel, the group looks over a huge, ancient arena, the floor crisscrossed by glowing cracks venting volcanic gasses.
-
-The arena is surrounded by a 15ft wall, atop which are rows of inclined stone seating built into the walls of the cavern.  The group is atop this wall, looking out from one of two entrances - tunnels.
-
-Two paladins of helm guard each tunnel and four clerics can be seen in the arena, huddled around a massive copper brazier, burning bright.
-
-Twenty feet away, in the stands are three figures watching over the proceedings: An older halfling woman in cleric garb of Helm, a human Paladin woman in the garb of Lathander and a Dark skinned elf man with a gold shining breastplate taking down notes in a large book.
-
-The two groups nod at each other in greeting as Buumi leaps down to the floor of the arena with a metallic thud, throwing up rock chips.
-
-The group (save Patches) walks around to the midline of the stands and prepare to watch the coming battle - they notice at the foot of the wall beneath them a golden ring of metal, a massive summoning ring to contain whatever is brought through and a massive chunk of crystal embedded In the ceiling of the place, directly above the Brazier.
-
-Buumi walks near the center, preparing and summoning his Wings of Flying, the angelic wings erupting from his back.  JmJm lets out a coo of appreciation.
-
-The chanting clerics back away from the brazier, the flame within now growing and they leave the arena, the summoning spell now in full swing.
-
-Behind Patches, Javen Tarkimov (Head of the Paladins of Helm) steps from the elevator and heads in to the stands watch Buumi fight.
-
-The brazier erupts, lines of energy exploding out in a shattered pattern and a hulking creature steps from the flames.
-
-9ft tall and clad in black plate armor, the skin beneath looking like cracked and cooling lava. Two red glowing eyes peer out from the visored helm and in its hands are a sword made of flame and a slab-like metal shield.
-
-The Narzugon surveys the arena, turning and looking at everything, its gaze lingering on the brazier.
-
-Buumi calls back, asking if the thing is meant to be so big for a Narzugon.
-
-The creature laughs and in common replies that it is not "a" Narzugon, but "THE" Narzugon, the Archdevil himself. The first Paladin to lose his soul to the Nine Hells.
-
-The creature surges forward, trading powerful blows with Buumi, hurting the Paladin and then kicking him back a dozen feet.
-
-As Buumi scrapes across the ground, Narzugon turns and plunges his sword into the brazier, causing a second eruption and letting out a great cry in Infernal.
-
-As Buumi struggles to stand, a horde of Devils rush from the summoning gate: 20 Bearded Devil Legionnaires and 6 other lesser Narzugon.  They rush forwards and begin assaulting the barrier containing them, the Narzugon plunging their fiery weapons into the stone to begin melting through the golden circle while the Legionnaires try to cut through the flickering energy barrier generated by it.
-
-Seeing the catastrophe unfolding, Fey extends his arcane senses and feels the barriers of the planes shattered, centering on the cluster of Faerzress crystals in the ceiling above the Brazier. He points this out to Gundren and the Dwarf pulls his cannon out to begin firing on the crystals.
-
-Tark shadowsteps into the arena, immediately shattering the shield preventing the Devils from leaving as he races to assist his friend.
-
-The Devils begin climbing out of the Arena and the Paladins and Clerics surge forward to engage.
-
-Patches leaps into the arena, attacking a Narzugon and hurling a smoke bomb as JmJm rushes forward, donning a Mysterious Glove From His Pasttm and creating an Arcane hand to assault Narzugon.
-
-Cirrus, hearing Infernal for the first time realizes that he can understand the language and rushes over near the Legionnaires to attempt to command them to halt in their assault…
+Patches leapt down, hurling a smoke bomb. JmJm rushed forward, producing a mysterious glove and conjuring an arcane hand to grab the Narzugon Prime. Cirrus, hearing Infernal for the first time, realised he could understand it — and rushed toward the legionnaires to attempt a command.

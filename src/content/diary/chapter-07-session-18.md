@@ -21,7 +21,9 @@ people:
   - "rahadin"
   - "ront"
   - "selune"
+  - "sera-von-bumidere"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "amn"
   - "keep-of-thunder-bluff"
@@ -29,6 +31,7 @@ places:
   - "sundabar"
 things:
   - "gwen"
+  - "thayan-drop-box"
 factions:
   - "amnians"
   - "drow-faction"

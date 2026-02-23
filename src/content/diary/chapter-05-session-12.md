@@ -18,6 +18,7 @@ people:
   - "sergei"
   - "tarkathee-daru"
   - "urwen"
+  - "val-tengu"
 places:
   - "amber-temple"
   - "barovia"

@@ -33,6 +33,7 @@ people:
   - "surtr"
   - "tarkathee-daru"
   - "theodemir"
+  - "val-tengu"
 places:
   - "abyss"
   - "amn"

@@ -17,6 +17,7 @@ people:
   - "madame-eva"
   - "moot"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "baldurs-gate"
   - "moonstone-mask-inn"

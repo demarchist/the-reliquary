@@ -16,6 +16,7 @@ people:
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
   - "mediocris-dente"
+  - "sera-von-bumidere"
   - "shar"
   - "tarkathee-daru"
   - "ysera"

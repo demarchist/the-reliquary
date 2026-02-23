@@ -23,6 +23,7 @@ people:
   - "surtr"
   - "tarkathee-daru"
   - "thorna"
+  - "val-tengu"
   - "vecna"
   - "zhengyi"
 places:

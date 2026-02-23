@@ -16,6 +16,7 @@ people:
   - "ront"
   - "shar"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "blingdenstone"
 things:

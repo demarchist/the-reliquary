@@ -3,11 +3,14 @@ title: The Sanctum - Session 11
 chapter: 7
 chapterTitle: The Sanctum
 session: 11
+summary: "The group drinks with Lo'Dan at the Sallow Manatee, Gundren kills a pirate captain in the street, and the party retreats to the Bumidere estate — where Buumi reunites with his mother Sera, Patches bonds with his sister Emma, and a mysterious tutor named Mr. Shon draws everyone's suspicion."
 people:
   - "aliyah-faen-tlabbar"
   - "cercei"
   - "cirrus-al-kayan"
   - "doc"
+  - "emma-von-bumidere"
+  - "esimir-von-bumidere"
   - "feanon-serinde"
   - "fen"
   - "galen-marek"
@@ -16,244 +19,129 @@ people:
   - "lodan"
   - "mordenkainen"
   - "ront"
+  - "sera-von-bumidere"
   - "tarkathee-daru"
+  - "vaas-redblade"
+  - "val-tengu"
 places:
-  - "amn"
+  - "bluelake-district"
   - "darklake"
   - "gracksuluth"
   - "keep-of-thunder-bluff"
   - "menzoberranzan"
+  - "sallow-manatee"
+  - "thunder-bluff"
   - "underdark"
   - "waterdeep"
 things:
   - "gwen"
   - "the-bearded-lass-ii"
+  - "the-silent-virtue"
 factions:
-  - "amnians"
   - "drow-faction"
   - "the-harpers"
 ---
 
-**A Drink with Lo'Dan**
+## A Drink with Lo'Dan
 
-The group finds themselves on the deck of The Bearded Lass, sunlight beaming down on them as the ship gently rocks on the waves.
+The group stood on the sun-warmed deck of [[The Bearded Lass II]], the ship rocking gently beneath them. Behind them, [[Lo'Dan]] emerged from the captain's quarters, slipped on a pair of sunglasses, and shifted his Drow skin to that of a moon elf — not unlike Patches' ring. He grinned.
 
-Lo'Dan steps out of the captains quarters behind them, puts on a set of sunglasses and his Drow skin shifts to that of a Moon-elf, not unlike Patches ring.  He grins at the group.
+Unwilling to spend another moment with the Drow they so thoroughly despised, the group made for the longboat. Lo'Dan levitated down into the boat after them, explaining that he and his squad had been saddened when they thought their favourite patsies were killed — had even poured drinks out in their memory. Now that the group was obviously alive, good drink had been wasted. He wanted to make up for it.
 
-Unwilling to listen to the Drow they so despise, the group heads to the longboat to head back to the shore.
+Thinking more information about the [[Underdark]] mission was warranted, the group allowed the Drow to tag along despite grumbling from nearly everyone. [[Cirrus Al Kayan]] didn't quite understand the animosity but went along with it, figuring his friends knew best.
 
-Lo'Dan levitates down into the boat explaining that he and his squad were saddened when they thought their favorite patsies were killed, they even poured drinks out in their memory.  Now that the group is obviously alive, good drink was wasted, so he wants to go grab a drink to make up for it.
+On the way to the docks, Lo'Dan turned to Patches for a bar recommendation, mentioning that back in the day she, her brother Marzell, and he had some good times getting wasted in the stench-streets of [[Menzoberranzan]] and taking to the fighting pits. He assumed she had mapped out all the best drinking establishments in any city she visited. Patches rolled her eyes. That was a long time ago. She did not know any good places to drink. Disappointed, Lo'Dan suggested the [[Sallow Manatee]] and the group grumbled their agreement.
 
-Thinking that more information on the Underdark mission is warranted, the group allows the Drow to tag along, despite grumblings from most people.
+On shore, [[Tarkathee Daru]] sat fishing from the wharf, thinking about everything that had been happening. He got a few nibbles but noticed each one too late to set the hook. [[Gundren Rockseeker]] and [[Gwen]] arrived at the docks, filthy and bruised from an exciting night at The Pit. Spotting his red-bearded friend, Gundren headed over, called out, got no reaction, threw a stone that missed badly, then crept up behind the halfling to give him a fright.
 
-Cirrus doesn’t quite get where the animosity is coming from but goes along with it, figuring his friends know best.
+Just as Gundren approached, Tark got a snag on the line and began reeling in. His disappointment at pulling up a lump of seaweed was compounded by tossing it directly into the approaching dwarf's face. Sputtering, Gundren pulled the mess free. Tark turned, greeted his friend jubilantly, then noticed the cuts and bruises. He pulled out his medicine kit and had a soothing poultice applied within moments.
 
-As they head back to the docks, Lo'Dan asks where they are drinking, turning to Patches for the information and mentioning that back in the day she, her brother Marzell and him had some good times getting wasted in the Stench-streets of Menzoberranzan and taking to the fighting pits - he assumes she has mapped out all the best bars.
+Looking out across the choppy water, the two spotted the blue longboat approaching — their friends packed in alongside a moon elf that Tark immediately recognised as Lo'Dan. He turned to Gundren. Both wondered if the group was hostage. Gundren asked several times if he should shoot and sink the boat.
 
-Patches rolls her eyes and mentions that was a long time ago and no, she does not know any good places to drink.
+Eventually the longboat came within talking distance. Lo'Dan noticed Tark and Gundren staring. He grinned and waved. Upon reaching the docks, the group disembarked and explained the missions to [[Gracksuluth]] and the Underdark. Still not understanding why the Drow was there, they were told Lo'Dan simply wanted a drink. He was already walking toward the Sallow Manatee. The group reluctantly followed.
 
-Disappointed, Lo'Dan mentions the Sallow Manatee and the group grumbles and agrees.
+Approaching the dockside bar, they passed an Orog bouncer — an unusual sight. Last through the door, Tark turned to the Orog and told him to keep an eye on the male moon elf, that he was covered in contraband worth a bit. The Orog said he would, and to let Jenny know — the other bouncer.
 
-On shore, Tark is fishing and thinking about everything that has been happening.  He gets a few nibbles, but each time he notices too late to actually snag a fish.
+The group sat at an empty table and ordered ales while Lo'Dan held court about the fighting pits of Menzoberranzan. Cirrus asked who Lo'Dan actually was and received a characteristically unhelpful answer. Getting the vibe, Cirrus used prestidigitation to make Lo'Dan's ale taste like feet. The Drow took a sip, frowned, made a hand motion to restore the flavour, and kept drinking.
 
-Gundren and Gwen arrive at the docks, filthy and bruised from his exciting night at The Pit.
+When the group asked for help in the form of a map to Gracksuluth, Lo'Dan explained that maps of the Underdark were difficult — representing a three-dimensional space required magic he did not possess. The group asked what he was good for. He scoffed, turned to Patches, and asked if she remembered the river they crossed with the Kuo-toa. She did. He told them to take it downstream to reach [[The Darklake]]. Gracksuluth was on its banks. Follow the smog.
 
-Scanning the Wharf, the Dwarf sees his red-bearded friend and heads over to meet up with the Monk.
+The group thanked him with the warmth of a winter funeral and made to leave. As they headed out, Tark stopped by the redheaded woman on a stool at the back of the tavern — Jenny — and told her Lo'Dan was covered in valuable contraband. Jenny thanked him and eyed the Drow.
 
-Approaching, Gundren calls out, but gets no reaction. So then he picks up a stone and throws it, missing badly.
+Still not satisfied, Tark spotted Lo'Dan reclining in his chair and decided to make a fool of him. He whipped two darts at the chair legs just as Fey Mage Handed the chair out from under him. Lo'Dan simply floated there, sitting on air and sipping his ale. He grinned and winked. Tark let out a shout of frustration and stormed from the bar. The group quickly followed — save Patches.
 
-The clunky Dwarf walks up behind the Halfling, determined to give his friend a bit of a fright…maybe push him into the Drink.
+She leaned in and asked Lo'Dan if he could be a little less of an ass. He sobered and told her it was all he knew. He couldn't stop now. Patches turned to leave and Lo'Dan grabbed her wrist. She reversed the hold. He leaned in and told her to be careful — something was happening in the Underdark. She nodded and left.
 
-Just as Gundren approaches, Tark gets a snag on the line and begins reeling in.  As his line clears the water, he's disappointed to see that it's just a lump of seaweed and he tosses it behind him…directly into the face of the approaching Dwarf.
+## Gaffer Gary
 
-Sputtering, the Dwarf pulls the seaweed off his face and Tark turns to look at the commotion.
+As the group walked away from the Sallow Manatee, a surly band of sailors approached heading in. Everyone eyed one another. [[Fëanon Serinde]] stopped, addressing the biggest, burliest one — an older man with grey hair, balding, a large beard, and a massive scar down one side of his face. Gaffer Gary.
 
-Tark greets his friend jubilantly and then notices all the cuts and bruises, picks up the seaweed and takes out his medicine kit.  In a few moments, Tark has a soothing poultice on the wounds.
+Fëanon talked to the man, offered his card, and stood in his way. Gary took the card, looked at it, and announced he couldn't read. Dismissive of the entire encounter, he threw the card back at Fëanon and barged forward, checking the slight mage to the ground hard enough for his head to crack against the cobblestones.
 
-Looking out over the docks, the two see the blue longboat approaching over choppy waters, the boat filled with their friends…and a moon elf…that Tark recognizes as Lo'Dan.
+Everyone tensed. Fëanon went to get up, incensed but holding it together. Cirrus moved to put a hand on Gary's shoulder just as Gundren moved behind him. As Cirrus's hand came down, every sailor there drew knives.
 
-Tark immediately turns to Gundren and tells him and they both wonder if the group is hostage, or threatened, after all why would they be in a boat with the Drow agent?  Gundren asks several times if he should shoot, and sink the boat.
+Just as the tension exploded, Fëanon slammed his staff onto the ground and unleashed a wave of exhaustion. Every sailor dropped unconscious — save Gary. In that same instant, Gundren placed the barrels of his shotgun to the back of Gary's head and pulled the trigger.
 
-Eventually, the boat comes within talking distance and Lo'Dan notices Tark and Gundren staring.  He grins and waves.
+The man's head exploded. The door of the Sallow Manatee blew inward, showering Lo'Dan with brains and ruining his drink.
 
-Upon reaching the docks, the group disembarks. Tark and Grundren ask what Lo'Dan is doing there and are told about the missions to Gracksuluth and the Underdark.  Still not sure why HE is here, Lo'Dan admits that he just wants a drink with the group and walks in the direction of the Sallow Manatee.
+A nearby person screamed. Others ran for the guards. Tark let out a yell, furious that another senseless killing had taken place. [[Horatio von Bumidere]] was clearly uncomfortable but pointed out that every sailor there had drawn weapons — they had intended to attack. Tark retorted with the ease that they were defeated, that they were never really a threat. Buumi furrowed his brow and looked troubled. Everyone else shrugged. Self-defence. Only one person actually died.
 
-The group reluctantly follows.
+Four city guards came rushing along the docks. Patches ducked into an alley, hiding behind a barrel. The guards arrived, surveyed the scene with dismay, and began questioning. One woke a sailor. Another noted the drawn weapons, corroborating the group's story. The sergeant told them that Captain [[Vaas Redblade]] of [[The Silent Virtue]] was going to have issue with them.
 
-Approaching the dockside bar, they pass an Orog bouncer, an unusual sight.
+Cirrus stepped forward in his lord's robe and hat, produced five platinum as collateral, and handed it to the sergeant, whose eyes went wide. Accepting the coin — reassuring himself it was not a bribe — the guard took information on where the group was staying and promised to follow up. The group walked off. Patches slunk out of the alley a few moments later, holding up a bag of coins she had lifted from Gary's body. Strange coinage — triangles and squares. Mintarn.
 
-The last in the door, Tark turns to the Orog and tells him to keep an eye on the Male Moon elf, that he's covered in contraband that's worth a bit.  The Orog tells Tark that he will and to let "Jenny" know, the other bouncer.
+Patches and Gundren explained it to the others. Mintarn was known as the Pirate Isles — their coin was pirate treasure. The group pieced it together: The Silent Virtue must be a pirate ship, and going one step further, likely the slavers that [[Galen Marek]] had told them about. A small bird landed on Cirrus's hand with a letter wrapped around its leg, then puffed away into mist. [[Mordenkainen]] had pushed dinner to eight o'clock. Quite the power move.
 
-The group sits at an empty table and orders a round of Ales while Lo'Dan goes on about the fighting pits in Menzoberranzan.
+They flagged down a wagon, vowing to follow up on the slavers.
 
-Cirrus asks who Lo'Dan is and he gets a…simple response, not really explaining much.
+## The Bumidere Estate
 
-Getting the vibe from the group, Cirrus prestidigitates Lo'Dan's ale to taste like feet.  He takes a sip, frowns, makes a hand motion and pretidigitates the ale back to normal and keeps drinking.
+Heading north past the keep, the group found themselves in the [[Bluelake District]]. The wagon driver would go no further — the last time he accidentally wandered into the fancy part of town, the guards roughed him up. Gundren, appalled, handed the man a gold piece and told him not to take such things. The violent dwarf was full of surprises.
 
-The group asks for assistance in the form of a map to Gracksuluth.  Lo'Dan explains that maps of the underdark are…difficult to come by and that representing a 3d space like that requires magic that he does not have.
+They walked the last stretch to the walled manor. The huge house stood quiet behind wrought-iron gates, two guards on watch, the red brick of the main building a good hundred yards back along a paved road flanked by gardens. Buumi called out, handed his writ of pedigree and signet ring through the bars, and after inspection the guards swung the gate wide and welcomed Horatio Von Bumidere home.
 
-The group asks what he's good for and he scoffs, turning to Patches and mentions a river.  He asks if she remembers the river they crossed with the Kuo-toa.  She does and he mentions to take the river downstream to get to The Darklake.  Gracksuluth is on its banks.  He says to follow the smog.
+The group walked up past the green gardens to the large brick manor with its gleaming copper roof trimmed in white marble. Fountains burbled among the hedgerows and a smaller house could be seen near the edge of the estate. They climbed the marble steps to the front door, the wings of the house extending into a U shape. Servants bustled inside carrying flowers, wine, and other niceties.
 
-The group "thanks" him and decide to head out, to go to Buumi's estate to relax before dinner with Mordenkainen.
+Standing in the middle of the marble foyer was an older woman in her late fifties, her hair done up in rolling curls piled atop her head, wearing an impressive green gown of silks decorated with small gemstones and pearls. She turned at the approaching clatter and her discerning eyes swept over the group — then brightened into a joyous smile.
 
-As they head out, Tark heads over to the redheaded lady on a stool in the back of the tavern - Jenny.  He mentions to her that Lo'Dan is covered in valuable contraband. Jenny thanks Tark and eyes Lo'Dan. 
+Buumi hustled forward, arms out wide. "Mother!"
 
-Still not satisfied, Tark sees Lo'Dan reclining in his chair and decides to make a fool of the Drow.  Tark whips to darts at the chair leg just as Fey Mage hands the chair out.
+[[Sera Von Bumidere]] hurried to embrace the son she had thought dead for over a year. Pushing him back to arm's length, her eyes lingered on his missing arm. "Really?" She shook her head in mock disappointment. Buumi sheepishly waggled the stump until Tark said "show her!" and the energy hand appeared where his original should have been. Sera let out a gasp of delight and clapped her hands, then turned to the group for introductions.
 
-Lo'Dan simply floats there, sitting on air and sipping his ale.  He grins and winks at Tark.
+Gundren and Patches retired to their rooms. Gundren laid down for a nap. Patches scanned the halls on the way, stopping on the second floor to look at portraits. Buumi found her there and showed her to a magnificent guest room overlooking the front gardens. Then he headed to his own rooms to freshen up.
 
-Letting out a shout of frustration Tark storms from the bar, the group quickly follows save for Patches.
+Patches opened a window and climbed up the outside of the manor, past a third storey and onto the gleaming copper roof, where she sat in the winter sun and smoked her pipe. Across the way, she spotted [[Val Tengu]] smoking by the open door of a small tower turret. He raised his pipe in acknowledgement and went back to his thoughts.
 
-Patches leans in and asks if Lo'Dan could be a little less of an ass.  He sobers and tells her its all he knows, he can't stop now.
+Downstairs, Sera and Tark had hit it off. As they turned to walk deeper into the manor, Fëanon and Cirrus noticed that Sera's gown was partly illusionary — the bodice was real, but the folds of the skirt were fake. Beneath, she wore leggings, boots, and had a short sword strapped to one thigh. Their respect for Buumi's mother increased considerably. Cirrus motioned to his hat, changing its appearance, and told her he liked her style. Sera smiled and remarked that she used to adventure with [[The Harpers]] back in [[Waterdeep]] — it was how she met Esimir, Buumi's father.
 
-Patches goes to leave and as she does Lo'Dan grabs her wrist and she reverses the hold, grabbing him.  He leans in and tells her to be careful, something is happening in the Underdark.
+Fëanon settled into the Purple Room — a large panelled chamber decorated in shades of purple, with bookshelves lining the walls, plush furniture, a fireplace, and a well-stocked drinks cart. Sera motioned to the hearth and the wood immediately caught, sparks dying the moment they left the firebox. Wards on the estate, she explained. Uncontrolled fires were not a problem here. Fëanon found a series on the Spellplague and the Second Sundering and began to read.
 
-She nods and leaves the bar.
+Tark asked about food and Sera led the hungry halfling to the kitchens through the service corridors. She took two stools at a small table and had food and ale brought over. They chatted for hours, Tark recounting the group's exploits while Sera occasionally mentioned a similar experience from her own youth.
 
-As the group is walking away from the Sallow Manatee, a group of surley individuals are heading into it; a group of sailors.
+## Mr. Shon
 
-Everyone eyes one another and Fey stops, addressing the biggest, burliest sailor there.  An older man with grey hair, balding, a large beard and a massive scar down one side of his face - Gaffer Gary.
+Tark was finally full and done with his tale when a strange man entered the kitchens. Tall and slender, with wispy white hair in a ring around a bald pale head and a long white beard groomed to a fine point. He wore navy blue sage robes and his face was dour, his dark brown eyes scanning the room until he found what he was looking for — a plate of sandwiches. He picked up the platter, muttered "for the children" in a slight accent to Sera, and turned to leave.
 
-Fey talks to the man, offering his card and standing in his way.
+Tark asked who that was. Sera told him — Mr. Shon, the new tutor for the children, specifically [[Cercei]], hired upon Buumi's recommendation letter. She said he was very good with them. Cercei had started off quite a handful but had improved significantly. The man was apparently an expert on dragons and arcane knowledge. A sage.
 
-Gary takes the card and looks at it, speaking to Fey, he says he can't read.  In fact, Gary appears to be dismissive of the entire conversation and throws the card back at Fey and barges forward, checking the slight mage to the ground where his head hits the ground viciously.
+Tark followed the man up the staircase, watching him carry the sandwiches toward the sound of children's laughter. High above on the roof, Patches watched a group returning to the estate — a teenage girl, a small halfling man, a human man she didn't recognise, Georg, and Mr. Shon. She began climbing back down and paused to peer through a few windows along the way, spotting servant quarters and what appeared to be a workshop filled with half-finished art — much of it nudes of the same halfling male.
 
-Everyone tenses.  Fey goes to get up off the ground, incensed but holding it together.  Cirrus moves to put a hand on Gary's shoulder just as Gundren moves behind him.  As Cirrus' hand comes down, the other sailors all move to draw knives.
+In the hallway near the family rooms, Patches was passed by the teenage girl she had seen enter the estate. Orange hair, cream skin, freckles — a Bumidere. The girl looked at Patches in awe and leaned in. "Are you her?" Patches sized her up — no more than fourteen — and twisted her moonstone ring, dropping the moon-elf illusion to reveal her true Drow features for a moment. The girl's eyes went wide, a huge grin splitting her face as she mouthed "Oh my god, you're a Drow! This is so cool!" Patches smiled, held a finger to her lips, and returned to her disguise.
 
-Just as the tension explodes, Fey slams his staff onto the ground as he gets up, unleashing a wave of exhaustion and every sailor there drops unconscious…save Gary.
+[[Emma Von Bumidere]] introduced herself as Buumi's youngest sister and led Patches to Buumi's room. She peeled off at the door just before, entering her own. Down the hall, Patches saw Mr. Shon carrying sandwiches into another room. She noted the man's dour expression.
 
-Just as the spell goes off, Gundren places the barrels of his shotgun to the back of Gary's head and pulls the trigger.
+Patches knocked on Buumi's door. He opened it, freshly washed, smelling of wildflowers. She pointed down the hall and mentioned the children were back. Then she pulled a small ring from a pouch and handed it to him — "for the girl" — and headed downstairs to the Purple Room.
 
-Gary's head explodes in a shower of gore and the door of the Sallow Manatee has a massive hole blown in it, showering the inside with splinters…and Lo'Dan with brains, ruining his drink.
+Upstairs, Buumi knocked on Cercei's door. The little girl answered with an overly formal stiffness that unsettled him. She accepted him into her room, exchanged stilted pleasantries, and placed the ring Patches had given him on a platter of similar gifts with a polite thank-you. Buumi tried for twenty agonising minutes to break through the girl's odd composure, asking why she was acting this way. "The tutor's teachings," she replied, and left it at that. Perturbed by the drastic change, Buumi took his leave and headed to the Purple Room.
 
-The fight immediately over, a nearby person screams and others run to fetch the guards and Tark lets out a yell.
+Gundren woke with a snoring start, saw the sun had set, and clomped downstairs. He reached the bottom of the staircase just in time to see Mr. Shon pass the Purple Room, staring in at the group as he went. Gundren entered a moment later. "Who the hell is the weirdo?"
 
-Tark is furious that ANOTHER senseless killing has taken place.  Buumi is clearly uncomfortable, but points out to Tark that every sailor there had drawn weapons.  They had intended to attack.
+Tark said his name was Mr. Shon. Patches went into the hallway, heard a door click shut, crept over, and listened through it. The man was eating and drinking and flipping through a book. Nothing sinister. She returned to the group, silent and deep in thought.
 
-Tark retaliates with the ease that they were defeated - that they were never really a threat.   This causes Buumi to furrow his brow in thought and looks troubled.  Everyone else shrugs, it was self defense, and only one person actually died…and it ruined Lo'Dan's drink.
+## The Keep
 
-The group spots four city guard rushing along the docks toward them and Patches ducks into an alley, hiding behind a barrel just in case.
+Some time passed and the group began preparing for their meeting at the [[Keep of Thunder Bluff]]. Buumi had a valet call a carriage and within minutes they were heading through the cobbled streets of the Bluelake District, past fine houses, merchant establishments, and the best inns in the city.
 
-The guards arrive and survey the scene, looks of dismay across their faces.
+They passed through the keep gate, past the same guards from the day before, through a long tunnel, and emerged in a circular courtyard. The carriage stopped at the base of grand steps leading to the main structure — marble statues and intricate carvings framing the doors with scenes of volcanic destruction and the rebuilding of the city.
 
-One guard wakes up one of the sailors to question him as the sergeant has the group recount what happened.
-
-One guard does note the weapons and brings this up, corroborating the groups story - that these ruffians were simply outmatched.
-
-The one conscious sailor is sent back to his ship to inform his captain and the group is told that Captain Vaas Redblade of The Silent Virtue is going to have issue with them.
-
-The city guard tell the group that they have to go with them until the matter can be resolved.
-
-Cirrus steps forward in his Lord's robe and hat and produces 5 platinum as collateral, handing it to the Sergeant whose eyes go wide at the sight.
-
-Accepting the collateral, that the group would not skip out on the coin, and re-assuring himself he was not taking a bribe (and handing the coins to a flabbergasted private), the guard gets information on where the group is staying and promises to follow up.
-
-The group walks off, Patches slinking out of the alley a few moments later, holding up a bag of coins.
-
-Having picked the pouch off the body of Gary, Patches opens it and shows the group some strange coin, triangles and squares - Mintarn Coinage.
-
-Most of the group has no idea what that means, so Patches and Gundren explain it - Mintarn is known as the Pirate isles so their coin is Pirate treasure.  The group thinks about it and decide that The Silent Virtue must be a pirate ship, and going one step further, they are probably the Slavers that Galen Malek told them about in the docks.
-
-As they walk from the scene, a small bird lands on Cirrus hand, a letter wrapped around one leg.  The bird then puffs away into mist, shocking Tark.  Cirrus reads the note and sees that Mordenkainen has pushed their dinner back to 8pm.  Quite the power move.
-
-Walking away from their supposed "just" killing, the group flags down a wagon to take them most of the way to Buumi's family estate, vowing to follow up on the Silent Virtue and the slavers.
-
-**The Bumidere Estate**
-
-Heading north, past the keep, the group quickly finds themselves in the Bluelake district and the wagon driver will go no further.
-
-The peasant man turns around in the cart and tells the group how much they owe - 1 silver.
-
-Gundren asks why he won't take them any closer to the Bumidere estate and the man mentions that last time he accidentally wandered into the fancy part of town the guards roughed him up.
-
-Appalled, Gundren hands the man a Gold piece and tells him not to "take such things".  Evidently, the violent Dwarf is full of surprises.
-
-The group hops off the wagon and walks the last leg of the journey, fast approaching the walled manor.
-
-The huge house is not quite the bustle of activity it was from the day before, the front gate closed with two guards behind the wrought Iron bars, the red brick of the manor a good 100 yards behind them along a paved road, the gardens of the place flanking the route.
-
-Approaching the gate, Buumi calls out and the guards take notice, asking the group their business.
-
-After telling them who the group is, Buumi hands his writ of pedigree through the gate bars and his signet ring and the guard goes over it, taking a small monocle out and looking everything over.  A few moments later the guards welcome Horatio Von Bumidere home and the gate swings wide.  The group is told they are expected at the manor and have guest rooms prepared.
-
-The group walks up the road, past the beautiful green gardens and up to the large brick manor, its copper roof gleaming and trimmed in white marble.  Fountains burble off in the gardens and a smaller house can be seen near the edge of the estate.
-
-Walking up the marble steps to the front door, the "wings" of the house extend into a U shape around the main structure.  The front door is open and servants can be seen bustling around, carrying flowers, water, wine and other niceties to get the house ready for guests.  Standing in the middle of the marble foyer is an older woman in her late fifties, her hair done up in rolling curls piled atop her head and wearing an impressive green gown made of silks and lavishly decorated in small gemstones and pearls.  The woman turns as she hears the approaching clatter of the group and her discerning eyes sweep over everyone - and brighten into a joyous smile.
-
-Buumi hustles forward, arms out wide and exclaims "Mother!".
-
-Sera Von Bumidere hurries forward and embraces her son letting out a happy gasp as she sees the son she thought dead for over a year.
-
-Pushing him back to arms length, Sera scans over Buumi, her eyes lingering on his missing arm and she exclaims "Really!?" and shakes her head in mock disappointment.
-
-Buumi sheepishly waggles the stump until Tark says "show her!" and Buumi activates his prosthetic and the energy hand appears where his original should have been.  Sera lets out a exclamation of surprise and claps her hands in glee at the sight and then turns to the group for introductions.  Everyone shakes her hand/takes it and are introduced.  
-
-Gundren and Patches quickly decide to retire to their rooms to recuperate.
-
-Gundren lays down for a much needed nap, but Patches scans the halls on the way, stopping up on the second floor looking at portraits.
-
-Buumi arrives on the landing a moment later and asks Patches if she needs to be shown where to go.  She agrees and Buumi takes her down a long hallway to a magnificent guest room overlooking the front gardens. 
-
-Buumi then heads to his own rooms to freshen up and drop off his gear.
-
-Patches opens a window and climbs up the outside of the manor, heading past a third story and up onto the gleaming copper roof where she sits in the winter sun and smokes her pipe.  Looking across the way, she sees another had a similar idea as she spots Val Tengu smoking by the open door of a small tower turret.  He raises his pipe in her direction in acknowledgement and goes back to his thoughts.
-
-Back downstairs, Sera and Tark have hit it off, chatting away.  As they turn to walk deeper into the manor, Fey and Cirrus spot that Sera's dress appears to be illusionary.  Focusing on it, they realize that the bodice is real, but the folds of the dress are fake and that she is wearing leggings, boots and has a short sword strapped to one thigh.  Their respect for Buumi's mom increases and Cirrus motions to his hat, changing its look and telling her that he "likes her style".  Sera smiles and remarks that she used to adventure a bit herself with The Harpers back in Waterdeep - its how she met Esimir, Buumi's father.
-
-Fey asks if there's a library or sitting room and Sera lists off several.  Fey settles on The Purple room and is shown to a non-descript wall that opens into a large paneled room, decorated in shades of purple and with bookshelves lining the walls, plush chairs and couches, a fireplace and a well stocked drinking cart.
-
-Sera motions to the fireplace and the wood immediately lights, popping and throwing sparks which die immediately after leaving the hearth.  Sera remarks that uncontrolled fires are a nasty business, but not a problem here due to the wards on the estate.
-
-Cirrus and Fey both head inside and begin to relax, pouring themselves drinks and beginning to peruse the books.  Fey finds a series on the effects of the Spellplague and the Second Sundering and begins to skim through.
-
-Tark asks if they have anything to eat and Sera tells the hungry halfling to follow her and they head to the kitchens past many busy servants.
-
-Heading into the service corridors and servant areas, they make it back to the kitchens in short order and see the place is in full prep mode.
-
-Sera takes two stools to a small table and has some food and ale brought over and she begins chatting with Tark, the monk recounting the entire tale of their exploits with Sera ever so often mentioning a similar experience or story from her own escapades in her youth.
-
-A few hours go by.
-
-Tark is inally full and done with his tale.
-
-Sera tells Tark that the break was nice, but she really should get back to preparing for the visiting Amnian delegation.  The words don't quite register though as a strange man enters the kitchens, distracting Tark.
-
-Tall and slender, the older gentleman has wispy white hair in a ring around a bald pale head.  His long white beard hangs in a finely groomed point and the man is wearing a set of navy blue sage robes.  His face is dour though and his eyes dark brown and the man scans the kitchens until he sees what he's looking for - a plate of sandwiches.
-
-The man walks over and picks up the platter.  Seeing Sera, he mutters "for the children" in a slight accent and then turns to leave.
-
-Tark asks Sera who that was and she responds.  The man is Mr. Shon, the new tutor for the children (specifically Cercei) that was hired upon Buumi's request and recommendation letter.  She remarks that he's been very good with them and Cercei started off quite a handful but has gotten significantly better.  The man is apparently an expert on dragons and arcane knowledge.  A sage.
-
-Tark follows the man out of the kitchens as Sera takes her leave.
-
-Shon heads up the staircase in the main foyer, taking the sandwiches in the direction of a new set of sounds - the bustle and laughter of children.
-
-High above, on the roof, Patches watched the children, a teenage girl, a small halfling man, a human man she did not recognize, Georg and Mr. Shon enter the estate.  Deciding it is probably time to head back down, she begins climbing back to her room.  As she goes though, she looks in a few windows, noting some servant quarters and what appears to be a workshop filled with half finished art - much of it nudes of a halfling male (the same halfling male).
-
-Returning to her room, Patches heads out into the hallway in the direction of the family rooms.  As she goes, she is passed by the teenage girl she saw enter the estate.  She has orange hair, cream skin and freckles - a Bumidere.  The girl looks at Patches in awe and leans in and asks "are you her?".  Patches looks her over, figuring the girl to be Buumi's sister and no more than fourteen years old.  Patches twists the moonstone ring, dropping the illusion of being a moon-elf and returning to looking like a drow for a moment.  The girls eyes go wide and she gasps in delight, a huge smile across her face as she mouths "oh my god! You're a drow! This is SO cool!".  Patches smiles and holds a finger to her lips in a "quiet" gesture and returns to looking like a moon elf.
-
-The girl introduces herself as Emma, Buumi's youngest sister and takes Patches the rest of the way to Buumi's room.  Emma peels off at the door just before and enters her own room as down the hall, Patches sees Mr. Shon carrying a plate of sandwiches enter another room.  She looks the man over, noting his dour and serious look.
-
-Patches knocks on Buumi's door and he opens it, freshly washed, clothed and smelling of wildflowers.  Patches points down the hall and remarks that the kids are back.  She takes a small ring out of a pouch and hands it to Buumi "for the girl" and then she turns and heads downstairs to join the rest of the group in The Purple Room.
-
-Entering, she sees Cirrus, Tark and Fey all lounging and she flops down in a chair.
-
-Upstairs, Buumi knocks on Cercei's room and the little girl answers.  Overly formal and stiff, Cercei accepts Buumi into her room and he sits with her, noting her strange behavior.  They exchange pleasantries and Buumi hands her the ring Patches gave him.  The little girl places it on a platter of similar "gifts" and thanks Buumi.  Perturbed but the drastic change in personality, Buumi asks her why she is acting this way and she remarks that it is "The Tutor's teachings".  Buumi asks about the tutor, Mr. Shon, as he had never heard of the man.  Cercei remarks that he is very good and leaves it at that.  Buumi tries to exchange pleasantries with his daughter for another twenty minutes of agonizing awkwardness before taking his leave and heading down to The Purple Room himself.
-
-Gundren wakes with a snoring start and looks outside, seeing that the sun has set, he clomps out of bed and heads down to the Purple room.  He makes it to the bottom of the stairs just in time to see Mr. Shon pass the Purple room, staring in at the group as he passes.
-
-Gundren enters the Purple Room a moment later and addresses the group with "who the hell is the weirdo?".
-
-Tark says his name is Mr. Shon and Patches decides to head out into the hallway.  She sees a door down the hall click closed and she heads over to investigate and listen.  She hears the man on the other side of the door eating and drinking and flipping through the pages of a book, nothing sinister and returns to the group, silent and deep in thought.
-
-Some more time passes and the group begins preparing for their meeting at The Keep.
-
-Heading to the foyer, Buumi has a valet call a carriage and within a few minutes the group, rested and cleaned, hop into the vehicle and head off to the Keep.
-
-As they leave, some movement in a second story window rustles the drapes.
-
-The carriage passes the gates of the estate and heads off through the cobbled streets of the Bluelake district, past fancy houses, merchant establishments and the finest inns in the city.
-
-They head though the keep gate they tried to pass the day before, past the same guards and through a long tunnel before coming out in a circular courtyard within the keep walls.  The carriage stops at the base of a grand set of stairs leading up to the main structure itself, marble statues and intricate carvings lining the stone walls and framing the grand door with scenes of volcanic destruction and the rebuilding of the city - a stonework telling of the recent history of the place.
-
-The group disembarks the carriage and look up the steps, just as the doors to the keep begin to open.
+The group disembarked and looked up the steps, just as the doors to the keep began to open.

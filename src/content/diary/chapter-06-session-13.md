@@ -21,6 +21,7 @@ people:
   - "s-olaa"
   - "tarkathee-daru"
   - "theodemir"
+  - "val-tengu"
   - "vizerion-devir"
   - "von-issinger"
 places:

@@ -23,6 +23,7 @@ people:
   - "tarkathee-daru"
   - "thorna"
   - "topsy-and-turvy"
+  - "val-tengu"
   - "vecna"
 places:
   - "amn"

@@ -19,6 +19,7 @@ people:
   - "snorbul"
   - "sultan-bashir"
   - "vaketh"
+  - "val-tengu"
 places:
   - "iyum"
   - "mt-saqar"

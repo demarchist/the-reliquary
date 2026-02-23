@@ -18,6 +18,7 @@ people:
   - "moot"
   - "raylen"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "neverwinter"
   - "the-moonwood"

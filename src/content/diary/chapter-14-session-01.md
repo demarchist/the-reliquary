@@ -24,6 +24,8 @@ people:
   - "ruthir"
   - "snorbul"
   - "tarkathee-daru"
+  - "vaas-redblade"
+  - "val-tengu"
   - "vladalma"
   - "zhengyi"
 places:

@@ -15,6 +15,7 @@ people:
   - "megno-slatesunder"
   - "pickles"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "abyss"
   - "amn"

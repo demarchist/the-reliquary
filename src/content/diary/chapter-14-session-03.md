@@ -12,6 +12,7 @@ people:
   - "jack-mayer-johnson-mathews"
   - "lathander"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "anauroch"
   - "ethereal-plane"

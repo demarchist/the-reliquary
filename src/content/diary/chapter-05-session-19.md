@@ -23,6 +23,7 @@ people:
   - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "urwen"
+  - "val-tengu"
 places:
   - "amber-temple"
   - "castle-ravenloft"

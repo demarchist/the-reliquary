@@ -10,6 +10,7 @@ people:
   - "ceregorach"
   - "cirrus-al-kayan"
   - "ella"
+  - "esimir-von-bumidere"
   - "feanon-serinde"
   - "galen-marek"
   - "gundren-rockseeker"
@@ -18,7 +19,9 @@ people:
   - "mediocris-dente"
   - "strigu"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
+  - "bluelake-district"
   - "faerun"
   - "fallen-tower-inn"
   - "feanons-tower"

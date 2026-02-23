@@ -22,6 +22,7 @@ people:
   - "shar"
   - "sildar"
   - "toblen-stonehill"
+  - "val-tengu"
 places:
   - "barthens-provisions"
   - "cragmaw-castle"

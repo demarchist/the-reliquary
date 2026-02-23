@@ -3,6 +3,7 @@ title: The Sanctum - Session 15
 chapter: 7
 chapterTitle: The Sanctum
 session: 15
+summary: "The Trials of the Crusader erupt into full-scale battle as the Narzugon Prime summons reinforcements that shatter the containment wards — the group fights cavalry charges, flaming lances, and walls of hellfire before banishing the Archdevil and discovering that Faerzress crystals have cracked the planar barriers beneath Helm's Hold."
 people:
   - "aliyah-faen-tlabbar"
   - "chani"
@@ -12,112 +13,66 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "javen-tarkimos"
   - "madame-eva"
   - "shar"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "ethereal-plane"
   - "underdark"
 things:
   - "gwen"
+  - "hew"
   - "saurian-firelance"
-factions:
-  - "drow-faction"
 ---
 
-**The Trials**
+## The Battle
 
-The arena explodes into motion.
+The arena exploded into motion.
 
-Buumi rushes forward to engage with Narzugon Prime.
+[[Horatio von Bumidere]] rushed forward to engage the Narzugon Prime. [[Cirrus Al Kayan]] blasted a cone of cold over the massed bearded devils at the base of the wall. [[Gwen]] leapt over and fired a lightning bolt down the line just as they began to climb. Four broke off toward Gwen and Cirrus while the rest surged for the tunnel exit, determined to breach the defenders above.
 
-Cirrus blasts a cone of cold over the amassed bearded Devils at the base of the wall.
+In the stands, the paladins and clerics held the tunnels against two lesser Narzugon and a tide of legionnaires. [[Javen Tarkimos]], Amarandine, Thelm, and the others fought with divine fury — god-given spells keeping them on their feet.
 
-Gwen leaps over and fires a lightning bolt down the line of the Devils just as they begin to climb up to the amphitheaters seating.
+Down in the arena, [[Fëanon Serinde]]'s hold person spell froze the Narzugon Prime mid-strike. Patches rushed up behind and plunged both weapons through seams in the creature's heavy armour. [[Tarkathee Daru]] ran to the brazier and came down on it with a flying strike, hammering the rim with repeated blows until the massive thing tipped, showering the Archdevil with burning coals.
 
-Four break off, seeing Gwen and Cirrus exposed while the rest rush for the tunnel exit from this place, determined to breach the defenders.
+The Narzugon broke free of its paralysis and lashed out with its flaming sword, burning Tark and Buumi badly. It called to its soldiers in Infernal — "Form up!" The bearded devils snapped into formations. The lesser Narzugon slashed spurs against stone, summoning nightmares in explosions of sparks, and mounted up with ten-foot firelances. A thunderous cavalry charge bore down on the group.
 
-The NPC's back up to defend the tunnel, two Narzugon pushing from the other side as the Bearded Devils.
+The four bearded devils tore into Gwen, glaives slashing furiously. The mechanical construct backed up, biting and clawing, giving as good as she got. Over her back, Cirrus launched eldritch blasts that obliterated several and scattered the rest.
 
-Down below in the arena, Patches has leapt down and is now surrounded by Narzugon. She misty steps around and rushes to the central Fray just as Fey'Anon's hold person spell goes off, stopping Narzugon prime mid strike at Buumi.
+Fëanon targeted the charging cavalry and conjured a singularity, ripping one rider from its steed and slamming it to the ground. The others thundered past — [[Jack Mayer Johnson Mathews]] rushed to the Narzugon Prime, whistling forth a mass cure wounds while commanding the arcane hand to grab and squeeze. The construct seized the Archdevil and smashed it to the floor, slowly crushing it. A lesser Narzugon lanced JmJm in the back on a flyby, scoring a terrible hit, but the healing energy was already flowing — knitting wounds and salving burns across Patches, Tark, JmJm, and Buumi alike.
 
-She rushes up behind the Narzugon flanking the Paladin and plunges both weapons through seams in the creatures heavy armor.
+The Narzugon Prime lashed wildly, then plunged its sword into the stone and called forth a wall of fire that roared all the way to Fëanon and [[Gundren Rockseeker]]. Fëanon lost concentration and his singularity winked out. A lesser Narzugon on hellish horseback came wheeling toward him. He cast mirror image, splitting into four just as the rider's lance smashed through three copies and struck him square in the chest. His enchanted vestments stopped the blow from being instantly fatal, but Fëanon went down in a burned and bleeding heap.
 
-Tark runs over and leaps high into the air, coming down on the Brazier in an attempt to tip it.  It teeters but the monk smashes the rim with repeated strikes and the thing finally tips, showering Narzugon Prime with burning coals.
+Gundren dove from the fire, barely standing, and unloaded into the retreating hell knight — three shells into its back, blowing it apart. The ice tomb around Cirrus melted — he had been encased in a protective shell when the blast struck — and he sent eldritch blasts smashing another rider from its saddle.
 
-The creature breaks out of its paralysis and lashes out with it's fiery weapon, burning Tark and Buumi badly. It calls to its soldiers, commanding them to "Form Up!".
+Patches kicked in the legs of the Narzugon she faced, but it refused to fall. She stabbed it dead, took a savage hit in return, and ducked behind the overturned brazier — sending out a silent image as a decoy while she downed a healing potion.
 
-As he issues the commands, shells from Gundren begin to smash into the Devil and his slab-like shield.
+## The Narzugon Falls
 
-Hearing their commander, the Bearded devils rush into formations and the other Narzugon slash their spurs against the rocks, summoning their nightmares in an explosion of sparks.  They mount up and begin riding, flying with 10ft firelances bearing down on the group.
+Tark, Buumi, and JmJm hammered at the restrained Narzugon Prime. Gundren poured shells into it. Buumi's glowing hammer crashed down again and again. Seeing its situation was hopeless — allies being cut apart, the arcane hand slowly crushing the life from it — the Narzugon Prime commanded its remaining hell knights to flee into the [[Underdark]].
 
-The four Bearded devils bear down on Gwen, slashing furiously with their glaives as the mechanical construct backs up, slashing and biting, scoring hits for every one she takes.
+Two riders headed for the far wall. One turned ethereal and rode straight through the stone. The other lined up on Fëanon — who lay motionless on the ground — but JmJm called the arcane hand forward. It swept across the arena, lifted the fallen wizard, and threw him through the air. JmJm caught nothing but stone as he leapt, landing gracefully beside his friend and pressing a hand to Fëanon's chest. Healing magic flowed. The wizard gasped awake, stood, thrust a hand at the Narzugon that had struck him down, and blasted it from its saddle with a lance of magic missiles.
 
-Over her back, Cirrus launches a series of Eldritch blasts into them, obliterating several and badly injuring the rest.
+Gundren, bleeding and shaking from a lance hit of his own, lined up the last fleeing hell knight and squeezed the trigger. Three shells. The rider came apart.
 
-Fey, seeing the Narzugon free of his Hold spell, targets the charging Narzugon and creates a singularity, pulling one rider from his steed and slamming him to the ground below.
+From behind the brazier, Patches stepped out with her pistol and put a hail of shots into the Narzugon Prime — most pinging off its heavy plate, but two spraying the air with black blood.
 
-The others bear down on JmJm, Patches, Tark and Buumi, forming a thunderous cavalry charge.
+Buumi brought his hammer down one final time. The Archdevil crumbled.
 
-JmJm rushes to Narzugon Prime, flourishing the inkblade and whistling, calling forth a Mass Cure Wounds and commanding the Arcane hand to grab and squeeze. Narzugon Prime is clasped by the hand and smashed to the floor, restrained and being slowly crushed by the construct.
+## Aftermath
 
-One of the Narzugon rushes overhead, lancing at the back of JmJm and scoring a terrible hit, just as the healing energy flows out.
+The arena fell quiet save for the hiss of volcanic vents and the groans of the wounded. Ash piles marked where the devils had fallen. Up by the tunnel, the last few bearded legionnaires were cut down by the defenders. Two paladins had fallen — Prior Athosa and Paladin Belefonte.
 
-The others strike glancing blows against Patches and Tark.
+Tark shouted, demanding to know why the hell this had just happened. Everyone began questioning the same thing.
 
-Patches, Tark, JmJm and Buumi all feel the healing energy knitting their wounds and salving the burns from the hellish weapons, keeping them on their feet.
+Gundren, deciding not to take chances, poured shells into the Faerzress crystal overhead, shattering it. Patches, directly below, dodged a particularly large chunk and swore at him. Gundren hopped into the arena and headed for a patch of diamonds that had crystallised during the wild-magic surges. Buumi grabbed the largest diamond and climbed out, heading straight for the fallen Prior Athosa and casting revivify. The paladin gasped back to life. The other was not so lucky, but JmJm said that with the right ceremony and materials, he could perform a reincarnation for Paladin Belefonte.
 
-The Naruzon Prime Lashes out wildly, scoring glancing hits and then Plunges his sword into the stone, calling forth a Wall of Fire nearby that reaches all the way to Fey and Gundren.
+Amarandine — the elderly halfling cleric — thanked the bard. Javen picked up his fallen soldier and carried the body to the elevator without a word.
 
-The wall burns them and Fey loses concentration on singularity keeping a rider down.  Seeing one of the Narzugon wheeling his way on flying hellish horseback, Fey casts mirror image and splits into 4.
+Fëanon and Cirrus had been conferring over the summoning, the wild-magic surges, and the Faerzress shards Gundren brought them. The planar barriers were cracked here, that much was certain — though how far the damage extended, and what had caused it, they could not say.
 
-Gundren dives away from the fire, getting up he turns and puts down the last few Bearded Devils working their way to Cirrus and Gwen.
+Patches watched Gundren pull three small diamonds from the wild-magic cluster. He noticed her watching and tossed the gems over to recharge her weapons.
 
-The other mob of Bearded devils have fully pushed into the tunnel, forcing the defenders back.  Javen, Amarandine, Thelm and the other Paladins and Clerics seem to be holding their own though, their god given spells keeping them alive.
-
-Patches kicks in the legs of the Narzugon she faces by the Prime, but it refuses to go down so she stabs at it, killing the Devil just as it gets a solid hit on the Rogue.  Bleeding and burned badly, Patches rushes around the brazier to use it as cover, calling on her magical mask to send out a Silent Image of herself as a distraction and downing a potion of healing.
-
-Tark, Buumi and now JmJm begin to wail on the restrained Narzugon Prime as his minions charge down at Fey, Gundren and Cirrus.
-
-One does a pass on Fey, destroying all of the Mirror images before riding past.  The other that is bearing down on Cirrus smashes into the Warlock, but surprising everyone an explosion of ice meets that blast of fire and the warlock is encased, protecting him from the majority of the hit and the Narzugon rides on.
-
-As each major spell goes off, everyone begins to feel the gathering of magical energy, like a haze of static around themselves.  Every so often, the static discharges and something strange occurs: Diamonds crystallize in the ground by JmJm's feet, mushrooms sprout by Fey, the stone turns to mud around Buumi and Cirrus feels…odd...
-
-Gunren pumps shot after shot into the riding Narzugon realizing that any solid hit from those lances would be the end of any one of them.
-
-With Buumi's healing aura assisting Patches, he, Tark and JmJm smash away and the Narzugon Prime begins to get worried.  Unable to get free of the Arcane Hand, it begins to slash at the construct to free itself, but the situation is too dire.  Realizing it is about to be Banished back to the Nine Hells, Narzugon commands his fellow Hell Knights to flee into the Underdark.
-
-Two heading for Fey continue, one turning Ethereal and riding right through the wall, the other taking a shot at Fey.
-
-The wizard is hit square in the chest.  An explosion of sparks and fire occur as the Lance is stopped by his enchanted vestments from being instantly fatal, but Fey goes down in a burned and bleeding heap.
-
-Gundren sees another of the Narzugon lining him up and he unloads into the charging rider but does not down it.  It's lance blasts into the Dwarf's breastplate in an explosion of flame and Gundren is smashed to the ground.  He stands back up…barely, bleeding and shaking.  But he lines up the retreating Hell Knight and squeezes the trigger, sending three shells into it's back and blowing it apart.
-
-The ice tomb melts around Cirrus and he sees another of the knights fleeing and sends off three Eldritch blasts, smashing another rider from its seat.
-
-Narzugon Prime is crushed beneath the glowing hammer of Buumi and Tark and JmJm turn to see their friend go down up in the stands just as Patches steps from the brazier with her pistol and lets off a hail of shots, many plinking off the heavy armor and sparking.  Though two spray the air with black blood.
-
-Seeing Fey down, JmJm calls on the Arcane hand to sweep forward, lifting him into the air and throwing him the last twenty feet.  Flipping through the air, the Bard lands gracefully and places a hand on his friend, healing magic flowing into the Wizard.
-
-Fey gasps as he comes to consciousness.  Standing, he thrusts a hand forward at the Narzugon that struck him down and a lance of Magic missiles erupts and smashes into the Narzugon, tearing it from the saddle and bringing it down in a heap.
-
-The arena is devoid of enemies.
-
-Across the arena, the last few bearded Devils are slain by the tunnel exit.  The group surveys the hot, humid and sulfurous smelling arena, seeing heaps of ash from the corpses of the Devils that attacked them.
-
-Thelm and a small, elderly Halfling Cleric (who introduces herself as Amarandine) come to the railing and look down at the arena, impressed.
-
-Tark shouts, demanding to know why the hell this just happened! Everyone begins to question this as well. 
-
-Gundren decides not to take chances and pours shells into the Faerzress crystal overhead, shattering it just as Patches (directly below) pulls a pair of steaming spurs from the mud pool.  She dodges a particularly large chunk and swears at Gundren, who hops into the arena and heads to the patch of diamonds.
-
-The group learns that two of the Paladins up above fell to the Devils.  Buumi grabs the big diamond just freed by Gundren and climbs out of the Arena, heading straight for the fallen and casting a Revivify on the dead Prior Athosa.  The other Paladin is not as lucky, but JmJm says that with the right ceremony and materials, he can reincarnate Paladin Belefonte.
-
-Amarandine thanks the Bard and the four clerics who conducted the ceremony arrive on the elevator.  Javen picks up the body of his fallen soldier and takes it to the elevator, passing the clerics.
-
-Fey and Cirrus meanwhile have been discussing the summoning, investigating the wildmagic surges and the shards of Faerzress brought to him by Gundren. They are sure that the planar barriers are cracked here, though they know not why or how far it is spread.
-
-Patches sees Gundren pull three small diamonds from the Wild-magic grown cluster and Gundren notices, tossing the small gems to the Drow to recharge her weapons.
-
-Up by the tunnel exit and the elevators, the rest of the group asks what happened.  The Clerics go over their books and spells and swear that their summoning was correct.  From what everyone witnessed, it was. One of the elderly clerics hands over his summoning book to Fey, pointing to the spell and saying "by everything we know, and everything we did, yourselves as witness…this was impossible…this could not have happened…"
-
+The clerics who had conducted the ceremony arrived on the elevator. They went over their books and spells, swearing the summoning had been performed correctly — and from everything the group had witnessed, it had been. One of the elderly clerics handed his summoning book to Fëanon, pointed to the spell, and said with a tremor in his voice: "By everything we know, and everything we did, yourselves as witness — this was impossible. This could not have happened."

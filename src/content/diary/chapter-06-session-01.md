@@ -19,6 +19,7 @@ people:
   - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
   - "zhengyi"
 places:
   - "castle-ravenloft"

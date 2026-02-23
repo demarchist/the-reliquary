@@ -27,6 +27,7 @@ people:
   - "shar"
   - "snorbul"
   - "tarkathee-daru"
+  - "val-tengu"
   - "veygar"
 places:
   - "abyss"

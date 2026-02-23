@@ -23,6 +23,7 @@ people:
   - "mimor"
   - "ront"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "baldurs-gate"
   - "menzoberranzan"

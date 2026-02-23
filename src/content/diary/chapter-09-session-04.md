@@ -18,6 +18,7 @@ people:
   - "snorbul"
   - "surtr"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "selunia"
 things:

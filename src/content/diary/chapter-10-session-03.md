@@ -26,6 +26,7 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "theodemir"
+  - "val-tengu"
   - "veygar"
   - "zuggtmoy"
 places:

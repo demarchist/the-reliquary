@@ -18,6 +18,7 @@ people:
   - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
   - "van-richten"
 places:
   - "amber-temple"

@@ -17,6 +17,7 @@ people:
   - "ront"
   - "snorbul"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "al-askar"
   - "barovia"

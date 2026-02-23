@@ -57,6 +57,7 @@ factions:
   - "drow-faction"
   - "illithid-faction"
   - "netherese"
+  - "watchers-of-helm"
 ---
 
 **The Briefing Ctd. & Sundabar**

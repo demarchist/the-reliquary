@@ -13,6 +13,7 @@ people:
   - "kimmuriel"
   - "lodan"
   - "madame-eva"
+  - "sera-von-bumidere"
   - "shar"
   - "tarkathee-daru"
   - "ysera"

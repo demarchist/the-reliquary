@@ -29,6 +29,7 @@ people:
   - "theodemir"
   - "thorna"
   - "topsy-and-turvy"
+  - "val-tengu"
 places:
   - "amn"
   - "blingdenstone"

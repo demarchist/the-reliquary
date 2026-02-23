@@ -23,6 +23,7 @@ people:
   - "tarkathee-daru"
   - "theodemir"
   - "topsy-and-turvy"
+  - "val-tengu"
   - "veygar"
 places:
   - "daggerford"

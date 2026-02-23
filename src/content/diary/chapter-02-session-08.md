@@ -20,6 +20,7 @@ people:
   - "nezzan"
   - "raylen"
   - "ront"
+  - "sera-von-bumidere"
   - "tarkathee-daru"
   - "venomfang"
   - "ysera"

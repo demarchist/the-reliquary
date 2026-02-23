@@ -16,6 +16,7 @@ people:
   - "lolth"
   - "snorbul"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "abyss"
   - "blingdenstone"

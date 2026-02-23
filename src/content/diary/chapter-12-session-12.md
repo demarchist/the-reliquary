@@ -17,6 +17,7 @@ people:
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "faerun"
   - "iyum"

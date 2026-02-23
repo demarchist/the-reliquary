@@ -19,9 +19,11 @@ people:
   - "pickles"
   - "ront"
   - "ruthir"
+  - "sera-von-bumidere"
   - "tarkathee-daru"
   - "topsy-and-turvy"
   - "vaketh"
+  - "val-tengu"
   - "zhengyi"
 places:
   - "baldurs-gate"

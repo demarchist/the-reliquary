@@ -20,6 +20,7 @@ people:
   - "snorbul"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "blingdenstone"
   - "darklake"

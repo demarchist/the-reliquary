@@ -19,6 +19,7 @@ people:
   - "selune"
   - "shar"
   - "tarkathee-daru"
+  - "val-tengu"
   - "vecna"
   - "zhengyi"
 places:

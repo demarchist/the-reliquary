@@ -344,6 +344,16 @@
     "title": "Blood on the Vine Tavern",
     "category": "Places"
   },
+  "bluelake district": {
+    "slug": "bluelake-district",
+    "title": "Bluelake District",
+    "category": "Places"
+  },
+  "blue lake district": {
+    "slug": "bluelake-district",
+    "title": "Bluelake District",
+    "category": "Places"
+  },
   "bolg": {
     "slug": "bolg",
     "title": "Bolg",
@@ -397,6 +407,16 @@
   "dink duwafu": {
     "slug": "captain-dink",
     "title": "Captain Dink",
+    "category": "People"
+  },
+  "captain lendeer": {
+    "slug": "captain-lendeer",
+    "title": "Captain Lendeer",
+    "category": "People"
+  },
+  "lendeer": {
+    "slug": "captain-lendeer",
+    "title": "Captain Lendeer",
     "category": "People"
   },
   "carp alderleaf": {
@@ -553,6 +573,21 @@
     "slug": "deck-of-illusions",
     "title": "Deck of Illusions",
     "category": "Things"
+  },
+  "delly griplim": {
+    "slug": "delly-griplim",
+    "title": "Delly Griplim",
+    "category": "People"
+  },
+  "delly": {
+    "slug": "delly-griplim",
+    "title": "Delly Griplim",
+    "category": "People"
+  },
+  "archmage delly": {
+    "slug": "delly-griplim",
+    "title": "Delly Griplim",
+    "category": "People"
   },
   "delzoun instant fortress": {
     "slug": "delzoun-instant-fortress",
@@ -727,6 +762,31 @@
   "ella": {
     "slug": "ella",
     "title": "Ella",
+    "category": "People"
+  },
+  "emma von bumidere": {
+    "slug": "emma-von-bumidere",
+    "title": "Emma Von Bumidere",
+    "category": "People"
+  },
+  "emma": {
+    "slug": "emma-von-bumidere",
+    "title": "Emma Von Bumidere",
+    "category": "People"
+  },
+  "esimir von bumidere": {
+    "slug": "esimir-von-bumidere",
+    "title": "Esimir Von Bumidere",
+    "category": "People"
+  },
+  "esimir": {
+    "slug": "esimir-von-bumidere",
+    "title": "Esimir Von Bumidere",
+    "category": "People"
+  },
+  "lord bumidere": {
+    "slug": "esimir-von-bumidere",
+    "title": "Esimir Von Bumidere",
     "category": "People"
   },
   "the ethereal plane": {
@@ -1359,6 +1419,16 @@
     "title": "Jarlaxle",
     "category": "People"
   },
+  "javen tarkimos": {
+    "slug": "javen-tarkimos",
+    "title": "Javen Tarkimos",
+    "category": "People"
+  },
+  "javen": {
+    "slug": "javen-tarkimos",
+    "title": "Javen Tarkimos",
+    "category": "People"
+  },
   "jeckeyll": {
     "slug": "jeckeyll",
     "title": "Jeckeyll",
@@ -1487,6 +1557,16 @@
   "lady faye": {
     "slug": "lady-faye",
     "title": "Lady Faye",
+    "category": "People"
+  },
+  "laeral silverhand": {
+    "slug": "laeral-silverhand",
+    "title": "Laeral Silverhand",
+    "category": "People"
+  },
+  "laeral": {
+    "slug": "laeral-silverhand",
+    "title": "Laeral Silverhand",
     "category": "People"
   },
   "lake seluna": {
@@ -1919,6 +1999,16 @@
     "title": "Orcus",
     "category": "People"
   },
+  "petey greene": {
+    "slug": "petey-greene",
+    "title": "Petey Greene",
+    "category": "People"
+  },
+  "petey": {
+    "slug": "petey-greene",
+    "title": "Petey Greene",
+    "category": "People"
+  },
   "peytr": {
     "slug": "peytr",
     "title": "Peytr",
@@ -2004,6 +2094,16 @@
     "title": "Reidoth",
     "category": "People"
   },
+  "renaer neverember": {
+    "slug": "renaer-neverember",
+    "title": "Renaer Neverember",
+    "category": "People"
+  },
+  "renaer": {
+    "slug": "renaer-neverember",
+    "title": "Renaer Neverember",
+    "category": "People"
+  },
   "the ringed veils": {
     "slug": "ringed-veils",
     "title": "The Ringed Veils",
@@ -2048,6 +2148,21 @@
     "slug": "s-olaa",
     "title": "S'Olaa",
     "category": "People"
+  },
+  "sallow manatee": {
+    "slug": "sallow-manatee",
+    "title": "Sallow Manatee",
+    "category": "Places"
+  },
+  "the sallow manatee": {
+    "slug": "sallow-manatee",
+    "title": "Sallow Manatee",
+    "category": "Places"
+  },
+  "sallow manatee inn": {
+    "slug": "sallow-manatee",
+    "title": "Sallow Manatee",
+    "category": "Places"
   },
   "sanctum of krasus": {
     "slug": "sanctum-of-krasus",
@@ -2123,6 +2238,21 @@
     "slug": "selunia",
     "title": "Selunia",
     "category": "Places"
+  },
+  "sera von bumidere": {
+    "slug": "sera-von-bumidere",
+    "title": "Sera Von Bumidere",
+    "category": "People"
+  },
+  "sera": {
+    "slug": "sera-von-bumidere",
+    "title": "Sera Von Bumidere",
+    "category": "People"
+  },
+  "lady bumidere": {
+    "slug": "sera-von-bumidere",
+    "title": "Sera Von Bumidere",
+    "category": "People"
   },
   "sergei von zarovich": {
     "slug": "sergei",
@@ -2404,6 +2534,21 @@
     "title": "Temple of Helm",
     "category": "Places"
   },
+  "thayan drop box": {
+    "slug": "thayan-drop-box",
+    "title": "Thayan Drop Box",
+    "category": "Things"
+  },
+  "thayan box": {
+    "slug": "thayan-drop-box",
+    "title": "Thayan Drop Box",
+    "category": "Things"
+  },
+  "the purple box": {
+    "slug": "thayan-drop-box",
+    "title": "Thayan Drop Box",
+    "category": "Things"
+  },
   "the bearded lass ii": {
     "slug": "the-bearded-lass-ii",
     "title": "The Bearded Lass II",
@@ -2539,6 +2684,16 @@
     "title": "The Short and Curlies",
     "category": "Places"
   },
+  "the silent virtue": {
+    "slug": "the-silent-virtue",
+    "title": "The Silent Virtue",
+    "category": "Things"
+  },
+  "silent virtue": {
+    "slug": "the-silent-virtue",
+    "title": "The Silent Virtue",
+    "category": "Things"
+  },
   "theodemir": {
     "slug": "theodemir",
     "title": "Theodemir",
@@ -2629,6 +2784,16 @@
     "title": "Tresendar Manor",
     "category": "Places"
   },
+  "trials of the crusader": {
+    "slug": "trials-of-the-crusader",
+    "title": "Trials of the Crusader",
+    "category": "Events"
+  },
+  "the trials": {
+    "slug": "trials-of-the-crusader",
+    "title": "Trials of the Crusader",
+    "category": "Events"
+  },
   "triboar trail": {
     "slug": "triboar-trail",
     "title": "Triboar Trail",
@@ -2669,6 +2834,26 @@
     "title": "Usurpers of Rudjek",
     "category": "Factions"
   },
+  "vaas redblade": {
+    "slug": "vaas-redblade",
+    "title": "Vaas Redblade",
+    "category": "People"
+  },
+  "captain vaas redblade": {
+    "slug": "vaas-redblade",
+    "title": "Vaas Redblade",
+    "category": "People"
+  },
+  "captain vaas": {
+    "slug": "vaas-redblade",
+    "title": "Vaas Redblade",
+    "category": "People"
+  },
+  "vaas": {
+    "slug": "vaas-redblade",
+    "title": "Vaas Redblade",
+    "category": "People"
+  },
   "vaasa": {
     "slug": "vaasa",
     "title": "Vaasa",
@@ -2687,6 +2872,16 @@
   "vaketh": {
     "slug": "vaketh",
     "title": "Vaketh",
+    "category": "People"
+  },
+  "val tengu": {
+    "slug": "val-tengu",
+    "title": "Val Tengu",
+    "category": "People"
+  },
+  "val": {
+    "slug": "val-tengu",
+    "title": "Val Tengu",
     "category": "People"
   },
   "vallaki": {
@@ -2803,6 +2998,16 @@
     "slug": "wachter",
     "title": "Lady Wachter",
     "category": "People"
+  },
+  "watchers of helm": {
+    "slug": "watchers-of-helm",
+    "title": "Watchers of Helm",
+    "category": "Factions"
+  },
+  "paladins of helm": {
+    "slug": "watchers-of-helm",
+    "title": "Watchers of Helm",
+    "category": "Factions"
   },
   "waterdeep": {
     "slug": "waterdeep",

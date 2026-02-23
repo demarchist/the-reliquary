@@ -18,6 +18,7 @@ people:
   - "pickles"
   - "shar"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "anauroch"
   - "dokkar"
@@ -32,6 +33,7 @@ things:
 factions:
   - "drow-faction"
   - "netherese"
+  - "watchers-of-helm"
 ---
 
 JmJm charges in atop Steden, and gets about 10ft before the rest of the party all shout at him to stop and come back.

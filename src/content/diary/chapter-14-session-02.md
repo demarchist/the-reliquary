@@ -20,7 +20,9 @@ people:
   - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "topsy-and-turvy"
+  - "vaas-redblade"
   - "vaketh"
+  - "val-tengu"
   - "vecna"
   - "zhengyi"
 places:

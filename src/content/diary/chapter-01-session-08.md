@@ -14,6 +14,7 @@ people:
   - "lothli"
   - "orcus"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "phandalin"
 things:

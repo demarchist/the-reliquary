@@ -15,6 +15,7 @@ people:
   - "jack-mayer-johnson-mathews"
   - "madame-eva"
   - "tarkathee-daru"
+  - "val-tengu"
 things:
   - "tavern-of-doors"
 factions:

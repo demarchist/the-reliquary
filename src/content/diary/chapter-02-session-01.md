@@ -19,6 +19,7 @@ people:
   - "madame-eva"
   - "sha-alazzi"
   - "tarkathee-daru"
+  - "val-tengu"
   - "venomfang"
 places:
   - "baldurs-gate"

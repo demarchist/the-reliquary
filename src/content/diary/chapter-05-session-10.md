@@ -21,6 +21,7 @@ people:
   - "ront"
   - "tarkathee-daru"
   - "urwen"
+  - "val-tengu"
   - "van-richten"
   - "wachter"
 places:

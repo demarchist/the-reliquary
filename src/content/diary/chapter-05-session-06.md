@@ -17,6 +17,7 @@ people:
   - "morgantha"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "barovia"
   - "feanons-tower"

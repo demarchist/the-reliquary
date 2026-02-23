@@ -14,6 +14,7 @@ people:
   - "horatio-von-bumidere"
   - "kangaxx"
   - "selune"
+  - "sera-von-bumidere"
   - "tarkathee-daru"
   - "ysera"
 places:

@@ -21,6 +21,7 @@ people:
   - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "thorna"
+  - "val-tengu"
   - "veygar"
 places:
   - "dokkar"

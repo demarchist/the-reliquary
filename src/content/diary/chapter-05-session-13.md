@@ -23,6 +23,7 @@ people:
   - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
   - "van-richten"
   - "zhengyi"
 places:

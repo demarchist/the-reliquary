@@ -15,7 +15,9 @@ people:
   - "ireena"
   - "madame-eva"
   - "mordenkainen"
+  - "sera-von-bumidere"
   - "strahd-von-zarovich"
+  - "val-tengu"
 places:
   - "barovia"
   - "tser-pool"

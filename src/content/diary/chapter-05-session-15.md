@@ -16,6 +16,7 @@ people:
   - "mordenkainen"
   - "peytr"
   - "rahadin"
+  - "sera-von-bumidere"
   - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"

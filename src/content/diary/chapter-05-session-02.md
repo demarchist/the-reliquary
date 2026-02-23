@@ -19,6 +19,7 @@ people:
   - "selune"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "barovia"
   - "blood-on-the-vine-tavern"

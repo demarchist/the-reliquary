@@ -22,6 +22,7 @@ people:
   - "shar"
   - "snorbul"
   - "tarkathee-daru"
+  - "val-tengu"
   - "zuggtmoy"
 places:
   - "astral-plane"

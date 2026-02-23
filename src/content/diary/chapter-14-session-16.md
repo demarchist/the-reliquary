@@ -22,6 +22,7 @@ people:
   - "ront"
   - "tarkathee-daru"
   - "theodemir"
+  - "vaas-redblade"
   - "vecna"
 places:
   - "damara"

@@ -22,6 +22,7 @@ people:
   - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
   - "wachter"
 places:
   - "barovia"

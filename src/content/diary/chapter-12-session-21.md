@@ -27,7 +27,9 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "thorna"
+  - "vaas-redblade"
   - "vaketh"
+  - "val-tengu"
   - "vecna"
   - "zhengyi"
 places:
@@ -49,6 +51,7 @@ factions:
   - "illithid-faction"
   - "saurians"
   - "usurpers-of-rudjek"
+  - "watchers-of-helm"
 events:
   - "the-calamity"
 ---

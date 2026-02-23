@@ -13,6 +13,7 @@ people:
   - "ront"
   - "snorbul"
   - "thorna"
+  - "val-tengu"
 places:
   - "abyss"
   - "snorbuls-hole"

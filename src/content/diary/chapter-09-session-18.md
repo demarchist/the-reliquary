@@ -22,6 +22,7 @@ people:
   - "tarkathee-daru"
   - "thorna"
   - "topsy-and-turvy"
+  - "val-tengu"
 places:
   - "abyss"
   - "amn"
@@ -46,6 +47,7 @@ things:
 factions:
   - "faerun-defense-force"
   - "svirfneblin-faction"
+  - "watchers-of-helm"
 ---
 
 The group retires back to the party, Feanon needing a long rest to recharge his Arcane batteries.

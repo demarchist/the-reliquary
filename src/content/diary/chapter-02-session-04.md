@@ -19,9 +19,11 @@ people:
   - "moot"
   - "nezzan"
   - "raylen"
+  - "sera-von-bumidere"
   - "sha-alazzi"
   - "shar"
   - "tarkathee-daru"
+  - "val-tengu"
   - "ysera"
 places:
   - "feanons-tower"

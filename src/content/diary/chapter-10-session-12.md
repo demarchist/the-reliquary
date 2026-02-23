@@ -6,12 +6,14 @@ session: 12
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "delly-griplim"
   - "demogorgon"
   - "feanon-serinde"
   - "fen"
   - "lolth"
   - "ront"
   - "tarkathee-daru"
+  - "val-tengu"
   - "zuggtmoy"
 places:
   - "evermeet"

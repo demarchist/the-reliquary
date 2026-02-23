@@ -16,6 +16,7 @@ people:
   - "pickles"
   - "ront"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "high-hold"
   - "kossenberg"

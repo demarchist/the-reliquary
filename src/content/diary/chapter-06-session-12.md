@@ -25,6 +25,7 @@ people:
   - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "theodemir"
+  - "val-tengu"
   - "von-issinger"
   - "zhengyi"
 places:

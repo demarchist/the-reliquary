@@ -24,6 +24,7 @@ people:
   - "sergei"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "val-tengu"
   - "van-richten"
 places:
   - "barovia"

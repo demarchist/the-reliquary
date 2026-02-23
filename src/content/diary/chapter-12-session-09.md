@@ -16,6 +16,7 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "theodemir"
+  - "val-tengu"
   - "zhengyi"
 places:
   - "barovia"

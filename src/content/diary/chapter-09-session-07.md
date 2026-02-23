@@ -17,6 +17,7 @@ people:
   - "madame-eva"
   - "pickles"
   - "selune"
+  - "sera-von-bumidere"
   - "shar"
   - "snorbul"
   - "surtr"

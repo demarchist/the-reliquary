@@ -18,6 +18,7 @@ people:
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
+  - "val-tengu"
 places:
   - "darklake"
 things:

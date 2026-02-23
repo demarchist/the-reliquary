@@ -21,6 +21,7 @@ people:
   - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "urwen"
+  - "val-tengu"
 places:
   - "barovia"
   - "castle-ravenloft"

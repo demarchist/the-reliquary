@@ -19,6 +19,7 @@ people:
   - "madame-eva"
   - "ront"
   - "selune"
+  - "sera-von-bumidere"
   - "snorbul"
   - "surtr"
   - "tarkathee-daru"

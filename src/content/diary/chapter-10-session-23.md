@@ -15,6 +15,7 @@ people:
   - "ront"
   - "snorbul"
   - "tarkathee-daru"
+  - "val-tengu"
   - "veygar"
 places:
   - "amn"
