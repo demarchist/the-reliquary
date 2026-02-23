@@ -3,6 +3,7 @@ title: The Sanctum - Session 9
 chapter: 7
 chapterTitle: The Sanctum
 session: 9
+summary: "The group springs their trap at the Fallen Tower Inn — Patches rigs the walls with bombs, Fëanon's distraction plans go awry, and when the Red Grin Killer attacks with a fire elemental and Meenlocks, Cirrus calls upon Selûne to reach the wretched warlock Strigu, who accepts his embrace only to sink his fangs into Cirrus's neck before being put down."
 people:
   - "aliyah-faen-tlabbar"
   - "captain-dink"
@@ -10,188 +11,59 @@ people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "fen"
+  - "galen-marek"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"
+  - "lady-faye"
   - "mediocris-dente"
-  - "ront"
-  - "selune"
+  - "strigu"
   - "tarkathee-daru"
 places:
   - "baldurs-gate"
+  - "fallen-tower-inn"
 things:
   - "eclipse"
   - "gwen"
-factions:
-  - "drow-faction"
+  - "the-bearded-lass-ii"
 ---
 
-**Strange Tastes & Intrigue**
+## The Long Wait
 
-The group settles in for the evening in the two separate rooms, Cirrus, Buumi, and Tark in one with an unconscious jake and everyone else in the room next door.
+The group settled in for the evening — Cirrus, Buumi, and [[Tarkathee Daru]] in Jake's room with the unconscious bard, everyone else next door. Tark meditated. Cirrus disguised himself as a small wooden box in the corner. [[Horatio von Bumidere]] sat in the only chair, helmet on the floor, hammer across his lap.
 
-Tark begins to meditate, thinking about the previous few days.
+An hour passed. [[Fëanon Serinde]] had an idea and headed to the common room. [[Aliyah Faen Tlabbar]] followed for a drink. Below, Fëanon sought out the madam working from a booth — it took a worker physically crossing his path and redirecting him before the wizard noticed her. Patches watched from the bar, pipe lit, chuckling. She chatted with the orc bartender and learned the [[Fallen Tower Inn]] was one of the headquarters of the Dead Rats — the local thieves' guild run by the Rat King.
 
-An hour goes by uneventfully until Fey has an idea and heads down to the still bustling common room.
+Fëanon arranged for the largest, burliest orc available to be sent to Jake's room. Cirrus was growing increasingly nervous about the whole affair. When the massive orc — Grom — arrived, Buumi was made to answer the door. Grom noticed Jake unconscious and turned suspicious. Fëanon tried to put him to sleep — it failed. A heavier enchantment dropped the orc like a sack of potatoes. Fëanon's idea was to make the orc terrified and lure out the Meenlocks. Cirrus pointed out repeatedly that was not how Meenlocks worked. Fëanon shrugged.
 
-Patches follows close behind to go and get a drink.
+Patches and [[Gundren Rockseeker]] inspected the walls and discovered they were hollow — crawl spaces and passages used by the thieves' guild. They found release latches for panels and Patches began rigging the passages with tripwires and bombs. Fëanon explored the tunnels and encountered two guild enforcers. He put one to sleep before the other pressed a knife to his back. Patches appeared around the corner and scared the pair into cooperation. The enforcers retreated downstairs, relieved the group was acting in Jake's interest.
 
-Meanwhile, upstairs, Cirrus settles in to wait.  Appearing as a small wooden box in the corner of the room - unassuming and actually fairly stealthy.
+Hours dragged on. Gundren grew bored and headed to the bar, where he noted two figures enter — a shaved-headed, tattooed dwarf with a fiery red beard and black half-plate, and a tall, imposing half-orc woman with dreadlocks, small tusks, a spear, and large jars of sand strapped to her hips. They recognised Gundren and introduced themselves: [[Captain Dink]] Duwafu and Tara, working for [[Lady Faye]] of [[Baldur's Gate]]. Lady Faye was in port aboard The Bearded Lass II and wanted to see the group. Gundren agreed to relay the message.
 
-Buumi, in the same room, settles into the only chair and waits, his helmet on the ground next to him and his hammer laying across his lap.
+## Strigu
 
-Down below, Fey has stopped and looks across the common room, attempting to figure out the workings of the place and looking for a prostitute…it takes a worker actually crossing his path and directing him for the wizard to notice the madam working from a booth and Fey heads over awkwardly.
+Well past midnight. Cirrus's legs cramped in his box disguise. Tark sighed from his invisible perch atop the bookshelf. A cry of "Fire!" cut through the walls. Gundren saw smoke pouring from a door across the hall, flames expanding unnaturally fast. Patrons scrambled. Tark burst from hiding and saw a fire elemental take form in the inferno.
 
-Patches watches from the bar, sipping on a drink and lighting her pipe with a chuckle.  She chats with the bartender, a large Orc and exchanges some information.  And finds out that The Fallen Tower inn is one of the headquarters of The Dead Rats - the local Thieves guild ran by The Rat King.
+Below, the Dead Rats mobilised with practiced efficiency, distributing scrolls of water-jet to their members. In Jake's room, the group took defensive positions. Buumi kicked open the adjoining wall and carried Grom to safety, dropping him to the level below. Flashes and thumps erupted within the wall tunnels as Patches' traps detonated — four dazed and blinded Meenlocks surged forward. Patches, Fëanon, and Cirrus engaged, [[Gwen]] smashing through the wall to flank. The fae creatures were slaughtered in seconds, Helm's protective aura neutralising their fear.
 
-Fey chats with the Madam and her bodyguard and asks for the biggest, burliest Orc prostitute they have. 
+Tark and Gundren battled the fire elemental on the second floor while the guild's water-jet scrolls contained the blaze below. Buumi picked up Jake and headed for the door — eldritch blasts destroyed the floor beneath him and he, Jake, and Cirrus tumbled to the ground level. Cirrus prayed and Jake's snapping bones re-knit instantly. Cirrus slammed his staff down and raised a globe of invulnerability around the three of them. He locked eyes with a strange dwarf across the common room who was staring far too intently.
 
-The Madam obliges with a surprised smile and a raised eyebrow and says "Grom" will be sent up to his room.  Fey corrects her and has Grom sent to Jake's room instead.
+Patches and Gundren finished the fire elemental above. Below, the dwarf's eyes turned solid black. Cirrus recognised the disguised warlock and called it out. Guild enforcers fired bolts at the retreating creature as it rushed from the building into the night.
 
-Patches notes that two of the Guild enforcers are tipped off that something is happening with one of their members and leave the room, potentially to investigate the goings on with Jake.
+The party regrouped. [[Galen Marek]] arrived with seven crossbow-armed men. Fëanon scried and found the warlock circling the building to come in through the kitchens. Cirrus prayed to [[Selûne]], hoping to save the creature from [[Ceregorach]]. She answered. A glowing orb of moonlight appeared above them, flooding the inn with silver radiance. The guild members gasped. Patches felt her own connection to the moon goddess and summoned [[Eclipse]], her hair flowing with lustre.
 
-Fey heads back up to the rooms.
+Cirrus called out to the warlock in the kitchens, unable to turn from his victim at the Tooth Fairy's urging. He told it he had found redemption — that he had turned away from Ceregorach's lies, and it could too. [[Gwen]] dove into the kitchens, but Gundren felt a charm spell alter his disposition and called her off.
 
-Before too long, Grom, the Orc, arrives and knocks on the door.  Fey decides to make Buumi awkward and has him answer it, much to the irritation of Cirrus who is getting very nervous about the whole affair.
+Movement in the darkness. The crossbow-wielders aimed. Galen held up his hand.
 
-Grom enters the room much to the surprise of Buumi.
+Cirrus walked forward. Out of the shadows came a truly wretched creature. Pallid grey skin, stringy hair, emaciated limbs, jaundiced eyes too large for its skull. Its teeth were all fangs set in cracked lips — barely recognisable as a halfling. The creature — Strigu — looked up at Cirrus in his white robes.
 
-As the Orc notices Jake unconscious on the bed, he realizes something is up and turns to Fey, looking him in the eyes…a wave of sleep washes over the orc but he resists in and stumbles back.
+Cirrus held out a hand and Strigu took it. Cirrus asked Selûne for guidance. The orb winked out, leaving everyone blinking. He drew the creature in for a hug, which it accepted.
 
-Cursing, Fey casts a heavier enchantment on the Orc and Grom drops like a sack of potatoes.
+Patches circled, getting close.
 
-Questioning Fey, Buumi is concerned. Doubly so when Fey talks about making the poor Orc terrified to lure out the Meenlocks and the Warlock of Ceregorach.
+The creature's body tension snapped and it sank its fangs into Cirrus's neck. Cirrus held tighter. Gundren fired, tearing off one ear. Patches rushed in and severed its spine with Eclipse.
 
-Cirrus repeats several times that it does not work that way and Fey shrugs, thinking it was a good plan regardless.
+The body went limp. Cirrus laid it gently on the floor, blood and poison oozing from the bite wound. He reached into Strigu's mouth and found the jade tooth — the mark of Ceregorach — and ripped it free. He offered it to Selûne. The tooth crumbled to dust and blew away. A wave of satisfaction and sadness washed over him.
 
-Patches returns to the rooms and sees another unconscious form and shakes her head, sighing.
-
-Deciding to check the walls again, Patches and Gundren begin inspecting their respective rooms, finding gaps they can see through, they quickly determine that the walls themselves are hollow, with crawl spaces and passages for use by the Thieves guild for various activities.
-
-They find the release latches for panels and they slide open, revealing a passage between the adjoining rooms.
-
-Inspecting the tunnels, Patches notes they are well used and begins setting up trip-wires and bombs to better defend the rooms from the impending Warlock.
-
-The passages are too big for Gundren and Buumi so they decide to simply stay put, though Gundren looks through a peep-hole to check the other closest adjoining room and finds it occupied by a prostitute comforting an older man who is simply enjoying the company.
-
-Checking some of the tunnels while Patches rigs them with traps, Fey heads around a corner and sees ladders and poles for quick access between levels.
-
-Then, a form drops from the ceiling in front of him.  Fey puts the guild enforcer to sleep just in time for a second to drop and put a knife to his back, asking him what he had just done to Sned.
-
-Patches hears the slight commotion and gets into a position to help, but waits as Fey raises his hands and diffuses the situation.
-
-Fey explains the situation, that Sned is just asleep and nudges the man awake with a toe. Relieved, the other man pulls the knife back and listens to the explanation of what is happening.
-
-The man nods, accepting the plan and even remarking that he had been warned not to engage the group, relieved that they were doing something in the best interest of Jake.
-
-Patches steps around the corner, casually and scares the crap out of the two enforcers who mutter about "Drow".  The two men head back to their posts downstairs, and remark that they will inform their master and have backup waiting in case the Warlock attacks.
-
-Everyone returns to their positions to wait.
-
-The Hours draw on and Gundren gets bored, heading down to the bar for a drink.
-
-Despite the late hour, the common room still has several patrons and many guild members working.
-
-At the bar, Gundren notes two interesting characters enter; A Dwarf with a shaved head, tattoos and a fiery red beard, a battleaxe strapped to his back and wearing black half-plate armor.  With him is a tall and imposing Half-Orc woman with dreadlocks, small tusks, a spear and large jars of what appear to be sand and dirt strapped on her hips.
-
-Staring a bit, Gundren notes them look around the place until they spot him and he sees recognition in their eyes.
-
-The two beeline towards Gundren.
-
-Thinking to be polite for once, after all, it’s a Dwarf leading the way toward him, Gundren introduces himself and offers the two a drink, which is readily accepted.
-
-The two introduce themselves as Dink Duwafu and Tara. And they work for Lady Fay of Baldur's Gate.
-
-They have been sent looking for the group as Lady Fay is in port and wishes them to come and see her.
-
-Gundren remarks that he would be happy to relay the message.
-
-Dink is glad and gives the rest of the information - that they should go to the harbor the next day and row out to The Bearded Lass II, Dink's ship and where Lady Fay is staying.
-
-Dink and Tara head out, their task done and Gundren finishes at the bar and then heads back up to the second floor to stand guard with Gwen outside the room.
-
-**Strigu**
-
-Back in the room, Cirrus' legs are beginning to cramp.  Now well past midnight, they have all been waiting for hours.
-
-Tark sighs from his invisible position atop the bookshelf in Jake's room.
-
-Unable to take it any longer, Cirrus carefully slides under the bed to stretch out his legs.
-
-Just as Cirrus re-positions to get comfortable, a yell cuts through the walls of the place - the call of "Fire!"
-
-Gundren turns around, hearing the call and sees smoke wafting out from a door across from their room, near the stairs to the third level.  He sees a strong glow from under the door and then a torrent of flame surges out, expanding unnaturally fast.
-
-Patrons begin clearing out quickly, those trapped by the fire on the upper levels simply dropping down the 15ft from the level above to the one below, taking their chances with the fall rather than potentially burning to death.
-
-Tark bursts from his hiding place and sees a Fire Elemental take form in the inferno.
-
-Cursing his luck that he does not have his ring attuned, Tark leaps forward to engage the fiery creature.
-
-Down below, The Dead Rat Guild can be seen rushing around, mobilizing and handing out scrolls to specific people.
-
-In the room everyone prepares themselves, with Cirrus and Buumi both taking up defensive positions around Jake and Grom.
-
-Buumi kicks open the door to the adjoining room and carries out Grom, dropping him (as gently as possible) to the level below where he lands on a table, shattering it and waking with a pained yelp. Grom sees the fire and though confused, follows many other patrons out of the dangerous place.
-
-Flashes and thumps occur seconds later within the wall tunnels as Patches traps are triggered and four dazed and blinded Meenlocks surge forward.
-
-Patches engages, as does Fey and Cirrus with Gwen rushing to the adjoining room, smashing through the wall and flanks the attacking Fae creatures.
-
-In seconds, the group slaughters the terror inducing wretches and bolstered by the protective power of Helm, do so easily shaking off the fear auras of the little beasts.
-
-Across the floor, Tark battles the Fire Elemental with Gundren pumping shots into it.  The fire is spreading quickly but the Elemental is taking significant damage from the two. Tark gets singed but manages to avoid the worst of the flames.
-
-Down below, the Guild has organized and one by one, members with scrolls begin to read them off and then shoot a jet of water into the flames.  The inferno is quickly gotten under control and though still burning, it is fast shrinking from the gouts of water.
-
-Deciding to get Jake to safety, Buumi picks the lad up, holding him close to his chest and the shield in front  and heads to the door, the other group members following.
-
-Just as Buumi steps out onto the second floor ring, Eldritch blasts destroy the wood under his feet and he, Jake and Cirrus tumble to the ground.  Buumi tries to cushion the fall for Jake but he hears the snap of bone as they hit the floor.  Cirrus though prays to Selune to save this man and Jake's bones re-nit almost instantly.
-
-Cirrus stands up and slams his staff into the ground, creating a globe of invulnerability around Jake, Buumi and himself and he looks across the common room, locking eyes with a strange Dwarf staring intently.
-
-Up above, Patches comes out of the room aiming her pistol at the Fire elemental and lets off a hail of bullets though they seem to have a hard time effecting it.  Near death though, Tark and Gundren finish the creature off and send it back to the Plane of Fire.
-
-Down below, the too-intent Dwarf's eyes turn solid black and Cirrus' fear intensifies.  Realizing that the dwarf is the disguised warlock, Cirrus calls it out and a number of Enforcers fire bolts at the fast retreating creature.
-
-It rushes from the building and into the night.
-
-The party regroups on the ground level, Buumi taking Jake into a nearby room behind everyone.  The last of the flames are extinguished and Galen Marak joins the group with seven of his best men, all with crossbows at the ready.
-
-Thinking quickly, Fey enacts a Scrying and immediately spots the murdering warlock making its way around the building outside to come in through the kitchens.  Fey relays this information to the group.
-
-Praying to Selune, hoping to save this creature from Ceregorach and help it find redemption, Cirrus calls to his patron…and she answers.
-
-A glowing ball of energy appears above their heads, shining moonlight throughout the place and invigorating everyone.  The guild members gasp in awe and the place is flooded with the power of Selune.  Patches feels a direct connection as the moonlight of her own goddess washes over her and she summons Eclipse, her hair flowing and gaining luster.
-
-Cirrus calls out to the Warlock, knowing him to be in the kitchens, unable to turn away from his chosen victim at the urging of The Tooth Fairy.
-
-Cirrus tells him that he found redemption, that he turned away from the lies of Ceregorach and that he can too, he just needs to take the first step.
-
-Gwen dives into the darkened kitchens, but as she does, Gundren feels his demeanor change toward the murderer as a charm spell hits him and he calls Gwen off.
-
-With the glowing orb of moonlight though, it appears that Cirrus' words might have had an effect and they all see movement within the darkness.
-
-The crossbow wielders all take aim but Galen holds up his hand to stop them from shooting.
-
-Cirrus walks forwards.
-
-Out of the Darkness walks a truly wretched creature.  With pallid grey skin and stringy hair, emaciated limbs and jaundiced, massive eyes, it can barely be called a halfling.  The creatures teeth are all fangs set within large cracked lips and it looks up at Cirrus, resplendent in his white robes.
-
-Cirrus holds out a hand and the little creature takes it.  Cirrus reiterates that he can save him.  He asks Selune for guidance and the Orb winks out, leaving everyone blinking momentarily as their eyes adjust.
-
-Cirrus draws the creature in for a hug which it accepts.
-
-Untrusting, Patches circles, getting close and getting ready.
-
-As Cirrus holds the creature, its body tension snaps and it sinks its fangs into Cirrus' neck.  Cirrus simply holds tighter.
-
-Gundren fires, grazing its head and tearing off one ear and Patches rushes in and with a deft strike of Eclipse, severs its spine.
-
-The body goes limp in Cirrus' arms and he gently lays it down on the ground, blood and poison oozing from the bite wound.
-
-Looking down at the creature with sadness, Cirrus reaches into its mouth and finds the Jade tooth that he too has, the mark of Ceregorach and rips it from the little beast's skull.  Holding it in his hand, he offers it to Selune.  The tooth crumbles to dust and blows away and a sense of satisfaction and sadness washes over him.
-
-The group looks on, with Galen and his men remaining respectfully silent as the first of the Warlocks of Ceregorach are offered to Selune.
-
-
+Galen and his men stood in respectful silence. The first of the warlocks of Ceregorach had been offered to Selûne.

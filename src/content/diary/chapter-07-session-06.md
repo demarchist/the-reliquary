@@ -3,212 +3,88 @@ title: The Sanctum - Session 6
 chapter: 7
 chapterTitle: The Sanctum
 session: 6
+summary: "The group fights the Gauth and its beholder-kin in the Sanctum, deactivates the obelisk only to face an army of Orcus's fiendish Manes pouring through, escapes the self-destructing complex by flying from a balcony, and retrieves their sleigh from the Frost Giant village — receiving a silver brooch and directions to the Storm King."
 people:
   - "aegir"
   - "aliyah-faen-tlabbar"
   - "atropos"
   - "cirrus-al-kayan"
-  - "ella"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "hyrokken"
   - "ingrbotha"
-  - "intent"
   - "li-xian"
   - "madame-eva"
   - "megno-slatesunder"
   - "meljir"
   - "mervklo"
   - "orcus"
-  - "ront"
-  - "selune"
   - "tarkathee-daru"
 places:
   - "sanctum-of-krasus"
   - "shatterpeak"
 things:
   - "gwen"
+  - "thundercannon"
 ---
 
-**Fallout from the vision and a Short Rest**
+## Fallout and Rest
 
-Breathing heavily, and pretty beaten up the group looks around the crystal coated chamber and see no more enemies.
+Breathing heavily in the crystal-coated chamber, the group saw no more enemies. [[Horatio von Bumidere]] began a prayer of healing while [[Cirrus Al Kayan]] called upon [[Selûne]]. [[Megno Slatesunder]], shaken, asked what the hell they had just witnessed. The group gave him the short version — [[Atropos]], the elder evil, had escaped its prison, and what attacked them was a fragment of the Planet Born Dead. Megno went quiet.
 
-Relaxing a little, Buumi begins a prayer of healing and Cirrus begins to call upon Selune.
+They retreated downstairs to the experiment chamber for another short rest. [[Gwen]] stood guard while they discussed the vision. They knew it was dire. The celestials were trying to hold the thing back and failing. They did not know the timeline.
 
-Megno asks what the hell he just saw and the group gives him the quick version.  Rattled, Megno goes quiet for a bit, thinking about what just happened.
+Megno looked terrible — old and exhausted. Cirrus restored him and [[Tarkathee Daru]] with greater restoration, returning both to their proper ages. Megno remarked that even restored, he was getting too old for this sort of adventure. He patted the satchel bulging with recovered tomes and said he had a great deal of work ahead — but this might be his last expedition. Cirrus prayed and restored his own lost years.
 
-The Group heads downstairs and takes another short rest in same place as before, the chamber with the ruined experiment.
+They wrapped up quickly. Four and a half hours remained before the obelisk detonated.
 
-Gwen stands guard for the hour while they discuss that what they saw.  They know its dire and the thing that attacked them was from Atropos, they don’t know the timeline of its movements or when it might attack a world, but they saw the Celestials attempting to hold it back…and failing.
+## The Gauth
 
-Megno is not looking good and appears very tired and old.  He gets a Greater Restoration from Cirrus and so does Tark, both returning to their proper age.  Megno exclaims that even with the restoration, he's getting too old for these sorts of adventures, and while he's had a great time, this might be his last one.  He pats the satchel with many of the tomes recovered here and remarks he has a LOT of work to do anyways.
+[[Aliyah Faen Tlabbar]] led the descent, frost crunching underfoot. The library was undisturbed. They passed the ruined stone golems — everything as they had left it. At the double doors to the grand hall, Patches halted. Through the gap, she could see the Gauth squeezing through the door Gwen had shredded, a Spectator floating among the murals, and a tiny Gazer flitting near the ceiling.
 
-Cirrus prays to Selune and recovers his own life-force, returning to solid middle age.
+She ushered the group into the room where they had found [[Mervklo]]. While the others huddled to plan, Tark and [[Fëanon Serinde]] spotted the real Mervklo standing motionless against the back wall, looking surprised. Tark put a finger to his lips. The Berbalang turned invisible.
 
-Buumi doffs his armor and begins cleaning his wounds with a medicine kit as Tark goes around assisting others in applying salves and bandages.  Looking through the kits, one is almost spent.
+The plan was simple: Tark would carry the medallions to the obelisk, invisible, and deactivate the wards so the group could cast freely. Then they would kill the beholder-kin and leave.
 
-They wrap up the rest, putting armor back on, taking a quick drink of water and a few bits of food and decide to get the hell out of here before the place explodes in 4.5 hours.
+Tark took the medallions, turned invisible, and headed out with Patches trailing stealthily. Both made it through the grand hall without incident. Tark reached the obelisk and saw the shimmering wall of force. On the other side, scores of dark, obscured figures pressed against the barrier.
 
-**Heading to the Obelisk and the Gauth**
+He peered through a modulation in the field and glimpsed one clearly — a desiccated corpse with strange, rippling flesh. Horrified, he placed the medallions into the slots. Nothing happened. He remembered the diamond — the lightning gemstone they had removed from the back. He hurried to the group.
 
-The Group heads downstairs with Patches leading, descending the frost-coated spiral staircase uneventfully, breath coming out in heated plumes.
+On the return, the Gauth squeezed through the shredded door and its massive eye blinked open, washing the area with debilitating energy. Tark shook off the stun but stumbled, kicking debris. The Gauth, Spectator, and Gazer blanketed the area with eye beams. Rays lanced out, striking all around the nimble monk — one corroding the hinges of the double doors behind him. [[Gundren Rockseeker]]'s next two thundercannon shots blew away chunks of the Gauth's flesh. The group surged in.
 
-They make it to the library with no issues and head back down the stairway they used to get to the second floor, passing the ruined Stone Golems.  Everything seems as they have left it.
+Buumi and Tark dispatched the Spectator. The Gazer was vaporised by a firebolt. The Gauth broke line of sight and backed into a waiting Patches. She opened its soft underbelly in a flurry of stabs and it collapsed, innards spilling across the floor.
 
-Moving ahead, Patches looks through the double doors leading into the grand hall and stops suddenly, seeing a sliver of the Gauth up ahead through the ajar door and the far door that was shredded by Gwen.
+Then Tark told them about the barrier — and what was waiting on the other side.
 
-As she watches, she sees a spectator float out and begin moving around the grand hall, a tiny Gazer following a moment later.
+## The Army of the Dead
 
-Patches turns back to the group, ushering them into one of the nearby rooms to discuss the plan.
+The group debated. Megno insisted — if they could save the Sanctum from exploding, they should. They formed a plan. Tark would slot the diamond battery into the obelisk, invisible, then shadowstep to safety. Cirrus would throw up a wall of force to block half the horde. Patches would rig the hallway with traps, Gundren would grease the corridor, and the creatures would funnel toward the golden double doors bearing the radiant glyph — keyed to trigger on undead, fiends, and aberrations.
 
-The group enters the room that contained Mervklo looking over the book. Most of the group scans it quickly, seeing nothing and then huddle up to talk and plan.
+Everything was set. Tark slotted the gemstone and the wards dropped. A hundred silent creatures surged forward in a wave. Tark ducked and weaved through the stampede and shadowstepped clear. Cirrus's wall of force went up, splitting the horde.
 
-Tark and Fey look around a bit more intently and spot the real Mervklo for a second, standing motionless against the back wall and looking somewhat surprised.
+Fëanon created a devastating gravitational singularity that ripped thirty creatures apart — and caught the damaged obelisk in its pull. Massive chunks of obsidian crashed into the mass of fiends. Arcane energies flashed and spiked. The place was going to blow soon.
 
-Tark makes a "shushing" motion, putting a finger to his lips and doesn’t say anything to the group as he eyes Mervklo. The Berbalang quickly turns invisible.
+The horde surged into the first trap — a fireball that ignited Gundren's grease. Patches hurled her earring of fireballs next. The wave kept coming, trampling the fallen, and slammed into the second trap. Severely diminished, the survivors reached the group and engaged Buumi and Tark. Buumi recognised them — not undead but fiends. Manes of Thanatos, minions of [[Orcus]].
 
-The group decide to have Patches try and sneak by the Beholder Kin with Tark, who will turn invisible and carry the Medallions back to the Obelisk and deactivate the wards so everyone can cast their spells.  Then, with the defenses down, the group will attack and kill the Beholder-kin and then leave the sanctum.
+Someone attempted to dispel Cirrus's wall of force. It failed, but the implication was clear — an unseen spellcaster. Another thirty creatures rushed from behind the wrecked obelisk, and a cloudkill erupted in the group's midst. They retreated to the grand hall, the undead breaching the radiant ward on the golden doors — the glyph detonated in sickening radiance, catching ally and enemy alike.
 
-Tark takes the medallions, turns invisible and heads out of the room toward the front entrance of the Dungeon, Patches stealthily following.
+They slammed the doors. Fëanon could not teleport — the spell was not prepared. They remembered the balcony in one of the ancient bedrooms. Patches rigged an explosive on the inside of the doors, which burst inward moments later — and the bomb flattened dozens. Cirrus dropped sickening radiance. Fëanon summoned fiery magmin. The fiends kept coming.
 
-Both of them makes it through the main hall without issue.  The Spectator seemingly distracted by the murals and the little gazer flitting around the ceiling.  The Gauth can be heard talking to the Beholder in Deep Speech, though no one understands what is being  said.
+Cirrus cast fly on the strongest members. At the door, Tark spotted a hulking purple-skinned figure stepping into the grand hall — an Oni in flowing black robes. It gestured and a wave of necrotic energy exploded among them. Cirrus lost concentration. He told the group he was out of magic and needed a moment to pray.
 
-Tark hurries forward, checking for any changes since they were last in the area, but sees none.
+## The Flight and the Giants
 
-He approaches the obelisk and sees the shimmering field of energy, the wall of force trapping the group inside.
+As Buumi and Tark held the door, Cirrus pulled out his crescent-bladed scythe and prayed to Selûne. Two hulking undead in plate strode forward, wielding smoking shadow-axes that sapped Tark's strength with glancing blows. The monk saw the Oni turn and speak to someone unseen behind it.
 
-On the other side of the wall, he sees scores of dark, obscured figures.
+Tark conjured a wall of fire from his ring. Fëanon layered a barrier of ice. Cirrus finished his prayer — power flowed back. He cast two flight spells and the entire party began to float. They roped together and dove from the balcony window.
 
-Approaching tentatively, Tark peers through the barrier, attempting to make out details.
+Visibility was poor, ice crystals stinging their eyes. Tark led them down through the cloud cover until the snowy landscape opened beneath them. He spotted the great stair and touched down a quarter of the way up. They untied themselves, breathing heavily, and hurried down toward the Frost Giant village.
 
-Meanwhile Patches has approached from behind and notes the horde of figures as well.  She halts in the hall, waiting.
+The settlement was on alert — giants standing guard, armed. Cirrus's owl noted disturbed snow and red splashes of blood. A female giant came to meet them — [[Hyrokken]], the one who had raced Patches. The monstrous horde had come through the village, she told them, led by a small creature in red robes with a feminine voice. The party warned that a great war was coming and that the peak was probably going to explode.
 
-Tark peers through and during a modulation in the wall, gets a clear glimpse of one of the figures - a rotten, desiccated corpse with strange, rippling flesh.
+Hyrokken warned them not to enter the village — hospitality was fulfilled and some of the males might attack. She hurried back for the sleigh and to inform [[Aegir]] and [[Ingrbotha]].
 
-Horrified, Tark places all the medallions in the obelisk…but nothing happens, he looks around again and remembers the "battery", the lightning Gemstone they took from the back.  He turns and hurries back to the group, being stopped by Patches on the way who feels him pass (invisible and silent) and whisper about what they saw.  They both head back to the group.
+Ten minutes. Thunder and lightning rumbling above. [[Hyrokken]] and [[Meljir]] returned with the sleigh and moose. As the group climbed aboard, Meljir held out a token — a silver brooch of twisting, intricate design. Joining this battle was beyond the giants' right in the Ordening, she explained. The decision had to pass up the hierarchy. If the group wanted the giants on their side, they needed to petition the Storm King. The brooch would mark them as allies.
 
-Tark, still invisible, looks into the main hall.  The Spectator has moved and is looking at another mural, but the Gazer is still zipping around.
-
-Tark heads out, into the room and makes quick progress toward the door.
-
-Just as Tark nears the open door, he freezes and looks behind him, hearing a strange squishing sound.  Turning, Tark sees the Orb-like Gauth, all tentacles, teeth and eyeballs, squeezing through a door on the other side of the room.  The door Gwen had shredded.
-
-The creature squeezes through with a nasty squelching sound and It's massive eye blinks open. As it does, a cone of debilitating energy washes out from it and hits Tark.
-
-He shakes off the stunning energy but he stumbles slightly, knocking a foot against some debris.
-
-The Gauth, Spectator and Gazer all immediately come on alert and blanket the area they heard the noise with eye-beams.
-
-Rays of energy lance out, striking all about the area. Many come dangerously close, but the nimble monk avoids them all.  One such beam hits the doors behind the monk and the hinges visibly corrode.
-
-The double doors Tark was heading towards are blown off their hinges and Gundrens next two shots rip into the Gauth, blowing away chunks of flesh.  Having heard the commotion, the group rushes in to support their friend.
-
-Arcane spells are fired from down the hallway, the Gaze of the Gauth attempting to stun the group but to no effect.
-
-Buumi and Tark make quick work of the Spectator as the Paladin rushes out to engage.
-
-After being shot again by Gundren and seeing the Gazer instantly disintegrated by a firebolt, the Gauth moves away from the hall, breaking line of sight.  And backing up to a waiting Patches.
-
-Patches rushes in and in a flurry of stabs, opens the soft underbelly of the creature.  It falls to the ground, its innards spilling across the place.
-
-The battle over in moments, the group is then told about the barrier and what is waiting for them…
-
-**The Army of the Dead and the Oni**
-
- ​Hearing from Tark and Patches about what is waiting on the other side of the barrier, the group discusses what to do.
-
-They know they still have a few hours before being in any real danger but Megno is insistent that if they can save this place from exploding, they should.  The group agrees.
-
-They come up with a plan.
-
-Tark will head back to the Obelisk, invisible, and place the "battery" in the obelisk, lowering the Wards and then shadowstep back to safety.  When the creatures rush in, Cirrus will enact a Wall of Force across the back of the chamber, blocking half of the force from the cellar access but leaving the front entryway open.  Patches will have set up traps and Gundren will have greased the corridor and the group will let the enemy force rush down the hallway to the set of double doors that still has a Glyph ward on it.  The Glyph is triggered by undead, fiends or aberrations.  The group will then hold the door while spells and shots destroy the attacking horde.
-
-The group sets their plan into motion and the hallway leading to the double doors, flanked by large statues, is trapped and prepared.  Everyone takes their positions and Tark moves in to the obelisk with the large diamond.
-
-He slots the gemstone back into place and immediately the Wards drop.  A hundred silent undead creatures rush forwards in a wave.  Tark ducks and weaves and manages not to be trampled before shadowstepping back to the group.
-
-The wall of force from Cirrus goes up, separating half of the enemy horde.
-
-Fey reaches out with his will and creates a devastating singularity of gravitational forces that rips thirty of the creatures apart.  The singularity catches the damaged obelisk in the blast and rips it apart, massive chunks of obsidian crashing into the mass of undead.  As the obelisk shatters, arcane energies flash and spark and Fey and Megno both feel a rapid build in destructive energies.  The place is going to blow...soon.
-
-The horde surges forward, pulling itself from the gravitational field and stumbles into the first trap, which explodes in a fireball, setting the grease patch alight and destroying a handful of the creatures.  Patches throws her earring of Fireballs next and the small beetle zips through the air, detonating in a conflagration when it reaches the mass of enemies.  The wave keeps coming, stumbling and falling in the burning grease, but the ones behind simply stampede over their fallen companions...and into the second trap.
-
-Now severely diminished, the horde rushes to the group and engages with Buumi and Tark.
-
-Buumi realizes that these creatures, though they look like undead, are in fact fiends - Manes of Thanato, minions of Orcus.
-
-Cirrus feels someone attempt to dispel the wall of force, but it fails.  Alarmed, he realizes that there is an unseen spellcaster.
-
-Just when things seem to be going well, another thirty of the creatures rush around the corner by the wrecked obelisk and come charging.  More dire though, a spell goes off in the midst of the group from an unseen spellcaster and the area rapidly fills with caustic, choking fog.  A Cloudkill.
-
-The group retreats, backing up to the Grand Hall where they just fought the Gauth.  As they back up, the undead breach the Ward on the door and it detonates in a Sickening Radiance and the group is badly burned from the combination of Radiance and Cloudkill.
-
-Slamming the doors closed behind them and locking them, the group tumbles back from the devastating spells and takes quick stock of their options.  
-
-The group turns to Fey for a teleport circle, but he does not have it prepared.  They wrack their brains and remember a window and balcony nearby in one of the ancient bedrooms, they will head over there and hold the room.  If the fight becomes untenable, they will enact fly spells and leap from the window.
-
-The group retreats to the room while Patches rigs an explosive on the inside of the doors to the main chamber which have begun rattling under impacts from the horde.
-
-Patches rushes back to the group and not a moment too soon as the doors are broken inwards and the bomb goes off, flattening dozens of the creatures and shredding many.
-
-Cirrus drops a Sickening Radiance in the room and Fey summons four fiery Magmin just outside the chamber they are holed up in.  The fiends surge forwards, many being disintegrated by the radiance and crash into the fiery imps which are quickly overrun, but buy vital moments.
-
-Seeing the horde pressing in, Cirrus drops the concentration on the Radiance and enacts the Fly spell on the strongest group members so they can carry the others.
-
-At the front of the group, holding the door, Tark looks out to the main chamber and sees a hulking, purple skinned figure step into the room.  An Oni, in flowing black spellcaster robes.  The creature motions toward the group and a flash of dark energy erupts from its outstretched hand.  A wave of necrotic energy explodes in the middle of the group causing immense pain...and Cirrus loses his concentration on the fly spell. 
-
-Panicked, Cirrus tells the group that he is out of magic and cannot cast again, at least not right away, he needs a moment to concentrate and pray...
-
-**The Flight and the Giants**
-
-​As Buumi and Tark hold the door with assistance from Patches, Gundren and Fey, Cirrus pulls out his small crescent bladed scythe and concentrates, praying to Selune.
-
-As the smaller creatures are cut down, two hulking undead stride forwards, clad in plate and wielding smoking, shadowy axes.  They strike at Tark and though glancing blows, the magic deals horrible wounds and saps the strength from the poor monk.
-
-Tark sees the Oni turn and talk to someone behind it in the hall, but cannot hear or make out who.  Needing time and space, Tark and Buumi pull back and Tark calls upon his ring, enacting a wall of fire to encircle the attacking creatures.
-
-Fey then enacts a barrier of ice, further separating the group from harm.
-
-Cirrus finishes his prayer and feels his connection to Selune flow with power, reinvigorating him and giving him back his spellcasting energy.  Cirrus enacts two flight spells and the entire party begins to float.
-
-Not wasting any time they use some rope to tie themselves together and dive from the window, soaring out over the mountainside.
-
-Visibility is poor and ice crystals sting their eyes but they stay together, tethered.  Tark leads and after a few minutes of frigid descent, they break from the cloud cover, the snowy landscape vast beneath them.
-
-Not knowing how much time they have on the spell, Tark spots the great Stair the giants carved and beelines towards it, stopping a quarter of the way up from the start of the stair.
-
-The group touches down and they untie themselves, breathing heavily and taking a moment to warm themselves as best they can.
-
-Still worried about being followed and expecting the mountain top to explode at any moment, the group hurries down the Stair, reaching the snowy slopes above the Frost Giant village quickly.
-
-Up ahead, the group sees some commotion around the village, with several Giants apparently standing guard.  Patches pulls out her spyglass and indeed, she sees them on edge and armed.  
-
-Cirrus sends out his owl and as it flies overhead, it notes a great deal of disturbed snow and some red splashes of blood around the village.
-
-The group heads toward it and as they get close, one of the Giants comes out to meet them, the female giant Hyrokken (the one who raced Patches).
-
-They discover that the monstrous horde had come through the village, led by a small creature the size of Tark and wrapped in red robes, its face obscured. 
-
-It had a feminine voice.
-
-The party reiterates that a great war is coming and everyone needs to fight together and that the attack on their village was a part of it.  They also warn the Giantess that the peak is probably going to blow up soon...
-
-The group is warned not to come into the village as everyone is on edge and now that hospitality has been fulfilled some of the males might attack the small folk.
-
-Hyrokken heads back to the village quickly to get the groups Sled and tells Aegir and Ingrbotha of their warnings.
-
-Ten minutes go by, thunder and lightning rumbling ominously in the clouds above.
-
-Eventually, Hyrokken and Meljir return to the group, the sleek sled being pulled by the two Moose.
-
-The sled and gear is handed over and the group hops up, Megno taking the reigns.  
-
-Just as the group is about to leave, Meljir holds out a token, a silver brooch of twisting and intricate design.  
-
-She mentions that joining any battle like this is beyond their right in the Ordening.  The decision needs to go up the Giant Hierarchy.  
-
-If the group wants the Giants on their side, they need to take their case to The Storm King (Storm Giants) and that the brooch she is giving them will denote them as allies of the Giants.
-
-The group thanks her and head out, the sled whispering across the snowy slopes of Shatterpeak, heading back toward civilisation...
+Megno took the reins and the sleigh whispered across the snowy slopes of [[Shatterpeak]], heading back toward civilisation.

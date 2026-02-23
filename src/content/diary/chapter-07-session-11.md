@@ -10,6 +10,7 @@ people:
   - "doc"
   - "feanon-serinde"
   - "fen"
+  - "galen-marek"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "lodan"
@@ -26,6 +27,7 @@ places:
   - "waterdeep"
 things:
   - "gwen"
+  - "the-bearded-lass-ii"
 factions:
   - "amnians"
   - "drow-faction"

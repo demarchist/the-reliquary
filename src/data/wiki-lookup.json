@@ -394,6 +394,11 @@
     "title": "Captain Dink",
     "category": "People"
   },
+  "dink duwafu": {
+    "slug": "captain-dink",
+    "title": "Captain Dink",
+    "category": "People"
+  },
   "carp alderleaf": {
     "slug": "carp-alderleaf",
     "title": "Carp Alderleaf",
@@ -784,6 +789,16 @@
     "title": "Faerûn",
     "category": "Places"
   },
+  "fallen tower inn": {
+    "slug": "fallen-tower-inn",
+    "title": "Fallen Tower Inn",
+    "category": "Places"
+  },
+  "the fallen tower": {
+    "slug": "fallen-tower-inn",
+    "title": "Fallen Tower Inn",
+    "category": "Places"
+  },
   "fane of selune": {
     "slug": "fane-of-selune",
     "title": "Fane of Selune",
@@ -892,6 +907,16 @@
   "gabbock": {
     "slug": "gaddock",
     "title": "Gaddock",
+    "category": "People"
+  },
+  "galen marek": {
+    "slug": "galen-marek",
+    "title": "Galen Marek",
+    "category": "People"
+  },
+  "galen": {
+    "slug": "galen-marek",
+    "title": "Galen Marek",
     "category": "People"
   },
   "gauntlgrym": {
@@ -1183,6 +1208,11 @@
     "slug": "house-invincible",
     "title": "House Invincible",
     "category": "Places"
+  },
+  "hyrokken": {
+    "slug": "hyrokken",
+    "title": "Hyrokken",
+    "category": "People"
   },
   "iarno": {
     "slug": "iarno",
@@ -2274,6 +2304,16 @@
     "title": "Strahd Von Zarovich",
     "category": "People"
   },
+  "strigu": {
+    "slug": "strigu",
+    "title": "Strigu",
+    "category": "People"
+  },
+  "red grin killer": {
+    "slug": "strigu",
+    "title": "Strigu",
+    "category": "People"
+  },
   "sultan bashir": {
     "slug": "sultan-bashir",
     "title": "Sultan Bashir",
@@ -2364,6 +2404,21 @@
     "title": "Temple of Helm",
     "category": "Places"
   },
+  "the bearded lass ii": {
+    "slug": "the-bearded-lass-ii",
+    "title": "The Bearded Lass II",
+    "category": "Things"
+  },
+  "bearded lass ii": {
+    "slug": "the-bearded-lass-ii",
+    "title": "The Bearded Lass II",
+    "category": "Things"
+  },
+  "the bearded lass": {
+    "slug": "the-bearded-lass-ii",
+    "title": "The Bearded Lass II",
+    "category": "Things"
+  },
   "the bog": {
     "slug": "the-bog",
     "title": "The Bog",
@@ -2443,6 +2498,11 @@
     "slug": "the-last-word",
     "title": "The Last Word",
     "category": "Things"
+  },
+  "the long house": {
+    "slug": "the-long-house",
+    "title": "The Long House",
+    "category": "Places"
   },
   "the moonwood": {
     "slug": "the-moonwood",
