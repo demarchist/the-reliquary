@@ -15,6 +15,7 @@ people:
   - "the-black-arrow"
   - "themberchaud"
   - "vakuun-the-dreadblade"
+  - "ancalagon"
   - "vulkan"
   - "xuefang-the-adamant"
   - "zhengyi"
@@ -22,6 +23,7 @@ places:
   - "vaasa"
 factions:
   - "dragons-of-shou-lung"
+  - "thayans"
 ---
 
 The Dragonflight pauses to take stock. **Ares** roars somewhere ahead, but the Tornado behind them has kept suspicious pace — shepherding rather than following.
@@ -40,19 +42,19 @@ Already near the ground, the dragons make a decision. They will borrow Ares's el
 
 **Asha** shapeshifts into a small burrowing Molebear and pushes up to investigate.
 
-She surfaces amid an innumerable host of lesser undead, all prostrate and facing toward the epicenter. Two hundred feet above, hovering before the storm-wall, floats **Ares**. Two red-robed humanoids fly out to meet him from a vast Castle of black ice drifting above the ruins of a city at the Eye's center — the same ruins from their earlier scrying of **Themberchaud**. A sour voice echoes within the cylinder of the storm, chanting a dark ritual. The overwhelming scent of blood rises from the wreckage below. **Asha** returns to the others.
+She surfaces amid an innumerable host of lesser undead, all prostrate and facing toward the epicenter. Two hundred feet above, hovering before the storm-wall, floats **Ares**. Two Red Wizards of Thay fly out to meet him from a vast Castle of black ice drifting above the ruins of a city at the Eye's center — the same ruins from their earlier scrying of **Themberchaud**. A sour voice echoes within the cylinder of the storm, chanting a dark ritual. The overwhelming scent of blood rises from the wreckage below. **Asha** returns to the others.
 
 There is no subtlety left. They will strike hard and fast, pray that **Themberchaud** remains in the ruins, and reach him before the forces here can be properly marshalled.
 
 They erupt from the tundra directly beneath **Ares**, racing skyward. The Ancient Red is surprised by the angle — but not entirely unprepared. The two red-robed humanoids are knocked from the sky almost immediately, their life-saving contingency magics flashing as they absorb the brunt of the assault and vanish. Surrounding **Ares** high above the plain, the Dragonflight finally sees the full extent of what they have walked into.
 
-A Red Greatwyrm — easily the size of The Father — stands amid the ruins below, its claws resting against the prostrate neck of **Themberchaud**, simmering flames wreathing a gleaming gold exoskeleton. Several Efreeti float in attendance. Nearby, arranged in a ritual ring among the corpses, seven giant Oni raise their arms to the sky in chant, hundreds of humanoid bodyparts stacked before them in a slow, grotesque orbit. Where an eighth Oni should stand instead floats a monstrous abomination of grafted limbs, wielding dozens of Arcane Lances of varying scale. Lines of prisoners thread through the city under the watch of floating red-robed spellcasters, herded toward a vortex of blood and flesh that feeds the orbit of bodyparts around the Oni.
+A Red Greatwyrm — easily the size of The Father — stands amid the ruins below, its claws resting against the prostrate neck of **Themberchaud**, simmering flames wreathing Hollow Armor cast in gleaming gold. Several Efreeti float in attendance. Nearby, arranged in a ritual ring among the corpses, seven giant Oni raise their arms to the sky in chant, hundreds of humanoid bodyparts stacked before them in a slow, grotesque orbit. Where an eighth Oni should stand instead floats a monstrous abomination of grafted limbs, wielding dozens of Arcane Lances of varying scale. Lines of prisoners thread through the city under the watch of floating Red Wizards of Thay, herded toward a vortex of blood and flesh that feeds the orbit of bodyparts around the Oni.
 
 **Fellasin** moves first. A powerful domination spell finds purchase in **Ares**'s mind and holds. The Blue dragon pulls two pieces of intelligence from the Ancient Red's thoughts: the name **Zhengyi** — the Witch King — and the name of the Red Greatwyrm below: **Vulkan**.
 
-A new shape enters the sky — previously eclipsed by the Castle — a great golden Orb that begins to move, slowly at first. And from the west, an Ancient Black Dragon in the same exoskeleton as **Ares** descends through the clouds, changes course upon spotting the foreign dragons, and moves to intercept. **Vulkan** roars and leaps into the air in a blaze, streaking toward the Dragonflight with his Efreeti retinue.
+A new shape enters the sky — previously eclipsed by the Castle — a great golden Orb that begins to move, slowly at first. And from the west, **Ancalagon the Void** descends through the clouds clad in the same black Hollow Armor as **Ares**, changes course upon spotting the foreign dragons, and moves to intercept. **Vulkan** roars and leaps into the air in a blaze, streaking toward the Dragonflight with his Efreeti retinue.
 
-The ritual reaches its climax. A prisoner is lifted screaming from the city and shepherded by red-robed spellcasters up into the great Iron Bell at the Castle's highest tower. The Bell swings. The humanoid is obliterated in a spray of gore. Energy from the Bell focuses through the ritual and detonates around one of the Oni — all the orbiting bodyparts are drawn to it in a hideous burst, grafted to its flesh in an instant. The new abomination takes to the air, rising slowly toward the Dragonflight, Arcane Lances in its many hands.
+The ritual reaches its climax. A prisoner is lifted screaming from the city and shepherded by Red Wizards of Thay up into the great Iron Bell at the Castle's highest tower. The Bell swings. The humanoid is obliterated in a spray of gore. Energy from the Bell focuses through the ritual and detonates around one of the Oni — all the orbiting bodyparts are drawn to it in a hideous burst, grafted to its flesh in an instant. The new abomination takes to the air, rising slowly toward the Dragonflight, Arcane Lances in its many hands.
 
 A thundercrack — a Black Crystal Ziggurat tears into existence outside the city before being swallowed by a tornado, its tendril beginning to grow. Another crack. Another. More Ziggurats rip into view around them.
 

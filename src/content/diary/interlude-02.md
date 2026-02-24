@@ -14,31 +14,33 @@ people:
   - "the-black-arrow"
   - "themberchaud"
   - "vakuun-the-dreadblade"
-  - "vulcan"
+  - "vulkan"
   - "xuefang-the-adamant"
   - "zhengyi"
 places:
   - "vaasa"
   - "bloodstone-city"
+factions:
+  - "thayans"
 ---
 
 The dragons dive through the ash to attack.
 
 The Oni are monstrous specimens — extra limbs grafted from other humanoids, fearsome even by the standards of their kind. Against eight adult dragons, however, their bravado falters quickly. As the two at the entrance put up a brutal fight, devastating blasts of lightning lance out from the slopes of the volcano — a third Oni in hiding, firing an artillery piece. The shots find their marks and elicit roars of pain. The artillerist lines up another shot only for **Gzunteit** to foul the aim at the critical moment. The Oni are slaughtered in quick order, one attempting to flee in mist form before the end.
 
-As the fiendish bodies erode and decay, **Asha** rushes to one and speaks with the dead before it is gone. She learns that [[Themberchaud]] has been taken to *the Castle* by someone named **Vulcan**, acting on the bidding of [[Zhengyi]]. These names mean nothing to the foreign dragons — but the implication is clear. Something removed an Ancient Red Dragon from his own lair.
+As the fiendish bodies erode and decay, **Asha** rushes to one and speaks with the dead before it is gone. She learns that [[Themberchaud]] has been taken to *the Castle* by someone named **Vulkan**, acting on the bidding of [[Zhengyi]]. These names mean nothing to the foreign dragons — but the implication is clear. Something removed an Ancient Red Dragon from his own lair.
 
 The others sweep the area. Ashen White Dragon scales litter the slopes. The scent of another dragon hangs heavy in the air.
 
 **Fellasin** claims the lightning cannon as his own — a work of great artifice threaded with magical crystals and fabrial workings, clearly torn from a larger apparatus. He covets it immediately.
 
-Cautious now, the group scrys on Themberchaud. The vision comes: the battered, hulking form of an ancient and very overweight Red Dragon, lying among the desolation of a ruined humanoid settlement. Piles of bodies and bodyparts are stacked nearby. Above the still-breathing dragon, an iceberg of dark ice several hundred feet across floats two hundred feet in the air. Red-robed humanoids drift beneath it — pale, bald, with long trains of scarlet cloth flowing in intense winds, wands in hand, overseeing lines of prisoners. Among the dead below, great Oni tower over piles of bodyparts and raise their arms to the sky, ready to be anointed.
+Cautious now, the group scrys on Themberchaud. The vision comes: the battered, hulking form of an ancient and very overweight Red Dragon, lying among the desolation of a ruined humanoid settlement. Piles of bodies and bodyparts are stacked nearby. Above the still-breathing dragon, an iceberg of dark ice several hundred feet across floats two hundred feet in the air. Red Wizards of Thay drift beneath it — pale, bald, long trains of scarlet cloth flowing in intense winds, wands in hand, overseeing lines of prisoners. Among the dead below, great Oni tower over piles of bodyparts and raise their arms to the sky, ready to be anointed.
 
 The vision ends as a surge of power dispels the scrying.
 
 They move into the volcano.
 
-Winding through the dragon-sized crevasse, heat intensifying toward the heart of the mountain, the Dragonflight moves with stealth as noise filters through from ahead. They find the lair being ransacked by sickly, ashen White Dragons — an adult and four younglings — overseen by a gargantuan and unmistakably ancient Red Wyrm clad in a black exoskeleton of magical armor.
+Winding through the dragon-sized crevasse, heat intensifying toward the heart of the mountain, the Dragonflight moves with stealth as noise filters through from ahead. They find the lair being ransacked by sickly, ashen White Dragons — an adult and four younglings — overseen by a gargantuan and unmistakably ancient Red Wyrm clad in Hollow Armor — a black metal exoskeleton embedded with dark gemstones, the same Vecna-cursed artifice that enthralled a dragon in Al Askar.
 
 Floating near the great dragon's head is a ten-foot humanoid figure blazing with light and fire, dressed in finery, bedecked with gold, curved horns forming a small crown — an Efreeti Lord.
 
@@ -52,7 +54,7 @@ The Wyrm introduces himself as **Ares** — and is frankly shocked to find so ma
 
 Ares laughs. He is beholden to no god. He seeks his own power and his own salvation, and there is a place for any who would follow him in the new order.
 
-Suspicious, Vakuun casts Protection from Good and Evil upon the Ancient. For a brief moment a change comes over Ares — as if a charm were dispelled — before it returns, the power sweeping down from the north and focusing through the chestplate of the Wyrm's armor. A great gemstone is embedded there, pulsing with dark energy.
+Suspicious, Vakuun casts Protection from Good and Evil upon the Ancient. For a brief moment a change comes over Ares — as if a charm were dispelled — before it returns, the power sweeping down from the north and focusing through the chestplate of the Wyrm's armor. A great gemstone is embedded in the chestplate, pulsing with dark energy — the controlling focus of the Hollow Armor.
 
 Vakuun presses, insulting any who would abandon Tiamat. Ares bristles. The lava bubbles more urgently. Both parties understand the other to be hostile — and both understand that a proper battle here could be fatal to everyone. Ares has the individual power. The Dragons of Shou Lung have the numbers.
 
