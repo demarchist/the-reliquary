@@ -37,4 +37,12 @@ const wiki = defineCollection({
   }),
 });
 
-export const collections = { diary, wiki };
+const chapters = defineCollection({
+  loader: glob({ pattern: '*.md', base: './src/content/chapters' }),
+  schema: z.object({
+    chapter: z.number(),
+    summary: z.string(),
+  }),
+});
+
+export const collections = { diary, wiki, chapters };

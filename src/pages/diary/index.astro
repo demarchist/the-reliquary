@@ -5,6 +5,8 @@ import { getCollection } from 'astro:content';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const allEntries = await getCollection('diary');
+const allChapterMeta = await getCollection('chapters');
+const chapterSummaries = new Map(allChapterMeta.map(c => [c.data.chapter, c.data.summary]));
 
 // Sort by chapter then session
 allEntries.sort((a, b) => {
@@ -84,6 +86,9 @@ const hasOutline = chapters.size > 0;
           <h2 id={`chapter-${chapterNum}`} class="font-serif text-xl font-semibold text-ink-800 mb-3 pb-2 border-b border-parchment-200">
             Chapter {chapterNum}{chapter.title ? `: ${chapter.title}` : ''}
           </h2>
+          {chapterSummaries.has(chapterNum) && (
+            <p class="text-sm text-ink-500 italic mb-4 leading-relaxed">{chapterSummaries.get(chapterNum)}</p>
+          )}
           <div>
             {chapter.entries.map(entry => (
               <DiaryEntry
