@@ -3,346 +3,139 @@ title: "The Demon Lords - Sidequest!"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 3
+summary: "A bruised Aurinax arrived with counsel on the Artifact, Cercei, and the war, while Patches pushed plans for a high street and the group set out by Windwalk through Ravenloft to the Anauroch Desert — where the Bedine merchant Samid traded them the location of a Duergar-occupied Chardalyn mine."
 people:
-  - "aliyah-faen-tlabbar"
-  - "aurinax"
-  - "cercei"
-  - "cirrus-al-kayan"
-  - "claudine"
-  - "doc"
-  - "ella"
-  - "feanon-serinde"
-  - "gundren-rockseeker"
-  - "horatio-von-bumidere"
-  - "intent"
-  - "lady-faye"
-  - "lord-neverember"
-  - "megno-slatesunder"
-  - "peytr"
-  - "ront"
-  - "selune"
-  - "strahd-von-zarovich"
-  - "surtr"
-  - "tarkathee-daru"
-  - "theodemir"
-  - "thorna"
-  - "vaas-redblade"
-  - "val-tengu"
-  - "zhengyi"
+  - aliyah-faen-tlabbar
+  - aurinax
+  - cercei
+  - cirrus-al-kayan
+  - claudine
+  - doc
+  - ella
+  - feanon-serinde
+  - gundren-rockseeker
+  - horatio-von-bumidere
+  - intent
+  - lady-faye
+  - lord-neverember
+  - megno-slatesunder
+  - peytr
+  - ront
+  - selune
+  - strahd-von-zarovich
+  - surtr
+  - tarkathee-daru
+  - theodemir
+  - thorna
+  - vaas-redblade
+  - val-tengu
+  - zhengyi
 places:
-  - "amn"
-  - "anauroch"
-  - "castle-ravenloft"
-  - "daggerford"
-  - "fane-of-selune"
-  - "feanons-tower"
-  - "gracksuluth"
-  - "keep-of-thunder-bluff"
-  - "kossenberg"
-  - "neverwinter"
-  - "scornubel"
-  - "silverymoon"
-  - "sundabar"
-  - "underdark"
-  - "vaasa"
-  - "waterdeep"
+  - amn
+  - anauroch
+  - castle-ravenloft
+  - daggerford
+  - fane-of-selune
+  - feanons-tower
+  - gracksuluth
+  - keep-of-thunder-bluff
+  - kossenberg
+  - neverwinter
+  - scornubel
+  - silverymoon
+  - sundabar
+  - underdark
+  - vaasa
+  - waterdeep
 things:
-  - "chardalyn"
-  - "eclipse"
-  - "hew"
+  - chardalyn
+  - eclipse
+  - hew
 factions:
-  - "amnians"
-  - "bedine"
-  - "drow-faction"
-  - "duergar-faction"
-  - "netherese"
-  - "red-wizards-of-thay"
+  - amnians
+  - bedine
+  - drow-faction
+  - duergar-faction
+  - netherese
+  - red-wizards-of-thay
 ---
 
-Things I forgot to include:
+At the tavern that evening, the group mulled over what to do next.
 
-Fey Contacted the Abolethic Sovereignty.  They arrive in 4 days. 
+Training sat high on everyone's list. Letters went out to Li to summon masters from [[silverymoon|Silverymoon]], and they agreed to send their accumulated loot to the city's auction houses to fund it. They also discussed tracking down the [[chardalyn|Chardalyn]] mine lead that [[gundren-rockseeker|Gundren]] had received from Lady Faye. The Plain of Standing Stones was vast — like hunting a needle in a desert — but they resolved to narrow the search. The Dwarven miners were asked if they had ever heard of [[chardalyn|Chardalyn]]. They hadn't.
 
-Patches was the one to ask Aurinax to help Cercei and inquired about the Gem Dragons initially.
+[[cirrus-al-kayan|Cirrus]] had sent letters in another direction — to [[megno-slatesunder|Megno]] and [[lord-neverember|Dagult Neverember]] asking about the Plane of Standing Stones, though he received almost nothing useful back; the subject was too obscure. He also dispatched missives to [[neverwinter|Neverwinter]], [[sundabar|Sundabar]], and [[silverymoon|Silverymoon]] calling any worshippers of [[selune|Selune]] to the [[fane-of-selune|Fane]].
 
-Cirrus wrote to Megno and Dagult Neverember asking about the Plane of Standing Stones but got almost no information back, too obscure. 
+The group slept through the night, enjoying a much-needed respite from the horrors of the [[underdark|Underdark]].
 
-He also sent mail to Neverwinter, Sundabar and Silverymoon calling worshippers to the Fane.
+---
 
-The Alchemy shop is called ***Buy the Bottle***
+The following morning, [[feanon-serinde|Fey]] stopped by the dojo to check on Jin, the illusionist painter who had been caught by a sleep spell — he was up and about. Fey moved on to see [[doc|Doc]], who had a developing plan for transport to the [[anauroch|Anauroch]]. [[doc|Doc]] showed him a set of Druidic Prayer Beads he had begun carving. Fey noted they would do nicely.
 
-At the tavern, the group mulls over what to do.
+At nine in the morning, he received a sending from [[aurinax|Aurinax]], requesting permission to use his teleportation circle. Fey agreed and headed down to the platform.
 
-Training seems pretty high on everyone's lists and they begin to pen some requests for Li to send for Masters from Silverymoon.
+A flash of light, and the Dwarvish form of the gold dragon stepped from the singularity — badly bruised, one eye swollen, contusions dark on his face.
 
-Knowing tuition is expensive in the city, Fey suggests sending their loot to the auction houses to sell it off.
+Fey inquired about the war. It was going, but not well. [[scornubel|Scornubel]] was under siege in the Heartlands from Amnian and Tethyrian forces. The Thayans had been stopped at Sembia on the Sea of Fallen Stars, though no one had illusions they would be held there long. [[aurinax|Aurinax]] gestured to his injuries — he had been ferrying adventuring parties behind enemy lines at [[scornubel|Scornubel]] until the enemy got wise to it and he had tangled with a pair of White Dragons. The Chromatic Dragons were far too well represented on the enemy side; something was drawing them there.
 
-Everyone agrees and they prep a little trade caravan to head out in the morning with Li’s assistance.
+Fey offered the dragon a flight over to the town center. [[aurinax|Aurinax]] accepted, and Fey rode astride his neck as the dragon dove from the tower, swept out over the lake, and passed over the Fane. [[aurinax|Aurinax]] remarked with surprise on the [[eclipse|eclipse]].
 
-They also discuss tracking down the Chardalyn Mine lead that Gundren got from Lady Faye.
+---
 
-The Plain of Standing Stones is massive though and would be like looking for a needle in a haystack.
+[[aliyah-faen-tlabbar|Patches]] had woken early.
 
-The group decides to try and narrow down the search and go to the Dwarven miners as the group knows Sundabar sends out mining expeditions to the Anauroch Desert.
+Her first stop was the adjoining alchemist shop — *Buy the Bottle* — where she found [[claudine|Claudine]] and her daughter Marzeline in the midst of planning the storefront layout. Patches welcomed them, checked if they needed anything, and put in requests of her own: two Potions of Poison Resistance, a simple enough task for [[claudine|Claudine]], who sent Marzeline up to [[kossenberg|Kossenberg]] for ingredients.
 
-Alas though, Peb and his lads have never even heard of Chardalyn.
+Back in the tavern, Patches spotted Ivan Whitefingers, the baker, shuffling around the kitchen. A quick chat convinced her the man needed his own freestanding bakery. New Daggerford needed a proper high street. She headed up to [[keep-of-thunder-bluff|the keep]] to find Li, walked into her rooms, and nearly frightened the woman to death. Li's wife Elira rolled her eyes and went back to her book. Patches put in requests for a freestanding bakery, a tailor's shop, and a storefront for [[gundren-rockseeker|Gundren]]'s workshop. Li said she would look into it. As Patches left, she heard Elira say, clearly and with feeling, "That is *not* okay."
 
-The group sleeps through the night, enjoying their much needed respite from the horrors of the Underdark.
+Patches headed back down the path on Kitty — and saw a massive golden shape sweeping in from the northwest.
 
-Waking up the next day, the group goes about their daily rituals, awaiting the arrival of Aurinax.
+She rode hard for the town center.
 
-Fey stops by the Dojo to see if Jin the painter is doing ok after the sleep spell.  He finds out quickly that the man is up and about.
+---
 
-Fey continues on to see Doc B. and inquires about a budding plan.  Fey needs Chardalyn and he needs transportation to get to it.
+[[aurinax|Aurinax]] descended into New Daggerford to a rapturous welcome. Most citizens had never seen a Gold Dragon. He was warmly gregarious, greeting everyone and offering to speak further with any who wished, before shifting back to his Dwarf form and heading into Over the Moon to talk with the group.
 
-Doc agrees and shows Fey a set of Druidic Prayer Beads he has begun carving.
+The [[chardalyn|Chardalyn]] mines came up first. [[aurinax|Aurinax]] noted that searching the [[anauroch|Anauroch]] would be difficult but suggested starting with the [[bedine|Bedine]] — nomadic desert people who would know the ancient mines and ruins better than anyone. When a map was produced, he pointed to the Shadow Sea and the Bedine camps along its northern shore.
 
-Fey thinks they’re really swell.
+Then the group explained the demon situation in the [[underdark|Underdark]] — everything that had happened in [[gracksuluth|Gracksuluth]]. The dragon was appalled but trusted the group to sort it out.
 
-Around 9 am, Fey receives a sending from Aurinax, asking for permission to use his teleportation circle.
+The conversation turned to why [[aurinax|Aurinax]] had truly come: bad news. Protanther was no longer King of Justice. The new one was Tamarand, who lived in [[vaasa|Vaasa]] — right beside [[zhengyi|Zhengyi]], the Witch King. [[tarkathee-daru|Tark]] questioned the wisdom of bringing the Artifact anywhere near that place.
 
-Fey agrees and heads down to the platform to greet the arriving dragon.
+[[feanon-serinde|Fey]] stopped the discussion and asked his old master [[theodemir|Theodemir]], bound in the ring, about a spell called Sequester — a spell that could push an item or person slightly out of sync with time, rendering it invisible, undetectable, and in a state of suspended animation. Combining the Sundabar Vault's security with this spell on the Artifact should be more than sufficient. [[aurinax|Aurinax]] had never heard of it but agreed to research it in [[waterdeep|Waterdeep]]. He would also contact Protanther regardless.
 
-There’s a flash of light from the singularity and the Dwarvish form of the gold Dragon appears at the center of the circle.
+[[aliyah-faen-tlabbar|Patches]] — who had raised the subject initially — asked about [[cercei|Cercei]], the Black Dragon in the grove. [[aurinax|Aurinax]] was reluctant but heard out the situation. He confirmed there was good reason dragons were not artificially aged by magic — it was impossible without terrible side effects. As for fixing [[cercei|Cercei]], he sent to Protanther and received a fragment of information: Crystal Dragons, sometimes called Gem Wyrms, were said in legend to have originated from mortally wounded metallics or chromatics that had undergone transformation. It wasn't much, but it was a thread.
 
-Fey’Anon greets Aurinax heartily but trails off seeing the badly bruised face of the Dwarf.
+---
 
-Fey inquires about the state of the war.
+[[aurinax|Aurinax]] spent the rest of the day touring the barony. At the workshop, he and [[surtr|Surtr]] exchanged insults until the room temperature rose perceptibly; only the fact that both were guests of [[gundren-rockseeker|Gundren]] kept things from escalating. [[aurinax|Aurinax]] breathed on the Platinum-Gold alloy [[gundren-rockseeker|Gundren]] had prepared — some material vaporized in the blast, but a small pool of glowing metal remained. [[gundren-rockseeker|Gundren]] and his brothers poured it into a mold, saving the precious bar of Aurum for the Glacium Hammer they were forging for Thorna.
 
-It’s going okay, but not great.
+At the Druid Grove, [[aurinax|Aurinax]] went to see [[cercei|Cercei]], visibly uncomfortable but conceding that the hallowed ground of the grove was the best available option to hold back Tiamat's corruption. He promised further research and took his leave.
 
-Scornubel is under siege in the Hartlands from the Amnians and Tethyrians 
+The group bid him farewell. They would teleport to [[castle-ravenloft|Ravenloft Castle]], then Windwalk south to the Sea of Shadows and the Bedine camp. That evening, [[cirrus-al-kayan|Cirrus]] brought Jin the illusionist painter to his sanctum and commissioned a massive mural of his praise to [[selune|Selune]] across the wall.
 
-The Thayans have been stopped at Sembia on the sea of fallen stars, though no one has any illusion they will be stopped for long.
+---
 
-Aurinax gestures to the contusions and black bruises and mentions his recent role - ferrying adventuring parties behind enemy lines at Scornubel.
+The next morning, the group gathered their gifts and trade goods and assembled at [[feanons-tower|Fey's tower]] with supplies and two horses. They stepped through the teleportation ring.
 
-They got wise eventually and he tangled with a pair of White Dragons, causing his injuries.
+They found themselves in what felt like a lifetime ago: [[strahd-von-zarovich|Strahd]]'s study in [[castle-ravenloft|Ravenloft Castle]] — better lit than they remembered, and missing the horrible pall of dread that had once lay over the place. The fireplace crackled warmly. A glass of wine rested on a side table.
 
-He remarks that the enemy forces are far too well supported by Chromatic Dragons, something is drawing them to the enemy.
+[[doc|Doc]] wasted no time. He pulled out his pipe and puffed up a large cloud, swirled it around the group, and they were swept up by the Windwalk. The immaterial mass of them burst through the study doors past a set of armed guards about to head inside, swept up through the tower — past the chamber where they had fought [[peytr|Peytr]] and his vampires under the great crystal heart, where [[horatio-von-bumidere|Buumi]] had lost his arm and [[aliyah-faen-tlabbar|Patches]] had been possessed by her weapon — and broke into the open blue skies of the [[anauroch|Anauroch]] desert far above.
 
-Fey tells the Dragon that far more is going on than the dragon knows and that they should head to the town center.
+Looking back, [[castle-ravenloft|Ravenloft Castle]] was in far better shape than when they had last seen it: the majority fully repaired, one tower left floating seemingly by design, a veritable army of humanoids working across the walls. Just as the group sped away, a Blue Dragon descended to the castle gate, shifted into the form of an elf, and looked up at the departing shapes with confusion.
 
-Fey is offered a flight over there and the wizard graciously accepts.
+The group raced on.
 
-The dragon dives off the tower, Fey astride his neck and then sweeps out across the lake, passing over the impressive Fane.
+Hours of rapid travel swept brown expanses of rock and sand beneath them. As the sun began to dip, a mesa rose on the horizon, and at its edge great menhirs and obelisks stood in rows: the Plain of Standing Stones. As they rushed past, [[feanon-serinde|Fey]] felt magic radiating from some of the stones. Some of them were made of [[chardalyn|Chardalyn]].
 
-The Dragon remarks as the sun is eclipsed, surprised by the magic.
+Near the end of the Windwalk, the massive body of water came into view, surrounded on all but the north by mountains: the Sea of Shadow. On its northern shore, a vast camp of tents and yurts spread out — well over ten thousand people. Below, an elaborate salt-mining operation used the waters of the sea to distill salt.
 
-Patches meanwhile awakes early in Over the Moon and has a few things to take care of.
+The group landed just as the Windwalk expired, deposited on the outskirts of the Bedine camp. Armed guards rushed to intercept them — surprised but not drawing weapons. After a few minutes of [[tarkathee-daru|Tark]] introducing himself, a well-dressed man arrived from the tent city.
 
-First off, she visits her old friend Claudine in the adjoining alchemist shop.
+He was wrapped in cream-colored silks, with an ornate scimitar at one hip, a red headwrap, and a scarlet cloak. Middle-aged, with a wide-toothed grin and a bushy black moustache and beard — everything about him exuded wealth. He introduced himself as Samid, a Merchant of the Bedine, and welcomed them with a gesture toward a large, lavish tent.
 
-She enters the shop to find the two alchemists in the midst of floor-planning the store front.
+Inside, refreshments were served. [[aliyah-faen-tlabbar|Patches]] had never eaten dates before and chipped a tooth on a seed. The little serving girl panicked and fetched a root to chew on for the pain. The group set out their goods and negotiations began.
 
-Patches welcomes them and asks if they need anything, before making a few potion requests herself.
+After haggling, they agreed to trade some uncut gems, a horse, and one magic item for what Samid knew. He told them: the Plain of Standing Stones had been the heart of Netherese mining operations — riddled with ancient mines. But he thought he knew the specific one they were after. A week ago, a band of his traders had taken shelter from a sandstorm near A'Tar's Offering, a great obelisk to the Bedine sun goddess. During the storm, his traders had been attacked by Dark Dwarves. Where else would Duergar be in the desert, if not to mine something valuable?
 
-Claudine mentions it will probably be a few days before she’s really up and running, but if the requests are simple, she can whip them up with her basic kit.
-
-Patches asks for two Potions of Poison resistance - a simple enough task for Claudine and the Alchemist sends Marzeline up to Kossenberg for some ingredients.
-
-With that taken care of, Patches heads back into the Tavern and spots the baker - **Ivan Whitefingers** shuffling around the kitchen.
-
-Patches approaches and after a quick chat, decides the man needs his own freestanding bakery.
-
-Patches will make a high-street for new Daggerford.
-
-Needing a few new buildings, Patches heads up to the keep to talk to Li.
-
-Passing through the keep, she stops to marvel a little at Gundren’s workshop before continuing on.
-
-The rogue finds the woman’s rooms and simply walks in, entering the bedroom and almost killing Li with surprise.
-
-Elira, Li’s wife rolls her eyes and goes back to her book, clearly annoyed at the lack of personal space.
-
-Patches goes on to ask Li about setting up a free standing bakery shop, Tailors shop and a store front for Gundren’s workshop.
-
-Li says she will look into it and Patches then thanks her and leaves.
-
-As soon as Patches leaves Li’s rooms, Elira can be heard saying “that is NOT ok!”
-
-Patches heads out of the castle riding Kitty.
-
-As she begins to head down the path, she sees a massive golden dragon swooping in from the Northwest.
-
-She rides for the town center to meet him.
-
-
-The rest of the group gathers, along with the majority of the town.
-
-The average person has never seen a Gold Dragon and all are in awe of the legendary creature.
-
-Ever friendly, Aurinax greets everyone and offers a chance to talk later that day for anyone who wishes.
-
-He then shifts into his Golden Dwarf form and heads into Over the Moon to talk with the group.
-
-Gathering around the group discuss what to do.
-
-Gundren brings up the Chardalyn Mines in the nearby Anauroch desert.
-
-They need a break from the Underdark and Aurinax mentions that searching for those ancient mines will be tricky.
-
-Aurinax mentions that the Bedine of the desert might know of any ancient mines or ruins in the area.
-
-When a map is brought out, Aurinax points to the Shadow Sea, mentioning there are always Bedine camping on the northern shores.
-
-The group begins planning to go there later that day or the next.
-
-The group then goes on and explains the demon issue in the Underdark to Aurinax and what happened in Gracksuluth.
-
-The Dragon is appalled but trusts in the group to sort it out.
-
-Turning the conversation to the reason the Dragon is in the Barony, he brings up some bad news.
-
-Protanther is no longer King of Justice, the new one is Tamarand who lives much farther east - in Vaasa, right by Zhengyi.
-
-Tark questions the wisdom of taking the pieces so close to the Witch King and the group agrees.
-
-Aurinax offers to go to Protanther anyway for advice and the group starts to agree before Fey stops them.
-
-He remembers an old spell Theodemir once talked to him about and after asking his old master in the ring, says a name: Sequester.
-
-No one has heard of it, even Aurinax.
-
-Fey goes on to talk about pushing an item or person slightly out of sync with time, rendering it invisible, undetectable and in a state of suspended animation.
-
-Combining the Sundabar Vault’s security with this spell on the Artifact should be enough to keep is safe.
-
-It’s as good a plan as any and Aurinax says he will return to Waterdeep and look for anything about such a spell.
-
-After that, the group asks if there’s anything the Gold Dragon can do for Cercei.
-
-Aurinax is put off by the presence of a Black Dragon, but sucks it up and talks with them.
-
-He hears what happened and confirms that there’s a very good reason Dragons are not artificially aged by magic, it’s impossible to do without terrible side effects.
-
-The group implores him to find more information to help and he sighs and performs a sending to Protanther.
-
-Finishing, Aurinax mentions Crystal Dragons also known as Gem Wyrms; that in the legends, many of the original Crystal Dragons were changed or transformed from mortally wounded metallics or chromatics.
-
-It’s not much, but it’s at least a thread to pull on.
-
-Aurinax takes the rest of the day to tour the barony and talk with the citizens, much to their delight.
-
-Stopping by Gundren’s workshop, he hurls insults at Surtr and the Giant grumbles back.
-
-The only thing stopping the two throwing down then and there being that they are both guests of Gundren.
-
-Aurinax breathes on the Platinum-gold alloy prepared by Gundren the night before, some of the material is vaporized in the blast and only a small pool of glowing metal remains.
-
-Gunren and his brothers pour it into an ingot mold, saving the precious bar of **Arumn** for the creation of the Glacium Hammer he and his brothers are forging for Thorna.
-
-Aurinax heads around the rest of the Barony, loving the place.
-
-Getting to the Druid Grove, he goes in to see Cercei, the Black Dragon.
-
-He grows visibly uncomfortable but agrees that having her in the grove, on hallowed ground is as good as its going to get to stop the corruption of Tiamat.
-
-As for Crystal Dragons and fixing Cercei, he will have to do more research.
-
-Aurinax takes his leave and the group bids him farewell for now.
-
-The group turns in for the evening. 
-
-They plan on heading to the Anauroch Desert via Teleportation circle to Ravenloft Castle 
-
-Then Doc will Windwalk them down to the Sea of Shadows.
-
-Cirrus takes the evening to bring the Illusionist painter - Jin, to his sanctum and show him the Selune Art.
-
-He commissions the painter to do a massive mural across a wall and the painter agrees.
-
-
-The next morning, the group gathers their gifts and trade goods to take to the Bedine of the Anauroch in exchange for information on a Chardalyn Mine in the Plane of Standing Stones.
-
-The group take their supplies to Fey’s tower (including two horses) and head through the Teleportation ring.
-
-They find themselves in a place from what seems like a lifetime ago - Strahd’s Study in Ravenloft Castle.
-
-
-The place looks much as they left it, but better lit and missing that horrible pall of dread that once lay over the place.
-
-Indeed, the fireplace crackles warmly with a lit fire and a glass of wine rests on a table nearby.
-
-Wasting no time, Doc pulls out his massive pipe and begins puffing up a large cloud.
-
-He swirls it around the group and they are swept up by the Windwalk.
-
-The immaterial group bursts through the doors of the Study, past a set of heavily armed guards about to head into the room.
-
-The windwalk takes them up the tower where they battled Peytr and his Vampires with the great crystal heart above, past where Buumi lost his arm and Patches was possessed by her weapon, and up into the clear blue skies of the Anauroch desert.
-
-Far below, the castle is in much better shape than when they last saw it, with the majority of the castle fully repaired.
-
-Some pieces can still be seen magically floating - one entire tower seems to have been intentionally left this way.
-
-A veritable army of humanoids can be seen working all over the castle, though speeding away it is hard to make out specifics.
-
-Just as the group leaves, a Blue dragon flies down, landing at the Castle gate, hundreds of feet above the desert floor.
-
-The dragon shifts into the form of an elf and walks in, though he looks up at the departing party with confusion.
-
-
-The party races on, howling through the winds of the unforgiving Anauroch desert. 
-
-The expanse of windswept brown rock and sand stretches beneath them for hundreds of miles.
-
-After several hours of rapid travel, a mesa can be seen rising on the horizon.
-
-At its edge, several great menhirs and obelisks can be seen.
-
-The Plain of Standing Stones.
-
-The group rushes on past and as they do, Fey can feel magic radiating from some of the stones.  Some of them are made of Chardalyn.
-
-Rushing on, near to the end of the Windwalk enchantment and with the Sun beginning to dip on the horizon, the group sees the massive body of water surrounded by mountains on all but the northern side: The Sea of Shadow.
-
-At the northern shore they can see a massive camp of tents and yurts - the Nomadic Bedine.
-
-This camp is enormous, well over ten thousand people.
-
-As they head in, the group sees an elaborate salt mining operation, using the waters of the Sea of Shadows to distill salt.
-
-The group lands just as the Windwalk expires and an eclectic group of adventurers is deposited on the outskirts of the Bedine camp.
-
-Making no effort to hide themselves (save Patches who ducks behind Buumi to enact her ring) the group is quickly confronted by armed guards rushing to the site.
-
-Though surprised at a group of appearing adventurers, and shocked at the manner of arrival, the guards do not draw their weapons.
-
-After a few minutes of Tark introducing himself, a well dressed Bedine man arrives, walking out of the Tent city.
-
-Wrapped in cream colored silks, with an ornate scimitar belted on one hip a red head wrap and scarlet cloak, the man is dressed richly and exudes wealth. 
-
-He has a friendly face with a wide-toothed grin and a bushy black moustache and beard.  The middle-aged human introduces himself as Samid, a Merchant of the Bedine.
-
-He welcomes the group and the group mention they are here to trade for information.
-
-Samid smiles and ushers them toward a large and lavish looking tent.
-
-The group makes their way inside and enjoy some refreshments.
-
-Patches manages to chip a tooth on a Date seed as she had never had them before.
-
-The little serving girl panics and fetches a root for the Drow to chew on for the pain.
-
-The group parades out their goods and the negotiations begin.
-
-After some haggling, the group agrees to trade some of their uncut gems, a horse and one magic item for the information they are looking for: The location of a Chardalyn Mine.
-
-Samid tells them what he knows: The Plane of Standing Stones is riddled with ancient mines - this place was the heart of Netherese mining operations.
-
-Not to be discouraged, he goes on to mention that his people know of many ruins and potential locations, but he thinks he knows which one the group is looking for.
-
-A week ago a band of his traders went to take shelter from a sandstorm by **A’Tar’s Offering**, a great obelisk to the Sun Goddess of the Bedine.
-
-During the storm, his traders were attacked by Dark Dwarves.
-
-Why would the Duergar be in the area if not to mine something valuable.
-
-It could be that Gundren’s tip about a Chardalyn Mine is the same reason these Duergar are here.
-
-The group agrees to go and take a look and Samid shakes on the trade.
-
-Samid begins talking with Doc, heading out of the tent to point out star constellations as the sun sets, to direct the Druid toward the reported location of the Duergar.
-
-The group heads out of the trading tent and prepare to leave with another Windwalk spell as night truly begins to fall.
+The group shook on it. Samid and [[doc|Doc]] headed out into the cooling evening, the merchant pointing out star constellations to help the Druid navigate toward the reported location. The group prepared to leave again — another Windwalk, as night truly fell.

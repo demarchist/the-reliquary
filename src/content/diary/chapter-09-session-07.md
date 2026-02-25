@@ -1,221 +1,110 @@
 ---
-title: The Demon Lords - Interlude
+title: "The Demon Lords - Interlude"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 7
+summary: "A quiet day of recovery and uneasy diplomacy over the Quil'Sygoth sarcophagus ended with a hard-won dinner truce — which was immediately shattered when the Abolethic Sovereignty attacked New Daggerford in the rain and dragged civilians toward the lake."
 people:
-  - "aliyah-faen-tlabbar"
-  - "beryan"
-  - "cirrus-al-kayan"
-  - "claudine"
-  - "doc"
-  - "eilistraee"
-  - "feanon-serinde"
-  - "gundren-rockseeker"
-  - "horatio-von-bumidere"
-  - "intent"
-  - "madame-eva"
-  - "pickles"
-  - "selune"
-  - "sera-von-bumidere"
-  - "shar"
-  - "snorbul"
-  - "surtr"
-  - "tarkathee-daru"
-  - "thorna"
+  - aliyah-faen-tlabbar
+  - beryan
+  - cirrus-al-kayan
+  - claudine
+  - doc
+  - eilistraee
+  - feanon-serinde
+  - gundren-rockseeker
+  - horatio-von-bumidere
+  - intent
+  - madame-eva
+  - pickles
+  - selune
+  - sera-von-bumidere
+  - shar
+  - snorbul
+  - surtr
+  - tarkathee-daru
+  - thorna
 places:
-  - "astral-plane"
-  - "daggerford"
-  - "evermeet"
-  - "fane-of-selune"
-  - "feanons-tower"
-  - "kossenberg"
-  - "rockseeker-manufactory"
-  - "the-crossroads"
-  - "the-establishment"
+  - astral-plane
+  - daggerford
+  - evermeet
+  - fane-of-selune
+  - feanons-tower
+  - kossenberg
+  - rockseeker-manufactory
+  - the-crossroads
+  - the-establishment
 things:
-  - "chardalyn"
-  - "well-of-many-worlds"
+  - chardalyn
+  - well-of-many-worlds
 factions:
-  - "bedine"
+  - bedine
 ---
 
-Returned to the Barony, the group splits up.
+Back in the barony, the group scattered.
 
-Feanon heads down from his teleportation chamber to the floor of his tower containing the lab, the Sarcophagus and his waiting staff.
+[[feanon-serinde|Fey]] descended to his tower's laboratory floor — the sarcophagus was waiting, and so was his staff. [[aliyah-faen-tlabbar|Patches]] took Samid and Thorna to Over the Moon and set the Bedine merchant up in a good room while she penned letters. She sent missives to Lady Faye requesting contact with Lo'Dan and an archaeologist to run the barony's auction house. [[gundren-rockseeker|Gundren]] headed to [[rockseeker-manufactory|the Manufactory]] to see how his brothers and [[surtr|Surtr]] had managed in his absence. [[tarkathee-daru|Tark]] went with [[gundren-rockseeker|Gundren]] as far as the keep, then veered off to find [[horatio-von-bumidere|Buumi]], despite the late hour. [[doc|Doc]] returned to his grove. [[cirrus-al-kayan|Cirrus]] took a handful of [[chardalyn|Chardalyn]] chips to [[fane-of-selune|the Fane]] and began to commune with his goddess. [[snorbul|Snorbul]] headed to [[snorbuls-hole|his hole]] for a proper night's sleep.
 
-Patches heads to Over the Moon with Samid and Thorna, intent on penning some letters and setting the Bedine trader up in a nice room.
+In [[feanons-tower|Fey's tower]], the gathered wizards of the staff pored carefully over the sarcophagus and confirmed it was over ten thousand years old — a relic almost certainly of the Crown Wars. The sage [[beryan|Beryan]] dispatched messages to her colleagues on [[evermeet|Evermeet]], asking them to search for the names Abraxim, Halashnar, and Quil'Sygoth. Satisfied with the sages of [[evermeet|Evermeet]], [[feanon-serinde|Fey]] retired for the evening.
 
-Gundren heads to his Manufactory, intent to see how his brothers and Surtr have been doing with the work he left them.
+---
 
-Tark heads with Gundren, but veers off to find and talk to Buumi, despite the late hour.
+[[aliyah-faen-tlabbar|Patches]] descended to her sanctum beneath [[fane-of-selune|the Fane]] and arranged the large [[chardalyn|Chardalyn]] shard at the center of her altar, the smaller chips around it. She nodded in satisfaction and asked [[eilistraee|Eilistraee]] if she liked it. She received no response. She swore and went to bed.
 
-Doc B returns to his grove.
+High above in his own sanctum, [[cirrus-al-kayan|Cirrus]] had arranged his [[chardalyn|Chardalyn]] chips at his personal altar and proceeded to yodel his prayers, asking his goddess if she liked the offering. One chip glowed a soft white. Encouraged, he took out the [[well-of-many-worlds|Well of Many Worlds]] and cast it against the wall. It opened to [[astral-plane|the Astral Plane]] — a small village on a cluster of floating rocks amidst the Starry Sea. Not Ysgard. [[cirrus-al-kayan|Cirrus]] sighed and closed the portal. He asked [[selune|Selune]] if she wished him to visit her home plane. The light in the [[chardalyn|Chardalyn]] dimmed, then grew bright again after a few minutes. He took it as a negative — though an uncertain one — and spent the rest of the night in prayer.
 
-Cirrus takes a handful of Chardalyn chips and heads to his Fane to commune with his goddess.
+At [[rockseeker-manufactory|the Manufactory]], [[gundren-rockseeker|Gundren]] found his brothers had done fine work in his absence: six Amulets of Stealth, well-made and ready. Satisfied, he went to sleep.
 
-Snorbul heads to his mining hole for a good night's sleep.
+[[tarkathee-daru|Tark]] found [[horatio-von-bumidere|Buumi]]'s room in the keep and knocked. [[horatio-von-bumidere|Buumi]] woke and invited him in. Tark vented at length about the group's lies — [[feanon-serinde|Fey]] most particularly, and the dangerous thing he had brought back to the barony and lied about. [[horatio-von-bumidere|Buumi]] listened and consoled as best he could, noting that the group was doing real good in the world and were, genuinely, getting better. Tark agreed, half-heartedly. They resolved to visit [[feanon-serinde|Fey]] in the morning and make him come clean.
 
+Tark headed to his treehouse to feed the baby cave bear and spent the rest of the night thinking over the morality of the group.
 
-In Feanon’s tower, the wizards have all gathered and begin to pour over the sarcophagus (carefully), knowing full well the danger it represents.
+---
 
-They confirm that the Sarcophagus is over 10,000 years old and most likely a relic of The Crown Wars.
+In the morning, [[horatio-von-bumidere|Buumi]] and [[tarkathee-daru|Tark]] arrived at [[feanons-tower|the tower]] early. The lobby was deserted until a small winged creature raced upstairs followed in short order by a halfling — Gussiepe, still hunting the escaped Pugasis. After some banter, Buumi and Tark made it to the elevator and up to the laboratory.
 
-The libraries of Evermeet date that far back and the Sage Beryan sends to her colleagues to begin searching for the names: **Abraxim, Halashnar and Quil’Sygoth**.
+[[feanon-serinde|Fey]] welcomed them in and almost immediately began to apologize to [[tarkathee-daru|Tark]]. In short order he removed the cloth covering the sarcophagus and admitted to its presence without being asked. Taken slightly aback, [[horatio-von-bumidere|Buumi]] and [[tarkathee-daru|Tark]] pressed him to promise to kill the creature as soon as possible. He agreed. They resolved that the full group should sit down together over dinner to talk recent events through — trust was important, and they were running short of it.
 
-Confident in the sages of Evermeet, Feanon retires for the evening.
+---
 
+The group went about their day.
 
-Patches meanwhile has sent missives to Lady Fae asking for: Contact with Lo’Dan and an Archaeologist to run the Auction house in town.
+[[horatio-von-bumidere|Buumi]] stopped by the tavern for lunch with the Dragonborn knights and mentioned to [[aliyah-faen-tlabbar|Patches]] that they were heading to [[kossenberg|Kossenberg]] to be shown the local forest paths. [[aliyah-faen-tlabbar|Patches]] visited *Buy the Bottle*, where [[claudine|Claudine]] had finished and was ready to deliver six Potions of Poison Resistance. Patches then spoke to Marzeline, telling the girl she expected her to train with a sword. Marzeline was surprised but agreed — the Paladin recruits had recently invited her to train alongside them. Patches approved, but warned her about the Paladins' religion.
 
-She then heads to her sanctum beneath the Fane and sets up the large shard of Chardalyn she recovered at its center.
+The evening came in with a light storm, rain beginning to speckle the barony.
 
-She then arranges the chips around it.  Nodding in satisfaction, Patches asks if Elistraee likes it.
+[[gundren-rockseeker|Gundren]], [[tarkathee-daru|Tark]], [[aliyah-faen-tlabbar|Patches]], [[cirrus-al-kayan|Cirrus]], [[horatio-von-bumidere|Buumi]], and [[feanon-serinde|Fey]] gathered at Over the Moon for dinner. The establishment was fully stocked now — other patrons gave the group a respectful distance but filled the common room, the Dwarven basement particularly bustling. [[snorbul|Snorbul]] had dragged Thorna over to [[snorbuls-hole|the Hole]] and was talking her ear off about his plans for a subterranean gladiator pit.
 
-She gets no response, swears and leaves to go and rest.
+At the table, the group talked. [[feanon-serinde|Fey]] felt a little targeted, which was accurate. In short order they went over their grievances, found that talking helped, and finished the meal feeling cautiously better — [[feanon-serinde|Fey]] promising no more unilateral decisions that could harm the barony or its people.
 
+---
 
-Cirrus has done a similar thing high above in his own sanctum, having set up the Chardalyn chips at his personal altar.
+Then [[feanon-serinde|Fey]] felt something change in the weather outside.
 
-Cirrus then proceeds to yodel his prayers to his goddess, asking if she likes the offering.
+The storm was no longer natural.
 
-One of the chips glows a soft white. 
+He mentioned, almost casually, that an Aboleth might be visiting soon. Everyone at the table looked at him.
 
-Cirrus takes out the Well of Many Worlds and casts it against the wall.
+[[aliyah-faen-tlabbar|Patches]] sent [[pickles|Mr. Pickles]] down through the tunnels to her sanctum. Around the tavern, patrons began spitting out their drinks — fouled water suddenly tasting of brine and salt. [[horatio-von-bumidere|Buumi]] spat out a mouthful. [[feanon-serinde|Fey]] confirmed it: the presence of an Aboleth was fouling the water supply.
 
-It opens to the Astral Plane and gets a view of a small village on a cluster of floating rocks amidst the Starry Sea.
+[[pickles|Mr. Pickles]] returned, wide-eyed. The tunnel walls were coated in mucus.
 
-Sighing in frustration that it was not Ysgard, Cirrus closes the portal.
+The Abolethic Sovereignty had arrived.
 
-He asks if Selune wishes him to visit her in her home Plane.
+A man stumbled through the front doors, a coral barb protruding from his chest, the flesh around it dissolving. The tavern fell into horrified silence. The group moved immediately — shepherding civilians down into the safety of the basement. [[gundren-rockseeker|Gundren]] and [[feanon-serinde|Fey]] rushed upstairs and took positions at the second-floor windows, looking out across the Crossroads of New Daggerford. [[tarkathee-daru|Tark]] cracked the front door and a coral lance immediately pierced it, rapidly dissolving a hole through the wood.
 
-The light in the Chardalyn dims, before growing bright again after a few minutes.
+They looked out into the lightning-lit rain. The shooter was adhered to the side of a building across the way — a pale, octopus-like creature wielding a coral lance. Fish-like humanoids splashed through the mud of the streets. In the distance, houses were broken into and the new civilians of New Daggerford screamed as piscine monsters tore them from their beds.
 
-Cirrus is a little distraught by this, taking it as a negative to his question.
+A small army of the creatures rushed toward the tavern.
 
-He spends the rest of his night in prayer.
+The group stepped out to meet them.
 
+Gunfire and spells rained from the second floor. [[aliyah-faen-tlabbar|Patches]] sniped with her crossbow. [[horatio-von-bumidere|Buumi]] and [[tarkathee-daru|Tark]] rushed forward to engage in melee. [[cirrus-al-kayan|Cirrus]] loosed Eldritch blasts. The sea-folk fell rapidly — the pale lance-wielder dying first in a shower of ichor. Then [[cirrus-al-kayan|Cirrus]] called to his goddess, the air tore open, a globe of silver light appeared and boiled away, and a flaming Seraphim stood in the rain. The celestial laid waste to everything before it.
 
-Gundren and his brothers have done fine work back at the Manufactory, they have produced 6 amulets of stealth.
+In moments, the forward ranks of the Sovereignty had been annihilated.
 
-Satisfied with his work, Gundren then goes to sleep.
+But the back ranks were already gone — retreating with their prisoners into the swaying trees of the dark forest, pale forms disappearing through the rain toward the lake.
 
+Thunder rumbled. The wind howled. Lightning flashed.
 
-Tark heads through the Chapel of Helm, crossing the raised platform beneath the stained glass dome.
-
-At the center of the raised platform, a golden plate is embedded into the floor, depicting the watchful eye of helm.
-
-Tark heads on, finding Buumi’s somewhat austere room.
-
-Knocking at the door, Buumi wakes and invites his troubled friend inside.
-
-Tark proceeds to vent to Buumi about the group and their lies and that he thinks Feanon brought a dangerous evil back to the Barony and is lying about it.
-
-Buumi listens and does his best to console his friend, mentioning that he is hoping to guide them toward righteousness over time and that they ARE doing good in the world AND getting better.
-
-Tark agrees half-heartedly not really buying it.
-
-The two of them decide to visit Feanon in the morning and make him come clean.
-
-Tark heads to his treehouse to feed the baby Cave-bear, he spends the evening thinking over the morality of the group.
-
-
-The next morning, Feanon is visited by his friends Buumi and Tark
-
-They arrive early, coming into the foyer of the tower and finding it deserted, until a small flying creature races upstairs followed in short order by a halfling.
-
-After some banter, they make it to the elevator with access badges and head up to the laboratory to meet Feanon, leaving Guiseppe to hunt the Pugasis.
-
-Feanon welcomes them into his lab and almost immediately begins to apologize to Tark.
-
-In short order, he also takes the cloth covering off of the sarcophagus and admits to its presence.
-
-A little taken aback, Buumi and Tark have Feanon promise to kill the creature as soon as possible.
-
-He agrees.
-
-They still decide that they should all sit down over dinner and talk the recent events through.  Trust is important.
-
-The group goes about their day, praying, crafting and contacting friends.
-
-Buumi stops by the tavern for lunch  with the Dragonborn knights, he mentions to Patches they are heading to Kossenberg to be shown the local pathways through the forest.
-
-Patches visits Claudine who finishes and delivers 6x potions of poison resistance.
-
-She talks to Marzeline, telling the girl that she expects her to train in the sword.
-
-Marzeline is surprised but agrees, saying she will go with the Paladin recruits to train (they asked her recently).
-
-Patches agrees, but warns her of  the Paladins religion.
-
-The evening rolls around with a light storm blowing in and beginning to sprinkle the area with water.
-
-Gundren, Tark, Patches, Cirrus, Buumi and Feanon all meet at Over the Moon for Dinner.
-
-They dine extensively, the establishment now fully stocked with food and drink.
-
-Other patrons give the group a respectful distance, but dine in the establishment too, the Dwarven basement being particularly bustling.
-
-Snorbul meanwhile has dragged Thorna over to the “Hole” and is proceeding to talk her ear off about his plans for a subterranean Gladiator pit.
-
-Back at the Tavern, the group discusses recent events and Feanon feels a little targeted.
-
-In short order, the group goes over their issues and find that talking about it helps.
-
-They go back to their food feeling a little better about thing with Feanon promising no more unilateral action if it could harm the group or those living in the Barony.
-
-The storm outside grows more intense and Feanon feels that it is no longer natural.
-
-Feanon mentions that an Aboleth might be visiting soon.
-
-Everyone at the table looks at him flabbergasted.
-
-Patches sends Mr. Pickles into the tunnels to head out to her Sanctum. 
-
-Around the Tavern, patrons begin to spit fouled water and in short order Buumi spits his drink out.
-
-Fea confirms the presence of the Aboleth is fouling the water.
-
-Down below, Mr Pickles stares at the mucus covered tunnel walls he has found.
-
-He returns to Patches to tell her and It confirms it for Fea, The Abolethic Sovereignty has arrived.
-
-A man stumbles in from the rain, a coral barb protruding from his chest as the flesh around it dissolves.
-
-People look in horror as the man’s torso is dissolved.
-
-The group  scrambles into action, quickly shepherding the civilians into the safety of the basement.
-
-Gundren rushes upstairs with Fea, taking position on the second floor and looking out across the Crossroads of New Daggerford.
-
-Tark peeks out the door and another Coral lance pierces it, quickly dissolving a hole.
-
-They peer out into the night and spot the shooter
-
-The strange creature is adhered to the side of a building, wielding a Coral Lance.
-
-Another barb sails in from the lance and Tark catches it, throwing it aside as it vomits out a line of acid.
-
-Out in the rain, lightning illuminating the scene, fish-like humanoids splash through the mud.
-
-In the distance, houses are broken into and the new civilians of New Daggerford scream as piscine monsters tear them from their beds.
-
-A small army of the creatures rush forwards toward the tavern.
-
-The group steps out to meet them.
-
-Gunfire and spells rain from the second floor and Patches snipes with her crossbow.
-
-Buumi rushes forward with Tark to engage in melee and Cirrus begins to lash out with Eldritch blasts.
-
-The sea-folk begin to fall rapidly, with the pale, octopus-like creature with the lance dying first in a shower of ichor.
-
-Cirrus calls to his goddess and the air tears, a globe of silver light hanging in the air before boiling away leaving a flaming celestial in its place.
-
-The Seraphim quickly lays waste to all before it.
-
-In a matter of moments, the raid has been completely stalled with the forward ranks getting annihilated.
-
-The back ranks however have already begun to retreat with their prisoners and the group can see the pale forms through the rain disappearing into the swaying trees of the dark forest.
-
-Thunder rumbles, the wind howls and lightning flashes as the Sovereignty drags the civilians toward the lake…
+The Abolethic Sovereignty dragged the civilians of New Daggerford toward the water.

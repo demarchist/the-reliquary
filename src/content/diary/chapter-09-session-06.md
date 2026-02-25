@@ -1,247 +1,130 @@
 ---
-title: The Demon Lords - Quil’Sygoth
+title: "The Demon Lords - Quil'Sygoth"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 6
+summary: "The group battled the endlessly regenerating Quil'Sygoth, uncovered the ancient history of Abraxim and Halashnar in the ruins beneath the mine, and returned to the barony with Samid in tow — though not before a furious confrontation with Feanon over the sarcophagus he had secretly teleported away."
 people:
-  - "aliyah-faen-tlabbar"
-  - "cirrus-al-kayan"
-  - "doc"
-  - "feanon-serinde"
-  - "gundren-rockseeker"
-  - "intent"
-  - "lolth"
-  - "madame-eva"
-  - "ront"
-  - "shar"
-  - "snorbul"
-  - "tarkathee-daru"
-  - "thorna"
-  - "veygar"
+  - aliyah-faen-tlabbar
+  - cirrus-al-kayan
+  - doc
+  - feanon-serinde
+  - gundren-rockseeker
+  - intent
+  - lolth
+  - madame-eva
+  - ront
+  - shar
+  - snorbul
+  - tarkathee-daru
+  - thorna
+  - veygar
 places:
-  - "abyss"
-  - "snorbuls-hole"
+  - abyss
+  - snorbuls-hole
 things:
-  - "chardalyn"
-  - "gwen"
-  - "tavern-of-doors"
-  - "thundercannon"
-  - "well-of-many-worlds"
+  - chardalyn
+  - gwen
+  - tavern-of-doors
+  - thundercannon
+  - well-of-many-worlds
 factions:
-  - "bedine"
-  - "drow-faction"
-  - "duergar-faction"
-  - "illithid-faction"
+  - bedine
+  - drow-faction
+  - duergar-faction
+  - illithid-faction
 ---
 
-The Wormlike beast slithers forward, assaulting the nearby Duergar.
+The worm-like creature slithered forward and fell on the nearby Duergar.
 
-It belches a great gout of acid across the Dark Dwarves and the Duergar scream in pain.
+It belched a great gout of acid across the dark dwarves and they screamed in pain. One by one, the psionically stunned were roped by tendrils and drawn into the gaping maws of one of the creature's three heads. Each Duergar was consumed, and the group watched in disgust as the bodies slid down the translucent throats.
 
-One by one, the psionically stunned Duergar are roped by tendrils and brought into the gaping maws of one of the three “heads” of the thing.
+The group leapt into action. [[tarkathee-daru|Tark]] and [[cirrus-al-kayan|Cirrus]] joined the battle as a badly injured [[snorbul|Snorbul]] and overwhelmed Thorna fell back — Thorna keeping watch over the unconscious Deep Gnome. [[aliyah-faen-tlabbar|Patches]] circled wide, gauging the creature, denying it any clear shot for its acid belch or psionic blast.
 
-Each Duergar is consumed and the group watches in disgust as the bodies can be seen sliding down the translucent throats.
+She tossed a fireball into it as [[gundren-rockseeker|Gundren]] and [[feanon-serinde|Fey]] fell back in a leapfrog pattern, laying down fire. Firebolts hissed into the mucus-covered hide and [[thundercannon|Thundercannon]] shells exploded against it. [[cirrus-al-kayan|Cirrus]] released a sustained barrage of Eldritch blasts and threw down a Wall of Fire.
 
-The group leaps into action with Tark and Cirrus joining the battle as a badly injured Snorbul and overwhelmed Thorna back off (Thorna attending to the Deep Gnome).
+The creature was newly awoken and energized. It vomited another deluge of acid, this time ejecting the Duergar it had consumed — hurling the bodies at the group. They landed in pools of oozing acid and rose, changed and malformed, and attacked.
 
-Patches circles wide, trying to guage the beast and not provide it any clear shots for its acid belch or Psionic blast.
+[[tarkathee-daru|Tark]] got behind the creature and began striking, only to be seized in a telekinetic grip and crushed. [[cirrus-al-kayan|Cirrus]] thrust his Abyssal Fork into the beast — a flash of light, and the creature was plane-shifted to [[abyss|the Abyss]].
 
-She tosses a fireball at it as Gundren begins to fall back, leapfrogging with Feanon and laying down fire.
+The group breathed.
 
-Firebolts hiss into its mucus covered hide and Thundercannon shells explode against it.
+Then a flash of light, a rush of displaced air, and the creature reappeared. It had plane-shifted itself back.
 
-Cirrus begins to release eldritch blasts and a Wall of fire is thrown down to burn the creature.
+[[cirrus-al-kayan|Cirrus]] stared. Tentacles lashed out, binding him, and both the Warlock and the Monk were enveloped and drawn into the creature's body. [[doc|Doc]] called on the earth in desperation and great pillars of stone erupted from the ground, hammering the worm.
 
-The assault from the group is intense, but the beast is newly awoken and energized.
+As the fight raged, a melodic voice sounded in the group's minds — warm and intimate, extending an invitation to *join Quil'Sygoth and the family of Halashnar*. The names meant nothing to most of them. But [[feanon-serinde|Fey]] recognized something that had been nagging at him: the creature reeked of Illithid brine pools. He was uncertain of the exact connection, but certain that this worm was related to the Mindflayers.
 
-It vomits another deluge of acid, but this time the recently consumed Duergar are ejected and hurled at the group.
+Still burning in the Wall of Fire with two prey in its belly, the worm levitated upward and undulated away from the flames, drifting like some vast aerial eel.
 
-They land in puddles of oozing acid and begin to rise, changed and malformed.
+[[aliyah-faen-tlabbar|Patches]] attempted a Faerie Fire — the creature's inherent magic resistance shrugged it off. Frustrated, she loosed a Ring of Fire instead, which dispelled a nearby Duergar's invisibility. She rushed the Duergar, paralyzed him, and hogtied him.
 
-The mutated Duergar attack.
+Within the creature, [[cirrus-al-kayan|Cirrus]] was forced to invoke the Tomb of Levisticus to halt his digestion. [[tarkathee-daru|Tark]] drew two poisoned daggers and began cutting at the esophagus holding him. The worm vomited him out as he hacked at its insides. Outside, [[gundren-rockseeker|Gundren]], [[feanon-serinde|Fey]], [[doc|Doc]], [[aliyah-faen-tlabbar|Patches]], and [[gwen|Gwen]] focused fire on each of the three heads. The heads died — and quickly regenerated. The creature was not truly dying.
 
-Tark gets behind the creature and begins to assault it, only to then be caught in a Telekenetic grip and crushed.
+[[tarkathee-daru|Tark]] understood. He pulled himself clear of the creature and waited.
 
-Cirrus thrusts his Abyssal Fork into the creature and with a flash of light, the creature is plane-shifted to the abyss.
+With some semblance of intelligence, the creature attempted to flee. The group refused to let it. [[gundren-rockseeker|Gundren]] blasted away, destroying two heads, and gave [[tarkathee-daru|Tark]] the opening he had been waiting for. The Monk leapt at the last injured head, drove a fist into its flesh, and immediately leapt to the main body. The final blow ruptured its abdomen. The creature crashed dead to the ground, spilling its belly contents across the cavern floor in a reek of viscera and salt brine.
 
-A few seconds goes by and the group breathes a sigh of relief.
+From inside spilled a dozen mutated corpses — more lithe than the changed Duergar.
 
-No sooner have they done so then another flash of light and rush of displaced air alerts them and the beast re-appears.
+A few seconds passed.
 
-It Plane-shifted itself back...
+The creature stirred.
 
-Cirrus is shocked and struggles as tentacles reach out to bind him and he too is restrained.
+The group surrounded it and killed it again. A few more moments and it stirred again. They held position and kept suppressing its regeneration, but they were at a loss. *Why won't it die?*
 
-The Warlock and Monk struggle but are enveloped by the creature as it tries to devour them.
+---
 
-Seeing his friends in danger, Doc B calls to the earth and great pillars of stone erupt from the ground to smash at the worm-creature.
+[[aliyah-faen-tlabbar|Patches]] returned with her prisoner. A quick interrogation produced nothing useful — the Duergar had known nothing of this creature; they had only been here for the [[chardalyn|Chardalyn]] deposits. The group read the letter they had taken earlier: it confirmed the intent to mine [[chardalyn|Chardalyn]], and mentioned *another mine far to the north, past the Spine of the World and near the Lost City of Snow*. None of the party knew specifics, but Icewind Dale came to mind — and with it, more Duergar miners of Clan Sunblight.
 
-As all this is happening, the group hears the worms melodic voice in their heads, begging them to join “Quil’Sygoth and the family of Halashnar”.
+[[gundren-rockseeker|Gundren]]'s cannon continued to belch fire. [[gwen|Gwen]]'s claws raked. [[feanon-serinde|Fey]] had the group haul the sarcophagus closer and began to examine it as [[aliyah-faen-tlabbar|Patches]] and [[gundren-rockseeker|Gundren]] sifted through the remains spilled from the creature's belly.
 
-The names mean nothing to the group, but Feanon recognizes something familiar about the creature.
+Among the changed corpses were things that had once been elves — long, long ago. Mixed among them were several magical items: a [[well-of-many-worlds|Well of Many Worlds]], Dust of Dryness, a healing potion, Dust of Disappearance, and a beautiful, supremely sharp elven blade.
 
-It reeks of the Illithid brine pools.  
+Examining the sarcophagus, [[feanon-serinde|Fey]] translated the ancient Elvish inscription: *Restrained herein is a Devoured Changed of the Pallid Prince Halashnar — Quil'sygoth, She Who Feasts.*
 
-Though unsure of the connection, he is certain that this worm is related to the Mindflayers.
+---
 
-Still being burned by the wall of fire and now with two prey in its gullet, the worm levitates up and away from the fire, undulating through the air like a bizarre eel.
+As the group worked and kept Quil'Sygoth from regenerating, [[aliyah-faen-tlabbar|Patches]] thought about recruiting the surviving Duergar for [[veygar|Veygar]] and went to check on her prisoner — being watched over by [[cirrus-al-kayan|Cirrus]]. As she approached, [[tarkathee-daru|Tark]] converging at the same moment, she heard a brief muffled sound. A call for help. Then nothing.
 
-Patches attempts to Faerie fire the thing, but its inherent magic resistance overcomes the Drow magic.
+She arrived. The Duergar was gone.
 
-Frustrated, Patches unleashes a Ring of Fire and it dispells a nearby Duergar’s invisibility.
+Both she and [[tarkathee-daru|Tark]] pressed [[cirrus-al-kayan|Cirrus]], who lied with utter conviction that the prisoner had escaped. In fact, he had fed the man to his bag of devouring. [[aliyah-faen-tlabbar|Patches]] had heard the call for help before the death.
 
-Wanting answers, the Rogue rushes the Duergar, paralyzes him and proceeds to hogtie the poor Dwarf.
+Frustrated, she turned and headed to the shaft from which the Duergar had extracted the sarcophagus. [[cirrus-al-kayan|Cirrus]] followed. She descended into the hole and found a half-dozen Duergar mining constructs standing idle in a foot of dirty water — Hammerers and Screamers: mortally wounded or punished Duergar grafted into suits of armor and reduced to mindless laborers. Useless without someone to re-imprint them, and there were no surviving Duergar left to do it. [[cirrus-al-kayan|Cirrus]] released a Synaptic Static and they collapsed into the water with a splash.
 
-Meanwhile the fight continues to rage with the Worm across the cavern.
+[[aliyah-faen-tlabbar|Patches]] continued down and found a single [[chardalyn|Chardalyn]] shard — fifteen pounds — discarded in the Duergar's haste to raise the sarcophagus. She pocketed it.
 
-Cirrus is forced to use the Tomb of Levisticus to stop himself being digested by the aberration, while Tark takes two poisoned daggers and begins to hack at the esophagus holding him.
+---
 
-The Worm throws up Tark as he cuts at its vulnerable insides.
+Back at the sarcophagus, [[feanon-serinde|Fey]] conceded: they had to re-imprison Quil'Sygoth. They hauled the corpse over and, to their enormous relief, the crystal practically *drew* the creature inside once they began placing it. The lid slid back, the sarcophagus sealed, and its stasis magic re-engaged.
 
-On the exterior, Gundren, Feanon, Doc, Patches and Gwen begin to focus their fire on each “head” of the beast.
+With the threat contained, the group headed toward the shaft to join [[aliyah-faen-tlabbar|Patches]] and [[cirrus-al-kayan|Cirrus]] — all except [[feanon-serinde|Fey]], who remained with the box.
 
-One by one the life is blasted from each, but the heads quickly regenerate.
+Alone with the sarcophagus, Fey scribed a teleportation sigil around it and sent it to his tower. Then he followed the others.
 
-Understanding what needs to be done, Tark pulls himself from the bile of the creature and waits for his opening.
+---
 
-The creature, with some semblance of intelligence attempts to flee, but the group is having none of it.
+With the full group assembled around the shaft, they investigated the hole thoroughly. The ancient elves had collapsed the stair-stepped cavern above onto a shrine that had surrounded the sarcophagus, the compressed stone forming a pocket that kept it intact. The group estimated the elves had imprisoned Quil'Sygoth here many thousands of years ago — possibly even before the Crown Wars that had seen the birth of the Drow as a cast-out subrace over ten thousand years past. Religious depictions in the shrine showed Araushnee — [[lolth|Lolth]], before her casting out.
 
-Gundren blasts away, destroying two heads and gives Tark the opening he was waiting for.
+[[aliyah-faen-tlabbar|Patches]] was struck by this. The sword they had found in the creature's belly was most likely from an ancient elven hero — from the time when her people were still part of the greater elven nation. She took careful rubbings of all the murals to record them and bring back to the barony for further study.
 
-The Monk leaps at the last injured head, plunging a fist into it’s flesh, then leaps to the main body.
+[[feanon-serinde|Fey]] and the others deciphered some of the ancient text. It was a history of sorts: the ancient elves had fought against one of their own, an arrogant spellcaster named Abraxim — a name Fey recognized from mythology as synonymous with a prideful fall. Abraxim had dared traverse the Outer Gates and been cast back by the Powers That Be — but he had not returned alone. He had brought with him Halashnar. It had taken the elven pantheon to defeat Abraxim, and they assumed the same had been true for Quil'Sygoth.
 
-The final blow lands on the main body, rupturing its abdomen and it falls dead to the ground, spilling the contents of its belly across the cavern floor.
+There was a troubling detail: Quil'Sygoth's regeneration bore the unmistakable signature of Pact magic — a Pact with Abraxim or Halashnar, the group guessed. If so, the Pact was still active. Very strong. Abraxim and Halashnar were out there somewhere, still funneling power to the creature.
 
-The place reeks of viscera and salty brine.
+They searched the shrine thoroughly but found nothing beyond the single sanctum.
 
-From its belly spills a dozen mutated corpses, more lithe than the changed Duergar.
+---
 
-A few seconds go by and the creature begins to stir again.
+They returned to the main cavern and headed to the Duergar barracks to strip the lockbox. All of them noticed very quickly that the sarcophagus was gone.
 
-The group surrounds it and quickly kill it again.
+[[feanon-serinde|Fey]] began to be questioned. He lied convincingly — until he didn't, and when confronted directly, cast a sleep spell.
 
-A few more moments go by and once again it begins to stir.
+[[aliyah-faen-tlabbar|Patches]] and [[cirrus-al-kayan|Cirrus]] resisted. The argument that followed was fierce and unpleasant. How *dare* he attack them with that spell and unilaterally endanger the barony by teleporting a re-imprisoned ancient horror? Fey tried to placate them: he intended to open the sarcophagus under controlled circumstances and Disintegrate the creature before it could cause trouble. They argued until exhaustion set in, with everyone who had been put to sleep gradually waking and adding their voices to the noise. [[tarkathee-daru|Tark]] immediately began yelling about the sarcophagus when he came around. The disintegration plan was explained to him. He agreed it was rational, though he was no less furious.
 
-The group takes up position and keep it from properly regenerating, but they are at a loss.
+What was done was done.
 
-How is this thing not dying!?
+The group cleared the stone covering the Duergar lockbox and used the recovered keys. Inside: a Wand of Secrets, a Potion of Healing, a solid amount of gold, ancient jewelry including a [[chardalyn|Chardalyn]] ring, Duergar coin, and an additional fifteen pounds of [[chardalyn|Chardalyn]].
 
-Patches shows up with her prisoner and a quick interrogation reveals that the Duergar knew nothing of this creature, they were just here for the Chardalyn deposits.
-
-The group reads the Duergar letter they found earlier and it confirms the intent to mine the Chardalyn.
-
-The letter also mentions a**nother mine to the Far North**, past the **Spine of the World** and near the **Lost City of Snow**.
-
-Though none of the party know specifics, **Icewind Dale** comes to mind as a place to being looking for such a mine, or at the very least, more **Duergar miners of Clan Sunblight**.
-
-The worm stirs, Gundren’s cannon belches fire and Gwens claws rake.
-
-Feanon has the group bring the Sarcophagus over and he examines it as Patches and Gundren sift through the remains from the creature’s belly.
-
-Among the changed corpses, they realize that they were elves, long, long ago.
-
-They find several magical items amongst the long dead elves including: A Well of Many Worlds, Dust of Dryness, a healing potion, Dust of Disappearance and a beautiful and supremely sharp elven blade.
-
-Examining the Sarcophagus, Feanon translates the ancient elvish incribed in the stone: “*Restrained herein is a Devoured Changed of the Pallid Prince Halashnar; ****Quil'sygoth****- She who feasts”*
-
-As the group examines the Sarcophagus and keeps Quil’Sygoth from regenerating, Patches thinks about recruiting the Duergar for Veygar and returns to her prisoner (being watched over by Cirrus).
-
-As she approaches (Tark approaching at the same moment) she thinks she hears a muffled call for help...and then nothing.
-
-Arriving by Cirrus with Tark, she notes that the Duergar is gone.
-
-Tark and Patches both question Cirrus, but the Warlock lies convincingly that the Duergar escaped.
-
-In fact, he fed the poor Duergar to his bag of devouring and Patches heard his call for help before his death.
-
-Frustrated that the Duergar “escaped” Patches turns and heads to the hole the Duergar extracted the Sarcophagus from and Cirrus follows shortly after.
-
-Patches arrives first and descends into the hole, noting a half dozen Duergar mining constructs beneath her, idle in dirty water roughly a foot deep.
-
-The sheer sides of the hole appear to be made of compressed rubble and patches begins to descend.
-
-As cirrus approaches, he is warned to be quiet by an illusion of Patches.
-
-The two of them investigate the Duergar constructs and patches recognizes them as Hammerers and Screamers - Mortally wounded or punished Duergar grafted into suits of armor and reduced to mindless laborers.
-
-They are useless to the group without them being re-imprinted and there are no surviving Duergar to do it.
-
-Cirrus releases a Synaptic Static and the creatures fall dead with a splash into the water.
-
-Patches continues down into the hole.
-
-There she finds a single deposit of Chardalyn, a 15lb shard discarded in the Duergars haste to raise the massive sarcophagus.  She takes it for herself.
-
-Then she begins to look around.
-
-Back at the sarcophagus and the reconstituting corpse of Quil’Sygoth, Feanon gives in and agrees that they must re-imprison the worm in the Sarcophagus.
-
-They haul the corpse  of the creature a short way to the Chardalyn Sarcophagus and much to their relief, the crystal device practically draws the creature inside once it has started to be placed into it.
-
-They slide the lid back across and the Sarcophagus seals, enacting its stasis magic.
-
-With the threat dealt with, they all head to where Patches and Cirrus went, all save Feanon who remains with the box.
-
-Alone, Feanon scribes a teleportation sigil around the Sarcophagus and transports it to his tower...he then follows the group to investigate the hole.
-
-With the whole group now around the Duergar “mining shaft” they being to investigate it thoroughly, hoping that it is the tip of an ancient elven city.
-
-The hole paints a different, though no less intriguing story.
-
-The ancient elves collapsed the stair-stepped cavern above on top of a shrine that surrounded the Sarcophagus.
-
-The collapsed stone had formed a pocket keeping the sarcophagus intact.
-
-The group determines that the ancient elves imprisoned Quil’Sygoth here many thousands of years ago, possibly even before the Crown Wars that saw the birth of the Drow as a cast out sub-race over ten thousand years ago.  
-
-Religious depictions on the ruins show Araushnee; Lolth, before she was cast out.
-
-Excited, Patches realizes that the sword they found is most likely from an ancient elven hero, back from when her people were still part of the greater elven nation.
-
-Patches takes rubbings of all of the murals to record them as best she can and to analyze them further back at the Barony for clues as to where these Elves were from.
-
-Feanon meanwhile, working with the others, manages to decipher some of the ancient text.
-
-It is a history of a sort:  The ancient elves fought against one of their own, an arrogant Spellcaster named Abraxim; a name Feanon recognizes from mythology synonymous with arrogance and a prideful fall.
-
-This Abraxim dared traverse the Outer Gates but was cast back by the Powers That Be.
-
-Abraxim did not return alone and brought with him Halashnar.
-
-It took the Elven pantheon to defeat Abraxim, and the group assumes Quil’Sygoth as well.
-
-Curiously though, Quil’Sygoths regeneration seemed to be a form of Pact magic, the group guesses it to be a Pact with either Abraxim or Halashnar.
-
-If so, the Pact is still active and very strong.  Abraxim and Halashnar are out there somewhere, funneling power to this creature.
-
-The group searches the collapsed ruins but find no more than the single shrine.
-
-They return to the main cavern above and head back to the Duergar Barracks, intent on looting it thoroughly and then returning to the Barony.
-
-They all notice very quickly that the Sarcophagus is gone.
-
-The group begins to question Feanon who begins lying through his teeth and when confronted, tries to put everyone to sleep.
-
-Cirrus and Patches resist, and flip their shit on the wizard.
-
-How DARE he attack them with that spell and unilaterally endanger the Barony by teleporting (an imprisoned) Quil’Sygoth.
-
-Feanon tries to placate them, saying that he intends to open the Sarcophagus under controlled circumstances and disintegrate the thing before it can make trouble.
-
-They argue for some time while everyone else snores away.
-
-The argument ends with everyone being mad, but whats done is done.
-
-Feanon wakes everyone he put to sleep and Tark immediately begins yelling about the Sarcophagus.
-
-The disintegration solution is explained to him and Tark agrees, though is equally mad at Feanon.
-
-The group heads inside the Barracks and make quick work of the stone covering the Duergar Lockbox.
-
-Using the keys they retrieved, they open the things and take the haul the Duergar had amassed: Several minor magical items (wand of Secrets, Potion of healing) and a decent amount of gold, ancient jewelry (including a Chardalyn ring), Duergar Coin, and more Chardalyn (15lbs).
-
-The group heads back to the elevator they took down into the place and find Samid waiting for them with a torch.
-
-They invite the Bedine merchant to come back with them to the Barony and talk business and he agrees, on the condition they take him home in a few days.
-
-The group agrees and they teleport back to the Barony, each person retiring for the rest of the night to their respective abodes.
+They headed back to the elevator and found Samid waiting at the top with a torch. They invited the Bedine merchant to the barony to talk business; he agreed, on the condition they return him home in a few days. The group agreed, and they teleported back to Selunia — each person retiring to their respective abode for the night.

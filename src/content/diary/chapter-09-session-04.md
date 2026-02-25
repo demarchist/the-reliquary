@@ -1,259 +1,113 @@
 ---
-title: The Demon Lords - The Anauroch Desert
+title: "The Demon Lords - The Anauroch Desert"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 4
+summary: "Following Samid's directions to a Duergar-occupied Netherese mine, the group dispatched a sandworm in under thirty seconds, negotiated with the Mountain Giant Bolg for entry, and fought their way through the mine's defenses to reach a rich Chardalyn deposit."
 people:
-  - "aliyah-faen-tlabbar"
-  - "bolg"
-  - "cirrus-al-kayan"
-  - "doc"
-  - "feanon-serinde"
-  - "fen"
-  - "gundren-rockseeker"
-  - "intent"
-  - "madame-eva"
-  - "ront"
-  - "shar"
-  - "snorbul"
-  - "surtr"
-  - "tarkathee-daru"
-  - "val-tengu"
+  - aliyah-faen-tlabbar
+  - bolg
+  - cirrus-al-kayan
+  - doc
+  - feanon-serinde
+  - fen
+  - gundren-rockseeker
+  - intent
+  - madame-eva
+  - ront
+  - shar
+  - snorbul
+  - surtr
+  - tarkathee-daru
+  - val-tengu
 places:
-  - "selunia"
+  - selunia
 things:
-  - "chardalyn"
-  - "gwen"
-  - "hew"
-  - "jade-frog"
-  - "thundercannon"
+  - chardalyn
+  - gwen
+  - hew
+  - jade-frog
+  - thundercannon
 factions:
-  - "bedine"
-  - "duergar-faction"
-  - "netherese"
+  - bedine
+  - duergar-faction
+  - netherese
 ---
 
-The group soars across the darkening skies, carried by the Wind.
+The group soared across the darkening skies, the desert spreading out below in shades of charcoal and amber.
 
-Breezing across the desert, the group eventually sees the standing stone on the Horizon that Samid directed Doc to.
+Samid's directions held true and a monolith rose on the horizon. [[doc|Doc]] set the group down just over a ridge, and [[aliyah-faen-tlabbar|Patches]] headed out with Slippy — the Jade Frog — to scout. Samid lingered with the rest of the group, only now beginning to appreciate the kind of people he had struck a bargain with.
 
-The group lands and Doc has the group reform just on the other side of a ridge.
+[[aliyah-faen-tlabbar|Patches]] and Slippy moved over the ridge and close enough to the monolith to confirm that something had happened here: Bedine offerings lay scattered everywhere. She drew out her spyglass — and spotted Slippy already heading back. She looked where the frog had come from and saw it herself: a massive centipede-like sandworm coiled near the base of the stone.
 
-Slippy, the Jade frog and Patches head off into the night to scout.
+They returned to the group and reported. [[gundren-rockseeker|Gundren]] immediately took up a sniper position on the ridge with the [[thundercannon|Thundercannon]]. [[aliyah-faen-tlabbar|Patches]] raised her crossbow. They asked Samid how tough the worms were. He replied that his people normally needed cavalry and lances to bring one down, and even then the acid vomit was deadly.
 
-Samid kinda mumbles a bit, only just now realizing the sort of powers he is dealing with.
+[[aliyah-faen-tlabbar|Patches]] wagered Samid's alcohol flask that they could kill it in under thirty seconds.
 
-Patches and slippy head over the ridge and close enough to the monolith to determine a great ruckus did indeed occur here - there are Bedine offerings scattered all over the place.
+Samid accepted.
 
-Pulling out her spyglass, Patches spots Slippy returning to the camp after spotting something.  
+[[gundren-rockseeker|Gundren]] ignited the [[thundercannon|Thundercannon]] and lined up his first shot. The shell detonated in the sand beside the beast and it writhed in shock and terror. The next two blasts tore carapace and legs apart. A heavy bolt from Patches buried into its flank. The beast dove into rock and sand, chewing through stone in an attempt to flee, reappeared fifty feet away, then started to dive again. Three more blasts struck it in the back, then another bolt. Its back half stopped moving. They finished it — chitin, mandibles, and legs blown apart across the desert floor.
 
-She looks at the same spot and sees it too: A massive centipede like Sandworm.
+Samid handed over his flask without a word.
 
-They return to the group and inform them.
+The group descended to the monolith and, finding it impossible to properly survey the area in darkness, took refuge in Fey's Magnificent Mansion for the night. Samid loved the buffet. [[tarkathee-daru|Tark]] chose to sleep in the desert, enjoying the natural quiet. [[feanon-serinde|Fey]] spent the evening in study and achieved a breakthrough in weight manipulation magic.
 
-Itching to blast something, Gundren takes a sniper position on the ridge and Patches takes out her crossbow.
+---
 
-They ask Samid how tough these worms are and he responds that they normally have to kill them with cavalry and lances and even then, their acid vomit is deadly.
+In the morning, the group investigated the terrain.
 
-Patches wagers for Samid’s alcohol flask that they can kill the creature in under thirty seconds.
+The offerings at the obelisk had been wrecked days ago — and not by the worm. Large footprints led north to a sinkhole that had served as a mine entrance before being intentionally collapsed. Giant tracks and wagon tracks continued north; more identical tracks came from the east.
 
-Samid accepts that wager.
+[[doc|Doc]] and [[aliyah-faen-tlabbar|Patches]] worked to clear the sinkhole — digging with earthworking and satchel charges — until Patches pulled a body from the stone thirty feet down: a pulverized Goblin and a Duergar-made mining pick. They didn't find much more. The group Windwalked north.
 
-Gundren ignites the Thundercannon and lines up his shots.
+Hours later, a large mesa rose ahead, ruins nestled at its foot. Bird-like Harpies wheeled overhead. Before the ruins, beside a massive menhir, something sat at a cooking fire: a Mountain Giant.
 
-The first detonates in the sand next to the beast and it writhes and coils in shock and terror.
+The creature was chopping Harpies into a bubbling stew and tossing viscera to two guard animals — a pony-sized Hellhound and a strange catlike creature with an enormous eyeball at the tip of its tail. Mountain Giants were rare — one in a thousand among Hill Giant births, born with intelligence their kin entirely lacked and frequently driven to flee simple giant culture for more ambitious lives. Far from gentle, they often became warlords or tyrants over smaller races.
 
-The next two shots blow carapace and legs apart.
+[[cirrus-al-kayan|Cirrus]] wanted to talk to him.
 
-A heavy bolt soars in from Patches and she quickly reloads.
+The group spread into defensive positions as the sun dipped toward the horizon. [[cirrus-al-kayan|Cirrus]] walked from the deepening shadow, wrapped in an illusion of a Bedine traveler.
 
-The beast dives into the rock and sand, chewing through the stone in an attempt to get away.
+The guard animals came alert instantly. The giant stood, splint armor clanking, and with one smooth motion palmed a cannonball from a bag, loaded a sling, and loosed it — a gunshot crack of displaced air — and the ball struck the ground ten feet in front of [[cirrus-al-kayan|Cirrus]], spraying him with gravel.
 
-It reappears fifty feet later, and then begins to dive into the sand again.
+[[cirrus-al-kayan|Cirrus]] called out for sanctuary.
 
-Three more blasts hit it in the back, and another Bolt.
+The giant loaded the sling again. Then he hesitated, peering at the approaching "human." He recognized the illusion and straightened slightly. In rumbling Common, he demanded Cirrus drop it. Cirrus knew the game was up, complied, and introduced himself: Baron Cirrus Al-Kayan of [[selunia|Selunia]].
 
-It’s backhalf stops moving and it flops weirdly and the two snipers finish it, blasting chitin, mandibles and legs apart from the segmented horror.
+The giant stared at the white-robed, metal-eyed, horned Tiefling standing in the desert, completely unperturbed by the near miss. He introduced himself as Bolg.
 
-Samid hands over his flask, a little shocked.
+[[cirrus-al-kayan|Cirrus]] asked to join him at the fire. Bolg cautiously agreed and glanced into the ruins for whoever else had come with this strange creature. He saw no one. Over the next hour, [[cirrus-al-kayan|Cirrus]] talked, argued, offered mayonnaise, and eventually engaged Bolg in a contest of strength. After the Tomb of Levisticus melted and a cannonball thudded into the ground, the giant relented and welcomed the Warlock and his allies to the camp.
 
-The group heads down to the Monolith.
+The rest of the group came in from the dark. [[aliyah-faen-tlabbar|Patches]] gestured to her weapons when Bolg glowered at her. "I stab stuff," she said. Bolg cocked an eyebrow.
 
-It is hard to get the lay of the land in the darkness of night, so the group takes refuge in Fey’s magnificent manor.
+Negotiations continued. Bolg had heard of [[surtr|Surtr]] by reputation and was intrigued enough to be more open to an arrangement. His terms: twenty thousand gold and the deaths of his Duergar employers currently in the mine behind him, and he would come to the barony and work as a mercenary. The group agreed.
 
-Samid loves the buffet.
+---
 
-Tark spends the night in the desert, enjoying the natural beauty.
+They headed into the mine.
 
-Fey spends the evening in study and has a breakthrough with weight manipulation magic.
+The main entry chamber was clearly ancient Netherese in its architecture, though heavily damaged by time. [[gundren-rockseeker|Gundren]] spotted fresh stonework almost immediately — a quick inspection confirmed that the entire entrance ceiling was rigged to drop from a lever pull. No doubt Bolg's fail-safe for the Duergar. Past the trap, the passage led to a rubble-filled ramp, an empty elevator shaft, and a second shaft with a functioning Duergar construct elevator.
 
-The next morning, the group awakes and begins to investigate the area for the Chardalyn.
+[[aliyah-faen-tlabbar|Patches]] descended the empty shaft first and found it bottomed out in collapsed stone. She returned. They took the Duergar elevator.
 
-They determine that the obelisk offerings were wrecked a few days ago, not by the worm.
+What waited below was a massacre — but not of them.
 
-Large footprints lead north, to the Sinkhole “mine”.
+As the elevator descended, they spotted a Duergar barricade complete with a large cannon and reacted before the guards could. [[feanon-serinde|Fey]] unleashed a sleep spell, [[aliyah-faen-tlabbar|Patches]] threw a sleep bomb, and [[cirrus-al-kayan|Cirrus]] released a hypnotic pattern. Only two guards didn't go down immediately; [[gundren-rockseeker|Gundren]], [[gwen|Gwen]], and Patches dispatched them. One was pushed off a small cliff. [[cirrus-al-kayan|Cirrus]] fed the remaining unconscious Duergar to his bag of devouring.
 
-Getting to the Sinhole, it has been intentionally collapsed.
+The cavern beyond was enormous — a forty-five-foot ceiling sloping at a steep angle, two great carved pillars, ancient tools thick with cobwebs, undisturbed for what might have been millennia. The sounds of mining and hammering echoed from somewhere deeper within.
 
-They find giant tracks and wagon tracks leading further north and identical tracks from the east.
+The group slipped around a nest of Darkmantles clinging to the ceiling. [[feanon-serinde|Fey]] triggered a tripwire and a bomb went off — metal shards and a strange cloying liquid sprayed across the area. Where the liquid hit stone, things began to turn to stone. Basilisk venom. They shed the contaminated material before the effect could properly begin.
 
-Hopping into the sinkhole, Doc and Patches both try to get down, moving earth aside and blasting it with satchel charges.
+[[cirrus-al-kayan|Cirrus]] pocketed a key from one of the dead Duergar.
 
-Digging down a good thirty feet, Patches pulls a twisted corpse from the stone.
+Movement caught their attention ahead: a trio of Duergar approaching a shining deposit of grey [[chardalyn|Chardalyn]] — slightly oxidized, but unmistakable. The lead Duergar, clad in black leather and a metal cap, raised a hand. A flaming sphere rolled into existence above a nest of Stirges, igniting many of them.
 
-A pulverized Goblin and a Duergar made mining pick.
+The group rushed in before the spellcaster could redirect.
 
-The group windwalks to the north, following the tracks until hours later, in the distance the group sees a large Mesa with ruins nestled at the foot.
+[[aliyah-faen-tlabbar|Patches]] threw a tar bomb. [[cirrus-al-kayan|Cirrus]] blasted the spellcaster off the small cliff. The spellcaster hit the ground, shapeshifted into a Cave Bear, and scrambled straight back up to attack. [[gundren-rockseeker|Gundren]] and [[feanon-serinde|Fey]] opened fire. [[aliyah-faen-tlabbar|Patches]] took on both Duergar warriors in melee.
 
-Birdlike harpies wheel overhead, screeching and down in the ruins, behind another massive Menhir and guarding a well made tunnel into the Mesa - a Massive giant sits.
+Then [[feanon-serinde|Fey]] and [[cirrus-al-kayan|Cirrus]] were scooped off the ground by rock-like tentacles from behind. A Roper had crept up undetected and was already reeling them in. Fey reached into its mind and unleashed a Phantasmal Horror — the thing dropped him in shock. [[cirrus-al-kayan|Cirrus]] blasted at it but it got a solid bite into him. Then the Darkmantle nest dropped on the Warlock and began crushing.
 
-The massive creature sits around a cooking fire, chopping harpies into a bubbling stew and tossing the viscera to two large creatures - a pony-sized Hellhound and a strange catlike creature with an eyeball on the tip of its tail the size of its head.
+The shapeshifter went down. [[aliyah-faen-tlabbar|Patches]] finished the Duergar warriors and turned to help. With the four of them focusing on the Roper and Darkmantles, they made quick work of both.
 
-The giant is unlike any the group have seen recently, though several recognize the telltale characteristics of a Mountain Giant.
-
-Born one in a thousand, Mountain Giants are Savants of the Hill Giant subrace.
-
-Born far more intelligent than their brothers and sisters, Mountain Giants frequently flee the simple culture of their kin for more cultured lives.
-
-Far from good though, Mountain Giants frequently become warlords or tyrants over the smaller races.
-
-Cirrus wants to chat with him.
-
-The group takes up defensive positions around the area, keeping an eye on the Harpies overhead.
-
-The sun begins to get low on the horizon.
-
-Cirrus walks from the deepening shadow, Disguised under an illusion of a bedine traveler.
-
-The guard-beasts instantly come on alert and the giant stands, his splint armor clanking and light catching on a diamond in the center of his bronze helm.
-
-The behemoth palms a cannonball from a bag and deftly puts it spinning in a sling, loosing it a second later with a gunshot-like crack of air.
-
-The cannonball hits the ground 10ft in front of Cirrus and sprays him with a shower of gravel and dirt from the impact.
-
-Cirrus calls out for sanctuary.
-
-The giant loads his sling again, about to watch a “human” explode.
-
-But he hesitates, peering at the approaching “human”.
-
-He recognizes an illusion and the giant stands a little straighter.
-
-In rumbling common, the giant demands he drop the illusion.
-
-Cirrus knows the gig is up and complies and introduces himself as Baron Sirrus Al-Kayan of Selunia.
-
-The giant is a little shocked at the white robed, metal-eyed horned tiefling standing in front of him, unperturbed from his slingshot.
-
-The giant introduces himself as Bolg.
-
-Cirrus asks to join him at his fire and the Giant cautiously accepts, glancing into the ruins, looking for who this strange creature came with.  He sees no one.
-
-Cirrus takes the next hour or so to persuade and butter up Bolg, giving him mayonnaise and even engaging in a contest of strength.
-
-After the tomb of Levisticus melts and the cannonball thuds into the ground, the Giant relents, and welcomes the Warlock and his allies to the camp.
-
-Meanwhile, Samid, Doc, Tark, Thorns and Snorbul all head due east, following another trail, intending to circle back in a few hours.
-
-The remaining crew all head in from the dark and the Giant nods, he had a feeling the Warlock was not alone.
-
-He glowers at the tiny elf though.  Patches gestures to her weapons and says “I stab stuff” Bolg cocks an eyebrow.
-
-Negotiations continue and information is passed between the two groups.
-
-The group asks if he knows the Fire Giant Surtr.
-
-Bolg says he does not, but as a Fire Giant, Surtr is definitely higher in the Odrening than himself.
-
-Hearing about Surtr, Bolg is intrigued and more open to the idea of working for the group.
-
-For twenty thousand gold, and the deaths of his Duergar employers currently in the mines behind him, Bolg will head to the Barony and work as a mercenary.
-
-The group agrees.
-
-They head into the mine.
-
-
-The main entry chamber has sustained a lot of damage over the years and is confirmed to be ancient Netherese from the architecture.
-
-Gundren spots the telltale sign of new stonework though and after a quick inspection, finds that the entire entrance ceiling is rigged to drop from a lever pull.
-
-No doubt Bolg was to drop the entrance.
-
-Heading past, they see a ramp down that is filled with collapsed rubble, an elevator shaft with no elevator and then a second elevator shaft with a newly built Duergar construct.
-
-Patches quickly descends the shaft with no elevator and gets to the bottom - it is filled with collapsed stone.
-
-She returns to the group and they decide to bite the bullet and take the Duergar elevator.
-
-They prepare for a fight.
-
-What they get is a massacre.
-
-As the elevator descends, they spot a barricade of Duergar soldiers, including a large cannon.
-
-Fey unleashes a sleep spell, Patches throws her sleep bomb and cirrus releases a hypnotic pattern.
-
-Only two of the guards don’t immediately go down and are beset by Gundren, Gwen and Patches.
-
-The battle is short but fierce and although the Duergar get in a few good swings, they fall quickly - one in fact being pushed off a small cliff.
-
-Cirrus feeds the remaining unconscious Duergar to his bag of devouring.
-
-The group looks around, tense at the thought of the sounds of battle carrying.
-
-The cavern is huge and stairsteps its way down into darkness.
-
-The ceiling is about 45ft overhead and slopes at a 30 degree angle.
-
-Two large carved pillars support the ceiling and the telltale signs of man-made stonework litters the area.
-
-The ground is thick with dust and the truly ancient tools that remain are covered in cobwebs.
-
-They may not have been disturbed for millenia.
-
-The cavern rings with the sounds of mining and hammering.  It is noisy with Duergar industry.
-
-Up ahead, the group spots a nest of Darkmantles on the ceiling and slip around them.
-
-Fey triggers a tripwire and a bomb goes off, spraying the area with metal shards and a strange cloying liquid.
-
-Where the liquid hits, it begins to turn to stone.
-
-Luckily they manage to shed the Basilisk venom before it could really begin the process.
-
-Cirrus pulls a key off of one of the dead Duergar.
-
-Further down in the cavern, movement catches the groups attention.
-
-A trio of Duergar move out from a large set of doorways, directly up to a shining deposit of Grey crystal - Chardalyn, though oxidized.
-
-The lead Duergar, wearing black leathers and a metal cap, thrusts a hand forwards and around the top of the pillar a flaming sphere roils into existence.
-
-The spell goes off amongst a nest of Stirges and many of the things ignite and fall dead to the ground.
-
-The group rushes in as the spellcaster is distracted.
-
-Patches throws a Tar bomb and Cirrus blasts the spellcaster off the small cliff.
-
-As he falls, he shapeshifts into a Cave bear, and scrambles right back in to attack.
-
-Gundren blasts away, as does Fey.
-
-Patches engages both Duergar warriors in melee.
-
-From behind though, Fey and Cirrus are scooped up by rock-like tentacles.
-
-A Roper has snuck up from behind and it quickly reels them in.
-
-Fey reaches into its mind and unleashes a Phantasmal horror and the thing drops him in shock.
-
-Cirrus blasts at the thing with Eldritch power but it gets a good bite into him.
-
-Worse, the Darkmantle nest drops onto the Warlock and begins to crush at him.
-
-The shapeshifter is shot dead and Patches finishes off the Duergar.
-
-They turn and assist their spellcasting colleagues and with the four now focusing their efforts, they make quick work of the Roper and Darkmantles.
-
-Bloodied and breathing heavily, the sounds of many more Duergar echoes about the caverns of this ancient Netherese Chardalyn mine.
+Bloodied and breathing hard, the group held the cavern. The sounds of many more Duergar echoed through the darkness ahead.

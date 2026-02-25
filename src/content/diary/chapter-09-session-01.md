@@ -1,273 +1,143 @@
 ---
-title: The Demon Lords - The Battle of Gracksuluth
+title: "The Demon Lords - The Battle of Gracksuluth"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 1
+summary: "With Demogorgon felled but already regenerating and Orcus' forces flooding into Gracksuluth, the group fled through Fey's teleportation circle — and back in Selunia, scrying revealed the Gravenhollow crystal lay within Juiblex, while a Dreaming spell brought Patches face to face with an enraged Finn."
 people:
-  - "aliyah-faen-tlabbar"
-  - "anduriel"
-  - "aurinax"
-  - "barthen"
-  - "cirrus-al-kayan"
-  - "demogorgon"
-  - "doc"
-  - "feanon-serinde"
-  - "fen"
-  - "finn"
-  - "gruttag"
-  - "gundren-rockseeker"
-  - "hemeth"
-  - "horatio-von-bumidere"
-  - "intent"
-  - "juiblex"
-  - "lolth"
-  - "orcus"
-  - "ront"
-  - "selune"
-  - "shar"
-  - "snorbul"
-  - "tarkathee-daru"
-  - "val-tengu"
-  - "veygar"
+  - aliyah-faen-tlabbar
+  - anduriel
+  - aurinax
+  - barthen
+  - cirrus-al-kayan
+  - demogorgon
+  - doc
+  - feanon-serinde
+  - fen
+  - finn
+  - gruttag
+  - gundren-rockseeker
+  - hemeth
+  - horatio-von-bumidere
+  - intent
+  - juiblex
+  - lolth
+  - orcus
+  - ront
+  - selune
+  - shar
+  - snorbul
+  - tarkathee-daru
+  - val-tengu
+  - veygar
 places:
-  - "abyss"
-  - "blingdenstone"
-  - "darklake"
-  - "fane-of-selune"
-  - "feanons-tower"
-  - "gravenhollow"
-  - "keep-of-thunder-bluff"
-  - "moondancer-village"
-  - "neverwinter"
-  - "snorbuls-hole"
-  - "the-chasm"
-  - "underdark"
+  - abyss
+  - blingdenstone
+  - darklake
+  - fane-of-selune
+  - feanons-tower
+  - gravenhollow
+  - keep-of-thunder-bluff
+  - moondancer-village
+  - neverwinter
+  - snorbuls-hole
+  - the-chasm
+  - underdark
 things:
-  - "bag-of-holding"
-  - "eclipse"
-  - "thundercannon"
+  - bag-of-holding
+  - eclipse
+  - thundercannon
 factions:
-  - "derro-faction"
-  - "drow-faction"
-  - "duergar-faction"
-  - "svirfneblin-faction"
+  - derro-faction
+  - drow-faction
+  - duergar-faction
+  - svirfneblin-faction
 ---
 
-Patches stands atop the Demon Prince, flips her blades over in her hands and plunges them both home.
+[[aliyah-faen-tlabbar|Patches]] stood atop the Demon Prince, flipped her blades over in her hands, and plunged them both home.
 
-The group Watches as Demorgorgon Roars in anguish as she stabs both heads in the soft temple.
+The group watched as [[demogorgon|Demogorgon]] roared in anguish, both heads stabbed through their soft temples. The Prince of Demons crashed to the ground in a heap, throwing stone chips and rock dust into the air, his tentacles twitching and writhing in death.
 
-The Prince of demons falls to the ground in a heap, throwing stone chips and rock dust up in a plume, it’s tentacles twitching and writing in death.
+[[gracksuluth|Gracksuluth]] was in chaos.
 
-The city is in chaos.
+At the sealed gates between Laduguer's Furrow and the Darklake District, Duergar guards had retreated to their fortified defenses, all but assailed by automated weapons — metal arms unfolding from the doors, each wielding blades and mauls. Around the great gate, balls of Adamantine with lances at their centers lashed out in wide arcs, rods of metal striking nearly forty feet, smashing stone with thunderclaps and showers of gore. [[feanon-serinde|Fey]] noticed that each weapon targeted not an individual enemy but a strike plate buried in the surrounding rock. The repeated impacts were beginning to heat the metal rods red.
 
-Up at the shut gates between Laduegers Furrow and the Darklake District, the Duergar guards retreat back toward their fortified defenses, proving to be all but annasailable by the automated weapons, metal arms wielding weapons unfolding from the doors.
+East along the Furrow, a column of Duergar one thousand strong hit the eastern edge of the massive Derro riot, demons thronging among the ranks of the insane creatures. At their head marched two magnificent Golems — one shaped to depict Laduguer, god of the Duergar, and his daughter Deep Duerra — the colossal constructs surging forward and laying waste to everything in their path. South, across the bridge, another Golem smashed into the Derro: a twenty-foot figure of Adamantine, reaching forth both hands to rain liquid metal from its outstretched fingers, spearing all before it.
 
-Around the great gate, balls of Adamantine with lances at their center begin to lash out, rods of metal striking out almost forty feet, striking the stone with thunderclaps, sparks and a shower of gore where they connect.
+Then [[demogorgon|Demogorgon]] stirred.
 
-Fey notices that each weapon is not targeting an individual enemy, but a strike plate buried in the surrounding stone.
+The rocks shifted beneath him. [[tarkathee-daru|Tark]] rushed over and began to strike, desperate to keep the Demon Prince from rising. In shock that something they had just killed was already regenerating, Tark reached into the demon's twisted soul while [[feanon-serinde|Fey]] attempted to understand what he was witnessing.
 
-The weapons strike numerous times and the friction cases the metal rods to begin to heat up.
+What Fey realized was this: demons are discorporated entities, building their own bodies while on the Prime Material Plane. Divine law and limited magic normally enforce restrictions on extraplanar entities — but the divine law had weakened here, and magic saturated the [[underdark|Underdark]] in abundance, Abyssal energy ripe for the Demon Lords to harvest. [[demogorgon|Demogorgon]] was refusing the pull back to [[abyss|the Abyss]], consuming ambient energy and reforming his body even as he died.
 
-East along the furrow, a column of Duergar one thousand strong hits the eastern edge of the massive Derro riot, encountering numerous demons amongst the ranks of the insane creatures.
+But what had caused the barriers between worlds to weaken so catastrophically that even the laws of the universe could be resisted?
 
-At the head of the Duergar march two magnificent Golems, one depicting Ladueger god of the Duergar and his daughter, Deep Duerra.  
+Tark found out.
 
-The massive constructs surge forward laying waste to all in their path.
+Through the window of the demon's mind, [[tarkathee-daru|Tark]] saw [[demogorgon|Demogorgon]]'s brass throne atop a jagged stone spire, a roiling sea of dark waves and shattered stone churning below. Great Krakens coiled and twisted beneath the waves. [[demogorgon|Demogorgon]] sat on his throne, bored, flaying some unfortunate soul and casting it into the Great Maw. Then the sky brightened and tore apart — a chitinous arm reached through that dwarfed even the spire, slammed into [[demogorgon|Demogorgon]], and cast him from the pinnacle, driving him through the barriers of the multiverse, cracking and smashing them apart. As the Prince of Demons fell, he saw his peers surrounding him — all pushed from their layers within [[abyss|the Abyss]], his most hated rivals. He landed like a comet in the [[underdark|Underdark]], Abyssal energies flooding through the wounds in the walls of reality.
 
-South, across the bridge, another Golem smashes into the Derro there, looking like an 20ft unfinished maquette of clay, but created from Adamantine.
+As [[demogorgon|Demogorgon]] regained consciousness and shunted Tark from his mind, the last thing the monk felt was a searing thought: *How DARE [[lolth|Lolth]] do this. How DARE she cast him from his own domain. But no matter — it must have cost her dearly. Perhaps even the fragment of the Weave she stole so long ago.*
 
-The creature reaches forth both hands and liquid metal rains from its outstretched fingers, spearing all before it.
+[[demogorgon|Demogorgon]] rose and lashed out at [[tarkathee-daru|Tark]], desperate to seize the lithe monk. The rest of the group was already backing away — seriously wounded and in no position to fight the Demon Prince again. The Golems were still more than a minute out. Time enough for [[demogorgon|Demogorgon]] to kill them all. As Tark flipped over a grasping tendril, the demon called out, demanding to know if he still had "it." Tark had no idea what he was talking about.
 
-Demogorgon stirs, the rocks shifting underneath it.
+To the north, at the gate between districts, a thirty-foot section of stone wall erupted outward. An icy gale blasted through the breach, coating every surface within a hundred feet with ice. Through the gap poured [[orcus|Orcus]]' demons, crashing against the automated defenses like waves on stone.
 
-Tark rushes over and begins to smash at him, desperate to keep it from rising again.
+A larger form stepped through behind them.
 
-In shock that the thing they killed is beginning to regenerate, Tark attempts to understand it and reaches into the twisted soul of the demon as Fey attempts to ascertain information on a technical level.
+Even hunched, it stood fifteen feet tall. It glided forward, gossamer robes flowing around lithe armored limbs, wielding two blue-glowing blades. Atop its head sat a circlet of gold, and blade-like bars formed a mask over a void where its face should have been. [[snorbul|Snorbul]] recognized it from childhood tales: a Hierophant of Annihilation, one of [[orcus|Orcus]]' own barons. As the creature glided forward, its gaze fell on the nearest Duergar — and they simply dropped. Dead.
 
-Fey realizes what he’s seeing; Demons are essentially Discorporated entities, they build their own bodies while on the Prime Material.  Divine law and limited magic normally force limitations on Extra Planar entities.  The Divine law weakened, and as for magic, it saturates the underdark with abundance - Abyssal energy to be harnessed by the Demon Lords.
+As if they needed any more incentive to leave, [[feanon-serinde|Fey]] was already completing his teleportation circle when [[aliyah-faen-tlabbar|Patches]] rushed up, patting her bag of holding: she had the prisoners.
 
-Demogorgon refusing the pull back to the Abyss and is consuming the ambient energy and reforming his body, even as he dies.
+[[tarkathee-daru|Tark]] dove again as [[demogorgon|Demogorgon]] halfheartedly reached for him, the demon's attention already fixed on the Hierophant. With a howl of insane rage, [[demogorgon|Demogorgon]] vanished in a thunderclap and reappeared two hundred feet away, unfurling from the reflection in the eyes of an unfortunate Duergar. The Duergar was promptly torn apart, and the Prince of Demons waded into battle against the Champion of [[orcus|Orcus]].
 
-But what caused the barriers between worlds to weaken so badly that the very laws of the universe can be resisted?
+Fey completed the circle. The last thing the group saw before the singularity drew them in was [[anduriel|Anduriel]] the Narzugon rushing to the aid of her squad, smashing into the Chasme demons rising from [[the-chasm|the chasm]] below.
 
-Tark finds out.
+---
 
-Tark sees the great Brass throne of Demogorgon atop a jagged stone spire, a roiling sea of dark waves and shattered stone churning beneath.
+The light faded. They stood in [[feanons-tower|Fey's tower]], in the teleportation room. The Moon Elf attendant looked up from her book and stared in shock. Everyone was covered in gore — their own, and [[ront|Ront]]'s.
 
-The waves rise and fall, showing massive tendrils coiling and twisting around one another; great Krakens of the depths.
+[[horatio-von-bumidere|Buumi]] immediately began a prayer of healing. He, [[tarkathee-daru|Tark]], and [[gundren-rockseeker|Gundren]] simply sat afterward, exhausted and unable to process what had happened. [[cirrus-al-kayan|Cirrus]] flipped out.
 
-Demogorgon sits on his throne.
+They couldn't even be killed now? What the hell were they supposed to do?
 
-He looks bored, flaying some unfortunate soul and casting it into the Great Maw that lies beneath his throne.
+[[feanon-serinde|Fey]] and [[tarkathee-daru|Tark]] relayed what they had seen: if the Demon Lords could be drawn to one place, not only would their mutual hatred trigger a battle royale — they would rapidly consume the ambient magical energies, killing each other for real and banishing one another back to [[abyss|the Abyss]] as the magic depleted. All that would remain afterward would be mopping up the winner.
 
-The sky brightens and flashes, a great tear ripping it apart and a chitinous arm reaches forth, dwarfing even the tower.
+Healthy skepticism went around the room. Moods remained dour after such a brutal battle.
 
-It pushes into Demogorgon and casts him from the pinnacle, pushing him through the barriers of the multivers, cracking and smashing them apart.
+[[aliyah-faen-tlabbar|Patches]] opened her bag and released [[hemeth|Hemeth]] and Vilka, who reunited with a shaken [[veygar|Veygar]]. The three of them headed for the docks to cross to Over the Moon. [[cirrus-al-kayan|Cirrus]], still in shock, drifted with them, found Li, and demanded she help take him "home." [[aliyah-faen-tlabbar|Patches]] had long since slipped into one of her tunnels and made her own way to the tavern.
 
-As the Prince of Demons falls, he sees his peers surrounding him, pushed from their layers within the Abyss, his most hated rivals.
+After a solid nap, [[gundren-rockseeker|Gundren]], [[horatio-von-bumidere|Buumi]], and [[tarkathee-daru|Tark]] headed from the tower — [[feanon-serinde|Fey]] having already retired to his private chambers — toward [[keep-of-thunder-bluff|the keep]]. [[gundren-rockseeker|Gundren]] went directly to his workshop, a red glow emanating from within. Since dropping unconscious in the battle, he had felt a burning need to make something. The Artificer got to work.
 
-He lands like a comet in the Underdark, Abyssal energies flowing from the wounds in the walls of reality and permeating the Underdark.
+[[horatio-von-bumidere|Buumi]] brought [[tarkathee-daru|Tark]] to the keep's baths — a small recreation of the spa they had enjoyed in [[neverwinter|Neverwinter]] — and they slept through the rest of the day. Over at the [[fane-of-selune|Fane of Selune]], [[cirrus-al-kayan|Cirrus]] prayed in his inner sanctum, yodeling his praise beneath the perpetual twilight of [[eclipse|the eclipse]]. He felt the presence of his goddess and was infused with power, his pact strengthening for the tasks ahead.
 
-As Demogorgon regains his consciousness and shunts Tark from his mind, the last thing the monk feels is a thought: “How DARE Lolth do this! How DARE she cast him out from his own domain!  But no matter, it must have cost her dearly to do this, possible even the fragment of the Weave she stole so long ago…”
+[[snorbul|Snorbul]] headed to [[snorbuls-hole|his mining claim]], sat down in the dirt, and rolled over to sleep. The Dwarves saw he needed a nap and shoveled a little gravel on top of him.
 
-Demogorgon rises, and lashes out at Tark, desperate to grab at the lithe monk.
+---
 
-The rest of the group is already backing away, still seriously wounded and in no position to fight the Demon Prince again.
+Many hours later, across the barony, the group began to wake.
 
-The Golems are still over a minute out, long enough time for Demogorgon to kill them all.
+[[tarkathee-daru|Tark]] rose in the cool air of the marble bath chamber, bathed in the magically purifying water, cleaned his clothes, and cautiously explored. A servant reassured him he was in their own keep. He headed out into the courtyard — sunlight beaming from a blue sky, the castle bustling — and noted they seemed understaffed.
 
-As Tark flips over a grasping tendril, the Demon calls out, asking if he still has “it”
+He went to see [[gundren-rockseeker|Gundren]]'s workshop for the first time and was immediately impressed: the aqueduct drawing water up the cliff from the river, the waterwheel, the massive peaked roofs, the great panes of glass letting in the light. A manufactory. Tark greeted Barthen and Nundro — [[gundren-rockseeker|Gundren]]'s brothers — and was directed to the finishing bench, where [[gundren-rockseeker|Gundren]] was putting the final touches on two new inventions: a massive Iron Gauntlet designed to punch the ground, and an underslung grenade launcher for the [[thundercannon|Thundercannon]].
 
-Tark has no idea what he’s talking about.
+Tark was impressed — but then he recoiled when he looked at the dwarf's face.
 
-North, at the gate between districts, the stone wall 60ft away from the gate erupts, a thirty foot section exploding out.
+On [[gundren-rockseeker|Gundren]]'s forehead was a glowing sigil of metal: a ring with a dot at its center and another dot transfixed by the ring. The symbol of Hydrogen — though Tark didn't recognize it as such — and the symbol of Primus, God of Order.
 
-From it, an icy gale erupts, forming ice across every surface within a hundred feet.  Demons pour forth.
+[[gundren-rockseeker|Gundren]] and [[tarkathee-daru|Tark]] headed to the tavern. [[horatio-von-bumidere|Buumi]] followed shortly after. [[aliyah-faen-tlabbar|Patches]] finished constructing a new set of bombs from advanced components that had finally arrived, then headed up. [[snorbul|Snorbul]] awoke under his comfortable dirt, informed the Dwarves of his plans for a fighting pit, marked his claim as home in the stone, and headed topside.
 
-The unmistakable minions of Orcus attack the nearby Duergar, hitting the automated defenses like waves crashing on stone.
+---
 
-Until a larger form steps through the hole.
+The group reunited at Over the Moon. [[doc|Doc]] joined them.
 
-Even hunched, it’s massive, its back arching at least fifteen feet.  It glides forward, gossamer robes flowing around lithe armor-clad limbs and wielding two blue glowing blades.
+They cast a scrying spell, focusing on the other half of the crystal key to [[gravenhollow|Gravenhollow]] — supposedly within [[blingdenstone|Blingdenstone]]. The scrying succeeded, but the image was wrong: the crystal shard floated in a mass of viscous liquid, bubbles and detritus suspended within. [[feanon-serinde|Fey]] considered what he was seeing as the spell ended, then sighed: the crystal lay at the heart of [[juiblex|Juiblex]], Demon Lord of Oozes.
 
-Atop its head is a circlet of gold and a series of bladelike bars form a mask over a void where it’s face should be.
+Terrified for his family and ancestral home, [[snorbul|Snorbul]] asked for a Dreaming. [[cirrus-al-kayan|Cirrus]] obliged, and within the dream his uncle [[gruttag|Gruttag]] greeted him — still alive. Gruttag explained that after the upheaval of the Winter Solstice and the arrival of the Demon Lords, he and most of the extended clan had fled to [[blingdenstone|Blingdenstone]]. The flight had been difficult and many hadn't made it — including Beltran, Gruttag's eldest son and a close friend of [[snorbul|Snorbul]]'s. The clan had arrived two weeks ago, and although [[blingdenstone|Blingdenstone]] was not without danger, it had so far been a haven. But a strange melancholy was spreading through the Deep Gnomes — a daze of sadness gripping each person in turn. They worked, but socialized little. It concerned [[gruttag|Gruttag]] deeply.
 
-Snorbul recognizes it from childhood fairytales of demons; a Hierophant of Annihilation, one of Orcus’ barons.
+The dream ended. The group anticipated [[juiblex|Juiblex]] in [[blingdenstone|Blingdenstone]] and planned to head there as soon as [[aurinax|Aurinax]] had collected the Artifact.
 
-As the creature glides forward, its gaze falls upon the nearby Duergar and they simply drop.  Dead.
+[[aliyah-faen-tlabbar|Patches]] asked for a Dreaming of her own. [[cirrus-al-kayan|Cirrus]] obliged, and a new dream formed: [[moondancer-village|Moondancer Village]], covered in pristine winter snow, devoid of life. Standing at the center of the main clearing, beneath the great trees, was [[finn|Finn]] — a young Drow man with a striking resemblance to his mother, clad in Drow noble attire, his hair newly cut to denote his station.
 
-As if the group needed any more incentive to leave, Fey moves to putting the finishing touches on his teleportation circle just as Patches rushes up, patting her bag of holding and saying she has the prisoners.
+He turned and looked at her.
 
-Tark dives away again as Demogorgon halfheartedly reaches for him, but his attention is on the Hierophant.
-
-With a howl of insane rage, Demogorgon vanishes in a thunderclap, reappearing two hundred feet away, unfurling from the reflected image in the eyes of an unfortunate Duergar that caught his glare.
-
-The duergar is promptly torn asunder and the Prince of Demons wades in to battle, lashing at the Champion of Orcus.
-
-Fey finishes the teleportation circle and the last thing they see before the singularity draws the party in, is Anduriel the Narzugon rushing to the aid of her squad, smashing into the Chasme demons flying up from the chasm below…
-
-
-The light fades and the group finds themselves in Fey’s Teleportation room, the little Moon Elf attendant looks up from her book and stares in shock.
-
-Everyone is covered in gore, their own and Ronts.
-
-Buumi quickly begins a prayer of healing, trying to get everyone back on their feet.
-
-Buumi, Tark and Gundren simply sit.  Exhausted and unable to quite process everything that happened.
-
-Cirrus flips out.
-
-They cannot even be killed now!? What the hell do we do!?
-
-Fey and Tark relay what they saw below - if the Demon Lords could be brought to one place, not only would their hatred for one another cause a battle royale, they would quickly consume the ambient magical energies and kill each other for real, banishing one another back to the Abyss as they deplete the magic.
-
-All that would then remain, would be mopping up “The Winner”.
-
-There’s a healthy dose of skepticism that goes around, and moods are still dour after such a serious battle.
-
-Patches opens her bag and lets out Hemeth and Vilka who reunite with a very shaken Veygar.
-
-The three of them head to the docks to head to Over The Moon.
-
-Cirrus, still in shock, wanders with them, finding Li and demanding she help take him “home”.
-
-After about fifteen minutes, there’s a large group waiting for the auto-boat to ferry them across the lake.
-
-Patches long since slipped into one of her tunnels though and heads to the Tavern herself.
-
-After a solid nap, Gundren, Buumi and Tark head from the tower (Fey long since having retired to his private chambers) to go to the keep.
-
-It take the trio a little bit, Gundren heads through the Dwarven made fortress directly to his massive workshop, a red glow emanating from within.
-
-Ever since dropping unconscious in the battle, he has had a burning NEED to craft something.
-
-The Artificer gets to work.
-
-Buumi takes Tark into the keep, into the baths; a small recreation of the wonderful spa they all enjoyed in Neverwinter.  There, they sleep through the rest of the day.
-
-Over at the Fane of Selune, Cirrus prays in his inner sanctum, yodeling his praise to the goddess beneath the perpetual twilight of the eclipse.
-
-He feels the presence of his goddess and is infused with more power, his pact strengthening for the tasks ahead.
-
-Snorbul heads over to his mining claim and sits down in the dirt, rolls over and goes to sleep.
-
-The Dwarves see he needs a nap and shovel a little gravel on top of him, letting him sleep it off.
-
-Many hours go by and one by one, across the barony, the team begins to awaken from their much needed rest.
-
-
-Tark awakes in the cool air of the marble chamber, a pool of clean water inset into the floor.  He bathes and the magical waters remain pure and clean.  He cleans his clothes and then cautiously leaves, unsure where he is (though not on edge as Buumi sleeps nearby).
-
-He is reassured as he comes across a servant and she tells him he is within their own keep.
-
-He heads out into the main courtyard, sun beaming down from a blue sky and witnesses the bustle of the castle.  Though he notes they seem a bit understaffed.
-
-Tark looks over Gundrens workshop for the first time an is impressed.
-
-The aqueduct drawing water up the cliff from the river, the waterwheel, the massive peaked roofs and huge panes of glass to let in the light.  A manufactory.
-
-Tark heads over.
-
-The forge and furnace are impressive, as are the many workstations and benches.  Tark greets Barthen and Nundro, Gundren’s two brothers and is directed over to the finishing bench.
-
-He sees gundren putting the finishing touches on two new inventions - A massive Iron Gauntlet (to punch the ground) and an underslung grenade launcher for the Thundercannon.
-
-Tark is impressed, however he recoils in shock when he looks at the Dwarf’s face.
-
-On his forehead is a glowing sigil of metal; a ring, with a dot in the center and another dot transfixed by the ring.
-
-The symbol of Hydrogen (though Tark does not recognize it as that), and the Symbol of Primus, God of Order.
-
-Gundren and Tark then head to the Tavern.
-
-Buumi follows shortly after
-
-
-Patches finishes up in her rooms, having finished constructing a new set of bombs from the more advanced components that have finally arrived.
-
-She then heads up to the Tavern.
-
-
-Snorbul awakes under the comfortable dirt.
-
-He informs the Dwarves of his desire to make a fighting pit down here and then heads topside.
-
-He marks in the stone that the mining claim is his home now and then heads to the Tavern.
-
-
-The group all meet up in Over the Moon to discuss next steps.
-
-Doc B joins them.
-
-The group proceeds to cast a scrying spell, focusing on the other half of the crystal key to Gravenhollow - supposedly in the Deep Gnome “city” of Blingdenstone.
-
-The scrying is a success, but the image is strange, they see the Crystal shard, but it appears to be floating in a mass of viscous liquid, bubbles and detritus suspended within.
-
-Fey puts some information together and when the Scrying ends, he sighs in frustration: He thinks that the crystal lies at the heard of Juiblex, Demon Lord of Oozes.
-
-Terrified that the Demon Lord has laid waste to his family and ancestral home, Snorbul asks for a dreaming and he contacts his uncle.
-
-Still alive, his uncle **Gruttag **greets him within the dream.  After a quick explanation, he accepts the spell for what it is and they begin to talk.
-
-Gruttag, his family and most of the extended clan fled to Blingdenstone after the upheaval of the Winter Solstice and the arrival of the Demon Lords.
-
-The flight was difficult and many did not make it, including **Beltran**, Gruttag’s eldest son and a close friend of Snorbul.
-
-The clan arrived at Blingdenstone two weeks ago and although the ancestral home is not without danger, so far it is a haven from the wilds of the Underdark.
-
-A melancholy seems to be spreading throughout the Deep Gnomes of the settlement though, gripping each person it takes in a strange daze of sadness.
-
-They do their work, but they socialize little.  It concerns Gruttag greatly as the Deep Gnomes are normally extremely social within their clans.
-
-The dreaming ends and Snorbul relays his experience. The group anticipates that the Demon Lord Juiblex is in Blingdenstone and they intend to head there as soon as Aurinax has collected The Artifact.
-
-Needing to determine the state of her son before another detour, Patches asks for a Dreaming and Cirrus obliges.
-
-A new dream forms and resolves itself, Patches choosing the Moondancer Village where Finn lived for the last twenty years, covered in winter snow, pristine, but devoid of life.
-
-Standing in the center of the main clearing, the great trees of the forest rising around them, Patches sees her son, standing and looking at the Moon Elf village.
-
-He turns slowly, a young Drow man with a striking similarity to Patches, clad in Drow Noble attire and his hair newly cut to denote his station.
-
-As Finn spots Patches, his face contorts with a range of emotions and he marches close to her, stopping a few feet away and yells into her face: “LIAR!”.
+Then his face contorted through a storm of emotions, and he marched up and yelled into her face: "**LIAR!**"

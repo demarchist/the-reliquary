@@ -1,170 +1,83 @@
 ---
-title: The Demon Lords - Chardalin Mine
+title: "The Demon Lords - The Chardalyn Mine"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 5
+summary: "The group pushed deeper into the Netherese mine — extracting Chardalyn, battling a malevolent Earth Elemental, and dealing with Snorbul's catastrophic curiosity in the barracks — before the Duergar accidentally unsealed a Chardalyn sarcophagus that had imprisoned something ancient and terrible for three thousand years."
 people:
-  - "aliyah-faen-tlabbar"
-  - "cirrus-al-kayan"
-  - "feanon-serinde"
-  - "fen"
-  - "gundren-rockseeker"
-  - "intent"
-  - "ront"
-  - "snorbul"
-  - "thorna"
-  - "val-tengu"
+  - aliyah-faen-tlabbar
+  - cirrus-al-kayan
+  - feanon-serinde
+  - fen
+  - gundren-rockseeker
+  - intent
+  - ront
+  - snorbul
+  - thorna
+  - val-tengu
 places:
-  - "abyss"
-  - "snorbuls-hole"
-  - "underdark"
+  - abyss
+  - snorbuls-hole
+  - underdark
 things:
-  - "chardalyn"
-  - "tavern-of-doors"
+  - chardalyn
+  - tavern-of-doors
 factions:
-  - "duergar-faction"
+  - duergar-faction
 ---
 
-The group quickly strips the Duergar of important items; weapons, a letter, armor, keys and a jar of Keoghtom’s Ointment.
+The group stripped the fallen Duergar of everything useful: weapons, armor, keys, a letter, and a jar of Keoghtom's Ointment.
 
-Patches turns to the Chardalyn itself and begins to examine where best to mine a small portion.
+[[aliyah-faen-tlabbar|Patches]] turned to the [[chardalyn|Chardalyn]] deposit and got to work. With [[gundren-rockseeker|Gundren]]'s help, she identified the unoxidized veins and chipped away until she had extracted a five-pound chunk. These deposits were almost completely spent — exposed to the air for millennia, the bulk of the material had oxidized beyond use. Thorna threw her hammer at a section anyway; the oxidized layer exploded off and lightning was absorbed into the larger deposit in a shimmering display. [[cirrus-al-kayan|Cirrus]] retreated to the entrance to rest, healing the worst injured as he went.
 
-She hones in on a section and chips away with Gundren’s help, managing to extract a 5lb chunk of unoxidized material.
+[[snorbul|Snorbul]], looking around the cavern with a miner's eye, made a quiet observation: the unusual stair-stepping of the whole space had been caused by a collapse long ago. The mine above had been built much later, cut into the ruins beneath.
 
-These deposits are almost completely spent, having been exposed to the air for millenia.
+To the west, the group spotted a small camp and another [[chardalyn|Chardalyn]] deposit. They moved to investigate before going deeper.
 
-Thorna chucks her hammer at a section, smashing an oxidized layer off of the top as lightning is absorbed into the large deposit.  It’s quite pretty.
+The camp held pulverized Goblin bodies. [[gundren-rockseeker|Gundren]] was the first to hear whimpering from inside one of the tents and pointed it out to Thorna, who threw her hammer through it. The tent collapsed on a terrified Goblin.
 
-Cirrus heads back to the Entrance to rest, healing the worst injured as he goes.
+The group surrounded it and frightened out its story. It had been brought here by the Duergar with its kin to mine this deposit. It had gone to relieve itself away from camp, been attacked by the Roper but escaped, and returned to find everyone pulverized. It cowered before people considerably more threatening than any Roper.
 
-As Snorbul joins the group, he notes that the entire cavern collapsed onto a chamber beneath long, long ago. 
+[[feanon-serinde|Fey]] examined the [[chardalyn|Chardalyn]] deposit and detected something inside it: a powerful Earth Elemental, dormant within the crystal. He felt a malicious hunger radiating from it and warned the group. They let the Goblin go — it bolted deeper into the [[underdark|Underdark]] without looking back.
 
-The unusual stair-stepping was caused by the collapse and the mine was made much later.
+Thorna threw her hammer at the deposit.
 
-The group looks around seeing a small camp just to the west and another deposit of Chardalyn, they head there before going deeper into the mine.
+The Elemental surged forth — a strange ball of stony limbs lashing out. It smashed into Thorna, [[feanon-serinde|Fey]], and [[gundren-rockseeker|Gundren]] before [[aliyah-faen-tlabbar|Patches]] rushed in and the group dismantled it together. The creature landed many good strikes before it fell, but fall it did. From its remains they collected a handful of Elemental Motes of Earth and a small vial of Earth Elemental Essence.
 
-As they approach, they can see the pulverized Goblin bodies scattered around the campsite.
+[[aliyah-faen-tlabbar|Patches]] took another crack at the [[chardalyn|Chardalyn]] and, with the group's help, extracted a second five-pound chunk. [[feanon-serinde|Fey]] noted something unsettling about this material — it had absorbed a particular energy, a hunger that permeated the cavern. It was distinct from the Abyssal corruption of the [[underdark|Underdark]]. This power was older. Much older.
 
-Gundren is the first to hear the whimpering in the tent and he points it out to Thorna, who chucks her hammer through it.
+The sounds of heavy Duergar mining began to lessen in the background.
 
-The tent collapses on a terrified Goblin.
+[[aliyah-faen-tlabbar|Patches]] moved ahead while the group rested, wanting eyes on the remaining Duergar. As she approached the southern spur of rock that separated the main cavern, a Duergar crossed her path and ducked into a small tunnel — a messenger runner. She tried to paralyze him but couldn't find a gap in his armor. He spun on her, couldn't spot her, turned invisible, and sprinted away. Patches didn't pursue. Instead she rigged the tunnel entrance with traps and returned to scout the main force.
 
-The group surrounds the creature and quickly terrify the thing into spilling its guts.
+Meanwhile, [[snorbul|Snorbul]] had wandered into the Duergar barracks. He opened the front door, took a volley of rigged crossbow bolts to the face, and continued inside. Within was a massive iron-bound chest. He had the key — taken from the shapeshifting Duergar — and gave the chest a careful assessment. Probably trapped. He decided to drag it out of the room instead of opening it in place.
 
-It was dropped off by the Duergar, with its kin to mine this deposit.
+That triggered the trap.
 
-He went to poop, as he was away from the camp, he was attacked by the Roper but got away (his friend did not) and when he got back to camp, everyone here had been pulverized.
+A stone cutout dropped from the ceiling, shaped to contain the box and crush anyone trying to move it. It clipped [[snorbul|Snorbul]] as he dove backwards and landed with a crash that shook the entire cavern.
 
-The group looks at the Chardalyn and discover a powerful Earth Elemental living within the crystal.
+Every Duergar in earshot turned toward the sound.
 
-They let the Goblin go and he rushes off deeper into the Underdark.
+Out in the main chamber, the leader paced at the lip of a massive vertical shaft. A small bridge spanned it and a crane was secured at its center — something was being raised from below. Half a dozen Duergar and four Goblins guarded the area. Above, movement: a massive spider bearing a Duergar rider walked into view. They hitched the spider to the crane and began to pull.
 
-Fey feels a malicious hunger from the elemtnal and warns the group.
+[[aliyah-faen-tlabbar|Patches]] returned to the group and reported. They watched intently, tense. Then she heard something above — threw out a Faerie Fire and caught one of two mounted spider-riders in its revealing light.
 
-Thorns chucks her hammer at it.
+The group repositioned to engage the cavalry. [[aliyah-faen-tlabbar|Patches]] tar-bombed them to the ceiling and scaled the wall herself to attack. [[snorbul|Snorbul]] and Thorna were hit from the flank by a pair of Duergar attempting to pincer with the Kavalrachni. The battle was fierce but brief — the lone surviving warrior fled back to the main force.
 
-The elemental surges forth, a strange ball of stony limbs.
+What the crane had raised came clear as the fighting died: a Sarcophagus, carved from [[chardalyn|Chardalyn]].
 
-It smashes into Thorna, Fey and Gundren.
+[[feanon-serinde|Fey]] could feel a presence within it.
 
-Patches rushes in and between the group, the powerful elemental is quickly dismantled.
+The Duergar nearest the Sarcophagus began to sway and stagger. Their leader stumbled forward and heaved at the cover-stone. Thorna and [[feanon-serinde|Fey]] reacted, casting an Ice Storm across the Duergar — Goblins killed instantly, the rest forced to huddle under their shields. The leader stood uncaring in the storm and heaved again, shifting the lid.
 
-The elemental gets in many good strikes itself though before it dies.
+A flash of green light. The leader was petrified in place — then shattered by the falling ice.
 
-The group is being whittled down.
+Another Duergar staggered toward the Sarcophagus. Those nearby called to him to stop. He didn't. He put his shoulder against the stone and shoved.
 
-The group collects a number of Elemental Motes of Earth (Crafting and 1-use Grease spell if thrown) from the creature and a vial of Earth Elemental Essence in a small vial (Conjure Elemental: Earth elemental as an action).
+The seal broke.
 
-Patches takes another crack at the Chardalyn and manages to extract another 5lb chunk with help from the group.
+A strange clicking filled the air, building in frequency and number until it sounded like the constant thrumming of massed cicadas — many times louder. Purple tentacles, ropey and thick with translucent mucus, whipped from the gap and enveloped the Duergar. He stood transfixed and smiling as the tendrils engulfed him.
 
-Fey feels that the Chardalyn has absorbed an energy, a hunger that permeates the cavern, distinct from the corruption of the Abyss.  This power is far older than the current issues the Underdark faces.
+Something vast pulled itself free of its prison — something that had not walked the earth in three thousand years.
 
-The heavy noise begins to lessen in the cavern and the Duergar mining tapers off in the background.
-
-Patches sneaks on ahead while the group catches their breath, deciding that its time to get eyes on the Duergar.
-
-As she approaches the southern spur of rock that separates the massive cavern, a Duergar rushes across her path and into a small tunnel entrance.
-
-Patches follows and quickly realizes that this is a messenger runner.
-
-She tries to paralyze him but cannot find a seam in his armor.
-
-The Duergar spins on her but in a deft move, Patches stays out of his line of sight.
-
-Knowing he’s not alone, the Duergar turns invisible and begins to sprint deeper into the tunnels, leaving the area.
-
-Patches does not pursue, but she does set up a series of traps in the tunnel entrance.
-
-She returns to the main chamber and gets closer to the main group of Duergar.
-
-Meanwhile, Snorbul has wandered off into the Duergar barracks.
-
-He opens the front door, gets shot in the face by a series of rigged crossbow bolts and continues inside.
-
-Inside the Barracks, he sees a massive Iron-bound chest and approaches it, realizing that he has the key (taken from the shapeshifting Duergar).
-
-He gives it a once over and figures that it’s probably trapped.
-
-He decides to try and drag it out of the room instead of opening it...which triggers the trap.
-
-A stone cutout drops from the ceiling, carved to contain the box and crush anyone trying to open the chest.
-
-It clips Snorbul as he dives backwards, bruising him horribly and landing with a resounding crash that shakes the cavern.
-
-Everyone hears the crash and the Duergar turn, looking in the groups direction.
-
-The leader can be seen pacing back and forth at the lip of a massive hole, dug directly down, a small bridge spans it and a crane is secured at its center.
-
-They are raising something up from below.
-
-A half dozen Duergar and four Goblins guard the area and sound can be heard from within the hole.
-
-The impatient leader yells up into the cavern and the group spots movement from farther up.
-
-A massive spider with a Duergar astride it walks into view.
-
-They hitch the spider up to the crane and it begins to pull.
-
-The Duergar take defensive formations.
-
-Patches returns to the group and relays what she saw.
-
-Thinking that there’s most certainly more spider cavalry, everyone watches intently.
-
-Patches hears whispering from above and throws out a Faerie fire, catching one of the two mounted Duergar.
-
-The group below repositions to fire on the Cavalry.
-
-Patches Tar bombs them to the ceiling and then rushes up the wall to attack them.
-
-Meanwhile, Snorbul and Thorna are attacked by a flanking pair of Duergar seeking to pincer with the Kavalrachni.
-
-The battle is fierce and quickly turns on the Duergar and the lone surviving warrior flees back to the main force.
-
-The item from below has been raised - it is a Sarcophagus of Chardalyn.
-
-Fey can feel a presence from within.
-
-The Duergar nearby the Sarcophagus sway and stagger and the leader stumbles forwards and heaves at the cover-stone.
-
-Thorna and Fey rush forwards and both cast an Ice-storm down on the Duergar.
-
-The Goblins are killed instantly and the Duergar are forced to huddle together under their shields for protection.
-
-The Leader stands there, uncaring and heaves again and moves the lid.
-
-A flash of green light and the leader is petrified in place, but is quickly shattered by the ice-storm raging around him.
-
-Another nearby Duergar staggers toward the sarcophagus.
-
-Those nearby realize something is wrong and call to their colleague to stop.
-
-He does not and with a shove, he finally breaks the seal on the ancient thing.
-
-A strange clicking fills the air, growing in frequency and number until it sounds like a constant thrumming of cicadas though many times louder.  Purple tentacles, ropey and covered in thick translucent mucus whip from the tiny gap to entagle the Duergar.
-
-The Duergar stands there, transfixed and smiling as he is engulfed by the spilling tendrils.
-
-Something vast pulls itself free of its prison, something that has not walked the earth in three thousand years.
-
-A wormlike beast of writhing tentacles and covered in a thick cloying mucus spills from the crystal sarcophagus, far too small to contain such a creature. Psudopod like tendrils reach for everyone around it and a psychic weight settles on all within the cavern…
+A worm-like creature of writhing tentacles poured from the sarcophagus, far too massive to have ever fit within. Pseudopod tendrils lashed for everyone nearby, and a psychic weight settled across the entire cavern.

@@ -1,333 +1,131 @@
 ---
-title: The Demon Lords - Thorna
+title: "The Demon Lords - Thorna"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 2
+summary: "Patches confronted Finn in the Dreaming and showed him the truth of Moondancer Village, while back in the barony a wandering Air Genasi named Thorna stumbled in and was gifted a divine warhammer by the Frost Maiden — and plans for an Abyssal Heist began to take shape."
 people:
-  - "aliyah-faen-tlabbar"
-  - "auril"
-  - "aurinax"
-  - "beryan"
-  - "cirrus-al-kayan"
-  - "demogorgon"
-  - "feanon-serinde"
-  - "finn"
-  - "gundren-rockseeker"
-  - "horatio-von-bumidere"
-  - "intent"
-  - "orcus"
-  - "pickles"
-  - "ront"
-  - "selune"
-  - "shar"
-  - "snorbul"
-  - "surtr"
-  - "tarkathee-daru"
-  - "theodemir"
-  - "thorna"
+  - aliyah-faen-tlabbar
+  - auril
+  - aurinax
+  - beryan
+  - cirrus-al-kayan
+  - demogorgon
+  - feanon-serinde
+  - finn
+  - gundren-rockseeker
+  - horatio-von-bumidere
+  - intent
+  - orcus
+  - pickles
+  - ront
+  - selune
+  - shar
+  - snorbul
+  - surtr
+  - tarkathee-daru
+  - theodemir
+  - thorna
 places:
-  - "abyss"
-  - "amn"
-  - "blingdenstone"
-  - "daggerford"
-  - "fane-of-selune"
-  - "feanons-tower"
-  - "gauntlgrym"
-  - "gravenhollow"
-  - "menzoberranzan"
-  - "moondancer-village"
-  - "silverymoon"
-  - "sundabar"
-  - "the-crossroads"
+  - abyss
+  - amn
+  - blingdenstone
+  - daggerford
+  - fane-of-selune
+  - feanons-tower
+  - gauntlgrym
+  - gravenhollow
+  - menzoberranzan
+  - moondancer-village
+  - silverymoon
+  - sundabar
+  - the-crossroads
 things:
-  - "eclipse"
-  - "iron-tome"
+  - eclipse
+  - iron-tome
 factions:
-  - "amnians"
-  - "drow-faction"
-  - "netherese"
-  - "svirfneblin-faction"
+  - amnians
+  - drow-faction
+  - netherese
+  - svirfneblin-faction
 ---
 
-Patches looks upon her son's face for the first time in many years.
+[[aliyah-faen-tlabbar|Patches]] looked upon her son's face for the first time in many years.
 
-He looks back, face contorted with anger that quickly fades.
+[[finn|Finn]] looked back, his face contorted with anger that quickly faded. He turned away as she began to explain, his attitude uncaring — he clearly believed he was lucid dreaming. [[aliyah-faen-tlabbar|Patches]] corrected the notion, telling him about the Dream spell. His attitude shifted immediately to shock. He stammered an apology for his outburst, thinking he had been venting to a dream a moment ago, then grew shy and stand-offish — uncertain before this woman he had barely seen throughout his life.
 
-Finn turns from Patches as she tries to explain and placate.
+They began to talk.
 
-His attitude is uncaring and it quickly becomes apparent he thinks he is Lucid Dreaming.
+[[finn|Finn]] seemed to hold a strangely clean view of Patches' family, which made her question what his experience had actually been during the "kidnapping." He replied that he had been put to sleep and awoken in [[menzoberranzan|Menzoberranzan]]. [[aliyah-faen-tlabbar|Patches]] didn't argue. Instead she changed the dream — shifting it to show him [[moondancer-village|Moondancer Village]] as it truly was after the Drow attack.
 
-Patches corrects this notion by informing him of the Dream spell.
+[[finn|Finn]] looked around in horror as his home of twenty years burned. Everyone he had ever known lay butchered in the snow, arranged in a horrific pattern. He rushed to the center — to the severed head of his teacher and father figure, Renarin, covered in spiders and screaming. [[aliyah-faen-tlabbar|Patches]] showed him what the group had been forced to do to remove it, then ended the vision, restoring the idyllic village from before. [[finn|Finn]] fell to his knees sobbing.
 
-His attitude quickly changes to shock and he stammers an apology for his outburst, thinking he was venting to a Dream a moment ago.
+She gave him time.
 
-He turns shy and stand-offish, in front of this figure he has barely seen throughout his life.
+After a few minutes he began to sober. He asked what she wanted. [[aliyah-faen-tlabbar|Patches]] told him she wanted to save him and make sure he was safe. He snorted — he felt perfectly safe in the House Complex. She asked after [[menzoberranzan|Menzoberranzan]], and he explained: [[demogorgon|Demogorgon]] had been summoned there two weeks ago and cut a swathe through the city. Since then, packs of demons under the control of the Priestesses had been keeping order and keeping *other* demons out.
 
-They begin to talk.
+They exchanged a few more words before [[aliyah-faen-tlabbar|Patches]] ended the spell.
 
-Finn seems to have a “cleaner” view of Patches family and it leads Patches to question what his experience has been “kidnapped” by her family.
+She sat up in Cirrus' Dreaming Den and looked away, a little choked up. [[horatio-von-bumidere|Buumi]] placed a hand on her shoulder. She shrugged it off. [[feanon-serinde|Fey]] and [[snorbul|Snorbul]] waited to hear what she had found out, though Fey was already distracted — he could feel a newcomer entering his demesne. [[aliyah-faen-tlabbar|Patches]] explained the city situation but kept the personal details to herself. Then the group headed to the tavern to discuss next steps.
 
-Finn replies that he was put to sleep and awoke in Menzoberranzan.
+---
 
-Patches shows him what her family wrought and changes the Dream to the view of Moondancer Village - post Drow attack.
+A stranger walked along the trade way toward the barony, driven by some desire to meet the adventurers who called this place home.
 
-Finn looks around in horror as his home of twenty years burns and everyone he ever knew lays butchered in the snow, arranged in a horrific pattern.
+She had frizzy grey hair, pallid skin, and dark grey eyes, and she walked past the outer gates and into New Daggerford unhindered. Finding the grand Over the Moon Tavern, she pushed open the front doors. A peal of thunder echoed. A murder of crows took off, cawing. A faint riff of lute chords drifted from [[the-crossroads|the Crossroads]] theater.
 
-He rushes to the center, to the head of his former teacher, and father figure; Renarin.
+[[tarkathee-daru|Tark]] and [[gundren-rockseeker|Gundren]] looked up from their bountiful meal and raised their drinks to the newcomer, who introduced herself as Thorna. She was hungry, she was broke, and she made no effort to hide either.
 
-Covered in spiders and screaming, the head is a ghastly sight.
+[[gundren-rockseeker|Gundren]] laughed and pulled out his magical silver Ewer, pouring its contents over an empty table. A bountiful feast erupted across the wood — the flowing red wine becoming a tablecloth beneath plates of food — and the entire tavern let out a cheer. Before long, every patron was feasting.
 
-Patches shows what her friends had to do to remove the cursed head.
+The rest of the group arrived and joined in. [[feanon-serinde|Fey]] recognized Thorna as an Air Genasi. [[snorbul|Snorbul]] started touching her face to confirm she was far too cold for a normal person; she poked him right back. [[aliyah-faen-tlabbar|Patches]] got drunk, said one too many emotional things, had [[horatio-von-bumidere|Buumi]] neutralize the alcohol, and started all over again. [[tarkathee-daru|Tark]] meanwhile nearly singlehandedly drank an entire bottle of Firewhiskey after Thorna challenged him to a drinking contest, not believing he was immune to poisons. Flabbergasted that he was still standing, she demanded a sobering so she could start again.
 
-Patches ends the vision, returning it to the idyllic village from before and Finn falls to his knees sobbing.
+Fey had been watching Thorna throughout, and turned away disappointed — not an ounce of the Arcane about her. Must be Divine. He told [[cirrus-al-kayan|Cirrus]], and the Warlock lit up at the prospect of a potential convert.
 
-She gives him some time.
+Then [[tarkathee-daru|Tark]] bolted to his feet, grabbed as much food as he could carry, and ran from the tavern. A few heads turned in concern, but [[horatio-von-bumidere|Buumi]] waved them down: he had remembered the cave bear cub he had left at his treehouse. Tark rushed back to find it — and breathed a sigh of relief when he spotted the little creature hanging upside down from a cherry blossom, eating the flowers. He spent the rest of the night playing with it and giving it attention.
 
-After a few minutes, he begins to sober.  He asks what she wants.
+[[feanon-serinde|Fey]] returned to his tower to work on his Central Nexus and the Mortal Contingency, enlisting the sage [[beryan|Beryan]], who quickly produced a relevant tome from her personal collection.
 
-Patches responds that she wants to save him and make sure he’s safe.
+---
 
-He snorts and recounts that he feels perfectly safe where he is; The House Complex.
+[[cirrus-al-kayan|Cirrus]] had enticed Thorna to come with him to [[fane-of-selune|the Fane of Selune]], promising a warm bed at minimum. As they walked along the cobblestone path through the old-growth forest, he began proselytizing the virtues of [[selune|Selune]] with considerable enthusiasm. The sky clouded over and thunder rumbled as Thorna played along, not entirely sure what she had gotten herself into.
 
-Patches asks after the state of Menzoberranzan and he responds, saying it’s in lockdown.
+As they approached the Fane, a phantom sun began to rise and the moon shifted to block it — the magical [[eclipse|eclipse]]. Thorna slowed, staring. Then the clouds above rumbled and a bolt of lightning arced down, ripping into her before she could dive aside. She staggered — and then her hand extended, and the lightning flowed to it, coiling and taking shape.
 
-Demogorgon was summoned there two weeks ago and cut a swathe through the city.
+The energy formed into a crackling warhammer, electricity arcing along her arm, frost spreading across every surface within ten feet. A name rang in her head — not so much a voice as a sudden awareness of information: this power was of the Frost Maiden, [[auril|Auril]]. And she was a demanding goddess.
 
-Ever since, packs of demons under the control of the Priestesses have been keeping order and keeping *other* demons out.
+[[cirrus-al-kayan|Cirrus]]' breath came out in a plume. He looked on with delight — a very promising acolyte indeed.
 
-They exchange a few more words and Patches ends the spell.
+The warhammer's head was double-sided: its striking face shaped like an owl with curling ram horns, a feather motif continuing back to the metal rod, which tapered behind into an ice-pick spike. The pommel held a softly glowing sapphire. Thorna hurled it experimentally — and after four feet it exploded into sparks and vanished. She called it back, the hammer reforming from electricity in her hand, willed it to persist, and hurled it again. It struck the ground and erupted into a burst of frost.
 
-She sits up in Cirrus’ Dreaming Den and looks away, a little choked up.
+Happy, if somewhat confused by the evening's turn of events, the two of them continued to the Fane.
 
-Buumi places a hand on her shoulder and she shrugs it off.
+Later that night, Thorna made it clear she had no interest in joining [[cirrus-al-kayan|Cirrus]]' religion. Her business was with [[auril|Auril]], and that was where her attention would go. Frustrated and feeling a little led on, [[cirrus-al-kayan|Cirrus]] retired to his chambers and began yodeling his prayers at exceptional volume to try and annoy the Genasi. It didn't work. She slept through the night.
 
-Fey and Snorbul wait to hear what she found out, though Fey is distracted as he feels a newcomer entering his demesne.
+---
 
-Patches goes on to explain the city situation, but keeps most of the personal information to herself.
+[[snorbul|Snorbul]] returned to [[snorbuls-hole|his camp]] that evening and set up clothes cubbies by the tunnel entrance, as any proper Svirfneblin would. In the morning he awoke to the sounds of Dwarven muttering in the tunnels — the miners had found the cubbies and weren't sure how to proceed. One, named Gary, simply stripped and abided by the custom. [[snorbul|Snorbul]] pointed out, quite convincingly, that it cut down dramatically on laundry and cleaning costs. The Dwarves could get behind that. One by one they stripped and headed into the gem-mines.
 
-The group then heads out to the Tavern to discuss next steps.
+---
 
+The group reconvened at the tavern in the morning. They had the day — twenty-four hours — before [[aurinax|Aurinax]] arrived. Then they would leave for [[blingdenstone|Blingdenstone]] to retrieve the other half of the key to [[gravenhollow|Gravenhollow]].
 
+[[cirrus-al-kayan|Cirrus]] pulled out the iron tuning fork for [[abyss|the Abyss]] and slammed it on the table dramatically. Thorna ate her breakfast.
 
-A stranger walks along the trade way toward the barony, driven by a desire to meet the adventurers that call this place home.
+Cirrus proposed an assault on [[orcus|Orcus]]' stronghold — to seize the Artifact while the Demon Lord was elsewhere. The group decided it was a fantastic idea, though it would require research. Cirrus had a new objective for the Stone Giant Library: the location of [[orcus|Orcus]]' capital. The Abyssal Heist was in planning.
 
-With frizzy grey hair, pallid skin and dark grey eyes, the woman walks past the outer gates and into the heart of New Daggerford unhindered.
+[[aliyah-faen-tlabbar|Patches]] summoned [[eclipse|Eclipse]], just to remind everyone she was not the only one with a divine weapon. Everyone was still amazed by the hammer.
 
-The bedraggled traveler walks into the center of town, and seeing the grand Over the Moon Tavern, heads inside.
+[[gundren-rockseeker|Gundren]] had been eyeing Thorna throughout the conversation with growing interest. He concluded that a new capable fighter was never a bad thing and approached her directly. A quick discussion ended with the two of them heading up to his workshop — she was coming with them.
 
-As she opens the front doors, a peal of thunder echoes and a murder of crows takes off, cawing.  A faint riff of lute chords can be heard from The Crossroads Theater.
+At the workshop, [[gundren-rockseeker|Gundren]] fitted Thorna with Amnian magical armor taken from veterans killed in [[silverymoon|Silverymoon]]. The armor magically resized, the helm's mask reshaping to resemble her own features. Then he had her summon the hammer. A bolt of lightning ripped through the ceiling, and there it was. He had her unsummon and resummon it — another hole blasted through. Thorna winced at the crashing glass. [[gundren-rockseeker|Gundren]] laughed.
 
-Tark and Gundren turn from their bountiful meal and excessive drinking to look at the newcomer.
+He took measurements with calipers, called his brothers over for material estimates, then went to confer briefly with [[surtr|Surtr]] the Fire Giant. He returned with a plan: he was going to make her a matching weapon. He sent orders for a thousand-gold block of pure Mithril from contacts in [[sundabar|Sundabar]], a five-hundred-gold Adamantine rod from [[gauntlgrym|Gauntlgrym]], a Platinum-Gold alloy ingot worth five hundred gold that [[aurinax|Aurinax]] would need to breathe on to make Aurum, and a thousand-gold Topaz from a gem dealer Patches knew in [[silverymoon|Silverymoon]]. The Glacium Chits recovered from the Netherese laboratory would coat the head. It would take a week for the supplies to arrive — and the Everfire at Sundabar would be needed for the final work.
 
-They greet the traveler who introduces herself as Thorna.
+---
 
-A hungry Thorna looks at the food and licks her lips, lamenting her complete lack of coin.
+[[feanon-serinde|Fey]] took [[snorbul|Snorbul]] and Thorna to [[feanons-tower|his tower]] to visit the tailor. In the lobby, no one was at the front desk — until a small halfling wizard flopped onto it, clutching a tiny net. Fey sighed. A creature called the Pugasis had escaped, and Gussiepe wanted Thorna on lookout for it. Fey walked on without comment and found the tailor had relocated to a large conference room with better natural light. Fey did not agree with this arrangement. The tailor ground his teeth. They spent the rest of the day having outfits fitted, though [[snorbul|Snorbul]]'s would take many days — he had requested particularly fancy mesh.
 
-Gundren laughs and pulls out his magical silver Ewer and pours the contents over an empty table.
+[[aliyah-faen-tlabbar|Patches]] spent the day upgrading her bombs, then went to check on the Orcs across the river — no one had visited them recently. Taking [[pickles|Mr. Pickles]] as a translator and changing her skin tone to that of a Moon Elf, she headed in alone. The settlement had changed dramatically: a Dwarf-made bridge now spanned the river, and across it stood dozens of yurts and a palisade wall of sharpened logs against the Evermoor. The Orcs seemed to be doing well — their aggression directed outward into the Moors rather than at the local humans. She tried to speak with the leader of a warrior group heading out into the mist, but he was not interested in talking to an elf he didn't know, even one quick enough to dodge him. He chuckled and walked away. [[aliyah-faen-tlabbar|Patches]] shrugged and headed back.
 
-A bountiful feast erupts across the table as the flowing red wine turns into a tablecloth beneath amazing plates of food.
-
-The entire tavern lets out a cheer and before long, every patron is feasting.
-
-The rest of the group arrive and join in, chatting and drinking with Thorna while Patches relays to the others what her son said about Menzoberranzan.
-
-Fey recognizes Thorna as an Air Genasi and Snorbul starts to touch her face, corroborating that she’s far too cold for a normal person.
-
-She pokes Snorbul in the face right back.
-
-Patches gets drunk, says one too many emotional things, gets Buumi to neutralize the alcohol, and then does it all over again.
-
-Meanwhile, Tark almost singlehandedly drinks an entire bottle of Firewhiskey after Thorna challenged him to a drinking contest (not believing he’s immune to poisons).
-
-Flabbergasted, Thorna demands a sobering so she can start drinking all over again.
-
-Fey meanwhile has been watching the newcomer, and turns away disappointed spotting not an ounce of the Arcane about her; must be Divine.
-
-Fey tells Cirrus and the Warlock lights up, thinking he has a potential convert to the religion.
-
-As they chat, Tark bolts to his feet, eyes wide, grabs as much food as he can and bolts from the tavern.
-
-A few people look in concern but Buumi waves them down; he’s just remembering the Cave Bear baby back at the tree house.
-
-Sure enough, Tark rushes back there to look for it, but it’s not where he left it.
-
-Putting the food down and looking in the surrounding forest, Tark breathes a sigh of relief when he finds the little beast hanging upside down on a cherry blossom, eating the flowers.
-
-He spends the rest of the night playing with it and giving it attention.
-
-After the feast, Fay returns to his tower to work on his Central Nexus and The Mortal Contingency.
-
-Thinking that a sage could surely help, he enlists the Sage Beryan and she quickly finds him a tome on the subject from her personal collection.
-
-
-Cirrus meanwhile has enticed Thorna to come with him to the Fane of Selune.
-
-As they walk along the cobblestone pathway through the old growth forest, Cirrus begins proselytizing the virtues of Selune.
-
-The sky clouds over and thunder rumbles as Thorna diligently plays along, not entirely sure what’s happening, but having been promised a warm bed at least.
-
-As they approach the Fane, a phantom sun begins to rise and the moon shifts over to block it in a magical eclipse.
-
-Thorna slows, shocked at what’s happening.
-
-More shocking though, the clouds above rumble and a flash of lightning arcs down.
-
-The searing energy rips at Thorna as she tries to dive aside but it strikes her squarely.
-
-As she staggers, her hand extends forth and the lightning arcs to it, forming a shape.
-
-The energy forms into a crackling Warhammer, sparking with electricity and all the ground within 10ft is covered in a coat of frost.
-
-A name rings in Thorna’s head, not so much a voice as a sudden awareness of information: This power is of The Frost Maiden; Auril.  And she is a demanding goddess.
-
-Cirrus’ breath comes out in a plume and he looks on with glee; a VERY promising acolyte indeed!
-
-Thorna holds the Hammer up, electricity still arcing along her arm.  The warhammer’s head is double sided, with the striking face looking like that of an Owl with curling Ram horns.  A feather motif continues back to where it fastens to a metal rod before continuing behind into a tapering Ice-pick like spike.  The pommel contains a sapphire that softly glows.
-
-Thorna throes the hammer and after 4ft, it explodes into sparks, vanishing.
-
-Calling it back to her, the hammer reforms from electricity in her hands and she tries again, willing it to persist.
-
-The hammer arcs out and smashes into the ground, causing a burst of frost.
-
-Happy, but a tad confused at the turn of events, the two of them continue to the Fane.
-
-
-Some time later, Fey and Thorna are outside the Inner sanctum, discussing Selune and Divinity.
-
-After a brief bit of interest, Thorna makes it very clear that she has no interest in joining Cirrus’ religion and instead must explore her power from The Frost Maiden.
-
-Frustrated and feeling a little led on, Cirrus heads into his chambers for the night and begins to Yodle-pray exceptionally loud to try and annoy the Genasi.
-
-It does not work and she sleeps through the night.
-
-
-During the night, Snorbul returned to his budding Camp, taking time to set up clothes cubbies by the tunnel down, as any proper Svirfneblin would have.
-
-He awakes in the morning to the soft sounds of Dwarven mutterings coming down the tunnels.
-
-Investigating, Snorbul sees the miners looking at the cubbies, unsure how to proceed until one; Gary, simply strips and abides by the custom.
-
-Snorbul mentions quite convincingly that it SERIOUSLY cuts down on the laundry and cleaning costs, not to mention upkeep.
-
-This is something the Dwarves can get behind and one by one, they strip and head into the Gem-mines of Snorbul’s domain.
-
-
-The group reconvenes at the Tavern in the morning.
-
-They have the day - 24 hours - before Aurinax shows.
-
-They will then leave for Blingdenstone to get the other half of the key to Gravenhollow.
-
-Cirrus pulls out the Iron tuning fork for the Abyss and slams it on the table dramatically.
-
-Thorna eats her breakfast.
-
-Cirrus proposes an assault on Orcus’ stronghold to secure the Artifact while the Demon Lord is not there.
-
-The group decides that is a fantastic idea, though they need to do some research.
-
-Cirrus has a new objective in the Stone Giant Library - to learn of Orcus’ capital - **Abyssal Heist, the planning begins.**
-
-Patches is informed about the God-given weapon and summons Eclipse, just in case Thorna felt too special, saying she’s not the only one.
-
-Everyone IS pretty amazed at the recounting of the Hammer.
-
-Gundren ibegins eyeing Thorna, thinking about the hammer.
-
-He decides that a new Meat Shield is never a bad thing and he approaches her.
-
-A quick discussion ensues and it ends with the two of them heading up to Gundren’s Workshop to get her outfitted, she’s coming with them.
-
-At the workshop, Gundren has her equip a suit of Amnian magical armor, taken from the Veterans killed in Silverymoon.
-
-The armor magically resizes to fit and the mask of the helm reshapes to resemble her own features. Nice stuff.
-
-Gundren has her summon the hammer.  A bolt of lightning rips through the ceiling and it appears in her hand.
-
-He has her unsummon, and re-summon it and another hole is blasted through the ceiling.
-
-Thorna winces as the glass crashes down from above.  
-
-Gundren laughs.
-
-Gundren has her keep the Hammer out and he begins taking measurements with calipers.
-
-He calls to his brothers to come and start getting material estimates.
-
-Backing off, Gundren digs into his stash of resources and after a quick chat with Surtr the Fire Giant, comes back to Thorna with a plan.
-
-He’s going to make her a matching weapon.  
-
-His brothers are ordering a **1000gp block of pure Mithril** from his contacts in Sundabar, a **500gp Adamantine rod from Gauntlgrym**, **A Platinum-Gold alloy Ingot worth 500gp** that he needs Aurinax to breathe on before he leaves (to make **Aurum**) and a **1000gp Topaz **he’s send a letter to a gem dealer Patches knows in Silverymoon.
-
-He will use the **Glacium Chits** (think Mandalorian Beskar size) retrieved from the Netherese laboratory to coat the head.
-
-**It will take a week for the necessary supplies to arrive - in Sundabar -The Everfire is needed for something like this.**
-
-Fey then takes Snorbul and Thorna to his tower to visit his tailor.
-
-Heading into the main lobby of the strangely sterile interior, they see no one is at the front desk.
-
-Until a small halfling wizard flops onto it with a tiny net.
-
-Fey sighs, it’s always something with these guys.
-
-Gussiepe introduces himself and hands Thorna over a net; she’s to be on the look out for his latest crossbreed test - The Pugasis.
-
-Well, it escaped and he’s worried about the ecological ramifications.  
-
-Best to exterminate early, thats what Gussiepe always says.
-
-Fey simple walks on, losing his patience and heads to the small room denoted for the Tailor.
-
-He’s not there.
-
-“Seriously, these people…” mutters Fey.
-
-He finds him in a large conference room on the outer wall of the tower, a large pane of glass letting in natural light.
-
-Mr Markinsworth asks if Fey could have the Unseen Servants stop taking his things back to the cramped room as the conference chamber is much better suited.
-
-Fey does not agree.
-
-Markensworth sighs and grinds his teeth, he remembers why he had issues with these guys before.
-
-They spend the rest of the day having outfits tailored for them, though Snorbul’s will take many days, as he asked for some very fancy mesh clothes.
-
-
-Patches takes the day to upgrade her bombs and then heads to check on the Orcs as no one has done that yet.
-
-She takes Mr Pickles as a translator.
-
-Changing her skin tone to that of a Moon elf, Patches heads in to talk with them...alone.
-
-She sees the place has changed dramatically.
-
-Having moved across the river, there is now a Dwarf-made bridge spanning it just before the rapids.
-
-Across the bridge are dozens of yurts, set up from the cleared edge of the Evermoor.
-
-Against the skyline of the thick, twisted swamp trees is a line of sharpened logs, a Palisade wall against the Moors.
-
-The place seems to be operating as usual and though she’s getting numerous looks and stares, noone accosts her.
-
-Patches heads deeper into the settlement and it looks like they’re doing really well, focusing their aggression out into the moors rather than against he local humans.
-
-She watches as a group of young warriors prep to head off through the main gates and into the misty swamp.
-
-Approaching, Patches asks what they’re going for.
-
-The lead Brave looks her over and tsk’s disapprovingly, but pauses when he notices the small Goblin next to her - Mr. Pickles.
-
-She tries again, Mr. Pickles translating, but the Orc is not interested in talking to a weakling elf, even if she proves to be very quick, dodging him with ease.
-
-He chuckles and turns his back, not knowing who Patches is, and heads with his troop into the Moor.
-
-Patches shrugs and turns around, heading back across the bridge and back to the crossroads.
-
-Fey spends the day putting together a list. He thinks he knows what he needs and sends out a number of letters, including an invitation to **Lady Avelyere of Shade Enclave**, the Netherese Arcanist. 
-
-The other letters are ingredients and custom materials.
-
-The Iron Tome and Theodemir are checking his calculations, and he’s confident it will be ready to cast soon…
+[[feanon-serinde|Fey]] spent the day drafting letters — ingredients and custom materials for his research, and an invitation to Lady Avelyere of Shade Enclave, the Netherese Arcanist. The [[iron-tome|Iron Tome]] and [[theodemir|Theodemir]] were checking his calculations. He was confident the spell would be ready to cast soon.
