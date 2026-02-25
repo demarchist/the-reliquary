@@ -1,171 +1,75 @@
 ---
-title: The Demon Lords - Marilith Attack
+title: "The Demon Lords - Marilith Attack"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 12
+summary: "Escorting the Pickshine ore cart toward Blingdenstone, the group battled Barlgura demons and Juiblex-tainted oozes through the Svirfneblin tunnels — before a Marilith ambushed them in the darkness, and Gwen tore the demon apart as it died still trying to slash Gundren."
 people:
-  - "aliyah-faen-tlabbar"
-  - "cirrus-al-kayan"
-  - "eilistraee"
-  - "feanon-serinde"
-  - "fen"
-  - "gruttag"
-  - "gundren-rockseeker"
-  - "juiblex"
-  - "shar"
-  - "snorbul"
+  - aliyah-faen-tlabbar
+  - cirrus-al-kayan
+  - eilistraee
+  - feanon-serinde
+  - fen
+  - gruttag
+  - gundren-rockseeker
+  - juiblex
+  - shar
+  - snorbul
 places:
-  - "blingdenstone"
-  - "underdark"
+  - blingdenstone
+  - underdark
 things:
-  - "gwen"
+  - gwen
 factions:
-  - "svirfneblin-faction"
+  - svirfneblin-faction
 ---
 
-Snorbuls cousin blinks and smiles at his cousin in greeting.
+Yuri blinked and smiled at his cousin in greeting.
 
-The group finds themselves in the middle of the Svirfneblin Common Hall, in the heart of the Pickshine mines of Blingdenstone.
+[[snorbul|Snorbul]] held the look a moment longer than was natural, then smiled back.
 
-They head over to Daco Pickshine, led by Gruttag to the foreman of the Svirfneblin miners and are welcomed by the Deep Gnome.
+The mine leader, Daco Pickshine, welcomed the group warmly — warmly enough that it was clear [[snorbul|Snorbul]]'s reputation preceded him. Time in the fighting pits was well known among Svirfneblin, and Snorbul was apparently something of a legend. Daco had a request: the group could earn an audience with the Diggermattocks, the chieftains of [[blingdenstone|Blingdenstone]], if they would escort the daily ore cart to the city. He needed every Earth Elemental he had to guard the mines, so the escort ran short-handed. The group was unimpressed until Daco sweetened the offer with an uncut diamond. [[aliyah-faen-tlabbar|Patches]] scooped it up in a gloved hand and accepted.
 
-Around them, the group notices that many Deep Gnomes are staring at the group, but many are specifically looking at Snorbul.
+[[feanon-serinde|Fey]] and [[cirrus-al-kayan|Cirrus]] muttered that the Deep Gnomes seemed to be in decent enough shape given the reports — until Feanon looked around and counted the injuries on every person in the room. He said nothing.
 
-It appears that he is known amongst his kin and Daco confirms that his time in the fighting pits is well known.
+They headed to the ore cart: a large flatbed loaded with Mithril ore and uncut gems, pulled by a massive badger. [[gruttag|Gruttag]] and four miners heading back to the city to rest joined the escort, and the group moved out.
 
-Indeed, Daco is hoping that Snorbul would help them by escorting the daily cart of ore and Gemstones going back to the city.
+As they left the main hub of the mines, a scream erupted behind them — they turned to find Daco Pickshine berating a miner for using too much salt on his food. Not violent. Not threatening. Just consuming. [[feanon-serinde|Fey]] sighed in relief: something was wrong here after all. Gruttag confirmed it, lowering his voice — people were becoming obsessed with the restoration work, fixated on small details in ways that went beyond dedication into something stranger. Counting individual salt pinches. Gruttag didn't like it.
 
-If the group escorts the cart, he can keep the extra Earth Elementals here to guard his people.
+The group speculated aloud that the demonic insanity spreading through the [[underdark|Underdark]] might trigger spontaneous demon summonings. They knew perfectly well it wouldn't. They enjoyed watching Gruttag's face.
 
-Many in the group consider it to be an unimportant task but are convinced when Daco sweetens the deal with the promise of an audience with the Diggermattocks, the chiefs of Blingdenstone as well as an uncut Diamond gemstone.
+---
 
-Patches scoops up the gem in a gloved hand and accepts the deal.
+The journey to [[blingdenstone|Blingdenstone]] moved through Svirfneblin roads that cut the distance dramatically — the cart was guided through shortcuts and hidden tunnels, often passing through what appeared to be solid stone walls. [[gruttag|Gruttag]] explained without ceremony: Earth Elementals, happy to serve as stationary wall sections for long stretches of time. [[feanon-serinde|Fey]] and [[cirrus-al-kayan|Cirrus]] found themselves genuinely impressed; the journey would take half the time they had budgeted.
 
-Cirrus and Feanon mutter and grumble about a waste of time and that the Deep Gnomes seem to be in fairly good sorts, despite what they heard from Gruttag.
+A few hours from the city, the smell reached them first — sulfurous and sharp. Glistening pools of fluid lay on the tunnel floor, and the pools began to move toward the cart as the group entered the area.
 
-Looking around though, Feanon notes many injuries.
+The group spread out and met the oozes with ranged attacks. Then a fifteen-foot Gelatinous Cube rounded the corner and rolled in, a half-dissolved Svirfneblin contained within its translucent bulk. [[aliyah-faen-tlabbar|Patches]] noted something invisible among the lesser oozes and began cutting through the Cube and tracking the gap in the air. [[cirrus-al-kayan|Cirrus]] cast Sickening Radiance across the area — and a Barlgura Demon materialized out of the glow.
 
-They head over to the large Mythril Ore cart, pulled by a massive Badger.
+The demon was covered in mucus, its thick fur lying flat and lank, the coating hissing with acid wherever it dripped to the stone. A servant of [[juiblex|Juiblex]], the Faceless Lord — and it had been directing the oozes. The group wiped it out with firebolts from [[feanon-serinde|Fey]], shells from [[gundren-rockseeker|Gundren]], enchanted sword strikes from Patches, and a flask of Alchemist's Fire from [[gruttag|Gruttag]].
 
-Gruttag and four other deep gnomes, miners heading back to the city to rest, begin to escort the carts, and the group, toward Blingdenstone proper.
+---
 
-As the group leaves the main hub of the Pickshine mines, they hear Daco begin to scream in rage.
+They pushed on to the Svirfneblin storehouse. [[aliyah-faen-tlabbar|Patches]] stopped and listened — more Barlgura ahead, and more oozes. She loosed a ring of Faerie Fire that lit them up, stripping their invisibility. The group struck fast, taking away the surprise and routing the demons quickly. The last one alive called out to an unseen companion to hide as its brethren were destroyed around it.
 
-Turning to see the Foreman yelling at a miner for using too much salt on his food.
+They advanced again, finding fresh deep gnome corpses — dissolved and half-eaten — on the tunnel floor.
 
-Feanon sighs in relief, there IS something wrong here after all and questions Gruttag.
+A small thunderclap of displaced air. A spatter of fluid on stone. A massive serpentine body appeared between [[feanon-serinde|Fey]] and [[aliyah-faen-tlabbar|Patches]] with six arms already moving, each gripping a long blade. The Marilith attacked.
 
-It seems that many folk are becoming obsessed with their work to restore the settlement of Blingdenstone, to the point where they are counting individual pinches of salt rations.
+Like the Barlgura, she was coated in a layer of mucus and ooze, her hair dripping with it as she fought. She drove into Feanon with a whirlwind of strikes, cutting through illusion after illusion before finally landing blade on flesh. Patches rushed in and scored a wicked hit. The Marilith turned on her — six arms, six blades, all at once. Patches called on [[eilistraee|Eilistraee]] and her form blurred; she parried and dodged four of the blows but the last two found her, cutting badly.
 
-The group worries aloud that the growing demonic insanity within the underdark may explode into spontaneous demonic summonings (it wouldnt and they know it, but they enjoy worrying Gruttag).
+[[gundren-rockseeker|Gundren]] and [[cirrus-al-kayan|Cirrus]] opened fire. Under the sustained pressure the Marilith teleported back. Patches gave chase immediately, putting a crossbow bolt through the demon's tail and pinning it to the floor for a moment. She misty-stepped into close range — and appeared between two small oozes and the demon itself. They exchanged blows, blood and mucus pooling in the tunnel. Badly wounded, Patches was forced to retreat, but the Marilith was bloodied and pinned in a narrow section of the passage.
 
-The Wagons roll on, away from the mines and into the wilds of the Underdark.
+Patches fell back to the group just as they rounded the corner and poured fire into the trapped demon. It teleported again — appearing beside [[gwen|Gwen]]. The Adamantine lion clamped down on the demon's torso and tore. [[aliyah-faen-tlabbar|Patches]] struck from the shadows. The Marilith died slashing — getting three blades into [[gundren-rockseeker|Gundren]] even as the life left it.
 
-However, the wagons roll on through secret tunnels, shortcuts and Deep Gnome roads, often times cutting through a large cavern and going through seemingly solid doorways of stone.
+---
 
-Gruttag mentions that each of these special sections of stone are simply Earth Elementals being used in uncommon ways and are happy to remain the stone wall of the chamber for long stretches of time.
+The last oozes were destroyed. In the battle, the Marilith had said something — that the *birthing must not be interrupted*. The group followed the tunnel she had been guarding.
 
-Feanon and Cirrus are pleasantly surprised, figuring that the direct Svirfneblin tunnels will cut they journey in half.
+At the end of it, dozens of small oozes fed on Svirfneblin corpses. The Marilith had been breeding them.
 
+One ooze stood apart — a red one, dissolving the brain of a dying gnome, and mimicking his face. It was speaking in his voice. [[feanon-serinde|Fey]] communicated with it telepathically and found it was actively absorbing the gnome, taking his memories and reflections as it consumed him. They destroyed it. Feanon collected two samples of the red ooze, noting its distinct sulfurous smell and mimetic properties, and the group confirmed the samples would be safe to transport back to the barony.
 
-A few hours later, Gruttag warns the group that they are approaching a checkpoint before the city proper and they should check in.
+[[gruttag|Gruttag]] arrived to find the scene — the Marilith corpse, the dead oozes, the gnome bodies. He went pale and then tearful over his kin, nearly fainted at the sight of the dead Marilith, and then watched with wide eyes as [[aliyah-faen-tlabbar|Patches]] decapitated the greater demon with her supremely sharp elven blade and severed its hands to take the demonic bracers it wore as armor.
 
-As the wagons trundle around the dark corner, a sulfurous smell hits the group and they note several glistening pools of material.
-
-They begin to move, the oozes sliding across the stone ground toward the wagons.
-
-Moving forward to intercept, the group begins to hit the oozes with ranged attacks.
-
-Then a great wall of ooze rounds the corner; a massive 15ft Gelatinous Cube appears and moves in, a half dissolved Svirfneblin contained within.
-
-As spells burn away the smaller oozes moving forward, Patches notes something and quickly determines an invisible enemy while hacking at the massive Cube.
-
-As she cuts the thing apart and it deflates, Cirrus casts a Sickening Radiance in the area.
-
-This reveals a Barlgura Demon, communicating and directing the Oozes.
-
-The Barlgura looks to be covered in mucus, its thick hair laying flat and lank against its muscular ape-like body.  
-
-The mucus covering drips from it, hissing with acid as it hits the ground.
-
-Minions of Juiblex, the Faceless Lord.
-
-Cirrus continues the burning spell and between Feanons Firebolts, shells from Gundren, Patches enchanted swords and a good toss of Alchemists fire from Gruttag, the oozes and demon are wiped out.
-
-On guard, the group moves along the tunnels, finding the Svirfneblin storehouse.
-
-Patches moves further and stops again, hearing the breathing of more Barlgura.
-
-She looses a ring of Faerie Fire and the magic reveals the demons invisibility as well as more oozes.
-
-The group lays into this next group, stealing the element of surprise and quickly routing the demons.
-
-As its brethren are destroyed and disintegrated by spells and weapons, one of the demons flees, calling for an unknown companion to “hide”.
-
-As the group moves forward a second time, finding more dead and half dissolved Deep Gnome corpses, Feanon pushes forward with Patches close behind.
-
-A small thunderclap of displaced air and the spatter of liquid on stone is the only warning they get as a massive serpentine body appears next to them, six arms flashing, each holding a wicked blade.
-
-The Marilith demon attacks.
-
-Like the Barlgura, this demon is covered in a layer of mucous and ooze and her hair drips and spatters as the demon fights.
-
-It lays into Feanon with a whirlwind of strikes, cutting through illusion after illusion before finally striking the wizard.
-
-Patches rushes in to assist her friend, striking with deadly precision and scoring a wicked hit.
-
-The Marilith then targets patches, arms darting and attacks her six times.
-
-Luckily, Patches calls upon Elistraee and blurs her form as the attacks dart in.
-
-The Rogue manages to parry and dodge but is still grazed by two of the blows, cutting her badly.
-
-Melee with a Marilith is not where either Feanon or Patches want to be for long.
-
-Luckily, with Gundren blasting away with his cannon and Cirrus throwing Eldritch blasts, the Marilith is forced to retreat.
-
-As it teleports away, Patches rushes in pursuit, firing a shot from her crossbow that catches the Greater Demon in the tail, pinning it to the floor of the tunnel temporarily.
-
-Patches then calls upon the balde of her goddess and misty steps into combat with the Demon.
-
-And appears between two small oozes and the Greater Demon.
-
-Her and the Marilith exchange blows, blood and mucous dripping in the tunnel.
-
-Wounded badly, Patches is forced to retreat, but notes the Marilith too is bloodied and trapped in the tunnel.
-
-She flees to her friends just as they round the corner of the tunnel and lay into the Marilith.
-
-As the demon teleports to try and punish the Dwarf with the mighty cannon, she appears next to Gwen.
-
-The Adamantine lion rips the badly wounded Demon apart as Patches strikes from the shadows. 
-
-Even as it falls, dying, it slashes brutally at Gundren.
-
-The group destroys the last two oozes and then heads down the tunnel the Marilith was guarding.
-
-During the fight, the demon mentioned that the “Birthing must not be interrupted”
-
-As they head to the end of the tunnel, they see what the demon had been defending as dozens of small oozes feast on Svirfneblin corpses.
-
-The Marilith was breeding Oozes.
-
-As the group goest about destroying the creatures, one in particular stands out; a Red ooze dissolving the brain of a part-dead gnome.
-
-It seems to mimic the dying Gnome’s face and voice and Feanon can talk to it telepathically.
-
-The ooze seems to be absorbing the Deep Gnome, mimicking him.
-
-They drestroy it.
-
-Feanon takes two samples of the strange red ooze, noting a distinct Sulfurous smell coming from the red ooze and noting it’s mimetic properties.
-
-The rest of the group confer and ensure that the Ooze samples will be safe to return to the Barony.
-
-Gruttag appears, tearful over the deaths of his kin here, but amazed at the power of the group, almost feinting when seeing the dead Marilith.
-
-Patches goes up to the fallen Greater Demon and with her supremely sharp Elvish sword, decapitates the demon, taking the head as a powerful trophy.
-
-She then severs the hands and takes the Demonic bracers the Marilith uses for armor.
-
-The group gathers the Svirfneblin caravan to take a short rest before pushing on to the city proper, the Miners opting to stay and secure the checkpoint while Gruttag and the party head to report this attack to the Diggermattocks.
+The group gathered the Svirfneblin caravan for a short rest. The miners opted to stay and secure the checkpoint. [[gruttag|Gruttag]] and the party pushed on toward the city to report the attack to the Diggermattocks.

@@ -1,285 +1,118 @@
 ---
-title: The Demon Lords - Blingdenstone
+title: "The Demon Lords - Blingdenstone"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 13
+summary: "The group entered Blingdenstone, toured its haunted streets with Gurnik Tapfingers, and uncovered a tangle of problems — a Lolth curse tied to the Stone Priestess, a Rockblight sidequest involving the missing warrior Trisk, and a staged fistfight at the Foaming Mug that drew out hostile ghosts and ended with Patches letting a sorrowful spirit possess her."
 people:
-  - "aliyah-faen-tlabbar"
-  - "bane"
-  - "cirrus-al-kayan"
-  - "eilistraee"
-  - "feanon-serinde"
-  - "fen"
-  - "gruttag"
-  - "gundren-rockseeker"
-  - "gurnik"
-  - "intent"
-  - "juiblex"
-  - "lolth"
-  - "moot"
-  - "ront"
-  - "snorbul"
-  - "tarkathee-daru"
+  - aliyah-faen-tlabbar
+  - bane
+  - cirrus-al-kayan
+  - eilistraee
+  - feanon-serinde
+  - fen
+  - gruttag
+  - gundren-rockseeker
+  - gurnik
+  - intent
+  - juiblex
+  - lolth
+  - moot
+  - ront
+  - snorbul
+  - tarkathee-daru
 places:
-  - "blingdenstone"
-  - "ethereal-plane"
-  - "gravenhollow"
-  - "underdark"
+  - blingdenstone
+  - ethereal-plane
+  - gravenhollow
+  - underdark
 things:
-  - "hew"
-  - "thundercannon"
+  - hew
+  - thundercannon
 factions:
-  - "drow-faction"
-  - "duergar-faction"
-  - "svirfneblin-faction"
+  - drow-faction
+  - duergar-faction
+  - svirfneblin-faction
 ---
 
-The group heads on through the tunnels, only a few scant hours from Blingdenstone.
+The tunnels between the checkpoint and [[blingdenstone|Blingdenstone]] were quiet. A few scant hours of walking and the passage opened into something entirely different: a grand staircase easily a hundred and fifty feet wide, ascending on a gentle slope into the warm glow of crystal-lit stone.
 
-Luckily, there are no more demons or oozes between the checkpoint and the city.
+As the cart trundled forward, [[gruttag|Gruttag]] whispered a word and pointed a small crystal at the steps. The staircase smoothed into a ramp. They rolled up without obstacle.
 
-As the group turns a corner, following a natural tunnel, the wall simply gives way to a massive staircase, easily 150ft wide and ascends up at a leisurely slope.
+At the top, before a set of heavy metal doors, stood a half-dozen guards and a cluster of hulking Earth Elementals. At their head was a bald, robed Gnome with a tattooed scalp. He introduced himself as [[gurnik|Gurnik Tapfingers]], Priest of Callarduran Smoothhands.
 
-As the cart approaches, carrying the ore and uncut gems, Gruttag whispers a word and points a small crystal at the staircase and the steps smooth out into a large ramp to allow the cart to head up.
+The guards took issue with [[aliyah-faen-tlabbar|Patches]] until [[snorbul|Snorbul]] and [[gruttag|Gruttag]] vouched for her. [[gurnik|Gurnik]] was pleased to finally meet the nephew [[gruttag|Gruttag]] had mentioned. He heard the report of the Marilith attack at the checkpoint, dispatched a handful of Earth Elementals to reinforce it, and then opened the grand doors.
 
-The light in the area is dim and warm; magical light suffuses the area from crystals embedded in the walls.
+He led the group through Blingdenstone's outer defenses — a veritable maze of kill-chutes and traps — via secret passages opened by Earth Elementals in the walls. They passed through in minutes and arrived before a final set of metal gates. The inner city opened beyond.
 
-The group ascends the grand staircase, seeing a large cavern opening up ahead.
+---
 
-They ascend steadily for a few minutes until the group plateaus at the top of the grand staircase, coming up to a platform before a set of grand metal doors.
+Blingdenstone was quieter than its size suggested, but alive. The stonework was squat and rough at first glance, but on closer inspection, the walls and floors were covered in subtle whorls and patterns mimicking natural forms — skilled work, with a craftsman's eye for composition. Buildings were carved into the cavern walls; rope bridges spanned between them. Children, parents, miners, and craftspeople moved through the streets, everyone armed, guards posted at every corner.
 
+The air was crisp and clean. Music drifted through the caverns, soft and sourceless. Pools of colored light fell from crystal formations in the walls, and the lanterns hanging in the darker areas were glass containers holding fire beetles feeding on a central lump of food — the whole city carrying a faint smell of minerals, water, and cinnamon.
 
-In front of the doors stand a good half dozen gnomes and a number of hulking earth elementals.
+The settlement's residents directed stern, businesslike looks at the group by default. Most of those looks cracked into brief smiles before returning to neutral — except when they landed on [[aliyah-faen-tlabbar|Patches]], where they went dark before flattening to wary neutrality.
 
-The Svirfneblin guards approach, a robed, bald Gnome at their head with a tattooed scalp.
+---
 
-He introduces himself as Priest Gurnik Tapfingers, Priest of Callarduran Smoothhands
+[[gurnik|Gurnik]] showed them around. He walked them past his personal shrine to the Stonefather, then to *The Ruby* — a great stone altar supposedly built around a massive ruby, capping the catacombs below where the Deep Gnomes' ancestors lay buried. [[feanon-serinde|Fey]] asked about the ghosts almost immediately.
 
-The group has many theological questions, but they manage to suppress their curiosity long enough for Gruttag to introduce his nephew Snorbul as well as the rest of the party.
+Gurnik pointed to the stair descending into the catacombs. At its foot stood an ethereal figure: a muscular Deep Gnome, covered in tattoos, watching them. Gurnik thought he must have been a Warden — part of a warrior caste none of whom had survived the Drow invasion. The culture had been lost with them. Many of the ghosts, Gurnik said, were benign or at least non-hostile. Others were a serious problem.
 
-The guards take issue at Patches, a Drow, but with Snorbul and Gruttag vouching for her, they let her in.
+He led them to a large multi-chambered home carved into the cavern wall nearby. Guards stood at the base of the steps with the relaxed posture of people not expecting immediate trouble. In the upper level, a ghost clutched its head and screamed without sound — *The Screamer*, Gurnik called it, adding that it would not allow anyone inside. The building could house dozens of living Deep Gnomes. He asked: if the group found any Deep Gnome remains in their travels, please bring them to him. The ghosts could be put to rest properly.
 
-Gurnik has heard Gruttag mention Snorbul before and is happy to finally meet him.
+---
 
-Gruttag informs Callarduran of the attack at the outpost and as the wagon of ore is taken into a hidden side chamber, a handful of Earth Elementals are dispatched to reinforce the Demon attacked checkpoint.
+As the group moved on, [[gundren-rockseeker|Gundren]] spotted another ghost near Gurnik's shrine. He stopped and addressed it directly — and it noticed him. It moved east, toward a barricade at the edge of the settlement. Gundren and [[tarkathee-daru|Tark]] followed.
 
-Impressed by the story of the killed Marilith Demon, Gruttag welcomes the party to the city and has the grand metal doors opened for them.
+The barricade separated Blingdenstone from a sealed section of cavern called Rockblight. At its foot, a Svirfneblin guard — Sark Axebarrel — was in the middle of an argument with a young Gnome girl named Jinu. The ghost of the Burrow Warden lingered nearby, watching with visible concern.
 
-He then leads the party through the gauntlet of Blingdenstone’s outer defenses, a veritable maze of killshoots and traps.
+Listening without announcing themselves, Gundren and Tark pieced together the situation. Trisk — the settlement's best young warrior, barely more than a child — had snuck into Rockblight through a secret passage the Ghostly Warden had shown him. Jinu, Trisk, and a few others had been receiving training from the ghost in secret; Trisk had gone in alone, confident enough to try to kill the Stone Priestess and banish Ogremoch's Bane. Sark wouldn't send guards after him because of the Stone Priestess.
 
-Being guided straight through though, the group circumvents the dangerous area by taking secret Earth Elemental opened tunnels and they get through in mere minutes.
+Gundren and Tark intercepted Jinu as she left Axebarrel empty-handed and offered to look for Trisk themselves. Jinu practically sagged with relief. She would show them the secret way in — she worked in the Workshops, they should come find her when they were ready.
 
+---
 
-They arrive at one last tunnel, Earth Elementals lining the last stretch to another set of metal gates that swing wide, revealing the inner city.
+While this was happening, [[aliyah-faen-tlabbar|Patches]] had gone to [[gurnik|Gurnik]]'s shrine and sat before it with her Crystal Geode, communing with [[eilistraee|Eilistraee]] and asking for guidance on what they faced.
 
-The group enters and sees an industrious settlement.
+Her goddess answered. The settlement was cursed by [[lolth|Lolth]] — a curse tied to the Stone Priestess, who had once served the Spider Queen before whatever transformation had taken her. The oozes flooding in from the north-west were connected to the Gravenhollow crystal key, but the crystal itself was not in Blingdenstone.
 
-Unlike the brutal, yet clean and overbearing architecture of the Duergar, the Deep Gnome stonework is squat, strong and looks rather rough...at first.
+---
 
-On closer inspection, many walls and floors are carved with subtle whorls and patterns in the stone, mimicking natural forms, but with the intent of a skilled craftsman with an eye for pleasing composition.
+The group assembled and headed deeper into the settlement to find the Diggermattocks. The Diggermattock manor was a large tiered structure carved from ancient stone, garnet veins running through the walls in thin colored lines. At the base of the steps, a small meeting was underway — and at its center stood a hooded male Gnome with a scarred face and serious orange eyes, a large book tucked under one arm.
 
-Squat buildings are carved into the walls and staircases lead to rope bridges that span between the large structures.
+Daco Diggermattock listened to the group's report on [[juiblex|Juiblex]] without expression. He didn't think the Demon Lord was actually inside the city — they would have never survived if it were — but it might be close. The ooze incursions were coming from the north-east. He offered a powerful Spell Gem if the group would search the north-east ruins and find the source. He took his leave and disappeared into the tiered structure.
 
-Children, parents, miners, craftsmen and general civilians move through the city, though everyone is armed and guards are everywhere.
+The group turned to head south — and [[aliyah-faen-tlabbar|Patches]] caught a gleam of transparent surface on the stairway ahead. A Deep Gnome was levitating upward, moving backwards. She realized it a moment before the others: a Gelatinous Cube was filling the stairway entirely, the engulfed Gnome rising with it as it oozed outward.
 
-Everyone has a stern and businesslike demeanor, but it cracks into smiles frequently, though the frowns return quickly to anyone that spots Patches.
+[[feanon-serinde|Fey]] summoned an Arcane Hand that pulled the Gnome free in an instant. The group annihilated the cube in moments; the guards nearby had barely moved before it was done. Daco reappeared at the commotion, surveyed the scene, and nodded his thanks. Food and lodging for the group were free for as long as they stayed.
 
-Subtle music can be heard wafting through the caverns of the settlement and unlike the Duergar settlement, the air is crisp and clean here.
+---
 
-Pools of colored light illuminate the town, spilling from crystal formations illuminating strata in the walls.
+The Foaming Mug was easy to spot. It was carved entirely from stone — like every other building in the settlement — but it was clearly built in imitation of a surface tavern, with wooden planking and windowsill details oversized and chunky, a stylized quality to them that suggested whoever had designed it had never actually seen one in person and was working entirely from description. The effect was charming and faintly absurd.
 
-Areas without crystal are dimly lit by lanterns, which on closer inspection, are filled with fire beetles feeding off a lump of food at its center, smelling faintly of cinnamon.
+[[gruttag|Gruttag]] had already secured a table. The group joined him. They ordered: crab dumplings, Svirfneblin Chouta (an intoxicating alcoholic fondue of cheese), and steamed cremlings drowned in spicy gravy. [[snorbul|Snorbul]], ecstatic to have finally reached his ancestral home, ordered a bucket of Popfizz — a strong, sour, fizzy liquor fermented from Popmites, chemically explosive insects native to the [[underdark|Underdark]]. The drinking began. [[cirrus-al-kayan|Cirrus]], having hated every second underground, went directly to the bar and did not look back.
 
-The place smells of minerals, water and earth.
+Before long, [[snorbul|Snorbul]] was completely drunk. The others had a pleasant warmth going. Someone suggested a spectacle.
 
-The group looks around at the strength of the settlement and wonder again what the big issue is.
+Patches and [[snorbul|Snorbul]] took it outside. [[tarkathee-daru|Tark]] and [[gundren-rockseeker|Gundren]] riled up the crowd while the two of them squared off — [[aliyah-faen-tlabbar|Patches]]' speed against Snorbul's strength and grappling. The crowd loved it. Snorbul was a hero of the Svirfneblin, and watching him stand strong against a Drow was everything they had hoped for. [[feanon-serinde|Fey]] stayed on the periphery and rolled his eyes.
 
+On the edge of the crowd, the ghost of the Burrow Warden watched two other ghosts with visible alarm as they moved in from the street corners.
 
-Gurnik begins to show the group around, swinging by his shrine to the Stonefather and mentioning he can be found there.
+[[gundren-rockseeker|Gundren]] lit up the rubies in his helm and the Thundercannon's barrel flickered with readiness.
 
-He then goes to “The Ruby” a great stone altar supposedly built around a massive Ruby and a place of worship for his people; as it caps the Catacombs of the Deep Gnome’s ancestral burial grounds.
+The ghosts made their move — one diving for Patches, one for [[snorbul|Snorbul]]. Patches produced a quick illusion and the ghost took the bait, possessing the phantom. Snorbul resisted — his drunken mind so entirely occupied with the fight that the ghost couldn't find purchase. As their minds brushed, Snorbul felt a rush of the creature's rage and grief and its hatred of Drow. He promised the ghost plainly that this one was different. The ghost seemed to wilt. Its shoulders dropped. It stopped.
 
-Feanon has to know and asks about the issues plaguing them, specifically the ghosts they had heard about.
+The other ghost, consumed by rage, lunged for Patches again. [[gundren-rockseeker|Gundren]] fired — three burning shots that scattered the ghost into fragments. The crowd ducked, many of them fleeing; others pressed back to watch from a safer distance.
 
-Gurnik points to a set of stairs descending into the catacombs beneath.
+[[aliyah-faen-tlabbar|Patches]] approached the sad ghost and told it she wouldn't resist. She wanted to show it what she was. The ghost slipped inside — and found [[eilistraee|Eilistraee]]'s devotion running through every part of her, a divine weapon tethered to her soul, nothing the ghost had expected from a Drow.
 
-As the group looks on, they spot an ethereal figure standing, watching them.
+It was still full of grief and rage. It wanted some small justice for all the people its kin had lost. The ghost pulled [[aliyah-faen-tlabbar|Patches]]' side knife and cut her palm, then began drawing a glyph to the Stonefather in blood on the cobblestones.
 
-A ghost of a muscular Deep Gnome, covered in tattoos can be seen watching them.
+[[tarkathee-daru|Tark]] grabbed her hand to stop the ritual.
 
-Gurnik says they think he must have been a Warden, one of their warrior caste, though none of The Wardens survived the Drow invasion and that part of their culture has been lost.
+The ghost, unable to finish, gave up. It left Patches' body and looked at the unfinished glyph with sorrow before it began to fade from the living world.
 
-He mentions that many of the Ghosts are friendly, or at least non-hostile.
+The surrounding Svirfneblin watched in silence. Then conversations broke out across the crowd in a dozen directions.
 
-Others though have been a real headache and he leads the group to a large structure, carved into the walls nearby; a large multi chambered home.
-
-Gnome guards are at the bottom of the stairs though they seem relatively relaxed.
-
-Gurnik points out the Ghost in the upper level of the structure, clutching its head and screaming, though it makes no noise.
-
-He tells the group that this one ‘The Screamer’ won’t let anyone into the home, a large multi-family affair that could be used by the living Deep Gnomes.
-
-He asks the group that if they find any Deep Gnome Remains, that they please bring them to him so they can put the Ghosts to rest.
-
-He goes on to say that if they are attacked by any of the spirits, they have their permission to defend themselves, going as far as destroying the spirits.
-
-The living have priority.
-
-They move to continue on, however Gundren spots another ghost as they pass Gurnik’s Shrine and he moves to talk with the spirit.
-
-Shockingly, it notices and reacts to Gundren when he asks if they can help it.
-
-It moves east, to the barricade between the settlement and the untamed halls of an area known as ‘Rockblight’.
-
-As he approaches, Tark follows and the two of them come across an argument between a Svirfneblin guard and an adolescent Gnome girl.
-
-They catch the name **Jinu** for the girl and** Sark** **Axebarrel **for the Guard.
-
-Overhearing the argument, and being led to it by the ghost, Gundren and Tark both pay attention and determine that a young gnome, the settlements best warrior: Trisk, has snuck into Rockblight via a secret route shown to him by the Ghostly Warden.
-
-Indeed, as they listen, Tark spots the Ghostly Warden watching nearby, looking concerned.
-
-Gundren tries to get more information from the specters, but they seem unable to communicate.
-
-Tark and Gundren intercept Jinu as she leaves Axebarrel, failing to convince him to send guards to look for Trisk.
-
-Axebarrel refused because of the “Stone Priestess”.
-
-The Svirfneblin girl tells Tark and Gundren that She, Trisk and her friends have been getting training from the Ghostly Warden.
-
-Feeling confident, Trisk went into Rockblight to kill The Stone Priestess and banish Ogremoch’s Bane, an evil entity in Rockblight.
-
-Both Tark and Gundren express an interest in looking for Trisk and Jinu sighs in relief.
-
-Jinu says she will show the group the secret way into Rockblight.  She works in the Workshops so they should get her when they are ready.
-
-At Gurnik’s shrine, Patches communes with Elistraee, trying to determine their next steps and using the Crystal Geode to focus her effort.
-
-She asks her goddess for guidance and learns that The Settlement is Cursed by Lolth, which is connected to The Stone Priestess; once a priestess of Lolth.
-
-They also learn that the oozes coming into the settlement in the North West are related to the Crystal key to Gravenhollow, but the crystal itself is not there.
-
-
-With more information, the group heads south into the heart of the settlement to meet with the chieftains of the town; The Diggermattocks.
-
-The group enters a large chamber, the old stone worked and shaped eons ago by the Deep Gnomes and see a large structure, tiered and rising up a good thirty feet, a manor of a sort covered in colorful strata and thin veins of Garnet.
-
-At the bottom of the steps can be seen a small meeting between a handful of gnomes, at their center, a hooded male Gnome can be seen directing the meeting, a large book under one arm.
-
-The face of the gnome is wide and scarred, orange, serious eyes poking out from under the dark hood.
-
-The stern demeanor of the Gnome cracks a little when he sees the large surface worlder group approaching, being led by Gurnik and Snorbul.
-
-He glances at Patches though and his face darkens with a frown, but it quickly turns to neutrality as he addresses his approaching kin.
-
-They talk and he is warned about the Demon Lord Juiblex - an explanation for the large number of ooze attacks.
-
-Daco Diggermattock doesnt think Juiblex is actually IN the city, they would have never survived, but he wonders if the Demon Lord is close by.
-
-Daco then mentions that the oozes seem to be traveling to and from the North East.
-
-He offers the group a powerful Spell Gem if they would search the North East section of the ruins for the source of the oozes and deal with it.
-
-He takes his leave from the group and heads into the large tiered structure.
-
-The group decides to head to the only tavern in town and get a rest before figuring out next steps.
-
-They turn to head south, but note a Svirfneblin moving strangely, somehow levitating up a set of stairs...backwards.
-
-Patches is the first to see the reflected light on a gooey surface - the Gelatinous Cube filling the entire stairway and lifting the engulfed Deep Gnome with it as it oozes outward.
-
-Feanon leaps into action, calling up an Arcane Hand that quickly pulls the Deep Gnome from the gelatinous embrace.
-
-The group annihilates the large ooze in moments.
-
-Indeed, the nearby guards and Elementals had barely begun to move before the skirmish was over.
-
-Daco rushes back out at the commotion and sees that one of his kin was saved by the quick actions of the party.
-
-He nods his thanks and tells them food and lodging are free while they remain in Blingdenstone.
-
-They head over to the Foaming Mug, the only tavern in the settlement.
-
-Heading through crystal lit tunnels, they pass many Svirfneblin and gain quite a lot of attention, turning heads as they go.
-
-The group also passes several ghosts, many seeming to not even notice the living world, yet some watch the groups passing with interest, and some with barely contained malice.
-
-Two in particular begin to follow the group, watching.
-
-The group arrives at the tavern after a few minutes of walking and see a strange sight.
-
-The Tavern is built into the walls of the caverns, like all Svirfneblin buildings, but unlike the others, it is clearly built in imitation of a surface dwelling.
-
-Made entirely of stone, the wooden details of planking and windowsills are all carved from and have an almost stylized quality to them, being oversized and chunky.
-
-Its clear that whoever made this structure was working from a description and had probably never even been to the surface.
-
-The group heads inside and quickly find a table secured by Gruttag and join the older Deep Gnome.
-
-They order Crab Dumplings and Svirfneblin Chouta - Alcoholic drinking cheese, creating an intoxicating fondue of sorts.
-
-Steamed Cremlings, large shrimplike crustaceans are brought drenched in spicy gravy and the group digs in.
-
-Ecstatic to have finally made it to his ancestral home, Snorbul orders a bucket of Popfizz; a strong, sour, fizzy liquor made from Popmites; chemically explosive insects native to the Underdark.
-
-The drinking begins.
-
-Before long, Snorbul is completely drunk and the others are cultivating a nice buzz with one exception.
-
-Cirrus, hating every second in the Underdark, heads to the bar itself and gets completely blackout drunk.
-
-The others meanwhile, have decided to put on a spectacle for the Deep Gnomes, staging a fistfight between Patches and Snorbul.
-
-The group heads outside, with the crowd being riled up by Tark, Gundren and the antics of Snorbul and Patches.
-
-Fea meanwhile rolls his eyes and stays on the periphery.
-
-With the crowd assembled, Snorbul and Patches begin to fight; the slippery Drow landing lightning fast hits on Snorbul, but doing very little damage.
-
-The Gnome’s sheer strength and grappling prowess keep the rogue back and the crowd cheers, loving seeing a hero of the Svirfneblin standing strong before a Drow.
-
-The ghosts from earlier move on the edge of the crowd and a third follows - the ghost of The Burrow Warden, looking concerned at the other two ghosts.
-
-The ghosts move in closer, circling and one moves past Gundren who notes the ghost.
-
-He looks past to the Burrow Warden and sees the concern plastered across his ghostly visage.
-
-Cirrus stirs at the bar and gets up to watch the commotion, noting the ghosts moving.
-
-Gundren ignites his Thundercannon and a pulse of light comes from the rubies in his helm.
-
-The two ghosts make their move, one attempting to possess Snorbul and the Other going for Patches.
-
-Seeing the ghost coming, Patches used her mask to create a simple illusion and the Ghost takes the bait.
-
-Snorbul manages to resist the Possession, his drunken mind being so one-track that the ghost was unable to find purchase.
-
-As their minds touch though, Snorbul feels the rage and sadness of the ghost, and the hatred towards Patches.
-
-Snorbul tries to placate the creature, having felt its pain, and promises it that THIS Drow is different.
-
-The sad ghost seems to wilt, and stops its assault as its shoulders slump.
-
-The other ghost screams, consumed by rage and lunges again for Patches, only to be blasted apart by the flaming shots from Gundrens cannon.
-
-The crowd ducks and a few shouts go up as they realize what’s happened, all step away, many leaving, but many more watching though from a safer distance.
-
-Patches approaches the sad ghost and tells it she will not resist, she wants to show the spirit that she IS different.
-
-The ghost dives in and possesses the Dark Elf and indeed, finds the Drow to be a servant of Elistraee and wielding a divine weapon tethered to her very soul.
-
-The Ghost is still filled with rage and wishes some small revenge for the deaths of so many of its people.
-
-The ghost pulls out Patches side knife and cuts the palm of her hand and begins to draw a glyph to the Stonefather in blood.
-
-Panicking and worried about blood rituals and demon summoning, Tark grabs her hand to stop her.
-
-When the ghost is unable to complete the ritual, it leaves Patches body, giving up and unwilling to fight to continue.
-
-It looks at its unfinished work with sadness and begins to fade from the living world.
-
-The nearby Svirfneblin look on, a bit shocked, a bit in awe and conversations begin to erupt from the onlookers.
-
-Exhausted, drunk and now a bit hurt, the group leaves the chattering crowd to head into the Tavern. 
-
-The rumors of the powerful and interesting group quickly spread through the settlement...
+The group retreated into the tavern, exhausted and buzzing, and the rumors of the strange and powerful surface-worlders spread through Blingdenstone faster than they could walk.

@@ -1,200 +1,106 @@
 ---
-title: The Demon Lords - Blingdenstone pt.2
+title: "The Demon Lords - Blingdenstone Pt. 2"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 14
+summary: "With Jinu's guidance, the group entered Rockblight and explored the Crystal Garden — rescuing a gnome petrified for twenty years, encountering an army of Drow statues, and discovering a Bane-corrupted obelisk that pulled Gundren into the stone before Gurnik handed them a Hallow spell gem and warned that the Bane drives Earth Elementals mad."
 people:
-  - "aliyah-faen-tlabbar"
-  - "bane"
-  - "chani"
-  - "cirrus-al-kayan"
-  - "eilistraee"
-  - "feanon-serinde"
-  - "gruttag"
-  - "gundren-rockseeker"
-  - "gurnik"
-  - "intent"
-  - "moot"
-  - "snorbul"
-  - "tarkathee-daru"
+  - aliyah-faen-tlabbar
+  - bane
+  - chani
+  - cirrus-al-kayan
+  - eilistraee
+  - feanon-serinde
+  - gruttag
+  - gundren-rockseeker
+  - gurnik
+  - intent
+  - moot
+  - snorbul
+  - tarkathee-daru
 places:
-  - "blingdenstone"
-  - "ethereal-plane"
-  - "underdark"
+  - blingdenstone
+  - ethereal-plane
+  - underdark
 things:
-  - "bag-of-holding"
-  - "eclipse"
-  - "gwen"
+  - bag-of-holding
+  - eclipse
+  - gwen
 factions:
-  - "drow-faction"
-  - "svirfneblin-faction"
+  - drow-faction
+  - svirfneblin-faction
 ---
 
-The group heads into the downstairs rooms at the Foaming Mug Tavern in Blingdenstone.
+The group took rooms at the Foaming Mug. [[feanon-serinde|Fey]] summoned his Magnificent Manor almost immediately and most of the party filed inside. [[tarkathee-daru|Tark]] declined and slept in the passage outside the door, keeping watch.
 
-Feanon wastes little time and quickly summons his Magnificent Manor.
+The ambient demonic magic of the [[underdark|Underdark]] found him in his sleep. The nightmares were thick — cloying dark, burning cold, dripping stone — until a warmth suddenly replaced everything and Tark felt himself lying in a bed, looking up at a ceiling. Firelight played through wooden timbers in a flowing refraction, the architecture simple and well-crafted. Two halflings, much larger than him, leaned into his field of view with smiling faces and the easy warmth of parents who had nowhere else to be.
 
-The group all head inside, save for Tark and enjoy the magnificent comfort of the extra-planar sanctum.
+He woke refreshed. It was one of the only memories of them he still held.
 
-Tark meanwhile, sleeps outside the door, guarding it for his friends.
+---
 
-In a comfortable bed, Tark dreams dark dreams, the ambient demonic magic of the Underdark causing terrible nightmares.
+The common room of the Foaming Mug was already running a communal breakfast when Tark arrived, a line of Svirfneblin moving quickly out into the street. The group gathered and joined the queue. [[gruttag|Gruttag]] appeared partway through to collect [[snorbul|Snorbul]] and [[thorna|Thorna]], steering them toward a meeting with the Diggermattocks. The others finished eating and set out to find Jinu at the Craftsmen's Hall.
 
-The cloying, dripping and burning darkness of the nightmares are suddenly washed away by a bright warmth and Tark feels overcome with the sense of calmness and warmth.
+[[cirrus-al-kayan|Cirrus]], nursing a severe hangover, stayed behind to introduce the Deep Gnomes to the virtues of the Moon.
 
-He awakes the next morning, refreshed by the wonderful dream and he tries to recall details.
+---
 
-He was staring up at a ceiling, as if lying in a bed, he saw firelight and a strange refraction playing across the inside of a wooden structure, the architecture flowing and natural, simple but well crafted.
+The Craftsmen's Hall was remarkable. A table ran the length of the main cavern — easily a hundred and fifty feet — with a central trough filled with uncut gemstones. Dozens of Deep Gnomes sat along it with eyepieces and cutting tools, working the stones with practiced efficiency. [[aliyah-faen-tlabbar|Patches]] practically drifted toward it.
 
-He remembers two halflings, much larger than he, leaning over with smiling faces and a warmth of comfort and love.
+The rest of the group collected Jinu and received her master's blessing to go look for Trisk. As they turned to leave they found that [[aliyah-faen-tlabbar|Patches]] had gotten herself drawn into a gem-cutting competition. She took the uncut diamond Daco Pickshine had given them as payment and worked it into a masterpiece — clean, precise, devastating. The watching Svirfneblin went quiet and then began whispering among themselves. *Moon-touched Drow. Chosen of Eilistraee.* Patches covertly touched dozens of gemstones as she took her leave, drawing their latent energy into [[eclipse|Eclipse]], and caught up with the group heading north toward Rockblight.
 
-His parents, one of the only memories of them.
+---
 
-Tark smiles, reflecting on the happy memory and remembering the beautiful play of refracted light across the ceiling of his childhood bedroom.
+They passed the checkpoint and [[gurnik|Gurnik]] appeared at a trot as they were about to enter the tunnel — he thanked them for going in and asked: if they found a large standing stone in the Rockblight, would they investigate it? It intrigued him and he wished to learn more. The group agreed.
 
-Tark heads to the common room of the tavern, with the group not far behind.
+Jinu led them to a smooth section of wall and tapped on it. A small opening appeared as the embedded Earth Elemental shifted aside. The group crawled through into the Rockblight caverns.
 
-They see a communal breakfast being served in the tavern, a line of Svirfneblin going out the door (but moving fast).
+---
 
-They grab bowls and get in line for a fine breakfast.
+On the other side: a large hallway, stairs ascending behind them to a cave-in, and stairs descending to the right into a chamber below. [[aliyah-faen-tlabbar|Patches]] and [[tarkathee-daru|Tark]] went south to scout under Pass Without Trace. Patches slipped accidentally into the [[ethereal-plane|Ethereal Plane]] — she caught a flicker of red lightning ahead before returning to the material. In the chamber below: an Earth Elemental pounding rhythmically on a door, fire beetles swarming a wall in a warm glow, and a large pool of standing water. Tark leaned close to the water; small tendrils rose from the surface searching for him. He pulled back. A massive Grey Ooze lay beneath the surface. They retreated.
 
-As they eat, Gruttag swings by to have Snorbul talk with the chieftens, Thorns joins them.
+The collapse above was the alternative. [[gundren-rockseeker|Gundren]] assessed the rubble, determined which stones could move, and set up a pulley using [[gwen|Gwen]] as the mechanical anchor. Twenty minutes of careful work shifted a passage. When the last large stone came clear it dropped with a boom, muffled by the ongoing Pass Without Trace — but enough that a Black Pudding detached from the ceiling and oozed toward the disturbance. The group backed up, let it come through the opening, and blasted it to sludge.
 
-After eating, the others all head over to the craftsman hall to meet Jinu and be shown the secret way into the Rockblight.
+The new hallway beyond sloped upward and opened into a larger space. On the ramp ahead: a half-dissolved wererat, recently dead, consumed by the Pudding.
 
-Cirrus, nursing a terrible hangover, elects to remain behind to prostletize the virtues of the Moon to the Deep Folk.
+---
 
-The group enters the Craftsman hall and sees the impressive operation the Gnome settlement has going on; with many dozens of gem cutters and jewelers practicing their craft.
+The Crystal Garden opened ahead.
 
-Indeed, along one side of the large cavern is a long table, maybe 150ft with uncut gemstones filling a trough in the center.
+A large cavern spanned by a stone bridge, buildings carved into the floors and walls below, and every surface covered in glowing crystal formations that filled the space with cold, blue-white light. Movement at the base of the crystals: a small pack of Dust Mephits darting through the formations, and two Cockatrice circling the feet of a petrified Deep Gnome.
 
-Along the table, dozens of Deep Gnomes with eyepieces and cutting tools go about cutting the many thousands of gems.
+The group put down the Cockatrice quickly. The Mephits backed away to a cautious distance. [[feanon-serinde|Fey]] addressed them in Primordial and heard the answer: they were afraid of the Medusa in the Rockblight, the one who turned people to stone — the petrified Gnome at their feet being a recent example. Looking at him more carefully, the group estimated he had been stone for years, possibly decades. They agreed to bring him back to [[cirrus-al-kayan|Cirrus]] for restoration and folded the statue carefully into the [[bag-of-holding|Bag of Holding]].
 
-Patches practically drools and inches over to investigate the riches.
+From the bridge, across the span: an army of Drow soldier statues. Ranks and ranks of them, stretching away into the darkness of the far cavern. The Medusa's work, accumulated over who knew how many years. Below the bridge, something growled — the sounds of animals in conflict.
 
-The rest of the group collects Jinu, getting the blessing from her master to go find Trisk.
+[[gundren-rockseeker|Gundren]] spotted the standing stone to the north.
 
-As they turn to go, they notice that Patches has somehow gotten embroiled in a Gem cutting competition to get the Deep Gnomes to respect her.
+---
 
-She masterfully cuts the Diamond they received as payment from the Deep Gnomes earlier, into a masterpiece.
+The obelisk was set up as a shrine — receptacles for gemstones carved into its face, the stonework deliberate and old. Currently desecrated, the holy significance was still clear. Gundren wondered if the nearby crystal formations could be used to restore it, and moved to chip a fragment free.
 
-The Gnomes are awed at the precision and they begin to whisper about the Moon-touched Drow, Chosen of Elistraee.
+He struck the crystal.
 
-Patches covertly touches dozens of Gemstones as she takes her leave, draining many and refilling the power of Eclipse.
+A flicker of red lightning. An arm of stone erupted from the floor and clamped around his ankle, dragging him down into the rock like it was liquid. The group rushed forward; someone got a rope on him before he sank too far. [[tarkathee-daru|Tark]] drove his staff into the earthen arm and it released. Gundren hauled himself out and the stone re-solidified around him.
 
-She catches up with the group as they head north, toward Rockblight.
+[[aliyah-faen-tlabbar|Patches]] touched the obelisk. Red lightning shocked her back from it.
 
-Moving past the checkpoint, Jinu leads the group to a smooth section of wall and taps on it.
+Looking around the desecrated site now, the group could see red lightning flickering in brief pulses through the crystals in every direction. Whatever had been done here had infected the surrounding stone.
 
-A small tunnel appears as the elemental shifts the stone of the wall.
+They decided to return to Gurnik.
 
-The group prepares to crawl through, but an approaching Svirfneblin catches their attention; Gurnik, the Cleric.
+---
 
-He thanks the group for heading into the Rockblight and asks if they do, to keep an eye out for a massive standing stone, it intrigues him and he wishes to learn more about it.
+Back in the settlement, [[cirrus-al-kayan|Cirrus]] was fetched from his evangelizing. [[gurnik|Gurnik]] produced Diamond dust. Cirrus spoke thanks to [[selune|Selune]] and cast the restoration over the statue in the [[bag-of-holding|Bag of Holding]].
 
-The group agrees, and head through to the Rockblight caverns.
+The gnome gasped. Color flooded back into him. [[gurnik|Gurnik]] welcomed his old friend home — the man had been missing for twenty years and long presumed dead. An acolyte led him away, still blinking. The nearby Deep Gnomes whispered to each other and several directed warm looks toward the group.
 
+The group described the obelisk. Gurnik listened carefully and then placed a Spell Ruby in [[gundren-rockseeker|Gundren]]'s hand — a Hallow spell, stored in the gem. Slot it into the obelisk, he said. The Hallow would cleanse the Bane from the site.
 
-On the other side, the group finds themselves in a large hallway, stairs ascending behind them to a collapse, to their right, the staris descend and open into a chamber.
+The Bane, however, would not simply allow them to cleanse it. They should expect a fight.
 
-Patches and Tark head south with all the stealth they can muster and investigate the chamber.
+The group asked for Earth Elementals to back them up.
 
-Tark enacts pass without trace.
+Gurnik shook his head. The Bane was named for its specific effect on Earth Elementals — it drove them into mindless rage. Sending his most powerful servants into Rockblight was not something he could do. The group thought it over. The plan that emerged: place the Hallow gem, deal with whatever the Bane threw at them, and then have [[feanon-serinde|Fey]] teleport Earth Elementals directly into the sanctified site once the Bane was destroyed and the ground was safe.
 
-Patches accidentally slips back into the Ethereal plane and notes a flicker of red lightning up ahead before returning to the material plane.
-
-They see an Elemental pounding on a door and notice a glowing mass of fire beetles swarming over one wall of the chamber, lighting it in a warm glow.
-
-As they go to retreat to the group, they notice a large pool of liquid.
-
-Tark sticks his head near it, getting very close to the water, but pulls back as small tendrils raise from the liquid, searching.
-
-Below the water is a massive Grey ooze.
-
-The group backs off, intent to investigate the cave in and see if they could shift the rubble.
-
-They head up the stairs to the collapse and Gundren gets to work investigating.
-
-He determines that with certain blocks moved, they can get through the rubble.
-
-Gundren sets up a pulley system with Gwen as the mechanism and gets to work.
-
-It takes twenty minutes, but he manages to shift a large enough stone to create a passthrough.
-
-As he lifts though, a large chunk of stone falls with a boom, creating a loud disturbance. Though muffled by the Pass Without Trace
-
-The group squeezes on through and notice a Black pudding heading along the ceiling toward them, toward the disturbance.
-
-They back up and lay a trap, springing it as the pudding squeezes through the opening in the rubble.
-
-They blast the creature into sludge and then move past it, back into the newly opened hallway.
-
-The hallway raises at a slight slope, opening into another large chamber, on the ramp ahead though is a half dissolved were-rat.
-
-It appears to be recently dead and devoured by the Black Pudding.
-
-The group pushes on cautiously and approaches a large cavern, the area covered in glowing crystal growths.
-
-The large cavern consists of a large bridge spanning it, with buildings built into the floors and walls of the place.
-
-The Crystal Garden glows, but movement catches the groups eye and they stop to investigate.
-
-The notice a small pack of Dust mephits flitting about the crystals as well as two Cockatrice sniffing around the feet of a petrified Deep Gnome.
-
-The group attacks and destroys the two Cocaktrice quickly and the Mephits back away cautiously.
-
-Feanon speaks to them in Primordial though and hears that the Mephits are afraid of the Medusa in the area that turns people to stone; people like the Deep Gome here.
-
-Looking over the Gnome, the group determines that he’s been there for many years, possibly decades, but decide to take him back to Cirrus to be Restored.
-
-They finagle the statue into a bag of holding.
-
-Looking around the chamber more, across the bridge they note a veritable army of Drow soldier statues, their ranks disappearing into the darkness of the Caverns.
-
-Below the rocky bridge, the group hears the growling and snarling of wild animals engaged in some kind of battle.
-
-North though, Gundren spots the Standing Stone Gurnik asked them to investigate.
-
-Gundren approaches and notes the shrine-like aspects of the stone, complete with receptacles for gemstones.
-
-It is a holy site, though currently desecrated.
-
-Wondering if the nearby crystals could be slotted into the Obelisk, Gundren goes to crack a small piece off a nearby formation.
-
-As he strikes the crysta, a flicker of red lightningl, and earth arm erupts from the ground draggin Gundren down into the liquid-like stone.
-
-The group rushes forward and they quickly rope Gundren off to stop him sinking.
-
-The elemental pulls on the Dwarf and Tark has to smash the arm of the Elemental with his staff before it lets go.
-
-The Dwarf pulls himself from the liquid stone and moments later it re-solidifies.
-
-Patches moves to touch the Obelisk and is shocked by red lightning.
-
-Looking around the desecrated holy site, the group begins to see flickers of red lightning.
-
-They decide to return and tell Gurnik.
-
-Returning to Blingdenstone proper, the group approaches Gurnik’s shrine and fetch Cirrus.
-
-The priest of Callarduran gives Cirrus Diamond dust and speaking thanks to the moon, Cirrus restores the petrified Deep Gnome.
-
-The man gasps and Gurnik welcomes his old friend back to the land of the living, indeed, the Gnome has been missing for twenty years and presumed long dead.
-
-An acolyte leads the un-petrified man away and nearby Deep Gnomes begin to whisper in awe, many smiles being turned toward the group.
-
-They then talk to Gurnik about the Obelisk.
-
-He hands to them a Spell Ruby containing the Hallow spell and asks them to slot it into the Obelisk.
-
-Gurnik is sure it will cleanse the area of the Curse, of the “Bane”.
-
-He tells the group that The Bane won’t let them simply cleanse the area, expect a fight of some kind.
-
-The group asks for Earth Elementals to assist them then but Gurnik informs them that The Bane got it’s name for it’s effect on earth Elementals.
-
-The Bane will drive any Elemental insane with rage, so they dare not push into Rockblight with their most powerful servants unavailable.
-
-The group mulls it over and decides to play it by ear; to place the Hallow Gemstone and potentially have Feanon teleport Elementals to the Holy Site after the Bane is dealt with.
-
-Gurnik tentatively agrees and goes to inform his acolytes - they have new Elementals to summon for battle…
+Gurnik tentatively agreed. He went to have his acolytes begin summoning new Elementals for the battle.
