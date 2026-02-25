@@ -1,8 +1,9 @@
 ---
-title: "The Underdark - & 20"
+title: "The Underdark - The Vampire Savant"
 chapter: 8
 chapterTitle: The Underdark
 session: 19
+summary: "Tark's grief over Gaddock and the betrayal of Kenshi found its limit in the bathroom walls while the group pursued Bilrigger through the Hall of Sacred Scrolls and the wild-magic tunnels of the Whorlstone Caverns — where a Beholder moderated Derro politics and a simulacrum shattered into teeth — before Bilrigger's Sanctum delivered the real fight: the Vampire Savant Milgre, who barely escaped into the Astral Plane as the group closed around her."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -32,354 +33,211 @@ places:
   - "sanctum-of-krasus"
   - "shadowfell"
   - "underdark"
+  - "whorlstone-caverns"
 factions:
   - "derro-faction"
   - "duergar-faction"
   - "netherese"
 ---
 
-Tark is holed up in the bathroom, in the process of pounding the stone with his fists, wrecking the place
+## The Bathroom
 
-Patches knocks on the door and asks what is wrong.  Tark does not respond.
+[[tarkathee-daru|Tark]] was in the bathroom, systematically destroying it with his fists.
 
-The others, Doc and JmJm nearby explain what they discovered - that **Kenshi** does not exist and Tark has been manipulated.
+[[aliyah-faen-tlabbar|Patches]] knocked on the door. No response. [[doc|Doc]] and [[jack-mayer-johnson-mathews|JmJm]] were nearby and explained quietly — [[kenshi|Kenshi]] didn't exist, and [[gaddock|Gaddock]] was a Vampire. The door didn't open.
 
-They also tell her of the fate of **Gaddock**.
+[[snorbul|Snorbul]] pulled a stool up outside the bathroom and sat, not quite sure what to do, trying in his way to be present for his friend.
 
-Snorbul grabs a stool and sets it up outside the bathroom, trying to comfort his new friend.
+[[jack-mayer-johnson-mathews|JmJm]] picked up his lyre and played [[tarkathee-daru|Tark]]'s favorite song softly. [[doc|Doc]] used his Druidcraft to grow a handful of small tundra flowers under the gap at the bottom of the door — wildflowers from the cold north, the kind that grew in the region where [[tarkathee-daru|Tark]] had grown up.
 
-JmJm begins to twang away as a small lyre, singing Tark's favorite song while Doc B uses his Druidcraft to have small tundra flowers begin growing under the door.
+The flowers made him hit the stone harder.
 
-The flowers, reminding Tark of his homeland, causes him to lash out harder.
+Stepping back from the door, [[aliyah-faen-tlabbar|Patches]] ran the timeline in her head. When had [[kenshi|Kenshi]] first made contact? Just after the winter solstice — the same night [[zhengyi|Zhengyi]] had returned. She said it aloud and the group went through it together, reconstructing every dream conversation, every detail that had been passed along in good faith. Everything they had told the Enemy without knowing it.
 
-Patches meanwhile is wracking her brain, when did this happen? 
+The realization was not a comfortable one. [[cirrus-al-kayan|Cirrus]] turned over the pearl of non-detection that had been orbiting his head since Selûne's gift to him through the axe. She had given it to him when they were heading into the [[underdark|Underdark]]. She had known, or suspected, that someone was watching them.
 
-The group thinks about it and determine that** Kenshi** had first communicated just after the winter Solstice - the return of **Zhyenghi** .
+They woke Droki from the couch, reminded him of his agreement, and headed out to the Hall of Sacred Scrolls with four hours to spare before their meeting with Bilrigger. [[doc|Doc]] and [[jack-mayer-johnson-mathews|JmJm]] stayed behind to keep [[tarkathee-daru|Tark]] company.
 
-In retrospect, the group realizes their error, and how they had been played.
+## The Hall of Sacred Scrolls
 
-Vowing to learn from their mistake, Cirrus realizes the message from his Goddess about the **Pearl of non-detection**, and why she bade him have it.
+The Hall of Sacred Scrolls rose from one of the massive stone pillars that supported the cavern roof — a combination of temple and fortress carved from the living rock, columned and imposing, lit from within by the perpetual industry of its inhabitants.
 
-They wake Droki on the couch and remind the Warlock of his agreement to take them to **Bilrigger.**
+Inside: a single vast spiraling library ascending and descending within the pillar's core, thousands of scrolls and books tended by scholarly slaves, the whole apparatus connected by a complex system of elevators and scroll-carrying devices that moved materials between levels with the precision of a large mechanical system.
 
-The group heads out from the townhouse, leaving JmJm and Doc to comfort Tark as Cirrus refuses to be sidetracked when they are so close to finding another Warlock of **Ceregorach**.
+[[feanon-serinde|Fëanon]] flagged down a clerk before they descended and put in a request for ancient Netherese translations — work that would take some time but needed to be started.
 
-The group have the Halfling behind the desk call them set of Rickshaws and the group makes to the Hall of Sacred Scrolls with time to spare.
+Droki led them to an elevator and they descended past the working levels, paying the fines at each gate, until they reached the bottom of the structure. Past that, older tunnels. Droki announced they were entering the Whorlstone Caverns.
 
-Heading through the massive Adamantine gates into the restricted section of the city, the Group notes the increased guard presence
+[[feanon-serinde|Fëanon]] felt the wild magic immediately — the ambient tingle of Faerzress suffused through everything here, the kind of unpredictability that made careful spellcasting a calculated risk. Droki navigated them through twenty minutes of winding passages, [[cirrus-al-kayan|Cirrus]] bullying him into taking a shortcut he was reluctant to use, the group tearing through cobwebs and ducking low passages until they arrived at a large carved amphitheater beyond a set of open stone double doors.
 
-Disturbingly, the increase in guards consists almost exclusively of Devils, strange baby-faced, metal masked creatures called Merrogons
+The Council of Derro Savants was in session.
 
-The creatures take no interest in the group and they approach a large, unique looking structure.
+Droki left them in a waiting room that was little more than a stone cell and went in to announce them to Bilrigger.
 
-Built into one of the massive stone pillars that supports the roof, far overhead, the Hall of Sacred Scrolls looks like a combination of Petra and the Parthenon, a massive columned, temple-like carving from the living rock of the cavern.
+## O'Alla
 
-Impressed at the scale of the Duergar "Library", they head inside and are greeted with a bustle of activity.
+[[aliyah-faen-tlabbar|Patches]] did not wait in the cell.
 
-The entire interior of the structure is one massive, spiralling library, ascending and descending within the column.
+She slipped in after Droki and found a position among the columns where she could see the whole amphitheater. The Council meeting was a tangle of Derro politics — factions accusing each other, a vote about territorial claims, one group being loudly blamed for creating an irresponsible number of vampires.
 
-Filled with thousands of scrolls and books, seen to by hoards of scholarly slaves and all facilitated by a truly impressive complex of elevators and scroll-carrying devices; like a magazine in a massive battleship loading shells.
+She heard the name Milgre. She heard, with more interest, that the Savants apparently had something to do with the theft of the Red Dragon Egg — though it was being held by the local thieves' guild, not the Savants directly.
 
-Impressed, but quickly following the disguised Droki, the group are led to the nearest elevator - but not before Fey calls over a Clerk to have them look into Ancient Netherese translations.
+What she had not expected was the shape floating at the back of the stage: a massive sphere of flesh with a wide mouth and a cluster of eyestalks, its strange robes rippling in the air currents of the chamber. A Beholder. It watched everything. It seemed to be running the meeting in the way that a large, dangerous animal runs a room — by the fact of its presence.
 
-Descending the Hall, the group rides the Iron Elevator all the way to the bottom of the structure, after paying the fine of course.
+[[snorbul|Snorbul]], back in the waiting cell, noticed an eyeball watching them from a crack in the nearby wall and pointed it out to [[feanon-serinde|Fëanon]]. The wizard identified it: a Beholder's remote vision, cast within its domain. They were being observed.
 
-Droki then leads them into the older tunnels beneath the Hall of Sacred Scrolls, descending farther and farther, until he tells them they are about to enter the Whorlstone Caverns.
+[[aliyah-faen-tlabbar|Patches]] returned and confirmed the beast's presence. The group settled on a policy of acting exactly as they had come to act and accepting that the Beholder could see them.
 
-Fey can feel the tingling of magical energies around him, the place is suffused with Wild-Magic from the Faerzress.
+The Council wrapped up. Droki returned and led them deeper into the complex, past a hallway of much finer construction, to a private dining chamber.
 
-It takes a good twenty minutes to get through the winding tunnels.  Having to tear through spiderwebs, and Cirrus intimidating Droki into taking a Shortcut he didnt want to...
+## Bilrigger
 
-Arriving without significant incident, the group finds themselves coming into a large tunnel, curving off in front of them, circling an amphitheater-like room past an open set of stone double doors.
+The dining room was opulent by any standard — plush carpet, wooden furniture, a fully set table with food and finery. At its head sat a small, twisted-faced Derro in grey robes with ivory buttons and bead embroidery, bald and bearded in patches, with a smile that showed perfect teeth catching the firelight.
 
-The Council of Derro Savants is having a meeting beneath the Hall of Sacred Scrolls, a common occurrence it seems.
+Droki introduced the group to his master Bilrigger, Warlock of Ceregorach.
 
-The craft of this place is crude and clearly not Duergar. 
+[[snorbul|Snorbul]] sat down immediately and began eating. [[gundren-rockseeker|Gundren]] followed. [[cirrus-al-kayan|Cirrus]] took a seat near the head while the others spread out around the table.
 
-Droki takes the group to a nearby waiting room - little better than a cell, and then heads in to the meeting to let Bilrigger know he has guests.
+Bilrigger and [[cirrus-al-kayan|Cirrus]] began to talk, and what started as a careful probing of each other's positions accelerated into a genuine theological argument. Bilrigger argued that everything Ceregorach had done — the cruelty, the suffering, the trials — had made [[cirrus-al-kayan|Cirrus]] stronger. He was what he was because of that pain. And Selûne's gift of sight was a leash: she could take it back any time she chose.
 
-Patches sneaks in after him and spies on the content of the meeting
+[[cirrus-al-kayan|Cirrus]] said Selûne was everything, and that she loved him, and that the power she had given him was real and unconditional, and that Ceregorach's brand of strength was built on a lie about what strength was for.
 
-meanwhile, the others are implored by Cirrus to "do what they must" in the coming fight; sure it will come to that.
+They both came to their feet simultaneously, still talking, voices rising —
 
-Snorbul notices something odd: an eyeball watching them from a nearby wall and points it out to Fey.
+[[cirrus-al-kayan|Cirrus]] slammed his staff into the floor.
 
-The group realizes they are being watched and Fey identifies it as something a Beholder can do within its domain.
+The floor rippled. What had looked like enamel tiles resolved into millions of teeth, packed together, parting as dark shapes tore themselves up from below — Fae creatures surging up from somewhere beneath the Whorlstone Caverns.
 
-Patches meanwhile sees the beast itself, a massive floating head with tendrils capped in eyeballs and with a large sharklike mouth: a Beholder
+[[snorbul|Snorbul]] lunged across the table and clamped one massive hand over Bilrigger's mouth before the Savant could utter a word. A berserker's grip. Iron.
 
-The beholder, **O'alla **in name seems to be the leader, or at least mediator of the Derro Savants.
+Bilrigger's greatest weapon was his voice. With [[snorbul|Snorbul]]'s hand over his face, he had nothing.
 
-Patches watches as the different factions engage in politics, blaming one another (one being blamed for creating far too many Vampires).
+The Fae creatures were horrific — some resembling deranged praying mantis-forms, others like massive fleshy gorillas built mostly from jaws and teeth — but the group had been expecting this. [[gundren-rockseeker|Gundren]] opened up with his cannon on the larger ones. [[feanon-serinde|Fëanon]] drove them back with gravity manipulation, crushing several against the walls and floor.
 
-She hears a few names and plots, such as the name **Milgre** and that the Savants seem to be behind the theft of the Red Dragon Egg, though it is held by the local Thieves Guild.
+[[cirrus-al-kayan|Cirrus]] moved on Bilrigger's face with his dagger, cutting away the tongue. [[aliyah-faen-tlabbar|Patches]] systematically severed the tendons of both legs to prevent escape, working with surgical precision.
 
-She leaves, thinking it important to inform the group of the Beholder and sneaks back to the "waiting room"
+Bilrigger lost consciousness.
 
-They exchange information, knowing they have no choice but to accept that the Beholder can see them and just keep doing what they came to do.
+[[cirrus-al-kayan|Cirrus]] enacted a Dream directly into the Savant's mind and found a grey smoky dreamscape, and within it a creature built entirely of teeth — a shape that was somehow both Bilrigger and not Bilrigger.
 
-The Council meeting wraps up a short time later and Droki returns, telling them that his master will see them now.
+He asked one final time: abandon Ceregorach.
 
-Heading deeper into the complex, Droki takes the group to a much nicer chamber.
+The creature of teeth laughed, a sound like gravel and broken glass.
 
-With rich wooden doors, and expert craftsmanship, the group is led into a private dining chamber belonging to Bilrigger, an apparent high ranking member of the Savants.
+Then it exploded.
 
-Walking over plush red carpet to enter the dining room, they are greeted with opulence: couches, wooden furniture, and what appears to be an Enamel or Ivory floor.
+[[cirrus-al-kayan|Cirrus]] came back to the real world and the body on the floor shattered apart — not flesh, but teeth. Thousands of them, scattering across the carpet.
 
-A rich dining table, fully prepared with a meal and beautiful finery lies before them and at its head sits a strange looking Derro Savant.
+[[feanon-serinde|Fëanon]] said immediately: Simulacrum.
 
-In Grey robes with ivory buttons and beadlike embroidery, the decoration creates an almost plantlike pattern and exudes wealth.
+The whole "Bilrigger" had been a constructed double. The real Savant had never been here.
 
-His face is small and twisted into a perpetual snarl, a snarled and patchy white beard growing on his chin.  His bald pate shines in the firelight.
+## The Beholder
 
-The scowl on the Derro Savants face twists into a toothy smile - perfect teeth reflecting the orange glow of the hearth.
+The group backtracked, collected [[tarkathee-daru|Tark]], and let [[doc|Doc]] and [[jack-mayer-johnson-mathews|JmJm]] heal them all before heading back down.
 
-**Droki **introduces the group to his master: **Bilrigger**, Warlock of Ceregorach
+The bathroom door was ajar. [[aliyah-faen-tlabbar|Patches]] cracked it open further and asked [[tarkathee-daru|Tark]] what his master would want him to do.
 
-Snorbul goes and sits right next to **Bilrigger **and begins digging into the food.
+She then told him to hurry up because she needed to use the restroom.
 
-Cirrus sits nearby while the others spread out around the table, sitting, but remaining at the ready and quite on edge (though Gundren begins eating heartily).
+[[doc|Doc]] pushed a small crown of woven flowers through the crack. [[tarkathee-daru|Tark]] looked at it for a moment, then stood, walked to the bathroom door, and shattered it out of the frame with a rapid sequence of strikes. The stone came down in slabs.
 
-Cirrus and Bilrigger begin to talk to one another, going back and forth trying to convince the other to abandon their respective Patron.
+He walked directly to [[cirrus-al-kayan|Cirrus]] and told him he needed everything the group knew about Milgre.
 
-Bilrigger aruges that everythikng Ceregorach did, was to make Cirrus stronger.  He suffered greatly, but look how far he has come because of that strength?
+[[cirrus-al-kayan|Cirrus]] told him the obvious first move was to go back to the Savant chambers and find information there. [[tarkathee-daru|Tark]] turned to Droki and hit him in the face, demanding to be taken to Milgre.
 
-Bilrigger also notes that with his blind eyes, if Selune wished, she could abandon Cirrus and leave him crippled.  The "gift" is a leash.
+Droki swore, rubbed his jaw, and said he would take them to the only person he knew who might actually know where she was: O'Alla, the Beholder.
 
-Cirrus balks, Selune is everything, and loves him.  
+[[aliyah-faen-tlabbar|Patches]] took the opportunity to use the bathroom.
 
-She has given him the true power.  
+## Finding Milgre
 
-His survival of Ceregorach was incidental compared to the power granted by the moon.
+Back in the Hall of Sacred Scrolls, [[tarkathee-daru|Tark]] walked through the doors and yelled Milgre's name at the top of his lungs.
 
-They continue arguing, growing more and more heated until they both leap to their feet, all but yelling at one another...and Cirrus slams his staff into the ground just as Bilrigger raises his hands in a summoning gesture.
+The library went completely silent.
 
-The floor ripples, made of millions of teeth that part as dark creatures pull themselves into the material world from the Faewilds
+A dozen scribes and as many guards moved toward them, outrage barely contained. The Flameguard badges kept the confrontation short of violence. They paid a disturbance fine. Information was gathered from around the stacks on the name "Milgre." The result was sparse: a figure of uncertain identity, last seen descending into the old tunnels beneath the Hall.
 
-Cirrus's spell goes off, creating a globe of invulnerability around him and Bilrigger.
+Down into the [[whorlstone-caverns|Whorlstone Caverns]] again. The Council chambers were empty now. [[tarkathee-daru|Tark]] walked into the amphitheater and called for the Beholder.
 
-Snorbul snaps forward, grabbing the villain with a yell, going int a berserker rage and fastening had hand over Bilrigger's mouth with an Iron Grip.
+After a few minutes, the drapes at the back of the stage parted and O'Alla floated on, robes rippling, eyestalks moving with the slow deliberateness of something that had nothing to fear from anyone in the room. She was bored by [[tarkathee-daru|Tark]]'s demanding tone but intrigued enough by the group's record to listen.
 
-The strange fae creatures leap into motion. 
+[[tarkathee-daru|Tark]] offered to rid the [[whorlstone-caverns|Whorlstone Caverns]] of Milgre and her vampire spawn — the same excess of vampires the Council had been complaining about — in exchange for her last known location.
 
-There are dozens of the tings looking like a small, deranged human preying mantis and the other like a large, squat Gorilla if it was mostly meat, jaws and teeth.
+The group also tried to negotiate for the Red Dragon Egg as additional consideration. O'Alla expressed surprise that they knew she had involvement in its disappearance. She said she would think about it.
 
-The others, expecting something like this, leap into combat - Gundren opening up with his cannon on the larger minions, Fey slamming every enemy in the room repeatedly with Gravity manipulation and Patches leaping across the table to gut the Warlock quickly.
+As for Milgre: the Vampire Savant had last been seen going to visit Bilrigger at his private Sanctum.
 
-Snorbul prevents Bilrigger from saying a word.  The warlock's greatest weapon, his speech, is useless.
+They pressed deeper.
 
-The minions are blasted by Gundren and pulverized by the intense gravity of Fey's spell, meanwhile Cirrus begins to attack Bilrigger's face and mouth with his dagger (cutting out his tongue), going for the green tooth while Patches systematically begins cutting leg tendons so he can't get away. In retrospect, you guys scarily murdered the shit out of him...
+## The Whorlstone Caverns
 
-As Bilrigger slips into unconsciousness, Cirrus enacts a dreaming to speak directly into his mind.
+Droki led them through the [[[whorlstone-caverns|Whorlstone Caverns]], keeping pace as [[tarkathee-daru|Tark]]'s patience thinned toward open threat.
 
-Cirrus finds a grey, Smokey dreamscape, and a creature made entirely of teeth.
+They passed through a large, wet chamber lit by glowing fungi of every color — a central island rising from the water, covered in a small forest of the luminescent growth. Around the island, a dozen Myconids splashed in a strange rhythmic pattern. Two enormous sovereign-class Myconids stood atop the island, each fifteen feet tall. A single small Myconid Sprout stood near the water's edge looking confused.
 
-Cirrus implores Bilrigger one last time to abandon Ceregorach and the toothy creature laughs, teeth rasping against one another.
+Stool, tucked in [[aliyah-faen-tlabbar|Patches]]' pack, peeked out and reacted with shock. The Myconids were dancing — a concept that apparently had no frame of reference in Myconid culture.
 
-The creature explodes in death and Cirrus awakes back in the real world, the Simulacrum of Bilrigger, tearing apart into its base material - teeth.
+[[aliyah-faen-tlabbar|Patches]] made contact with the small confused Sprout, who called itself Rumpadump. It didn't understand what was happening. Its fellows were acting strangely and it frightened them.
 
-Fey immediately informs everyone what happened (Simulacrum).
+Across the chamber, [[tarkathee-daru|Tark]] and [[cirrus-al-kayan|Cirrus]] noticed two large shapes near the walls: humanoids warped beyond recognition by enormous fungal growths erupting from their bodies. They looked like the fungal corpse the group had encountered on their descent into the [[underdark|Underdark]] months ago.
 
-Gundren and Patches begin to scour and loot the room (art pieces) and find a lockbox behind a painting.  
+The great Myconids sent a cloud of spores toward [[feanon-serinde|Fëanon]] as he approached, curious. The spores didn't connect with him, but somehow he heard the Sovereign's voice anyway, booming in his mind: they wanted the group to join them in "the Lady's Dream." The group declined. The Myconid Sovereign sighed, and the entire troupe melded into a central Zurkhwood tree and vanished via Tree Stride.
 
-Disarming the trapped box...barely, and unlocking it, they pocket a +1 dagger and a hat of Disguise.
+The group scooped up Rumpadump and moved on, giving the fungal corpses a wide berth.
 
-Meanwhile, Cirrus has scooped up many teeth of the Simulacra and approaches Droki, the little guy happy he decided not to get involved.
+[[aliyah-faen-tlabbar|Patches]] was last out of the chamber. Just as she cleared the exit, she heard the familiar buzzing drone of Chasme demons entering from the other direction. She pressed into shadow and listened: the demons called the fungal corpses "Servants of Zuggtmoy" and rushed in to attack them. They also mentioned they were looking for a way into [[gracksuluth|Gracksuluth]].
 
-He's as surprised as the group is that this Bilrigger was a fake, but he knows of one other location the REAL Bilrigger could be, though he has never entered Bilrigger's Private Sanctum...
+She moved quickly and caught back up with the group.
 
-The group takes stock of themselves, they are relatively hurt, but can keep going (especially as Cirrus demands it).
+## Bilrigger's Sanctum
 
-They do decide to head back and pick up Tark, and have Doc heal everyone a little.
+Droki stopped in front of an unremarkable section of cavern wall — stone pillars, Faerzress crystals, common tunnel stone. He pointed at a door that had been carved to look like the natural surrounding rock and carved at that. The metal hinges were cut with impossible precision.
 
-They backtrack through the same tunnels that got them down to the Savant chambers, the place now empty save for a few stragglers.
+[[tarkathee-daru|Tark]] wrapped shadow around the group as they approached.
 
-It takes about an hour, but they make it back to the Town House to collect Tark.
+[[aliyah-faen-tlabbar|Patches]] stepped into the deepest shadow she could find — and stepped through it entirely, passing through a crack in the planar boundary into the border Ethereal Plane near the [[shadowfell|Shadowfell]].
 
-As they go through the hall of Sacred Scrolls, Cirrus sets up an appointment for the next day with the Hall's head Scribe, the only one that knows the language of the Ancient Netherese: **Lola.**
+The world went smoky and flickering, all souls and magic visible as burning points of light in a grey landscape. She saw strange shapes moving in the murk. This was not the moment to explore. She turned and stepped back through the gate.
 
-They find him still holed up in the now utterly destroyed bathroom.
+The rest of the group was none the wiser.
 
-Patches tries to coax Tark out, cracking the door (as much as it can) and peeking inside, she asks him what his master would want him to do.
+Inside the Sanctum: a large stone chamber with black marble pillars and a polished floor, a statue of a Derro at the far end, and throughout the room the obvious signs of a violent struggle — smashed furniture, broken objects, old stains.
 
-She also then berates him for smashing up the place and that she needs to use the restroom if he can hurry up.
+Two forms crouched near a puddle of blood, drinking. Vampires.
 
-Cirrus and Fey talk with Doc and have him try and scry on the remains of the Simulacrum, to no effect.
+The group attacked fast and loud. The vampires went down but made a ruckus as they died, and screeches answered from deeper in the Sanctum. The stealthy approach was gone.
 
-Doc returns to try and help Tark, and seeing that the door is cracked open, pushes a small crown of flowers into the bathroom for his friend.
+Two hallways opened ahead. [[gundren-rockseeker|Gundren]] and [[tarkathee-daru|Tark]] took one. [[aliyah-faen-tlabbar|Patches]] and [[cirrus-al-kayan|Cirrus]] took the other. [[feanon-serinde|Fëanon]] held the back, ready to support either side.
 
-Tark sees it and stands up, walking over to the door and shatters it with a rapid succession of strikes, the slablike pieces falling outwards in a heap.
+Both hallways led to opulent chambers wrecked by the same violence, both with movement within.
 
-Tark walks directly over to Cirrus, and demands that he be told everything the group knows of **Milgre**, the Derro Savant of Orcus.
+Vampire spawn dropped from the ceilings in both rooms. Behind them, two Derro Warlocks — Milgre's servants — broke from cover and began casting.
 
-Cirrus wants to head directly back to the Savant Chambers, which is a great place to gather information on Milgre.
+[[gundren-rockseeker|Gundren]] pulled an opal from his helm and hurled it. Daylight erupted in his room, scorching the vampires. He opened fire with his cannon. [[tarkathee-daru|Tark]] silenced the red-robed Warlock — Rilka — just as her chain lightning went off, the silenced thunder of the spell still hammering [[gundren-rockseeker|Gundren]], [[tarkathee-daru|Tark]], and [[feanon-serinde|Fëanon]].
 
-Just in case, Tark walks up to Droki and smacks him right in the face, demanding to be taken to her.
+[[aliyah-faen-tlabbar|Patches]] planted a satchel charge on the dividing wall and detonated it, flooding both rooms with sunlight and showering Rilka with shrapnel. The vampires reeled. Rilka retreated, stepping out of the silence — but [[tarkathee-daru|Tark]] pursued.
 
-Droki swears and says he will take them to the only person he knows might know: **O'Alla, the Beholder**
+[[aliyah-faen-tlabbar|Patches]] put two precise shots into Rilka and her companion; both had defensive spells active, and the bolts landed hard but not clean. Rilka dispelled the daylight. [[gundren-rockseeker|Gundren]] pulled another opal.
 
-Patches finally gets to use the restroom, though is surprised by Doc as he checks to see the state of the damage, Patches waving the little cat away.
+[[cirrus-al-kayan|Cirrus]], surrounded by spawn, battered them back with Eldritch Blasts and rolled a flaming sphere down the hallway to clear them. Then he raised a Wall of Force across the interior of the Sanctum, separating the remaining enemies from any escape route.
 
-Doc and JmJm heal up the party, deciding to stay behind with Snorbul, the little Gnome deciding that he needs to "fix" the bathroom.
+From the back of the room, the statue of Bilrigger drained of color and a set of steps resolved itself behind it, ascending into mist.
 
-The group heads quickly back to the Hall of Sacred scrolls.  
+A spell emerged from the mist. Then the Vampire Savant herself.
 
-Tark notes a strange feeling on the air, a subtle, rising tension.
+[[milgre|Milgre]] stepped from the stairwell, elegant and precise, and charmed [[feanon-serinde|Fëanon]] in a single look. He moved to place a wall of ice between the parties, separating the group's efforts — an action he would not have taken on his own. Milgre turned her attention to [[cirrus-al-kayan|Cirrus]], who raised his Tomb of Levistus and sealed himself in ice.
 
-They enter the Hall and Tark yells out for **MILGRE!!!!!!**
+[[feanon-serinde|Fëanon]] felt the wrongness of the charm pressing against his will and pushed back. He broke it.
 
-The entire place goes quiet, and every set of eyes focuses on the group.
+[[tarkathee-daru|Tark]] finished Rilka — she fell, and he shattered her skull — and moved on the other warlock. [[gundren-rockseeker|Gundren]] and [[feanon-serinde|Fëanon]] cleaned up the remaining vampires. [[cirrus-al-kayan|Cirrus]] came out of the ice block and saw the last of Milgre's warlock servants reading a Dimension Door. He could not stop it. The warlock escaped.
 
-They are quickly apporached by a dozen angry looking scribes and an equal number of guards.
+Milgre turned invisible and moved for the exit.
 
-Spotting the Dragon's Gold badges, the outright hostility melts to barely contained anger.  How DARE someone enter here and just start yelling.
+[[aliyah-faen-tlabbar|Patches]] ran to the main room and heard [[feanon-serinde|Fëanon]] call out that the Vampire was invisible and heading out. She Faerie Fired the doorway — a wide arc of harmless colored flame that caught the invisible shape as it passed through, outlining it in flickering light.
 
-Tark demands information on Milgre, and the group pays the disturbance fine.
+[[cirrus-al-kayan|Cirrus]] was already running. He caught the momentarily stunned Vampire in the doorway and drove the planar tuning fork into her side.
 
-Information ripples in from around the library as information on **Milgre **is collected.
+Milgre, Vampire Savant of Orcus, was plane-shifted to the Astral Plane.
 
-The information is sparse, but the mysterious and little known **"Milgre"** was apparently last seen descending into the old tunnels beneath The Hall of Sacred Scrolls.
-
-The group thanks the Duergar and take their leave, descending quickly back into the Savant's Meeting hall.
-
-Now completely deserted, the group easily return.  Tark stalks directly into the main amphitheater and begins yelling for the Beholder to appear.
-
-After a few minutes, the drapes behind the stage flap open, and the massive floating creature gracefully floats onstage, its strange robes fluttering behind it.
-
-Tark demands any information on **Milgre.**
-
-The Beholder **O'Alla** is intrigued by the group, but bored by Tark's demanding tone.  It won't help out of the goodness of its heart.
-
-Tark says that the group will rid the Derro of **Milgre **and her vampire spawn that the other Derro had complained about.
-
-With her interest piqued, **O'Alla **considers, and offhandedly mentions that she was last seen going to visit Bilrigger in his Sanctum.
-
-The group also try to leverage the extermination of the Vampires in exchange for the Red Dragon egg.
-
-**O'Alla **is surprised they know She and her Savants were involved.  She will think about it, but she doubts she will come to a favorable decision for the party.
-
-The group presses on, deeper into the Whorlstone Caverns with Droki as their guide.
-
-Tark grows impatient and begins to threaten Droki.
-
-With the various skills of the group, they easily stay on track, Droki eventually leading the group to a large water-filled and well lit cavern.
-
-Glowing fungi of all sorts pepper the large, wet chamber.  A large central island rises from the water, covered in a small forest of the Fungi.
-
-Around the island, splash a good dozen Myconids, the bizarre Mushroom men splashing around in a rhythym.
-
-Atop the large island, two gargantuan Myconids shift, each easily over 15ft tall, and just as wide.
-
-Standing nearby is a small Myconid Sprout.
-
-Tark ignores this strange event, following Droki across the cavern, the others in close pursuit and wishing to avoid distractions.
-
-As they go past though, Stool, peeking from Patches pack, notes the other Myconids and is shocked by their actions.
-
-They have no concept of dance.
-
-Patches goes to the other baby Myconid and makes contact, the creature calling itself Rumpadump
-
-the small thing doesnt know what's going on, only that his fellows are acting strangely and it scares him.
-
-Across the cavern, Tark and Cirrus note two humanoids, bloated by massive fungal growths, their species no longer identifyable.
-
-They look like the fungal corpse they came across on their descent into the Underdark...
-
-The massive creatures atop the plateau shake out a massive cloud of spores to try and talk with Fey, who approaches curious.
-
-The spores to not connect with Fey, yet he still hears in his mind the booming voice of the Myconid Sovereign.
-
-They thing asks the group to join them in the "Lady's Dream".  The group refuses and the Myconid sighs in sadness.
-
-The massive troupe then all approach the large glowing Zurkhwood tree in the center of the mount, and melt into it, vanishing in a Tree Stride.
-
-They scoop up Rumpadump and continue on their way, giving the strange fungal corpses a wide berth.
-
-Patches is the last out and just as she leaves the chamber, hears a familiar droning buzzing.
-
-She ducks into the shadows and watches as two Chasme demons rush into the chamber.
-
-They spot the Fungal corpses and call them "Servants of Zuggtomy" before rushing in to attack them, they also mention that they are looking for a way into Gracksuluth.
-
-Patches vacates the area quickly and catches back up with the group.
-
-After another twenty minutes, Droki announces that they have arrived.
-
-A non-descript and rather mundane section of the Whorlstone expanse lies in front of them, a series of large stone pillars being lit by the glittering Faerzress crystals and small phosphorescent fungi of the cavern.
-
-Going around the pillars, the group sees a door, sliced from the wall and made to look like the natural surrounding stone.
-
-On closer inspection, the metal hinges are sliced almost impossibly clean.
-
-Tark wraps shadow around the group as they approach, and Patches steps into the deepest patch of shadow she can find.
-
-Her judgement is a little too good though and she steps through a crack in the planar boundries and enters the border Ethereal Plane close to the Shadowfell.
-
-Seeing the world in flickering shades of smokey darkness, and all souls and magic as glowing bonfires of energy, Patches realizes what happened.
-
-She sees some strange creatures moving around the area and decides now is not a good time.  She turns and steps back through the inadvertently discovered gate.
-
-Back in the Prime Material, the rest of the group is none the wiser.
-
-Tark enters Bilrigger's Sanctum, Droki wisely refusing to enter.
-
-Tark goes invisible and looks around the main entry room.
-
-A large stone chamber, supported by ornate pillars of black marble and shining stone floor lays before him.  At the far end is a statue of a Derro.
-
-There are signs of a struggle throughout the chamber, and what furniture was here is smashed and broken.
-
-Ahead, Tark notes two forms hunched over a puddle of blood, lapping at the liquid hungrily; Vampires.
-
-Tark attacks in tandem with the rest of the group and they quickly tear the vampires apart, though take a few claw wounds in the process.
-
-The beasts make a ruckus as they die though and other screeches can be heard deeper in the Sanctum.
-
-Realizing that the stealthy approach is spent, the group rushes into action.
-
-Presented with two hallways, Gundren and Tark take one, with Patches and Cirrus taking the other, Fey remaining in the back to support either group.
-
-moving forwards cautiously, both hallways lead to opulent chambers, both showing signs of struggle (smashed furniture).  Both have slight movement within...
-
-Vampire spawn drop from the ceiling in both instances, rushing forwards to engage as the two Warlock minions of Milgre dart from behind cover and begin to cast spells.
-
-Gundren pulls an Opal from his helm and tosses it, Daylight erupting from the gem and scorching the Vampires before beginning to pump out shots.
-
-Tark casts silence on Rilka, the red robed Derro Warlock just as her Chain lightning goes off, slamming Gundren, Tark and Fey.
-
-Partches mask illusion rushes forward, distracting her enemies and allowing her to get into position.
-
-Patches sneaks forward into her room, spotting the Vampires and the other Warlock, she plants a satchel charge on the diving wall and then detonates it, showering Rilka with shrapnel and flooding both rooms with sunlight (burning her own eyes).
-
-Rilka retreats to her companion, leaving the silence, but Tark pursues.
-
-Patches unloads two precise shots into Rilka and her companion, but both have spells active that lessen the deadly impacts.
-
-Rilka dispels the daylight, but Gundren simply pulls another gem and tosses it.
-
-Meanwhile Cirrus has gotten surrounded by Vampire spawn but is pummeling them with Eldritch blasts, pushing them back with each hit.  He summons a flaming sphere to cascade down the hallway, burning the vampires.
-
-Fey at the back has a different problem to contend with, the statue of Bilrigger has drained and a set of steps resolves, leading deeper into the Sanctum, filled with mist.
-
-A spell is hurled into the mist and it resolves into a Vampire, leaping from the stairwell and rushing Fey.
-
-**Milgre, **Vampire Savant, charms Fey and then turns her attention to Cirrus.
-
-not wanting to see his friends fight, Fey enacts a wall of ice to separate all the parties, but the Vampire destroys a section and rushes Cirrus who is forced to enact his tomb of Levistus (ice block).
-
-Feeling that something was wrong with the situation, Fey pushes against the charm spell and manages to break it.
-
-Tark finishes off the wounded Rilka, as she falls to the ground, Tark smashes her head, crushing it and moves on to the other Warlock
-
-Gundren finishes off the Vampires facing him, with assistance from Fey
-
-Cirrus comes out of his Ice block and enacts a wall of force just as Milgre begins to flee, turning invisible.
-
-The wall of force seperates all the Vampires from the group and imprisons the last Warlock apprentice of Milgre.
-
-With things looking so Dire for the bad guys, the Warlock servant of Milgre decides to flee and Dimension Doors out to safety.
-
-Patches rushes back to the main room and hears from Fey that the Vampire is invisible.  Thinking quickly, Patches Faerie fires the doorway out of the Sanctum and catches the Vampire in the light, enshrouding her in harmless flames.
-
-Cirrus, already rushing in that direction, catches the momentarily stunned vampire and jams the Planar tuning fork into her side, Plane-shifting the shocked Vampire to the Astral Plane...
+The Sanctum went quiet. Outside, somewhere in the deep tunnels of the [[whorlstone-caverns|Whorlstone Caverns]], the chambers sat empty and dark.

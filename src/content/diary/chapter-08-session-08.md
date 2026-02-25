@@ -1,8 +1,9 @@
 ---
-title: "The Underdark - & 9"
+title: "The Underdark - The Escape from Velkynvelve"
 chapter: 8
 chapterTitle: The Underdark
 session: 8
+summary: "Demons crashing into Velkynvelve gave the group their opening — the prison emptied, the Drow scattered, and Shoor Vandree escaped in a spray of blood and gunpowder — before a Wind Walk blazed the rest of the journey to the Darklake, where Sloobludop's civil war between the Cult of the Deep Father and the old priesthood was already boiling over."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -47,474 +48,244 @@ factions:
   - "svirfneblin-faction"
 ---
 
-**The Escape from Velkynvelve**
+## The Escape from Velkynvelve
 
-The Demons fly in, assaulting Velkynvelve
+Demons poured into [[velkynvelve|Velkynvelve]] from above.
 
-Three massive Greater Chasme descend on a nearby Quaggoth, the Guard Tower and the other goes wide to attack the drow farther in the cavern.
+Three massive Chasme dropped onto a Quaggoth and a guard tower while a fourth banked wide to assault the Drow fortifications deeper in the cavern. Two guards screamed on their whistles. [[ilvara-mizzrym|Ilvara]] led the barracks troops toward the prison level as both priestesses summoned Balgura demons to bolster the defenses.
 
-Two of the Drow blast out signals on their whistles, signaling the others to pour from their chambers to take up arms and defend the outpost.
+The group was already moving.
 
-The priestess Asha rushes to the shrine to defend it as Ilvara leads the troops from the barracks to the prisoners.
+The rescue team swept along the ceiling on wings and flight spells toward the prison tier. [[tarkathee-daru|Tark]] came at it from a different angle and ran directly into one of the Chasme, which took a personal interest. [[horatio-von-bumidere|Buumi]], [[megno-slatesunder|Megno]], and [[tarkathee-daru|Tark]] formed a defensive screen in front of the cells, keeping three of the Chasme and a Vrock occupied while [[jack-mayer-johnson-mathews|JmJm]] and [[feanon-serinde|Fëanon]] Dimension Doored directly to the bars, using Shoor Vandree's stolen insignia to open the locks.
 
-As she surges forward, two Vrocks descend on the Drow as they head over.
+[[jack-mayer-johnson-mathews|JmJm]] walked through with the confiscated gear. Everyone re-armed as fast as they could move. [[gundren-rockseeker|Gundren]] grabbed his cannon. [[aliyah-faen-tlabbar|Patches]] snatched her weapons and ran out to help [[horatio-von-bumidere|Buumi]].
 
-Seeing the massive threat, both priestesses summon Balgura demons to assist them.
+The demons fought hard. Their spore clouds and stunning shrieks hammered the defenders, but the group shrugged off the worst of it. The Chasme identified [[horatio-von-bumidere|Buumi]] as the source of the holy energy bolstering his companions and turned their full attention on him. He took savage punishment — battered and bleeding by the end — but stayed on his feet.
 
-As the Drow battle the demons, the group makes their move to escape!
+Farther along the cavern, a massive ape-like demon on vestigial wings rose out of the webs below the barracks level: a Nalfeshnee. It called out to the priestesses in a guttural voice, stalling [[ilvara-mizzrym|Ilvara]]'s troops with some kind of strange exchange.
 
-The Rescue group rushes along the ceiling, using flight to make it to the prisoners and assist in freeing them.
+[[jack-mayer-johnson-mathews|JmJm]]'s Arcane Hand swept through the remaining demons and Drow by the prison. The group and their fellow prisoners gathered outside the cells, clustered around [[tarkathee-daru|Tark]] and [[jack-mayer-johnson-mathews|JmJm]] as the heroes held the screen.
 
-Tark veritably runs into one of the Demons and it takes an interest, following and attacking.
+With everyone re-equipped, [[jack-mayer-johnson-mathews|JmJm]] used the Hand to ferry himself and [[doc|Doc]] three hundred feet down to the cavern far below. The prisoners began their own descent by whatever means were available. [[aliyah-faen-tlabbar|Patches]] covered the crossing, watching the Drow above take positions on the web bridges.
 
-Buumi, Megno, and Tark defend the prison, combating all three of the Chasme and one of the Vrock Demons, their decaying and sore-covered bodies proving to be disgusting targets.
+She spotted the Drow with the lightning wand — the one with the scarred hands — taking aim from within the main stalagmite tower. She shot him through the hand before he could fire.
 
-JmJm and wizard Dimension door over to the prisoners and use Shoor Vandree's emblem to open the bars
+[[cirrus-al-kayan|Cirrus]] followed with a blast of Psychic Static into the fortification, scrambling the defenders' senses for a few critical seconds.
 
-JmJm Waltzes in with the gear and everyone begins to re equip themselves. 
+Then, from within the far tower, [[aliyah-faen-tlabbar|Patches]] heard a voice — startled and recognizing: *"Sarith!? What are you—"* and then a scream that began high and climbed higher, and went on for far too long before ending in a dull thump.
 
-Gundren grabs his gun while Patches grabs her weapons, takes the insignia form JmJm and rushes out of the cell to assist Buumi.
+She did not dwell on it. She dropped Darkness over the last Drow with line-of-sight on the bridge, threw a smoke bomb over the crossing, and stepped off the edge — levitating down the last stretch to the pool far below.
 
-Buumi, Cirrus, Tark, Megno, Gundren and Patches lay into the demons.
+Above her, a dominated Shoor Vandree hovered at the edge, holding out a hand for NPCs who still needed a way down. [[ront|Ront]] leapt for the wizard — intending to grab him for a Dimension Door — and missed entirely. The orc fell the full distance. Shoor blinked down to the cavern floor a moment later and watched the descent with detached curiosity.
 
-The Demons let out damaging spore clouds and stunning shrieks, but the group manages to shrug the worst of it off.
+[[pickles|Mr. Pickles]] and Buppido caught a lift from [[tarkathee-daru|Tark]]. [[shuushar|Shuushar]] and Stool were carried down by [[horatio-von-bumidere|Buumi]] on his enchanted wings. [[gundren-rockseeker|Gundren]] had been saving [[arkto|Arkto]] for an occasion like this — he summoned the great winged owlbear in a surge of white light. [[gundren-rockseeker|Gundren]], [[snorbul|Snorbul]], and the two Svirfneblin twins clambered onto the creature's broad back and it dove from the ledge, gliding to the cavern far below.
 
-The demons note this, and recognize Buumi as a bolstering force of holy magic and begin to focus their attacks.
+[[ront|Ront]] had left a frozen impact crater where he hit the pool and was crawling out of it, coated in ice from his own armor, when the rest landed around him. The group stared. He was alive. [[cirrus-al-kayan|Cirrus]] healed him. [[ront|Ront]] glared at the Drow who had dropped him.
 
-The massive Chasme demons tear into Buumi, but he remains standing on his feet, defending the Prison.
+## Toward the Darklake
 
-Buumi is battered and bleeding badly after an exchange with one of the monstrous, buglike Chasme demons.
+Buppido mentioned the southern tunnel would reach [[gracksuluth|Gracksuluth]] by circumventing the [[darklake|Darklake]], but the group wanted the direct route. They turned west, following [[shuushar|Shuushar]] toward the Kuo-Toa settlement of Sloobludop and the Darklake beyond, leaving [[velkynvelve|Velkynvelve]] behind.
 
-As the Demons fall though, the Drow attack from their fortifications, shooting lightning blasts and crossbow bolts into the group.
+Four hard hours of travel passed before anyone slowed. Far enough from the Drow outpost that pursuit seemed unlikely to catch them quickly, the group found a small chamber and made camp. [[cirrus-al-kayan|Cirrus]] raised the Tiny Hut. [[aliyah-faen-tlabbar|Patches]] wired the approaches. [[feanon-serinde|Fëanon]] set an Alarm on the tunnel mouth.
 
-Farther down the cavern, the Drow from the barracks are stalled as a massive Ape-like demon on tiny wings ascends out of the webs - A Nalfeshnee
+They rested, fitfully. Most of those who slept were visited by nightmares.
 
-It calls out to the Priestesses and begins to talk to them in a guttural voice, stalling them.
+## Shoor
 
-JmJm summons his Arcane Hand to assault the remaining Drow and Demons by the Prison and then slices with his Inkblade.
+Morning came in the dark, punctuated by [[aliyah-faen-tlabbar|Patches]] watching [[jack-mayer-johnson-mathews|JmJm]] turn to the dominated Shoor Vandree and command him, as the spell neared its end, to allow himself to be bound and gagged.
 
-The group and NPC's begin to gather outside the prison by Tark and JmJm as they battle the demons.
+Shoor complied, and they tied him and moved on. But the domination was fading. [[jack-mayer-johnson-mathews|JmJm]] attempted a re-casting when he felt the effect waver — but Shoor's mind was stronger than the spell and pushed it out.
 
-With the group finally re-equipped and many of the demons destroyed, JmJm uses his Arcane Hand to ferry himself and Doc B 300ft to the cavern below.
+The Drow tensed. He looked around at his situation: bound, gagged, surrounded by the group with [[aliyah-faen-tlabbar|Patches]]' pistol pointed at his head and [[cirrus-al-kayan|Cirrus]] with a spell ready. He began, visibly, to try and negotiate through the gag.
 
-The NPC's begin to gather with the group to make a hasty retreat to the cavern far below as the Heroes create a highly effective screen.
+He managed to spit it free and utter an Arcane word.
 
-Just as the group prepares to descend, the Drow Priestesses Banish the Nafleshnee and the troops begin to rush along the web bridges and into position.
+[[aliyah-faen-tlabbar|Patches]] fired. The bullet tore through the Drow's cheek and teeth — and Shoor Vandree vanished in a cloud of gunpowder smoke.
 
-Patches spots the Drow with the magic lightning wand - the scarred drow with the missing fingers - and shoots him in the hand as he takes aim from within the main Stalagmite tower.
+[[doc|Doc]] held out his hand. Someone dropped Shoor's scattered teeth into it. The druid peered into an amethyst and scryed: the Drow was on all fours in a dark cavern, blood pattering to the stone from his ruined face, hands shaking as he pulled a healing potion from his belt. The wounds began to close, leaving terrible scarring. Then — as [[doc|Doc]] watched — Shoor inscribed a Teleportation circle and returned to [[velkynvelve|Velkynvelve]] in a flash of purple light.
 
-Cirrus follows suit in distracting the Drow by hurling a blast of Psychic Static into the fortification, scrambling the defenders senses.
+They picked up the pace and headed west.
 
-As the group prepares to leave, Patches hears from within the far tower a faint exchange; "Sarith!? What are you...?" and then a horrific scream that seems to go on far too long and raise in terrible pitch.  Then a dull thump...
+## The Twins
 
-Patches does not dwell on it and turns, drops a blot of Darkness over the last two Drow in range and a Smoke bomb to cover their escape as she leaps from the prison bridge and falls to the pool far below.
+Later in the rest period, [[doc|Doc]] spoke with the Svirfneblin twins. [[tarkathee-daru|Tark]]'s nose had been itching since they left the prison, and between the two of them they pieced it together: Topsy and Turvy were wererats — and deeply uncomfortable with their own condition, unsure how to manage what they were becoming.
 
-As she nears the bottom, she calls upon her innate Drow abilities and Levitates down the remaining distance.
+[[cirrus-al-kayan|Cirrus]] thought on it. His goddess was the patron of good lycanthropes, among other things. He offered to pledge the twins to Selûne — not as a cure exactly, but as a path through it.
 
-High above, the Dominated Drow Wizard; Shoor, is hovering in place and holding out a hand to any NPC that still needs a way down.
+Their fear of what they were becoming was enough. They agreed.
 
-The Orc, Ront leaps for Shoor (intending to Dimension Door)...but misses, plummeting the whole way down.
+[[cirrus-al-kayan|Cirrus]] conducted a small ceremony of dedication in the dark. When it was finished, the twins decided they would use the topside teleport to leave the [[underdark|Underdark]] entirely — head up to find Selûne's light and begin properly.
 
-The Drow shrugs and Dimension Doors down to the cavern floor, watching the Orc's descent.
+## Parting Ways
 
-Meanwhile, Mr. Pickles and Buppido cach a lift from Tark while Shuushar and Stool are carried by Buumi and his enchanted wings.
+[[megno-slatesunder|Megno]] gave [[feanon-serinde|Fëanon]]'s exact location to the surface-side wizard, pressing a piece of Underdark stone into his palm as an anchor for the return teleport. [[horatio-von-bumidere|Buumi]] chose to go up as well — the aftermath of [[neverwinter|Neverwinter]] and the family deaths he had been managing still needed his attention. He thanked the group for calling on him as promised and hugged them each goodbye.
 
-Gundren uses his figurine of power for the first time and summons the great Winged Owlbear; Arkto to get him safely to the Cavern floor.
+Buppido, seeing an opportunity to go somewhere entirely new, leapt into the teleport.
 
-Gundren, Snorbul and the two Svirfneblin twins clamber atop Arkto and it leaps into a dive, then glides to the cavern below.
+[[megno-slatesunder|Megno]] muttered something about being too old for all of this.
 
-The group and NPC's are all ferried out of combat and they flee the ceiling base of Vyklenvelve to the cavern floor below.
+A flash of arcane light. They were gone.
 
-Arriving on the cavern floor, the group sees Ront smash into the water, covered in Ice armor and leaves a strange frozen impact on the pool.
+Smaller now, the group fell back in and headed west, [[shuushar|Shuushar]], [[tarkathee-daru|Tark]], and [[aliyah-faen-tlabbar|Patches]] at the front. As they moved, [[shuushar|Shuushar]] mentioned his meditation practice and [[tarkathee-daru|Tark]] expressed genuine interest in learning from him.
 
-The Orc weakly crawls out of the water and the group is shocked he survived.
+Conversation eventually came around to [[ront|Ront]], who had been quiet about his reasons for being in the [[underdark|Underdark]]. He told them: he had been sent to recover an artifact of power. [[tarkathee-daru|Tark]] pulled out his fragment of [[the-last-word|The Last Word]], suffering the burning effect as he held it up.
 
-Cirrus heals him and the Orc glares at the dominated Drow that "Dropped him".
+[[ront|Ront]] stared at it. He was not certain, he said — but it could well be what he had been sent to find.
 
-Buppido mentions that the southern tunnel will take them to Gracksuluth by circumventing the Darklake but the group wants the more direct line.
+He then announced he would prove his worth by killing [[tarkathee-daru|Tark]], whom he had assessed as clearly the weakest member of the group, and taking his place.
 
-The group wants to go directly to the Duergar city and opt to follow Shuushar to the Darklake and then Sloodublop to secure a boat.
+[[cirrus-al-kayan|Cirrus]] laughed hard and said he was looking forward to it.
 
-The group wastes no time and turns to the west tunnel, fleeing directly toward Shuushar's people, the Kuo-Toa and leaving the Drow behind in their Outpost.
+## Reunited
 
-**Toward the Darklake**
+[[feanon-serinde|Fëanon]]'s return teleport dropped him off-target — even with the stone anchor, the Faerzress interference was significant enough to put him in a lightless cavern somewhere distant. The sound of approaching footsteps sent him into a defensive crouch until he recognized the voices.
 
-**​**The group rushes out of the west tunnel, barging through the Orc village and scattering the villagers.
+The group collected him and he re-equipped. He tossed an adamantite sidesword taken from one of the Drow elite warriors during the escape into the [[bag-of-holding|bag of holding]].
 
-Not knowing if the Drow are in hot pursuit or not, the group runs on for four hours, unwilling to rest so close to the Drow Outpost.
+He was also missing a finger.
 
-As the group heads away from the Drow base, eyes turn to the Drow Wizard with them: Shoor.
+[[feanon-serinde|Fëanon]] turned to [[doc|Doc]] and asked. The others watched [[doc|Doc]] press a small paw to the stump. Fresh water splashed over the injury and over the following minutes, the finger grew back entirely.
 
-They stop for a quick breath and JmJm turns to talk to the Wizard.
+[[tarkathee-daru|Tark]] said that was really neat.
 
-JmJm chats with Shoor and the Drow goes on about getting the group in to Menzoberranzan to work for his family, House Vandree.
+## Wind Walk
 
-As the Dominate person spell nears its end, JmJm commands the wizard to allow himself to be bound and gagged.  
+[[doc|Doc]] laid out his flower petals, drew a long pull from his pipe, and exhaled a great rolling cloud that swelled through the tunnel around them. It swept them all up and carried them forward — incorporeal and blisteringly fast, rushing through the underground passages in the vanguard of [[shuushar|Shuushar]], [[aliyah-faen-tlabbar|Patches]], and [[snorbul|Snorbul]].
 
-Patches approaches and draws her pistol on the Wizard.   
+What should have been five days of careful travel became two. They blazed past [[the-crossroads|the Crossroads]] in hours, past Popmite nests and fungal chimneys and every denizen of the middle [[underdark|Underdark]], too fast for any of it to register. Whatever pursuit [[ilvara-mizzrym|Ilvara]] had managed to organize, they had left it far behind.
 
-Cirrus waits with a spell ready just in case.
+When the spell spent itself, the group was still fresh, and [[shuushar|Shuushar]] estimated only a handful of hours remained to the [[darklake|Darklake]].
 
-The Dominate person ends and JmJm attempts a re-casting...but the Wizard's mind is too strong and resists the spell.
+[[jack-mayer-johnson-mathews|JmJm]] drew out a small divining gem and cast a direction-finding spell to confirm their bearing. They pressed on.
 
-Shoor tenses and looks around in panic as the situation unfolds.
+## Blurg
 
-The group begin to ask him questions and it appears that he's begging for mercy/trying to make a deal, but he cannot be understood through the gag.
+Deep in the last approach, they came across a lone figure in a wide tunnel.
 
-He manages to spit the gag from his mouth and utter an Arcane word.
+A tall blue-skinned Orog stood rigid in the torchlight, eyeing them in clear panic. He moved to cast — a teleport, to leave — but [[feanon-serinde|Fëanon]] read it before it went off and Counterspelled it cleanly.
 
-As the Dimension door goes off, Patches fires her pistol and the bullet rips through the Wizard's cheek and teeth...Shoor is gone in a spray of blood and cloud of gunpowder smoke.
+The group moved in fast.
 
-Thinking quickly, they scoop up Shoor's teeth and hand them to Doc B to Scry on the Wizard.
+The Orog backed against the wall, his elegant silk suit and gold-trimmed collar at odds with his terrified expression. He spoke to them without opening his mouth — a flat telepathic broadcast: his name was Blurg, he was a member of the Society of Brilliance, and he was looking for his missing mount, a creature he called Centi.
 
-Peering into the Amethyst, the vision resolves into the Drow, on all fours in a light less cavern, blood pattering to the stone from his ruined face.
+The group recognized the name from the letter they had found on [[peade|Peade]].
 
-Hands shaking, he pulls a potion from his belt and manages to drink it and the wounds begin to re-knit, though appear to leave some pretty terrible scarring.
+They asked about the Society, about [[gravenhollow|Gravenhollow]], about the malaise affecting the [[underdark|Underdark]]. Blurg confirmed that he and his colleagues were investigating the same corruption — something none of them yet understood. But the Counterspell and the group's aggressive posture had unsettled him entirely.
 
-As Doc watches, the Wizard inscribes and finishes a Teleportation circle, and returns to Velkynvelve in a flash of purple light.
+As the group pressed for specifics, Blurg stepped backward into the stone wall and melded with it, vanishing without a word.
 
-Figuring they should leave the area quickly, the group all pick up the pace, heading quickly toward The Crossroads and then the Darklake.
+They stared at the blank stone, then moved on.
 
-Eventually though, they know they need to find a spot or risk exhaustion and risk running into something else out in the Darkness.
+## The Underground River
 
-The group finds a small chamber and set up the Tiny hut, trapping and alarming the only way into this small cavern.
+A small stream had been growing beside them for hours, joining with others until it ran rapidly. They followed it to a wall where it disappeared — running underground through a submerged passage of unknown length.
 
-The eight or so hours go by uneventfully but most of those who sleep do so fitfully, visited by terrible nightmares of dark things.
+[[shuushar|Shuushar]] volunteered to swim through and assess. [[tarkathee-daru|Tark]] went with him using Shadowstep. [[jack-mayer-johnson-mathews|JmJm]] altered his form to include gills and slipped in alongside them.
 
-During the rest though, Doctor B talks with the Svirfneblin twins, and with Tark's astute nose, they discern that the twins are Wererats and unsure how to deal with that.
+Fifteen minutes later, all three returned. A one-way trip took over seven minutes — almost certainly fatal for anyone who couldn't breathe water or teleport.
 
-Cirrus knows that his lady is the goddess of good lycanthropes and offers to pledge the twins to his goddess to help them with their curse. 
+The group reconsidered. They didn't need seven minutes of air for everyone — just a way to move people quickly. With the space remaining in the [[bag-of-holding|bags of holding]] and [[tarkathee-daru|Tark]] and [[cirrus-al-kayan|Cirrus]] using Shadowstep and Far Step in relay, they could ferry the whole group through in short order.
 
-Their unease and fear of their own condition is enough that Cirrus' promises are too good to pass up and the twins agree.
+[[ront|Ront]] decided to swim it himself. He nearly drowned. [[tarkathee-daru|Tark]] Shadowstepped through and held open a bag until the orc could grab on.
 
-Cirrus conducts a ceremony of dedication and the twins decide to head topside to Selnuia once it is over.
+On the far side, bags opened and people tumbled out, gasping, into the sound of water lapping gently on stone. Low blue light from Water-Orb fungi bobbed in the shallows ahead of them. Further along the shore, Torchstalks glowed with their sappy orange caps.
 
-The group shares some morning rations of cheese, nuts, dried meats and the Bluecap bread Patches and Doc B baked a few days back.
+They had reached the [[darklake|Darklake]].
 
-Now ready to travel again, Megno tells Fey'Anon of their location and picks up a rock, bringing a piece of the target for Fey to teleport back to his group.
+## The Darklake Shore
 
-Topside, Fey Anon has taken the time to relax and have his injuries seen to at the Lady's College.
+[[tarkathee-daru|Tark]] and [[gundren-rockseeker|Gundren]] harvested Torchstalks while the others gathered handfuls of the Water Orbs. [[shuushar|Shuushar]] looked out across the vast dark water of his home and told the group what they were looking at: not a single body of water but a network of interconnected chambers, caverns, currents, and underground rivers — some of the great caverns truly vast, ceiling out of sight in the absolute black.
 
-Buumi opts to return to the surface as he is still dealing with the fallout from Neverwinter and family deaths but thanks the group for calling on him like they promised.
+[[aliyah-faen-tlabbar|Patches]] raised her telescope. In the distance, a faint twinkle of fire-light resolved out of the darkness.
 
-Buppido sees an opportunity to go some place new and leaps to join the teleport.
+Sloobludop.
 
-Buumi says goodbye to his friends, and has them promise to call on him again when needed.
+They moved along the shoreline — gritty sand, slab-stone, and occasional scree, dark water lapping quietly beside them. After several hours, the torchlight had grown close enough to be clearly identified. But the cavern here had soft glowing lichen and small mushrooms that cast a blue pall of dim light, and with it came the wrong shape of shadow.
 
-Megno swears about being too old for this shit...
+A boulder field ahead. Movement behind it.
 
-Moments later, in a flash, they leave.
+[[aliyah-faen-tlabbar|Patches]] and [[tarkathee-daru|Tark]] moved in carefully. Almost twenty Kuo-Toa were waiting in ambush — trophies of gristle and bone adorning their armor. [[tarkathee-daru|Tark]] caught fragments of their burbling conversation: catching prey for the Deep Father.
 
-Now a much smaller group, they head back to the tunnels to continue west, Shuushar, Tark and Patches leading.
+They slipped back and relayed it.
 
-As they go, Shuushar mentions his meditation skills and Tark is interested in learning from him.
+The group looked at [[shuushar|Shuushar]]. He said the ambush seemed a little strange to him. They might be guards for the town. [[tarkathee-daru|Tark]] mentioned the words "sacrificed to the Deep one."
 
-As they continue, the groups curiosity turns to the Orc, Ront.
+[[shuushar|Shuushar]] replied that he only recognized the Sea Mother as his people's goddess, and mentioned something about hoping to bring his enlightened ways back to them.
 
-They talk with the Warlock of Gruumsh and begin to think that the Artifact of power he was sent down to recover may be another fragment of The Last Word.
+[[tarkathee-daru|Tark]] asked if his people were violent.
 
-Tark pulls the piece from his bag and suffers it's burning affects, showing the Orc.
+"Extremely," said [[shuushar|Shuushar]].
 
-In awe, Ront responds that he is not sure, but it could very well be what he is supposed to be looking for.  
+The group took the element of surprise away from the ambush before the ambush could take it from them. [[cirrus-al-kayan|Cirrus]] cast Light onto a small stone, handed it to [[tarkathee-daru|Tark]], who Shadowstepped upward and hurled it in a blazing arc into the center of the boulder field.
 
-He says he will join the group by proving his strength by killing Tark, clearly the weakest of the group and taking his place...
+The Kuo-Toa charged, screaming.
 
-Cirrus gets a good chuckle and agrees, looking forward to their 1v1.
+A fireball from [[feanon-serinde|Fëanon]] detonated in the packed mass of them. [[gundren-rockseeker|Gundren]] fired shot after shot. [[cirrus-al-kayan|Cirrus]] hurled Eldritch Blasts. [[doc|Doc]] called down a beam of moonlight on the group rushing through the shallows. [[aliyah-faen-tlabbar|Patches]], [[tarkathee-daru|Tark]], and [[jack-mayer-johnson-mathews|JmJm]] closed with the survivors.
 
-Meanwhile, Fey'Anon has teleported back to the Underdark, though even with the rock to act as an anchor, the Teleport is off target and he finds himself in a light less cavern.
+The Kuo-Toa died still howling about the Deep Father. The shoreline ran red.
 
-Using their own spells though, the main group discovers where Fey is and head to collect him, startling the Wizard who was unsure if the approaching noise was from his allies or enemies.
+## Sloobludop
 
-With Fey back with the group, he re-equips his items and tosses the Drow Sword he had liberated from one of the elite warriors, into the bag of holding.  
+They were still taking stock of the bodies when a second group of Kuo-Toa came loping out of the dark.
 
-+2 Keen Adamantite Sidesword (1d8). Destroyed by exposure to Sunlight for 1 hour.  Currently has Drow Poison on it.
+These were different. Sea-shells rather than trophies. [[aliyah-faen-tlabbar|Patches]] turned and ran back to warn the others, but a voice called out from the darkness in a translated tongue — an offer of truce and parlay.
 
-Missing a finger though, Fey turns to Doc and asks for some assistance.  
+The group accepted.
 
-Looking on in confusion, the rest of the group sees Doc hold a paw to the stump where the missing finger would be.  
+The leader introduced himself as Ploopploopeen — "Ploop" — arch-priest of the Sea Mother in Sloobludop. He offered transport across the [[darklake|Darklake]] in exchange for help, and the group followed him into the city.
 
-Fresh water splashes across the injury and over the next few minutes, the finger re-grows!
+Sloobludop rose around them: tall, ramshackle buildings of lashed wood and bone, thirty feet high in places, connected by primitive rope bridges and swaying slightly in the underground air currents. Kuo-Toa scurried everywhere, as much on the bridges as on the ground. The whole place smelled of fish guts and the streets were muddy and fetid, lit by an orange moss that gave the illusion of torchlight from every surface.
 
-Tark thinks that's really neat.
+[[shuushar|Shuushar]] broke off to find his friend Lamamamoo and arrange somewhere for the group to sleep.
 
-The group all ready to head out once more, Doc B sets out the flower petals and his pipe and blows a great cloud to scoop them up with a Wind Walk.
+Up ahead, on the north side of town, a large ship sat at dock — clearly of Duergar make.
 
-The group rushes through the tunnels, the incorporeal Shuushar, Patches and Snorbul leading the group through the tunnels. 
+When asked, Ploop mentioned the Cult had captured "the Duergar" that morning.
 
-They begin following streams of water as they begin to join together, flowing toward the Darklake.
+They continued following him. At the city's center, an ancient statue of a humanoid woman stood partially broken, the missing pieces replaced with crawfish carapace lashed to the stone with fish-gut cord. Four large Kuo-Toa walked slow patrol around it. Smaller worshippers circled it in offerings, one regurgitating a pile of fish at the statue's feet. Rotting food lay accumulated at its base — the shrine of a scavenger goddess.
 
-The group blazes past the Crossroads in a matter of hours and continue on, turning what should have been a five day journey, into two days of travel.
+A hundred feet away, the Shrine of the Deep Father was something else. Two massive octopi, bound together atop a manta ray, staked to the stone. Blood covered the altar. As the group watched, two Kuo-Toa dragged a third to it, gutted him on the stone, and tossed the body into a watery pit beneath.
 
-Speeding past, they bypass Popmite nests, Fungal chimneys and all the dark denizens between them and the Darklake.
+## Hemeth
 
-If there is Drow Pursuit, they outdistance it dramatically.
+In Ploop's dwelling, the story unfolded. A few weeks ago, a small cult had emerged in Sloobludop — animal sacrifices at first, nothing serious. Four days ago, Ploop's own daughter Blopp had declared herself high priestess of the Deep Father and dramatically escalated the blood offerings. The town stood on the edge of civil war. Worse: whatever was in the [[darklake|Darklake]] was eating the sacrifices as they hit the water. And that morning, the cultists had killed a Derro merchant and captured his Duergar companion, who they planned to sacrifice before the day was out.
 
-As the spell ends for the day the group still feels fresh, having been magically sped along.  
+Ploop wanted the group to kill the cult leaders — specifically his own daughter.
 
-They decide to push on as Shuushar believes them to be only a handful of hours from The Darklake.
+[[tarkathee-daru|Tark]] was visibly disturbed. The others, having just watched a living creature gutted on an altar outside, found it easier to agree — especially when Ploop gestured toward a collection of chests. [[gundren-rockseeker|Gundren]] crossed the room, looked inside, and immediately declared himself ready to go kill Blopp.
 
-JmJm pulls out a small gem and casts a divining spell, helping to set the group on the right path.
+[[feanon-serinde|Fëanon]] and [[cirrus-al-kayan|Cirrus]] negotiated half the payment up front. [[feanon-serinde|Fëanon]] used the bank-wand to whisk the treasure away.
 
-As they begin travelling again on foot, the group comes across a lone traveller.
+[[gundren-rockseeker|Gundren]] stepped outside and immediately lined up a cannon shot at the nearest cultist. [[tarkathee-daru|Tark]] stepped into the line of fire and blocked it. He asked the group for a chance to get the Duergar out without bloodshed first.
 
-Approaching the figure in the cavern, he panics and goes to cast Teleport to leave but Fey Counterspells it.
+[[gundren-rockseeker|Gundren]] grumbled and agreed.
 
-The group rushes into the cavern and confront a very panicked looking Orog.
+[[aliyah-faen-tlabbar|Patches]] slipped out through the city, climbing the buildings and swinging down on her spider-silk bracers toward the altar of the Deep Father from behind. The Derro's body was already impaled on the back side of it. The Duergar merchant was caged nearby.
 
-Tall, muscular, with blue skin and moderate tusks.  The male Orog is wearing an elegant silk suit with a golden collar and shoulder pads.
+She dropped close enough to talk.
 
-The Orog backs away from the group as they approach and he calls out telepathically to them.
+His name was [[hemeth|Hemeth]]. She told him they would get him out in exchange for transport on his barge. He agreed immediately and palmed the venomous dagger she passed through the bars. As she turned to leave, he asked her — quietly and with some urgency — if she could also help his daughter on the ship.
 
-The group begin to talk to him and discover that his name is Blurg of the Society of Brilliance and he is looking for his lost mount; Centi (Peade).
+[[aliyah-faen-tlabbar|Patches]] climbed back into the rafters and worked her way out.
 
-Recognizing the name Blurg from the letter on Peade, the group begins to question him about the Society and Gravenhollow.
+## The Civil War
 
-Blurg tells them (telepathically) that he and the others are working to figure out what malaise is affecting the Underdark.  
+As the approach guard at the altar turned to watch [[aliyah-faen-tlabbar|Patches]] coming back down the lane, [[feanon-serinde|Fëanon]] quietly cast Polymorph on [[hemeth|Hemeth]] through the bars.
 
-He seems unwilling to take the group to Gravenhollow based on the Counterspell and threatening posture of the group.
+The Duergar vanished. A small bat appeared in the cage, flapped twice, and flew toward the north dock and his barge.
 
-As the party insists and press him, he steps back into the stone wall of the tunnel, melding into the stone and vanishing...
+The guards noticed immediately. Their alarm shriek spread across Sloobludop like fire across dry timber.
 
-Heading on in the collected gloom of Pass Without Trace, the group silently follow a small stream that slowly grows until it is a rapidly flowing river
+Two large Kuo-Toa erupted from a nearby shack and called on their followers to attack. Ploop and his faction surged forward to meet them. The civil war that had been simmering for four days ignited in a single moment.
 
-The river comes to an abrupt end as it goes under a wall and the group gather to discuss
+[[jack-mayer-johnson-mathews|JmJm]] began to sing and spin his blade, drawing the cultists' attention to himself and giving [[feanon-serinde|Fëanon]] room to work. The wizard created a singularity — a crushing pocket of gravity — that folded a dozen charging Kuo-Toa into each other. Looking at the carnage, [[feanon-serinde|Fëanon]] felt a moment's regret: most of these creatures were barely a threat at all.
 
-Needing to know the distance from the river here, to the Darklake itself, Shuushar volunteers to swim it and report back.
+[[tarkathee-daru|Tark]] charged the cult leaders who had emerged from the building, hammering through a Monitor that stepped up to block him while [[aliyah-faen-tlabbar|Patches]] appeared at his side and they ripped through it together.
 
-Tark decides to go along as well, using his Shadowstep to cover the distance quickly.
+[[aliyah-faen-tlabbar|Patches]] threw one of the cards from her [[deck-of-illusions|Deck of Illusions]] into the mass of charging cultists. A hulking human druid with deer antlers and thick leather armor materialized in their midst, sending several of the fish-men scattering in confusion.
 
-JmJm leaps on in, Altering his shape to include gills.
+[[doc|Doc]] raised a moonbeam to scorch through the crowd. [[cirrus-al-kayan|Cirrus]] fired Eldritch Blasts in steady volleys. [[gundren-rockseeker|Gundren]] started shooting.
 
-The three of them dive into the dark waters and disappear.  
+Across Sloobludop, Kuo-Toa fought Kuo-Toa and the streets slicked red. The waters of the [[darklake|Darklake]] nearby churned and darkened as the blood reached the water — something below the surface drawing toward the offering.
 
-Fifteen minutes later, they return.
-
-A one way trip of over seven minutes is most likely deadly to anyone that cannot teleport or breathe underwater.
-
-Realizing that they do not need seven minutes of air, just the ability to move and carry people quickly, the group decides to use the space they have left in their Bags of Holding to ferry people.
-
-Although the bags only hold ten minutes of air, and they are mostly full, between Tark Shadowstepping and Cirrus enacting Far Step, the two of them quickly ferry everyone underwater and through the dark tunnel.
-
-Ront tries to swim the tunnel himself and almost drowns, until Tark shadowsteps by and lets him into one of the bags of holding.
-
-Bursting forth on the other side, they open their bags of holding and the group tumbles forth, hearing the eerie lap of the Darklake as the stone walls, pillars and columns ascend into absolute darkness.
-
-The local area of cavern is dimly lit with Water-Orb fungi that bob in the shallows of the lake.  Farther up the shore, a small grove of Torchstalks stand, their sappy caps glinting in the faint blue light.
-
-Tark and Gundren head over to harvest some of the Stalks as the others grab a handful of the Water Orbs, not willing to leave valuable supplies.
-
-Shuushar looks across the Darklake; his home.  He mentions that the Darklake itself is not a single large body of water, but a series of interconnected routes, chambers, flows and several truly vast caverns.
-
-Patches pulls out her telescope and looks at something.  Sure enough, through the telescope she can just catch the twinkle of far distant fire-light: the town of Sloodublop.
-
-Pointing it out, the group realize they are close and begin to head along the shoreline of gritty sand, slablike stones and the occasional scree pile, the Dark waters lapping quietly.
-
-They head quietly and steadily toward the distant settlement, careful not to attract any unwanted attention.
-
-After several hours, the far-off torchlight has resolved itself enough to be easily spotted and identified.  
-
-More concerning though is that the group has spotted a large section of fallen boulders.
-
-This part of the great caverns has some soft glowing lichen and smaller species of mushrooms growing, giving the area a blue pall of dim light.
-
-Feeling uneasy about the Boulder field, Tark and Patches head in stealthily to check it out and sure enough, find an enemy force waiting for them.
-
-The boulder field contains almost twenty Kuo-Toa, waiting in ambush.
-
-Tark hears them talking in their burbling language about catching new prey for the Deep Father.
-
-Returning to the group, the Monk and Rogue relay the information.  The group decides to take the element of Surprise away from the fish men.
-
-They ask Shuushar if this is normal and the Fish-Monk replies that he's not entirely sure.  It seems a little strange to him, wondering if they are guards for the town.
-
-Tark mentions being "sacrificed to the Deep one".  
-
-This confuses Shuushar as he only recognizes the Sea Mother as a deity for his people.
-
-Shuushar mentions that he hopes to bring his enlightened ways back to his people.
-
-Tark then goes on to ask if his people are violent, to which Shuushar replies "extremely"...
-
-Cirrus picks up a small rock, casts Light on it and then closes his fist around it.  He hands it to Tark.
-
-Tark then shadowsteps into the sky and hurls the stone.  
-
-Like a streaking comet, the blazing stone soars into the Boulder field below. 
-
-The startled Kuo-Toa let loose a battle cry and charge the group from their cover, some splashing through the shallow waterline.
-
-It is a slaughter. 
-
-A fireball from Fey detonates in their midst incinerating several as Gundren fires shot after shot and Cirrus hurls Eldritch Blasts.
-
-Patches, Tark and JmJm close quickly, destroying any that rise against them and Doc B calls down a burning beam of moonlight on the Kuo-Toa Leader.
-
-As the group picks off each of the attackers, Tark is surrounded in melee by many of the larger fish-men.
-
-Howling about sacrifices to the Deep Father, they die beneath the Monks fists and are shredded as Patches joins the fray.
-
-In moments, the Kuo-Toa lie dead, the shoreline frothy with blood, the lights of Sloodublop twinkling in the distance...
-
-Chapter 10
-
-**Sloobludop and the Cult of the Deep Father**
-
- Looking around at the dead, the group takes stock of what just happened.
-
-Shuushar ambles over, commenting that the ambush by these Kuo-Toa is out of sorts.
-
-The group discusses what to do next.
-
-Snorbul meanwhile offers the group a job; to take him to Blingdenstone.
-
-If the group helps him, he says he will pay them handsomely.
-
-Tark doesn't believe him and neither does Patches, they both resolve to keep an eye on the Deep Gnome.
-
-They end up deciding to continue to Sloobludop with Patches on ahead to scout.
-
-Continuing on along the gloomy shoreline of the Darklake, water gently laps at the cavern stone, the group makes their way closer to the city.
-
-After two more hours, the glow of the Kuo-Toa Dwellings are much closer.
-
-Patches hears movement, and then moments later sees several large fish-men loping toward the group.
-
-Unlike the last group that were covered in grisly trophies, these adorn themselves with Sea-Shells
-
-Turning and rushing back to her friends, Patches warns them of another group approaching, but that they look...nicer
-
-The group prepares to defend themselves, but are put at ease when a voice calls out to them from the darkness.
-
-The Kuo-Toa leader, using a spell to communicate, offers a truce and parlay.
-
-The group accepts and move forward to talk with the leader of the Kuo-Toa.
-
-He introduces himself as Ploopploopeen or "Ploop" and is the arch priest of the Sea Mother in Sloobludop.
-
-He then asks for the group's help in exchange for the promise of transportation across the lake.
-
-The group heads into the city its tall ramshackle buildings ascend at least thirty feet high (sometimes more) and have primitive bridges lashed between them
-
-The whole place feels almost reed-like with the tall, slightly swaying buildings.
-
-Kuo-toa bustle around, scurrying to and fro, up on the bridges as much as the ground.
-
-Everything smells like fish guts and the ground itself is muddy and fetid
-
-The place is dimly lit by an orange moss , giving the illusion of torchlight.
-
-As they move in to the city proper, Shuushar peels off to see if his friend Lamamamoo could put the group up for the night.
-
-Off at the north side of the town, the group can just make out a large ship, clearly of Duergar make.
-
-When asked, Ploop mentions the Cult captured "the Duergar" this morning.
-
-The group continues to follow Ploop, coming across a large statue of a humanoid woman
-
-The ancient statue is partially broken, the parts replaced with crawfish carapace, lashed onto the stone by fish gut
-
-As the group passes it, they see four huge Kuo-Toa seemingly standing guard, walking a patrol around the area.
-
-Smaller Kuo-Toa surround the shrine, walking in circles and offering praise.  
-
-As the group watches, one of the Kuo-Toa regurgitates a bunch of fish into a pile at the statue's feet
-
-The group notes piles of rotting food at the feet of the statue - offerings to a scavanger goddess
-
-A hundred feet away, the group notes the Shrine of the Deepfather that Doc B described to them from his scrying; two massive Octupi tied together atop a manta and staked to the ground.
-
-Blood covers the altar to the Deep Father and as the group watches, they see two Kuo-Toa drag a third over and gut it on the altar.
-
-As the Kuo-Toa gurgles and dies, its assailants toss it into a watery pit beneath the Altar...
-
-The group head into the abode of Ploop and finally begin to understand what is happening.
-
-Talking with Ploop, he tells them of the rise of the Cult of the Deep Father that began a few weeks prior
-
-At first it was a small cult that was sacrificing animals, so no one cared.  
-
-Then four days ago, Ploop's own daughter; Blopp declared herself the high priest of the Deep Father and ramped up the blood sacrifices.
-
-The town is on the edge of a Civil War.
-
-Even worse, the blood sacrifices are being tossed into the Darklake and are being consumed by...something.
-
-Lastly, Blopp has captured a Duergar merchant and intend to sacrifice him later that day, after already killing his Derro friend that morning.
-
-The group are not quite sure how to react or what to do.
-
-Patches slips out to try and get closer to the Duergar and do reconnaissance.
-
-Climbing up one of the rickety buildings, Patches uses her bracers of Aranae to swing down behind the Altar of the Deep Father.
-
-Close enough to talk to the Duergar.
-
-Patches talks to the Duergar - **Hemeth** and tells him they will get him out of his predicament in exchange for transport on his Barge.
-
-Hemeth enthusiastically agrees and hides one of the venomous daggers Patches gives him.
-
-As Patches turns to go, Hemeth asks the Drow to help his "little girl" on his ship.
-
-Leaving the area, Patches sees a Derro body impaled on the back side of the altar...
-
-Back in Ploop's place, Fey'Anon connects the rise of the cult with the other happenings in the Underdark.
-
-The others agree.
-
-Ploop then clarifies the help he's looking for; He wants the group to help him kill the leaders of the Cult, his Daughter.
-
-Another large Kuo-Toa enters, introducing himself as Ploop's son; Klib.  He reiterates his father's request.
-
-Tark is aghast that he would be willing to kill his own daughter (and Klib's sister)
-
-Seeing what the cult was up to, no one else really thinks much of it, especially when Ploop offers a reward to further entice the group.
-
-The Kuo-Toa gestures at a handful of chests and Gundren goes over to inspect them and their contents.
-
-He quickly agrees to go kill Blopp when he sees that they contain a fair amount of treasure.
-
-Fey and Cirrus convince Ploop to pay them half up front and the Kuo-Toa agrees.
-
-Fey uses the depositing wand and whisks away half of the treasure.
-
-Gundren heads out of the abode and Tark follows, concerned.
-
-As Gundren lines up a shot with his cannon at the nearest Cultist, Tark leaps in the way, blocking the shot.
-
-Tark begs the group to at least try and rescue the Duergar without bloodshed.
-
-Grumbling and upset he was stopped, Gundren agrees and the others move in to position to try a more subtle approach.
-
-As Patches approaches one of the guards, it stands tall and hisses, threatening her with his spear
-
-Fay'Anon walks behind her and subtly casts Polymorph on Hemeth.
-
-Hemeth disappears, turning into a small bat and begins to fly out of the cage, toward his large Duergar Barge currently docked along the norther side of the "city".
-
-The moment the Kuo-Toa guarding Hemeth notice he's missing, they shriek out in alarm.
-
-The shrieking spreads and two large Kuo-Toa exit a nearby shack and scream, inciting their followers to attack.
-
-The powder keg blows as both factions begin to rush to action, Ploop and his forces heading forward with the group to attack the Cultists.
-
-JmJm begins to sing and twirl his sword, causing a distraction for the wizard behind him.
-
-Fey'Anon creates a singularity, crushing a dozen of the fish men as they rush at JmJm.
-
-Seeing the carnage though, Fey realizes that the majority of these creatures are little threat, and feels a little sick.
-
-Tark shakes his head in disappointment and resolves himself, he charges the leaders of the Cult that he saw exit the building.
-
-He begins to pummel one of the creatures as it steps in to block him.
-
-Patches throws out one of the cards from her Deck of Illusions and a hulking human druid with deer antlers and thick leather armor appears amidst the charging Cultists.
-
-Patches then leaps in beside the Halfling and they make short work of the Kuo-Toa Monitor blocking their path.
-
-Doc B summons a moonbeam to scorch the Cult members and Cirrus begins popping off Eldritch blasts. 
-
- Gundren starts shooting.
-
-Across the city, Kuo-Toa fight Kuo-Toa and the streets start to become slick with blood, the nearby water growing red and beginning to churn.
-
-Under the burning Moonbeam, one of the Cult leaders, a massive Kuo-Toa, begins to shake and tremble as his form starts to change..
+Under the burning moonbeam, one of the cult leaders — a massive Kuo-Toa — began to shudder, its form swelling and shifting, starting to change into something else entirely.

@@ -1,8 +1,9 @@
 ---
-title: The Underdark - Gracksuluth on Edge
+title: "The Underdark - Gracksuluth on Edge"
 chapter: 8
 chapterTitle: The Underdark
 session: 26
+summary: "With Gracksuluth buckling under a demon siege, the group extracted Claudine and Marzeline from the brewery, accepted Veygar's intelligence, and Fëanon's teleportation circle snapped them back to the surface — where moonlight was waiting and Claudine had never seen it before."
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
@@ -43,248 +44,262 @@ factions:
   - "stoneguard"
 ---
 
-The group stands around in the Market, blood everywhere as the mangled Derro remains continue to seep.
+## The Aftermath
 
-The Duergar captain looks over the group, unsure how to proceed, until a runner approaches quickly.
+The group stood around in the market, blood everywhere as the mangled Derro remains continued to seep.
 
-A whispered word and the Captain turns to his squad and calls out that they are needed at another Riot in the Furrow and the Stoneguard turn to leave, bustling away.
+The Duergar captain looked over the group, unsure how to proceed, until a runner approached quickly.
 
-The group look at one another and Cirrus loudly exclaims that he HATES the Underdark, that it may be worse than Brovia even.
+A whispered word and the captain turned to his squad and called out that they were needed at another riot in the Furrow. The Stoneguard turned to leave, bustling away.
 
-The group discusses which is worse as they head back into the Gholbrorn's Lair to have Doc B give them some healing.
+The group looked at one another and [[cirrus-al-kayan|Cirrus]] loudly exclaimed that he hated the [[underdark|Underdark]], that it might be worse than Barovia even.
 
-Tark and Gundren though are perfectly healthy and head off to find **Modo the Hunter **and descend a set of stairs to a sub-bazaar, another layer to the sprawling Duergar city.
+The group discussed which was worse as they headed back into the Gholbrorn's Lair to have Doc give them some healing.
 
-looking down the tight alleyways and corridors, the Under-bazaar seems to house foreign traders and the lower-class.  
+## Modo the Hunter
 
-The air down here is thick with the scents of burning incense, food, tobacco and industrial waste...
+Tark and [[gundren-rockseeker|Gundren]], perfectly healthy, headed off to find Modo the Hunter and descended a set of stairs to a sub-bazaar, another layer to the sprawling Duergar city.
 
-Nearby the stairs though, is a shop run by a grizzled drow in hunting leathers with a set of scars running down his face.
+Looking down the tight alleyways and corridors, the Under-Bazaar seemed to house foreign traders and the lower class.
 
-The Drow is leaning on the countertop of his tiny establishment, flicking through a small book.
+The air down here was thick with the scents of burning incense, food, tobacco and industrial waste.
 
-Tark, (as Tark Spidermann) approaches with Gundren and they call out to the Drow that matches the description of Modo.
+Nearby the stairs was a shop run by a grizzled Drow in hunting leathers with a set of scars running down his face.
 
-The language barrier proves to be an annoyance that leaves Tark doing all the talking and the two begin to exchange words, Modo looking down his nose a bit at this strange non-Drow creature.
+The Drow leaned on the countertop of his tiny establishment, flicking through a small book.
 
-Tark asks about Phase Spiders and over the course of the conversation, comes to the conclusion that if they want the chitin, they will have to head to the **Wormwritihings** to get it as Modo will take about a month to get there himself.
+Tark, operating as Tark Spidermann, approached with [[gundren-rockseeker|Gundren]] and they called out to the Drow that matched the description of Modo.
 
-Pulling a chest out from under the counter, Modo offers to sell Tark a map, mentioning that the Writhings are home to many Purple Worms, but the spiders scavange the area in great numbers.
+The language barrier proved an annoyance that left Tark doing all the talking, and the two began to exchange words, Modo looking down his nose a bit at this strange non-Drow creature.
 
-Tark buys the map from him, almost like an illustrated journal, detailing a route up north to the Wormwrithings through a waterway.
+Tark asked about Phase Spiders and over the course of the conversation came to the conclusion that if they wanted the chitin, they would have to head to the Wormwrithings to get it, as Modo would take about a month to get there himself.
 
-With a MASSIVE tip, Tark tries to get a bit of extra information on entering Menzoberranzan but Modo is a bit coy, unwilling to divulge too much sensitive information to Tark as he worries he would be killed by his kin.
+Pulling a chest out from under the counter, Modo offered to sell Tark a map, mentioning that the Writhings were home to many Purple Worms, but the spiders scavenged the area in great numbers.
 
-Tark heads off with Gundren back to the Town house, but stops with a flash of realization and runs back to Modo, getting out his journal in which he has been mapping the groups journey through the Underdark.
+Tark bought the map from him — almost like an illustrated journal, detailing a route up north to the Wormwrithings through a waterway.
 
-Tark offers a trade, his map for a map into Menzoberranzan.
+With a massive tip, Tark tried to get a bit of extra information on entering [[menzoberranzan|Menzoberranzan]] but Modo was coy, unwilling to divulge too much sensitive information to Tark as he worried he would be killed by his kin.
 
-Modo looks at the small Halfling, mulling it over and eventually sighs and rejects the offer.
+Tark headed off with [[gundren-rockseeker|Gundren]] back to the Townhouse but stopped with a flash of realization and ran back to Modo, getting out his journal in which he had been mapping the group's journey through the [[underdark|Underdark]].
 
-Tark gives him the map anyway and turns to leave.
+Tark offered a trade: his map for a map into [[menzoberranzan|Menzoberranzan]].
 
-Modo makes a disgusted "tsk" and tells Tark to wait and goes on to say that there are a number of tunnels through the undercity that come out in the **Claw Rift** and that Tark should try those to get into the city undetected.  
+Modo looked at the small Halfling, mulled it over, and eventually sighed and rejected the offer.
 
-Tark thanks Modo and heads back to the waiting Gundren and the two of them head back to the Townhouse, passing the bloodstained marketplace where slaves are loading carts with meaty Derro chunks.
+Tark gave him the map anyway and turned to leave.
 
-As they head through the Blade Bazaar, Gundren notes that the natural flow of the market feels...off.
+Modo made a disgusted tsk and told Tark to wait, then went on to say that there were a number of tunnels through the undercity that came out in the Claw Rift and that Tark should try those to get into the city undetected.
 
-patting Tark to make him aware, the two look around and note numerous incidents of confrontation and arguments.
+Tark thanked Modo and headed back to the waiting [[gundren-rockseeker|Gundren]] and the two of them headed back to the Townhouse, passing the bloodstained marketplace where slaves were loading carts with meaty Derro chunks.
 
-One that catches Gundren's eye is that of a cart of rotten fish with customers complaining about the spoiled goods and the merchant standing there confused.
+As they headed through the Blade Bazaar, [[gundren-rockseeker|Gundren]] noted that the natural flow of the market felt off.
 
-Something is very wrong and it puts Gundren and Tark on edge, something bad is building...
+Patting Tark to make him aware, the two looked around and noted numerous incidents of confrontation and arguments.
 
-Back at the Townhouse, Fey goes over the events of the day, running through everything that's happened as he tries to make sense of the building dread in the city.
+One that caught [[gundren-rockseeker|Gundren]]'s eye was a cart of rotten fish with customers complaining about the spoiled goods and the merchant standing there confused.
 
-He remembers the signs of the greater demon lords, remembering spontaneous re-animation as an aspect of Orcus, a power that radiates from the Demon Prince of Undeath...
+Something was very wrong and it put [[gundren-rockseeker|Gundren]] and Tark on edge. Something bad was building.
 
-Fey begins to ponder, wondering if this is at all related to the Thayan attack and the Mists from the year prior and concludes that it must all stem from Atropos drawing nearer to the Prime Material Plane.
+## At the Townhouse
 
-Cirrus meanwhile, in the Townhouse himself, sequesters himself in the tiny bathroom and pulls out the tiny Soul Cage to question the Derro Soul trapped within...
+Back at the Townhouse, Fey went over the events of the day, running through everything that had happened as he tried to make sense of the building dread in the city.
 
-He gets the name **Leemok, **the name of a demon hiding in the city, directing this cult of Derro.
+He remembered the signs of the greater demon lords, recalling spontaneous re-animation as an aspect of Orcus, a power that radiated from the Demon Prince of Undeath.
 
-He finishes poopin and heads out into the common area to the smell of rabbit stew (Rabbits provided by Patches) and the sight of half the crew tearing up after cutting onions for said stew.
+Fey began to wonder whether this was at all related to the Thayan attack and the Mists from the year prior and concluded that it must all stem from Atropos drawing nearer to the Prime Material Plane.
 
-Doc B sits, stirring the meal as it simmers and the group worries about Cirrus' diet.
+[[cirrus-al-kayan|Cirrus]] meanwhile, in the Townhouse himself, sequestered himself in the tiny bathroom and pulled out the tiny Soul Cage to question the Derro soul trapped within.
 
-Cirrus proclaims that he had a toilet epiphany and tells the group of the name Leemok.
+He got the name Leemok — the name of a demon hiding in the city, directing this cult of Derro.
 
-Patches questions said epiphany but decides that maybe she should give the toilet the benefit of the doubt.
+He finished and headed out into the common area to the smell of rabbit stew — rabbits provided by Patches — and the sight of half the crew tearing up after cutting onions for said stew.
 
-JmJm whispers over from the couch with the two Myconid Sprouts sleeping on his chest and asks when they can get the fuck out of the Underdark.
+Doc sat stirring the meal as it simmered and the group worried about [[cirrus-al-kayan|Cirrus]]' diet.
 
-Tark remembers his conversation with Modo and pulls out the map to the **Wormwrithings** that he got, but also mentions the entrance to the **Grand Bazaar** in Menzoberranzan and the **Claw Rift**.
+[[cirrus-al-kayan|Cirrus]] proclaimed that he had had a toilet epiphany and told the group the name Leemok.
 
-Patches nods and recounts that the **Claw Rift **was her way out of the city when she fled through the dangerous and Kobold infested tunnels.
+Patches questioned said epiphany but decided that maybe she should give the toilet the benefit of the doubt.
 
-She warns the group that it is frequented by Drow Slavers collecting Kobolds and **Bregan D'Aerthe** for smuggling.
+JmJm whispered over from the couch with the two Myconid Sprouts sleeping on his chest and asked when they could get out of the [[underdark|Underdark]].
 
-Tark goes on and mentions that Modo wouldnt sell to him being a halfling and suggests Patches go and try herself, she nods and agrees to go.
+Tark remembered his conversation with Modo and pulled out the map to the Wormwrithings, but also mentioned the entrance to the Grand Bazaar in [[menzoberranzan|Menzoberranzan]] and the Claw Rift.
 
-The group idly tosses a rabbit to the cave bear cub sleeping in the corner of the room and continue their conversation, discussing their plans as they try to wrack their brains for any information on **Leemok **that Cirrus mentioned.
+Patches nodded and recounted that the Claw Rift had been her way out of the city when she fled through the dangerous and Kobold-infested tunnels.
 
-coming up with nothing, the group decide to try and visit the Dragon again before the group tries to extract **Claudine and her daughter **from the city.
+She warned the group that it was frequented by Drow Slavers collecting Kobolds and Bregan D'Aerthe for smuggling.
 
-Tark tries to get the cave bear to climb on him and koala on, but its too large.  He tries putting the Cub on Gwen, but it hates the oil and gears.
+Tark went on to mention that Modo wouldn't sell to him being a Halfling and suggested Patches go and try herself. She nodded and agreed to go.
 
-Tark tries one more time and gets it to Yoda on his back and the group heads out again into the city having rested up.
+The group idly tossed a rabbit to the cave bear cub sleeping in the corner and continued their conversation, discussing their plans as they tried to wrack their brains for any information on Leemok.
 
-The group hires multiple (covered) Rickshaws to try and confuse pursuit and they head off through the market, once again seeing, smelling and feeling the rising tensions in the city.
+Coming up with nothing, the group decided to try and visit the Dragon again before trying to extract [[claudine|Claudine]] and her daughter from the city.
 
-The smell of rot is strong in the city.
+Tark tried to get the cave bear to climb on him, but it was too large. He tried putting the cub on Gwen, but it hated the oil and gears.
 
-The group heads out to the Dragon, trundling along in two separate vehicles (as it is quite a large party now).
+Tark tried one more time and got it to ride on his back and the group headed out again into the city, having rested up.
 
-As they go, Gundren looks out for a patrol of Merrogon Devils and as the group goes by, calls out to them 
+## [[gracksuluth|Gracksuluth]] Unravelling
 
-He tells them to keep a look out for a Derro cult to Demogorgon and describes the symbol. 
+The group hired multiple covered rickshaws to try and confuse pursuit and headed off through the market, once again seeing, smelling and feeling the rising tensions in the city.
 
-Patches goes on to draw the symbol for them and hands them the paper.
+The smell of rot was strong.
 
-They nod and march off and the group continues on.
+The group headed out to the Dragon, trundling along in two separate vehicles.
 
-**​**Patches remembers suddenly that there's another stop the group needs to make; she needs to collect her Bag of Holding that she comissioned to hold the Artifact.
+As they went, [[gundren-rockseeker|Gundren]] looked out for a patrol of Merrogon Devils and as the group went by, called out to them.
 
-Discussing quickly, the group decides that the quickest and safest thing to do is inform Themberchaud that they are leaving and to have him meet them at the townhouse as they extract Claudine.
+He told them to keep a look out for a Derro cult to [[demogorgon|Demogorgon]] and described the symbol.
 
-They contact him with Cirrus' Tiny Messenger (as they wont trust this information to a letter), the 3ft box appearing on the floor of the large Rickshaw.
+Patches drew the symbol for them and handed them the paper.
 
-Tark hops into the box as they had agreed and pulls the lid shut.
+They nodded and marched off and the group continued on.
 
-The tiny cirrus picks up the box and vanishes as it speeds away while shrinking to nothingness.
+Patches remembered suddenly that there was another stop the group needed to make — she needed to collect her Bag of Holding that she had commissioned to hold the Artifact.
 
-Inside the dark box, Tark hears that it has reached the destination from a tiny muffled voice calling out "Delivery!"
+Discussing quickly, the group decided that the quickest and safest thing to do was to inform [[themberchaud|Themberchaud]] that they were leaving and to have him meet them at the Townhouse as they extracted [[claudine|Claudine]].
 
-The smell of sulfur begins to permeate the box interior and it grows uncomfrotably warm.
+They contacted him with [[cirrus-al-kayan|Cirrus]]' Tiny Messenger, the three-foot box appearing on the floor of the large rickshaw.
 
-Tark raises the lid and looks up into the obese, expectant face of Themberchaud.
+Tark hopped into the box as they had agreed and pulled the lid shut.
 
-The dragon narrows its eyes as Tark warmly, but hurridly greets him.
+The tiny Cirrus picked up the box and vanished as it sped away, shrinking to nothingness.
 
-Tark loudly whispers over to tell the Dragon that the city is on the verge of something terrible and that the group plans on leaving and they want Themberchaud to go with them.
+Inside the dark box, Tark heard that it had reached the destination from a tiny muffled voice calling out "Delivery!"
 
-The dragon leans in, replying that he has no intention of leaving and that he now knows the group is not what they first seemed.
+The smell of sulfur began to permeate the box interior and it grew uncomfortably warm.
 
-Tark is confused by the sudddenly suspicious and unfriendly Ancient Red Dragon and ask why he would not leave when the group is so sure that his life is in danger, that he will be killed by the very Adamantine Golems that he helped to create.
+Tark raised the lid and looked up into the obese, expectant face of [[themberchaud|Themberchaud]].
 
-The Dragon accepts this as a distinct possibility, but is still unwilling to leave his horde and his trust in the group is not absolute.  He tells Tark that the Flameguard have captured Droki.
+The dragon narrowed its eyes as Tark warmly but hurriedly greeted him.
 
-Tark doesnt see why that matters and tries to keep persuading but is cut off by a sharp inhalation of breath from the Dragon, it hisses out in a hot wave of air, but not fire.
+Tark loudly whispered to tell the Dragon that the city was on the verge of something terrible and that the group planned on leaving — and they wanted [[themberchaud|Themberchaud]] to go with them.
 
-The Dragon then goes on to say that Droki was brought before him and named the group as accomplices working with him over the last few days and that Droki had robbed the Flameguard and Dragonhoard.  
+The dragon leaned in, replying that he had no intention of leaving and that he now knew the group was not what they had first seemed.
 
-The dragon believed his long term servants with their "proof" (technically not lying).
+Tark was confused by the suddenly suspicious and unfriendly Ancient Red Dragon and asked why he would not leave when the group was so sure that his life was in danger — that he would be killed by the very Adamantine Golems that he had helped to create.
 
-Themberchaud, is unsure how to proceed but cannot abandon his hoard and decides not to attack Tark, as he still doubts that he has the whole picture.
+The Dragon accepted this as a distinct possibility, but was still unwilling to leave his hoard, and his trust in the group was not absolute. He told Tark that the Flameguard had captured [[droki|Droki]].
 
-Tark residedly crouches back into the box, pulling the lid close to return (never having left the box) and once again saying to the Dragon that they only seek to save his life.
+Tark didn't see why that mattered and tried to keep persuading, but was cut off by a sharp inhalation of breath from the Dragon — a hot wave of air, but not fire.
 
-The lid closes and the box is whisked away.
+The Dragon went on to say that [[droki|Droki]] had been brought before him and had named the group as accomplices working with him over the last few days, and that [[droki|Droki]] had robbed the Flameguard and the Dragonhoard.
 
-Meanwhile, the others have been busy.
+The dragon had believed his long-term servants with their proof, which was technically not lying.
 
-Patches and Fey end up going to collect claudine from the Muzgardt Brewery.
+[[themberchaud|Themberchaud]] was unsure how to proceed but could not abandon his hoard. He decided not to attack Tark, as he still doubted he had the whole picture.
 
-With the incidents of violence and strange rot increasing, none of the group wishes to wait any longer.
+Tark resignedly crouched back into the box, pulling the lid close to return — never having left the box — and once again telling the Dragon that they only sought to save his life.
 
-Cirrus (Disguised as Patches) goes with Gundren and Gwen to collect the Bag of Holding at the Avilthew Manufactory.
+The lid closed and the box was whisked away.
 
-The rest of the group has instructions to wait in the Townhouse, ready to leave the city. 
+## Extracting [[claudine|Claudine]]
 
-Doc B. Settles the bill at the front desk.
+Meanwhile, the others had been busy.
 
-Patches and Fey make it to the Brewery without incident, though they see several more strange clashes on the streets.
+Patches and Fey ended up going to collect [[claudine|Claudine]] from the Muzgardt Brewery.
 
-Disembarking but having the Rickshaw wait, they walk non-chalantly to **Seke's** Store.
+With the incidents of violence and strange rot increasing, none of the group wished to wait any longer.
 
-They move in and Fey actually takes the opportunity to buy a potion or two (being an even better distraction).
+[[cirrus-al-kayan|Cirrus]], disguised as Patches, went with [[gundren-rockseeker|Gundren]] and Gwen to collect the Bag of Holding at the Anvilthew Manufactory.
 
-Patches slips into the back and finds **Claudine and Marzeline** doing inventory.
+The rest of the group had instructions to wait in the Townhouse, ready to leave the city.
 
-Patches explains the situation, that they cannot wait and they have to make their escape now.
+Doc settled the bill at the front desk.
 
-Persuaded, Claudine hugs her daughter, smiles nervously at Patches and then nods.  They will simply leave.
+Patches and Fey made it to the Brewery without incident, though they saw several more strange clashes on the streets.
 
-Patches assists the two grab as many of their own things as they can and slip out of the back room.
+Disembarking but having the rickshaw wait, they walked nonchalantly to Seke's Store.
 
-Seke is drawn off by Fey and they sneak out of the store, then quickly walk out of line of sight.
+They moved in and Fey took the opportunity to buy a potion or two — an even better distraction.
 
-Fey pays for his potions and then follows, Seke none the wiser.
+Patches slipped into the back and found [[claudine|Claudine]] and Marzeline doing inventory.
 
-The group casually walks back to the rickshaw, gets in and heads to meet the others.
+Patches explained the situation: they could not wait and they had to make their escape now.
 
-Cirrus, Gundren and a returned Tark meet with Patches, Fey and ex-slaves at the townhouse and enter together.
+Persuaded, [[claudine|Claudine]] hugged her daughter, smiled nervously at Patches, and nodded. They would simply leave.
 
-Everyone, including JmJm, Doc, Snorbul, the Myconids and the Cave Bear gathers in the center of the room and some inventory management takes place before they leave.
+Patches helped the two grab as many of their own things as they could and slip out of the back room.
 
-Patches stows The Artifact in the bag of holding, careful to only touch it with her gloves, though even then her fingers begin to burn.
+Seke was drawn off by Fey and they slipped out of the store, then quickly walked out of line of sight.
 
-As the group leaves, Patches notes activity upstairs by the Drow Embassy, several Drow figures entering the building quickly.
+Fey paid for his potions and then followed. Seke was none the wiser.
 
-The group heads from the Gholbrorn's lair, rapidly moving across the city with as much speed and stealth as they can muster.
+The group walked casually back to the rickshaw, got in, and headed to meet the others.
 
-Flashing their badges and getting through the checkpoints manned by the Stoneguard, the group makes their way to The Hall of Sacred Scrolls and head inside, noting a large contingent of Devils marching away, a tall figure at their head obscured by the mass of marching bodies.
+[[cirrus-al-kayan|Cirrus]], [[gundren-rockseeker|Gundren]] and a returned Tark met with Patches, Fey and the ex-slaves at the Townhouse and entered together.
 
-The group head in, and then descend on one of the elevators after paying the fee.
+Everyone — including JmJm, Doc, [[snorbul|Snorbul]], the Myconids and the cave bear — gathered in the center of the room and some inventory management took place before they left.
 
-Making it to the bottom of The Hall of Sacred Scrolls, the group gathers in one of the ancient abandoned tunnels; the start of the catacombs of the Savants.
+Patches stowed the Artifact in the Bag of Holding, careful to only touch it with her gloves, though even then her fingers began to burn.
 
-Gwen enters the pocket dimension of Gundren's bag and the two Myconid sprouts hop into Tark's, the group surprised that they can hold their breath almost indefinitely.
+## Out of [[gracksuluth|Gracksuluth]]
 
-Now down to a manageable number and past the city defenses, Doc B starts to burn the tobacco in his pipe.
+As the group left, Patches noted activity upstairs by the Drow Embassy — several Drow figures entering the building quickly.
 
-With a plume of smoke, Doc B twirls and the smoke rapidly expands, scooping the party up carrying them into the incorporeal wind.
+The group headed from the Gholbrorn's Lair, moving rapidly across the city with as much speed and stealth as they could muster.
 
-The group windwalks rapidly through the catacombs and Whorlstone caverns, quickly arriving at Bilrigger's Sanctum, the doors still sliced from their hinges.
+Flashing their badges and getting through the checkpoints manned by the Stoneguard, the group made their way to the Hall of Sacred Scrolls and headed inside, noting a large contingent of Devils marching away with a tall figure at their head obscured by the mass of marching bodies.
 
-The group rematerializes in the sanctum, the carrion-crawlers still audible in the basement.
+The group headed in and then descended on one of the elevators after paying the fee.
 
-The party quickly stand the doors back into place and Gundren moves in, aligning them perfectly and then uncorking a large glass jar, a paintbrush stuck through the cork.
+Making it to the bottom of the Hall of Sacred Scrolls, the group gathered in one of the ancient abandoned tunnels — the start of the catacombs of the Savants.
 
-Glue dripping from the brush, he paints the cuts and they magically mend.
+Gwen entered the pocket dimension of [[gundren-rockseeker|Gundren]]'s bag and the two Myconid Sprouts hopped into Tark's, the group surprised that they could hold their breath almost indefinitely.
 
-The doors fixed, the group shuts them and go about neutralizing the wild magic within the shielded chambers by Fey casting some low level spells.
+Now down to a manageable number and past the city defenses, Doc started to burn the tobacco in his pipe.
 
-A surge of wildmagic scrambles everyones brains with a small dose of insanity for a few minutes, but it burns the stray magic in the area.
+With a plume of smoke, Doc twirled and the smoke rapidly expanded, scooping the party up and carrying them into the incorporeal wind.
 
-Everyone recovers quickly, though Claudine and Marzeline looki absolutely terrified, confused and near panic.
+The group windwalked rapidly through the catacombs and Whorlstone caverns, quickly arriving at Bilrigger's Sanctum, the doors still sliced from their hinges.
 
-Fey announces his intent to draw the teleportation circle (for the benefit of the mundane folk) and begins, selecting his good chalk.
+The group rematerialized in the Sanctum, the carrion crawlers still audible in the basement.
 
-Ten minutes later (with Claudine and Marzeline still clutching one another and watching in silence), he finishes and a small singularity blinks into existence.  Everyone steps into it, Claudine and Marzeline being dragged.
+The party quickly stood the doors back into place and [[gundren-rockseeker|Gundren]] moved in, aligning them perfectly and then uncorking a large glass jar with a paintbrush stuck through the cork.
 
-A flash of light fades and the group finds themselves in a beautifully construced stone chamber, a Teleportation circle etched into a block of black marble inset into the floor.  The runes of the circle glitter with crushed gemstones.
+Glue dripping from the brush, he painted the cuts and they magically mended.
 
-Looking around, they note that the chamber is in a bit of disarray with materials and tools stowed nearby for the construction of the place and a couple of desks set up in an impromptu "office".
+The doors fixed, the group shut them and went about neutralizing the wild magic within the shielded chambers by having Fey cast some low-level spells.
 
-Behind one of the desks of the office, is a young Elven woman dressed in Mage robes, denoting her as an adept. She looks up with a startled yelp at the teleport but quickly relaxes.
+A surge of wild magic scrambled everyone's brains with a small dose of insanity for a few minutes, but it burned the stray magic in the area.
 
-With Pale white skin, black raven hair and large bright violet yes, she has an angular face and cheeckbones that could cut glass. A Moon Elf.
+Everyone recovered quickly, though [[claudine|Claudine]] and Marzeline looked absolutely terrified, confused and near panic.
 
-and she's tiny, probably a good inch shorter than Patches but is a touch plump, a strange look on such a small elf and no doubt due to her sedintary lifestyle. 
+Fey announced his intent to draw the teleportation circle — for the benefit of the mundane folk — and began, selecting his good chalk.
 
-She smiles at the group and puts down her quill, closing her spellbook.
+Ten minutes later, with [[claudine|Claudine]] and Marzeline still clutching one another and watching in silence, he finished and a small singularity blinked into existence. Everyone stepped into it, [[claudine|Claudine]] and Marzeline being dragged.
 
-Wiping inky fingers on her robes, she gets up to greet the party and introduces herself as **Adept Uira**.
+## The Surface
 
-Fey has her run off topside to fetch officer Li while the group gather themselves.
+A flash of light faded and the group found themselves in a beautifully constructed stone chamber, a teleportation circle etched into a block of black marble inset into the floor. The runes of the circle glittered with crushed gemstones.
 
-Taking their time, they ascend the hardwood staircase up two levels, to the ground floor of Fey'Anon's Wizard tower.
+Looking around, they noted that the chamber was in a bit of disarray with materials and tools stowed nearby for the construction of the place and a couple of desks set up in an impromptu office.
 
-Looking across his home to be, Fey nods in approval at the marble, hardwoods and metal filigree, reminiscent of his homeland's architecture, but with a hint of the Dwarven eye for bold lines.
+Behind one of the desks sat a young Elven woman dressed in Mage robes, denoting her as an adept. She looked up with a startled yelp at the teleport but quickly relaxed.
 
-A grand staircase wraps around a large recessed pool in the center of the foyer, the black marble of the pool standing out starkly from the white marble floor.
+With pale white skin, black raven hair and large bright violet eyes, she had an angular face and cheekbones that could cut glass. A Moon Elf.
 
-There are tarps and stacks of materials with the place still under construction.
+She was tiny — probably a good inch shorter than Patches but a touch plump, a strange look on such a small Elf and no doubt due to her sedentary lifestyle.
 
-They head to the main set of double doors, the dark wood awaiting a carving
+She smiled at the group and put down her quill, closing her spellbook.
 
-The woodworking tools sit next to the doors. 
+Wiping inky fingers on her robes, she got up to greet the party and introduced herself as Adept Uira.
 
-The Doors are easily pushed open to swing wide and a soft spring breeze blows.
+Fey had her run off topside to fetch Officer Li while the group gathered themselves.
 
-The party looks out across the small island home of Fey'Anon to a Dwarven made jetty sitting on the placid waters of the lake, the waxing moon reflects perfectly on the water and the rolling landscape of Selunia lays before them. 
+Taking their time, they ascended the hardwood staircase up two levels to the ground floor of Fey'Anon's wizard tower.
 
-Claudine lets out a gasp and falls to her knees sobbing, her daughter Marzeline crouching and holding her mother as she weeps tears of joy.
+Looking across his home to be, Fey nodded in approval at the marble, hardwoods and metal filigree — reminiscent of his homeland's architecture, but with a hint of the Dwarven eye for bold lines.
+
+A grand staircase wrapped around a large recessed pool in the center of the foyer, the black marble of the pool standing out starkly from the white marble floor.
+
+Tarps and stacks of materials sat about the place, still under construction.
+
+They headed to the main set of double doors, the dark wood awaiting a carving.
+
+The woodworking tools sat next to the doors.
+
+The doors were easily pushed open to swing wide and a soft spring breeze blew in.
+
+The party looked out across the small island home of Fey'Anon to a Dwarven-made jetty sitting on the placid waters of the lake. The waxing moon reflected perfectly on the water and the rolling landscape of Selunia lay before them.
+
+[[claudine|Claudine]] let out a gasp and fell to her knees sobbing. Her daughter Marzeline crouched and held her mother as she wept tears of joy.

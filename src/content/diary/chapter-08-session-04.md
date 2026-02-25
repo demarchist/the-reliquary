@@ -1,8 +1,9 @@
 ---
-title: The Underdark - Session 4
+title: "The Underdark - The Faerzress"
 chapter: 8
 chapterTitle: The Underdark
 session: 4
+summary: "A wild magic surge from the Faerzress melted the tunnel around them and sent Fëanon briefly topside, while the rest navigated Shadowfell-leaking passages and a crystalline geode inhabited by elemental spirits — before steam-filled tunnels and a reanimated body marked the approach toward Menzoberranzan."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -28,238 +29,166 @@ factions:
   - "duergar-faction"
 ---
 
-**Awaking in the Dark and the Deepening Gloom**
+## Awakening in the Dark
 
-**​**The group packs up their camp as the dome fades. Despite the long rest, the group feels on edge, the lightless Underdark wearing on the nerves of the Surface dwellers.
+The group packed up their camp as the dome faded. Despite the long rest, they felt on edge — the lightless [[underdark|Underdark]] wearing on the nerves of surface dwellers.
 
-They head out into the Darkness, Patches leading.
+They headed out, [[aliyah-faen-tlabbar|Patches]] leading.
 
-After an hour or two of consistent travel, the group comes to a halt as Cirrus and Patches both note something odd.  
+After an hour or two of consistent travel, the group halted as [[cirrus-al-kayan|Cirrus]] and [[aliyah-faen-tlabbar|Patches]] both noted something wrong. The tunnels ahead were somehow even darker — their enhanced vision less effective than it had been moments before.
 
-The tunnels up ahead are somehow even darker, the enhanced vision of the two of them being less effective than just moments before.
+[[cirrus-al-kayan|Cirrus]] summoned his familiar and sent the spider in. Nothing happened other than the spider's sight becoming more limited and the temperature dropping around it.
 
-Tentatively, Cirrus summons his familiar and sends the spider in.  Nothing happens other than the spider's vision becomes more limited and it feels colder.
+[[feanon-serinde|Fëanon]] ran some tests and began developing a working theory, just as [[jack-mayer-johnson-mathews|JmJm]] announced it was definitely an area bleeding from the [[shadowfell|Shadowfell]].
 
-Fey begins to run some tests and begins to develop a working theory, just as JmJm announces that it's definitely an area close to the Shadowfell.
+The group moved to the edge of the gloom — almost a defined wall where the dark grew darker — and debated. Eventually they decided to press forward. [[cirrus-al-kayan|Cirrus]] encased himself in frost armor and simply walked in.
 
-The group moves up to the edge of the gloom, almost a defined wall, and begin to debate what to do.  
+They descended into the gloom, the [[shadowfell|Shadowfell]] leaking cold into the stone around them.
 
-Eventually, they decide to press forward as Cirrus encases himself in frost armor and simply walks in.
+## Creatures of the Gloom
 
-Following, they descend into the gloom, the Shadowfell leaking into the tunnels.
+The group continued through the cold tunnels until [[aliyah-faen-tlabbar|Patches]] and [[cirrus-al-kayan|Cirrus]] stopped short, seeing movement at the edge of their visibility.
 
-The group continues traveling through the cold, Shadowfell filled tunnels until Patchs and Cirrus stop short, seeing movement up ahead at the edge of their visibility.
+A creature turned, filling most of the tunnel, and let out an ominous wail. Large and bulbous, it looked like a deformed fetus perched atop two spike-like legs, its arms ending in similar spikes, its hunched and elongated neck ending in a bulbous head with black, weeping eyes.
 
-A creature turns, taking up most of the tunnel and lets out an ominous wail.  Large and bulbous, looking like a deformed fetus atop two spike-like legs and its arms ending in similar spikes, the hunched and elongated neck ending in a bulbous head with black, weeping eyes.
+It launched both spiked arms into the air, trailing ribbon-like flesh as they lanced sixty feet toward [[cirrus-al-kayan|Cirrus]].
 
-It launches its two spiked arms into the air, trailing ribbon-like flesh as they lance 60ft toward Cirrus.
+[[feanon-serinde|Fëanon]] rushed forward and raised a swirling wall of ice. The two harpoons smashed into it, cracking the surface but not breaking through.
 
-Fey rushes forward and crates a swirling wall of ice.  The two harpoons smash into the wall, cracking it.
+The rest of the group caught up and took up firing positions, waiting for the strange creature to move toward them through the narrowed tunnel.
 
-The rest of the group catches up and take up firing positions, waiting for the strange creature to move toward them through the now much smaller tunnel.
+Seeing movement within the ice, [[jack-mayer-johnson-mathews|JmJm]] sent his Arcane Hand in to attack. Seconds later, the creature peered around the ice wall — and tripped a trap [[aliyah-faen-tlabbar|Patches]] had laid, immolating the area. [[gundren-rockseeker|Gundren]] unloaded the Thundercannon, smashing ice and flesh both.
 
-Seeing movement within the swirl of ice, JmJm summons his Arcane hand to attack it.
+Then the creature vanished.
 
-Seconds later, the creature peers around the ice wall just as it trips a trap set by Patches, immolating the area. 
+It reappeared behind [[feanon-serinde|Fëanon]], reached out, and crushed the wizard in an embrace. Wailing, it drew on his life force — until a glittering Intellect Fortress flowed from [[cirrus-al-kayan|Cirrus]] and shielded him from the drain.
 
-Gundren unloads with his thundercannon, smashing ice and the flesh of the creature.
+[[feanon-serinde|Fëanon]] created illusory duplicates and the group moved in to surround it. In short order, the strange thing was ripped apart and faded into dark smoke, its essence dispersed back to the Plane of Shadow.
 
-No sooner has the creature appeared though than it suddenly vanishes.
+As the group caught their breath, they heard the wails of other creatures somewhere off in the tunnels.
 
-Appearing behind Fey'Anon, the creature reaches out and crushes the Wizard in an embrace.
+[[tarkathee-daru|Tark]] gathered shadow around them and they began to move fast, desperate to clear the area before finding more of these. Rushing silently through the tunnels, the group narrowly avoided several more — one came out of an adjacent passage just behind them as they cleared the junction.
 
-Wailing, the creature draws on the life force of the Wizard, but a glittering intellect fortress flows from Cirrus and shields Fey'Anon from the danger.
+Eventually they found the edge of the gloom: another wall where the dark simply ended. A two-headed creature blocked the path, resembling a deformed human with arms ending in hooks. Not wanting another fight, [[cirrus-al-kayan|Cirrus]] called on Selune and Banished it. The thing was surrounded by silver light and imploded, vanishing from the plane.
 
-Fey creates illusionary duplicates and the rest of the group moves into surround and attack the creature.
+The group rushed forward into the regular tunnels of the [[underdark|Underdark]]. Warmth returned as the Shadowfell stopped bleeding into the stone.
 
-In short order, the strange thing is ripped apart by the group and it fades into dark smoke, its essence dispersed back to the Plane of Shadow.
+## Don't Mess with Wild Magic
 
-As the group catches their breath though, they hear the wails of other creatures off in the tunnels.  
+The group traveled for the next dozen hours without major incident, [[feanon-serinde|Fëanon]] tracking the arcane currents in the area, trying to keep the largest and most orderly emanations consistent to their direction of travel.
 
-Tark gathers shadow to them and they begin to speed off, desperate to leave this area before finding more of these bizarre creatures.
+Eventually, [[feanon-serinde|Fëanon]] felt something brush against his magical senses. He stopped and found the source quickly: a deposit of Faerzress Crystals, emanating a steady flow of wild magic into the surrounding rock.
 
-Rushing silently through the tunnels, the group manages to narrowly avoid more of the creatures, even as one comes out from an adjacent tunnel just behind them.
+Curious, [[feanon-serinde|Fëanon]] approached and began to draw on the power.
 
-They continue on, eventually discovering the edge of these gloom filled tunnels.  They find the "edge" another wall where the gloom simply ends.
+The area twenty feet around him began to heat up.
 
-However, a two headed creature, resembling a deformed human but with its arms ending in hooks, blocks their path.
+After thirty seconds, [[feanon-serinde|Fëanon]] realized the energy he was gathering was being deposited as heat into the nearby rock. Patches of stone were already beginning to glow red, and the heat was becoming unbearable.
 
-Not wanting to bother with another fight, Cirrus calls to Selune and simply Banishes the creature.  The thing is surrounded by silver light and implodes in on itself, vanishing from the Plane.
+They fled. They managed to put a dozen feet between themselves and the site before it liquefied.
 
-The group rushes forward and back into the regular tunnels of the Underdark.   "Warmth" returns to them as the coldness of the Shadowfell stops sapping their strength.
+The group ran ahead of a deluge of molten stone. [[jack-mayer-johnson-mathews|JmJm]] tripped. A huge Arcane Hand scooped the bard up and propelled him forward. [[doc|Doc]] and [[gundren-rockseeker|Gundren]], their legs not designed for sprinting, hopped onto the construct and it carried them clear.
 
-Pressing on from the Gloom filled tunnels, Patches takes the lead again and quickly takes them from that dark place.
+The lava flow petered out and cooled behind them.
 
-The group travels for the next dozen hours without major incident.  
+[[aliyah-faen-tlabbar|Patches]] turned to [[feanon-serinde|Fëanon]] and whispered harshly: "Which rule did you break? Stop fucking with stuff."
 
-JmJm assists the smaller folk in the party scaling a small cliff while Fey keeps track of the arcane currents in the area, trying to keep the largest and most orderly emanations (which he believes are cities) consistent to their direction.
-  
+## The Oasis
 
-**Don't Mess with Wild Magic**
+Hours of travel passed. The slight sound of trickling water reached [[aliyah-faen-tlabbar|Patches]]' ears and she stopped the group at a T-junction.
 
-**​**Eventually, Fey feels something brush against his magical senses and he stops to look for the source.
+She remembered this place. There was a nearby oasis — a campsite of relative safety and comfort. She pointed them toward it.
 
-Finding it quickly, Fey discovers a deposit of Faerzress Crystals emanating a steady flow of Magic into the surrounding area.
+[[feanon-serinde|Fëanon]] let out a sigh of relief and asked how many days of travel were left.
 
-Curious, Fey approaches and begins to try and draw on the power.
+[[aliyah-faen-tlabbar|Patches]] stared at the wizard and laid it out: they were finishing day three, and thirteen days remained.
 
-The area 20ft around begins to heat up.
+[[feanon-serinde|Fëanon]] went very still. Then he swore loudly — the lightless [[underdark|Underdark]] had warped his sense of time entirely, making three days feel like far more. He raved for a moment, declared he could not do this, swirled his arms, and vanished. A crack of rushing air filled the space where he had been.
 
-After thirty seconds, Fey realizes that the energy he's gathering is being deposited as heat into the nearby rock. The group notes that patches of stone are beginning to glow red hot and the heat is becoming unbearable.
+Teleported to [[silverymoon|Silverymoon]].
 
-They flee, and manage to put a dozen feet between them and the area before it liquefies.
+Everyone looked at the space where he had been standing. [[aliyah-faen-tlabbar|Patches]] asked how he would get back to them.
 
-The group rushes ahead of the deluge of molten stone. 
+They decided he could take care of himself and moved in to check out the oasis.
 
-JmJm trips.  
+They found a small grotto with moss beds, large blue-capped mushrooms, a trickling stream, and limited ways in and out. Slipping and squeezing through tight tunnels, the group discovered the oasis abandoned and began setting up defenses around the entrance.
 
-Calling on his magic again, a huge Arcane hand scoops the Bard up and propels him forward.
+[[cirrus-al-kayan|Cirrus]] constructed the dome and everyone began setting up their camp within. A small natural stone oven sat in the space, and [[aliyah-faen-tlabbar|Patches]] remarked it was regularly used by travelers.
 
-Doc and Gundren, their little legs causing them to lag, hop on to the construct and it carries them from danger.
+[[doc|Doc]] and [[aliyah-faen-tlabbar|Patches]] started a small fire in the oven and baked bread from the local Bluecap mushrooms — caps ground to powder for flour, water from the stream, yeast from [[doc|Doc]]'s cooking pouch. Before long the grotto smelled of earthy blue flatbread. They cooked two days of bread rations for everyone.
 
-Breathing heavily, the group turns and catches their breath, the lava flow petering out and cooling behind them.
+Meanwhile, topside, [[feanon-serinde|Fëanon]] had found a beautiful hotel in [[silverymoon|Silverymoon]], rented a room, had dinner sent up, and had a hot water bottle to keep him warm. He ate well and fell asleep full and content in a down bed.
 
-Patches turns to Fey and whispers harshly "Which rule did you break?! Stop fucking with stuff".
+Below, the group lounged in relative luxury, the Bluecaps throwing a soft amber luminescence — allowing them to see in normal light for the first time since entering the [[underdark|Underdark]]. They talked softly about how hostile the place was. [[aliyah-faen-tlabbar|Patches]] agreed, but mentioned they had no idea.
 
-The group continues on for another hour in silence, thinking about the strangeness of this place, so many miles underground.
-  
+As the group settled in to sleep, [[gundren-rockseeker|Gundren]] shifted uncomfortably and pulled something from beneath his bulk and tossed it. [[aliyah-faen-tlabbar|Patches]] caught it: a scale of metal with what looked like a large cat claw puncturing it.
 
-**The Oasis**
+[[jack-mayer-johnson-mathews|JmJm]] said "Displacer Beast." [[aliyah-faen-tlabbar|Patches]] nodded, pointing out the scale-work was clearly Duergar.
 
-Hours of travel go by.**​**
+They thought on the strange artifact, smoked some Halfling Leaf and Old Toby, and went to sleep. Those that slept dreamed dark dreams and suffered fitful nightmares.
 
-The slight trickling sound of water reaches Patches ears and she stops the group.  Looking around at the T-junction, she remembers this place and remarks that there is a nearby "oasis", a place to camp for the night in relative safety and comfort.
+The morning came topside and [[feanon-serinde|Fëanon]] awoke to a sunny winter day. He washed, had pancakes, scones, and porridge at a nearby café, and took his time over a hot drink.
 
-Fey lets out a sigh of relief and asks how many days of this incessant trekking they have left.
+The group awakened in the [[underdark|Underdark]], those that had slept feeling a pall over them. [[jack-mayer-johnson-mathews|JmJm]] looked terrible and said he had barely slept — nightmares of creeping, oozing death. [[doc|Doc]] mentioned being chased through a labyrinth by a great beast. [[tarkathee-daru|Tark]] mentioned the tentacled creature from the other night, tearing him apart. [[gundren-rockseeker|Gundren]] grumbled about the baying of Gnolls.
 
-Patches stares at the Wizard and then lays it out: They are finishing day three, there are thirteen days of travel left.
+The group went silent, wondering what the dreams meant.
 
-Fey swears and shouts "What!?", the lightless underdark warping his sense of time as he thinks/feels that they have been travelling far longer.
+Their dark contemplation was broken when [[feanon-serinde|Fëanon]] appeared with a pop, sipping coffee and looking far too rested. The somewhat haunted faces of his companions looked up at him. [[feanon-serinde|Fëanon]] wished them a good morning.
 
-He raves for a moment and then declares that "He cannot do this" swirls his arms and gathers power. With a crack of rushing air to fill the space, Fey vanishes, teleporting top-side to Silverymoon.
+Despite his joviality, something about the teleports bothered him. Leaving the [[underdark|Underdark]] had been far more difficult than it should have been, as had returning. A riddle for another time.
 
-Everyone looks on, stunned as Fey simply vanishes.  Patches turns to everyone else and asks how he'll get back/find them?
+The group packed up and pressed on.
 
-They figure the wizard can take care of himself and move in to check out the Oasis.
+## The Geode
 
-They find a small grotto with moss beds, large blue-capped mushrooms, a trickling stream and most importantly, limited ways in and out.
+The party trekked through the dark tunnels for the next five hours. Eventually, something came up — but this time it appeared to be light.
 
-Slipping and squeezing through the tight tunnels, the group discovers the Oasis abandoned and they begin setting up defenses around the entrance.
+The group stopped and sent in [[cirrus-al-kayan|Cirrus]]' familiar. Moments later, [[cirrus-al-kayan|Cirrus]] reported a massive Geode ahead, its wall cracked where the tunnels had shifted slightly.
 
-Meanwhile, Top-side, Fey walks out of the Guild Circle tower and into the cold night air of Silverymoon in February.  Looking up at the stars, Fey plops down on a bench and simply watches them for a time.
+Over fifty feet across and covered in gleaming crystals, the group shared excited glances. They moved in and stopped at the edge, watching. [[feanon-serinde|Fëanon]] noted several shifting forms in the crystals and reached out with his arcane senses.
 
-In the grotto, Cirrus constructs the Dome of force and everyone begins setting up their camp within.  
+Elementals. Six of them.
 
-Indeed, a small "oven" exists in this space and Patches remarks that it is regularly used by travelers, at least once a month.  
+[[jack-mayer-johnson-mathews|JmJm]], rashly, leapt atop one crystal and began hopping toward the center of the Geode. He balanced atop a large purple crystal and waited. Nothing happened. The bard returned to the group with as much flair as when he entered.
 
-Doc and Patches start a small fire in the natural stone oven and begin to bake some bread from the local Bluecap mushrooms, the caps being ground into powder for flour, the water from the stream and Doc providing a batch of yeast from his cooking pouch.  Before long, the grotto smells of an earthy, blue flatbread and the two of them cook a good two days of bread rations for everyone (24 servings).
+Deciding to go out on a limb, [[feanon-serinde|Fëanon]] strode forward and spoke in a strange rumbling language: Primordial.
 
-Topside, Fey has found a beautiful hotel and rented a room, having dinner sent to him and a nice hot water bottle to keep him warm at night.
+The group was shocked — they had no idea their friend could communicate with beings of the Elemental Plane. [[doc|Doc]] cooed in appreciation.
 
-Below, the group lounges in relative luxury, the Bluecaps throwing a soft amber luminescence, allowing them to see in the normal light spectrum for the first time in the Underdark.  They converse softly, remarking how hostile of a place this is.  Patches agrees, but softly mentions that they have no idea.
+The Elementals shifted and moved in to talk with this strange mortal. The Geode, it turned out, was their home — considered a Garden, or a work of art.
 
-Fey'Anon falls asleep full, warm and content in a Down bed.
+[[tarkathee-daru|Tark]] stared at the glittering crystal beings in wonder.
 
-The group begins to settle in below to sleep through the night but Gundren shifts uncomfortably and pulls something from underneath his bulk and tosses it.
+[[feanon-serinde|Fëanon]] remarked on the beauty and order of their home and built a rapport. [[cirrus-al-kayan|Cirrus]] cast Comprehend Languages and listened in while [[jack-mayer-johnson-mathews|JmJm]] began to hum.
 
-Patches catches it and takes a look, the others peering at it curiously: A scale of metal with what looks like a large cat claw puncturing it.
+[[aliyah-faen-tlabbar|Patches]] noted the Elementals were distracted and shifted behind a particularly large crystal spur, collected two fallen pieces, and slipped them into her bag before coming around the other side. No one moved. She did not press her luck, but she did summon her mercurial blade, thinking they might appreciate the obsidian sword.
 
-JmJm remarks "Displacer Beast" and Patches nods, pointing out the Scale-work is clearly Duergar.  
+The Elementals enjoyed their conversation. They allowed the group to rest in the Geode before moving on. In conversation, [[feanon-serinde|Fëanon]] discovered that the Elementals had sensed a rising tide of corruption emanating from the depths of the [[underdark|Underdark]]. They did not know what it was or where it came from, but they did not like it.
 
-They think on the strange artifact and head to sleep or Reverie as they enjoy a smoke of Halfling Leaf and Old Toby (they note that they don't have a TON of leaf and might need to send Fey with a shopping list next time).
+The group offered the Elementals a new home — under the Red Hill or in the caves beneath the keep at their Barony. The Elementals were unsure, but eventually decided to send a single member to investigate. The small crystal creature detached itself from the Geode and began its trek, melding seamlessly into the stone wall and vanishing.
 
-Those of the group that sleep, dream dark dreams and suffer from fitful nightmares...
+The group took a short rest and headed out again, leaving the glittering cavern behind.
 
-The morning comes top side and Fey awakes to a sunny winter day.  He washes and heads to a nearby cafe for breakfast.  Eating pancakes, Scones and a hearty porridge, he lounges for a while sipping a hot drink.
+## The Steam Tunnels
 
-The group awakens in the Underdark, those that slept feeling a pall over them.  JmJm in particular looks terrible and mentions he barely slept due to nightmares of creeping, oozing death.  Doc pipes up, mentioning he had a nightmare about being chased in a Labyrinth by a great beast and Tark mentions he dreamt of a tentacled beast ripping him apart the other night.  Gundren grumbles about the baying of Gnolls in his dreams.  
+With Pass without Trace on the party, [[jack-mayer-johnson-mathews|JmJm]] hummed a tune and the others began humming along. [[aliyah-faen-tlabbar|Patches]] gave a disapproving glance, but with the stealth magic covering the sound, she relented — and even hummed a little.
 
-The group goes silent, wondering what the dreams might mean and Patches heads to collect her traps.
+Many uneventful hours passed, [[aliyah-faen-tlabbar|Patches]] leading the group and watching for the route markings.
 
-Their dark contemplation is broken as Fey'Anon appears in a pop, sipping on a coffee and looking far too happy.  The somewhat haunted faces of his companions look up at him and Fey greets them with a good morning.
+[[cirrus-al-kayan|Cirrus]] tried his hand at tracking by crawling along the ground, thinking proximity to any prints might help. It did not. What it did do was let him feel the change in temperature in the rock beneath him. Standing up, he mentioned the stone was getting warmer.
 
-Despite his joviality, something about the Teleports are bothering the Wizard; Leaving the Underdark was far more difficult than it should have been, as was returning.  A riddle for another time.
+The tunnels confirmed it. The air became warmer and damper. Steam.
 
-The group packs up the camp and bids the Oasis farewell, continuing off into the darkness of the tunnels.
-  
+They entered a section of tunnels filled with warm water vapor, occasional whiffs of sulfur, non-toxic. They pushed on until the steam was so thick they could only see thirty feet ahead.
 
-**The Geode**
+The tunnel widened into a larger cavern and the group slowed. [[cirrus-al-kayan|Cirrus]]' sight cut through the mist — the cavern was empty save for two large corpses.
 
-**​**The party treks through the dark tunnels for the next five hours.  Cirrus decides to try and keep everyone focused and helps Patches keep order, reminding everyone of the travel rules.  Remarkably, it has the desired effect and everyone is business like for the first half of the day.
+As they approached, the group took in the bizarre bodies: massive, fishlike humanoids, shredded but with little to no blood on the wet stone around them.
 
-As with every day of travel so far though, eventually something comes up.  This time however, it appears to be light.  
+The group looked on tentatively.
 
-The group stops and sends in Cirrus' familiar.
+[[feanon-serinde|Fëanon]] looked up, noted a light, and saw a strange form. A small glowing jellyfish-like creature, casting off a soft yellow glow, came out of the mist and floated down toward the bodies. It entered one, seeming to meld with it.
 
-Moments later, Cirrus reports that a massive Geode is before them, the wall of it cracked as the tunnels have shifted slightly. 
+The massive body twitched.
 
-Over fifty feet across and covered in gleaming crystals, the group shares excited glances, wondering if the Geode might be a treasure to be plundered.
-
-The group moves in, but they stop at the edge of the Geode, watching.  Fey notes several shifting forms in the crystals and reaches out with his Arcane senses.
-
-Elementals, six of them.
-
-Rashly, JmJm leaps atop one crystal and begins hopping his way into the center of the Geode.  Balancing atop a large purple crystal, he waits.
-
-Nothing happens and the Bard returns to the group with as much flair as when he entered.  The Elementals did not seem bothered by him.
-
-Deciding to go out on a limb, Fey strides forward and speaks with a strange rumbling language: Primordial.
-
-The group is shocked, having no idea that their friend could communicate with beings of the Elemental Plane.  
-
-Doc B coos in appreciation.
-
-The Elementals shift and move in, gathering to talk with this strange mortal that they can communicate with.
-
-It turns out that the Geode is their home and considered a Garden, or work of art.
-
-Tark stares at the glittering crystal elementals in wonder.
-
-Appreciating such things, Fey remarks on their beautiful, orderly home and builds a rapport. 
-
-Cirrus casts Comprehend Languages so he can listen in, while JmJm begins to hum a tune.
-
-Patches notes that the Elementals are distracted and shifts behind a particularly large spur of crystal, picking up two fallen pieces and putting them in her bag before coming around the other side.
-
-No one moves or even seems to notice but the Drow doesn't press her luck.  She does summons her mercurial blade though, thinking they would appreciate the Obsidian sword.
-
-With such a fascinating group of mortals, the Elementals enjoy their conversation and company.  They allow the group to rest in the Geode a while before moving on.
-
-Chatting, the Wizard discovers that the Elementals have sensed a rising tide of corruption in the Underdark emanating from the depths.  They have no idea what it is or where it comes from, but they don't like it.
-
-The group offers the Elementals a new home, under the Red Hill or in the caves underneath the Keep on their barony. 
-
-The Elementals are unsure, but eventually decide to send a single member to check it out. The small crystal creature detaches itself from the geode and begins its trek, shifting and melding seamlessly into the stone wall.
-
-The group takes a short rest and then begin to head out again, leaving the glittering cavern behind them.
-  
-
-**The Steam Tunnels**
-
-**​****​**With Pass without Trace on the party, JmJm hums a tune and the others begin to hum along too.  
-
-Patches gives a disapproving glance, but with the stealth magic she relents and even hums a little as well.
-
-Many more uneventful hours go by with Patches leading the group down the tunnels, looking out for the markings of the route.
-
-Cirrus tries his hand at some tracking, crawling on the ground, thinking that being closer to any tracks might help.  It does not.
-
-What it does do though, is let him feel the change in temperature in the rock.  Standing up, he mentions the rock is getting a little warmer.
-
-Continuing on, they find out why as the tunnels begin to get warmer and damper. Steam.
-
-The group heads into a section of tunnels filled with warm water vapor. They get the occasional whiff of sulfur but it appears that the Steam Vents here are non-toxic.
-
-They push on and the steam becomes so thick that they can only see thirty feet ahead.
-
-Getting to a larger cavern as the tunnel widens, the group slows. 
-
-Cirrus' sight is unobstructed and notes the cavern is empty save for two large corpses.
-
-As they approach, the group takes note of the bizarre bodies: Massive and fishlike humanoids, the bodies shredded but with little to no blood around on the wet stone.
-
-As the group looks on tentatively, Fey looks up noting a light and sees a strange form. 
-
-A small glowing Jelly-fish like creature casting off a soft yellow glow comes out of the mist and floats down toward the bodies.  It enters one, seeming to simply meld with it.
-
-Moments later, the massive body twitches and begins to move...
+And then it began to move.

@@ -22,3 +22,13 @@ Then he turned and saw the Wild Hunt bearing down on Krezk — an army of darkne
 Tark drove the blade through the angel. Glowing cracks spread across Anduriel's form as his essence flowed into the sword. The process was agonisingly slow, and the group fought wave after wave of the Wild Hunt to buy time. When Anduriel finally exploded, the beacon of Argynvostholt streaked across the valley and poured into the weapon, which blazed with sunlight and named itself: the Ashbringer.
 
 The spirit of Anduriel later appeared as a golden halo around Patches during the final battle against Rahadin, speaking through her to condemn the corrupted dragon before departing to the afterlife.
+
+## A Second Anduriel
+
+A Narzugon devil — a hellknight of the Nine Hells mounted on a Nightmare Steed — who operates in the [[underdark|Underdark]] also carries the name Anduriel. This devil survived an earlier encounter with the group at Helm's Hold and resurfaced in [[gracksuluth|Gracksuluth]], where she held the bridge of Ladueger's Furrow as a command post and used prisoners [[hemeth|Hemeth]] and Velka as hostages during the ambush that triggered the summoning of [[demogorgon|Demogorgon]].
+
+When Demogorgon manifested on her bridge, this Anduriel did not retreat. She composed herself, mounted her Nightmare, and made a charging pass at the demon lord with her Fiery Lance — striking hard and paying for it with a punishing counterblow that left her gravely wounded, galloping away low in the saddle.
+
+[[feanon-serinde|Fëanon]] noticed something unusual about the way she recovered: she was consuming the ambient magic of the area around her — drawing the wild energy into herself — in a manner consistent with Narzugon healing abilities, but with a specific quality that felt different.
+
+Whether the shared name between the dead Planetar and the living Narzugon carries any significance has not been established.

@@ -3,6 +3,7 @@ title: The Underdark - Prep
 chapter: 8
 chapterTitle: The Underdark
 session: 29
+summary: "The group arranged to send The Last Word to Aurinax and on to the Gold Dragon king, strong-armed Veygar into joining a rescue mission for Hemeth and Velka, and teleported back into a Gracksuluth that had spent eight hours under demon siege — arriving in time to watch the prisoner convoy cross the bridge."
 people:
   - "aliyah-faen-tlabbar"
   - "aurinax"
@@ -39,166 +40,78 @@ factions:
   - "svirfneblin-faction"
 ---
 
-Patches meditates and prays over Cercei, then catches up with the group.  
+## Sending the Artifact
 
-While praying, she asks Elistraee to help Cercei overcome her evil Draconic heritage.
+[[aliyah-faen-tlabbar|Patches]] meditated over Cercei through the early morning, asking Eilistraee to help the dragon overcome the worst of what had been done to her, and then caught up with the group.
 
-The group heads to Over the Moon and they discuss what to do, Cirrus and Tark discussing about sending the artifact to Selune.
+At Over the Moon, [[cirrus-al-kayan|Cirrus]] and [[tarkathee-daru|Tark]] were already debating where [[the-last-word|The Last Word]] should go while [[pickles|Mr. Pickles]] watched from the walls. [[snorbul|Snorbul]] was having a hard time processing everything that had happened in the past day.
 
-Mr Pickles spies on the group from the walls...
+[[cirrus-al-kayan|Cirrus]] walked to the [[fane-of-selune|Fane of Selûne]] and entered the statue's internal elevator to reach the secret shrine above. He put the question to Selûne directly: would the artifact be safer with her than with [[bahamut|Bahamut]]? After communing with her in the quiet of the shrine, the answer was clear. Bahamut was the better option.
 
-Lilly serves everyone to the best of her ability.
+[[feanon-serinde|Fëanon]] pitched storing the artifact in his tower. There were no takers.
 
-Snorbul is having a hard time processing...everything.
+[[tarkathee-daru|Tark]] and [[cirrus-al-kayan|Cirrus]] turned to finding Moot — the avatar they knew of — or failing that, using the Gold Dragon they already had a connection to. [[aliyah-faen-tlabbar|Patches]] pointed out, with pointed directness aimed at [[tarkathee-daru|Tark]], that dream messengers should be held in suspicion.
 
-Cirrus heads to the Fane, the place now under permanent twilight and the surrounding area. 
+[[tarkathee-daru|Tark]] left the tavern for his treehouse without responding. [[aliyah-faen-tlabbar|Patches]] followed to apologize and got nothing back. She returned to the tavern.
 
-He heads into the central chamber of the cathedral and enters the pedestal of the statue, taking the internal elevator up to the secret shrine within.
+[[tarkathee-daru|Tark]] went to the Grove and found [[doc|Doc]]. [[doc|Doc]] tried to scry on Moot, but the entity was not on this plane and the spell returned nothing. He tried to scry on Aurinax and was blocked, but the Gold Dragon responded with a Sending: a quick, stressful back-and-forth through the relay of Sending spells confirmed everything. Aurinax would arrive in two days to collect the artifact and carry it to Protanther, King of the Gold Dragons, who resided in the Great Glacier.
 
-Cirrus pitches Selune taking the artifact, but after communing with her in his shrine, he determines that it would not be as safe with her, as with Bahamut.
+[[snorbul|Snorbul]] suggested the group should go to [[gravenhollow|Gravenhollow]]. The library of the stone giants held answers that nothing else they had encountered could provide. The group agreed — and agreed that if they were going back into the [[underdark|Underdark]], the artifact absolutely could not go with them.
 
-Fey pitches storing the artifact in his tower...there are no takers.
+The problem was that retrieving it from the Sundabar vault would require a new Arcane Recall, which required one thousand gold in sapphires that they didn't have.
 
-Tark and Cirrus discuss how to find Moot and what they decide on is contacting the one Gold Dragon they know if they can't find Moot.
+[[aliyah-faen-tlabbar|Patches]] checked her pouch: one hundred and eighty gold in sapphires. [[gundren-rockseeker|Gundren]] approached the Amnian Dwarves drinking at the bar and asked about their mining finds. Five hundred and thirty gold in sapphires. The Dwarves proposed settling and mining rights on the Red Hill as a down payment on future arrangements. [[gundren-rockseeker|Gundren]] wrote them a receipt for settling rights.
 
-Patches points out that dream messengers should be held in suspicion, pointedly mentioning this to Tark.
+## Velka's Rescue
 
-Cirrus tells Patches that Tark has been through enough, but its too late and Tark flees the tavern heading for his treehouse.
+[[aliyah-faen-tlabbar|Patches]] found Veygar at a table with Belairofos and made a direct proposal: he was coming with the group to [[gracksuluth|Gracksuluth]] to help rescue [[hemeth|Hemeth]] and Velka from Duergar custody.
 
-Patches rushes to follow, apologizing, but gets no response and she returns to her tavern, kicking herself for her choice of words.
+He protested. She shoved him to the ground. He agreed to go.
 
-Snorbul suggests they head to Gravenhollow, the place of answers.
+[[gundren-rockseeker|Gundren]] offered an opinion about the method. [[aliyah-faen-tlabbar|Patches]] cursed at him.
 
-Tark heads from his treehouse over to the Grove to see Doc.
+Meanwhile, [[snorbul|Snorbul]] and Belairofos hired a Dwarf crew named Peb's company and went sapphire hunting with them. [[snorbul|Snorbul]] found a promising spot in the woods on the path to the Fane, tunneled down, and followed the excavation north beneath the lake itself. They came across a group of Kobolds in the tunnels and arrows began to fly. [[snorbul|Snorbul]] and Belairofos stripped their outer clothing — the Svirfneblin tradition for moving quietly underground — flanked the Kobolds from both directions, and cleaned up the encounter. [[snorbul|Snorbul]] dropped eight of them in a flurry of blows before the survivors fled. Belairofos appeared from the other tunnel covered in blood and announced the rest wouldn't be bothering anyone.
 
-Doc welcomes his friend and offers his help.
+They returned with exactly the sapphires [[feanon-serinde|Fëanon]] needed.
 
-He tries to scry on Moot/Bahamut, but the entity is not on the same plane and thus, the spell does not work.
+[[cirrus-al-kayan|Cirrus]] had Veygar contact Velka via the Dreaming, establishing communication with their captive inside [[gracksuluth|Gracksuluth]]. Veygar came back with the intelligence they needed: [[hemeth|Hemeth]] and Velka were being moved in the morning from the Palace District to the Overlake Hold. They would cross Ladueger's Furrow at roughly ten-thirty in the morning in an armored wagon under minimal guard.
 
-Tark has Doc communicate with Aurinax instead and though the scrying is blocked, Aurinax responds with a sending.
+Velka was now expecting supplies and a breakout attempt.
 
-A stressful few sendings later and Doc has successfully relayed everything to Aurinax.
+The group assembled a box of goods — new thieves' tools, a satchel charge with instructions — to be sent via Instant Courier twenty minutes before the convoy crossed the bridge. Then [[feanon-serinde|Fëanon]] used the fused sapphires to cast the Arcane Recall over the artifact and deposited it in the Sundabar bank with the bank-wand.
 
-Aurinax will come in two days to pick up the artifact and take it to Protanther, King of the Gold Dragons (who resides in the **Great Glacier**).
+## Night Before
 
-The group is reminded of their history with Veygar, they decide to go and rescue Velka and Veygar.
+[[tarkathee-daru|Tark]] spent the night at his treehouse, training in the woods until his body insisted he stop.
 
-The group decides if they are going back to the Underdark, the Artifact should not go with them and they will re-deposit it in Sundabar.
+[[feanon-serinde|Fëanon]] came to the Dojo later that evening and knocked on the door, waking Jin Sakama, who was sleeping inside. [[feanon-serinde|Fëanon]] asked the Illusionist Painter if he could copy his spellbook. Jin refused. [[feanon-serinde|Fëanon]] put him to sleep, broke the cipher, copied Phantasmal Force and Major Image, and left Jin asleep until someone else woke him.
 
-Depositing and retrieving the artifact is an issue though.
+[[aliyah-faen-tlabbar|Patches]] had gone to the Dojo earlier looking for [[tarkathee-daru|Tark]]. When she called out, Jin answered from inside. She interrogated him briefly, confirmed he was a legitimate retainer, put her weapons away, laughed at him for trying to do something materialistic for [[tarkathee-daru|Tark]] such as painting him, and listened while he explained that giving knowledge and art to the masses was the real purpose of the work. She understood that and left him to sleep. [[tarkathee-daru|Tark]] never appeared.
 
-Fey will place another Arcane Recall on the artifact, but needs 1,000gp of Sapphires for the spell which he does not have.
+[[cirrus-al-kayan|Cirrus]] went to check something [[feanon-serinde|Fëanon]] had told him — that there was a storage room inside the base of his Selûne statue. There was nothing there. [[feanon-serinde|Fëanon]] had been joking.
 
-Patches checks her pouch and pulls out 180gp of Sapphires.
+[[tarkathee-daru|Tark]] dreamed of warm smiles and friendly faces and a well-worn cabin — old memories, comfortable and quiet. He woke in the morning refreshed for the first time in a long time.
 
-needing more, the group approaches the Dwarves at Over the Moon and ask about their finds - 530gp of Sapphires.
+## Into Gracksuluth
 
-The Dwarves ask to settle and mine the Red Hill and put the Sapphires down as payment to get the ball rolling on mining rights for the Hill.
+The group assembled at Over the Moon. [[tarkathee-daru|Tark]] suggested [[horatio-von-bumidere|Buumi]] stay behind to protect the artifact — then remembered it was already in the bank. [[horatio-von-bumidere|Buumi]] came along.
 
-Gundren writes them a receipt for settling rights.
+They teleported to Bilrigger's Sanctum using the familiar ground there as an anchor, then worked their way up into the city through the Whorlstone Caverns and the Hall of Sacred Scrolls.
 
-Patches approaches Veygar in Over the Moon, who is sitting with Belairforos. The Surface Dwarves giving them both some space.
+The [[underdark|Underdark]] felt wrong. Knowing now about the Demon Lords' presence in the deep places, the abyssal corruption of the air and stone was almost palpable.
 
-Patches strong-arms Veygar to come with the group to rescue Hemeth and Velka from Gracksuluth.
+The Derro halls were empty. The Hall of Sacred Scrolls was quieter than before — scribes rushing to specific contracts and vanishing with them rather than working in their normal methodical rhythms.
 
-He protests until he's shoved to the ground and agrees to go with the group.
+They took an elevator to the main level and stepped out into [[gracksuluth|Gracksuluth]] proper. The city was subdued in a way that meant fear, not peace. Patrols everywhere. Devils moving alongside the Stoneguard. Civilians hurrying with their heads down.
 
-Gundren gives Patches lip, and is cursed at by the Drow. 
+Beneath everything, felt as much as heard — a deep, steady bass beat. Like distant artillery.
 
-Patches has a heart to heart with Mr. Pickles.
+Veygar led the group to a nearby alley.
 
-Snorbul and Belairforos hire **Peb** and his Dwarven crew to go Sapphire hunting with them for reagents for Fey to recall the artifact.
+[[horatio-von-bumidere|Buumi]] took in the city with wide eyes, coughing as the smell hit him beneath the Three-Faced Helm.
 
-Heading out with the Dwarves, Snorbul finds a good spot in the woods (along the path to the Fane) where the earth is thin and tunnels down.
+[[aliyah-faen-tlabbar|Patches]] raised her spyglass and found the bridge across Ladueger's Furrow that Velka had described. The massive construction spanned hundreds of feet across the fume-filled chasm. She swept the glass along it, counting guards, noting positions, watching the patrol rotations create brief windows in their coverage.
 
-finding tunnels, they then take to them and head north, beneath the lake itself.
+The prisoner convoy was not yet in sight.
 
-They come across Kobolds and arrows begin to fly, the dwarves firing back with crossbows.
-
-Snorbul and Belairforos sneak to flank the Kobolds, naked (the Svirfneblin thing...)
-
-In position a few minutes later, Snorbul attacks, felling 8 in a flurry of blows, the others fleeing in terror.
-
-Moments later, the Dwarves arrive and congratulate Snorbul, just as Belairforos comes down the opposite tunnels covered in blood, proclaiming the Kobolds won't bother anyone again...
-
-Snorbul returns to Fey, handing him the rest of the sapphires they need.
-
-Cirrus then has Veygar contact Velka via dreaming.
-
-Veygar returns from the dreaming and has the information the group is looking for.
-
-The group decide to send Velka a "breakout" box of goodies via Instant Courier just before the breakout attempt so that her and Hemeth can help themselves.
-
-Hemeth and Velka are being moved in the morning from the Palace district to The Overlake Hold.  They will cross Laduagers Furrow at 10:30 am under minimal guard in armored wagon.
-
-Velka is now expecting supplies and a way to break out.
-
-Tark spends the night at his treehouse, training in the woods until he is exhausted.
-
-After her heart to heart with Mr. Pickles, Patches heads out to the Dojo to look for her friend.
-
-She calls out for her friend, but **Jin** the illusionist painter responds.
-
-being awoken, he opens a door in the Dojo and greets Patches.
-
-Patches is startled that he's here and interrogates him, confirming his identity as a retainer for Tark.
-
-The painter is sufficiently intimidated and Patches puts her weapons away.  She laughs at him for trying to do something materialistic for Tark such as paint.
-
-He explains it as giving knowledge and art to the masses and she understands that idea.
-
-She leaves Jin to sleep and goes to train in the Dojo under the moonlight.
-
-After a few hours and with Tark not appearing, she returns to her rooms in Over the Moon.
-
-Fey'Anon approaches the Dojo later that evening.
-
-Knocking on the dojo entrance, Jin is once again woken up.
-
-Fey asks the Illusionist if he can copy his spellbook.  Jin refuses.
-
-Fey puts the man to sleep and then rifles through his book easily breaking the cipher, copying the spells Phantasmal Force and Major Image.
-
-He then leaves, returning to his own tower and leaving Jin asleep until someone wakes him (or Fey releases him).
-
-Cirrus checks the "butt" of his statue...there's nothing there, Fey was joking with him about a storage room for all the items "given" to Selune.
-
-Meanwhile, Tark dreams of warm smiles, friendly faces and a welcoming, comforting space made of wood. A well worn cabin?  An old, old memory. One of comfort and warmth.
-
-Tark awakes in the morning, and for the first time in a long time, is refreshed and meets with the group at Over the Moon.
-
-The group preps the box of goods to send Velka and includes everything from newly forged Thieves tools, to a satchel charge with instructions.
-
-They prep to send it twenty minutes before the convoy goes over the bridge.
-
-Tark wants Buumi to stay behind and protect the Last Word.
-
-They discuss and it turns out Buumi is not needed to protect it as they can send the artifact to Sundabar safely.
-
-Fey casts the Arcane recall, taking the fused Sapphires from the spell and placing it in the Iron Tome.  He then takes the depositing wand and puts the artifact in the bank.
-
-The group teleports to Bilrigger's Sanctum with Buumi and then works their way up into the city.
-
-The whole Underdark feels wrong, and now knowing about the presence of the Demon Lords, the abyssal corruption of the place is almost palpable.
-
-The Derro halls are deserted and the Hall of Sacred Scrolls is not as busy as before
-
-The group watches as different groups of scribes search for specific contracts and then rush away with them.
-
-They take an elevator to the "ground" level and exit the Hall of Sacred Scrolls
-
-the normal hustle and bustle of the city is severely repressed, as they look across the Furrow District, many patrols and devils can be seen.
-
-Civilians that are out on the street are moving hurridly and the anxiety is palpable.
-
-In the background, a steady bass beat can be felt as much as heard, like the pounding of distant artillery guns.
-
-Veygar moves the group to a nearby alleyway.
-
-Buumi is astounded by the city, and the smell makes him cough and his eyes water beneath the Three-Faced Helm.
-
-Patches pulls out her spyglass in the alley and looks across the bridges of the Furrow, spotting the one detailed to her by Veygar's communication with Velka.
-
-The massive construction is easily 50ft wide and hundreds of feel long, spanning the monstrous, fume-belching chasm that is Ladueger's Furrow.
-
-Looking at the bridge, she sees numerous guards and patrols...pulling back, leaving an opening...
+They waited.

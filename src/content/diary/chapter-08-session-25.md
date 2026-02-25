@@ -1,8 +1,9 @@
 ---
-title: The Underdark - Leaving the Stone Giants
+title: "The Underdark - Leaving the Stone Giants"
 chapter: 8
 chapterTitle: The Underdark
 session: 25
+summary: "With the first key half secured, the group prepared to leave Gracksuluth — but the city had one last obstacle in the form of a Derro street ambush where the dead refused to stay down, and Patches found the chaos useful."
 people:
   - "aliyah-faen-tlabbar"
   - "chani"
@@ -34,184 +35,192 @@ factions:
   - "stoneguard"
 ---
 
-Gundren wraps up working on Gwen, reactivating the magnificent lion after Gil has left (much to the disappointment of the young Duergar).
+## Gundren's Workshop
 
-The servos whir and pistons hiss.  Gwen gets to her feet, new adamantine plates gleaming in the forge light.
+[[gundren-rockseeker|Gundren]] wrapped up working on Gwen, reactivating the magnificent lion after Gil had left, much to the disappointment of the young Duergar.
 
-she plods over to a corner and sits with a clear line of sight on the door.
+The servos whirred and pistons hissed. Gwen got to her feet, new adamantine plates gleaming in the forge light.
 
-Gundren then settles in to work on copying the Gas masks.
+She plodded over to a corner and sat with a clear line of sight on the door.
 
-it takes him several hours, but he succeeds in replicating everything (creating one extra mask) except for the lenses being able to see through non-magical smoke.
+[[gundren-rockseeker|Gundren]] then settled in to work on copying the gas masks.
 
-Settling back in his chair and smoking his pipe, he thinks it over for a while, taking a rest.
+It took him several hours, but he succeeded in replicating everything — creating one extra mask — except for the lenses being able to see through non-magical smoke.
 
-It comes to him as he's resting; Phase Spider Chitin might do the trick.
+Settling back in his chair and smoking his pipe, he thought it over for a while, taking a rest.
 
-Gwen's mechanical parts whir, alerting Gundren and he looks to the open door to the smithy.
+It came to him as he rested: Phase Spider Chitin might do the trick.
 
-A young Surface Gnome stands there, wide eyed and then lets out a little yelp as Gundren notices him.
+Gwen's mechanical parts whirred, alerting [[gundren-rockseeker|Gundren]], and he looked to the open door to the smithy.
 
-The Gnome dashes off.
+A young Surface Gnome stood there wide-eyed and then let out a little yelp as [[gundren-rockseeker|Gundren]] noticed him.
 
-Gundren commands Gwen to pursue and detain the Gnome and Gundren rushes off in hot pursuit.
+The Gnome dashed off.
 
-Within seconds, the Gnome is on the ground, the mechanical lion keeping him pinned.
+[[gundren-rockseeker|Gundren]] commanded Gwen to pursue and detain the Gnome, and [[gundren-rockseeker|Gundren]] rushed off in hot pursuit.
 
-The Gnome babbles in fear.
+Within seconds, the Gnome was on the ground, the mechanical lion keeping him pinned.
 
-A quick interrogation reveals that the Gnome; **Mimble** is an apprentice of an inventor named **Dr. Hojo Finklespark** (self proclaimed best inventor in the world).
+The Gnome babbled in fear.
 
-Gwen was so magnificenct that Mimble was going to go and tell his master of her.
+A quick interrogation revealed that the Gnome — Mimble — was an apprentice of an inventor named Dr. Hojo Finklespark, self-proclaimed best inventor in the world.
 
-He doesnt elaborate on what would happen if that were to occur, but Gundren is suspicious.
+Gwen was so magnificent that Mimble had been going to go and tell his master of her.
 
-Mimble realizes that the burly Dwarf might be closer to murder than he first thought and calls for help.
+He didn't elaborate on what would happen if that were to occur, but [[gundren-rockseeker|Gundren]] was suspicious.
 
-Gundren stuffs the gnome into his bag of holding and a few moments later, a Duergar guard comes around the corner to investigate the cry for help.
+Mimble realized that the burly Dwarf might be closer to murder than he first thought and called for help.
 
-The guard looks around, seeing Gundren, Gwen and Mimbles dropped bag.
+[[gundren-rockseeker|Gundren]] stuffed the Gnome into his Bag of Holding and a few moments later, a Duergar guard came around the corner to investigate the cry for help.
 
-Gundren claims that its his, picks it up and turns to leave.
+The guard looked around, seeing [[gundren-rockseeker|Gundren]], Gwen and Mimble's dropped bag.
 
-Suspicious the guard moves forward and calls for the Dwarf to halt.
+[[gundren-rockseeker|Gundren]] claimed it as his own, picked it up, and turned to leave.
 
-Gundren does so, tense and ready to react in case of a fight.
+Suspicious, the guard moved forward and called for the Dwarf to halt.
 
-The Duergar holds out a small gizmo that Gundren missed when picking up Mimbles bag.
+[[gundren-rockseeker|Gundren]] did so, tense and ready to react in case of a fight.
 
-Gundren lets out a small sigh of relief, takes it and leaves the area, though he can clearly hear an invisible Duergar guard in close pursuit.
+The Duergar held out a small gizmo that [[gundren-rockseeker|Gundren]] had missed when picking up Mimble's bag.
 
-Exiting the Anvilthew manufactory, Gundren quickly calls over a fully enclosed Rickshaw and is taken back to the townhouse, making sure to circulate the air in the bag for **Mimble** every few minutes.
+[[gundren-rockseeker|Gundren]] let out a small sigh of relief, took it, and left the area, though he could clearly hear an invisible Duergar guard in close pursuit.
 
-Gundren arrives at The Gholbrorn's Lair and heads in to the main courtyard in the hollowed pillar, toward the elevators to the higher levels.
+Exiting the Anvilthew manufactory, [[gundren-rockseeker|Gundren]] quickly called over a fully enclosed rickshaw and was taken back to the Townhouse, making sure to circulate the air in the bag for Mimble every few minutes.
 
-Traveling through the common areas, restaurants and general "outside" seating of the Lair, he catches sight of several groups that are clearly taking note of his passing: Flameguard, Stoneguard and two different factions of Derro it seems...
+[[gundren-rockseeker|Gundren]] arrived at the Gholbrorn's Lair and headed into the main courtyard in the hollowed pillar, toward the elevators to the higher levels.
 
-He quickly heads to the Townhouse.
+Travelling through the common areas, restaurants and general outdoor seating of the Lair, he caught sight of several groups that were clearly taking note of his passing: Flameguard, Stoneguard and two different factions of Derro.
 
-Safely inside, he lets **Mimble **out and with the assistance of Tark, Doc and JmJm, begins to interrogate the poor Gnome.
+He quickly headed to the Townhouse.
 
-Patches, Snorbul, Fey and Cirrus all turn to leave Cairngorm cavern.
+Safely inside, he let Mimble out and with the assistance of Tark, Doc and JmJm, began to interrogate the poor Gnome.
 
-Araele, the summer Fae sits back on his rock, pouting as no one takes  him up on his offers.  He does idly say though that "maybe I should try and find my own way out..."
+## Leaving Cairngorm
 
-Hgraam begins to walk alongside the group as they head back to Gracksuluth proper.
+Patches, [[snorbul|Snorbul]], Fey and [[cirrus-al-kayan|Cirrus]] all turned to leave Cairngorm Cavern.
 
-He questions the group, asking what they plan on doing with Araele.  They respond that they are simply playing hardball and will be back after he has stewed a little.
+Araele, the Summer Fae, sat back on his rock pouting as no one took him up on his offers. He did idly say that maybe he should try and find his own way out.
 
-Hgraam nods and then asks for news about the wider world, asking why everything is beginning to feel like a nightmare.
+Hgraam began to walk alongside the group as they headed back to [[gracksuluth|Gracksuluth]] proper.
 
-The conversation goes back and forth, Fey asking what the Stone Giants know of Orcus (not much) and then tells the Stoneshaper of the Demon Prince and his machinations.
+He questioned the group, asking what they planned to do with Araele. They responded that they were simply playing hardball and would be back after he had stewed a little.
 
-Shocked and concerned, Hgraam tells the group to visit the Cloud Giants for information and the Storm Giants for assistance (as they lead the Ordening) when they are done in Gravenhollow.
+Hgraam nodded and then asked for news about the wider world, asking why everything was beginning to feel like a nightmare.
 
-He also asks Fey about the curse that transformed one of his people.
+The conversation went back and forth, Fey asking what the Stone Giants knew of Orcus — not much — and then telling the Stoneshaper of the Demon Prince and his machinations.
 
-The curse was so strong that it could have only been done as a part of a ritual that uses a body-part of the target.
+Shocked and concerned, Hgraam told the group to visit the Cloud Giants for information and the Storm Giants for assistance when they were done in Gravenhollow.
 
-Fey remembers that Droki had Giant toenail clippings in his bag from Cairngorm and tells Hgraam to keep a close watch on his people as they are being targeted.
+He also asked Fey about the curse that had transformed one of his people.
 
-At the exit from the Caverns, the group thanks Hgraam and they take their leave, heading back into the city and the stinking smog of the place.
+The curse was so strong that it could only have been done as part of a ritual that used a body-part of the target.
 
-They head across the city, talking about what to do next.
+Fey remembered that [[droki|Droki]] had had Giant toenail clippings in his bag from Cairngorm and told Hgraam to keep a close watch on his people as they were being targeted.
 
-With several hours before needing to speak with Claudine, the group decide to pick up Gundren and then head to talk with Themberchaud.
+At the exit from the caverns, the group thanked Hgraam and took their leave, heading back into the city and the stinking smog of the place.
 
-As they go, they devise a way to remove Claudine and her daughter from the city - Fey's Fancy Fortress and then a Planeshift to Thunder Bluff.
+## Back in the City
 
-Meanwhile, Mimble has been properly interrogated and deemed a non-threat.  
+They headed across the city, talking about what to do next.
 
-Gundren lets him go, but takes two gizmos from his bag and now knows he can find this **Hojo** at the Muzgardt brewery.
+With several hours before needing to speak with [[claudine|Claudine]], the group decided to pick up [[gundren-rockseeker|Gundren]] and then head to talk with [[themberchaud|Themberchaud]].
 
-The attention of those in the Townhouse then turns to the different people following the group.
+As they went, they devised a way to remove [[claudine|Claudine]] and her daughter from the city — Fey's Fancy Fortress and then a Planeshift to Thunder Bluff.
 
-They decide to go and catch one and question them - Tark and Gundren head down into the common courtyard, taking the elevator down.
+Meanwhile, Mimble had been properly interrogated and deemed a non-threat.
 
-Arriving on the bottom floor, the doors open and the rest of the group is just arriving to The Gholbrorn's Lair.
+[[gundren-rockseeker|Gundren]] let him go but took two gizmos from his bag and now knew he could find this Hojo at the Muzgardt Brewery.
 
-Gundren quickly tells them his plan and what he's noticed.
+The attention of those in the Townhouse then turned to the different people following the group.
 
-Patches confirms and they decide to have some fun.
+They decided to go and catch one and question them. Tark and [[gundren-rockseeker|Gundren]] headed down into the common courtyard, taking the elevator down.
 
-Gundren beelines it to the closest "agent" tailing them, yelling a greeting and that the "others will be seen to soon"
+Arriving on the bottom floor, the doors opened and the rest of the group was just arriving at the Gholbrorn's Lair.
 
-A number of folk all scurry away, some even bumping into tables and dispelling their invisibility.
+[[gundren-rockseeker|Gundren]] quickly told them his plan and what he had noticed.
 
-Patches spots that one of the Derro scurrying away has the same earring as those she and Gundren executed the day before.
+Patches confirmed and they decided to have some fun.
 
-The agent approached by Gundren is assisted as his buddy comes out of invisibility ready to fight.
+[[gundren-rockseeker|Gundren]] beelined to the closest agent tailing them, yelling a greeting and that the others would be seen to soon.
 
-Cirrus quickly casts a quick soothing Friends on them and the tension is diffused.
+A number of folk all scurried away, some even bumping into tables and dispelling their invisibility.
 
-jovially greeting their "friends", the group discovers that this tail is from The Stoneguard and are keeping an eye on such an interesting group of adventurers and surface dwellers.
+Patches spotted that one of the Derro scurrying away had the same earring as those she and [[gundren-rockseeker|Gundren]] had executed the day before.
 
-The group is told that if they were to visit The Overlake Hold, they would most likely be offered merc work.
+The agent approached by [[gundren-rockseeker|Gundren]] was assisted as his buddy came out of invisibility, ready to fight.
 
-They decline and then head off into the city, leaving the two agents behind with extra drinks, convincing them to stay behind.
+[[cirrus-al-kayan|Cirrus]] quickly cast a quick soothing Friends on them and the tension diffused.
 
-Heading out onto the street, Gundren snaps his fingers, remembering.
+Jovially greeting their friends, the group discovered that this tail was from the Stoneguard, keeping an eye on such an interesting group of adventurers and surface dwellers.
 
-he forgot to ask the Anvilthew for a supplier of Phase Spider chitin.
+The group was told that if they were to visit the Overlake Hold, they would most likely be offered merc work.
 
-Being in the Blade Bazaar now, Gundren figures someone might know and pulls out a couple gold coins, then yells into the crowded marketplace "Does anyone know where I can buy Phase Spider Chitin!".
+They declined and then headed off into the city, leaving the two agents behind with extra drinks and convincing them to stay behind.
 
-A number of figures all rush in and crowd around, Patches sees this and gets nervous, spotting several figures that set off alarms.
+## The Ambush
 
-Gundren hears from the press of people "Modo the Hunter has that!".
+Heading out onto the street, [[gundren-rockseeker|Gundren]] snapped his fingers, remembering.
 
-Gundren pays the one who mentioned Modo and most of the crowd disperses.
+He had forgotten to ask the Anvilthew for a supplier of Phase Spider Chitin.
 
-As Patches pushes forward to get to her companions, the Derro that were part of the crowd pull knives and rush forward to attack Gundren.
+Being in the Blade Bazaar now, [[gundren-rockseeker|Gundren]] figured someone might know and pulled out a couple gold coins, then yelled into the crowded marketplace "Does anyone know where I can buy Phase Spider Chitin?".
 
-Patches throws a flash bomb and calls a warning, and the street erupts into chaos...
+A number of figures rushed in and crowded around. Patches saw this and got nervous, spotting several figures that set off alarms.
 
-As people realize a fight is breaking out, people yell and begin running for safety.  From the crowd, almost twenty Derro attack the group.
+[[gundren-rockseeker|Gundren]] heard from the press of people "Modo the Hunter has that!".
 
-A volley of lightning bolts leap from the attackers, but Fey slams his staff down and ground them all before they can tear into the crowds of innocents.
+[[gundren-rockseeker|Gundren]] paid the one who mentioned Modo and most of the crowd dispersed.
 
-The next volley is not as easily dispersed and the group is burned by lances of electricity from four Derro Savants.
+As Patches pushed forward to get to her companions, the Derro that had been part of the crowd pulled knives and rushed forward to attack [[gundren-rockseeker|Gundren]].
 
-The other nearby Derro lash out, cutting and stabbing, hitting Cirrus and Fey with crossbow bolts.
+Patches threw a flash bomb and called a warning, and the street erupted into chaos.
 
-The group reacts quickly, Tark smashing skulls, Gwen leaving Derro mangled and Patches slashing and stabbing.
+As people realized a fight was breaking out, they yelled and began running for safety. From the crowd, almost twenty Derro attacked the group.
 
-A large swath of Derro simply fall dead as Cirrus causes a number of them to have aneurisms while Fey blasts several with firebolts.
+A volley of lightning bolts leapt from the attackers, but Fey slammed his staff down and grounded them all before they could tear into the crowds of innocents.
 
-A Smoke bomb is thrown and then a fireball gem immediately after, blasting one group into oblivion.
+The next volley was not as easily dispersed and the group was burned by lances of electricity from four Derro Savants.
 
-The Derro attackers are dead in seconds, though not before leaving the group burned and bloodied (well, some at least).
+The other nearby Derro lashed out, cutting and stabbing, hitting [[cirrus-al-kayan|Cirrus]] and Fey with crossbow bolts.
 
-The group sees Stoneguard rushing in to the area, though they are still a good thirty seconds away.
+The group reacted quickly, Tark smashing skulls, Gwen leaving Derro mangled and Patches slashing and stabbing.
 
-The corpses at the party's feet tremble and spasm and then reach out.
+A large swath of Derro simply fell dead as [[cirrus-al-kayan|Cirrus]] caused a number of them to have aneurysms while Fey blasted several with firebolts.
 
-The Derro all rise as zombies, quickly surrounding the group flailing, striking and clawing.
+A smoke bomb was thrown and then a fireball gem immediately after, blasting one group into oblivion.
 
-Fey goes down in a heap, but Patches rushes over, clearing the zombies and feeding her companion a healing potion.
+The Derro attackers were dead in seconds, though not before leaving the group burned and bloodied.
 
-Tark meanwhile begins to dismantle the dead around him.
+The group saw Stoneguard rushing into the area, still a good thirty seconds away.
 
-Gwen continues her impression of industrial accidents and Gundren blasts away with his Thundercannon.
+The corpses at the party's feet trembled and spasmed and then reached out.
 
-The group takes several more hits from the zombies but then quickly dismantle and destroy the walking cadavers in short order.
+The Derro all rose as zombies, quickly surrounding the group, flailing and striking and clawing.
 
-Breathing heavily, the group looks around at the blood drenched streets, the corpses now truly mangled and destroyed.
+Fey went down in a heap, but Patches rushed over, cleared the zombies and fed her companion a healing potion.
 
-The Stoneguard come to a halt, creating a perimeter and the captain approaches, congratulating the group at their prowess.
+Tark meanwhile began to dismantle the dead around him.
 
-Patches slips into a nearby building, climbing to the second level, avoiding the occupants.
+Gwen continued her impression of industrial accidents and [[gundren-rockseeker|Gundren]] blasted away with his Thundercannon.
 
-She climbs out the window and then leaps across the street to the other side, above the heads of the Stoneguard.
+The group took several more hits from the zombies but then quickly dismantled and destroyed the walking cadavers in short order.
 
-Climbing down the other building and slipping inside, she finds herself in a weapons shop.
+Breathing heavily, the group looked around at the blood-drenched streets, the corpses now truly mangled and destroyed.
 
-Patches quickly incapacitates the owner and then finds the nicest two items in the shop and steals them (an Adamantine Short Sword and a Dagger)
+The Stoneguard came to a halt, creating a perimeter, and the captain approached, congratulating the group on their prowess.
 
-Fey, Cirrus, Gundren and Tark begin to talk to the Stoneguard, who readily accepts their explanation (lots of witnesses).
+Patches slipped into a nearby building, climbing to the second level and avoiding the occupants.
 
-The group investigates quickly, noting the many earrings on the Derro that they believe match the Cult of Demogorgon.
+She climbed out the window and then leapt across the street to the other side, above the heads of the Stoneguard.
 
-Rising from the dead however is not really Demogorgon's MO though and Fey looks around.
+Climbing down the other building and slipping inside, she found herself in a weapons shop.
 
-Reaching out with his magic, Fey feels that no directed spell raised the Derro but that it was something else...
+Patches quickly incapacitated the owner and then found the nicest two items in the shop and stole them — an adamantine short sword and a dagger.
+
+Fey, [[cirrus-al-kayan|Cirrus]], [[gundren-rockseeker|Gundren]] and Tark began to talk to the Stoneguard, who readily accepted their explanation with plenty of witnesses to back it up.
+
+The group investigated quickly, noting the many earrings on the Derro that they believed matched the Cult of [[demogorgon|Demogorgon]].
+
+Rising from the dead however was not really [[demogorgon|Demogorgon]]'s approach and Fey looked around.
+
+Reaching out with his magic, Fey felt that no directed spell had raised the Derro — it was something else entirely.

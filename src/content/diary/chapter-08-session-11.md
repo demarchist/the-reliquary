@@ -1,8 +1,9 @@
 ---
-title: The Underdark - Session 11
+title: "The Underdark - The Prince Below"
 chapter: 8
 chapterTitle: The Underdark
 session: 11
+summary: "The Kuo-Toa civil war reached its bloody climax, with Tark diving into the altar melee to drag a would-be sacrifice clear — but it was what surfaced from the lake that ended the fighting, as something vast consumed the Froghemoth and sent both factions fleeing into the dark."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -33,166 +34,168 @@ factions:
   - "duergar-faction"
 ---
 
-**The Blood Ritual**
+## The Blood Ritual
 
-**​**The Kuo-Toa are slaughtering one another as both factions clash in the middle of the town.
+The Kuo-Toa slaughtered one another as both factions clashed in the middle of the town.
 
-As the smaller creatures are torn apart by the Whips and Monitors, blood begins to flow and turn the mud red.
+As the smaller creatures were torn apart by the Whips and Monitors, blood began to flow and turn the mud red.
 
-The waters of the Darklake begin to churn and froth red with blood as something beneath the waves feeds.
+The waters of the [[darklake|Darklake]] churned and frothed red as something beneath the waves fed.
 
-Indeed, many of the smaller cultists begin to leap into the waters, chanting "LEEMOOGOOLEEMOOGOO...", dipping beneath the frothing surf and not coming back.
+Many of the smaller cultists leapt into the waters, chanting "LEEMOOGOOLEEMOOGOO...", dipping beneath the frothing surf and not coming back.
 
-The large Froghemoth begins to wade toward the town and the smell of blood, through the churning waters, but stops and shudders as it turns its attention to something beneath the waves.
+The large Froghemoth waded toward the town and the smell of blood, through the churning waters, but stopped and shuddered as it turned its attention to something beneath the waves.
 
-Around the Shrine of the Deep father, the battle rages intensely with Ploop charging his daughter Blopp and engaging her atop the Shrine.
+Around the Shrine of the Deep Father, the battle raged intensely with Ploop charging his daughter Blopp and engaging her atop the Shrine.
 
-Doc B waves his staff in the air, calling forth to nature and creating a massive area of twisting seaweed in the dock area, slowing down the cultists.
+[[doc|Doc B]] waved his staff in the air, calling forth to nature and creating a massive area of twisting seaweed in the dock area, slowing down the cultists.
 
-Tark finishes off the Kuo-Toa in front of him and turns, hearing a deep guttural chuckle and sees the massive Kuo-Toa burning from Doc B's Moonbeam.
+[[tark|Tark]] finished off the Kuo-Toa in front of him and turned, hearing a deep guttural chuckle as a massive Kuo-Toa burned from Doc B's Moonbeam.
 
-The creature smiles and the grin splits it's head as the body erupts, tearing apart.
+The creature smiled and the grin split its head as the body erupted, tearing apart.
 
-In its place stands a massive 14ft tall Demon with four arms, two ending in massive pincers, with thick fur, scales and a long crocodilian tail. A Glabrezu.
+In its place stood a massive fourteen-foot demon with four arms, two ending in massive pincers, with thick fur, scales and a long crocodilian tail — a Glabrezu.
 
-The creature reaches out its smaller arms and a wash of Arcane energy hits the monk, stunning him.
+The creature reached out its smaller arms and a wash of arcane force hit [[tark|Tark]], staggering him.
 
-The great beast then moves to engage Patches, who had leapt over a Kuo-Toa to flank with Tark.
+The great beast then moved to engage [[patches|Patches]], who had leapt over a Kuo-Toa to flank with Tark.
 
-As it begins to battle Patches, a number of shells from Gundren slam into the beast, exploding.
+As it began to battle Patches, a number of shells from [[gundren-rockseeker|Gundren]] slammed into the beast, exploding.
 
-Patches hurls a smoke bomb into the demons face and coughing, it asks "WHY ARE YOU HERE!?", Patches responds "To kill assholes like you" and then calls upon the magic of her weapon.
+[[patches|Patches]] hurled a smoke bomb into the demon's face and, coughing, it demanded "WHY ARE YOU HERE?" Patches responded "To kill assholes like you" and called upon the magic of her weapon.
 
-Patches disappears and re-appears rapidly, slashing four targets (including the demon) before reappearing next to it, blood dripping from Eclipse.
+Patches disappeared and reappeared rapidly, slashing four targets — including the demon — before reappearing next to it, blood dripping from [[eclipse|Eclipse]].
 
-The demon lets out a pained roar...answered off above the darklake by the caws of Vrock demons flying in...
+The demon let out a pained roar, answered from above the [[darklake|Darklake]] by the caws of Vrock demons flying in.
 
-In the Southern section of the city, the Kuo-Toa are fighting side by side with Fey, Cirrus and JmJm, slaughtering the cultists.
+In the southern section of the city, the Kuo-Toa fought side by side with [[fey|Fey]], [[cirrus-al-kayan|Cirrus]] and JmJm, slaughtering the cultists.
 
-One small Kuo-Toa approaches Cirrus and asks him who they are, and why they are here.
+One small Kuo-Toa approached [[cirrus-al-kayan|Cirrus]] and asked him who they were and why they were there.
 
-Cirrus looks at the creature incredulously and basically ignores it, turning his attention back to the fight.
+Cirrus looked at the creature incredulously and ignored it, turning his attention back to the fight.
 
-The small creature ambles up to Ront and touches the Orc to get his attention, moments later, the two of them are chatting away in Orcish, Ronts eyes glazing over a little.
+The small creature ambled up to [[ront|Ront]] and touched the Orc to get his attention, and moments later the two of them were chatting away in Orcish, Ront's eyes glazing over a little.
 
-One of the massive Kuo-Toa the group met earlier, Gloog (Ploop's Son) lumbers over to Fey and Cirrus.
+One of the massive Kuo-Toa the group had met earlier — Gloog, Ploop's son — lumbered over to Fey and Cirrus.
 
-As it approaches, its form twists and ripples and then bursts, throwing gore across the area as another massive demon takes form. Another Glabrezu.
+As it approached, its form twisted and rippled and then burst, throwing gore across the area as another massive demon took form — another Glabrezu.
 
-This massive demon reaches out with a word of power and Fey'Anon is slammed with the stunning word.
+This massive demon reached out with a word of power and [[fey|Fey'Anon]] was slammed by the stunning word.
 
-Seeing the threat, JmJm decides its time to get to the boat.  He casts greater invisibility on Cirrus and then books it into one of the nearby buildings to get up to the second story bridges.
+Seeing the threat, JmJm decided it was time to get to the boat. He turned Cirrus invisible and then bolted into one of the nearby buildings to get up to the second-story bridges.
 
-Cirrus sees the massive Demon and decides he's having none of it and slams the creature with a volley of Eldritch blasts, throwing it thirty feet back and through one of the ramshackle dwellings.
+[[cirrus-al-kayan|Cirrus]] saw the massive demon and decided he was having none of it, slamming the creature with a volley of eldritch blasts that threw it thirty feet back through one of the ramshackle dwellings.
 
-It stands up and lets loose a massive roar...answered by the caws of Vrocks heading in from the darkness above.
+It stood up and let loose a massive roar, answered by the caws of Vrocks heading in from the darkness above.
 
-Shuushar rushes into the center of town, avoiding the demons.  He sees Ront talking with a Kuo-Toa and approaches, the small creature turning to converse with Shuushar.
+[[shuushar|Shuushar]] rushed into the center of town, avoiding the demons. He saw [[ront|Ront]] talking with a Kuo-Toa and approached, the small creature turning to converse.
 
-As they begin to talk, Shuushar shakes his head and the little creature reacts in astonishment, and then rips out of the flesh mask it was wearing.  The little Kuo-Toa revealed to be an Incubus demon.
+As they began to talk, Shuushar shook his head and the little creature reacted in astonishment, then ripped out of the flesh mask it was wearing — the little Kuo-Toa revealed to be an Incubus demon.
 
-Shuushar steps away from it just as the demon commands Ront to do its bidding, hitting Gundren with a volley of Eldritch blasts as the Dwarf tries to re-position to get eyes on the second Glabrezu.
+Shuushar stepped away from it just as the demon commanded [[ront|Ront]] to do its bidding, blasting [[gundren-rockseeker|Gundren]] with eldritch force as the Dwarf tried to reposition to get eyes on the second Glabrezu.
 
-Seeing the incubus though, Gundren switches targets and fires a volley into the demon, hurting it enough to cause it to flee into the mess of buildings, Ront following quickly behind.
+Seeing the incubus, [[gundren-rockseeker|Gundren]] switched targets and fired a volley into the demon, hurting it badly enough that it fled into the mess of buildings, [[ront|Ront]] following quickly behind.
 
-Snorbul rushes past Gundren, swearing in Undercommon that he's done with this craziness and begins to head for the boat.
+[[snorbul|Snorbul]] rushed past [[gundren-rockseeker|Gundren]], swearing in Undercommon that he was done with this craziness, and headed for the boat.
 
-Cirrus darts out to Eldritch blast the southern Glabrezu, smashing it back again.
+[[cirrus-al-kayan|Cirrus]] darted out to blast the southern Glabrezu, smashing it back again.
 
-Frustrated at the invisible Warlock, the demon growls and dispels the magic, just in time for the three Vrock demons to dive in to attack the Warlock...
+Frustrated at the invisible Warlock, the demon growled and dispelled the magic, just in time for three Vrock demons to dive in at Cirrus.
 
-Up north at the Docks things seem dire.
+## The Altar
 
-The Froghemoth flails, the water around it crimson with its own blood and the group sees a massive tentacle wrap around the behemoth and pull it beneath the waters.
+Up north at the docks things seemed dire.
 
-The three vrock flying in let out a cacophany of roars, to which Doc B responds with a spell of Confusion.
+The Froghemoth flailed, the water around it crimson with its own blood, and the group watched as a massive tentacle wrapped around the behemoth and pulled it beneath the waters.
 
-Two of the flying demons are addled and fly in circles, but the third descends toward the Altar of the Deep Father.
+The three Vrocks flying in let out a cacophony of roars, to which [[doc|Doc B]] responded with a spell of Confusion.
 
-The Glabrezu near the altar stumbles and falls to one knee as the combined might of Patches and Tark take their toll, the monk hitting it repeatedly, silencing it and extracting information from its Ki.
+Two of the flying demons flew in addled circles, but the third descended toward the Altar of the Deep Father.
 
-As the Glabrezu falls, dying, it stares at Tark in confusion saying "No Mortal knows how to do that..." referring to the Monk's ability to extract information.
+The Glabrezu near the altar stumbled and fell to one knee as the combined efforts of [[patches|Patches]] and [[tark|Tark]] took their toll, the monk striking it repeatedly until it fell silent.
 
-The great beast dies, which frees the monk and rogue to turn their attention to the Altar of the Deep father.
+As the Glabrezu died, it stared at [[tark|Tark]] in confusion, rasping "No mortal knows how to do that..." before its eyes went dark.
 
-Tark leaps atop the splayed out, bloody Manta just in time to stop Ploop from killing his own daughter atop it.  In a flash of insight, Tark realizes what is happening; this whole conflict is a massive blood sacrifice and killing a target atop the altar right now would complete it.
+[[tark|Tark]] and [[patches|Patches]] turned their attention to the Altar of the Deep Father.
 
-Tark tries to reason with Ploop, but the Kuo-Toa is not convinced, forcing Tark to knock both he and his daughter out and then pull them from the altar.
+Tark leapt atop the splayed, blood-soaked Manta just in time to stop Ploop from killing his own daughter upon it. In a flash of insight, Tark understood what was happening — this entire conflict was a massive blood sacrifice, and a killing atop the altar right now would complete the ritual.
 
-Patches rushes over to Mr. Pickles as one of the Vrocks descends on the crafty Goblin but is stopped...
+Tark tried to reason with Ploop, but the Kuo-Toa was not convinced. Tark knocked both father and daughter unconscious and pulled them clear of the altar.
 
-As she rushes forward, three monstrous tentacles erupt from the waters, slithering onto the land in search of prey.
+[[patches|Patches]] rushed toward Mr. Pickles as one of the Vrocks descended on the crafty Goblin — but was stopped short as three monstrous tentacles erupted from the waters, slithering onto the land in search of prey.
 
-Not wasting a moment, Patches quickly climbs a nearby building and then leaps atop the closest, stabbing the thing with her poisoned Luck Blade. 
+Not wasting a moment, Patches climbed a nearby building and leapt atop the closest tentacle, stabbing the thing with her poisoned [[luck-blade|Luck Blade]].
 
-The tentacle hisses and shrieks, retreating into the water quickly in a spray of water and blood.
+The tentacle hissed and shrank back into the water in a spray of blood and foam.
 
-Across the harbor, the small bat that was Hemeth (the Duergar merchant) tumbles over itself and he regains his humanoid form.
+Across the harbor, the small bat that had been [[hemeth|Hemeth]] — the Duergar merchant — tumbled over itself and regained his humanoid form.
 
-Now on his boat, he looks at the melee and carnage before changing his gaze to look for something.  Spotting it, he calls out to Patches "HEY! I NEED ME COAL!".
+Now on his boat, he looked over the melee and carnage before his gaze settled on something he needed. He called out to [[patches|Patches]]: "HEY! I NEED ME COAL!"
 
-Seeing that everyone is busy battling demons, Hemeth sighs and hops off his boat, rushing toward the barrel of coal on the shoreline.
+Seeing that everyone was busy battling demons, [[hemeth|Hemeth]] sighed, hopped off his boat, and rushed toward the barrel of coal on the shoreline.
 
-JmJm is rushing over the bridges and spots the Duergar begin to haul the massive barrel and leaps down to assist.
+JmJm was crossing the bridges overhead and spotted the Duergar hauling the massive barrel. He leapt down to assist.
 
-They begin to make good speed with it, even through the plant growth of sea weed, just as another tentacle erupts from the water near them...
+They made good speed with it even through the seaweed, just as another tentacle erupted from the water nearby.
 
-Over by the altar, another tentacle slithers up and grasps a smaller cultist, crushing it and using its tusks and teeth that go the length of the tendril to pass the meat down and into the water.
+Over by the altar, a tentacle slithered up and grasped a smaller cultist, crushing it and using the teeth lining its length to pass the meat down into the water.
 
-Down south , Cirrus is surrounded by demons and each lets out a magically enhanced screech, puff of spores or rakes at him with talons.  Selune protects Cirrus from all of it.
+Down south, [[cirrus-al-kayan|Cirrus]] was surrounded by demons as each let out a magically enhanced screech, puffed clouds of spores, or raked at him with talons. Selune's protection turned them all aside.
 
-Fey shakes off the Glabrezu's stunning word and sees his friend in trouble.  He calls on the power of his staff and a wall of encircling ice erupts to protect the Warlock and push the Vrock demons back.
+[[fey|Fey]] shook off the Glabrezu's stunning word and saw his friend in trouble. He called on the power of his staff and a wall of encircling ice erupted to protect the Warlock and push the Vrock demons back.
 
-As Fey looks over the demonic incursion, he feels the rising blood magic and the ritual being enacted here and he realizes what it is.  These demons are servants of Demogorgon and they are attempting to awaken something beneath the waves of the Darklake.  They have been preparing this spell for weeks and the conflict is most likely engineered to create as much bloodshed as possible.  The only thing to set it off now, is a sacrifice atop the altar itself...
+As [[fey|Fey]] looked over the demonic incursion, he felt the rising blood magic and understood what it was — these demons were servants of [[demogorgon|Demogorgon]], attempting to awaken something beneath the waves of the [[darklake|Darklake]]. They had been preparing this ritual for weeks, and the conflict had been engineered to create as much bloodshed as possible. The only thing needed to complete it was a sacrifice atop the altar.
 
-Gundren sees the Glabrezu and pumps a number of shots into the creature, damaging it badly.  So badly in fact that it looks around at the battle and decides that flight is its best option.
+[[gundren-rockseeker|Gundren]] pumped a number of shots into the southern Glabrezu, damaging it badly enough that it looked around at the battle and decided that flight was its best option.
 
-The Glabrezu, Incubus and Ront all slink away into the mess of ramshackle structures, abandoning the battle.
+The Glabrezu, the Incubus, and [[ront|Ront]] all slipped away into the mess of ramshackle structures, abandoning the fight.
 
-The Vrock demons however, pushed back from the Warlock by the wall of ice, turn and see the Dwarf and his fiery cannon.
+The Vrock demons, pushed back from the Warlock by the wall of ice, turned and saw the Dwarf and his fiery cannon.
 
-The Vrocks fly in to rush the Dwarf, surrounding him quickly.
+The Vrocks flew in and surrounded [[gundren-rockseeker|Gundren]] quickly.
 
-One peels off, seeing that the Kuo-Toa and Shuushar have surrounded the Idol of the Sea Mother and begun to pray.  As it moves in to slaughter the helpless fish-men, it seems to hesitate and grow frustrated, the spell of sanctuary emanating from the meditating Kuo-Toa pushing it back.
+One peeled off, seeing that the Kuo-Toa and [[shuushar|Shuushar]] had gathered around the Idol of the Sea Mother and begun to pray. As it moved in to slaughter the helpless fish-men, it seemed to hesitate and grow frustrated, the sanctuary emanating from the meditating Kuo-Toa pushing it back.
 
-Cirrus meanwhile Farsteps from the Ice wall and hides in a nearby building, darting out to pop off blasts but finds all the targets are gone.  Walking around the nearby building, he sees Gundren in a tight spot, the Dwarf being raked by claws, and blasts one of the Vrocks away, through a nearby building.
+[[cirrus-al-kayan|Cirrus]] stepped from the ice wall and took cover in a nearby building, darting out to blast — but found all the targets were gone. Walking around the corner, he saw [[gundren-rockseeker|Gundren]] in a tight spot, the Dwarf being raked by claws, and blasted one of the Vrocks through a nearby wall.
 
-Between the two of them, they start seriously damaging the demons.
+Between the two of them, they started seriously damaging the demons.
 
-One of the Vrocks is smashed out of one of the buildings, near the Shrine to the Deep father, it sees that no sacrifice has happened upon the altar and decides to fix that with the one Vrock nearby.
+One of the Vrocks was smashed out of a building near the Shrine to the Deep Father. Seeing that no sacrifice had fallen on the altar, it decided to fix that — grabbing one of the last surviving Kuo-Toa and hauling it upward.
 
-Grabbing one of the last Kuo-Toa, the Vrock hauls it on the altar, only for Tark to shove it off and kick the demon in the face.
+[[tark|Tark]] shoved the Kuo-Toa off the altar and kicked the demon in the face.
 
-It stumbles back and grabs the Fish-man again and leaps into the air, soaring up sixty feet to drop the body and break it upon the altar.
+The Vrock stumbled back, grabbed the fish-man again, and leapt into the air, soaring sixty feet up to drop the body onto the altar below.
 
-Tark Shadowsteps into the sky with a flying kick, killing and launching the potential sacrifice out to the water.
+[[tark|Tark]] stepped through shadow into the sky in a flying kick, killing the Vrock and launching the would-be sacrifice clear out over the water.
 
-From his vantage point, he sees JmJm and Hemeth hauling the barrel of coal away from the tentacles and launch the coal up onto the boat as Fey makes it magically lighter.
+From his vantage point, he saw JmJm and [[hemeth|Hemeth]] hauling the barrel of coal away from the tentacles and flinging the coal up onto the boat as [[fey|Fey]] lightened it magically.
 
-With the demons, tentacles and cultists being fast annihilated and the spell remaining unfinished...the remaining tentacles slither back into the water, the Blood Ritual's energy diminishing.
+## The Retreat
 
-The surviving demons feel their moment slipping away and take flight, soaring up and out of sight into the darkness...
+With the demons, tentacles, and cultists fast being annihilated and the ritual still unfinished, the remaining tentacles slithered back into the water. The blood ritual's energy began to fade.
 
-The  center of the town is in ruins with blood and viscera everywhere, but the ritual was not completed, the beast in the water still slumbers.
+The surviving demons felt their moment slipping away and took flight, soaring up and out of sight into the darkness.
 
-Gundren stomps off to go collect their treasure promised to him by Ploop while Cirrus spots something interesting in the building he took shelter in; more treasure chests.
+The center of the town was in ruins, blood and viscera everywhere, but the ritual had not been completed. The beast in the water still slumbered.
 
-Cirrus goes through them, realizing it to be tribute amassed by the cultists and calls over Patches to assist in gathering it up.
+[[gundren-rockseeker|Gundren]] stomped off to collect the treasure Ploop had promised, while [[cirrus-al-kayan|Cirrus]] spotted something interesting in the building he had taken shelter in — more tribute chests.
 
-On the Duergar barge, the ship rumbles to life, belching smoke and JmJm leans against the railing, calling for everyone to hurry up.
+Cirrus went through them, finding it to be tribute amassed by the cultists, and called [[patches|Patches]] over to help carry it out.
 
-The rest of the group gathers around the altar to the Deep Father though, adamant that they figure out what just happened.
+On the Duergar barge, the ship rumbled to life, belching smoke. JmJm leaned against the railing and called for everyone to hurry up.
 
-Fey'Anon begins to blast the Altar apart and explains the ritual and what they just avoided; The creature beneath the waves still slumbers, the tentacles were summoned constructs as a part of the ritual to consume the town.
+The rest of the group gathered around the altar to the Deep Father, determined to understand what had just happened.
 
-For confirmation, Doc B heads over to the bloody shoreline and spots a swarm of Quippers finishing stripping a corpse of flesh.  He asks the carnivorous fish about what lives in the depths here.  Being simple fish, they respond as best they can, that a great creature slumbers nearby, off the shore and that they avoid the area.
+[[fey|Fey'Anon]] blasted the altar apart and explained the ritual and what they had just avoided: the creature beneath the waves still slumbered, and the tentacles had been summoned constructs, part of the ritual meant to consume the town.
 
-Doc heads back to the meeting and relays the information and also mentions to an approaching Shuushar that the Plant Growth, if maintained over the next eight hours, will cause all plants in a half mile radius to become prolific and enriched.  The Kuo-Toa thanks the druid.
+For confirmation, [[doc|Doc B]] headed to the bloody shoreline and found a swarm of Quippers finishing stripping a corpse of flesh. He asked the carnivorous fish about what lived in the depths. Being simple fish, they answered as best they could — a great creature slumbered nearby, off the shore, and they avoided the area.
 
-The discussion on what to do next continues, with Tark wondering why on earth they would still take the lake after what they just saw.
+Doc headed back and relayed the information. He also mentioned to an approaching [[shuushar|Shuushar]] that the seaweed growth, if maintained over the next eight hours, would cause all plants in a half-mile radius to become prolific and enriched. The Kuo-Toa thanked the druid.
 
-Patches responds that even after what just happened, there's just as many dark and dangerous things in the tunnels, but the lake is a much more direct route to Gracksuluth.
+The discussion on what to do next continued, [[tark|Tark]] questioning why on earth they would still take the lake after what they had just seen.
 
-The group decide that the extra time circumventing the Darklake coupled with the likely possibility of Drow Pursuit is worth risking the dangers of the Darklake
+[[patches|Patches]] answered that even after everything, there were just as many dark and dangerous things in the tunnels — and the lake was a much more direct route to [[gracksuluth|Gracksuluth]].
 
-They head toward Hemeth's ship to discuss things with the Duergar merchant…
+The group decided that the time saved on the [[darklake|Darklake]] was worth the risk, given the near certainty of Drow pursuit in the tunnels.
+
+They headed toward [[hemeth|Hemeth]]'s ship to discuss arrangements with the Duergar merchant.

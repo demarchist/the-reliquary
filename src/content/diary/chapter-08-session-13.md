@@ -1,8 +1,9 @@
 ---
-title: The Underdark - Session 13
+title: "The Underdark - The Duergar Locks"
 chapter: 8
 chapterTitle: The Underdark
 session: 13
+summary: "The Netherese mummy fought them twice — in the outer tomb and again as it fled — before the sarcophagus chamber revealed a resting Stone Golem and the Duergar Locks opened into a neutral trading space with its own rough politics, and a distant Illithid nautiloid cast its shadow across the common room."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -31,174 +32,134 @@ factions:
   - "netherese"
 ---
 
-**Mummies and Locks**
+## The Mummy
 
-The mummy rises from the sarcophagus, ornately wrapped and covered in riches...and wielding a large, ornate axe.
+The mummy rose from the sarcophagus, ornately wrapped and covered in riches, wielding a large ornate axe.
 
-The mummy brethlessley rasps out in ancient Netherese that it "needs to feed".
+It rasped out in ancient Netherese that it needed to feed.
 
-Tark agrees that he could eat too, and leaps in to engage the creature.
+[[tarkathee-daru|Tark]] agreed that he could eat too, and leapt in to engage it.
 
-Tark strikes the creature and it lets out a horrible shriek, the dark energy stunning Cirrus and it retaliates against Tark, slamming him with a wrapped fist.
+He struck the creature and it let out a horrible shriek, the dark energy stunning [[cirrus-al-kayan|Cirrus]], and it retaliated against [[tarkathee-daru|Tark]], slamming him with a wrapped fist. [[tarkathee-daru|Tark]] staggered from the powerful blow, a bloody welt rising instantly. Worse, he felt an insidious energy take hold, sapping his strength.
 
-Tark is staggered from the powerful blow, a bloody welt rising almost instantly.  Worse though, Tark feels an insidious energy take hold of him, sapping his strength.
+[[gundren-rockseeker|Gundren]] followed up with point-blank shots and was struck in return, hit just as hard as [[tarkathee-daru|Tark]].
 
-Gundren follows up with some point blank shots and is retaliated against as well, hit just as hard as Tark.
+As the mummy moved, [[aliyah-faen-tlabbar|Patches]] dropped Darkness over the back half of the chamber and rushed into it.
 
-As the mummy moves, Patches drops Darkness over the back half of the chamber and rushes into the Darkness.
+As she went, the shadows of the room came to answer their master's call — shades rising to attack.
 
-As the Drow goes, the shadows of the room come to answer their master's call, shades rising to attack.
+The shadows rushed in at [[aliyah-faen-tlabbar|Patches]] and [[feanon-serinde|Fëanon]], but could not get through their defenses. One of them was confused by [[feanon-serinde|Fëanon]] and struck its companion.
 
-The shadows rush in at Patches and Fey, but are unable to get through their defenses, one of the shadows being confused by Fey and striking its friend.
+Fire, fists, and shots hit the mummy and it howled in anger. Millions of biting insects erupted from all the gaps in its linen wrappings, filling the chamber.
 
-Firebolts, fists and shots hit the Mummy and it howls in anger, millions of biting insects erupting from all the gaps in its linen wrappings and filling the chamber with the biting things.
+The shadows were quickly destroyed and the mummy was taking heavy damage, its ornate wrappings burning. [[cirrus-al-kayan|Cirrus]] shook off the stun, took his staff in both hands, and struck the creature a mighty blow — tearing the wrappings from its face and revealing a long-dead visage.
 
-As the two sides exchange blows, the Shadows are quickly killed and the mummy is taking heavy damage, the ornate wrappings burning from repeated strikes.
+[[tarkathee-daru|Tark]] silenced the room, noting the danger of the creature's shrieks.
 
-Shaking off the stun, Cirrus takes his staff in two hands and strikes the creature a mighty blow, tearing the wrappings from its face and revealing a long dead visage.
+The mummy erupted into a mass of swirling sand, blinded everyone, and fled the chamber, the dust slipping through the cracks of the spinning wall section they had entered by.
 
-Tark silences the room, noting the dangerous shrieks of the creature.
+[[feanon-serinde|Fëanon]] turned and clicked the switch, rotating the wall section, and saw the mummy stumbling down the hall trying to escape. He dropped a fireball on it. The conflagration blackened and cracked some of the stone.
 
-The creature erupts into a mass of swirling sands, blinding everyone and then fleeing the chamber, the dust and sand slipping through the cracks of the spinning wall section used to enter the hidden chamber.
+The mummy roared, engulfed in fire, then dissipated quickly. The enraged creature turned and cast Hold Person on the wizard, paralyzing him in place.
 
-Fey turns and clicks the switch, rotating the wall section and seeing the Mummy stumbling down the hall, trying to leave.  He drops a fireball on the creature, the conflagration blackening and cracking some of the stone.
+It hesitated — a victim it could easily feed on.
 
-The Mummy roars, engulfed in fire, though it dissipates quickly.  The enraged creature turns and casts Hold Person on the wizard, paralyzing him in place.
+Too late. The wall spun, taking the wizard away and leaving [[gundren-rockseeker|Gundren]] in his place, cannon ignited. Three shots later and the mummy's arm had been blown off, scattered across the floor.
 
-The mummy hesitates, seeing a victim it could easily feed on.
+It fled into the darkness of the crypt.
 
-Too late though, the wall spins, taking the wizard away and leaving Gundren in his place, cannon ignited.  Three shots later and the mummy's arm has been blown off, bits scattered.
+[[tarkathee-daru|Tark]] spun the wall himself and rushed in pursuit. He found it heading down a hallway the group had yet to check, shadowstepped to it, and punched it square in the chest. The desiccated corpse exploded into pieces.
 
-It rushes away, fleeing into the darkness of the crypt.
+The last words [[tarkathee-daru|Tark]] heard from the creature, in ancient Netherese, were *"I just want to liiiiiive..."*
 
-Tark spins the wall himself, rushing in pursuit.  He sees it heading down the hallway the group has yet to check and shadowsteps to it, punching it square in the chest, the dessicated corpse exploding into pieces.
+[[gundren-rockseeker|Gundren]] walked over and began rifling through the remains. [[aliyah-faen-tlabbar|Patches]] showed up moments later and the two of them stripped it clean.
 
-The last words Tark hears from the creature, in ancient Netherese, is "I just want to liiiiiive...."
+[[feanon-serinde|Fëanon]] confirmed the creature was destroyed and returned to the sarcophagus room with [[cirrus-al-kayan|Cirrus]]. [[gundren-rockseeker|Gundren]] joined them shortly after. Between them, they looted the invisible chest, taking the three items within: a human heart encased in an egg of amber and gold, a Philter of Love, and a Lantern of Revealing, which [[feanon-serinde|Fëanon]] promptly affixed to the top of his staff.
 
-Gunren walks over and begins rifling through the remains, Patches showing up moments later and the two of them strip it clean of any valuables.
+[[gundren-rockseeker|Gundren]] stripped the sarcophagus interior of its gold lining.
 
-Fey confirms the creature destroyed and then returns to the sarcophagus room with Cirrus, intent on looking it over for riches.
+The group headed out to investigate the tunnel the mummy had been fleeing down.
 
-The two of them investigate the room, Gundren showing up a little while later.  Between them, they loot the invisible chest, taking the three items within: A human heart encased in an egg of amber and gold, a Philter of Love and a Lantern of Revealing (promptly affixed to the top of Fey's staff).
+## The Stone Golem
 
-Gundren strips the sarcophagus interior of its gold lining and the group heads out to investigate the tunnel the Mummy was heading down.
+They found a large set of double doors at the end of the passage — ancient copper coating long since oxidized green — and pushed them open.
 
-Finding a large set of double doors, ancient, the copper coating long since oxidized to green, and open them.
+Inside was a large, plain chamber filled with pottery and simple offerings, a massive stone sarcophagus at the center.
 
-They find a large, plain chamber filled with pottery and simple offerings, a massive stone sarcophagus in the center.
+The group fanned out warily.
 
-Wary, the group fans out to investigate, suspecting foul play.
+The sarcophagus was not a sarcophagus. It was a resting Stone Golem. The group backed off, wondering if they could somehow take control of it without a control tablet.
 
-Sure enough, the sarcophagus is actually a resting Stone Golem.  The group backs off, wondering if they could somehow take control of the inactive Golem.
+Not finding any tablets, [[feanon-serinde|Fëanon]] picked up a stone from the tomb floor — a simple anchor for a later return — and the group headed out.
 
-Not seeing any control tablets, Fey picks up a stone from the tomb, so he can easily return later.
+They made it back to the secured rope and descended to the ship, [[hemeth|Hemeth]], [[doc|Doc]], [[snorbul|Snorbul]], and [[jack-mayer-johnson-mathews|JmJm]] waiting below.
 
-The group heads out of the tomb and to the secured rope and begin to descend back to the boat, Hemeth, Doc, Snorbul and JmJm.
+[[hemeth|Hemeth]] mentioned the bard had killed a Bullywug while they were away, but that otherwise it had been relaxed. The Duergar asked for his cut of the take from above. The lump of gold pried from the sarcophagus was dumped at his feet. His eyes lit up and he took it below to lock away.
 
-They make it to the ground easily and ask if they missed anything.
+[[tarkathee-daru|Tark]] and [[gundren-rockseeker|Gundren]] were still suffering the mummy's curse. [[cirrus-al-kayan|Cirrus]] had [[gundren-rockseeker|Gundren]] crush a beautiful diamond for the dust and cast Greater Restoration. Both curses lifted. The boat steamed away from the rock column and back into the [[darklake|Darklake]].
 
-Hemeth mentions the bard killed a Bullywug, a nasty frog-creature but other than that it was pretty relaxing.  The Duergar asks for his cut of the take above and the lump of gold pried from the sarcophagus is dumped at his feet aboard the ship.
+## The First Lock
 
-Hemeth's eyes light up and he takes the gold down to his chambers to be locked away.
+After a short rest and an uneventful journey, [[hemeth|Hemeth]]'s ship coasted to a halt by a large blank rock wall.
 
-Tark and Gundren are still both feeling terrible from the Mummy curse and Cirrus has Gundren crush a beautiful diamond for the dust for the spell.
+[[aliyah-faen-tlabbar|Patches]] felt eyes on them from fortifications she could not see. [[hemeth|Hemeth]] had the group flash a signal with a small hooded lantern — [[tarkathee-daru|Tark]] messing up the pattern a few times — and with a groaning creak, the rock wall parted and swung outward, revealing a carved canal cut directly into the stone.
 
-The curses lifted via Greater Restoration, the boat steams away from the tomb and the rock column, into the darkness of the lake.
+[[hemeth|Hemeth]] brought the ship in.
 
-The group takes a short rest, taking turns on lookout for Hemeth and they have an uneventful journey to the first of the Duergar Locks.
+A few minutes of sailing straight and the ship exited the snug tunnel into a larger carved chamber — the Lock itself.
 
-While underway, the group disguises Gundren to look like a Duergar per Hemeth's suggestion.
+The group looked from the deck at Duergar engineering: a massive chamber carved from stone, creating a pool large enough for several ships. Fortifications lined the inside floor to ceiling at each corner. The far wall held docks and windows and features, a fort built into the stone. Diagonally opposite from the entrance was a large metal gate, floor to ceiling. [[hemeth|Hemeth]] pointed it out as the water-elevator.
 
-Though he has not been openly hostile, Hemeth has made numerous remarks about the "blood traitor" and the group knows bringing a surface Dwarf into a Duergar stronghold might cause some issues...
+The boat trundles into port. [[hemeth|Hemeth]] threw lines to the dock hands to secure the ship.
 
-The boat coasts to a standstill by a large rock wall.
+With the ship secure, the group disembarked and headed into the common area [[hemeth|Hemeth]] had pointed out while he logged the ship with the Dockmaster.
 
-Patches can feel eyes on them but cannot see the fortifications she knows are in the wall.
+The group entered the fort common room through open doors, a crackling hearth inviting them inside. They ordered a massive meal — Rothe Stew, crab dumplings, Darklake Stout — and spent a few good trades with the Duergar running the common room, picking up two kegs of stout and eleven bottles of Drow Wine, with [[aliyah-faen-tlabbar|Patches]] sampling one to confirm its quality.
 
-Hemeth has the group flash a signal with a small hooded lantern (despite Tark messing up a few times) and with a groaning creak, the rock wall begins to part and swing outwards, revealing a carven canal directly into the stone.
+[[hemeth|Hemeth]] joined them shortly and dug in himself. Business had been slow recently, he told them — fewer boats, minor demon attacks. Last week a Drow passing through had tried to knife someone for no apparent reason and been dealt with.
 
-Hemeth brings the ship into the water channel.
+Seeing the Lock as a potential safe haven, the group mulled over spending the night, but decided to press on. They finished their meal and headed back to the ship, paying the tariff and dropping copper into the collection slot.
 
-A few minutes of sailing straight and the ship exits the snug tunnel out into a larger carved chamber - the Lock.
+The metal gates creaked open and [[hemeth|Hemeth]] pulled the ship in. The gates closed behind, sealing the ship in absolute darkness. With darkvision, the group watched the blank stone walls begin to move as the water level inside the chamber dropped.
 
-The group looks from the deck at the Duergar engineering, a massive chamber carved from the stone, creating a large pool of water large enough for several ships.
+Minutes of descent turned into over an hour, the ship dropping hundreds of feet until another set of metal gates resolved itself from the falling water.
 
-Fortifications line the inside of the chamber, floor to ceiling "towers" at each corner of the very square chamber.
+When the water level stopped, the great gates opened, revealing an identical fortress on the far side — also devoid of ships.
 
-The far wall, where docks have been constructed, shows numerous windows and features, a fort built into the walls of the stone here.
+[[hemeth|Hemeth]] took the ship out without stopping.
 
-Diagonally opposite from the entrance to this hidden fortress is a large metal gate, floor to ceiling.  Hemeth points it out as the water-elevator.
+## The Second Lock
 
-The boat trundles into port and Hemeth throws the dock hands the lines to secure the ship.
+The section of the [[darklake|Darklake]] below the first lock was cramped and claustrophobic, the ceiling sometimes dropping so low the top of the ship scraped stone.
 
-With the ship secure, the group disembarks and head into the common area pointed out by Hemeth while he logs the ship with the Dockmaster.
+Working in shifts over the following hours, the group took a long rest, mooring by a large squat rock pillar to give [[hemeth|Hemeth]] some sleep.
 
-The group enter the fort common room through a large set of open doors, a crackling hearth inviting them inside.
+While resting, [[gundren-rockseeker|Gundren]] approached [[cirrus-al-kayan|Cirrus]] with the mummy's axe and offered it to the warlock as a gift to Selune.
 
-Taking a seat the group orders a massive meal of Rothe Stew, Crab dumplings and wash it down with Darklake Stout.
+Surprised at the gesture from the cantankerous dwarf, [[cirrus-al-kayan|Cirrus]] took the axe and began a small ritual. He and the axe were washed over by celestial energy and the axe faded, leaving behind a small, perfect pearl. [[cirrus-al-kayan|Cirrus]] picked it up — an Ioun Stone of Non-detection. The small pearl settled into orbit around his head like a tiny moon.
 
-Haggling with the Duergar running the common room, a few good trades are made - the group picking up 2 kegs of Darklake Stout and eleven bottles of Drow Wine (Patches sampling one to make sure its good).
+The rest of the day's travel passed without incident. No wildlife, no noise other than the ship's paddles and the soft glow of bioluminescence.
 
-Hemeth joins them not long after and digs in himself, the group having ordered a truly impressive amount of food.
+After many hours, [[hemeth|Hemeth]] brought the ship to a halt in front of another blank rock wall and had the group repeat the signals. The outer gate opened and the ship pulled in.
 
-Turns out that business has been slow recently with fewer boats and minor demon attacks.  Last week a Drow passing through tried to knife someone for no apparent reason and was dealt with.
+Entering the main pool of the second Lock, the group saw they were not alone. Two other ships were waiting: a ramshackle Kuo-Toa boat, the fishmen crowding the deck. And something stranger — a vessel that looked more like a living, giant squid.
 
-Seeing the Duergar Locks as a potential safe spot, they mull over spending the night, but decide to press on instead, the Lock being ready within the hour.
+An Illithid craft.
 
-The group finish their meal (Tark having significantly over paid) and head back to the ship, paying the tariff and dropping a few copper into the collection slot of the common room.
+[[feanon-serinde|Fëanon]] felt two psionic minds reaching out — one from the ship, one from the fort. They were aware of him. They radiated subtle curiosity.
 
-Before long, the metal gates of the Lock creak open and Hemeth pulls the ship in, the gates closing behind and sealing the ship in absolute darkness.
+As [[hemeth|Hemeth]]'s vessel docked, [[aliyah-faen-tlabbar|Patches]] re-applied [[gundren-rockseeker|Gundren]]'s Duergar disguise. They briefly discussed boarding the Illithid vessel, but [[feanon-serinde|Fëanon]] reminded them it was alive, and occupied. Probably not the best idea.
 
-With their Darkvision, the group sees the blank stone walls of the Lock begin to move as the water level in the chamber begins to drop.  
+They left the living vessel alone and headed into the common room.
 
-Minutes of descent turn into over an hour, the ship dropping hundreds of feet until finally, another metal gate resolves itself from the dropping water level.
+A table of Kuo-Toa crowded with food, the fish men eating and rotating out with others from their boat. More interestingly, an Illithid stood in front of the crackling fireplace, warming one of its strange three-fingered hands.
 
-When the water level stops changing, the great gates groan open, revealing an identical fortress (also devoid of ships).
+[[gundren-rockseeker|Gundren]] approached it and asked, directly, whether it was planning on enslaving anyone in the fort today.
 
-Not wanting to tarry, Hemeth takes the ship out of the Locks and back onto the Darklake.
+The creature telepathically sighed and replied that of course all inferior races would eventually bow before them — but not today.
 
-Heading out from the Duergar fortifications, the group enters a watery chamber far different from the one above.
+[[gundren-rockseeker|Gundren]] chuckled and headed back to the group just as the Duergar lock captain approached [[hemeth|Hemeth]]'s table, leaning in to whisper.
 
-Where the cave holding Sloodublop was massive, vaulted, beyond sight, this new section of the waterways is cramped and claustrophobic, the ceiling sometimes coming so low that the top of the ship scrapes the stone.
+[[tarkathee-daru|Tark]] and [[aliyah-faen-tlabbar|Patches]] could hear him clearly: *"Hey lad, quite a few surfacers on your boat — might be that you need to pay the transport tax in advance today. It would be a real shame to have to do a full inspection of your vessel, wouldn't it?"*
 
-The party knows the drill and for the next few hours maintain an effective lookout.
-
-Working in shifts the group begin to take a long rest, but eventually moor the boat by a large, but squat, rock pillar allowing Hemeth a rest.
-
-While resting, Gundren approaches Cirrus with the Mummy's axe and offers it to the Warlock, as a gift to Selune.
-
-Surprised by the gift from the cantankerous Dwarf, Cirrus takes the axe and begins a small ritual.
-
-Amazingly, Cirrus and the axe are washed over by celestial energy and the axe fades, leaving behind a small perfect pearl.
-
-Cirrus picks up the pearl, feeling an urge to use it - an Ioun stone of Non-detection.  The small pearl looks like a tiny moon orbiting the Warlocks head.
-
-The rest, and indeed the rest of the following day travelling go by without issue, not seeing anything of note.  The lack of wildlife, or noise of any kind other than the ship being almost disconcerting as it paddles through absolute darkness and the soft glow of bio luminescence.
-
-After many hours, Hemeth brings the ship to a halt in front of another seemingly blank rock wall and has the group repeat the signals from before.  The Duergar Lock opens its outer gate and the ship pulls in.
-
-Entering the main pool of this second Lock the group sees that here, they are not alone.  Two ships are waiting for the locks in addition to their own: A ramshackle Kuo-Toa boat, the fishmen crowding the ship.  
-
-The other boat though is...strange and indeed, looks more like a living, giant squid.  An Illithid craft.
-
-Fey feels two psionic minds, one from the ship and one from the Fort.  They are aware of him and radiate subtle curiosity.
-
-As Hemeth's vessel is docked, the Patches re-applies Gundren's Duergar disguise.
-
-They also quickly discuss boarding the Illithid vessel, but Fey tells them its alive, and occupied.  Probably not the best idea...
-
-They ignore the living vessel (for now) and head into the common room of the fort.
-
-The group sits at a large table and begin to order food and drink.  Unlike the last Lock, they are not alone with the Duergar guards here.  A table of Kuo-Toa is crowded and covered in food, the fish men eating their fill and then rotating out with others from their boat.
-
-More interestingly though is the Illithid standing in front of the crackling fireplace, warming its strange three fingered hand.
-
-Gundren approaches the creature, wondering if they should attack the mindflayer, and asks it if its planning on enslaving anyone there.
-
-The creature telepathically sighs and tells the Dwarf that of course, all the inferior races will bow before them...but not today.
-
-Gundren chuckles and heads back to the group, just as Hemeth joins them from logging the boat in with the Dockmaster.
-
-As they enjoy their meal, a burly Duergar in heavy splintmail with a large emblem of a hammer on his breast approaches Hemeth.  With the firelight shining from his bald head and his large white beard tucked into his tunic, the Duergar leans in to whisper to Hemeth.
-
-Tark and Patches easily hear the Duergar Captain as he "whispers" to Hemeth:* "Hey Lad, quite a few surfacers on your boat, might be that you need to pay the transport Tax in advance today...  It would be a real shame to have to do a full inspection of your vessel, wouldnt it?"*
+The second Lock, too, had its own economics.

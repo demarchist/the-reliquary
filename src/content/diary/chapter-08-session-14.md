@@ -1,8 +1,9 @@
 ---
-title: The Underdark - Session 14
+title: "The Underdark - The Nautiloid"
 chapter: 8
 chapterTitle: The Underdark
 session: 14
+summary: "Extortion by the second Lock's captain sent Tark alone onto the Illithid nautiloid while Patches dismantled the barracks from the inside — and when the group paid and moved on, demons had already destroyed the third Lock ahead of them, leaving one survivor and a clear warning of what was growing in the deep."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -37,216 +38,188 @@ factions:
   - "svirfneblin-faction"
 ---
 
- **Extortion**
+## Extortion
 
-The group is sitting at their table in the common room as the Duergar captain extorts their companion.
+[[tarkathee-daru|Tark]] and [[aliyah-faen-tlabbar|Patches]] relayed the Duergar captain's ultimatum to the rest of the group gathered at their table in the common room.
 
-Tark and Patches understand what's happening and turn and inform the group.
+[[cirrus-al-kayan|Cirrus]] glanced at the captain and his two escorts as they finished delivering their message and turned back to their patrol. Then he mentioned, almost as an aside, that he could also see the invisible Duergar currently doing the same.
 
-Cirrus looks at the Fort Captain and his two guards, noting that with their message delivered, they quickly turn and resume their patrol.
+He got blank looks.
 
-Cirrus turns and mentions the Duergar guards and gets blank looks from the others, a line of questions ensues.
+A quick round of questions followed. The group pieced it together: a significant number of the garrison were invisible at any given time, patrolling the common room and docks undetected. They agreed to ask [[cirrus-al-kayan|Cirrus]] for a headcount whenever it seemed relevant.
 
-Very quickly, the group determines that quite a large number of the Duergar are in fact invisible and currently patrolling.
+A few minutes later, the fort captain worked his way to the Kuo-Toa table. The fish-men crowded and shuffled, and from what the group could observe, a similar arrangement was reached. [[gundren-rockseeker|Gundren]] watched with barely contained fury. The others counseled patience.
 
-The group decides to frequently ask Cirrus how many Duergar are around, just in case.
+Then a lumbering impact shook the stone beneath their feet. They turned to look out toward the dock.
 
-A few minutes later and the Duergar Captain has visited the Kuo-Toa and based on what the group sees, a similar extortion occurs.
+A massive construct — stone and hammered metal, runes etched across its plating — plodded past the moored ships. [[hemeth|Hemeth]] named it a Glyph Sentinel. Several of the group asked immediately whether they could acquire one. [[hemeth|Hemeth]] began turning the question over in his head.
 
-Watching the blatant extortion, Gundren gets angry, wanting to take it out of the hide of the Duergar, but the others want a more cautious approach.
+As the Sentinel passed in front of the Illithid vessel, it stopped. Its runes flared bright and it let out a thunderous alarm bellow. Invisible Duergar rushed from the surrounding air to converge on it. The fort captain crossed the common room and approached the Illithid still standing at the fire.
 
-the ground shakes slightly and a lumbering plodding sound turns them in their chairs to look out toward the dock where they see a large Stone and metal Golem.
+A brief exchange followed. The Illithid was extorted as well.
 
-Hemeth points it out as a "Glyph Sentinel".  The group ask him where they can get one and Hemeth begins to think it over.
+## Into the Nautiloid
 
-As it passes in front of the Illithid ship it stops, turning and lets out a thunderous bellow in alarm, Runes glowing over its body.
+The group drifted out of the common room to confer near [[hemeth|Hemeth]]'s ship, putting the Glyph Sentinel within view. [[aliyah-faen-tlabbar|Patches]] decided to do some investigating and slipped back toward the barracks door off the common room. [[tarkathee-daru|Tark]] had his own curiosity to follow — not the Duergar fort, but the living ship.
 
-Duergar rush to the Golem (Cirrus seeing more than the others) and the Duergar Fort Captain approaches the Illithid in the common room.
+He went invisible and leapt onto the hull of the nautiloid.
 
-A short discussion later, and the Illithid has been effectively extorted as well.
+The creature's skin shifted pigment beneath the pressure of each footstep. He climbed carefully over the surface of the thing, feeling it breathe beneath him — until a presence reached out from somewhere inside. Welcoming. Inviting.
 
-The group moves out of the Common Room to talk near their ship (and keep an eye on the Glyph Sentinel).
+A great flap of skin and flesh peeled back above him, opening a ramp into the ship's interior. [[tarkathee-daru|Tark]] descended.
 
-Patches decides to do some investigating and heads to the doors out of the Common room, to the barracks.
+The belly of the craft was warm and wet, corridors of smooth organic material leading through the living vessel. He followed them to an open chamber where an Illithid reclined in a chair grown from bone and flesh directly out of the floor. The creature greeted him without words, reading the surface of his thoughts and the shape of the memories he carried from their last encounter with a Mind Flayer hive.
 
-Tark too decides to take a look at something, but the Illithid ship rather than the Duergar.  
+[[tarkathee-daru|Tark]] asked what brought them here. The Illithid replied they were returning to their hive with cargo, and turned its own curiosity outward — asking in turn where the monk was bound.
 
-He goes invisible and leaps atop the craft, its skin pigment changing under the pressure of his steps.
+When [[tarkathee-daru|Tark]] mentioned [[gravenhollow|Gravenhollow]], the creature became noticeably interested. It asked if he would carry something there — a small jade egg, smooth and cold in the palm. [[tarkathee-daru|Tark]] agreed and took it.
 
-As Tark climbs over the craft, he feels a presence reaching out, inviting him into the ship.
+He moved to leave, then his curiosity got the better of him. The Mind Flayer, sensing it, opened the other chambers without being asked.
 
-Climbing on top, a great flap of skin and flesh peels back, revealing a ramp down inside the ship and Tark descends into the "hold" of the bio-ship...
+[[tarkathee-daru|Tark]] looked in on flesh-walled rooms filled with large sacks of fluid. Suspended within each one, hundreds of brains floated in slow suspension. As he leaned close to one, he saw a small tadpole swimming lazy circles around the grey mass inside.
 
-Patches waits for the Duergar in the common room to be distracted and unlocks the Barracks door, peeking through she sees a guard RIGHT there.
+He found this deeply interesting, and then climbed back out of the ship.
 
-the guard notes the door open slightly and closes it.
+## The Barracks
 
-Patches waits for the guard to shuffle away slightly and then she opens the door, scaling the wall immediately behind the guard to was distracted picking his nose.
+While [[tarkathee-daru|Tark]] explored the nautiloid, [[aliyah-faen-tlabbar|Patches]] waited for the right moment and slipped through the barracks door.
 
-Now on the ceiling, among hardwood rafters supporting a stone ceiling in a long hallway, the rogue begins to leap from beam to beam, just above the Dwarves (thank the gods she's wearing a Piwafwi)
+There was a guard directly on the other side.
 
-Patches sneaks through the simple hallway, waiting for the guards to shuffle along and she drops, opening one door and seeing a sleeping officer - not the captain - she turns, waits and then heads to the last door at the end of the hall, unlocking it swiftly and heading inside.
+The guard noticed the door swing open slightly and pushed it closed. [[aliyah-faen-tlabbar|Patches]] waited, then cracked it again as the guard shuffled a few steps down the hall and turned to pick at something on the wall. She was through the door and up to the ceiling in a single motion, pressing herself between the heavy timber rafters — grateful for the [[piwafwi|Piwafwi]] that kept her invisible against the stone above.
 
-The interior is very spartan, but what it does have is exceptionally well made.  A desk, bed, chest and wardrobe adorn this simple chamber with a large plush and comfortable looking chair in one corner.
+She moved along the ceiling hand to hand, passing over the heads of the guards below. The hallway was simple and functional. One door opened onto a sleeping officer — not the captain — so she closed it again, waited for the corridor to clear, and made her way to the last door at the far end.
 
-Patches searches the room, finding the log-book for the fort, disarming a small grenade trap on the chest and looting it's false-bottom contents (500pp).
+Inside she found a spartan chamber, but everything in it was exceptionally well made: a desk, a bed, a wardrobe, a chest, and one large plush chair in the corner. The captain's quarters.
 
-Patches finds nothing else and goes to leave, but on a hunch returns and checks under the bed.
+She searched methodically. She found the fort's logbook and pocketed it. She disarmed a small grenade trap wired to the chest, found the false bottom inside, and helped herself to five hundred platinum coins.
 
-Sure enough, she finds a small orb of Iron under the bed in the dust (though not dusty itself). A horrible looking sculpture of hair and faces, tearing apart from one another.
+She turned to leave, then paused. On a hunch, she got down and looked under the bed.
 
-As she leaves, she rigs the Duergar Captain's grenade trap to explode no matter what next time it is tampered with or the chest is opened.  A gift for their annoying friend.
+In the dust — though not dusty itself — sat a small iron orb. It was an ugly thing: sculpted hair and faces, all pulling away from each other in different directions as if being torn apart.
 
-Patches begins to head out, returning to the ceiling to bide her time to escape.
+She took it, and as a parting gift, rerigged the grenade trap. The next time the chest was opened or tampered with, it would go off no matter what. A small thank you for their annoying host.
 
-Meanwhile Tark has walked through the belly of the bioship, to an open door and inside, sees an Illithid reclining in a chair of bone and flesh, grown from the floor.
+[[aliyah-faen-tlabbar|Patches]] returned to the rafters and waited for her moment to exit.
 
-The creature welcomes him, reading the surface thoughts of Tark and the memories of the last hive they dealt with.
+## The Principle of the Thing
 
-Tark inquires why they are here.  The illthid replies they are heading back to their hive with their cargo.
+[[tarkathee-daru|Tark]] rejoined the group in the common room as [[hemeth|Hemeth]] drank at the bar. [[gundren-rockseeker|Gundren]] had drifted over and started talking to the barkeep, drawing out what the staff actually thought of their captain.
 
-Tark answers a few questions, mentioning they are looking for Gravenhollow.  This intrigues the Mind-Flayer and it asks the Monk if he can carry something there - a small Jade egg.
+The answer was clear: what the captain was doing was embarrassing. His own people resented it.
 
-Tark agrees and takes it and then turns to leave the ship.  His curiosity gets the better of him and he goes to check the other chambers, the Mind flayer opening them, feeling his intrigue.
+[[gundren-rockseeker|Gundren]] had heard enough. He stood up and headed for the barracks door. The group followed, trying to keep him from doing something that would get them all killed.
 
-Tark sees flesh chambers filled with sacks of fluid, within which float hundreds of brains.
+The others pointed out it was pocket change to the group. Why not simply pay and move on?
 
-Approaching one, Tark sees a small tadpole swimming around within.  
+[[gundren-rockseeker|Gundren]] said it was the principle of the thing.
 
-He thinks this is neat and then leaves the ship, rejoining the group in the Common Room of the Fort.
+Guards materialized from the air to check on the disturbance. A tense back-and-forth ended with the group agreeing to stand down and wait while the captain finished his meal. Bribery terms were discussed at length.
 
-Hemeth is at the bar drinking and Gundren approaches and begins to chat with the barkeep.
+Twenty minutes later, the fort captain stood before them and demanded still more — an increased payment to work the Lock and let [[hemeth|Hemeth]]'s ship continue toward [[gracksuluth|Gracksuluth]].
 
-Turns out that what the captain is doing is uncouth, rude, embarrassing and most of his underlings are taking issue with it.
+[[gundren-rockseeker|Gundren]] ignited his cannon. A half-dozen Glyph Sentinels bellowed in response from around the chamber, their runes flaring in unison.
 
-Having had enough, Gundren storms to the Barracks door, the group following him and trying to keep him from making a mistake.
+[[hemeth|Hemeth]] put a hand on [[gundren-rockseeker|Gundren]]'s shoulder. He thanked him for standing up to a bully. He said it quietly and meant it. But they should pay. It wasn't worth dying over.
 
-After all, why not just pay and be done with it, its pocket change to the group.
+[[aliyah-faen-tlabbar|Patches]] appeared at [[gundren-rockseeker|Gundren]]'s elbow, having slipped back to the group during the distraction, and agreed with [[hemeth|Hemeth]]. So did [[cirrus-al-kayan|Cirrus]] and [[feanon-serinde|Fëanon]].
 
-Gundren says its the principle of the thing!
+[[gundren-rockseeker|Gundren]] let the cannon die down. They paid the captain and walked back to the ship.
 
-Guards come to check out the commotion and after a tense back and forth get the group to stand down and wait for the captain who is finishing his meal (bribery clauses are discussed).
+## The Jade Egg
 
-Twenty minutes later, the guard captain is standing in front of the group, demanding MORE payment to work the Lock and allow their ship to keep heading toward Gracksuluth.
+Once aboard, [[tarkathee-daru|Tark]] produced the jade egg.
 
-Gundren ignites his cannon in anger, but the resounding bellows of a half dozen Glyph Sentinels stays his hand.
+The reaction was immediate discomfort. [[cirrus-al-kayan|Cirrus]] moved to throw it overboard. [[feanon-serinde|Fëanon]] took a closer look before anyone did anything rash and recognized it: a memory-holding gem, not a curse or a weapon. A vessel for a single psionic impression.
 
-The Duergar captain sneers at the group and Hemeth puts his hand on Gundren's shoulder, thanking him for standing up to a bully, but also that they should just pay.  Its not worth dying over.
+[[aliyah-faen-tlabbar|Patches]] produced the 500 platinum she had taken from the captain's chest and handed it to [[feanon-serinde|Fëanon]], remarking that the captain might miss the cash. [[feanon-serinde|Fëanon]] chuckled and used the bank-wand to deposit it into their vault.
 
-Patches sees her opening and slips back to the group in the distraction and agrees with Hemeth, as does Cirrus and Fey.
+Then [[aliyah-faen-tlabbar|Patches]] showed them the iron orb.
 
-The group stands down and they pay the Captain and head to their boat, awaiting the water elevator.
+[[feanon-serinde|Fëanon]] held it carefully and felt chaotic energy emanating from the sculpture — the kind that would, given time, rot a mind from the inside. An Icon of [[demogorgon|Demogorgon]].
 
-On the boat, Tark reveals the Jade egg from the Illithid.  This makes everyone a bit uncomfortable and Cirrus tries to throw it into the water, not wanting it on board.
+They hurled it into the air and [[cirrus-al-kayan|Cirrus]] hit it with an eldritch blast. It disintegrated.
 
-Fey takes a look at it and realizes that its a message - a memory holding gem.
+## The Third Lock
 
-As it's show and tell, Patches hands Fey 400 platinum coins, remarking the Captain might miss the cash.  Fey chuckles and uses the Bank-Wand to deposit the cash back in their vault.
+The water level had risen while they talked. [[hemeth|Hemeth]]'s ship and the Illithid vessel moved into the water elevator together. The great iron gates sealed behind them, dropping the chamber into absolute darkness, and the water began to fall.
 
-She then shows the group the strange Icon she found underneath the Captains bed - as it turns out, an Icon of Demogorgon.
+Wondering if the jade egg was a one-use item or part of a larger repository, [[feanon-serinde|Fëanon]] turned it over in his fingers and then crushed it.
 
-Fey can feel the chaotic energies emitting from it and reasons that prolonged exposure would cause madness.
+A single psionic impression unfolded in his mind: an Illithid's question, asked into the dark — *Will we survive what is coming?*
 
-They hurl it into the air and Cirrus hits it with an Eldritch Blast, annihilating it.
+Nothing more. [[feanon-serinde|Fëanon]] considered it, mildly disappointed at its brevity. He would put the question to the library at [[gravenhollow|Gravenhollow]] himself. Across the water, the Illithids gave no reaction.
 
-The water level has risen and Hemeth's ship and the Illithids move in.
+The ships reached the bottom of the descent. The gates opened, both vessels ignored the fort at the base of the lock, and moved out into the [[darklake|Darklake]]. The Illithid craft slipped into the darkness almost immediately and was gone.
 
-As the great Iron gates close, leaving the group in Darkness, the water level begins to drop.
+## Nightmares on the Darklake
 
-Wondering if the Jade egg is a one use item, or part of a larger repository, Fey attempts to crush it...and succeeds, revealing a memory of an Illithid asking a psionic question of "Will we survive what's coming?". 
+[[hemeth|Hemeth]] paddled on. [[snorbul|Snorbul]] kept the engine room running. After his shift shoveling coal alongside the orc, [[tarkathee-daru|Tark]] lay down in the small dirty bunk below and fell asleep.
 
-A simple message, Fey is somewhat disappointed, but will ask it himself at the library.
+[[kenshi|Kenshi]] came to him in the dream — the image of the Monastery settling around them both — and they spoke quietly about the [[underdark|Underdark]], where the group had traveled and where they planned to go. The conversation was easy and unhurried. [[tarkathee-daru|Tark]] woke feeling rested.
 
-The Illithids do not react.
+The others took shifts helping [[hemeth|Hemeth]] pilot through the day, the cavern passages dark and uneventful. Everyone managed a long rest.
 
-Before long, the ships leave the bottom of the Lock, ignoring the fort here at the bottom and head out into the Darklake.
+Most of them dreamed.
 
-The Illthids quickly disappear into the darkness.
+[[gundren-rockseeker|Gundren]]'s was the worst. He found himself buried, sealed in a coffin in absolute blackness, and he could feel his flesh softening as the centuries ground past. Then a great hand punched through the lid and hauled him free into cold air. He looked up at the thing that held him: a massive frame of rotting muscle, a horned skull where a face should have been, the unmistakable silhouette of [[orcus|Orcus]].
 
-Hemeths ship paddles onward, Snorbul doing a good job in the engine room with Tark.
+He came awake gasping, the group already around him.
 
-After Tark's shift of shoveling coal, he lays down in the dirty bed for a nap and falls asleep.
+[[gundren-rockseeker|Gundren]] described the dream, hands still shaking. The exhaustion of it clung to him. [[feanon-serinde|Fëanon]] muttered that he had been trying to study.
 
-He is visited by Kenshi in the image of the Monastery and they talk for a while, about the Underdark, where the group has been and where they plan on going. 
+[[cirrus-al-kayan|Cirrus]] had been thinking. He brought what he'd been turning over to the group: they had encountered demonic influence again and again — [[demogorgon|Demogorgon]]'s icon under the captain's bed, Manes at the Netherese sanctum, the corrupting nightmares, a demon lord reaching into [[gundren-rockseeker|Gundren]]'s sleep. He thought the demon lords weren't just present in the [[underdark|Underdark]] — he thought they were actively reaching out, corrupting what they touched, building something.
 
-The rest of the group assists Hemeth piloting for the rest of the day and they make it through the dark, watery caverns without incident.
+The group considered it. None of them disagreed.
 
-Over the day, they take shifts and everyone takes a long rest.  Those that sleep though, are visited by nightmares.
+[[aliyah-faen-tlabbar|Patches]] asked [[doc|Doc]] to scry on Shoor, the Drow wizard.
 
-Gundren tosses and turns, buried alive in a coffin, feeling his flesh rotting away for centuries until a great hand rips the top from the coffin and pulls the Dwarf free.
+[[doc|Doc]] described the vision clearly: more than half a dozen Drow moving hard in pursuit, [[ilvara-mizzrym|Ilvara]] mounted on a single riding lizard and visibly impatient, Shoor holding his ruined face while Asha pressed a salve against it. [[doc|Doc]] caught a fragment of conversation — Shoor complaining about his injuries, Asha promising to fix what she could if he helped her with her own condition in return.
 
-A great horned head, skull like face and muscular yet-rotting body greets him: Orcus.
+They were coming. But they were not close.
 
-Gundren wakes with a start, the group awake and around him, concerned.
+## The Destroyed Lock
 
-He tells them of his dream, suffering some exhaustion.
+[[hemeth|Hemeth]] warned the group they were approaching the last Lock before the dark iron city.
 
-Fey is annoyed as he couldn't get any studying done with all the commotion.
+The ship pulled toward the signal point and they prepared the hooded lantern. Then the light hit the rock wall — and something was wrong. The gate hung in pieces, the stone raked apart, metal bent and frozen. The whole entrance had been torn open.
 
-Cirrus thinks on what's been going on, all the Demons and he brings it up to the group.
+[[hemeth|Hemeth]] stared in silence.
 
-They all agree that something Demon related is happening but Cirrus goes further - he thinks all the Demon Lords are reaching out, trying to corrupt and create minions.
+The group brought the ship in stern-first, the aft cannon facing forward in case they needed to leave quickly. The main pool of the fort was worse than the entrance: walls scored by great claws, stone cracked by cold, bodies scattered across the dock. The fort was destroyed.
 
-The group, concerned, can't help but agree.
+The group disembarked, leaving [[doc|Doc]] and [[jack-mayer-johnson-mathews|JmJm]] with the ship. Moving through the wrecked common room, the evidence of the attack accumulated. Then they found the first surviving creature — a Manes, a low demon, lumbering through the wreckage. Then more. The group recognized the type: Manes of Thanatos, the same kind they had fought at the Netherese sanctum on the cliffs of [[shatterpeak|Shatterpeak]].
 
-Patches goes to Doc and has him Scry on the Drow Wizard Shoor.
+They killed them quickly, the demons' bodies burning to ash as they fell.
 
-Doc describes everything he sees: A Drow pursuit party consisting of more than a half dozen Drow, including an impatient looking Ilvara, concerned Asha, maimed Shoor and Jorlan.
+Deeper in the fort, they found what was left of the captain. They collected his badge — damaged but intact.
 
-The only mount they appear to have is a single riding lizard, for Ilvara.
+Near the back of the fort they found the door to the Lock control room. Locked. As [[aliyah-faen-tlabbar|Patches]] approached it, she heard a faint sound from the other side.
 
-Doc overhears Shoor complaining about his ruined face, Asha applying a salve.  Asha swears she will fix it if he helps her with her own condition.
+She called out.
 
-The hours stretch on and Hemeth warns the group that they are approaching the last of the Locks before the Dark Iron City.
+A voice answered — strained and suspicious.
 
-The group prepares their signal lantern and the ship heads toward the rock wall housing the last Fort.
+They exchanged a few words through the door. The survivor wouldn't open it. He had no way to know they weren't more demons. He confirmed what the wreckage already suggested: the fort had been overrun. Everyone else was dead.
 
-The rock wall is rent asunder, twisted metal visible as the gates have been ripped apart.  Hemeth is in shock.
+The group needed the lock operated. [[aliyah-faen-tlabbar|Patches]] worked the lock and opened the door.
 
-The Fort is destroyed.
+Inside, a low barricade had been stacked across the entrance, and what looked like a Duergar standing behind it was a mannequin. The real survivor was prone on the floor, the glowing barrel of a [[saurian-firelance|Saurian Firelance]] jutting through a slit in the barricade directly at the doorway.
 
-The group has the ship back into the waterway, aft gun leading and potentially providing a quick getaway.
+Fire filled the corridor.
 
-The ship heads through the entry tunnel and into the main waiting pool.  The fort is completely wrecked, the wall of stone raked and torn, great scars of ice and frost evident.
+[[tarkathee-daru|Tark]] and [[gundren-rockseeker|Gundren]] rushed through the flames. The Duergar tried to reload. The group had him restrained before he could, the corridor still smoldering around them.
 
-The ship gets close enough to the dock to allow the party to disembark, Doc and JmJm remaining on the ship.
+The soldier looked up at the surfacers holding him down and, after a moment, stopped struggling.
 
-Investigating the fort, the place was attacked and the group believes by Demons. 
+[[gundren-rockseeker|Gundren]] pressed the captain's damaged badge into his hands. The Duergar's expression shifted. He turned the badge over, then activated it — broadcasting an alert to [[gracksuluth|Gracksuluth]], calling in reinforcements and reporting the attack.
 
-This is confirmed when the group spots a number of Manes, lower demons, and they look to be the Manes of Thanatos the same kind that attacked them at the Netherese Sanctum atop Shatterpeak.
+As a quiet thank you, he moved to the controls and began raising the water level for [[hemeth|Hemeth]]'s ship.
 
-The group annihilates the demons in short order, the demons bodies burning to ash as they are slain.
+The group took a last look through the fort's storeroom while they waited: two crates of Drow silk and a keg of Svirfneblin drinking cheese. They left what they couldn't use and returned to the ship as the water rose.
 
-Heading deeper into the Fort, the group finds the captains quarters and what is left of the captain.  They collect his Badge (damaged).
+The ship entered the Lock. The descent began.
 
-After a few mintues of searching, they find the door to the Lock control room.  Its locked, but as Patches moves in, she hears a slight noise on the other side.
+Coming out the bottom, they passed small Duergar patrol vessels already heading up toward the ruined fort. The Duergar were responding.
 
-They call out and a survivor calls back.
-
-They exchange a few words but the Duergar won't open the door and does not trust the group not to be demons. 
-
- He confirms the theory that the fort was attacked by demons.  Everyone else is killed.
-
-Needing to operate the Lock, Patches unlocks and opens the door.
-
-Inside is a barricade and a mannequin of a Duergar behind it.  The crafty Deep Dwarf however is prone and the barrel of his Firelance is sticking out of a slit in the barricade.  
-
-The barrel glows and flashes and the corridor fills with fire.
-
-Tark and Gundren rush the Duergar before he can fire again, the corridor burning from combusting chemicals, the group singed.
-
-The Duergar is quickly restrained, and quickly realizes the group means him no harm. He stops struggling, eyeing the surfacers with suspicion.
-
-The group placates the soldier by handing him the Captain badge and the Dwarf relaxes, quickly using it to call in reinforcements and alert the city of the attack.
-
-As a thank you, the Duergar begins to operate the Lock, raising the water level for Hemeths ship.
-
-The group return to the ship as the water level rises, but not before doing a thorough once over of the place (away from the lone surviving Duergar).
-
-All the bodies are ravaged, the equipment un-salvageable but find a few goodies in the storeroom: two crates of Drow Silk and a Keg of Svirfneblin Drinking Cheese.
-
-The water level finishes rising and the group takes the ship in, beginning the descent shortly after.
-
-The ship leaves the Lock, as it goes the group sees Duergar Guards heading up to the ruined fort to reinforce it in their own small vessels.
-
-Leaving the Duergar Waterway, Hemeth takes his ship out onto the last stretch of the Darklake, into the massive cavern containing the Dark Iron city of Gracksuluth.
+[[hemeth|Hemeth]] took his ship out of the waterway and into the open [[darklake|Darklake]] beyond — a vast, cathedral-ceilinged cavern that dwarfed everything they had traveled through. In the far distance, a glow resolved from the dark: the dark iron lights of [[gracksuluth|Gracksuluth]].

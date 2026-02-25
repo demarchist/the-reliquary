@@ -1,272 +1,273 @@
 ---
-title: The Underdark - Session 1
+title: "The Underdark - The Briefing & The Moonwood"
 chapter: 8
 chapterTitle: The Underdark
 session: 1
+summary: "With the war briefing concluded, the party said their goodbyes and made final preparations — including an unsettling visit to the Astral Plane and a sharp Moonwood ambush that tested both nerves and blades — before setting their course for the Underdark."
 people:
-  - "aliyah-faen-tlabbar"
-  - "anaxtrasa"
-  - "atropos"
-  - "aurinax"
-  - "bahamut"
-  - "cercei"
-  - "cirrus-al-kayan"
-  - "corpsetaker"
-  - "doc"
-  - "feanon-serinde"
-  - "finn"
-  - "gundren-rockseeker"
-  - "horatio-von-bumidere"
-  - "hugh"
-  - "intent"
-  - "jack-mayer-johnson-mathews"
-  - "karsus"
-  - "li-xian"
-  - "lodan"
-  - "lord-neverember"
-  - "megno-slatesunder"
-  - "mordenkainen"
-  - "orcus"
-  - "pickles"
-  - "selune"
-  - "shaahir"
-  - "tarkathee-daru"
-  - "theodemir"
+  - aliyah-faen-tlabbar
+  - anaxtrasa
+  - atropos
+  - aurinax
+  - bahamut
+  - cercei
+  - cirrus-al-kayan
+  - corpsetaker
+  - doc
+  - feanon-serinde
+  - finn
+  - gundren-rockseeker
+  - horatio-von-bumidere
+  - hugh
+  - intent
+  - jack-mayer-johnson-mathews
+  - karsus
+  - li-xian
+  - lodan
+  - lord-neverember
+  - megno-slatesunder
+  - mordenkainen
+  - orcus
+  - pickles
+  - selune
+  - shaahir
+  - tarkathee-daru
+  - theodemir
 places:
-  - "amn"
-  - "astral-plane"
-  - "feanons-tower"
-  - "gravenhollow"
-  - "helms-hold"
-  - "keep-of-thunder-bluff"
-  - "menzoberranzan"
-  - "neverwinter"
-  - "oerth"
-  - "sanctum-of-krasus"
-  - "selunia"
-  - "silverymoon"
-  - "sundabar"
-  - "the-moonwood"
-  - "thunder-bluff"
-  - "underdark"
-  - "waterdeep"
+  - amn
+  - astral-plane
+  - feanons-tower
+  - gravenhollow
+  - helms-hold
+  - keep-of-thunder-bluff
+  - menzoberranzan
+  - neverwinter
+  - oerth
+  - sanctum-of-krasus
+  - selunia
+  - silverymoon
+  - sundabar
+  - the-moonwood
+  - thunder-bluff
+  - underdark
+  - waterdeep
 things:
-  - "crystal-tuning-fork"
-  - "gwen"
+  - crystal-tuning-fork
+  - gwen
 factions:
-  - "amnians"
-  - "drow-faction"
-  - "illithid-faction"
-  - "netherese"
-  - "watchers-of-helm"
+  - amnians
+  - drow-faction
+  - illithid-faction
+  - netherese
+  - watchers-of-helm
 ---
 
-**The Briefing Ctd. & Sundabar**
+## The Briefing Concluded
 
-**​**The group stands around the briefing table, taking it all in.
+The group stood around the briefing table, taking it all in.
 
-Much has happened in the last 24 hours, the least of which is finding out Patches has a son named Finn, that was most likely captured and kidnapped in a Drow attack on the Moonwood.
+Much had happened in the last twenty-four hours, not least of which was finding out [[aliyah-faen-tlabbar|Patches]] had a son named Finn, most likely captured and kidnapped in a [[drow-faction|Drow]] attack on [[the-moonwood|the Moonwood]].
 
-This raises many questions and the group turns to Patches.  Tark asks how old the son is, "around 22", and then goes on to ask Patches how old she is "around 80".  
+This raised many questions and the group turned to Patches. [[tarkathee-daru|Tark]] asked how old the son was — "around 22" — and then went on to ask Patches how old she was. "Around 80."
 
-This floors Tark even as Fey chuckles and asks "what even IS time?"
+This floored Tark even as [[feanon-serinde|Fëanon]] chuckled and asked "what even IS time?"
 
-Gundren and Fey both put bets that the father is Lo'Dan.
+[[gundren-rockseeker|Gundren]] and Fëanon both put bets that the father was Lo'Dan.
 
-Patches claims that she has not met the child since dropping him off at the Moonwood twenty years ago, much to the shock of Tark and Buumi.
+Patches stated that she had not met the child since dropping him off at the Moonwood twenty years ago, much to the shock of Tark and [[horatio-von-bumidere|Buumi]].
 
-Gundren goes on to inquire, wondering why the Drow would care about "some boy" and Patches mentions that her son was training in wizardry and showed the powers of a sorcerer.
+Gundren went on to wonder why the Drow would care about "some boy," and Patches mentioned that her son had been training in wizardry and showed the powers of a sorcerer's bloodline.
 
-Fey throws up his hands and launches into a lecture about the differences between a Wizard and Sorcerer, that they are NOT interchangeable. Patches cuts him short, saying that he is learning wizardry but also shows the inherent magic of a sorcerers bloodline.
+Fëanon threw up his hands and launched into a lecture about the differences between a Wizard and a Sorcerer — they were not interchangeable. Patches cut him short, clarifying that the boy was learning wizardry but also showed the inherent magic of a sorcerer's bloodline.
 
-This irks Fey'Anon, complaining that he had to work hard for his power.
+This irked Fëanon, who complained he had to work hard for his power.
 
-Patches responds, asking Fey if he would tutor Finn if/when they resuce him. Fey is taken aback, but after a short pause, agrees.
+Patches responded by asking Fëanon if he would tutor Finn if and when they rescued him. Fëanon was taken aback, but after a short pause, agreed.
 
-Tark asks who the father is and Patches says not to ask too many questions as the information could be dangerous.  This Irks Fey further and he complains that he just "loves the idea of entering the Underdark not knowing everything he needs to".
+Tark asked who the father was and Patches told him not to ask too many questions, as the information could be dangerous. This irked Fëanon further, and he complained that he just "loved the idea of entering the [[underdark|Underdark]] not knowing everything he needed to."
 
-Buumi brings up the trip to Gravenhollow for the information on the last Artifact pieces. Patches says they can save her son and visit the library easily enough while in the Underdark.
+Buumi brought up the trip to [[gravenhollow|Gravenhollow]] for information on the last artifact pieces. Patches said they could save her son and visit the library easily enough while in the Underdark.
 
-Buumi goes on to remind the group that Corpsetaker knows some of this as he told the entity while it was masquerading as Cercei.
+Buumi went on to remind the group that [[corpsetaker|Corpsetaker]] knew some of this, as he had told the entity while it was masquerading as [[cercei|Cercei]].
 
-Refocusing as Spymaster Hugh gets a little impatient, Tark looks back at the map and asks why the Amnians and their allies would be pushing North.  Why go to war?
+Refocusing as Spymaster Hugh grew a little impatient, Tark looked back at the map and asked why the Amnians and their allies would be pushing North. Why go to war?
 
-Neverember sits up in bed, his shattered leg and burned eyes clearly paining him and explains that the formal declaration of war talks about the Artifacts as doomsday weapons held in the North that the South and East cannot abide.  He believes these are simply excuses based on how the Council at Helm's Hold ended.
+[[lord-neverember|Neverember]] sat up in bed, his shattered leg and burned eyes clearly paining him, and explained that the formal declaration of war cited the Artifacts as doomsday weapons held in the North that the South and East could not abide. He believed these were simply excuses, based on how the Council at [[helms-hold|Helm's Hold]] ended.
 
-Based on Shaahir's backing of the Church of the Night Mother, Hugh thinks that Shaahir and the other wizards of Amn and Thay are backing Orcus due to promises of Undeath. With that, they would survive the coming clamity that is Atropos.
+Based on [[shaahir|Shaahir]]'s backing of the Church of the Night Mother, Hugh believed that Shaahir and the other wizards of Amn and Thay were backing [[orcus|Orcus]] in exchange for promises of Undeath — a way to survive the coming calamity of [[atropos|Atropos]].
 
-The group and Neverember both agree that The Heralds should continue to search for the remaining artifacts.  Meanwhile, Neverember and the Paladins of Helm's Hold will raise armies and begin recruiting for a Crusade against the forces of Orcus.
+The group and Neverember both agreed that The Heralds should continue to search for the remaining artifacts. Meanwhile, Neverember and the Paladins of Helm's Hold would raise armies and begin recruiting for a Crusade against the forces of Orcus.
 
-All the north is reeling from the attacks, but are also united.  
+All the North was reeling from the attacks, but also united.
 
-Neverember is beginning to conscript and raise new armies and Silverymoon has sent mages to assist the Dwarves of Sundabar in constructing the keep at Thunder Bluff.  Neverember wants to use Selunia as a base of operations (with the group in charge of the Barony) and is sending a garrison.
+Neverember began conscripting and raising new armies. [[silverymoon|Silverymoon]] had sent mages to assist the Dwarves of [[sundabar|Sundabar]] in constructing the keep at [[thunder-bluff|Thunder Bluff]]. Neverember wanted to use [[selunia|Selunia]] as a base of operations — with the group in charge of the Barony — and was sending a garrison.
 
-As Neverember finishes, Buumi turns to the group, telling them that he thinks he will stay behind as the group makes their way into the Underdark.  He has many things to attend to with his family, their safety, the Keep, his Paladin Order and the Crusade.
+As Neverember finished, Buumi turned to the group and told them he thought he would stay behind as they made their way into the Underdark. He had many things to attend to: his family's safety, the Keep, his Paladin Order, the Crusade.
 
-The group agrees, albeit reluctantly.  Patches seems genuinely upset but understands, eventually even handing over Neero's blade to him.
+The group agreed, albeit reluctantly. Patches seemed genuinely upset but understood, eventually handing over Neero's blade to him.
 
-Buumi goes on to say that with Fey's new teleportation, he's only ever a few steps away and that when they make it to Menzoberranzan, they need to contact him and bring him in to assist.
+Buumi said that with Fëanon's new teleportation, he was only ever a few steps away, and that when they made it to [[menzoberranzan|Menzoberranzan]], they needed to contact him and bring him in to assist.
 
-Tark promises to find Cercei and that they will let Buumi know if they find her.  He then hugs his friend goodbye before realizing Buumi will still be with them for the rest of the day at least.
+Tark promised to find Cercei and said they would let Buumi know if they found her. He hugged his friend goodbye before realizing Buumi would still be with them for the rest of the day at least.
 
-The group turns to leave and figure out what supplies to get for their trip to the Underdark.  As they leave, Tark stops by Neverember.
+The group turned to leave and figure out what supplies to get for their trip to the Underdark. As they left, Tark stopped by Neverember.
 
-Neverember mentions that Mordenkainen returned to Oerth, worried that his own world is under attack. He goes on to mention Aurinax and Anaxtrasa both returned to their people to inform them of events and mentions how strange it is for five dragons to have participated in attacks.
+Neverember mentioned that [[mordenkainen|Mordenkainen]] had returned to Oerth, worried that his own world was under attack. He noted that [[aurinax|Aurinax]] and [[anaxtrasa|Anaxtrasa]] had both returned to their people to inform them of events, and remarked how strange it was for five dragons to have participated in the attacks.
 
-Tark says that he hopes Bahamut will intervene on their behalf and Neverember agrees.
+Tark said he hoped [[bahamut|Bahamut]] would intervene on their behalf, and Neverember agreed.
 
-As the group leaves the keep to head to The Tower District, Gundren tosses his shotgun over to Fey'Anon "Hey lad, lets get you trained with this thing, you need it more than me!"
+As the group left the keep to head to the Tower District, Gundren tossed his shotgun over to Fëanon. "Hey lad, let's get you trained with this thing — you need it more than me!"
 
-Patches tosses the Mask of Clear Breath over to Gundren and the Artificer stares at it, eyes going wide and he begins to study it intently.
+Patches tossed the Mask of Clear Breath over to Gundren, and the Artificer stared at it, eyes going wide, and began to study it intently.
 
-The group heads out into the city to gather supplies for a dangerous journey to the lightless Underdark while Fey decides to stay in the keep and take as many notes on the wrecked Amnian Golems as possible.
+The group headed out into the city to gather supplies for the lightless Underdark while Fëanon stayed in the keep and took as many notes on the wrecked Amnian Golems as he could manage.
 
-In Sundabar a few hours later, Cirrus is still kneeling beneath the Astral Tear when it suddenly vanishes, the crystal tuning fork in his hand glowing softly and humming with a resonance.
+In [[sundabar|Sundabar]] a few hours later, [[cirrus-al-kayan|Cirrus]] was still kneeling beneath the Astral Tear when it suddenly vanished, the [[crystal-tuning-fork|crystal tuning fork]] in his hand glowing softly and humming with resonance.
 
-The Dwarven guards let out an audible sigh of relieve and Megno awakes from his nap nearby.  He rushes over to Cirrus and asks if its over.
+The Dwarven guards let out an audible sigh of relief and [[megno-slatesunder|Megno]] awoke from his nap nearby. He rushed over to Cirrus and asked if it was over.
 
-Cirrus says that it is, holding the crystal fork with reverence.
+Cirrus said that it was, holding the crystal fork with reverence.
 
-Megno thinks that Cirrus closed the portal and shows the Warlock great respect, calling for a palanquin to carry the weary warlock to the Guild Teleport Circle.
+Megno assumed that Cirrus had closed the portal and showed the Warlock great respect, calling for a palanquin to carry the weary warlock to the Guild Teleport Circle.
 
-Tired and confused, Cirrus mentions Waterdeep and Megno furrow his brow in confusion, sending a message to Fey to clarify.  The group is still in Neverwinter and awaits Cirrus.
+Tired and confused, Cirrus mentioned [[waterdeep|Waterdeep]] and Megno furrowed his brow in confusion, sending a message to Fëanon to clarify. The group was still in Neverwinter and awaited Cirrus.
 
-Cirrus makes it to the guild circle and stows the crystal tine attuned to the Astral plane.  Arriving in Neverwinter though, the Warlock is accosted by the Guild member manning the teleportation circle and demands the Warlock pay the guild fee.  Cirrus claims he doesn't have any cash on him and that guild member Fey'Anon will pay.
+Cirrus made it to the guild circle and stowed the crystal tine attuned to the Astral Plane. Arriving in [[neverwinter|Neverwinter]], the Warlock was accosted by the Guild member manning the teleportation circle, who demanded Cirrus pay the guild fee. Cirrus claimed he had no cash on him and that guild member Fëanon would pay.
 
-The Mage is quite annoyed but agrees that Wizard Fey'Anon will be charged.
+The Mage was quite annoyed but agreed that Wizard Fëanon would be charged.
 
-Cirrus leaves the Guild Tower and heads toward the keep in a carriage, excited to show the group the attuned crystal fork.
+Cirrus left the Guild Tower and headed toward the keep in a carriage, eager to show the group the attuned crystal fork.
 
-**Gathering Supplies at Richie's Potions**
+## Gathering Supplies at Richie's Potions
 
-**​**The group heads out from the Keep, the sun almost at midday and Cirrus still prostrate before the Astral tear in Sundabar.
+The group headed out from the Keep, the sun almost at midday and Cirrus still prostrate before the Astral Tear in Sundabar.
 
-Heading to the Tower District Tark, Gundren, Patches and Buumi walk through the nearly deserted streets.  Guards are at every corner and civilians can be seen going about their business but it's a far cry from the normal hustle and bustle.  A hush has fallen over the city.
+Heading to the Tower District, Tark, Gundren, Patches and Buumi walked through nearly deserted streets. Guards stood at every corner and civilians went about their business, but it was a far cry from the normal hustle and bustle. A hush had fallen over the city.
 
-Arriving in the Tower district after a short time, the group splits up with Patches and Buumi looking for a jewelers while Gundren and Tark look for an alchemist.
+Arriving in the Tower District after a short time, the group split up — Patches and Buumi looking for a jeweler while Gundren and Tark looked for an alchemist.
 
-Heading off, Tark and Gundren get easily distracted by the smells of cooking wafting down the street.  They spot an Inn that is technically open and with a kitchen open to the street side too.  They swing by and grab the special; Owlbear Burgers with Peaches.  Munching happily, they continue on after asking directions to the best alchemist in town.  They are pointed toward Richie's Potions.
+Heading off, Tark and Gundren got easily distracted by the smells of cooking wafting down the street. They spotted an Inn that was technically open, with a kitchen open to the street side. They swung by and grabbed the special: Owlbear Burgers with Peaches. Munching happily, they continued on after asking directions to the best alchemist in town. They were pointed toward Richie's Potions.
 
-The Dwarf and Halfling find Richie's shop and bang on the door as it appears to be closed.  A few minutes later and an eccentric looking human man wearing an apron, gloves and goggles opens the door.  He has large and frizzy tufts of white hair sticking out from the sides of his head and a prominent bald patch.  He lifts up the goggles and asks what he can do for them.
+The Dwarf and Halfling found Richie's shop and banged on the door, which appeared to be closed. A few minutes later, an eccentric-looking human man wearing an apron, gloves and goggles opened the door. He had large and frizzy tufts of white hair sticking out from the sides of his head and a prominent bald patch. He lifted up the goggles and asked what he could do for them.
 
-Gundren jangles a pouch of coin and asks to buy some potions.  Richie sighs, muttering that he had hoped for an uninterrupted day and thinks for a moment.  He tells them to come back in about fifteen minutes, giving him time to finish up and get his potions on the stove to simmer.
+Gundren jangled a pouch of coin and asked to buy some potions. Richie sighed, muttering that he had hoped for an uninterrupted day, and thought for a moment. He told them to come back in about fifteen minutes, giving him time to finish up and get his potions on the stove to simmer.
 
-Thinking another Burger is in order, Tark and Gundren head back to the Inn for more food.
+Thinking another burger was in order, Tark and Gundren headed back to the Inn for more food.
 
-Patches and Buumi finish up, having managed to find a single diamond worth enough for a Revivify (and Patches covertly touching enough gems to refill her blade) and the two catch up to Gundren and Tark at the Inn for some food.
+Patches and Buumi finished up, having managed to find a single diamond worth enough for a Revivify — and Patches covertly touching enough gems to refill her blade — and the two caught up to Gundren and Tark at the Inn for some food.
 
-Buumi grabs the Oxen cake with a cup of Perry while Patches sniffs disdainfully at the burgers and cake before settling on a cup of Mutton soup.  She makes it more to her liking with a sprinkling of Bluecap spores she keeps in her ration pack and its not bad...
+Buumi grabbed the Oxen cake with a cup of Perry while Patches sniffed disdainfully at the burgers and cake before settling on a cup of Mutton soup. She made it more to her liking with a sprinkling of Bluecap spores she kept in her ration pack, and it was not bad.
 
-Back at the keep, Fey'Anon has made fantastic progress on the Iron Golem.  Through his investigation, the thing was rigged with numerous glyphs and wards designed to release Disintegration spells as it hit hard surfaces, effectively breaching the keep and its upper floors without issue.  Taking intricate notes on the spells and on the construction itself, Fey feels that it was a day well spent and decides to sit down for a break and review his findings with Theodemir while nibbling on his fine rations.
+Back at the keep, Fëanon had made fantastic progress on the Iron Golem. Through his investigation, the thing had been rigged with numerous glyphs and wards designed to release Disintegration spells as it hit hard surfaces, effectively breaching the keep and its upper floors without issue. Taking intricate notes on the spells and on the construction itself, Fëanon felt it was a day well spent and sat down for a break, reviewing his findings with [[theodemir|Theodemir]] while nibbling on his fine rations.
 
-Having finished lunch, the rest of the crew in Neverwinter returns to Richie's place and enter, ready to go shopping.
+Having finished lunch, the rest of the crew in Neverwinter returned to Richie's place and entered, ready to shop.
 
-They leave twenty minutes later having spent over five thousand gold, but they walk away with two wondrous potions; A potion of Vitality, and a potion of Rapid Combat.
+They left twenty minutes later having spent over five thousand gold, walking away with two wondrous potions: a Potion of Vitality and a Potion of Rapid Combat.
 
-Additionally, they pick up four healing potions and two greater healing potions for their jaunt into the Underdark.
+They also picked up four healing potions and two greater healing potions for the jaunt into the Underdark.
 
-Feeling good about their chances now, they return to the keep to meet up with Fey and hopefully check in with Cirrus.
+Feeling good about their chances, they returned to the keep to meet up with Fëanon and hopefully check in with Cirrus.
 
-**A Quick Jaunt to the Astral Plane & an Arcane breakthrough**
+## A Quick Jaunt to the Astral Plane
 
-**​**At the keep, Cirrus arrives via carriage just as the sun is setting and he ascends the steps without issue, the guards recognizing him.
+At the keep, Cirrus arrived via carriage just as the sun was setting and he ascended the steps without issue, the guards recognizing him.
 
-He enters the main hall and spots Fey going over the Iron Golem.  Cirrus approaches and shows Fey the glowing crystal tine, smiling widely and announcing that Selune has guided him to this moment.
+He entered the main hall and spotted Fëanon going over the Iron Golem. Cirrus approached and showed Fëanon the glowing crystal tine, smiling widely and announcing that [[selune|Selune]] had guided him to this moment.
 
-A little confused, Fey messages the others and they gather in the hall.  All save JmJm and Doc B, who remain in their rooms, lounging and recovering from the battle the night before.
+A little confused, Fëanon messaged the others and they gathered in the hall. All save [[jack-mayer-johnson-mathews|JmJm]] and [[doc|Doc B]], who remained in their rooms, lounging and recovering from the battle the night before.
 
-Gathering, Cirrus asks everyone to form a ring, each holding the hands of the others.
+Gathering, Cirrus asked everyone to form a ring, each holding the hands of the others.
 
-The group obliges, albeit with some confusion.
+The group obliged, albeit with some confusion.
 
-Cirrus throws his head back and a single clear note erupts from his mouth along with a deluge of light that expands and fills the area.
+Cirrus threw his head back and a single clear note erupted from his mouth along with a deluge of light that expanded and filled the area.
 
-When the brightness subsides, the group finds themselves no longer in the keep, having undergone a Planeshift...
+When the brightness subsided, the group found themselves no longer in the keep, having undergone a Planeshift.
 
-They find themselves floating in a starry void, able to breath and the temperature quite mild and pleasant.  Purple, green and red nebulae cascade around them, an expanse of color and an absence of the material world.
+They found themselves floating in a starry void, able to breathe and the temperature quite mild and pleasant. Purple, green and red nebulae cascaded around them, an expanse of color and an absence of the material world.
 
-Everyone floats in the zero gravity environment, tumbling every so slightly.  Fey lets out a gasp of astonishment as he recognizes the Plane of Thought, the Astral Sea.  The others begin to recognize and realize the implications just as Cirrus launches into an energetic speech about Selune guiding him here for a greater purpose.
+Everyone floated in the zero-gravity environment, tumbling ever so slightly. Fëanon let out a gasp of astonishment as he recognized the Plane of Thought, the [[astral-plane|Astral Sea]]. The others began to recognize it and realize the implications just as Cirrus launched into an energetic speech about Selune guiding him there for a greater purpose.
 
-One by one, they begin to figure out the strange environment, willing themselves to stabilize and then willing themselves forward.  Movement and propulsion is an effort of will, not body.  One by one they get the hang of it, though it takes Gundren a little longer.
+One by one, they figured out the strange environment, willing themselves to stabilize and then willing themselves forward. Movement and propulsion was an effort of will, not body. One by one they got the hang of it, though it took Gundren a little longer.
 
-Patches manages to use the liquid mercury of her weapon as a focus for her movement and notes that every piece of enchanted gear she has, and the others have, seem to collect light around them in a slight halo.
+Patches managed to use the liquid mercury of her weapon as a focus for her movement and noted that every piece of enchanted gear she and the others carried seemed to collect light in a slight halo.
 
-After a little while of flitting around and enjoying the light show, they decide that heading back to the Prime Material would be best and Cirrus reluctantly agrees...and tells them he will take them back in eight hours when he's had a chance to rest.
+After a little while of flitting around and enjoying the light show, they decided that heading back to the Prime Material would be best. Cirrus reluctantly agreed — and told them he would take them back in eight hours, once he had rested.
 
-The group settles in for one of their stranger rests, floating among the starry void.
+The group settled in for one of their stranger rests, floating among the starry void.
 
-**Fey settles in and decides to get some work done and pulls out one of the Golden scrolls they retrieved from the Sanctum of Karsus.**
+Fëanon settled in and pulled out one of the golden scrolls they had retrieved from the [[sanctum-of-krasus|Sanctum of Karsus]].
 
-**Going over it in the strangely meditative Astral Sea and with Theodemir whispering in his mind, Fey begins to make great progress.  Pouring power into the golden tube, the runes begin to light up and then project a holographic image of the spell equations.  Reading over them is difficult. Notes and phrases are all in ancient Netherese but there's something about the equations themselves which is strangely familiar to Fey and Theodemir.  Finally deciphering a section of the spell that he recognizes, equation after equation begins to unfurl before him and he realizes what he's looking at: Instructions for a High-Magic ritual. The 10th Level spell Weave Mythal, the legendary protective magic of Silverymoon, Myth Drannor and the Netherese Enclaves themselves.  Realizing he could never hope to cast this spell himself, Fey works out the numbers and determines he would need at least three Archmages to even attempt the spell and even then, it would most likely kill someone in the casting.  The more archmages helping, the lower the risks.  A problem for another time.**
+Going over it in the strangely meditative Astral Sea, with Theodemir whispering in his mind, Fëanon began to make great progress. Pouring power into the golden tube, the runes began to light up and then projected a holographic image of spell equations. Reading over them was difficult — notes and phrases were all in ancient Netherese — but something about the equations themselves was strangely familiar to Fëanon and Theodemir. Finally deciphering a section of the spell he recognized, equation after equation began to unfurl before him and he realized what he was looking at: instructions for a High-Magic ritual. The tenth-level spell Weave Mythal, the legendary protective magic of Silverymoon, Myth Drannor, and the Netherese Enclaves themselves. Realizing he could never hope to cast this spell himself, Fëanon worked out the numbers and determined he would need at least three Archmages to even attempt the ritual, and even then, it would most likely kill someone in the casting. The more Archmages helping, the lower the risks. A problem for another time.
 
-**Turning his attention to the second Golden Tube, Fey begins to power it up.  As the runes ignite and the projection begins, weariness overtakes him.  Just before the Aurumn scroll powers down, he manages to read a section of the runes and notes that it is most certainly another High-Magic ritual.**
+Turning his attention to the second Golden Tube, Fëanon began to power it up. As the runes ignited and the projection began, weariness overtook him. Just before the Aurum scroll powered down, he managed to read a section of the runes and noted that it was most certainly another High-Magic ritual.
 
-​The hours wear on and the group finds the Astral Plane to be extremely restful, they spend the night floating among the stars.
+The hours wore on and the group found the [[astral-plane|Astral Plane]] to be extremely restful, spending the night floating among the stars.
 
-After the rest, the group decides that they can't just leave the Astral Plane without a little bit of exploration.  Fey'Anon darts off, speeding away through the void.
+After the rest, the group decided they could not just leave the Astral Plane without a little exploration. Fëanon darted off, speeding away through the void.
 
-Pushing through an appearing cloud of light and color, Fey bursts through to the other side and is met with a strange sight: Three collosal chunks of earth seemingly in orbit around one another, the flat topsides giving way to a tapering underside, much like an inverted mountain (depending on the point of view in a plane with no "up").
+Pushing through an appearing cloud of light and color, Fëanon burst through to the other side and was met with a strange sight: three colossal chunks of earth seemingly in orbit around one another, the flat topsides giving way to a tapering underside, much like inverted mountains.
 
-Floating in a little closer, Fey notes movement covering the undersides.  Getting even closer, he notes thousands of Astral creatures, strange mantas that appear to be getting more agitated the closer he gets, flapping their wings in rhythmic patterns.  Fey backs off.
+Floating in a little closer, Fëanon noted movement covering the undersides. Getting even closer, he noted thousands of Astral creatures — strange mantas that grew more agitated the closer he got, flapping their wings in rhythmic patterns. Fëanon backed off.
 
-The rest of the group catches up and Patches surveys the asteroids with her telescope. She spots what she thinks could be ruins, and stairs into some tunnels.  The group decides to move in.
+The rest of the group caught up and Patches surveyed the asteroids with her telescope. She spotted what she thought could be ruins and stairs descending into tunnels. The group decided to move in.
 
-Tark wraps shadow around them and they fly in from above, keeping as far away from the mantas as possible. They approach the ruins and head down the steps and into a long, straight tunnel.
+Tark wrapped shadow around them and they flew in from above, keeping as far from the mantas as possible. They approached the ruins and headed down the steps and into a long, straight tunnel.
 
-As they move through Patches, Fey and Gundren note the stonework: Illithid.
+As they moved through, Patches, Fëanon and Gundren noted the stonework: Illithid.
 
-Heading down the tunnel, they notice no traps but do note a form floating ahead.  They approach and find the long dead corpse of a humanoid, mummified and desiccated. They investigate and determine it to be a Githyanki.  They rip the corpse apart as Gundren takes its splintmail armor and Tark goes in for the things heart as Fey reminds the monk they need a Githyanki Psion heart for the Windrunner armor recipe they found.
+Heading down the tunnel, they noticed no traps but did note a form floating ahead. They approached and found the long-dead corpse of a humanoid, mummified and desiccated. They investigated and determined it to be a Githyanki. They ripped the corpse apart as Gundren took its splintmail armor and Tark went in for the heart — Fëanon reminded the monk they needed a Githyanki Psion heart for the Windrunner armor recipe they had found.
 
-Whether this was a Githyanki Psion...they have no idea.
+Whether this was a Githyanki Psion, they had no idea.
 
-They continue on.
+They continued on.
 
-Patches rounds the first corner and continues on ahead, coming up short as she feels something in the air ahead. An anti-magic field.  The group stops just before it and she floats on ahead. The group begins to get nervous.
+Patches rounded the first corner and continued ahead, coming up short as she felt something in the air: an anti-magic field. The group stopped just before it and she floated on ahead. The group began to grow nervous.
 
-As Patches gets sixty feet ahead, she stops.  She sees alcoves and small divots in the walls and ceiling and something is hunkered down in each. She pulls out her heavy crossbow and shoots into one of the cubbies.  A small creature, the size of a small dog floats out a moment later, four squat legs attached to a brain...an Intellect Devourer.
+As Patches got sixty feet ahead, she stopped. She saw alcoves and small divots in the walls and ceiling, with something hunkered down in each. She pulled out her heavy crossbow and shot into one of the cubbies. A small creature the size of a small dog floated out a moment later — four squat legs attached to a brain. An Intellect Devourer.
 
-Suddenly, the entire hall up ahead bursts into motion as dozens of the creatures pour from alcoves and begin to jet toward Patches.  She turns and wills herself forward with all speed, back to the waiting group.
+The entire hall ahead burst into motion as dozens of the creatures poured from alcoves and began to jet toward Patches. She turned and willed herself forward with all speed, back to the waiting group.
 
-Seeing trouble coming at them in a frenzy, Fey prepares a teleport. The moment Patches gets in range, he executes the final word of power and they vanish in a flash, back to their entry point into the Astral Plane.
+Seeing trouble coming in a frenzy, Fëanon prepared a teleport. The moment Patches got in range, he executed the final word of power and they vanished in a flash, back to their entry point into the Astral Plane.
 
-They look at one another and chuckle.  They mark the strange dungeon on the proverbial map and swear to return and check it out further at a later date.
+They looked at one another and chuckled. They marked the strange dungeon on the proverbial map and swore to return at a later date.
 
-They gather around Cirrus and joining hands, they vanish in a flash of silver light.
+They gathered around Cirrus and, joining hands, vanished in a flash of silver light.
 
-**The Moonwood and the Oni infiltrators**
+## The Moonwood and the Oni Infiltrators
 
-**​**The Sun rises over the moonwood and the Barony of Selunia, the warm sunlight glinting off the snow covered landscape.
+The sun rose over [[the-moonwood|the Moonwood]] and the Barony of Selunia, warm sunlight glinting off the snow-covered landscape.
 
-Cirrus, Tark, Patches, Buumi, Gundren, Gwen and Fey'Anon look across the miles to Thunder Bluff and the construction well underway and they hesitate, wondering if they should go down there first.
+Cirrus, Tark, Patches, Buumi, Gundren, Gwen and Fëanon looked across the miles to Thunder Bluff and the construction well underway, and they hesitated, wondering if they should go down there first.
 
-Eventually, they decide that making haste to the site of the Drow raid is more important and they turn toward the forest and begin to make their way inside. 
+Eventually, they decided that making haste to the site of the Drow raid was more important and they turned toward the forest and began to make their way inside.
 
-Fey'Anon sends a message to Doc B, telling him to make haste to the Moonwood and if he could stop by the Barony; Patches wants Mr. Pickles with them for the Underdark.
+Fëanon sent a message to [[doc|Doc B]], telling him to make haste to the Moonwood and, if he could, stop by the Barony — Patches wanted Mr. [[pickles|Pickles]] with them for the Underdark.
 
-Heading deep into the forest, the pace is easy, the group now intimately familiar with traveling in snow.  The sunlight reaches through the canopy of barren trees and snow-covered evergreens, warming the day a little and causing some discomfort on everyone's eyes but Patches most of all.
+Heading deep into the forest, the pace was easy, the group now intimately familiar with traveling in snow. The sunlight reached through the canopy of barren trees and snow-covered evergreens, warming the day a little and causing some discomfort on everyone's eyes — Patches most of all.
 
-After a few hours of trekking, Patches and Tark notice something ahead and move in to investigate.  Moving in, but staying far enough away not to attract attention, they see three figures leaning up against the trees.
+After a few hours of trekking, Patches and Tark noticed something ahead and moved in to investigate. Staying far enough away not to attract attention, they saw three figures leaning up against the trees.
 
-Tark and Patches head back to the group to tell them what they saw and draw up a plan moving forward.
+Tark and Patches headed back to the group to relay what they had seen and draw up a plan.
 
-Gathering together, they relay the information.  Behind them, a tree moves, dumping a good deal of snow.
+Gathering together, they laid out the information. Behind them, a tree moved, dumping a good deal of snow.
 
-Patches spins and casts Faerie fire and three figures suddenly become visible, engulfed in purple flames: Oni.
+Patches spun and cast Faerie Fire, and three figures suddenly became visible, engulfed in purple flames: Oni.
 
-The Oni drop their invisibility and six of the blue-skinned fiends drop to the snow wielding heavy glaives. The first two land and unleash a hurricane of cold on the party.
+The Oni dropped their invisibility and six of the blue-skinned fiends dropped to the snow, wielding heavy glaives. The first two landed and unleashed a hurricane of cold on the party.
 
-Gwen is frozen solid, the ice stopping her gears. The others dive for cover as the cold bites into them. Then, they retaliate.
+Gwen was frozen solid, her gears stopping. The others dove for cover as the cold bit into them. Then they retaliated.
 
-Between Fey freezing and holding several Oni, Cirrus doing the same, Tark stunning as many as he can get his hands on while Patches, Gundren and Buumi focus fire on the unaffected Oni, the group slaughters the attacking fiends.
+Between Fëanon freezing and holding several Oni, Cirrus doing the same, and Tark stunning as many as he could get his hands on while Patches, Gundren and Buumi focused fire on the unaffected Oni, the group slaughtered the attacking fiends.
 
-Within seconds, the Oni lie dead in the snow, their corpses turning to ash and dust and the group having worked off a little of their anger at the beastly creatures.
+Within seconds, the Oni lay dead in the snow, their corpses turning to ash and dust.
 
-Heading away from the site of the ambush, the group returns to where Patches and Tark saw the three figures and approach the captive Elves.  
+Heading away from the site of the ambush, the group returned to where Patches and Tark had spotted the three figures and approached the captive Elves.
 
-The Moon Elves thank the group and introduce themselves as **Lelria, Jindree and Fesk**.  Gundren summons the Tenser's Disk and the three elves hop on, directing the group to their village.
+The Moon Elves thanked the group and introduced themselves as Lelria, Jindree and Fesk. Gundren summoned the Tenser's Disk and the three elves hopped on, directing the group to their village.
 
-Lelria notes Patches and tries to talk to her, realizing that she is Findall's mother.  She says that he's a very nice boy and they all like and respect the lad, but without his mother, he's missing something in his life.  Patches simply says he's better off this way.
+Lelria noticed Patches and tried to talk to her, realizing she was Findaal's mother. She said he was a very nice boy and they all liked and respected the lad, but without his mother, he was missing something in his life. Patches simply said he was better off that way.
 
-An hour goes by and the group begins to note the smell of smoke in the air and a haze.  As they approach the Elven village, the smell worsens and the haze begins to sting their eyes. 
+An hour went by and the group began to notice the smell of smoke in the air and a haze. As they approached the Elven village, the smell worsened and the haze began to sting their eyes.
 
-The village up ahead is all but destroyed. The once beautiful scene of idyllic life and nature filled paradise turned to a burned husk. Fires still lick at some of the larger trees used to fashion abodes. The elven villagers gasp in disbelief and the group stops.  They see movement among the ruins...
+The village ahead was all but destroyed. The once beautiful scene of idyllic life and natural paradise had been turned to a burned husk. Fires still licked at some of the larger trees used to fashion abodes. The elven villagers gasped in disbelief and the group stopped. Movement stirred among the ruins.

@@ -3,6 +3,7 @@ title: The Underdark - Demogorgon
 chapter: 8
 chapterTitle: The Underdark
 session: 31
+summary: "The blood ritual completed when Ront tore himself apart, summoning Demogorgon onto the bridge of Ladueger's Furrow — thirty feet of two-headed demon prince that the group fought across the width of Gracksuluth while Snorbul climbed him axe-stroke by axe-stroke, before Patches leapt from a balcony onto his back and drove Eclipse toward the spine where the two heads met."
 people:
   - "aliyah-faen-tlabbar"
   - "anduriel"
@@ -26,110 +27,74 @@ factions:
   - "stoneguard"
 ---
 
-The battle against the demons and the rioting Derro rages.
+## The Ritual Completes
 
-Ront lashes out at Fey'Anon, but the tentacles merely smash through one of the mirror images.
+The blood kept rising.
 
-Fey retaliates with a powerful Firebolt, but the fire glances off the demonic hide of the disfigured warlock.
+[[ront|Ront]]'s wounds were being fed by the droplets falling upward from the battle around him, coating him thicker with every passing second. [[gundren-rockseeker|Gundren]] looked at the scene — the Narzugon holding the bridge, the Stoneguard grinding against the Glabrezu, the strange gathering blood — and called out that killing [[ront|Ront]] might trigger something very bad.
 
-Patches continues to snipe from her perch, hitting Ront with bolt after heavy bolt.
+[[aliyah-faen-tlabbar|Patches]], still in her perch, decided [[feanon-serinde|Fëanon]] would know better than [[gundren-rockseeker|Gundren]], and he had not called out anything but curses so far.
 
-Cirrus remains entombed in ice to avoid melee with Ront, but notes two of the Derro rush in to flank, one smashing away (in futile) against the ice.
+She put another heavy bolt into the mutated orc.
 
-Gundren takes a read of the scene, gauging the Narzugon's efforts to hold the bridge, the Stoneguard and the strange blood rain toward Ront.
+The group tore into [[ront|Ront]]. He tried to cast [[feanon-serinde|Fëanon]] into the [[abyss|Abyss]] via Planeshift — the spell caught a mirror image instead and dissipated. He lashed out at the group surrounding him. [[horatio-von-bumidere|Buumi]], [[cirrus-al-kayan|Cirrus]], and [[gundren-rockseeker|Gundren]] killed the last Derro veterans around him, stripping away the advantage of flanking support.
 
-Gundren calls out, thinking that killing Ront might trigger something very bad...
+Surrounded by [[feanon-serinde|Fëanon]], [[snorbul|Snorbul]], [[horatio-von-bumidere|Buumi]], and [[cirrus-al-kayan|Cirrus]], with [[aliyah-faen-tlabbar|Patches]] sniping from above and [[tarkathee-daru|Tark]] crossing the bridge to close in, [[ront|Ront]] was out of options.
 
-Another heavy bolt slams into the disfigured Orc .
+The malformed tentacles of his own arm curled around himself. The tusks bit into his own flesh. [[ront|Ront]] tore himself apart — flayed pieces scattered across the bridge and the plaza — and the blood ritual completed.
 
-Patches decides that Fey would probably know better than Gundren, and he hasn't called out anything but curses so far.
+Something began to grow from the remains.
 
-The party proceeds to rip into Ront.
+It built upward, unfolding from the carnage, drawing mass from nothing, a body of muscle and scale and matted fur assembling itself into a shape thirty feet tall. Two heads rose on parallel spines. Two sets of eyes opened. Two mouths full of teeth the size of swords.
 
-The Disfigured Orc desperately attempts to cast Fey'Anon into the Abyss via a Planeshift.
+[[demogorgon|Demogorgon]], Prince of Demons, had been summoned.
 
-Luckily, one of the Mirror image illusions is touched, rather than the real Elf and the powerful spell has no effect.
+## The Prince of Demons
 
-Fey strikes back with a Fire Bolt.
+[[tarkathee-daru|Tark]] did not hesitate. He Shadowstepped above the demon prince and began striking.
 
-Buumi, Cirrus and Gundren kill the flanking Derro Veterans, taking away Ront's advantage.
+A wicked blow connected. One of the heads winced. It looked up at the monk — and in the Abyssal tongue, called out that it knew him. It was looking for him. The monk normally carried *it* — referring to the artifact.
 
-Surrounded by Fey, Snorbul, Buumi and now Cirrus, Ront is hard pressed to stand his ground.
+[[tarkathee-daru|Tark]] shuddered, understanding the words, and immediately began thinking.
 
-Across the bridge, another front of the Derro Riots surges forward.
+The others recovered from the shock faster than anyone had the right to and brought their attacks to bear on the Prince of Demons. [[demogorgon|Demogorgon]] lashed out with ribbons of toothy flesh — the tentacle-arms of his massive form — hitting [[tarkathee-daru|Tark]] and [[horatio-von-bumidere|Buumi]] with wounds that stayed, a necrotic phage reducing the vigor of anyone the Prince touched. [[cirrus-al-kayan|Cirrus]] healed [[tarkathee-daru|Tark]] as fast as the demon tore into him. [[horatio-von-bumidere|Buumi]] raised an Aura of Vitality over everyone.
 
-In anticipation The Narzugon Anduriel shoots the cart with a firebolt, melting through the cabin door and into the explosives inside.
+[[demogorgon|Demogorgon]] oriented quickly to the new battlefield. His beguiling stare swept the group and found [[tarkathee-daru|Tark]], staggering him.
 
-The cart detonates just as it rolls into the front line of the Derro.
+[[feanon-serinde|Fëanon]] stepped out from behind a piece of rubble and sent a Thunderwave into the demon's back. The shockwave ripped up the spine and [[demogorgon|Demogorgon]] staggered.
 
-Immediately after, Anduriel swings her axe down twice, creating a funnel of Ice-walls across the bridge.
+[[tarkathee-daru|Tark]] got to his feet and used a Minor Illusion to make it look like he was pulling the artifact from his pouch, then Shadowstepped to the center of the bridge — the open span over the chasm, away from the group. A visible target, holding something the demon wanted.
 
-Seeing her tactic, Gundren thinks he can one-up her and throws another ruby from his helm, creating a wall of fire, cutting the Derro off from advancing.
+[[demogorgon|Demogorgon]] obliged. He turned the gaze of one of his heads onto a paralyzed Duergar guard nearby, using the guard's mind as a window, and stepped through it onto the bridge. He tore the guard apart on the way through — stealing the soul into a Soul Cage to consume at his leisure — and turned toward [[tarkathee-daru|Tark]] on the span.
 
-Meanwhile, the Stoneguard work and take down one of the Glabrezu, though lose another Guard in the process as they hold that entire side of the plaza.
+Anduriel, realizing what was standing on her bridge, composed herself with visible effort, summoned her Nightmare Steed, and made a pass at the demon with her Fiery Lance. She struck it hard. She underestimated the demon's reach on the return. The Narzugon took a punishing blow and galloped on, sinking low in the saddle, gravely wounded.
 
-Tark finishes up with the Derro he faces and turns to assault Ront with the rest of the group, as he looks on though, something happens.
+## The Decoy
 
-covered in blood from the raining droplets, Ront curls the malformed tendrils of his own arm around himself.  As the tusks of the tentacles bite into his own flesh and tear, Ront is ripped apart and flayed flesh is scattered across the whole area.
+[[snorbul|Snorbul]] had been spending the entire fight climbing [[demogorgon|Demogorgon]]. Axe-stroke by axe-stroke, one handhold at a time, striking as he climbed, the Deep Gnome worked his way up the demon prince's body while the attacks from the rest of the group drove the accumulated damage higher.
 
-As the body is destroyed, a larger, more sinister form unfolds from the carnage, growing upon itself into a massive behemoth of muscle, scale and fur.
+The wounds were mounting. [[demogorgon|Demogorgon]] began looking for his exit.
 
-A two headed monstrosity wails as it stands to its feet, more than 30ft tall.
+[[cirrus-al-kayan|Cirrus]] saw it. He yelled out across the bridge that *he* had the artifact — not [[tarkathee-daru|Tark]] — and placed a [[bag-of-holding|bag of holding]] down in plain view.
 
-Demogorgon, the Prince of Demons has been summoned by the blood ritual (wainting since Sludabloop! JEEZ!).
+[[demogorgon|Demogorgon]] had already dismissed [[tarkathee-daru|Tark]]'s as an illusion. [[cirrus-al-kayan|Cirrus]] was so resolute, so certain in his declaration, that the demon lord believed him. He crashed toward the warlock, smashing through the city, the bridge shuddering beneath the impact of each step.
 
-Tark wastes no time and immediately shadowsteps above the demon prince and begins to pummel him.
+[[snorbul|Snorbul]] struck into the demon's legs as he went. [[gundren-rockseeker|Gundren]] fired shot after shot into the retreating back. [[feanon-serinde|Fëanon]] blasted away with cantrips, conserving his deeper resources.
 
-Landing a wicked blow, one of the heads winces and calls out.  It knows of Tark, it's looking for him in fact, as it knows the monk normally carries "**It" **referring to the artifact.
+Something caught [[feanon-serinde|Fëanon]]'s attention as he watched Anduriel circle on her Nightmare. The Narzugon was consuming the ambient magic around her — drawing the wild energy of the area into herself to heal. It was a healing ability consistent with what he knew Narzugon could do, but the specific quality of it was different. He filed it away.
 
-understanding the Abyssal words, Tark shudders, but begins to come up with a plan.
+[[horatio-von-bumidere|Buumi]] swooped down as the demon lord charged and brought Foehammer across one of its snouts, scattering teeth across the bridge stone.
 
-The others recover from their panic from seeing the massive demon quickly and rally, taking the fight to the prince of Demons.
+[[demogorgon|Demogorgon]] staggered.
 
-The hulking demon lashes out at Tark and Buumi, massive ribbons of toothy flesh tearing into them and wounding them terribly.
+[[aliyah-faen-tlabbar|Patches]] had been moving the whole time. From the bridge railing she had levitated across the full width of the structure and climbed to a balcony overlooking the demon's path. She watched [[horatio-von-bumidere|Buumi]]'s blow land and read the moment.
 
-Worse though, a necrotic phage seems to remain, reducing the health and vigor of anyone touched by the Prince of Demons.
+She leapt from the balcony onto [[demogorgon|Demogorgon]]'s back.
 
-Seeing the very life sapped from them, Cirrus heals Tark as Buumi enacts an Aura of Vitality to bolster everyone.
+She landed and ran up the spine toward the two heads, searching the architecture of the demon's body for the place where the two heads joined — the point where both spines fused into a single trunk.
 
-Attack after attack slams into Demogorgon as it tries to make sense of the new space and the battlefield.
+She found it.
 
-It takes only seconds before it orients and begins to level it's beguiling stare upon the party.
+She drove [[eclipse|Eclipse]] into the demon's flesh.
 
-Tark is staggered as he meets the gaze and is then lashed terribly.
-
-Fey steps from behind a portion of rubble and a massive shockwave emanates, the Thunderwave ripping up Demogorgon's back and it staggers.
-
-Tark gets to his feet and pretends, with a minor illusion, to pull the artifact from his pouch and then shadowstep to the center of the bridge to try and lure Demogorgon away from his friends.
-
-The Demon obliges, staring directly into the eyes of one of the paralyzed Duergar guards on the bridge, Demogorgon uses his mind as a window and steps out onto the bridge, beneath Tark.
-
-The Prince proceeds to rip the Duergar apart, even stealing the soul of one into a Soul Cage to consume later.
-
-Shocked by the appearance of the Demon, the Narzugon quickly composes herself and summons her Nightmare Steed.
-
-Fiery Lance in hand, she makes a pass as the Demon, striking it wickedly, but she underestimates his reach and is punished severely for the attack.
-
-gravely wounded, the Narzugon gallops on, sinking low in the saddle.
-
-As Demogorgon takes strike after strike from the powerful group - Snorbul having spent the entire time climbing him, axe strike by axe strike - the wounds begin to mount and Demogorgon begins to look around, planning his exit.
-
-Realizing it's time to leave, Demogorgon is caught off guard as Cirrus yells out that HE has the artifact, not Tark, and then places down a bag of holding.
-
-The Prince of Demons knows that Tarks was an illusion, and Cirrus is so resolute in his words, that the Demon Lord believes him and crashes his way, smashing through the city toward him in a frenzy.
-
-Snorbul strikes, cutting deep into the Demon's legs, Gundren blasts shot after shot.
-
-Blasting away with his cantrips (saving his spell slots) Fey feels something that catches his attention.
-
-Turning toward the Narzugon, he watches as she consumes the ambient magic around her, healing her own wounds and reducing the wild magic in the area.
-
-Fey knows that these Narzugon have healing abilities, but this was different that what he witnessed before...
-
-Buumi swoops down as the Demon Lord charges and smashes him across one snout with Foehammer, sending teeth flying.
-
-As he staggers, Patches leaps from a balcony after having levitated and leaped across the width of the bridge.
-
-She lands on his back and rushes up toward the heads.
-
-Finding where the two spines fuse, she plunges Eclipse into the Demons flesh...
+*[Session 31 is incomplete. The entry ends here.]*

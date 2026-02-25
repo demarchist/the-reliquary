@@ -1,8 +1,9 @@
 ---
-title: The Underdark - Session 18
+title: "The Underdark - The False Monk"
 chapter: 8
 chapterTitle: The Underdark
 session: 18
+summary: "The cursed giant had a grieving husband — Dorhun, who invited the group to Cairngorm and the Stone Giant elders who knew the path to Gravenhollow — while Cirrus entered the West Cleft naked and blood-covered to bluff his way to Droki and a meeting with Bilrigger, and Tark's solo investigation into Rilka ended in a room full of vampire spawn and a revelation that shattered him: Kenshi had never existed."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -39,182 +40,144 @@ factions:
   - "stoneguard"
 ---
 
-The group finds themselves standing over the corpse of the mutated giant, the remains smoldering from the lava immersion.
+## Dorhun
 
-Investigating, Fey finds residual magics, the result of a powerful and targeted curse.
+The group stood over the smoldering remains of the demonic giant when Stoneguard reinforcements arrived, taking in the scene. The golden Flameguard badges stayed any outright hostility. The guards approached cautiously and offered their thanks.
 
-The Duergar Stoneguard survivors approach the group, noting the golden badges and thank them for their assistance.
+Then the ground began to shake with a different rhythm — not the explosive concussion of the fight, but the steady, deliberate footfalls of something enormous approaching.
 
-The ground begins to rumble and moments later another Stone Giant, this one looking healthy, rushes into the large plaza
+Another Stone Giant came at speed around the corner, and pulled up short when it saw the body.
 
-It sees the corpse and falls to its knees sobbing.  The giant - **Dorhun**, identifies the dead giant as its wife.
+It fell to its knees.
 
-Stoneguard reinforcements arrive but stay back, noting that the action has subsided and allowing the newly arrived Giant some space.
+The giant introduced himself as Dorhun. The dead creature had been his wife. He stayed on his knees for a long moment, looking at what remained of her, and then the group told him what [[feanon-serinde|Fëanon]] had confirmed: this was not illness. Someone had targeted her with a powerful curse. Someone had done this deliberately.
 
-**Dorhun** collects the corpse of his wife and is told by the group that she was targeted by a curse, someone did this to her.
+Dorhun thanked them for the truth of it. He lifted his wife's remains and asked the group, before he left, to come to Cairngorm Cavern and speak with Hgraam — the Stone Giant elder who led his people. He thought Hgraam would want to meet them, and that they might find the meeting worthwhile.
 
-**Dorhun **thanks the group for the information and bids them come to **Cairngorm Cavern to speak with Hgraam **their leader.
+He walked away carrying her, and the Stoneguard captain stepped in to offer the group mercenary work with the Guard.
 
-The giant then leaves and a Duergar Captain approaches.
+[[cirrus-al-kayan|Cirrus]] politely stated that he hated [[gracksuluth|Gracksuluth]] more than almost anywhere he had ever been. They declined.
 
-The captain thanks the group and offers them mercenary work with the Stoneguard.
+## Anvilthew
 
-Cirrus politely states how much he hates the city of Gracksuluth and the group declines.
+[[gundren-rockseeker|Gundren]] split from the group and disappeared into the workshop the Anvilthew manufactory had provided, along with the intern Gil and an elementally powered forge. The work on [[gwen|Gwen]] would take most of the day, but with proper tools and assistance it was progressing quickly.
 
-The guards begin to clean up the damage from the rampage.
+The others went to speak with Legran, the manufactory contact who had been assisting the group with information about [[gracksuluth|Gracksuluth]]'s factions.
 
-The group heads into the Anvilthew manufactory to drop Gundren off to fix Gwen.
+[[aliyah-faen-tlabbar|Patches]] asked after Claudine — an old contact with connections to Bregan D'aerthe, potentially the group's best option for getting into [[menzoberranzan|Menzoberranzan]] through unofficial channels. The answer was complicated: Claudine had been lost to a contract with the Muzgardt clan several years back and currently worked for them, but the Anvilthew wanted her back. Finding and extracting her was a possibility, but not a simple one.
 
-Gundren splits off from the group, heading into a workshop provided and begins to get to work with the help of Gil the intern, utilizing an Elemental powered forge.
+Legran also mentioned, as an aside, that the manufactory would pay handsomely for any Purple Worm eggs if the group happened to end up in the Wormwrithings. Seven thousand five hundred gold per egg.
 
-The others of the group head to talk to Legran, to get some more information.
+They asked Legran to leave his office and took stock privately.
 
-Patches finds out that her contact, **Claudine**, was lost in a contract to the **Muzgardt** clan a few years back, she works for them now but the **Anvilthew** want her back.
+The group had been in [[gracksuluth|Gracksuluth]] long enough. The city was hostile, smoggy, dangerous, and full of obligations that kept multiplying. They agreed: no getting bogged down in local affairs. Their actual goals were Cirrus's meeting with the Warlocks of Ceregorach in the West Cleft, the Stone Giants and their connection to [[gravenhollow|Gravenhollow]], the Drow scout Xalith and the Ilvara problem, and then a close on everything involving Themberchaud. In that order.
 
-Patches wants to find Claudine due to her connections with Bregan D'Aerthe and potentially find a way into Menzoberranzan that's not so obvious.
+They headed out without [[gundren-rockseeker|Gundren]], who stayed to finish [[gwen|Gwen]].
 
-The group is also told that Anvilthew will pay handsomely for any Purple Worm eggs, 7,500gp each if they end up going to The Wormwrithings.
+## The West Cleft
 
-Unsure what to do next, they ask **Legran** to leave his office so they can speak in private and he obliges.
+Getting to the West Cleft required descending Ladueger's Furrow — [[gracksuluth|Gracksuluth]]'s great chasm — via the complex system of Duergar elevators, a process that consumed the better part of two hours.
 
-The group then go on to agree that no one wants to remain in The Underdark any longer than they have to and that they should stay focused and not get bogged down in local affairs. 
+As they descended, [[tarkathee-daru|Tark]] noticed they were being followed.
 
-They narrow down their goals and decide to head to **The West Cleft** first to find the Warlocks of **Ceregorach** for Cirrus, then visit the Giants (and their connection with **Gravenhollow**), talk with **Xalith** the Drow Scout and then wrap things up with **Themberchaud**.
+He went invisible and hung back, letting the group continue ahead while he tracked the pursuit. Two Derro, keeping a careful distance. He got close enough to catch fragments of their conversation — the name Zhengyi, the name Rilka, and enough of the rest to understand that these two knew the group was carrying something important.
 
-They head out, Gundren staying behind to work on Gwen, the workshop and assistance making the work go far faster than expected.
+He rejoined the group at the entrance to the West Cleft — a large set of guarded doors set into the cavern wall, marking the edge of the Derro ghetto — and told them. He also asked the Duergar guards to help apprehend the tails. The guards ran to where [[tarkathee-daru|Tark]] indicated.
 
-Heading through the city, the group makes their way to Ladueger's Furrow and the complex series of elevators the Duergar use to traverse up and down the smog-filled chasm.
+The Derro Dimension Doored away.
 
-The descent takes the better part of two hours.
+[[aliyah-faen-tlabbar|Patches]] looked at [[tarkathee-daru|Tark]] with barely restrained frustration. Getting the loud guard involved rather than taking the two themselves was, she suggested, not her preferred approach to surveillance problems.
 
-As they go, every now and then they stop to ask the locals if they have heard of any murders where the teeth are missing; people have.
+The guards returned with the warning that the Derro below had been agitated recently and were prone to violence, and that there had been murders in the Cleft — several, with the teeth of the victims removed.
 
-Patches and Tark begin to feel uncomfortable as they descend further into the Furrow.
+[[cirrus-al-kayan|Cirrus]] had a plan.
 
-Tark feels that they are being watched and Patches thinks she sees someone following them.
+He would go in first. Alone. Naked. Covered in teeth and blood. He wanted to be taken to the Warlocks — specifically Bilrigger the Savant — and his theory was that the West Cleft responded better to a demonstration of absolute lunacy than to any other form of diplomacy.
 
-They both inform one another and Tark decides to try and see who is following them, shadowstepping into some deep shadows and going invisible. 
+He stepped through the doors.
 
-Hanging back, Tark spots that the group is being followed by two Derro, Tark gets close but has a hard time hearing what they are saying, but does catch a few snippets.
+The nearest Derro looked him over with visible contempt. [[cirrus-al-kayan|Cirrus]] wailed *"TAKE ME TO THE MASTER!"*
 
-He hears the name **Zhengyi**, the name of one of the Derro; **Rilka** and  and that the two Derro know that the group carries something important.
+The Derro said "Get him, boys" and was immediately disintegrated by a volley of Eldritch Blasts.
 
-The group finally makes it to the entrance to The West Cleft and approach the large set of guarded doors leading to the Derro Ghetto. 
+The others behind the doors subtly assisted — paralyzing one of the guards who rushed in, dropping another with a thrown blade to the throat. [[cirrus-al-kayan|Cirrus]] used the paralyzed Derro's face as a prop, cutting out teeth with his dagger and adding them to his collection while screaming at the onlookers to take him to the master.
 
-They chat with the guards at the checkpoint and are warned that the Derro have been agitated recently, and are prone to violence.  
+The crowd of Derro backing toward the walls, covered in the blood of their colleagues, took a moment to decide that this was genuinely too dangerous to oppose.
 
-They also confirm the murders and missing teeth.
+One of them went to contact the Warlocks.
 
-Tark returns to the group, noting the location of the two Derro tailing them and asks the guards for assistance in apprehending them.
+[[cirrus-al-kayan|Cirrus]] sat on a rock outside the line of sight of the Duergar guards, waiting, and bleeding on himself.
 
-Listening to him due to the Flameguard badge he wears, the Guards rush to the spot indicated by Tark, but spook the trailing Derro - Dimension Dooring to safety.
+[[aliyah-faen-tlabbar|Patches]] had already snuck in and was covering him from the top of a nearby statue. [[tarkathee-daru|Tark]], in disguise, had started asking around for Rilka.
 
-Patches berates Tark for getting the loud guard involved rather than taking the two Derro themselves.
+## Droki
 
-Heading back to the door to the Ghetto, they concoct a plan.
+Eventually a strange figure approached [[cirrus-al-kayan|Cirrus]]: a Derro in patchwork clothing with a wide-brimmed hat and a leather messenger bag over one shoulder. He introduced himself as Droki.
 
-Cirrus will go in first, naked, covered in teeth and blood and try to intimidate the Derro with a show of insanity - he wants to be taken to the Warlocks!
+[[cirrus-al-kayan|Cirrus]] recognized the name — the Flameguard had been looking for him. He kept this from his expression and kept the intimidation going thick, cowing the smaller Derro into agreeing to arrange a meeting with his master Bilrigger the Savant, Warlock of Ceregorach.
 
-He steps into the West Cleft, alone.
+Four hours from now. The Hall of Sacred Scrolls.
 
-Cirrus approaches the nearest Derro, which takes note of him and sneers.
+[[cirrus-al-kayan|Cirrus]] secured Droki's cooperation further by calling up his extradimensional messenger box and ushering the Derro inside — a neat way to move him past the checkpoint guards, who would have made trouble. Droki squeezed in with commentary about how getting past guards was always a pain.
 
-Cirrus wails "TAKE ME TO THE MASTER!", to which the Derro responds with "GET HIM BOYS!" before being blasted into bloody bits by a volley of blasts from Cirrus.
+The box appeared next to [[feanon-serinde|Fëanon]] on the other side of the doors. He did not open it, knowing what was inside.
 
-The nearest other Derro rush the naked Warlock and attack with wicked knives, but the group behind him takes action to assist subtly, paralyzing one and killing the other with a thrown blade to the neck
+[[aliyah-faen-tlabbar|Patches]] and [[cirrus-al-kayan|Cirrus]] slipped back through separately and regrouped with the others.
 
-Cirrus is sprayed with blood and he takes his dagger, plunging it into the paralyzed Derro's mouth and trying to cut out as many teeth as possible.
+## Rilka
 
-The other Derro in the area that were coming to assist their brethren seems stunned by the show of brutality and power from the Warlock, who once again screams to be taken to the Master.
+[[tarkathee-daru|Tark]] had not rejoined them.
 
-As another Derro is splattered across the ground, the intimidation finally gets to them and they back away from the crazed tiefling Warlock.
+Following leads on Rilka, he had traced her to a small cave in the West Cleft — barely more than a hovel. The place gave him an immediate cold feeling the moment he was close, but he went in anyway.
 
-One Derro approaches Cirrus and after a quick conversation, leaves to contact the Derro Warlocks of the Tooth Fairy.
+Three Vampire Spawn dropped from the ceiling.
 
-Cirrus waits nearby, covered in blood, and sits on a rock out of sight from the Duergar guards.
+He asked them about Rilka and heard a name in response: Milgre. Their Derro Savant master.
 
-At this point, Patches has snuck in and is covering the Warlock with her Crossbow from the top of a nearby statue.
+Then they attacked.
 
-Tark has moved into the area as well with his Tark-Spidermen disguise and begun asking about **Rilka **and where he might find her.
+[[tarkathee-daru|Tark]] used his staff to block bites, used it as a lever to snap necks, used every technique he had. The vampires were tough — shattered bones regenerated in seconds. He killed one and the body erupted into dust and ash, leaving two, and the odds turned gradually in his favor. He dispatched them both in the end, but he was badly hurt — pale, bitten, trembling from blood loss and the necrotic touch of vampire attacks.
 
-Eventually, Cirrus' ploy pays off and he is approached by a strange looking Derro in patchwork clothing with a wide brimmed hat and carrying a leather messenger bag. 
+He stumbled back to the group.
 
-He introduces himself as **Droki, **(who the flameguard are looking for).
+[[cirrus-al-kayan|Cirrus]] found a discreet corner and prayed to Selûne quietly, out of sight of the restrained Droki, healing the worst of [[tarkathee-daru|Tark]]'s wounds. The monk told them what he had found and what it implied.
 
-Cirrus lays the intimidation on thick and cows the smaller and weaker Warlock into doing his bidding - he wants a meeting with Droki's master, **Bilrigger the Savant**.
+How did Orcus's agents keep finding them? How did anyone know they were in [[gracksuluth|Gracksuluth]]? He turned the question over in his head.
 
-They agree on a time and place - four hours at the **Hall of Sacred Scrolls**.
+His blood ran cold when he found the answer.
 
-Droki is convinced to go with Cirrus and the group and so Cirrus calls up his tiny messenger and ushers Droki into the box, which he reluctantly enters after mentioning getting past the guards is always a pain.
+He had told [[kenshi|Kenshi]] in a dream.
 
-The box then appears next to Fey'Anon, who does not open it, knowing its contents.
+## The Dream Was Wrong
 
-Patches sneaks back to the others and Cirrus appears a few minutes later, letting Droki out of the box behind the Duergar guards.
+They went back to the townhouse to have [[doc|Doc]] properly close [[tarkathee-daru|Tark]]'s wounds before the meeting. [[aliyah-faen-tlabbar|Patches]] slipped away to the Shattered Spire to meet Xalith and brief her for the Menzoberranzan reconnaissance job — keeping the operation moving.
 
-Meanwhile, Tark has found the hovel of **Rilka**, nothing more than a small cave, but the place gives him the creeps and a cold shiver runs down his spine.
+[[doc|Doc]] looked at [[tarkathee-daru|Tark]] and treated him carefully, the cat's druidic healing closing the vampire wounds and reversing the necrotic damage. Then the group explained what they needed and [[doc|Doc]] reached for his amethyst scrying crystal.
 
-Entering the abode, he spots three Vampire Derro drop from the ceiling and spread out.
+He tried to scry on [[kenshi|Kenshi]].
 
-He asks them questions about Rilka, and hears the name of her Derro Savant master - **Milgre**
+The spell failed. The crystal showed nothing. [[doc|Doc]] tried again, concentrating harder. Nothing. Not blocked — simply absent. Kenshi did not exist on this plane of existence.
 
-The vampires can restrain themselves no longer and launch themselves at Tark as he tries to defend himself, using his staff to block bites and as leverage to snap necks.
+[[tarkathee-daru|Tark]] went very still.
 
-The three vampires are tough though, and even with shattered bones they quickly regenerate.
+He asked [[doc|Doc]] to scry on Gaddock.
 
-the brawl turns into a deadly battle and the Monk is torn at by fang and claw, but he gives back twice as hard as he gets, finally managing to kill one of the Thralls.
+This time the vision resolved. A cold chamber, carved from ice. A bed covered in plush furs. An elderly man lying motionless within, pale and still, but strong-framed with thick silver hair and a full beard.
 
-With the explosion of ash and dust, only two of the Vampires remain and the tide turns in Tarks favor.
+[[tarkathee-daru|Tark]] turned to [[cirrus-al-kayan|Cirrus]]. He needed to speak with Gaddock. Now.
 
-He dispatches the other two in short order.
+[[cirrus-al-kayan|Cirrus]] enacted the Dream spell. [[tarkathee-daru|Tark]] sat, closed his eyes, and entered the grey void of the Dreaming where Gaddock's sleeping mind waited.
 
-Stumbling back to the group, bloody and pale, Tark wracks his head.  How do they keep running into agents of Orcus and Zhengyi.  No one knew they were in Gracksuluth.
+His old master greeted him with sadness, not surprise.
 
-Tark's blood runs cold as he realizes that's not true, one person knows, he told **Kenshi** in a dream the other night.
+[[tarkathee-daru|Tark]] asked everything at once: what was happening, why Gaddock looked like this, why there had been no contact, why they could not find [[kenshi|Kenshi]], why agents of the Enemy kept finding them wherever they went.
 
-The group is shocked when Tark returns and Cirrus quickly prays to Selune (out of sight of Droki) to heal the worst of his injuries.
+[[gaddock|Gaddock]] confirmed what [[tarkathee-daru|Tark]] already feared: [[kenshi|Kenshi]] was not real. The figure had been a construct of [[zhengyi|Zhengyi]] — a front used since the winter solstice to keep the group under observation, drawing information from [[tarkathee-daru|Tark]] in the form of ordinary conversation. Every detail they had shared in those dream meetings had gone directly to the enemy.
 
-Tark tells the group what he's discovered and the others ask him if he had ever talked to Kenshi outside of the Dreamscape, seen him or talked to Gaddock recently.
+And [[gaddock|Gaddock]] himself — the rescue from the dungeons, which [[tarkathee-daru|Tark]] had been told about and had taken for a good thing — had not been a rescue. He had died in captivity. [[zhengyi|Zhengyi]] had brought him back. He was a Vampire now, bound to the Lich-King, and had been for some time.
 
-Tark, now distraught says that he has not.
+[[tarkathee-daru|Tark]] swore he would save him. [[gaddock|Gaddock]] seized the monk's arm in the dream and told him plainly: he could not be saved. Not like this. The only path that led to any kind of salvation for him — for any of them — ran through [[zhengyi|Zhengyi]] and his masters. [[tarkathee-daru|Tark]] needed to beat them. That was the only way.
 
-They need to get to the bottom of this and the group decides to head back to the Townhouse to meet up with Doc B to heal Tark and Scry on Kenshi - in case the old monk has been captured.
+[[tarkathee-daru|Tark]] held on to the image of his old master for a long moment. Then he let go. He ended the Dreaming.
 
-it takes some time, and Droki follows (in disguise) and they make it back to their abode with a few hours to spare before their meeting with **Bilrigger**
-
-**Patches **heads to the Shattered Spire to meet with Xalith quickly and hires the Drow Scout to return to Menzoberranzan to collect information.
-
-She asks for the general disposition of the noble houses within the city and general news on what is happening there.  Xalith agrees.
-
-Doc B is shocked at the state of his friend and quickly heals the poor Halfling, closing his wounds and healing the necrotic damage of the vampire bites.
-
-The group explains to their cat friend what they need and the questions needing answers and Doc grabs his Amethyst crying crystal and begins to cast the spell to check on Kenshi.
-
-It fails.
-
-Doc tries as hard as he can, but it appears that Kenshi does not exist, at least not on this plane of existence.
-
-Panicked, Tark asks Doc to Scry on his adoptive father; Gaddock. 
-
-This time the scrying works.
-
-Peering into the crystal, Doc narrates what he sees - A dark and cold chamber, carved from ice and a single bed covered in plush furs.  In it lies a pale unmoving man, elderly but strong with thick hair silver and a full beard.
-
-Tark turns to Cirrus, he NEEDS to speak with Gaddock immediately.
-
-Tark sits and enters a meditative sleep and Cirrus enacts the spell.
-
-Not bothering to form the dream into anything specific, Tark contacts the slumbering mind of Gaddock within the grey void of the Dreaming.
-
-His old master greets him with sadness.
-
-Tark asks what is happening, why he looks this way, why he has not heard from him, why they cannot find Kenshi and why they keep being attacked by agents of The Enemy.
-
-**Gaddock** confirms Tark's fears: Kenshi does not exist, it is a front that Zhengyi has been using to keep track of the group, talking with Tark and getting him to tell the enemy important information.
-
-He goes on to say that when he was "saved" from the dungeons, it was because of who he was to Tark.  He died, and was brought back as a Vampire by the Lich-king.
-
-Tark is horrified and swears that he will save his old master, but the older man grabs Tark and insists that Tark should stay away, that he cannot be saved.
-
-The only way to save him, is to beat Zhengyi and his masters.
-
-With tears in his eyes, Tark agrees and bids his father figure farewell, ending the Dreaming. 
+He opened his eyes in the townhouse in [[gracksuluth|Gracksuluth]], surrounded by his companions, with a few hours before the meeting with Bilrigger.

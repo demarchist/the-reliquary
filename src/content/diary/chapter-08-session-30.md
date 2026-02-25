@@ -3,6 +3,7 @@ title: The Underdark - Ront Riot
 chapter: 8
 chapterTitle: The Underdark
 session: 30
+summary: "The prisoner convoy turned out to be a trap — two wagons packed with explosives, no prisoners inside — while the Narzugon Anduriel held Hemeth and Velka as hostages and opened negotiations, and a flood of Demogorgon-marked Derro rioters crashed over the bridge at the worst possible moment, with a mutated Ront walking behind them."
 people:
   - "aliyah-faen-tlabbar"
   - "anduriel"
@@ -31,165 +32,116 @@ factions:
   - "stoneguard"
 ---
 
-In an alleyway in Gracksuluth, the group surveys the bridge across Ladueger's Furrow that their target will be crossing.
+## Scouting the Bridge
 
-There's no sign of the approaching prisoner convoy, so Patches and Tark decide to scout on ahead to get eyes on it.
+In the alley, the group watched the approach to Ladueger's Furrow. No sign of the convoy yet. [[aliyah-faen-tlabbar|Patches]] and [[tarkathee-daru|Tark]] moved ahead to get eyes on the bridge directly.
 
-Fey meanwhile walks out and grabs a passing Duergar, asking what on earth is going on in the city.
+[[feanon-serinde|Fëanon]] stepped out of the alley and grabbed a passing Duergar long enough to ask what was going on. The city had been under siege for eight hours — demons attacking from all directions. The gates had held so far. The harbor chain was down. The Heystavidds, the great ballista emplacements on the city walls, had been firing continuously.
 
-He finds out that the city has been under siege for 8 hours, attacked by demons from all sides.
+The Duergar shook free and left. [[feanon-serinde|Fëanon]] noticed a Stoneguard patrol taking an interest in him as he turned back. [[snorbul|Snorbul]] used his hat of disguise to make himself look like a Stoneguard Constable and moved in to redirect the wizard with official-looking authority before anything escalated.
 
-The Duergar mentions that the Gates have not fallen, the Harbor Chain is down and the "**Heystavidd's**" have been going nonstop for hours.
+[[gundren-rockseeker|Gundren]] looked across the city and spotted one of the massive Adamantite Golems moving on the far side — active, meaning the city had escalated to emergency protocols.
 
-The Duergar shakes free and leaves, as Fey turns to return to the group, he notes a Stone Guard Patrol taking an interest in him.
+The anxiety was already visible in [[cirrus-al-kayan|Cirrus]]: a building dread that pressed against his chest without an obvious source.
 
-In an attempt to misdirect, Snorbul uses his hat of disguise to look like a Stone Guard Constable and approaches Fey to lead him away.
+[[feanon-serinde|Fëanon]] stepped into a shop to buy socks.
 
-While this is happening, Buumi, Veygar, Gundren and Cirrus look on and the Warlock becomes increasingly overwhelmed by a sense of anxiety, and impeding dread...
+The bridge was a massive structure — buildings and shops built along its exterior walls over dark granite and black iron, covered against the fumes of the chasm below. [[aliyah-faen-tlabbar|Patches]] crossed to the far end without incident, using climbing routes to bypass several locked doors. From the far side, she raised her spyglass and found the caravan approaching the bridge entrance: twelve Duergar, a Glyph Sentinel Golem, and two automated armored wagons.
 
-Gundren looks across the city and spots one of the Adamantite Golems at the far end of the city, active.
+She relayed the information back and moved to get into position.
 
-Fey and Snorbul meet back up with Gundren and Cirrus, who relay the feeling of unease and the news in the city.
+[[tarkathee-daru|Tark]] moved along the bridge itself, checking the security posts. Twelve positions. The first he checked held five Duergar crossbowmen already readying their weapons as the caravan approached. Moving to the end of the bridge, he found the final two security posts: the second to last was empty, with signs of a struggle inside. He Shadowstepped across the width of the bridge to the last position on the other side, hung outside an arrow-slit, and looked in.
 
-Fey quickly steps into a store to purchase some socks.
+A Duergar in Flameguard livery was dragging an unconscious Stoneguard crossbowman out of the room.
 
-Meanwhile, Patches and Tark easily made it to the bridge, scaling the massive, fortified structure
+Something was already happening on this bridge that had nothing to do with the group.
 
-Like a London Bridge sized Ponte Vecchio made of dark granite and black steel.  Buildings and shops are built on the exterior of the large, mostly covered bridge.
+## The Trap
 
+[[aliyah-faen-tlabbar|Patches]] reported the caravan had made the bridge. The group moved into position. They sent the supply box via Instant Courier.
 
+The caravan reached the halfway mark. [[aliyah-faen-tlabbar|Patches]] noted that while the rest of the city had cleared off the bridge, a group of eight were following the convoy at distance — Flameguard badges visible on them.
 
-  - like this, but dark and dreary!
+[[cirrus-al-kayan|Cirrus]] was preparing to move when the Instant Courier returned to him. Unopened. [[hemeth|Hemeth]] and Velka had not been able to access the box.
 
+[[aliyah-faen-tlabbar|Patches]] got a look through one of the tiny armored window slits on the wagons as they came past.
 
-Patches makes it to the other end without incident, though notes a number of locked doors as she goes, forcing a roundabout route involving a lot of climbing.
+Empty. No prisoners inside.
 
-The Rogue takes out her spy glass and scans the approach to the bridge, noting the caravan: 12 Duergar, a Glyph Sentinel Golem and two automated armored carts.
+She told the others.
 
-She relays the information and then goes to get into position.
+They sprung the ambush anyway, needing to know what was in the wagons. [[tarkathee-daru|Tark]] and [[aliyah-faen-tlabbar|Patches]] dropped globes of Darkness over the last section of the bridge. The Duergar guards cried alarm and rushed forward, abandoning the wagons to form a shield wall facing back across the bridge.
 
-Tark scouts the bridge itself, finding twelve security posts along its length.  Scouting the first, he sees five Duergar crossbowmen and notes them getting ready as the caravan approaches.
+[[cirrus-al-kayan|Cirrus]] Far-Stepped into the first wagon.
 
-Continuing along to the final two security posts, Tark checks and finds the first empty, though with signs of a struggle.
+It was packed with explosives.
 
-Leaping and shadowstepping across the width of the bridge, Tark hangs outside an arrow-slit of the security post opposite the one he just checked.
+He Far-Stepped into the second.
 
-Peeping inside, Tark sees a Duergar in the livery of the Flameguard carrying an unconscious Stoneguard Crossbowmen out of the room.
+Also explosives.
 
-Something is happening.
+He reported back. The Flameguard following the convoy had reached the wagons. [[aliyah-faen-tlabbar|Patches]] threw all her caltrops across the bridge — coated in Drow Poison. Four of the Flameguard dropped unconscious as they hit the spread. Two more staggered. The remaining two reached the rear wagon, placed a breaching charge on the door, and began pulling the detonation cord.
 
-Patches reports that the caravan has made the bridge.
+[[tarkathee-daru|Tark]] Shadowstepped to the driver's seat and heard [[cirrus-al-kayan|Cirrus]] through the slit: *get off the wagon now*. The warlock Far-Stepped clear as [[tarkathee-daru|Tark]] leaped away.
 
-The group moves into position to spring their ambush to save Hemeth and Velka.
+The thermite breaching charge burned through the door and into the explosives inside.
 
-They send the box of goods via Instant Courier.
+The rear cart detonated like a siege weapon. The thunder of it shook the bridge. The Darkness spells scattered. Acrid smoke rolled out in all directions. The Flameguard who had placed the charge were simply gone.
 
-The Caravan makes it halfway across the bridge and Patches notes that although the other Duergar in the city have cleared the bridge, a group of eight are following the caravan at a distance.  
+## Anduriel
 
-She makes out Flameguard badges on the following group...
+Three Dimension Door spells opened in sequence on the far side of the Duergar shield wall, depositing new figures behind it.
 
-Cirrus is preparing the move into position when the Instant courier box returns to him, unopened.  He retrieves their items and turns to the others concerned.
+The largest was a black-armored devil in a cloak of falling ash and smoke, carrying a glittering axe. The distinctive helmet was familiar to several of the group: the Narzugon who had survived their fight beneath [[helms-hold|Helm's Hold]].
 
-Hemeth and Velka were unable to access the box for some reason.
+Beside her, restrained, were [[hemeth|Hemeth]] and Velka, crossbows held to their heads by two Stoneguard.
 
-scanning the caravan again, Patches manages to get a peek through one of the tiny armored window slits.  She sees no one inside the wagons.
+The Narzugon called out that it was time to talk.
 
-The caravan makes it into position across the bridge and the group springs their ambush, Tark and Patches dropping globes of darkness, covering the last portion of the bridge.
+[[gundren-rockseeker|Gundren]] saw a line of Duergar and thought about [[gwen|Gwen]]. Lightning flared from the cannon — but instead of scorching the shield wall, it was absorbed by the Golem, which Counterspelled the bolt cleanly. [[feanon-serinde|Fëanon]]'s Singularity went off though, dragging half the Duergar shield wall into the stone-wrought construct, their heavy armor preventing casualties but leaving them dazed.
 
-A cry of alarm goes up from the guards who rush forward, out of the darkness, abandoning the armored wagons and forming a shield wall facing back across the bridge.
+[[tarkathee-daru|Tark]] Shadowstepped to the Narzugon and struck her. A flash of ice magic erupted from her armor into him — Armor of Agathys punishing the contact. The devil raised her axe high and called *"HOLD"* — her troops seething but falling back into position, the Narzugon wanting words before blood.
 
-Needing to see the prisoners in the wagon, Cirrus casts Far-step and teleports into the first wagon and finds it unoccupied by prisoners.
+She introduced herself as Anduriel. In exchange for the prisoners, she wanted a meeting with her boss: the captain of the Stoneguard, Errde Blackskull.
 
-Instead, it is filled with explosives.
+The group looked at each other. They did not negotiate with devils. They could take this group.
 
-panicking, he far-steps to the other and finds that it too is packed with explosives...
+Before the tension broke into action, [[aliyah-faen-tlabbar|Patches]] heard a sound that made her cold — a buzzing hum rising from the chasm beneath the bridge. The drone of Chasme demons, growing louder. And beyond that, from somewhere deeper in the city, the roar of a massive crowd getting closer.
 
-Patches hurls all of her caltrops across the bridge, coated in Drow Poison just as the Flameguard approach the wagons.
+## The Riot
 
-The Flameguard trample through and 4 of them drop unconscious while another two get poisoned.  The Flameguard are focused though and rush to the wagons for their objective.
+Out of one of the main thoroughfares, a group of Merrogon devils was overwhelmed by a flood of Derro. Hundreds of them pouring into the street, screaming. The Derro Riot turned and surged toward the bridge.
 
-The Flameguard rush the back wagon, placing a breaching charge on the back and preparing to pull the detonation cord (fumbling a little in the Darkness).
+As the charging wave hit the light, the group saw what had been carved into the foreheads of every single one of them: the symbol of [[demogorgon|Demogorgon]], cut into flesh.
 
-Tark shadowsteps to the wagon's drivers seat and looks through the slit there (in the darkness spell), hearing Cirrus.
+The Duergar shifted to counter the riot. Several other figures stepped from nearby streets and alleyways as they did — figures that had been waiting.
 
-The Warlock warns the monk that the wagons are packed to the brim with explosives and they have to flee NOW.
+[[feanon-serinde|Fëanon]] stepped out of a shop doorway and looked up the street behind him.
 
-Tark leaps away as Cirrus Far-steps and the Flameguard detonate their charge, a pack of thermite that begins to quickly burn through the metal door....igniting the explosives inside.
+The shape at the end of it was massive. And wrong.
 
-The rear cart explodes like a massive bomb, the thunderous retort shakes the bridge and throws even more acrid smoke into the air.  The Flameguard are utterly obliterated and the Darkness spells are gone.
+Ront had been changed into something that barely remembered being an orc — two-mouthed, tentacled, mutated past recognition by demonic corruption. The beast screamed from both mouths and charged the wizard, a distorted arm reaching out as the other hand unleashed a wave of Eldritch Blasts.
 
-Three Dimension Door spells are enacted behind the Duergar shield wall, which has turned to face outward, toward the approaching party.
+An incubus the group had encountered once before in a Gracksuluth alleyway — Leemok — soared toward [[gundren-rockseeker|Gundren]], intent on charming the dwarf to its side.
 
-Standing at the end of the bridge are several new figures.
+Armed Derro, clearly Demogorgon-devoted rather than rioting rabble, started loosing crossbow bolts from covered positions.
 
-The largest of which is a black armored Devil, A Narzugon with a cloak of falling smoke and ash.  Several of the group recognize the distinctive helmet as the only Narzugon to have survived their battle beneath Helm's Hold.
+The battle broke open.
 
-The other figures are the restrained forms of Hemeth and Velka with two Stoneguard holding crossbows to their heads.
+[[aliyah-faen-tlabbar|Patches]] moved fast — paralyzing the two Stoneguard holding the prisoners with doses of Carrion Crawler Mucus and freeing [[hemeth|Hemeth]] and Velka, pushing them toward cover before scaling the bridge exterior to a shooting position.
 
-The Narzugon calls out, proclaiming that it is time that they all talked.
+She put a heavy bolt into Ront. A flash of Hellish Rebuke scorched back at her and she ducked behind the stone.
 
-Thinking that no, it isn't, Gundren sees a line of Duergar ripe for a lightning bolt and moves Gwen into position.
+[[tarkathee-daru|Tark]] Shadowstepped to [[gundren-rockseeker|Gundren]] and shattered the incubus' physical body before it could complete its approach.
 
-Lightning flares from her mouth, but rather than scorching the Duergar, it is drawn into the Golem and dissipated as the golem counterspells.
+Two of the front-line Derro in the riot shifted and grew — tearing out of their skins into massive Glabrezu demons. [[gundren-rockseeker|Gundren]] threw a ruby from his helm and a wall of fire erupted between the Glabrezu and the supporting rioters behind them, cutting off their coordination. The Stoneguard, relieved of the rear pressure, held the plaza side against the two demons in a grinding stalemate.
 
-Fey's Singularity goes off though and half the Duergar are dragged and crushed into the stone-wrought Golem, though their impressive armor prevents any casualties.
+Anduriel, seeing another wave of Derro beginning to rush the bridge from the far end, moved to the one remaining explosive wagon and began rolling it toward the approaching flood. [[horatio-von-bumidere|Buumi]] landed beside her and helped get it moving, then left to assist [[feanon-serinde|Fëanon]], who had [[ront|Ront]] pressing him in melee with [[snorbul|Snorbul]] beside him.
 
-Tark shadowsteps to the Narzugon and strikes her, but a flash of ice magic explodes into him. 
+The three of them surrounded the mutated warlock and began to make it clear the fight was not going his way.
 
-The Devil's Armor of Agathys hurting Tark as much as the strikes to the plated Devil.
+[[tarkathee-daru|Tark]] cleared the Derro crossbowmen and turned back toward the main fight.
 
-The Devil holds her glittering axe up high and calls "HOLD!", her troops getting back into position (and seething) but not retaliating, wanting words, not combat...yet.
+Blood was falling upward. Droplets of it rising from wounds and the fallen, drifting toward [[ront|Ront]], coating him in a slow gathering wash of red.
 
-Patches hears a faint hum, a buzzing that begins to expand from the chasm beneath the bridge, a pang of dread coursing through her as she recognizes the drone of **Chasme Demons**.
-
-Others begin to hear the general ruckus of the city growing louder, sounding as if a massive crowd is coming closer.
-
-The Narzugon introduces herself as **Anduriel** and offers the prisoners to the group in exchange for a meeting with her boss and captain of the Stoneguard; **Errde Blackskull**.
-
-The group looks at one another, and it seems clear to them that they won't negotiate with a Devil, they can take this group.
-
-As tensions rise, the Duergar already hurt and seething, a commotion distracts them all.
-
-Not far away, out of one of the main thoroughfares, a group of Merrogon devils is overwhelmed by a flood of Derro rioters as hundreds of the creatures pour from the street.
-
-The Derro Riot turns and races toward the bridge.
-
-The Duergar re-position to counter the charging riot, but as they do, several other figures step from nearby streets, alleyways, and shops. 
-
-The group notes that the charging Derro all have the symbol of Demogorgon carved into the flesh of their foreheads.
-
-Fey, as he steps from the shop, notes a massive figure up the street behind him and turns, seeing the horribly mutated Ront, Warlock of Demogorgon.
-
-The mutated creature screams it's bizarre two mouthed scream and charges the wizard, it's disgusting tentacled arm reaching out to grab at him as the other, more humanoid hand jets forth, unleashing a wave of Eldritch blasts.
-
-The Incubus/Succubus from before (**Leemok)** that attacked Fey in the alley, comes out of hiding and soars to Gundren, intent on charming the dwarf to its own side.
-
-Nearby, several heavily armed and armored Derro begin to let loose with crossbow bolts and the battle truly begins.
-
-Patches rushes forward, paralyzing the Duergar prisoner guards with doses of Carrion Crawler Mucus, she quickly frees Hemeth and Velka and the small group rush to cover, Patches scaling the bridge to a perch.
-
-Seeing Ront, she aims her crossbow and lets fly a heavy bolt, smacking into the mutated orc.  
-
-As it hits though, a flash of fire washes forth in a Hellish Rebuke, forcing Patches to duck into cover.
-
-Tark shadowsteps to Gundren, smashing into the Succubus and quickly laying it out, destroying its physical body.
-
-The Derro riot rushes forward and smashes into the Duergar line and two of the front-line Derro quickly shift and grow, transforming into massive Demonic Glabrezu.
-
-Seeing this, Gundren pulls a ruby from his helmet and tosses it, creating a wall of fire separating the Glabrezu from their supporting Derro.
-
-With the pressure taken off the Duergar line, the Glabrezu quickly find themselves in a stalemate.
-
-Anduriel, the Narzugon rushes over to the one surviving wagon filled with explosives and begins to roll it backwards, she has noted more Derro beginning to rush across the bridge from behind.
-
-Buumi lands next to her, his wings out, and helps her begin to get the armored wagon rolling.
-
-As it picks up speed, Buumi leaves to the aid of Fey, in melee with Ront, though getting backup from Snorbul.
-
-The three of them quickly surround the hulking mutant and quickly put pressure on the beast.
-
-Tark shadowsteps across the plaza, attacking one of the Derro crossbowmen.
-
-As the fight rages, blood from wounds and the fallen begins to seep into the air, falling as droplets toward Ront, covering the Orc in blood.
-
-The group and Duergar engage the demonically fueled riot, while the Devil holds the bridge and the mutated warlock lashes out with rage.
+The group noticed.

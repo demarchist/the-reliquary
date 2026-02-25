@@ -3,6 +3,7 @@ title: The Underdark - New Faces at the Barony
 chapter: 8
 chapterTitle: The Underdark
 session: 28
+summary: "After the Oni, the Barony stirred with new arrivals — a Fire Giant smith, a Sage of Selûne, a painter documenting the Shadow Monk, and an old tailor — before the group spent their last Wish to bring Cercei home from Mantol Derrith, caught a glimpse of Corpsetaker's vast form through the closing portal, and learned from Buumi's dreaming that Orcus already held a fragment of The Last Word."
 people:
   - "aliyah-faen-tlabbar"
   - "aurinax"
@@ -56,300 +57,114 @@ factions:
   - "svirfneblin-faction"
 ---
 
-Tark heads into the cave the Oni came from, remembering the fiend was wet with blood BEFORE being killed.
+## After the Oni
 
-Patches and the Kid climb down from where the child ran to safety and rejoin the group.
+[[tarkathee-daru|Tark]] headed into the cave the Oni had emerged from, remembering the fiend had been wet with blood before they killed it. Inside he found a body — an old man, his identity stolen by the infiltrator. The child who had climbed to safety during the fight identified him as Old Man Elmet.
 
-Tark comes out of the cave with a body and Buumi steps up to help.
+The group walked down to the grove center and the clearing around the Standing Stone. Across the sunken grove, a group of over a dozen people came down the road, drawn by the sound of the short battle. [[doc|Doc]] led the pack, with [[gneiss|Gneiss]], [[chani|Chani]], and a man named Maximus behind him.
 
-It is the body of an old man that the child identifies as Old Man Elmet, the identity the Oni infiltrator had stolen
+A small blue comet zipped from the treeline at [[doc|Doc]]'s call — a small pixie named Laconia, a servant of the Winter Court who had been helping the druid. She immediately turned to [[tarkathee-daru|Tark]], asked what animal he wanted to be, and when he answered "fox," polymorphed him on the spot. [[tarkathee-daru|Tark]] proceeded to get the zoomies across the grove for a while.
 
-The group walks down to the grove center and the clearing with the Standing stone.
+Maximus took the child back to the village. [[gneiss|Gneiss]] and [[chani|Chani]] greeted [[snorbul|Snorbul]] and suggested they go drinking together.
 
-Across the sunken grove, the group spots movement as over a dozen people come down the road, having heard the sounds of the short battle (gunshots).
+The villagers who had come with [[doc|Doc]] mourned Elmet quietly. [[cirrus-al-kayan|Cirrus]] performed the burial ceremony over the body, placing it on the altar to allow all of the town to pay respects before interment. [[aliyah-faen-tlabbar|Patches]] instinctively took his wedding ring and locket, then put the locket back.
 
-Doc B is leading the pack
+The group dispersed for the evening. [[cirrus-al-kayan|Cirrus]] and [[tarkathee-daru|Tark]] kept the vigil at the Old Stone. [[doc|Doc]] and [[gundren-rockseeker|Gundren]] rested nearby. [[snorbul|Snorbul]] went to the tavern with [[gneiss|Gneiss]] and [[chani|Chani]] and passed out surrounded by good cheer later that night. [[horatio-von-bumidere|Buumi]] headed back to the keep.
 
-once the two groups see one another, the alert edge leaves eveyone and their pace slows. 
+[[feanon-serinde|Fëanon]] went to his tower to talk with Theodemir, checking the state of the soul in the ring. The degradation was progressing but slowly — months remaining before it became a serious concern, though Theodemir would sleep more and more as the process continued.
 
-Doc B Approaches with Gneiss, Chani and Maximus
+[[aliyah-faen-tlabbar|Patches]] slipped into the hidden tunnels beneath the [[fane-of-selune|Fane of Selûne]], finding the small circular chapel where channels in the stone floor traced the phases of the moon and a cut through the rock allowed a beam of moonlight to fall on the altar. She placed the enchanted crystal from Cairngorm Cavern on the altar and prayed, using the moonlight refracting through the crystal to sharpen the connection.
 
-a small blue comet zips out of the trees at Doc's call.
+She put three questions to the goddess and received answers to each: saving Cercei now would be a tactical advantage — yes. A Wish to bring [[finn|Finn]] to safety would draw divine interference from [[lolth|Lolth]] — yes. Bringing in House Baenre would be an effective way to save [[finn|Finn]] — yes. Satisfied, [[aliyah-faen-tlabbar|Patches]] meditated for a few hours and returned to Over the Moon.
 
-A small pixie named Laconia and servant to Doc from the Winter Court.
+[[cirrus-al-kayan|Cirrus]] stared up at the moon from the grove and prayed to Selûne, seeking affirmation. A wash of warm emotion confirmed he was on the right path. He went to sleep.
 
-Tark is delighted and when asked what animal he wishes to be (answering; Fox) he is promptly polymorphed into a furry beast by the Pixie.
+## New Arrivals
 
-Tark then proceeds to get the zoomies as a fox for a while.
+The sun rose the next morning and the town came to life.
 
-Maximus takes the child back to the village, Gneiss and Chani say hi to Snorbul and suggest they go drinking together.
+[[pickles|Mr. Pickles]] alerted [[aliyah-faen-tlabbar|Patches]] and she came topside. [[snorbul|Snorbul]] walked out of the tavern throwing the doors wide open and was immediately blinded by the sunlight, screaming in agony before [[aliyah-faen-tlabbar|Patches]] pulled him back inside. She demonstrated the use of the second pair of sun-shades she had been carrying. [[snorbul|Snorbul]] put them on and thanked her.
 
-Many of the villagers that came with Doc mourn Elmet and watch Cirrus perform a burial ceremony for the poor man.
+A number of people had arrived from along the trade road and set up in the center of town.
 
-Patches steals his wedding ring and locket, but ends up putting the Locket back.
+[[feanon-serinde|Fëanon]] saw them from his tower via scrying and walked down to the docks to investigate. [[jack-mayer-johnson-mathews|JmJm]] came out of the theater and called across the square to his personal historian, Demelza Bluefingers, a human woman who hustled over immediately. Her companion, a baker named Carka Whitefingers, was already heading into Over the Moon with a cart of ingredients to apply for the kitchen position. He came out shortly after with fresh donuts.
 
-They ask that the body remain on the altar until morning, so that all the town can pay their respects before burying him here at the Old Stone.
+[[aliyah-faen-tlabbar|Patches]] spotted Claudine and Marzeline arriving together and crossed to talk with them about setting up their own alchemy shop in the Barony.
 
-Cirrus agrees and remains at the Old Stone with Tark, Doc B, and Gundren.
+[[snorbul|Snorbul]], adjusting to the sunlight through his new shades, was watching the busy crossroads when a small cloaked figure stepped from around the corner of the tavern. Large sword. [[snorbul|Snorbul]] introduced himself.
 
-Snorbul heads to the tavern with Gneiss and Chani.
+The figure attacked.
 
-Patches heads to the Fane to Selune and her shrine beneath it to Elistraee 
+A sharp exchange — [[snorbul|Snorbul]] deflected the cut and came back with a sweep that took the other Svirfneblin off his feet, axe to the throat. The Deep Gnome pinned beneath him gave his name as Belairofos and yielded, swearing his sword. He had been looking for [[snorbul|Snorbul]] ever since watching him beat a Minotaur in the fighting pits of [[gracksuluth|Gracksuluth]].
 
-Buumi heads back to the keep while Fey'Anon goes to his Tower to meditate
+[[feanon-serinde|Fëanon]] spotted a High Elven woman in Evermeet dress on the far side of the square, her carriage shrinking to the size of an apple as he watched and disappearing into her satchel. He introduced himself and they began a conversation about magic that was clearly going well until she mentioned she was here in service to Cirrus, Chosen of Selûne, and would need access to the library for her work as a Sage. Her name was Beryan. [[feanon-serinde|Fëanon]]'s smile went a little wooden, but he invited her to the tower anyway and decided it might work in his favor.
 
-While the others rest for the night, Patches slips into the hidden tunnels beneath the Fane of Selune.
+[[horatio-von-bumidere|Buumi]] could be seen in conversation with a contingent of Dragonborn knights on riding lizards, gesturing toward the keep. They headed up the switchbacks.
 
-behind a hidden door, the small circular chapel gleams.
+Then the thudding of massive footfalls drew everyone's attention.
 
-The chamber is circular with flowing water cut into channels depicting the phases of the moon as sections of floor.
+A Fire Giant walked into town. Black plate armor. Fiery beard. A smoldering hammer at his side. He was waiting on the trade road when [[tarkathee-daru|Tark]] and the others came over the hill to find him. His name was Surtr Emberstrike, of Ironslag. He had come to smith alongside [[gundren-rockseeker|Gundren]], hoping to learn enough to help reforge the Vonindod — a great construct of Giant make. [[gundren-rockseeker|Gundren]] welcomed Surtr to the Barony.
 
-water flows in from above and a small channel, cut through the rock for dozens of feet to allow a beam of moonlight to illuminate the small chamber illuminates the water.
+No one in the town center panicked with the Heralds present.
 
-Patches takes the small enchanted crystal she took from Cairngorm and places it on the altar and prays.
+[[tarkathee-daru|Tark]] rushed for the tavern to find marshmallows and toast them from the giant's body heat. He walked past a slim man in elegant robes and a tall red and gold hat who tried to get his attention, didn't notice, and practically collided with Carka coming out with donuts. He ate several donuts with marshmallow toppings and brought one back for Surtr, who found it pretty good, if small.
 
-With the light of the full moon refracting off of the enchanted crystal, Patches feels a connection and asks questions of the goddess.
+The slim man in the hat eventually caught up with [[tarkathee-daru|Tark]] and introduced himself: Jin Sakama, Illusionist Painter of Eastgate. He was here to paint the story of the Shadow Monk. [[tarkathee-daru|Tark]] shrugged and told him not to be a bother. The painter agreed and said he would simply work in the area. He set up near the giant.
 
-She asks if saving Cercei now would be a tactical advantage - yes.
+[[feanon-serinde|Fëanon]] broke away from Beryan as [[cirrus-al-kayan|Cirrus]] arrived and began talking with her himself — discovering quickly that she was indeed a Sage of Selûne. [[feanon-serinde|Fëanon]] crossed the square and found the last person he had expected: Mister Markensworth, the tailor from [[baldurs-gate|Baldur's Gate]] and [[silverymoon|Silverymoon]]. Having lost both past shops, the man was grateful enough for steady employment with a Barony. Even with these particular clients. [[feanon-serinde|Fëanon]] accepted him as the Barony's personal tailor, feeling genuinely bad about the group's history with the man.
 
-Would wishing Finn to safety be met with Divine interference from Lolth - yes.
+## The Wish
 
-Would bringing in Baenre be an effective way to save Finn - yes.
+As the new retainers settled in, the group gathered and turned to the subject [[aliyah-faen-tlabbar|Patches]] had raised the night before: Cercei.
 
-Satisfied with her communion, Patches meditates for a few more hours before returning to Over the Moon.
+[[horatio-von-bumidere|Buumi]]'s daughter, captured and held in Mantol Derrith. Using the Wish to bring her back would deprive the enemy of an asset and was — by any reasonable accounting — worth the expenditure.
 
-Heading deep into the secret corridors of the Tavern, Patches finds her personal quarters, in an oasis-like cavern with all the creature comforts.
+They walked to the Old Stone together, telling the villagers they passed to prepare for a potential disruption. [[doc|Doc]] welcomed them at the grove, served yam stew, and prepared the land when he heard the plan, letting the earth know it might be needed. Several mounds of soil and plant matter rose slightly from the nearby pond, ready at his call.
 
-The chamber contains sets of crafting equipment and work tables as well as a small training area.
+The group arrayed for trouble. Spells prepared. Items ready.
 
-The chamber also has a number of small doors and bridges connecting along the ceiling for Mr. Pickles to come and go from, delivering Patches information.
+[[aliyah-faen-tlabbar|Patches]] stepped forward and drew her sword, holding it up in front of the stone. The last diamond in the hilt glowed faintly. She spoke the words — *"I wish..."*
 
-Patches rests until morning.
+Time froze. The world went to twilight.
 
-Snorbul meanwhile has been drinking with the Amnians and Dwarves in the lower level of the Tavern and has passed out drunk, surrounded by good cheer.
+She could not look up, but she felt the presence above her — vast, unknowable, not particularly interested in being looked at. A booming voice resonated in her chest rather than her ears: *"It is done. This Blade of Tymora is no more."*
 
-Fey takes the evening to talk with Theodemir and get a read on his current state.
+Time resumed. A galeforce wind crashed over the group from behind.
 
-The soul is definitely degrading within the ring, but it has many months before it will become a serious issue, though Theodemir will slumber more and more as he degrades.
+They turned. A tear in reality hung in the air twenty feet away, open for only a moment. Most of the group caught only the form of a young black dragon hurtling through the gap toward them.
 
-The others at the Grove are relaxing; Tark playing catch with Laconia, Doc and Gundren sleeping away, and Cirrus staring up at the moon, praying to Selune.
+[[aliyah-faen-tlabbar|Patches]] saw more.
 
-Cirrus seeks affirmation and receives a wash of emotion confirming that he is on the right path.
+She saw the market of Mantol Derrith directly beneath the Barony. She saw [[li-xian|Li Xian]] in his true form reaching through the portal toward them. And behind him — immense, barred from the hallowed ground on the other side of the rift — a vast ethereal shape. Strips of tattered monochromatic cloth floated around a ghostly center mass as if underwater. Where its face should have been there was only a sucking void, and from that void she felt a terrifying intelligence looking back: [[corpsetaker|Corpsetaker]].
 
-Tark asks how much longer before the rest of the town arrives to pay their respects for Elmet and is told that they are not expected until morning so Tark goes to sleep.
+The rift snapped closed.
 
-The sun rises the next day.
+Cercei crashed to the ground and did not move. [[cirrus-al-kayan|Cirrus]] hit her with a Hold spell from his staff the moment she landed — a precaution — and a wailing scream of agony rose from the paralyzed dragon. [[horatio-von-bumidere|Buumi]] asked [[feanon-serinde|Fëanon]] for help and the wizard cast a deep sleep over her, ending the pain.
 
-As the morning truly begins, a number of people arrive from along the trade way and set up in the center of town.
+[[doc|Doc]] and [[horatio-von-bumidere|Buumi]] rushed forward. Tark was already out his medicine kit.
 
-Mr. Pickles alerts Patches and she heads topside to check it out.
+Cercei was far too large for her age — artificially grown, [[feanon-serinde|Fëanon]] noted, and the growth had done damage. Gaps in her scales showed raw blistered flesh beneath. Her limbs were stretched thin. [[horatio-von-bumidere|Buumi]], [[tarkathee-daru|Tark]], [[snorbul|Snorbul]], and [[gundren-rockseeker|Gundren]] carried her to a slope where [[doc|Doc]] shaped a small cave from the earth. They set her down inside and began working.
 
-Snorbul awakes in a patch of drool, his mouth tasting like cheese but surprisingly un-hung over.  He heads up to the common room on the main floor.
+The physical damage could be repaired, given time. Her mind was another question.
 
-finishing his Reverie in his tower, Fey'Anon is alerted by the presence of newcomers and scries the town center, seeing a number of new arrivals that pique his interest.
+[[cirrus-al-kayan|Cirrus]] enacted a Dreaming and sent [[horatio-von-bumidere|Buumi]] into the dream to reach his daughter.
 
-Fey heads to the docks to go and see who these people are.
+When [[horatio-von-bumidere|Buumi]] came back, he was wiping tears from his eyes. He thanked [[cirrus-al-kayan|Cirrus]].
 
-Over in the grove, the troupe is enjoying a morning breakfast of foraged nuts and berries from Doc.
+The group gathered and waited as [[doc|Doc]] remained behind to administer care. [[horatio-von-bumidere|Buumi]] began to relay what Cercei had told him.
 
-The townsfolk begin to show up, and over the next several hours (and in fact, day) villagers come to pay their respects to Elmet.
+She was in bad shape and would remain in deep slumber for some time; the hallowed ground of the grove would protect her mind while her body recovered. [[corpsetaker|Corpsetaker]] was in Mantol Derrith with [[li-xian|Li Xian]], and had been there for some time. They were looking for [[gravenhollow|Gravenhollow]] but were currently occupied with a more pressing problem: one of the Demon Lords was in Mantol Derrith and was somehow preventing anyone from leaving.
 
-Cirrus leads the initial group through a burial right and a cairn is built for the dead man.
+That was not the most alarming piece of information.
 
-Looking around the grove, many cairns can be seen overgrown by grass and flowers, the oldest of which are sinking into the earth, leaving nothing behind save a small lump.
+[[orcus|Orcus]] had found and obtained a fragment of [[the-last-word|The Last Word]].
 
-The villagers; subjects of Cirrus, show great respect and deference though are obviously taken aback by their new Lord.
+The group went quiet for a moment. [[cirrus-al-kayan|Cirrus]] absorbed the fact that the entire Abyss was apparently directly beneath their feet and declared it was time to send both artifact pieces they held to [[bahamut|Bahamut]] for safekeeping.
 
-There's an air of cautious awe as many of the villagers meet their Baron for the first time.
+[[aliyah-faen-tlabbar|Patches]] slipped back into the cave and prayed over Cercei quietly, focusing on the crystal. [[horatio-von-bumidere|Buumi]] came in after her and sat beside his daughter in silence.
 
-The main ceremony is finished and most of the villagers leave, though some are still arriving to the grove having missed the initial ceremony.
+[[tarkathee-daru|Tark]], hearing about [[li-xian|Li Xian]], headed off to find his treehouse in the woods near the Dojo, needing space to think. He would have to find a way to contact [[bahamut|Bahamut]] — through the avatar on the prime material, or through Aurinax the Gold Dragon if no better option appeared.
 
-The group is discussing what to do next when they feel the earth shake.
+A letter from Lady Faye of [[baldurs-gate|Baldur's Gate]] arrived for [[gundren-rockseeker|Gundren]] while he was still in the grove. Several promising leads on magical relics: the Iron Keep of the Moonshae Isles, the Spine of the World near Raven Rock, the ruins of Spirit Soaring Cathedral in the Snowflake Mountains, and the Plain of Standing Stones with its lost Chardalyn mines.
 
-the earth shakes again and they realize it to be the footsteps of a massive creature.
-
-Tark leaps into action, heading toward the Trade Way with the others follow in close pursuit riding Arkto, Gundren's summoned Owlbear mount.
-
-As they crest one of the hills and look down upon the Trade Way, they see a massive figure with a fiery beard and black plate armor, a massive smoldering hammer held by his side.  A Fire Giant.
-
-And the Giant now appears to be waiting.
-
-The small group approaches and quickly discover the giant to be non-hostile and named **Surtr Emberstrike, of Ironslag**.
-
-In fact, it is here to smith alongside Gundren, hoping to learn enough to help him reforge The Vonindod, a massive construct of Giant make.
-
-Gundren welcomes Surtr to the Barony.
-
-The Giant and the small group turn and head into the town center.
-
-Meanwhile, Snorbul walks out into the town center, throwing the doors to Over The Moon out wide...and is promptly blinded by the sunlight.
-
-Screaming in agony, the Deep Gnome is pulled back into the relative shadow of the tavern by Patches.
-
-Blinking painful tears from his eyes, Patches takes out the second pair of sun-shades and demonstrates their use.  
-
-Snorbul thanks Patches and puts on a pair.
-
-The two of them head into the town center just as Fey'Anon arrives from the northern road.
-
-The town center is abuzz with villagers and newcomers.
-
-An older human couple on a cart look to be a baker and scribe, and indeed, JmJm comes out of the Theater to call over his "personal historian, **Demelza Bluefingers**" and the human lady hustles over to her client.
-
-The baker, **Carka Whitefingers** heads into Over the Moon and gets access to the kitchens to whip up a quick job application, taking ingredients from his cart.
-
-Patches spots Claudine and Marzeline and heads over to talk with them about getting them set up with their own Alchemy shop.
-
-Snorbul watches the busy crossroads but is distracted by movement from around the corner of the Tavern.
-
-A small cloaked figure with a massive sword steps forward.  Snorbul introduces himself...and the small man attacks!
-
-Snorbul is smacked back by a cut, barely deflecting with his axe, but he comes back in with a fury, battering the sword aside and sweeping the other Deep Gnome off his feet.
-
-Axe to the throat of this seemingly hostile other Svirfneblin, Snorbul demands answers.
-
-**Belairofos **yields and swears his sword to Snorbul.  The Swordmaster mentioned that he has been looking for Snorbul ever since he watched him beat a Minotaur in the fighting pits.
-
-Fey scans the crowd and notes a High-Elven woman, dressed as if from Evermeet and approaches her just as her carriage shrinks to the size of an apple and she puts it in her satchel.
-
-Clearly a woman of magical means, Fey breaks the ice masterfully and they begin a great discussion on the nature of magic.
-
-Fey invites her to his tower and she graciously accepts, mentioning that in her work for **Cirrus, Chosen of Selune** she will need access to the library.
-
-Fey's smile goes wooden as he realizes she's not here for him...but no matter, he figures it might end up working more in his favor.
-
-Buumi is seen chatting with a contingent of Dragonborn knights, riding great monitor lizards and he motions up to the keep.
-
-The riders slink off quickly up the switchbacks.
-
-The thudding of massive footfalls draws the attention of the whole village as the fire giant strolls into town with the rest of the party.
-
-No one panics with the Heralds here.
-
-Arriving in town, Tark rushes toward the tavern, desperate to find some marshmallows to toast from the body heat of the fire giant.
-
-He walks past a slim man in elegant robes and a tall red and gold hat that tries to get his attention.  Tark doesn't see him.
-
-Heading into Over the Moon, the monk practically bumps into Carka coming out with donuts.
-
-Tark grabs one, eats it and remarks how good it is, then grabs several more (with marshmallow toppings) and heads back to the giant.
-
-By now, Gundren and his brothers have been discussing how best to use the giant; they decide to have him work on a Furnace for them and the giant agrees.
-
-As Tark is melting the top of his donut, and hands one to Surtr (who thinks they are pretty good, though small), the slim man begins to talk to Tark.
-
-he introduces himself as the Illusionist Painter **Jin Sakama **of Eastgate and is here to paint the story of The Shadow Monk.
-
-Tark is not particularly interested, but the painter insists he wont be a bother and will simply paint in the area.
-
-Tark shrugs and agrees.
-
-Fey takes his leave from the elven woman **Beryan **as Cirrus approaches and begins to talk with the woman himself - finding out that she is a Sage of Selune - and heads over to the last person he expected to see in the Barony.
-
-Fey approaches the tailor the group met long ago in Baldur's Gate and then again recently in Silverymoon - **Mister Markensworth**. 
-
-Incredulous that the tailor would come here, and feeling a little bad about how the group has treated the man in the past, Fey accepts the man as his personal tailor.
-
-Having lost both past businesses, Markensworth is happy enough to have steady employ to a Barony, even if it is with *these* people...
-
-As the different followers, retainers and new allies begin to head off to their respective areas to set up, the group congregates and discuss something Patches mentioned the night before, just before fighting the Oni.
-
-Saving Cercei.
-
-The group decide that it is a good use of a wish spell, not only to save Buumi's daughter, but to deprive the enemy of an asset.
-
-As they turn to head from New Daggerford, Gundren is delivered a letter from Lady Faye of Baldur's Gate.
-
-Checking the letter, it mentions several promising leads on magical relics and locations: 
-
-**The Iron Keep of the Moonshae Isles for** **The Eye of Balor**. 
-
-**The Spine of the World and Raven Rock for the ancient Ring of Uthgardt,** 
-
-**The Ruins of Spirit Soaring Cathedral to Denier, god of knowledge in the Snowflake mountains** 
-
-**The Plain of Standing Stones and the lost Chardalyn Mines.**
-
-They all head to Old Stone, telling the citizenry on the way to prepare for a potential battle, or similar disruptive event as they have no idea what will happen when they try and bring Cercei here.
-
-It takes about an hour of walking, and the group pass several mourners for Elmet, but they arrive at the Grove easily.
-
-Doc welcomes them, offering everyone a good Yam stew and then hears about the plan for Cercei 
-
-Doc thinks its a great idea and prepares the land, telling it that they made need its help.
-
-Several large mounds of earth and plants rise slightly out of the nearby ponds, ready to come to Doc's call.
-
-The group array themselves for trouble, preparing spells and items just in case.
-
-Patches steps forward, drawing her sword and holding it up in front of the stone.
-
-Staring into the softly glowing diamond in the hilt, the last one with a glow, Patches utters the words "I wish..."
-
-Time seems to freeze and the world goes dark, as if in twilight. 
-
-Unable to look upwards due to time being frozen, Patches feels a presence above her, vast and unknowable.
-
-A booming voice calls out from the sky, resonating in the rogue's very being "It is done, This Blade of Tymora is no more"
-
-Time resumes and a galeforce wind crashes over the group from behind.
-
-They all spin and watch as a great tear in reality hovers in the air twenty feet away.
-
-Only open for an instant, most of the group is so caught off guard that they only see the form of a skinny Black Dragon hurtling from the rent toward them.
-
-Patches sees more.
-
-She sees the market of Mantol Derrith, the underdark outpost almost directly beneath the Barony, she sees Li Xian in his true form reaching out for the portal.
-
-She sees a massive ethereal figure, barred from coming to hallowed ground on the other side of the rift, strips of tattered monochromatic cloth splayed out and floating as if underwater, and a ghostly figure at its center.
-
-Where it's face should be on its ghostly form, only a sucking void is visible, but from it can be felt a terrifying intelligence - Corpsetaker.
-
-The rift closes in an instant and the form of Cercei crashes to the ground but does not move as Cirrus paralyzes the dragon with a Hold spell from his staff.
-
-Though paralyzed, a painful screeching wail rises from the dragon, the sound of agony.
-
-Buumi turns to Fey and the wizard casts a deep sleep over the dragon, ending her pain.
-
-Doc and Buumi both rush forwards to administer healing and Tark pulls out his medicine kit and begins to look over Cercei.
-
-Cercei is much bigger than she should be for her age, Fey notes that she must have been artificially grown, but it has caused problems.
-
-There are gaps in the scales that show raw, blistered flesh and she looks far too skinny, her limbs almost stretched.
-
-Buumi picks her up with help from Tark, Snorbul and Gundren while Doc rushes over to a nearby slope.
-
-Casting a modified Earth spell, Doc forms a small cave for her and they bring Cercei into it and set her down and begin to get to work healing her body.
-
-Its going to be a slow process undoing the damage to her body, if it CAN be undone.
-
-Her mind is another question entirely.
-
-Cirrus enacts a dreaming and Buumi goes in to the dream to talk to his daughter.
-
-After it is done, Buumi awakes, wiping tears from his eyes and thanks Cirrus.
-
-They leave the small cave, Doc remaining behind to administer aid to the injured dragon.
-
-The group gathers around and Buumi begins to relay what Cercei told him, though not before Snorbul relays his disbelief about the entire situation.
-
-Cercei is in a bad way and will remain in a deep slumber for now, the hallowed ground will protect her mind while Doc heals her body.
-
-Corpsetaker is in Mantol Derrith with Li Xian and has been for some time now, they are searching for **Gravenhollow **but are currently dealing with a more pressing issue.
-
-The Demon Lords walk the Underdark and one is in Mantol Derith.  Somehow it is preventing people from leaving the Underdark town.
-
-The Demon Lords are not in the Underdark willingly, something brought them against their will.
-
-Orcus has found and obtained a fragment of The Last Word
-
-The group discusses what this all means with Cirrus freaking out that the entire Abyss is apparently beneath their feet.  He thinks its time to send the two artifact pieces they DO have, to Bahamut for safe keeping.
-
-While the group discusses, Patches slinks back into the cave and prays over Cercei, focusing on her crystal fragment.
-
-Buumi heads in and sits next to Patches and spends some time sitting next to Cercei.
-
-Tark, hearing about Li, heads off to find his little treehouse in the woods near the Dojo, needing space to think about how to contact Bahamut.
-
- The only thing he can think of is finding the Avatar of Bahamut on the prime material, or contacting Aurinax the Gold Dragon...
+There was more work waiting. There was always more work waiting.
