@@ -1,241 +1,148 @@
 ---
-title: The Demon Lords - Examinations
+title: "The Demon Lords - Examinations"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 10
+summary: "MiMaw, the Sovereignty's ancient human emissary, arrived at dawn to negotiate the hostages' release — while Feanon raced to solve the cloning problem that would render the Surgeon's examination unnecessary, ultimately getting his answer from an unlikely trio: Lady Faye, Lemerlais, and a halfling archaeologist with a scroll penned by Manshoon himself."
 people:
-  - "aliyah-faen-tlabbar"
-  - "auril"
-  - "beryan"
-  - "cirrus-al-kayan"
-  - "dean-sejuk"
-  - "feanon-serinde"
-  - "gundren-rockseeker"
-  - "intent"
-  - "lady-faye"
-  - "lemerlais"
-  - "mordenkainen"
-  - "tarkathee-daru"
-  - "thorna"
+  - aliyah-faen-tlabbar
+  - auril
+  - beryan
+  - chantelle
+  - cirrus-al-kayan
+  - dean-sejuk
+  - feanon-serinde
+  - gundren-rockseeker
+  - intent
+  - lady-faye
+  - lemerlais
+  - mimaw
+  - mordenkainen
+  - tarkathee-daru
+  - thorna
 places:
-  - "abyss"
-  - "amn"
-  - "daggerford"
-  - "evermeet"
-  - "feanons-tower"
-  - "gravenhollow"
-  - "keep-of-thunder-bluff"
-  - "silverymoon"
-  - "underdark"
+  - abyss
+  - amn
+  - daggerford
+  - evermeet
+  - feanons-tower
+  - gravenhollow
+  - keep-of-thunder-bluff
+  - silverymoon
+  - underdark
 things:
-  - "bag-of-holding"
-  - "chardalyn"
+  - bag-of-holding
+  - chardalyn
 factions:
-  - "zhentarim"
+  - zhentarim
 ---
 
-The group splits up, though most remain behind at Feanons tower in case of further attacks from the Sovereignty.
+The group split up in the small hours of the morning, though most remained at [[feanons-tower|the tower]] in case the Sovereignty moved again.
 
-The Wizard has work to do.
+[[aliyah-faen-tlabbar|Patches]] returned briefly to her Establishment to pray at her shrine and reach out to her contacts. She sent word again for [[mordenkainen|Mordenkainen]] and checked whether Lo'Dan had responded. Mordenkainen was unreachable — not merely unavailable but apparently not on the same plane. Lo'Dan, however, had checked in: he had escaped Mantol-Derith and was making his way back to the surface. Patches returned to the tower in the early hours and relayed the news to Feanon.
 
-Patches heads to her Establishment, stopping by her shrine to pray before sending word again for Mordenkainen and asking The Network if Lo’Dan had responded yet.
+[[feanon-serinde|Fey]] took his reverie and then got to work. He had a plan — give the Sovereignty a clone of himself rather than permit the Surgeon to examine the original — but the plan required a Clone spell, and he couldn't place one. He scoured his own memory and questioned his assistants. Nothing. [[thorna|Thorna]], exhausted, simply lay down against the [[chardalyn|Chardalyn]] sarcophagus in the corner of the lab and fell asleep.
 
-No Mordenkainen - so much so he’s not even on the same plane.
+[[cirrus-al-kayan|Cirrus]], unable to rest, explored the tower. He found its magnificent halls and chambers strangely empty — all that height and grandeur serving a surprisingly small population. He had reached the main foyer and was watching the sky lighten when a figure appeared in the ruined doorway.
 
-Lo’Dan however HAS checked in and has escaped Mantol Derith and is returning to the surface.
+An old human woman stood there leaning on a cane, with silver hair done up in a poofy bun, a blue dress with a white apron, and a handsome leather bag in the crook of one arm. She smiled at [[cirrus-al-kayan|Cirrus]] as he approached, introduced herself as Barbara — but please, she said, the nickname was MiMaw.
 
-Patches returns in the early hours of the morning and tells Feanon that Mordenkainen cannot help him.
+Cirrus welcomed her. MiMaw then revealed she was an emissary of the Sovereignty.
 
-Feanon takes his reverie so as not to become exhausted and then gets to work assembling the pieces of artifice he had ordered.
+The tone changed instantly.
 
-In a bit of a panic though, Fea scours his mind and those of his assistants for a way to actually cast the Cloning spell he’s preparing for.
+---
 
-He intends to give the Sovereignty a clone of himself rather than let The Surgeon cut him open…
+MiMaw explained the Sovereignty's perspective calmly. They had needed to test the group — to know whether they were prey or peer. Having received their answer, they were prepared to offer weregild for the three deaths that had occurred. As a show of good faith, she opened her [[bag-of-holding|bag]] and produced four amniotic sacks, slick and revolting, which she set on the foyer floor.
 
-Thorna ends up sleeping against the Chardalyn Sarcophagus in the lab, but Cirrus begins to explore the tower.
+[[tarkathee-daru|Tark]], who had arrived and taken up a watching position near the door, rushed forward. He and [[thorna|Thorna]] — who had wandered down from the lab — cut the sacks open. Weakened, changed people tumbled out, gasping. The group gradually assembled in the foyer, drawn by the commotion, and the negotiation continued with everyone present.
 
-He finds it’s magnificent halls and chambers remarkably empty.
+The Sovereignty's price for the remaining four prisoners was unchanged: access to [[feanon-serinde|Fey]]'s brain — the Surgeon needed to determine how the wizard had resisted absorption. The group was not having it. They were given eight hours to find an alternative before the portal to the Plane of Water collapsed.
 
-As he descends the staircase into the main foyer, he notes the sun beginning to rise (despite the Chrome eyes) and sees a figure in the ruined doorway of Feanons tower.
+MiMaw walked out to the lake and sat at the water's edge, watching the morning light on the surface, perfectly patient.
 
-An old human woman stands there leaning on a cane, with silver hair done up in a poofy bun and a blue dress with white apron and a nice looking leather bag in the crook of one arm.
+---
 
-She smiles at Cirrus as he approaches and introduces her as Barbara, but asks that he use her nickname: MiMaw.
+[[tarkathee-daru|Tark]] went and watched her. Hours passed. Eventually he asked why she worked for the Sovereignty.
 
-Cirrus welcomes the strange old lady but is quickly put on alert when Mimaw reveals that she is an emissary sent from the Sovereignty.
+She explained it without resentment: she was over three hundred years old. She awoke for periods, slept for others, her mind and memories a permanent part of the Sovereignty's vast collective. She was part of something eternal — not evil, not good, simply older than anything she had encountered in her earlier life.
 
-The tone of the conversation changes instantly and Cirrus begins to negotiate.
+She offered Tark a glimpse of it and held out her hand.
 
-The Sovereignty explains the need to test the group and Feanon, to know if they are prey or peer and offer a weregild (blood money) for the three deaths that occured.
+The Monk took it.
 
-As an additional show of good faith, half of the prisoners are released and the woman releases these bizarre and disgusting amniotic sacks from her bag of holding.
+His mind expanded into an ocean of psionic currents, flows of energy carrying minds and memories in every direction. He brushed one — a peasant's entire life, complete and vivid. Another — the existence of a predatory monster, alien and hungry. Around him everything moved in harmony, directed by invisible currents. Then a leviathan of a mind rose from the depths, surrounded by smaller minds like pilot fish following a whale. It turned its attention to Tark. He greeted it. It greeted him back.
 
-Tark, who had arrived and watched the ongoing conversation (throwing shade at the Sovereignty every now and then) rushes over and opens the sacks with Thornas help (who had since wandered down to the foyer).
+Tark released the connection. He thanked MiMaw and walked back to the tower, thinking.
 
-As the negotiations continue, the group gradually all arrive to be a party to the discussion.
+---
 
-The Aboleths are trying to trade the last four prisoners for a look at Feanons brain so they can determine *why* he was able to resist enslavement.
+Inside, [[feanon-serinde|Fey]] had been working the problem from every angle.
 
-The group is not having any of it.
+He sent to his old friend [[dean-sejuk|Dean Sejuk]] of [[silverymoon|Silverymoon]], hoping Sejuk might have access to a Clone spell despite its illegal status. Sejuk could not help, and mentioned that the only being he could think of who might possess such a rare and banned spell was Larloch, the First Lich — last known to dwell in the Warlock's Crypt north of Baldur's Gate, though he hadn't been seen in centuries. That lead was a dead end.
 
-They are given 8 hours to make a decision before the portal to the Plane of Water collapses.
+Then Feanon remembered [[zhentarim|Manshoon]].
 
-Mimaw heads to the lake and waits there, calmly observing the sunlit waters of the spring morning.
+The once-leader of the Zhentarim had famously cloned himself some two centuries past, leaving behind multiple copies of his own consciousness. If anyone had committed a Clone spell to writing, it was him. Feanon had [[aliyah-faen-tlabbar|Patches]] send an urgent missive to [[lady-faye|Lady Faye]] asking about Manshoon's legacy.
 
-Tark goes to her and watches her intently.
+---
 
-Hours go by and eventually he asks her why she seems to be working for the Sovereignty.
+Meanwhile, [[thorna|Thorna]] had been pestering [[beryan|Beryan]] with questions. The sage was somewhat frazzled by the night's events but relented and agreed to dispatch a message to the libraries of [[evermeet|Evermeet]] asking for anything on [[auril|Auril]] and on Issgard, the magical hammer Thorna carried. Thorna, still unsatisfied, tried various other approaches: she briefly attempted to have herself shipped to the Plane of Water in an amniotic sack (the plan failed before it began) and made moves to leave the barony for [[silverymoon|Silverymoon]]'s libraries. The group talked her down. She would find her answers at [[gravenhollow|Gravenhollow]], the great library of the [[underdark|Underdark]] — and they were already planning to return there.
 
-She explains that she’s over 300 years old, she awakes for periods and sleeps for others, her mind and memories a part of the Sovereignty.
+Somewhat mollified, Thorna went to the lakeshore to talk to MiMaw instead. The old woman studied her for a long moment, clicking her tongue to herself. Then she said it plainly: Thorna had no past because she had none to speak of. She was only a few weeks old — a blank slate, a completely new person. MiMaw suspected this had been done intentionally, for some purpose not yet clear.
 
-She is a part of something eternal, neither evil nor good.
+---
 
-She offers to give Tark a glimpse of the Sovereignty and holds out her hand.
+[[tarkathee-daru|Tark]] climbed to [[keep-of-thunder-bluff|the keep]] to check on the general population, passing through town on the way. He found a half-dissolved foot at the edge of the square and little else. Broken doors and windows throughout New Daggerford. The keep itself was better manned than he had ever seen it; [[gundren-rockseeker|Gundren]] was in the main courtyard distributing weapons to the citizenry. Those Tark asked hadn't lost anyone they could name.
 
-The Monk takes it and feels his mind expand.
+He continued down to the alchemy shop looking for water breathing potions. Marzeline met him at the door and handed over six — she had been brewing them through the night. After people were kidnapped by fishmen, she said, she figured the group would probably need to go into the lake. Tark complimented her foresight, pressed 170 gold pieces into her hands, and headed back to the tower.
 
-He sees a great ocean of currents and flows; Psionic energy and all around him are minds and memories.
+---
 
-Brushing one he sees the life of a peasant, another, that of a predatory monster.
+[[aliyah-faen-tlabbar|Patches]] received a reply from [[lemerlais|Lemerlais]] and [[lady-faye|Lady Faye]]. The letter was cryptic but clear enough in implication: the two of them had significant information on Manshoon. They requested Feanon's teleportation sigil to visit in person.
 
-All of it though is operating in harmony, directed by currents.
+Feanon agreed immediately.
 
-From the vast ocean a leviathan of a mind and memories appears, surrounded by smaller minds like pilot fish following a whale.  Tark greets it, and the Aboleth greets him back.
+Thirty minutes later Patches led three women into the lab. [[lady-faye|Lady Faye]] and [[lemerlais|Lemerlais]] entered with the commanding presence of people who knew their own power. Behind them came the third: a halfling woman with curling black hair, ruddy skin, green eyes, and a constellation of freckles, carrying an enormous backpack covered in strapped-on boxes that looked like it might topple her. She bumbled slightly through the doorway.
 
-Tark ends the experience, snapping out of the meditative-like state.
+Lady Faye introduced her as [[chantelle|Chantelle]], archaeologist of Candlekeep.
 
-He thanks Mimaw and takes his leave, thinking on the experience.
+It turned out the trio had been assembling a Manshoon collection of their own. Lady Faye had been seeking ways to extend her human lifespan with Lemerlais' help; Manshoon's cloning notes had long been a target. Chantelle had located the key piece: a Scroll of Cloning penned by Manshoon himself. The problem, until now, had been that none of the three possessed facilities capable of running the spell — but [[feanon-serinde|Fey]] did.
 
+A deal was struck. The scroll went to Feanon. In exchange, he would build a cloning facility for Lady Faye — with [[gundren-rockseeker|Gundren]]'s help.
 
-Meanwhile, The interior of the Tower has been hectic.
+[[aliyah-faen-tlabbar|Patches]] scraped flesh from Feanon's arm with visible glee as everyone else either winced or laughed. Feanon cast the spell. What followed was more alchemical than magical — burners lit, fluids distilled, compounds measured and combined. After an hour, the main cloning tank was filled with sterile medium, the sample suspended within it, motes of tissue already beginning to accrete. The [[zhentarim|Zhentarim]] trio took notes throughout.
 
-Feanon contacts his old friend Sejuk of Silverymoon, hoping that he can cast a Cloning spell, despite being illegal. Though he cannot remember why…
+Feanon ran the math and swore quietly. At this rate the clone would take a full week to mature. The Sovereignty's deadline was in hours.
 
-Sejuk cannot help him and mentions that the only “person” he can think of to have such a rare and illegal spell would be Larloch, the First Lich, last seen in the Warlocks Crypt north of Baldur’s Gate.
+---
 
-Though the reclusive and utterly deadly Lich has not been seen in centuries.
+During this [[cirrus-al-kayan|Cirrus]] had been at the lake bottom for much of the day, attuning a sheet of lead from Feanon's lab to the Plane of Water by holding it near the open portal. Once sufficiently attuned, he brought it up and had [[gundren-rockseeker|Gundren]] fashion it into a tuning fork.
 
-This does not help and Feanon wracks his brain for answers.
+---
 
-Just as he’s about to resign himself to his fate and give in to the demands of the Barony, he remembers Manshoon.
+The group assembled at the shore to meet MiMaw. She assured [[feanon-serinde|Fey]] that the examination would leave him unharmed and summoned the Surgeon so Fey could assess the process for himself.
 
-The once leader of the Zhentarim, Manshoon was notorious for cloning himself about two centuries back.
+From the lake walked a humanoid figure in a thick rubber encounter suit, glass faceplate filled with sloshing water, moving as if weighted down by every step. [[tarkathee-daru|Tark]] studied it for about two seconds and slashed the suit open. Saltwater flooded out. The creature toppled back toward the water and pulled itself free of the ruined suit, revealing what it actually was: pallid translucent skin, elongated limbs ending not in hands or feet but in masses of fine tentacles, a head shaped more like a monkfish than the sea elf it had once been.
 
-He has Patches send a missive to Lady Faye, asking for any information on the old leader.
+[[feanon-serinde|Fey]] was simultaneously disgusted and fascinated. The tentacles tapered down to individual filaments finer than hair. He understood, suddenly, exactly how they intended to perform the examination.
 
+The Surgeon was escorted up to the lab and promptly locked inside the Aboleth tank.
 
-Meanwhile, Thorna has been trying to get answers as she finds herself surrounded by learned people.
+The Surgeon Dimension Doored back to the lake.
 
-She sees Feanon inquire with the Sage, Beryan and asks some questions of the Elf after.
+MiMaw laughed from the shoreline as the group's leverage evaporated. When the group tried to trade the recaptured Surgeon for the remaining prisoners, the bluff had already collapsed. MiMaw turned to leave.
 
-Beryan is a bit exasperated by all thats going on, but calms down and agrees to help, sending a message to the libraries of Evermeet for information on Auril and Issgard, the magical hammer Thorna wields.
+[[cirrus-al-kayan|Cirrus]] rushed forward and drove the Iron Tuning Fork into her side. With a surge of tearing reality, MiMaw was plane-shifted to [[abyss|the Abyss]].
 
-Still not satisfied, Thorna almost leaves the Barony to head to the libraries of Silverymoon (and tries to ship herself off to the Plane of Water in a sack, unsuccessfully), but is persuaded to remain with the group and head into the Underdark instead - To the Library of Gravenhollow for answers.
+---
 
-She (after finding out Gusieppe is an sexist ass) heads outside, maybe the old lady will have some answers for her.
+The group began preparing to enter the Plane of Water.
 
-Mimaw looks her over, studying her.
+[[cirrus-al-kayan|Cirrus]] paced at the water's edge instead, certain the Sovereignty was bluffing about the prisoners. The deadline ticked down. Some of the group drank their water breathing potions and began wading in — and as they entered the lake, amniotic sacks began arriving through the portal, washing up onto the shore.
 
-After a few minutes she clucks her tongue and nods to herself and proclaims that the reason Thorna cannot remember her past, is that she has none.
+The group opened them. The last prisoners tumbled out, gasping but alive.
 
-Thorna is only a few weeks old, she is a completely new person, a blank slate, though Mimaw suspects this to be for a purpose…
+The Sovereignty had relented.
 
-Tark heads back to the Keep to check on the general population, stopping by the town on the way to look for any more dead.
-
-He finds a half dissolved foot, but thats all.  The town is still mostly deserted and the signs of the Aboleth breakin are everywhere - broken doors and windows.
-
-Tark climbs up to the keep and is let in immediately.
-
-For the first time, he sees that the Keep is actually fairly well manned and meets up with Gundren distributing weapons to the citizenry in the main courtyard.
-
-Tark hopes to find those who lost people in the attack, but no one really stands out from the crowd and those he asks havent lost anyone recently.
-
-Tark heads back to New Daggerford to the Alchemy shop to get them brewing potions of water breathing and Gundren stops by the Orcs to arm them before heading to Feanons tower.
-
-To his surprise, Marzeline says they have been brewing them all night and hands him six.
-
-When asked, she responds that after people were kidnapped by fishmen, she figured the group might have to go after them.
-
-Tark compliments the young ladies foresight and hands her 170gp and then rushes out of the door, back to the Fea’s tower.
-
-
-Patches gets a response from Lemerlais and Lady Faye.
-
-The letter is cryptic and strangely written, suggesting strongly that the two of them have information on Manshoon.
-
-The duo request the teleportation sigil to come and visit and Feanon agrees.
-
-Thirty minutes later, Patches arrives back at the lab leading three women; A human, an Elf and a Halfling.
-
-Lady Faye and Lemerlais enter the lab, their commanding demeanor reminding everyone of their status and personal power.
-
-The Halfling however is the complete opposite, almost bumbling.
-
-The short woman has curling black hair, ruddy skin, green eyes and freckles and is carrying a massive backpack covered in boxes.
-
-Lady Faye introduces Chantelle, the Halfling Archaeologist of Candlekeep.
-
-It turns out that this trio have quite the treasure trove on Manshoon.
-
-Lady Faye has been trying to find ways to extend her human lifespan with the help of Lemerlais.
-
-Using her contacts, Lady Faye has been searching for magic or means to do so and Manshoons notes and cloning technology have always been a goal.
-
-Chantelle has been helping gather information and artefacts and found a key piece of the puzzle - A Scroll of Cloning, penned by the Zhentarim leader himself.
-
-The issue for the three Zhentarim is that none of them had the facilities or equipment needed for the spell to be cast - but Feanon does.
-
-A deal is struck, and in exchange for the spell scroll, Feanon will build (With Gundren’s help) a cloning facility for Lady Faye.
-
-Patches gleeflully collects (and a little extra) the flesh from Feanons arm for the spell as everyone looks on in horror (or amusement) as the Wizard then casts the spell.
-
-It takes and hour and appears to be much more of an alchemical affair, turning on burners, distilling fluid etc.
-
-After an hour, the main cloning tank is filled with sterile compound and the lump of flesh hangs suspended, motes of tissue already beginning to grow around it.
-
-Feanon curses though, the math just doesnt work out for him, it will take a week to grow this clone and the Sovereignty wont wait…
-
-He heads to the lakeshore with the group (The Zhentarim remaining in the lab, taking notes).
-
-During this, Cirrus took a sheet of lead from Fea’s lab and kept it near the Plane of Water portal at the bottom of the lake, attuning it to The Plane of Water over the many hours.  He has Gundren fashion it into a tuning fork later that day.
-
-
-They meet Mimaw at the shoreline.
-
-She assures Feanon that he will survive the process unharmed and even summons The Surgeon so Feanon can meet him.
-
-From the lake walks a humanoid in a thick rubbery encounter suit with a glass faceplate, water sloshing within.
-
-It walks as if weighted down and sloshes from the water.
-
-Not liking the look of him one bit, Tark slashes the suit, tearing it and causing saltwater to flood from it, revealing pallid amphibious flesh within.
-
-The strange creature falls back into the water and extricates itself from the suit, revealing a disgusting creature.
-
-Pallid translucent skin, elongated appendages ending not in hands and feet but masses of tentacles and a head more reminiscent of a Monk fish than the Sea Elf it once was.
-
-Feanon is disgusted and fascinated as he notes the tentacles of the creature appear to go as fine as hairs and he understands *how* they intend to look into his brain.
-
-The surgeon is escorted up to the lab
-
-And promptly captured in the Aboleth tank.
-
-Down below Mimaw laughs at the turn of events as the group tries to leverage the release of the Surgeon for their prisoners.
-
-The Surgeon Dimension doors back to the lake and swims into its depths.
-
-As Mimaw leaves, she turns back and tells the group that the portal and their people wait below.
-
-She descends into the water...but Cirrus rushes forwards and thrusts the Iron Tuning fork into her side, plane shifting her to the Abyss...
-
-The group begins to prep to head to The Plane of Water.
-
-Cirrus though begins to pace at the waters edge, confident that he is calling the Sovereignty’s bluff.
-
-As the time diminishes, several of the group drink the potions of Water Breathing and begin to head into the lake.
-
-As they do, the last of the amniotic sacks are sent through the portal and back to the barony.
-
-They arrive on the shore and are quickly opened, revealing the last few prisoners.
-
-The Sovereignty relents and Cirrus lets out a cackle of victory.
+[[cirrus-al-kayan|Cirrus]] let out a cackle of triumph.

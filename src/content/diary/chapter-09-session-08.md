@@ -1,274 +1,119 @@
 ---
-title: The Demon Lords - The Sovereignty
+title: "The Demon Lords - The Sovereignty"
 chapter: 9
 chapterTitle: The Demon Lords
 session: 8
+summary: "The group fought off Sovereignty raiders in the rain and freed abducted civilians from mutated Storm Giants — but the night ended in disaster: the tower was breached and Uira taken, Topsy and Turvy were stolen from the Fane, and the Aboleth itself dragged Feanon into the depths of the lake."
 people:
-  - "aliyah-faen-tlabbar"
-  - "beryan"
-  - "chani"
-  - "cirrus-al-kayan"
-  - "doc"
-  - "feanon-serinde"
-  - "fen"
-  - "gneiss"
-  - "gundren-rockseeker"
-  - "horatio-von-bumidere"
-  - "intent"
-  - "jack-mayer-johnson-mathews"
-  - "madame-eva"
-  - "ront"
-  - "selune"
-  - "sera-von-bumidere"
-  - "snorbul"
-  - "surtr"
-  - "tarkathee-daru"
-  - "thorna"
-  - "topsy-and-turvy"
+  - aliyah-faen-tlabbar
+  - beryan
+  - chani
+  - cirrus-al-kayan
+  - doc
+  - feanon-serinde
+  - fuega
+  - gneiss
+  - gundren-rockseeker
+  - horatio-von-bumidere
+  - intent
+  - jack-mayer-johnson-mathews
+  - madame-eva
+  - ront
+  - selune
+  - sera-von-bumidere
+  - snorbul
+  - surtr
+  - tarkathee-daru
+  - thorna
+  - topsy-and-turvy
 places:
-  - "daggerford"
-  - "fane-of-selune"
-  - "feanons-tower"
-  - "keep-of-thunder-bluff"
-  - "kossenberg"
-  - "rockseeker-manufactory"
-  - "temple-of-helm"
+  - daggerford
+  - fane-of-selune
+  - feanons-tower
+  - keep-of-thunder-bluff
+  - kossenberg
+  - rockseeker-manufactory
+  - temple-of-helm
 things:
-  - "arkto"
-  - "eclipse"
-  - "gwen"
+  - arkto
+  - eclipse
+  - gwen
 ---
 
-Thunder crashes and lightning illuminates the edge of New Daggerford.
+[[tarkathee-daru|Tark]] peeled away from the group as they pursued the retreating Sovereignty forces into the tree line. The keep had no idea the barony was under attack.
 
-The dark forest sways in the howling wind, the rain driving and chilling the party to the bone.
+He shadowstepped up the castle wall in a series of bounds, cleared the copper roof, and dropped down the other side. [[rockseeker-manufactory|The Manufactory]] was dark except for the orange glow of the forge — and [[surtr|Surtr]] was already in the doorway, strapping on his armor, staring out into the rain with the look of someone whose unease had just been confirmed. Tark gave him the short version. The Fire Giant nodded and extended his smoking hammer for Tark to step aboard. Then he hurled it in a blazing arc over the keep wall toward the town below.
 
-In the center of town though, a bright radiance illuminates the town square as the Seraphim notches silver arrows to its bow and lets fly.
+Tark reconsidered, shadowstepped back, and went to the [[temple-of-helm|Temple of Helm]] instead to rouse the clerics and trainee paladins. They grabbed their gear and rushed for the courtyard. Tark didn't wait — he cleared the wall in one leap and rejoined the group at a run.
 
-Piscine monsters are lanced by celestial arrows and slain as they attempt to abduct the citizens of the Barony.
+---
 
-The group sees the monsters further afield in the flashing lightning, dragging their prey in the direction of the lake.
+In the town square, the Seraphim loosed its final silver arrows, killing two more raiders. A pulse of celestial energy rolled outward from the wounds, healing [[horatio-von-bumidere|Buumi]] and [[snorbul|Snorbul]] where lightning had scorched them. Then it vanished in a wash of moonlight, a voice booming through every nearby mind with a swearing of destruction against the enemy.
 
-Tark turns and leaps into the air, shadowstepping up the castle wall in a series of bounds.
+[[jack-mayer-johnson-mathews|JmJm]] had appeared briefly in his theatre doorway, crinkled his nose at the scene, and closed the door. [[feanon-serinde|Fey]] cursed at him. The door flew back open from a kick — JmJm strode out declaring that he alone would defend Over the Moon against the hordes.
 
-Making it to the copper roof of the wall and looking down, the village is hardly visible through the rain, the keep has no idea they are under attack.
+A blazing meteor descended over the town.
 
-Tark leaps off the wall and races toward the Manufactory.
+Twenty feet from the cobblestones it detonated in fire. [[surtr|Surtr]] dropped from the fireball, caught his hammer, and landed with a boom that shook the street. The group took a moment to appreciate it.
 
-Silhouetted in the massive doorway is the Fire Giant Surtr, strapping on his armor and looking out into the rain, concerned.
+[[snorbul|Snorbul]] and [[thorna|Thorna]] arrived from the north alongside two Dragonborn knights, lancing enemies with lowered spears. Thorna was semi-comatose, staring up at the rumbling sky. The knights reported that [[doc|Doc]], [[gneiss|Gneiss]], [[chani|Chani]], and the remaining knights were in [[kossenberg|Kossenberg]], defending the outer settlement and gathering civilians to march south to the keep. The knights rode back toward Over the Moon to escort the sheltering civilians up to safety.
 
-Tark tells him of the attack and the Giant nods, it confirms his feelings of unease.
+The rest pressed on into the forest.
 
-The Rockseekers grab telescoped rifles and head to the keep to meet up with the small garrison.
+---
 
-Surtr offers Tark a lift back to the town and extends his smoking hammer for Tark to hop on as rain hisses against its metal.
+Through the rain and flashing lightning the group closed on the rearguard — five civilians being dragged through the mud by piscine creatures. Then four columns of lightning descended from the heavens and struck the forest, redirected outward by four figures as large as the oaks themselves: Storm Giants, illuminated in blue and white.
 
-Surtr then hurls the hammer through the air, sending it arcing over the keep wall and toward the town far below.
+They had been changed. Scaly skin, tentacles erupting where mouths had been, gills slashed raw across their chests — the Sovereignty's mark on what had once been proud beings.
 
-Tark remembers that he still needs to alert the paladins and shadowsteps back, surprising Surtr who just chuckles and then disappears in a fiery burst.
+The lightning blasted outward and the group dove.
 
-Tark continues on to the temple of Helm and warns the few clerics and trainee paladins.
+Combat erupted. [[tarkathee-daru|Tark]] drove into two Sea Spawn — harder to put down than expected. Acid barbs flew from Aboleth Skum hidden in the trees; Tark caught one midair and jammed it into the creature he was fighting, taking burns in the exchange. [[feanon-serinde|Fey]] cast Hypnotic Pattern over the next cluster of captives and escorts, charming them to a stumbling halt. Another acid barb flew and Fey threw up a shield. [[gundren-rockseeker|Gundren]] summoned Tenser's Disk for [[gwen|Gwen]] and vaulted onto [[arkto|Arkto]], taking to the air and opening up with his [[rockseeker-manufactory|cannon]]. [[horatio-von-bumidere|Buumi]] flew forward on summoned wings; [[aliyah-faen-tlabbar|Patches]] called [[eclipse|Eclipse]] to her hand, and together they reached the last prisoners and sent them stumbling back toward the tavern.
 
-They grab their gear and rush from the Tower to join the assembly of forces in the courtyard.
+[[surtr|Surtr]] let out a battle cry and charged the tree line, making straight for the giants. They were eager — hurling lightning and swinging great stone weapons. The battle raged across the forest edge as Surtr traded tremendous blows and the rest of the group mopped up the Sea Spawn and turned their attention to the remaining mutated giants.
 
-Tark does not wait for them and instead shadowsteps atop the wall and leaps off, returning quickly to the group below…
+Among the freed prisoners was Fuega — [[aliyah-faen-tlabbar|Patches]]' gnome bouncer, dragged from her bed with a coral barb in her side. Patches pressed a healing potion into her hands. The gnome pulled herself to her feet, hurled a fireball at the giants, and retreated, tossing firebolts as she went.
 
+The Storm Giants fell one by one. When the last crashed down, the group surveyed the wreckage in mutual exhaustion — and exchanged more than a few sideways glances at [[feanon-serinde|Fey]].
 
-The Storm rages and the monsters are cut down in the village square.
+---
 
-JmJm pokes his head out of his Theater, crinkling his nose at the spectacle.
+The message from Giuseppe arrived while the group was still catching their breath. The tower had been attacked: a single giant and at least thirty minions. The giant had smashed through the front doors and seized Uira before anyone could react, then retreated. The minions had tried to flood in after and been killed at the choke point by [[beryan|Beryan]] and the tower's defenses. Uira — Feanon's moon elf apprentice — had last been seen being dragged toward the lake.
 
-He locks eyes with Feanon and then closes the door.
+[[cirrus-al-kayan|Cirrus]] broke away from the group and headed for [[fane-of-selune|the Fane]] alone.
 
-Fea cries out a curse at the Bard before the door flies wide, having been kicked open from the inside.
+[[feanon-serinde|Fey]] began inscribing a teleportation circle in the mud. [[surtr|Surtr]] declined it; he continued on toward the lake on foot. When the circle flared to life, the rest crowded through.
 
-JmJm strides out, declaring that he will stand alone against the hordes, defending Over the Moon!
+---
 
-A flaming hammer descends over the town like a falling meteorite.
+They arrived on the tower island to find the lobby in ruins. The great glass door had been smashed inward, the stone frame broken wider to accommodate something enormous. Blasted Sea Spawn corpses were strewn across the entryway. Giuseppe crouched behind the front desk with a yew wand trained on the ruined doorway; [[beryan|Beryan]] stood at the top of the grand staircase with her staff at the ready.
 
-Just as it is about 20ft from the ground, a fiery explosion appears around the descending hammer and Surtr appears, catching the hammer and landing with a thunderous boom.
+[[gundren-rockseeker|Gundren]] immediately took to the air on [[arkto|Arkto]] and began circling the island. Through the rain and darkness, he could just make out something moving beneath the surface near the docks.
 
-The group is suitably impressed.  A minute or two later, Tark re-appears and the group follows Feanon in the direction of his tower and the captured villagers.
+[[feanon-serinde|Fey]] emerged from the elevator with security badges for the group and promptly fell unconscious. [[aliyah-faen-tlabbar|Patches]] looked down at the badge in her hand, pocketed it, and nudged the wizard awake. He went back upstairs for a replacement. Patches kept the first.
 
-From the north, two Dragonborn knights ride into town, lancing nearby enemies with Snorbul and Thorna trailing behind.
+Fey got his report as the group descended to the lobby. His expression darkened by degrees. Then he stormed out through the smashed doors toward the dock path.
 
-The Dragonborn report that Doc B, Jin, Gneiss, Chani and the other knights are in Kossenberg, defending the town from raiding parties, they are gathering the civilians and will then march them south to take refuge in the keep.
+---
 
-Snorbul and Thorna join up with the crew, but Thorna is semi-comatose, staring up at the rumbling stormy sky.
+At [[fane-of-selune|the Fane]], [[cirrus-al-kayan|Cirrus]] found signs of raiders immediately. He searched the sanctuary carefully — [[topsy-and-turvy|Topsy and Turvy]] were gone. The Sovereignty had taken the deep gnome wererat twins from their beds. Cirrus entered his sanctum, prayed to [[selune|Selune]], cast Fly, and soared through the storm toward [[feanons-tower|the tower]].
 
-The Knights ride off to meet up with JmJm to escort the civilians from Over the Moon up to the keep
+---
 
-The group with Surtr press onwards to rescue those that have been taken by the Sovereignty raiding party.
+The path to the docks was dark and wet. As the group neared the water the storm eased slightly, and something vast became visible in the lake.
 
-As the group nears the outskirts of town, the forest looms ominously through the raining night.
+Twenty feet of sinuous, armored body. Long catfish-like tendrils. A toothy maw beneath a vertical row of red eyes. The Aboleth regarded them from beneath a coating of mucus, ancient and unhurried.
 
-The group closes in on the trailing enemy, seeing five civilians being dragged by the fish-like creatures through the raging storm.
+[[feanon-serinde|Fey]] walked to the end of the jetty and raised his staff.
 
-Thunder rumbles and the rain pelts and four columns of lightning descend from the heavens into the forest, illuminating it in blue and white.
+The Aboleth vanished.
 
-The four columns are then redirected from the forest by four hulking figures, illuminated by the energy and as large as the trees themselves:  Storm Giants.
+The water surged forward in a single enormous wave and swept the group off the dock — everyone except [[snorbul|Snorbul]] and [[aliyah-faen-tlabbar|Patches]], who held ground. Those in the water opened their eyes to distant lightning above and a silent force of Abolethic minions waiting below. Then a massive shape rose from the depths: a Kraken, tentacles reaching.
 
-The lightning blasts out, causing everyone to dive aside or be fried.
+[[gundren-rockseeker|Gundren]] fired from above. [[aliyah-faen-tlabbar|Patches]] put a bolt through a Skum's eye from the dock. [[snorbul|Snorbul]] rushed the waterline, hacking at tentacles. [[tarkathee-daru|Tark]] fought those nearest him. [[feanon-serinde|Fey]] was ensnared — the Kraken had him and was pulling him down. [[cirrus-al-kayan|Cirrus]] arrived overhead, dropped his Fly concentration, and plunged into the lake. He found the Kraken in the dark water and banished it. The massive body vanished in a crash of cavitation.
 
-Burned by the lightning, the group rushes into combat, intent on freeing their captured people above all other objectives.
+Fey clawed toward shore, free of the tentacles. He had almost reached the jetty when the Deep Scions let out a concussive shriek that staggered the entire group. [[horatio-von-bumidere|Buumi]] pulled the wizard the last few feet — and the stunned Feanon was immediately seized again. The minions dragged him back into the lake.
 
-Tark rushes forward, pummeling two Sea Spawn who are surprisingly more resilient than expected.
+The Aboleth surfaced.
 
-An acidic Barb flies through the night from the hidden Aboleth Skum waiting for the group.
-
-Tark catches  it and stabs it into the creature he’s fighting, but gets some acid burns.
-
-Feanon casts Hypnotic Pattern over the next batch of prisoners and Sea Spawn, charming the batch and causing them to stumble to a stop.
-
-Another acid barb flies out from another hidden Skum, forcing Feanon to throw up a shield.
-
-Gundren summons the Tenser’s Disk for Gwen and Arkto for himself and hops on, quickly becoming air-support as the Dwarf begins to unload into the enemy.
-
-Buumi flies forward on his summoned wings as Patches summons eclipse and the two of them rescue the last two prisoners, sending the lot running back into town, toward the Tavern.
-
-Snorbul rushes up to join the fray, hacking at Sea Spawn and Skum.
-
-Surtr lets out a battle cry and charges forward into the forest outskirts, making a bee-line for the Storm Giants.
-
-As he nears, the illumination from his flames casting through the trees reveals the Storm Giants in all their mutated and malformed glory.
-
-The once proud Storm Giants now have scaly skin, tentacles protruding from their face and gills across their chest.
-
-Surtr charges two of them, and they seem more than eager to oblige, hurling blasts of lightning and rushing in with great stone weapons.
-
-The Seraphim fires its remaining shots, striking and killing two of the raiders and causing a wash of celestial energy to flow from the arrows, healing Buumi and Snorbul who nhad been burned by lightning.
-
-The Seraphim then disappears in a wash of moonlight and a voice booms in the heads of all nearby, swearing destruction against the enemy of the party.
-
-The battle rages.
-
-One of the prisoners turns out to be Fuega, Patches bouncer who was taken from her bed.
-
-Injured, the Gnome stumbles to her feet before Patches hands her a healing potion, stabilizing the Gnome.
-
-Now free, the small gnome hurls a fireball at the giants and then retreats, throwing Firebolts  as she goes.
-
-Buumi and Patches see the Skum firing Acidic barbs from the trees, as well as the fourth giant still calling lightning down and the two of them rush in under covering fire from Gundren while Tark, Surtr, Fea, Cirrus and Snorbul mop up the Sea-spawn and turn their attention on the three other mutated Storm Giants.
-
-The group takes a serious  beating from the giants, but their power overwhelms the Sovereignty minions and the Storm Giants are slain.
-
-Everyone took a beating and more than a few sideways glances of displeasure are thrown at Feanon for bringing this down on them.
-
-Feanon is not surprised when he gets a message from Giuseppe back at his tower.
-
-The Gnome wizard reports an attack on the tower; a mutated giant supported by Sea-Spawn smashed through the front doors.
-
-Giuseppe, Beryan and Uira repelled the invaders with assistance from the tower’s defenses, but Uira was taken by the Giant and dragged toward the lake.
-
-The party heals up as Fea begins a teleportation circle, desperate to get to the tower and ensure the safety of the Sarcophagus.
-
-
-Cirrus veers off from the party, as they crowd around the Teleportation circle.
-
- Surtr says he will continue on to the lake and leaves the group behind.
-
-Everyone else teleports to Fea’s tower and island.
-
-Gundren immediately takes to the air on Arkto and begins to circle the island, looking for targets through the storm.
-
-Feanon hands out security badges to the group and then rushes from the Teleportation chamber...and immediately falls unconscious.
-
-Patches catches up, looking down at the security badge she took from Feanon and pocketing it as she approaches and then wakes up the slumbering wizard.
-
-Confused, Feanon goes back and grabs another Security key.
-
-Patches keeps one undetected.
-
-The group descends in the elevator to the main lobby, everyone awkwardly standing close and more than a little annoyed with Feanon.
-
-In the lobby, the place has suffered some significant damage.
-
-The main glass door has been smashed inward, the stone frame cracked and broken wider.
-
-Blasted corpses are strewn about the entryway, many unrecognizable as Sea-Spawn.
-
-Giuseppe can be seen taking cover behind the front desk, a yew wand pointing at the blasted front doors.
-
-Beryan stands at the top of the grand staircase, surveying the area with her staff at the ready.
-
-Feanon gets a report: 
-
-The tower was attacked by a single Giant and band of at least thirty minions, 
-
-the Giant breached the door and grabbed Uira before they knew what was happening, 
-
-The Giant retreated and then the minions attacked
-
-They tried to flood in but got caught in the choke point and killed by the remaining wizards.
-
-Gusieppe (Male Halfling) and Beryan (Female Sun Elf Sage) last saw Uira (Female Moon Elf Wizard) being taken toward the lake.
-
-Feanon storms out of his tower, starting to get really pissed off.
-
-High above, circling the tower, Gundren thinks he can see a shadow in the water off the docks of Feanons island.
-
-
-Cirrus makes it to the Fane and looks around intently, he quickly finds signs of raiders.
-
-Heading into the Fane cautiously, Cirrus searches  but cannot find Topsy and Turvey, the two Deep Gnome Were-Rat twins.
-
-They’ve been taken by the Sovereignty.
-
-Cirrus heads into his inner sanctum, prays to Selune and then casts Fly on himself and soars into the stormy night, to Feanons tower.
-
-
-The group follows Feanon out the smashed door of his tower and down the stone steps of the pathway leading to the docks.
-
-As they near, the storm lessens a little and out in the water, they see a massive shape in the water.
-
-The group fans out and Fea walks forward to the front of the jetty.
-
-In choppy dark waters of the lake is a massive form.
-
-Twenty feet long and sinuous, with long cat-fish like tendrils and ancient looking armored plates covering its form, the fish-like Aboleth looks out from the water, a vertical row of red eyes staring out from beneath a coating of mucus with a toothy maw beneath.
-
-Feanon step forward, raising his staff and calls out in a booming voice but as he does so, the Aboleth disappears.
-
-The Waters of the lake surge forwards and sweep everyone but Snorbul and Patches into the lake!
-
-Feanon splashes into the dark waters and opens his eyes.
-
-Flashes of lightning illuminates a small force of Abolethic minions, simply waiting.
-
-A massive form looms up from the depths, a Kraken that then reaches out its tendrils to ensnare and attack the party.
-
-Gundren begins firing from up above as the group desperately swims to get back to the relative safety of shore.
-
-Patches, who had managed to stay on dry land takes a perfect shot against one of the Skum, hitting it in the eye and killing it instantly.
-
-Snorbul rushes forward, slashing at a tentacle as Tark attacks the one near him.
-
-Feanon though is truly caught by the Kraken and the beast begins to retreat with its prey, swimming deeper into the lake.
-
-Falling from the sky, Cirrus drops his concentration on his flight spell, splashing down into the lake and banishing the Kraken.
-
-The massive sea creature vanishes in a crash of water and flash of cavitation.
-
-Feanon rushes back to shore, now free of the tendrils and begins to climb out of the water but with the Aboleths minions in close pursuit..
-
-From the depths, the Aboleth begins to swim up and Tark takes note, determined to slay the creature that has caused so many issues this night.
-
-He swims deep into the lake and shadowsteps next to it, striking….nothing and dispelling the illusion.
-
-Now deeper in the water and far away from his friends, Tark peers into the dark depths and activates Truesight from his blindfold.
-
-He sees a single malformed Storm Giant lazily swimming up in their direction, and movement behind him in the deoths; The Kraken swimming back from the Plane of Water.
-
-Feanon climbs up to the Jetti, Buumi grabs the wizard and pulls him the last few feet.
-
-The minions in close pursuit  let out a series of stunning screeches, staggering the party, though Patches and Snorbul both get their shots in while Gundren continues his aerial barrage in the lulling storm.
-
-Feanon however is stunned by the Deep Scions and grabbed.
-
-The monsters drag Feanon back into the lake and begin to swim down.
-
-As they do so, the Aboleth becomes visible and dashes through the cold waters.
-
-It rushes toward the Wizard and engulfs him in the cloud of mutagenic mucous
-
-Its tendrils then reach out to enslave Feanons Mind…
+It rushed the wizard in a cloud of mutagenic mucus, engulfed him, and reached out its tendrils toward [[feanon-serinde|Fey]]'s mind.
