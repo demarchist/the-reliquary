@@ -1,5 +1,5 @@
 ---
-title: "The Underdark - The Duergar Locks"
+title: The Underdark - The Duergar Locks
 chapter: 8
 chapterTitle: The Underdark
 session: 13
@@ -19,10 +19,10 @@ people:
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "darklake"
 things:
+  - "hew"
   - "tavern-of-doors"
   - "the-last-word"
 factions:

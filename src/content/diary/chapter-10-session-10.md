@@ -5,6 +5,7 @@ chapterTitle: Beyond the Veil
 session: 10
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "baphomet"
   - "cirrus-al-kayan"
   - "doc"

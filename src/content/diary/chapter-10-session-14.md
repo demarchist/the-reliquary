@@ -21,6 +21,8 @@ people:
   - "val-tengu"
 places:
   - "the-establishment"
+things:
+  - "peade"
 factions:
   - "drow-faction"
   - "house-baenre"

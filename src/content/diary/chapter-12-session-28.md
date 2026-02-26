@@ -10,6 +10,7 @@ people:
   - "val-tengu"
   - "vecna"
 places:
+  - "far-realm"
   - "feanons-tower"
   - "golden-tower"
 things:

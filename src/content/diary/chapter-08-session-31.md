@@ -18,6 +18,7 @@ people:
   - "tarkathee-daru"
 places:
   - "abyss"
+  - "the-chasm"
 things:
   - "bag-of-holding"
   - "eclipse"

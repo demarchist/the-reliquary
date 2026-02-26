@@ -6,6 +6,7 @@ session: 16
 summary: "Deep in the catacombs of Castle Ravenloft, the group finds the dragon skull of Argynvost in a macabre bone-decorated hall — and Strahd himself, who murders Boris and attacks. After driving the vampire lord back with the Holy Symbol of Ravenkind, they meet the castle's deformed butler Cyrus, explore the dungeons, and narrowly avoid a vampire patrol through Cyrrus's flawless impersonation."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "bahamut"
   - "boris"
   - "chani"

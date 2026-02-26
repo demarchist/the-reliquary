@@ -4,6 +4,7 @@ chapter: 13
 chapterTitle: The Voyage Home
 session: 4
 people:
+  - "ares"
   - "camea"
   - "feanon-serinde"
   - "hohonu"

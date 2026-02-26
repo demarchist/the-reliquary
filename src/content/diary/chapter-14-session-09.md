@@ -5,6 +5,8 @@ session: 9
 people:
   - "aliyah-faen-tlabbar"
   - "ancalagon"
+  - "ares"
+  - "bohd"
   - "chani"
   - "cirrus-al-kayan"
   - "claudine"

@@ -5,61 +5,63 @@ chapterTitle: The Underdark
 session: 1
 summary: "With the war briefing concluded, the party said their goodbyes and made final preparations — including an unsettling visit to the Astral Plane and a sharp Moonwood ambush that tested both nerves and blades — before setting their course for the Underdark."
 people:
-  - aliyah-faen-tlabbar
-  - anaxtrasa
-  - atropos
-  - aurinax
-  - bahamut
-  - cercei
-  - cirrus-al-kayan
-  - corpsetaker
-  - doc
-  - feanon-serinde
-  - finn
-  - gundren-rockseeker
-  - horatio-von-bumidere
-  - hugh
-  - intent
-  - jack-mayer-johnson-mathews
-  - karsus
-  - li-xian
-  - lodan
-  - lord-neverember
-  - megno-slatesunder
-  - mordenkainen
-  - orcus
-  - pickles
-  - selune
-  - shaahir
-  - tarkathee-daru
-  - theodemir
+  - "aliyah-faen-tlabbar"
+  - "anaxtrasa"
+  - "atropos"
+  - "aurinax"
+  - "bahamut"
+  - "cercei"
+  - "cirrus-al-kayan"
+  - "corpsetaker"
+  - "doc"
+  - "feanon-serinde"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "hugh"
+  - "intent"
+  - "jack-mayer-johnson-mathews"
+  - "karsus"
+  - "li-xian"
+  - "lodan"
+  - "lord-neverember"
+  - "megno-slatesunder"
+  - "mordenkainen"
+  - "orcus"
+  - "pickles"
+  - "selune"
+  - "shaahir"
+  - "tarkathee-daru"
+  - "theodemir"
 places:
-  - amn
-  - astral-plane
-  - feanons-tower
-  - gravenhollow
-  - helms-hold
-  - keep-of-thunder-bluff
-  - menzoberranzan
-  - neverwinter
-  - oerth
-  - sanctum-of-krasus
-  - selunia
-  - silverymoon
-  - sundabar
-  - the-moonwood
-  - thunder-bluff
-  - underdark
-  - waterdeep
+  - "amn"
+  - "astral-plane"
+  - "feanons-tower"
+  - "gravenhollow"
+  - "helms-hold"
+  - "keep-of-thunder-bluff"
+  - "menzoberranzan"
+  - "neverwinter"
+  - "oerth"
+  - "selunia"
+  - "silverymoon"
+  - "sundabar"
+  - "the-moonwood"
+  - "thunder-bluff"
+  - "underdark"
+  - "waterdeep"
 things:
-  - crystal-tuning-fork
-  - gwen
+  - "crystal-tuning-fork"
+  - "gwen"
+  - "hew"
 factions:
-  - amnians
-  - drow-faction
-  - illithid-faction
-  - netherese
-  - watchers-of-helm
+  - "amnians"
+  - "drow-faction"
+  - "illithid-faction"
+  - "netherese"
+  - "watchers-of-helm"
+events:
+  - "the-calamity"
 ---
 
 ## The Briefing Concluded

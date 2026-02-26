@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - The Faerzress"
+title: The Underdark - The Faerzress
 chapter: 8
 chapterTitle: The Underdark
 session: 4
 summary: "A wild magic surge from the Faerzress melted the tunnel around them and sent Fëanon briefly topside, while the rest navigated Shadowfell-leaking passages and a crystalline geode inhabited by elemental spirits — before steam-filled tunnels and a reanimated body marked the approach toward Menzoberranzan."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
@@ -23,9 +24,10 @@ places:
   - "the-labyrinth"
   - "underdark"
 things:
+  - "faerzress"
+  - "hew"
   - "thundercannon"
 factions:
-  - "drow-faction"
   - "duergar-faction"
 ---
 

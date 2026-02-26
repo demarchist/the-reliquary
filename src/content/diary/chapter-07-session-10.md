@@ -7,6 +7,7 @@ summary: "After killing the Red Grin Killer, the group settles into a luxury spa
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
+  - "aurelian"
   - "captain-dink"
   - "cirrus-al-kayan"
   - "doc"

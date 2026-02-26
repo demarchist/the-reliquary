@@ -30,6 +30,7 @@ places:
   - "underdark"
 things:
   - "deck-of-illusions"
+  - "faerzress"
   - "hew"
 factions:
   - "amnians"

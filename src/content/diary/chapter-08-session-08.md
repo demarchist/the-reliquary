@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - The Escape from Velkynvelve"
+title: The Underdark - The Escape from Velkynvelve
 chapter: 8
 chapterTitle: The Underdark
 session: 8
 summary: "Demons crashing into Velkynvelve gave the group their opening — the prison emptied, the Drow scattered, and Shoor Vandree escaped in a spray of blood and gunpowder — before a Wind Walk blazed the rest of the journey to the Darklake, where Sloobludop's civil war between the Cult of the Deep Father and the old priesthood was already boiling over."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
@@ -24,13 +25,11 @@ people:
   - "snorbul"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
-  - "val-tengu"
+  - "topsy-and-turvy"
 places:
-  - "blingdenstone"
   - "darklake"
   - "gracksuluth"
   - "gravenhollow"
-  - "menzoberranzan"
   - "neverwinter"
   - "the-chasm"
   - "the-crossroads"
@@ -40,6 +39,9 @@ things:
   - "arkto"
   - "bag-of-holding"
   - "deck-of-illusions"
+  - "faerzress"
+  - "hew"
+  - "peade"
   - "the-last-word"
 factions:
   - "derro-faction"

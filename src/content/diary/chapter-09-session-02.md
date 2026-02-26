@@ -1,53 +1,53 @@
 ---
-title: "The Demon Lords - Thorna"
+title: The Demon Lords - Thorna
 chapter: 9
 chapterTitle: The Demon Lords
 session: 2
 summary: "Patches confronted Finn in the Dreaming and showed him the truth of Moondancer Village, while back in the barony a wandering Air Genasi named Thorna stumbled in and was gifted a divine warhammer by the Frost Maiden — and plans for an Abyssal Heist began to take shape."
 people:
-  - aliyah-faen-tlabbar
-  - auril
-  - aurinax
-  - beryan
-  - cirrus-al-kayan
-  - demogorgon
-  - feanon-serinde
-  - finn
-  - gundren-rockseeker
-  - horatio-von-bumidere
-  - intent
-  - orcus
-  - pickles
-  - ront
-  - selune
-  - shar
-  - snorbul
-  - surtr
-  - tarkathee-daru
-  - theodemir
-  - thorna
+  - "aliyah-faen-tlabbar"
+  - "auril"
+  - "aurinax"
+  - "beryan"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "feanon-serinde"
+  - "finn"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "intent"
+  - "madame-eva"
+  - "orcus"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "thorna"
 places:
-  - abyss
-  - amn
-  - blingdenstone
-  - daggerford
-  - fane-of-selune
-  - feanons-tower
-  - gauntlgrym
-  - gravenhollow
-  - menzoberranzan
-  - moondancer-village
-  - silverymoon
-  - sundabar
-  - the-crossroads
+  - "abyss"
+  - "amn"
+  - "blingdenstone"
+  - "daggerford"
+  - "fane-of-selune"
+  - "gauntlgrym"
+  - "gravenhollow"
+  - "menzoberranzan"
+  - "moondancer-village"
+  - "silverymoon"
+  - "sundabar"
+  - "the-crossroads"
 things:
-  - eclipse
-  - iron-tome
+  - "eclipse"
+  - "iron-tome"
 factions:
-  - amnians
-  - drow-faction
-  - netherese
-  - svirfneblin-faction
+  - "amnians"
+  - "drow-faction"
+  - "netherese"
+  - "svirfneblin-faction"
 ---
 
 [[aliyah-faen-tlabbar|Patches]] looked upon her son's face for the first time in many years.

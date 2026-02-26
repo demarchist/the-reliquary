@@ -7,6 +7,7 @@ summary: "The party meets Doctor Breakfast, receives the Tavern of Doors from Sh
 people:
   - "agatha"
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "black-spider"
   - "doc"
   - "feanon-serinde"

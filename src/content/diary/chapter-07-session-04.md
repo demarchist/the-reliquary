@@ -6,6 +6,7 @@ session: 4
 summary: "The group explores deeper into the Sanctum — deciphering murals of Netherese magic, looting a platinum chest, capturing a Berbalang named Mervklo, clearing brown mold and confronting a trapped Beholder, before ascending to face marble golems, a ghost named Thesia, and an Allip called Promethi."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"

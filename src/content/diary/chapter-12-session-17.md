@@ -4,6 +4,7 @@ chapter: 12
 chapterTitle: Al Askar
 session: 17
 people:
+  - "ares"
   - "cirrus-al-kayan"
   - "djoser"
   - "doc"

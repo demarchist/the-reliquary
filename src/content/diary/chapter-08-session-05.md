@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - The Froghemoth"
+title: The Underdark - The Froghemoth
 chapter: 8
 chapterTitle: The Underdark
 session: 5
 summary: "A Froghemoth lurking in the steam caves tested the group's coordination before they could make for the Darklake, while Gundren's impromptu dental work fitted Cirrus with silver dentures — practical, funny, and oddly touching."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"

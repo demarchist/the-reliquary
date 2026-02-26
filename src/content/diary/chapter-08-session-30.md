@@ -7,6 +7,7 @@ summary: "The prisoner convoy turned out to be a trap — two wagons packed with
 people:
   - "aliyah-faen-tlabbar"
   - "anduriel"
+  - "ares"
   - "cirrus-al-kayan"
   - "demogorgon"
   - "feanon-serinde"
@@ -17,7 +18,6 @@ people:
   - "ront"
   - "snorbul"
   - "tarkathee-daru"
-  - "veygar"
 places:
   - "gracksuluth"
   - "helms-hold"

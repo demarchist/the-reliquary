@@ -1,38 +1,39 @@
 ---
-title: "The Demon Lords - Quil'Sygoth"
+title: The Demon Lords - Quil'Sygoth
 chapter: 9
 chapterTitle: The Demon Lords
 session: 6
 summary: "The group battled the endlessly regenerating Quil'Sygoth, uncovered the ancient history of Abraxim and Halashnar in the ruins beneath the mine, and returned to the barony with Samid in tow — though not before a furious confrontation with Feanon over the sarcophagus he had secretly teleported away."
 people:
-  - aliyah-faen-tlabbar
-  - cirrus-al-kayan
-  - doc
-  - feanon-serinde
-  - gundren-rockseeker
-  - intent
-  - lolth
-  - madame-eva
-  - ront
-  - shar
-  - snorbul
-  - tarkathee-daru
-  - thorna
-  - veygar
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "feanon-serinde"
+  - "gundren-rockseeker"
+  - "intent"
+  - "lolth"
+  - "madame-eva"
+  - "ront"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
+  - "veygar"
 places:
-  - abyss
-  - snorbuls-hole
+  - "abyss"
+  - "selunia"
+  - "snorbuls-hole"
 things:
-  - chardalyn
-  - gwen
-  - tavern-of-doors
-  - thundercannon
-  - well-of-many-worlds
+  - "chardalyn"
+  - "gwen"
+  - "tavern-of-doors"
+  - "thundercannon"
+  - "well-of-many-worlds"
 factions:
-  - bedine
-  - drow-faction
-  - duergar-faction
-  - illithid-faction
+  - "bedine"
+  - "drow-faction"
+  - "duergar-faction"
+  - "illithid-faction"
 ---
 
 The worm-like creature slithered forward and fell on the nearby Duergar.

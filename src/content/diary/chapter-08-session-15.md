@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - Gracksuluth"
+title: The Underdark - Gracksuluth
 chapter: 8
 chapterTitle: The Underdark
 session: 15
 summary: "The Duergar city of Gracksuluth declared itself immediately — vast, brutal, and indifferent to outsiders — and the party navigated the Chain Towers and Blade Bazaar before meeting the dragon Themberchaud and the Aboleth Panoptes, only for a Mummy Lord to escape the Bag of Holding and remind them that the past follows."
 people:
   - "aliyah-faen-tlabbar"
+  - "chadle"
   - "chani"
   - "cirrus-al-kayan"
   - "claudine"
@@ -20,12 +21,13 @@ people:
   - "snorbul"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "themberchaud"
 places:
   - "darklake"
   - "feanons-tower"
   - "gracksuluth"
   - "menzoberranzan"
-  - "the-chasm"
+  - "shattered-spire"
   - "the-establishment"
   - "underdark"
 things:
@@ -38,6 +40,7 @@ factions:
   - "derro-faction"
   - "drow-faction"
   - "duergar-faction"
+  - "grey-ghosts"
   - "netherese"
   - "svirfneblin-faction"
 ---

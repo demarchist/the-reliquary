@@ -4,6 +4,7 @@ chapter: 14
 session: 4
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "bolg"
   - "cirrus-al-kayan"
   - "eilistraee"

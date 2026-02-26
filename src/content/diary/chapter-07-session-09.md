@@ -25,6 +25,8 @@ things:
   - "eclipse"
   - "gwen"
   - "the-bearded-lass-ii"
+factions:
+  - "warlocks-of-ceregorach"
 ---
 
 ## The Long Wait

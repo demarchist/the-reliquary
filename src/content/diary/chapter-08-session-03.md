@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - The Deep Road"
+title: The Underdark - The Deep Road
 chapter: 8
 chapterTitle: The Underdark
 session: 3
 summary: "The second day of Underdark travel brought an Umber Hulk ambush, a fortuitous rest at an abandoned Svirfneblin settlement, and the group's first encounter with the corrupting fungal spores that haunted their dreams — a warning of what the Underdark does to those who linger."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
@@ -24,6 +25,7 @@ places:
 things:
   - "bag-of-holding"
   - "eclipse"
+  - "hew"
 factions:
   - "svirfneblin-faction"
 ---

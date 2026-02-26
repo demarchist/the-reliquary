@@ -1,57 +1,59 @@
 ---
-title: "The Demon Lords - The Battle of Gracksuluth"
+title: The Demon Lords - The Battle of Gracksuluth
 chapter: 9
 chapterTitle: The Demon Lords
 session: 1
 summary: "With Demogorgon felled but already regenerating and Orcus' forces flooding into Gracksuluth, the group fled through Fey's teleportation circle — and back in Selunia, scrying revealed the Gravenhollow crystal lay within Juiblex, while a Dreaming spell brought Patches face to face with an enraged Finn."
 people:
-  - aliyah-faen-tlabbar
-  - anduriel
-  - aurinax
-  - barthen
-  - cirrus-al-kayan
-  - demogorgon
-  - doc
-  - feanon-serinde
-  - fen
-  - finn
-  - gruttag
-  - gundren-rockseeker
-  - hemeth
-  - horatio-von-bumidere
-  - intent
-  - juiblex
-  - lolth
-  - orcus
-  - ront
-  - selune
-  - shar
-  - snorbul
-  - tarkathee-daru
-  - val-tengu
-  - veygar
+  - "aliyah-faen-tlabbar"
+  - "anduriel"
+  - "ares"
+  - "aurinax"
+  - "barthen"
+  - "cirrus-al-kayan"
+  - "demogorgon"
+  - "doc"
+  - "feanon-serinde"
+  - "fen"
+  - "finn"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "hemeth"
+  - "horatio-von-bumidere"
+  - "intent"
+  - "juiblex"
+  - "lolth"
+  - "orcus"
+  - "ront"
+  - "selune"
+  - "shar"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "val-tengu"
+  - "veygar"
 places:
-  - abyss
-  - blingdenstone
-  - darklake
-  - fane-of-selune
-  - feanons-tower
-  - gravenhollow
-  - keep-of-thunder-bluff
-  - moondancer-village
-  - neverwinter
-  - snorbuls-hole
-  - the-chasm
-  - underdark
+  - "abyss"
+  - "blingdenstone"
+  - "darklake"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "gracksuluth"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+  - "moondancer-village"
+  - "neverwinter"
+  - "the-chasm"
+  - "underdark"
 things:
-  - bag-of-holding
-  - eclipse
-  - thundercannon
+  - "bag-of-holding"
+  - "eclipse"
+  - "peade"
+  - "thundercannon"
 factions:
-  - derro-faction
-  - drow-faction
-  - duergar-faction
-  - svirfneblin-faction
+  - "derro-faction"
+  - "drow-faction"
+  - "duergar-faction"
+  - "svirfneblin-faction"
 ---
 
 [[aliyah-faen-tlabbar|Patches]] stood atop the Demon Prince, flipped her blades over in her hands, and plunged them both home.

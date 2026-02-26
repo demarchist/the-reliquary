@@ -1,5 +1,5 @@
 ---
-title: "The Underdark - The Mutating Giant"
+title: The Underdark - The Mutating Giant
 chapter: 8
 chapterTitle: The Underdark
 session: 17
@@ -8,36 +8,35 @@ people:
   - "aliyah-faen-tlabbar"
   - "atropos"
   - "cirrus-al-kayan"
-  - "claudine"
   - "demogorgon"
   - "doc"
-  - "droki"
   - "feanon-serinde"
   - "fen"
   - "gundren-rockseeker"
   - "ilvara-mizzrym"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "mediocris-dente"
   - "pickles"
+  - "ront"
+  - "shar"
   - "snorbul"
   - "tarkathee-daru"
-  - "veygar"
+  - "themberchaud"
+  - "val-tengu"
 places:
-  - "amn"
   - "blingdenstone"
-  - "darklake"
-  - "gravenhollow"
-  - "menzoberranzan"
+  - "gracksuluth"
   - "neverwinter"
+  - "rockseeker-manufactory"
+  - "shattered-spire"
+  - "the-establishment"
+  - "underdark"
 things:
   - "arkto"
   - "gwen"
   - "hew"
-  - "piwafwi"
   - "the-last-word"
 factions:
-  - "derro-faction"
   - "drow-faction"
   - "duergar-faction"
   - "stoneguard"

@@ -1,37 +1,42 @@
 ---
-title: "Bloodstone"
+title: Bloodstone
 chapter: 15
-chapterTitle: "Bloodstone"
+chapterTitle: Bloodstone
 session: 1
 summary: "The group spends a quiet night on a Damaran farm while Tark destroys the Flint Dagger of Li Xian in a spectacular explosion, drawing a mysterious planar traveler named Cassian and his celestial Pegasus out of the night sky — they recruit him over a campfire feast, ride to the fortress city of Helios, and discover that the Sunsword they once brought back from Barovia has been stolen from the Cathedral of Lathander."
 people:
-  - "cassian"
+  - "aliyah-faen-tlabbar"
+  - "ares"
+  - "chani"
   - "cirrus-al-kayan"
+  - "doc"
   - "feanon-serinde"
+  - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "jmjm"
-  - "lord-aimu"
-  - "patches"
+  - "intent"
+  - "jack-mayer-johnson-mathews"
+  - "lathander"
+  - "li-xian"
+  - "mordenkainen"
+  - "ront"
+  - "shar"
   - "tarkathee-daru"
-  - "uni"
   - "vaketh"
-  - "yugo"
 places:
-  - "bloodstone-lands"
+  - "al-askar"
+  - "barovia"
   - "damara"
-  - "helios"
+  - "neverwinter"
+  - "oerth"
 things:
+  - "bag-of-holding"
   - "eclipse"
-  - "ewer-of-feasting"
-  - "flint-dagger-of-li-xian"
   - "iron-tome"
-  - "sunsword"
+  - "the-last-word"
 factions:
-  - "church-of-lathander"
-  - "crimson-dawn-knights"
-  - "house-huron"
-  - "thayans"
+  - "drow-faction"
+  - "red-wizards-of-thay"
 ---
 
 ## The Small Hours

@@ -21,6 +21,7 @@ places:
   - "amn"
   - "astral-plane"
   - "ethereal-plane"
+  - "far-realm"
   - "sanctum-of-krasus"
 things:
   - "gwen"

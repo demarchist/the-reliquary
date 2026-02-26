@@ -1,27 +1,37 @@
 ---
-title: "The Dragonflight"
+title: The Dragonflight
 chapter: 15
-chapterTitle: "Interludes"
+chapterTitle: Interludes
 session: 1
 people:
-  - "asha-bellana"
   - "aurelian"
   - "azoo-the-archer"
-  - "fellasin-stormwing"
-  - "gzunteit-the-bold"
+  - "bahamut"
+  - "captain-dink"
+  - "ella"
+  - "galen-marek"
   - "kalphena-the-wise"
+  - "madame-eva"
   - "protanther"
-  - "themberchaud"
   - "the-black-arrow"
+  - "themberchaud"
+  - "vaas-redblade"
   - "vakuun-the-dreadblade"
+  - "val-tengu"
   - "xuefang-the-adamant"
 places:
-  - "shou-lung"
-  - "damara"
-  - "vaasa"
   - "bloodstone-city"
+  - "bytopia"
+  - "damara"
+  - "dokkar"
+  - "evermeet"
+  - "shou-lung"
+  - "vaasa"
 factions:
   - "dragons-of-shou-lung"
+  - "drow-faction"
+  - "duergar-faction"
+  - "svirfneblin-faction"
 ---
 
 The Dragons of Shou Lung find themselves at the edge of the jungles and swamps of the western Empire — for the first time in thousands of years, their people have left the hidden lands of the Dragons. They take flight and survey a landscape below dotted with Lizardmen ruins: monolithic pyramids and temples long fallen into disrepair, though spots of firelight flicker around some, and the scent of civilization drifts up from others.

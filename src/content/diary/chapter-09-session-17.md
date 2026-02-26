@@ -3,16 +3,17 @@ title: The Demon Lords - Cleansing Blingdenstone
 chapter: 9
 chapterTitle: The Demon Lords
 session: 17
+summary: "The group infiltrated the Medusa's lair via earth-glide, lured her into a Magnificent Mansion disguised as a Chapel of Lolth, and Patches petrified her with a basilisk eye before decapitating the statue on Eilistraee's command — empowering Eclipse in the process. The Burrow Warden's ghost led them to hidden armories before passing on, and the Deep Gnomes began planning their counteroffensive."
 people:
   - "aliyah-faen-tlabbar"
   - "bane"
   - "cirrus-al-kayan"
   - "eilistraee"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "gurnik"
   - "intent"
+  - "jadger"
   - "lolth"
   - "snorbul"
   - "tarkathee-daru"
@@ -31,232 +32,84 @@ factions:
   - "svirfneblin-faction"
 ---
 
-The group takes a long rest in the Tavern, taking refuge from the energies of the Underdark in Feanon’s Mansion.
+The group rested in the tavern, retreating into [[feanon-serinde|Feanon]]'s Magnificent Mansion to shelter from the abyssal energies of the [[underdark|Underdark]]. Inside the malleable reality of the pocket dimension, Feanon and [[aliyah-faen-tlabbar|Patches]] spent hours perfecting a replica of a Chapel of [[lolth|Lolth]].
 
-Inside the malleable reality of the Mansion, Feanon and Patches work for several hours, perfecting a holo-deck version of a Chapel of Lolth.
+[[tarkathee-daru|Tark]], as always, remained outside — sleeping in the real world. He awoke rested and unaffected by the abyssal energies, the last moments of a pleasant dream lingering: the one of his parents, his childhood room, familiar and warm.
 
-Tark as always, remains outside, sleeping in the real world.
+## The Earth-Glide
 
-He awakes, rested an unaffected by the Abyssal energies of the Underdark and he recalls the last few moments of a pleasant dream, the one of his parents and his room in their home.
+Everyone gathered outside the tavern in full disguise. [[cirrus-al-kayan|Cirrus]] had transformed himself into a buxom Priestess of Lolth and taken the act far enough to unnerve several Svirfneblin. [[gundren-rockseeker|Gundren]] had not bothered with a disguise — he just planned on shooting the monster.
 
-Eventually, everyone wakes and gathers outside the Tavern, dressed in full disguise to try and fool the priestess, everyone save Gundren, who just plans on shooting the monster.
+[[gurnik|Gurnik]] arrived with two acolytes and eight Earth Elementals just as the locals began growing visibly uncomfortable. The group and Gurnik moved to a secluded area and began the earth-glide into Rockblight. Each person was scooped into an elemental like being held inside a great suit of armour, able to sense the outside world dimly as the elementals sank into the rock and swam through solid stone.
 
-Cirrus though, has disguised himself to look like a buxom Priestess of Lolth but takes the act too far, beginning to scare some of the Svirfneblin.
+It took over an hour to circumvent Rockblight and move into position undetected. Using the elementals' earth-gliding abilities to spy, they watched the Stone Priestess — no longer raving, now seated on her throne doing her nails. Drow gargoyles milled around her, some serving drinks, others food. The massive basilisk slept nearby, curled around its two boulder-like eggs. Red static crackled around the Medusa intermittently — evidence of the Bane.
 
-Gurnik shows up with two acolytes and 8 Earth elementals just as people are beginning to become unnerved by the disguised group and things settle down.
+## The Trap
 
-The group and Gurnik walk to a more secluded area and then begin the Earth-glide over to Rockblight.
+[[tarkathee-daru|Tark]] slipped from the wall, cast Pass Without Trace, and beckoned [[feanon-serinde|Feanon]] to begin. The spellcasting — requiring vocal components — was muffled to near-silence by the enchantment. At one point the basilisk lifted its head toward them, but lost interest and went back to sleep.
 
-Each person is scooped into the Earth elementals, much like being held within a great suit of armor.
+The Magnificent Mansion materialized, its entrance glamoured to look like grand Drow cathedral doors. The group slipped inside one by one, the Deep Gnome druids remaining in the walls with the elementals. Tark was last through, bringing the Pass Without Trace with him.
 
-each person able to sense a little of the outside world as the Earth Elementals then sink into, and begin to swim through the very rock of the caverns.
+Inside, the mansion was a circular chapel of [[lolth|Lolth]] — rows of cushions radiating outward from a central altar shaped like a giant spider, grooves and channels built into its abdomen to direct sacrificial blood. The chamber stretched a hundred feet across before ascending to an overlooking balcony. [[gundren-rockseeker|Gundren]] set up on the balcony with his rifle.
 
-It takes over an hour to circumvent Rockblight and move into position, remaining undetected by the Medusa and her minions.
+[[aliyah-faen-tlabbar|Patches]] folded a handwritten invitation and gave it to Cirrus, who attached it to his familiar — now in the shape of a spider. The spider left the mansion and approached the Stone Priestess. She scooped it up, cooed at the invitation, and leapt from her throne with vibrant energy, rushing to her wardrobe to change.
 
-The group moves in, using the Earth gliding abilities of the Elementals to snoop and spy on The Stone Priestess.
+Cirrus and Feanon summoned spectral steeds glamoured as giant spiders and sent them out. Patches stood by the door in full priestess regalia. Tark waited nearby with a bottle of fine Drow wine and two glasses.
 
-They see that she is no longer raving and playing dress up, instead, she is sitting on her throne doing her nails…
+## The Medusa Falls
 
-Several Drow gargoyles can be seen milling around her, some serving her drinks, others food.
+The spectral steeds re-entered carrying the Medusa. Patches kept her eyes on her own feet — though her disguise made it appear otherwise — and handed the dismounting priestess a glass of wine, slipping a massive dose of poison into it. The priestess drank and Patches led her toward the altar, where a disrobed [[feanon-serinde|Feanon]] lay tied in false restraints — the bait.
 
-Next to the throne is a large pile of treasure and among the treasure, the massive Basilisk sleeps, curled around two large boulder-like eggs.
+The Medusa approached hungrily, drink in one hand, a spider-shaped sacrificial dagger in the other. Patches and Cirrus stalled — getting her to drink more and stab less. It worked well enough. The priestess downed the rest and prepared to strike.
 
-The Medusa has flickers of red static and electricity crackling around her occasionally; evidence of The Bane.
+Patches saw her stumble. She leapt into action — shoving the mirror and the basilisk eye into the Medusa's face, squeezing the grisly trophy to activate its magic. Blue-white light blazed. The priestess dropped her glass, stumbled backward, skin beginning to harden. Patches dropped a Globe of Darkness over her and backed away.
 
+The group listened to thrashing and rambling grinding into the sounds of moving stone — and then silence.
 
-Slipping from the wall, Tark casts Pass without Trace and beckons for Feanon to start his spellcasting.
+The darkness vanished, revealing the flailing, enraged statue of the Medusa. The group breathed. Everyone emerged from their hiding places. Feanon removed his false restraints with dignity.
 
-The group holds their collective breath as The spellcasting, requiring vocal components, begins.
+[[tarkathee-daru|Tark]] immediately picked up a golden triangular crown emblazoned with web motifs from the statue's head. He placed it on his own head and staggered — then began acting entirely at random: running, stopping, staring, shadowstepping, punching someone, drooling. He was tackled and the cursed crown knocked free. He reached for it again, remembering nothing, and was stopped.
 
-The Pass without trace enchantment keeps the the spellcasting muffled and near silent and with the cloying shadow of the spell, almost invisible.
+The ritual dagger had also resisted petrification. Patches took it to complete her Lolth disguise.
 
-At one point, the Basilisk lifts its head to look in the groups direction, but it loses interest and goes back to sleep.
+## Eilistraee's Command
 
-The Stone Priestess sees nothing and before long, the Magnificent Mansion is created, the doors looking like grand Drow Cathedral doors.
+The group turned to the statue and the conversation Patches wanted to have with it. She and [[gundren-rockseeker|Gundren]] spent an hour carefully cutting the eyes from the petrified head with a jeweller's kit. She asked Cirrus to un-petrify the Medusa.
 
-The group sneaks into the pocket-plane one by one, the Deep Gnome druids remaining behind in the walls with the Elementals.
+Tark was horrified. Even Cirrus balked. Patches explained again — she had to try to convert this priestess, by edict from [[eilistraee|Eilistraee]]. Cirrus thought reviving a woman with gouged-out eyes was intense. Tark thought it was barbaric.
 
-Tark is the last one through, bringing the Pass without trace spell with him.
+They convinced Patches to commune with Eilistraee first. She took out her [[chardalyn|Chardalyn]] focus stone, sat, and meditated. She stood a few moments later looking confused — then strode to the statue and decapitated it with [[eclipse|Eclipse]].
 
+The statue shattered. A burst of red lightning and a crack of thunder resounded through the chamber. Patches was pushed back; Gundren was thrown several feet. But Eclipse glowed bright in Patches' hand — obsidian blade and her hair shining with moonlight — chips in the handguard and hilt extending, the blade growing beyond what it had been.
 
-Inside the Mansion, the place is made to look like a grand Cathedral to Lolth. 
+This was the correct choice. Eilistraee had wanted commitment and dedication — not needless suffering.
 
-Circular, with rows of cushions radiating outward from a central altar; that of a giant spider, it’s abdomen creating a flat table.
+Patches recovered what she could of the crumbling head and found a Drow house emblem among the rubble: House Duskryn, ninth house of [[menzoberranzan|Menzoberranzan]]. She pocketed it.
 
-The altar has grooves and channels built into it, Patches says it is to channel the blood from the sacrifice.
+## After the Fall
 
-The chamber is a good 100ft across before ascending to an overlooking ringed balcony.
+The group stepped out of the mansion into the deceased priestess's lair. Three Earth Elementals and three Svirfneblin priests had formed a perimeter, keeping the massive basilisk at bay. The dozens of petrified Drow had crumbled. The basilisk hissed and backed away from the elementals but refused to leave its eggs.
 
-Gundren sets up in the balcony in case things go poorly.
+[[tarkathee-daru|Tark]] moved in, averting his eyes, and tossed it some meat. After some coaxing, he had the creature back on its nest and happily eating, unaware of its master's demise.
 
-Patches then folds and hands the handwritten invitation to Cirrus to attach to his familiar - now in the shape of a spider.
+[[gurnik|Gurnik]] confirmed that the moment the priestess died, the curse of [[blingdenstone|Blingdenstone]] was truly lifted. The gargoyles had crumbled; the basilisk simply wanted to protect its young.
 
-The spider familiar leaves the mansion and approaches the Stone priestess.
+The group took most of the gold — including considerable Drow coin and Svirfneblin artefacts for the auction house — but left all but one gemstone for the Deep Gnomes. The exception was a massive diamond the size of a plum, which Patches pocketed for resurrections. They also took five beautiful spidersilk gowns and three spell scrolls, one a powerful druid scroll of healing.
 
-The group hopes that an invitation given like this will re-ignite the delusions the Priestess was having.
+---
 
-As the spider approaches, she takes note and her eyes go wide.
+Back in the main settlement, Chief Diggermattock was already aware — most of the ghosts had begun to vanish, speaking words of kindness and pointing the living to hidden valuables before they passed on. The chief applauded the group. Gurnik and Diggermattock began drawing up plans to recall their troops for a push into Rockblight and the northern caverns.
 
-She scoops the thing up, cooing at the invitation and then standing up with a vibrant energy.
+## The Burrow Warden's Legacy
 
-She rushes to her wardrobe, intent on changing for her ceremony in the Cathedral.
+As the celebration swelled in the tavern, [[tarkathee-daru|Tark]] and Patches noticed movement beneath the table. The ghost of the Burrow Warden smiled and winked at them — then leapt through the table shouting *"BOO!"*
 
-As she changes, Cirrus and Feanon both summon their Spectral Steeds, though this time they make them appear as Giant Spiders and send the things out to be ridden in by the Priestess.
+Half the tavern fell out of their chairs. The ghost let out a hearty chuckle and introduced himself as Burrow Warden [[jadger|Jadger]]. He thanked the group for ending his torment, but he needed them for one final task.
 
-Patches stands by the door in her full priestess regalia and Tark waits nearby with a bottle of fine drow wine and two glasses.
+He led them north through the city, collecting Trisk along the way. He asked after [[snorbul|Snorbul]] but was told the Deep Gnome had gone to contact the wererat warren. Uninclined to wait, Jadger pressed on through secret tunnels and hidden doors until they arrived at an ancient hidden armory — horribly dusty, but filled with fabulous enchanted weapons, armour, and a few small bookshelves.
 
-Moments later, the great Spectral steeds re-enter the Mansion/Cathedral, the Medusa Drow atop one of their backs.
+Three such caches in total. Dozens of sets of enchanted gear and tomes on Deep Gnome strategy and tactics. Patches took one of the shortswords.
 
-Patches looks at her own feet, though her disguise makes it appear otherwise, and hands the dismounting Priestess a glass of fine wine.
+In the last chamber, the ghost pointed to a red-bound book with emeralds embedded in the cover: an ancient tome detailing spell-gem tattooing, the lost art that had given the Burrow Wardens their powers. Trisk swore to learn and pass on the knowledge — to refound the Wardens of the Deep Gnomes.
 
-As she does, Patches slips a massive dose of poison into the glass.
-
-The priestess begins to drink and Patches leads the happily muttering Medusa into the chamber, toward a disguised Cirrus and the bait.
-
-The bait being a disrobed Feanon, tied to the sacrificial altar.
-
-The Medusa hungrily approaches the altar, drink in one hand, and a sacrificial dagger in the other, shaped like a spider.
-
-Patches and Cirrus both try and stall her, trying to get her to drink more and stab less.
-
-It sort of works, with the Medusa downing the rest of the drink and then preparing to strike at the helpless High Elf.
-
-Patches notes the Medusa stumble slightly, the poison showing its effect, and the Rogue leaps into action.
-
-The rogue shoves the mirror and Basilisk eye into the face of the medusa, squeezing and activating the grisly trophy’s magic.
-
-Poisoned, and caught unaware, the Medusa takes a blast of blue-white light in the face, petrifying magic from the Basilisk eye.
-
-She drops her glass and stumbles backward, her skin beginning to harden and petrify.
-
-Not wanting to wait and see an enraged Medusa, Patches then drops a Globe of Darkness over her and backs away.
-
-The group waits and listens to the thrashing and rambling begin to grind with the sounds of moving stone, and then...silence.
-
-The inky blot of darkness disappears, revealing the flailing and enraged statue of the Medusa.
-
-The group breathes a sigh of relief and everyone comes out of their hiding places or in Feanons case, takes off the false restraints.
-
-Eyes turn toward the petrified Medusa and the handful of items on her that did NOT petrify with the victim.
-
-Tark immediately picks up the golden “crown” from the statue, a triangular piece of gold emblazoned with Web motifs.
-
-He promptly places it on his head and staggers.
-
-He then proceeds to begin acting completely at random, running, stopping staring, shadowstepping, punching someone, drooling, until he is finally tackled to the ground and the cursed crown is knocked from his head.
-
-Tark, not remembering a thing, reaches for the crown again, but is quickly stopped.
-
-The group takes the crown for further study.
-
-The ritual dagger also remains unpetrified.  Patches takes the dagger to further complete her Lolth disguise.
-
-The group turns their attention to the statue, and the “conversation” Patches wants to have with it.
-
-
-Gundren and Patches huddle around the statue for the next hour, carefully and surgically cutting the eyes from the statue with a Jewelers kit.
-
-Having finished blinding the statue, Patches then asks Cirrus to un-petrify the Medusa.
-
-Tark is immediately horrified and even Cirrus is a little taken aback.
-
-Patches explains again that she must try and convert this Priestess, via edict from Elistraee.
-
-Cirrus thinks that reviving the woman with gouged eyes would be a bit intense and Tark thinks that its downright barbaric.
-
-They discuss it for a while, eventually convincing Patches to try and commune with Elistraee to determine the fate of the insane Drow Medusa.
-
-Taking out her Chardalyn focus stone, Patches sits and meditates, Communing with Elistraee.
-
-She stands up a few moments later, looking a bit confused, but strides over to the Stone Priestess and decapitates the statue with Eclipse.
-
-The statue shatters and a burst of red lighting and a crack of thunder resounds.
-
-Patches is pushed back a few feet and Gundren is knocked back several more.
-
-Eclipse however glows bright in Patches hand, its obsidian blade and her hair shining with moonlight.  The blade glows and then begins to grow, obsidian chips in the handguard and hilt extending and the blade becoming more than it was before.
-
-This was the correct choice, Elistraee wanted the commitment, the dedication from Patches. Not for this creature to suffer needlessly. 
-
-Patches recovers what she can of the crumbling Medusa Head and sifting through the rubble, notes a Drow house emblem - House Duskryn, ninth house of Menzoberranzan.
-
-She pockets the House Emblem.
-
-The group takes their leave from the mansion and step out into the deceased Priestess’s mansion in Rockblight.
-
-They see three Earth Elementals and three Svirfneblin priests creating a perimeter around the door, keeping the massive Basilisk at bay.
-
-The dozens of Petrified Drow appear to have crumbled, and the Basilisk is hissing and backing away from the Elementals, though it refuses to stray from the eggs.
-
-Tark moves in, averting his eyes from the thing and throws it some meat.
-
-The thing reacts well and after some coaxing, he gets the thing back on its nest and happily munching away, unaware of its masters demise.
-
-Talking with Gurnik, the group finds out that the moment the Priestess died and the Bane lost its host, the curse of Blingdenstone was truly lifted.
-
-Feeling the curse rise, the Deep Gnome priests took their Elemental allies into battle, but the Gargoyles all quickly crumbled and the Basilisk simply wishes to protect its eggs.
-
-The group moves in to investigate the treasure horde the Medusa had amassed over the years.
-
-The group takes most of the gold, but leaves all but one of the Gemstones for the Deep Gnomes. The gold consists of a good deal of Drow coin and then a hefty number of smaller Svirfneblin artefacts (to be sold at auction!).
-
-The one Gemstone the group does take, is a massive Diamond the size of a plum, which Patches pockets in case of resurrections. 
-
-The group also takes the priestess’s wardrobe and its contents - 5 beautiful Spidersilk Gowns and dresses.
-
-Amongst the treasure horde, they find three spell scrolls, one of which is a powerful Druid Scroll of Healing.
-
-
-They wrap up in Rockblight and then return to the main Blingdenstone settlement, eager to report that the Curse has been lifted.
-
-Not long after returning to the city, Chief Diggermattock approaches, already aware of the good news as most of the Ghosts began to vanish not long ago, speaking words of kindness and encouragement before they went and showing living Gnomes to anything of value, hidden away.
-
-The chief applauds the group, thanking them profusely (Gurnik confirming they were handsomely rewarded by the Gnomes already).
-
-Gurnik and Diggermattock begin to talk excitedly, drawing up plans to recall their troops from the mines for a massive push into Rockblight and then hopefully, the Northern caverns too.
-
-With the Bane destroyed, the Deep gnomes can use their Elemental Allies to their full effect.
-
-The group is happy to hear this, especially when the Chief promises military aid pushing to the North, toward the Oozes.
-
-The group and the Gnomes head toward the Tavern to celebrate, a great number of the citizens joining the growing crowd.
-
-Before long, most of the town is partying and celebrating the lifting of the curse.
-
-As the group sits around their large table, Tark and Patches note movement under the table.
-
-They relax a little, noting the Ghost of the Burrow warden smile and wink at them.
-
-He then leaps through the table, shouting “BOO!”
-
-Half the tavern falls out of their chairs in fright, only to burst out laughing as the ghost lets out a hearty chuckle and introduces himself as Burrow Warden Jadger.
-
-He thanks the group for ending his torment, but he needs them for a final task and leaves the Tavern, group in tow.
-
-As they head north through the city, they run into Trisk and Jadger has him come too.
-
-The Ghost asks after Snorbul, but is told that the Deep Gnome went north to try and contact the Wererat Warren.
-
-Saying he doesnt have time (or inclination to wait) Jadger leads the group onward, out into the defenses of Blindenstone.
-
-After twenty minutes of walking, opening secret tunnels and doors, Jadger finally announces they have arrived at their first stop.
-
-He instructs Trisk and the young Gnome manages to open an ancient hidden chamber - an old Armory.
-
-Horribly dusty, but fabulous weapons and armor are contained here, as well as one or two small book shelves.
-
-Jadger explains, there are two other armories, each with dozens of sets of enchanted weapons and armor and tomes on strategy and the tactics of the Deep Gnomes.
-
-Jadger leads the group to two more such cache’s of goods (Patches grabs one of the shortswords).
-
-In the last hidden room, the Ghost points to a red-bound book with emeralds embedded in the cover.
-
-The ancient tome details Spell-gem tattooing, a lost art that gave the Burrow Warden’s their powers.
-
-Trisk swears to learn and pass on the knowledge, refounding the Wardens of the Deep Gnomes.
-
-Jadger smiles and nods, and then transcends, passing on to the afterlife.
-
-The group returns to the main city, with one more bit of good news.
-
-It looks like the Deep Gnome Troops will be better equipped very soon…
+[[jadger|Jadger]] smiled, nodded, and transcended — passing on to the afterlife.

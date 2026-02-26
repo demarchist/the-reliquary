@@ -5,6 +5,7 @@ chapterTitle: The Voyage Home
 session: 21
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "fawden"
@@ -24,6 +25,7 @@ people:
   - "thorna"
   - "vaketh"
   - "vecna"
+  - "xuefang-the-adamant"
 places:
   - "astral-plane"
   - "feanons-tower"

@@ -3,13 +3,14 @@ title: The Demon Lords - The Battle of Blingdenstone
 chapter: 9
 chapterTitle: The Demon Lords
 session: 22
+summary: "The Battle of Blingdenstone reached its climax as the group fought the Balor Hisesophax across the Dome while Cirrus banished the Greater Demon with a planar fork. Juiblex's shadow cursed them and retreated north with its children. In the aftermath, the group recovered the Stonespeaker Crystal — key to Gravenhollow — and Snorbul claimed the ancient artefact Umber's Hands of Stone."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "gurnik"
+  - "hisesophax"
   - "intent"
   - "juiblex"
   - "snorbul"
@@ -22,175 +23,90 @@ places:
   - "blingdenstone"
   - "gravenhollow"
   - "selunia"
-  - "the-chasm"
 things:
   - "eclipse"
   - "iron-tome"
+  - "stonespeaker-crystal"
 factions:
   - "svirfneblin-faction"
 ---
 
-The Balor surges forward, showering the Deep Gnomes with Acid, causing them to call out in agony.
+The [[hisesophax|Balor]] surged forward, showering the Deep Gnomes with acid. They cried out in agony. [[aliyah-faen-tlabbar|Patches]], [[snorbul|Snorbul]], and [[tarkathee-daru|Tark]] threw themselves at the Greater Demon, taking terrible burns but cutting into it from every angle. The great ooze of the Balor re-knit itself with sickening speed and lashed out with pseudopod whips and slashing appendages. Another elemental crumbled.
 
-Patches, Snorbul and Tark assault the great Demon, taking terrible burns but slashing into the creature, cutting it apart.
+More concerning — the group noticed a massive build-up of acid swelling inside the creature. Chief Diggermattock cast a Wall of Force across the doorway, blocking the Balor from continuing to spray the area. His troops got relief. But Patches, [[gundren-rockseeker|Gundren]], and [[feanon-serinde|Feanon]] were now cut off from the interior and had to reposition.
 
-The great Ooze of the Balor re-knits quickly and lashes out in great pseudopod whips and great slashes.
+## The Southern Line
 
-Another elemental Crumbles and the group takes hits.
+To the south, [[cirrus-al-kayan|Cirrus]] was engaged with a veritable army of Barlgura and a Glabrezu, backed by Earth Elementals and the healing druids of [[blingdenstone|Blingdenstone]]. The beastial demons hurtled in, charging in a wall into the elementals. Two leapt over the line and landed on Cirrus, attacking him directly. The red oozes retreated inside the Dome and disgorged more Sulphurous Impersonations.
 
-More concerning though, the group notices a massive buildup of acid inside the Greater Demon.
+The battle was fierce. Cirrus was getting bloodied — until Feanon and Gundren began shooting the demons in the back. The druids moved in with Banishment spells, thinning the Barlgura ranks. The Glabrezu that should have supported the charge had been ambushed from behind by [[tarkathee-daru|Tark]] — slain before it could join its allies — freeing the monk to assist Snorbul against the Balor.
 
-Diggermattock Casts a wall of Force across the doorway, blocking the Balor from continuing to shower the area with acid, giving his soldiers relief.
+## The Balor's Last Stand
 
-Patches, Gundren and Feanon though are now separated from the inside of the Dome here and need to reposition.
+Separated by the Wall of Force, [[aliyah-faen-tlabbar|Patches]] scaled the walls and squeezed into a tiny window. She tossed a bomb down onto the Balor, rocking the chamber. The creature teleported — appearing outside the Dome directly behind Gundren and Feanon with a thunderous boom. It disgorged the pent-up acid in a massive sixty-foot cone. Two Gnomes were dissolved outright. Many more were burned horribly. The rest scrambled to get clear.
 
-Meanwhile, to the south, Cirrus is engaged with a veritable army of Barlgura’s and a Glabrezu, though is backed up by the Earth Elementals and Druids of Blingdenstone.
+The Balor had miscalculated. Every remaining combatant turned on it: Patches, Feanon, Cirrus, Gundren, and their Gnomish allies all poured fire into the staggered demon.
 
-The beastial Demons hurtle in, charging in a wall into the Elementals.
+Patches grinned as an ancient brass crossbow bolt lanced into the creature. She spotted [[feanon-serinde|Feanon]] save their companions with a deft counterspell, then respond with a Cone of Cold that caught the red oozes in the blast. A skittering sound — a Chasme demon snapped its head into her window, proboscis lancing for her neck. She parried with [[eclipse|Eclipse]], gashed the thing across the face, and somersaulted from the window to rejoin the fight below.
 
-Two leap over the line, landing by CIrrus and immediately attacking the Warlock.
+The Balor teleported back inside. [[thorna|Thorna]] smashed a Chasme demon apart with a thunderous retort and charged into the Dome after it.
 
-The two strange Red Oozes that attacked earlier, retreat inside the Dome and begin disgorging Suflurous Impersonations to attack Cirrus and the Gnomes.
+## Banishment
 
-The Battle is fierce and Cirrus looks to be getting bloodied by the two Barlgura, until Feanon and Gundren begin to shoot the Demons in the back, making quick work of them.
+The Demon Lord in the centre of the chamber began to laugh — a rumbling, basso sound — as acid swelled within its body. The Sulphurous Impersonations continued to harass the druids and Cirrus.
 
-The Druids then come in with Banishment spells, removing a few of the Barlgura.
+Cirrus turned his attention to the red oozes and summoned a Sickening Radiance to burn them out. A wave of oozlings surged forward and was burned away. A strange wailing erupted and the things fled, pushing through cracks in the Dome. As they squeezed through, two objects were pushed from their bodies and wedged in the cracks.
 
-The Glabrezu that was supposed to back up the charging Barlgura is nowhere to be found and the Demons begin calling out curses to the greater Demon for abandoning them..
+Diggermattock released the Wall of Force. His troops surged inside, taking up firing positions and flanking the Balor. The battle was fierce — acid raining down, tendrils lashing at Tark and Snorbul.
 
-As the Barlgura had charged, the Glabrezu went to assault with them, but was attacked from behind by the Monk.  As the thing tried to flee, it was slain and Tark then went to assist Snorbul against the Balor, leaving Cirrus to battle the Barlguras.
+Then the Balor vanished. Pulled in on itself in a flash of voidish purple light.
 
+[[feanon-serinde|Feanon]] felt the planar walls strengthen as the massive demon was torn from this reality. Standing to the side, [[cirrus-al-kayan|Cirrus]] held an iron fork extended before him — the instrument of the Banishment.
 
-Separated by the Wall of Force, Patches climbs the walls and squeezes into a tiny window, getting sight on the Balor, she tossed a bomb down onto it, rocking the chamber with a blast.
+The warlock breathed a sigh of relief and turned to the group with triumphant condescension — and was immediately piled on by three furious Chasme demons.
 
-With the Wall of Force blocking the Balor, the thing teleports itself, appearing outside the Dome and just behind Gundren and Feanon.
+They pulled him down, piercing him with their proboscises, draining blood by the litre. Cirrus went down screaming.
 
-The thing appears with a thunderous boom and it disgorges the acid it had pent up, spraying a massive sixty foot cone.
+His body erupted with radiant light.
 
-The poor Gnomes are showered, but their hardy stonelike constitution appears to be some defense, though two are dissolved outright and many are burned horribly.
+One Chasme disintegrated to ash. Cirrus rose from the ground in a burst of blinding brilliance and immediately Eldritch-blasted the remaining two. Patches headshot one with an enchanted bolt. They died gruesomely, blasted apart.
 
-The Gnomes scramble to get away from the monstrout Demon.
+Cirrus stopped glowing, dropped to the ground, and staggered. The Gnomes rushed to support him as their troops poured into the building, slaying every remaining demon and ooze.
 
-The Balor has miscalculated though as all sights turn to it as Patches, Feanon, Cirrus, and Gundren and their Gnomish allies all lay into the Demon Lord which is quickly staggered by the assault.
+## Aftermath
 
+Magic and potions flowed as the victors took stock. Casualties were shockingly low — few dead, but many wounded. The healing priests could do far more now, thanks to the cleansing of the temple in the south; the divine conduit allowed greater restoration magic to function.
 
-Patches smiles as her ancient Brass Crossbow bolt lances into the Demon Lord, she pulls another from the ancient wooden case and fits it to her bow.
+The jovial mood shattered when the temperature plummeted. A great shadow rose from the tunnel at the centre of the Dome.
 
-She spots Feanon below save her companions with a deft counterspell and then respond with a Cone of Cold, catching the strange red oozes and their children in the freezing blast.
+Patches called out that below was [[juiblex|Juiblex]].
 
-A skittering sound catches her off guard and the head of a Chasme Demon snaps into the window, its probiscus lancing for her neck.
+A manifestation of the Demon Lord's will addressed the chamber, cursing them for their foolishness in not allying against [[zuggtmoy|Zuggtmoy]]. It lashed out at Patches in particular, hurling abyssal energy to curse her. [[feanon-serinde|Feanon]] counterspelled it without hesitation, shattering the building Weave.
 
-She parries, materializing Eclipse and then gashing the Demon across the face.
+The shadow of Juiblex's will slinked away, retreating north with its children to fight Zuggtmoy.
 
-Wanting nothing to do with the Demon in her face, Patches somersaults from the window, outside to continue the fight against the Balor.
+The Demon Lord had fled. [[blingdenstone|Blingdenstone]] was truly saved.
 
-As she hurtles in, slashing, the creature teleports back inside the Dome to renew its assault on Tark and Snorbul.
+---
 
-Meanwhile, Thorna battles a Chasme Demon, supported by Deep Gnome allies she smites the thing with a thunderous retort, smashing the demon to pulp and charges into the Dome.
+The Gnome priests expended every healing spell. Caravans ferried the wounded back to Blingdenstone proper. With the oozes gone, the ghosts gone, and the wild elementals gone, the city was safe again. The Gnomes promised trade negotiations with [[selunia|Selunia]] — a formal alliance with the Barony — as soon as everyone had rested.
 
-The Demon Lord in the center of the Dome begins to chuckle, emitting a rumbling basso laugh as it’s surface begins to agitate and undulate, pockets of acid swelling within.
+## The Stonespeaker Crystal
 
-Sulfurous Impersonations continue to harass the druids and Cirrus and with the Balor gone again, Cirrus turns his attention to the Red oozes within the building and summons a sickening radiance to burn them out of their hole.
+[[feanon-serinde|Feanon]] wanted to inspect the remains of the Oblex oozes. Cirrus pointed him toward the cracks in the Dome. Investigating, Feanon found two ancient books wedged inside — Gnomish in origin, specially varnished and sealed, they had survived within the Oblex creatures, empowering them.
 
-Not a moment too soon as a wave of oozlings had surged forward to attack the earth elementals.
+Grinning, Feanon consulted the [[iron-tome|Iron Tome]] — [[theodemir|Theodemir]] — then broke the wards with a deft hand. Inside was a treasure trove of arcane knowledge, shockingly unencoded and easy to decipher.
 
-The radiance erupts and burns many of them away and begins to eat at the survivors.
+The group set up the Magnificent Mansion and invited any Gnomes who wished to partake. The Gnomes left after a few hours and the group rested through the night, addressing their wounds.
 
-A strange wailing erupts from within the dome and Cirrus watches as the things flee, pushing through cracks in the Dome.
+The next morning they headed to the now-deserted Dome. [[gurnik|Gurnik]] waited nearby with an elemental, nodding toward the descending tunnel.
 
-As they flee, he notes two objects are pushed from them and become wedged in the cracks.
+Patches took the lead. They descended into Entemoch's Boon — the natural chamber of rough stone shimmering with mineral deposits, its stepped sides creating a natural amphitheatre. At its bottom, a stone altar grown from the natural floor.
 
+Two items rested upon it.
 
-Diggermattock releases the Wall of Force and his troops surge inside to take up firing positions with crossbows and flank the Demon Lord with the Heroes.
+The first was a half of the crystal the group had been seeking: the key to [[gravenhollow|Gravenhollow]]. [[snorbul|Snorbul]] picked it up and placed the cracked ends together. They sealed with a soft glow and the crystal shimmered with inner energy. Feanon identified it — a Stonespeaker Crystal from Gravenhollow.
 
-The battle is fierce and acid showers down and the Demon lashes out with whiplike tendrils, striking Tark and Snorbul.
+The second was a lump of rock. In Feanon's hands, it revealed itself as geomancy focused into gauntlets and greaves of stone when attuned. The artefact was ancient, with a subtle identity: Umber's Hands of Stone.
 
-The Balor Vanishes, pulled in on itself in a flash of voidish purple light.
-
-Feanon immediately feels a strengthening in the Planar walls as such a massive Demon is banished.
-
-Standing to the side, Cirrus holds an Iron fork in his hand, extended as if stabbing forward.
-
-The Warlock breathes a sigh of relief and then turns to the group triumphantly condescending...and is immediately piled on by three pissed off Chasme Demons.
-
-They pull him to the ground, piercing him with their proboscis and draining blood by the liter.
-
-Cirrus goes down screaming.
-
-His body erupts with radiant light. 
-
-one of the Chasme demons disintegrates to ash as Cirrus rises from the ground in a burst of blinding light.
-
-He immediately Eldritch blasts the two remaining demons as Patches headshots one with her enchanted bolt.
-
-They die gruesomely, blasted apart.
-
-Cirrus stops glowing and drops to the ground, groaning in pain and staggering.
-
-The gnomes rush to support him as their troops and the rest of the group pours into the building, slaying all the remaining Demons and Oozes.
-
-The magic and potions begin to flow as the winners take stock of the injuries and casualties.
-
-They did shockingly well, with few dead but many many wounded.  Wounded that can be healed thanks to the cleansing of the temple to the south, the Divine conduit allowing greater healing from the Gnomes. 
-
-Due to the majority of the Oozes having left for the north for some unknown reason, that and the absolute power of the group was beyond what the Demons could have reasonably expected to be backing up the Gnomes.
-
-The jovial mood of victory is broken as the temperature of the chamber rapidly drops and a great shadow rises from the tunnel at the center of the Dome.
-
-Patches calls out that below in the chamber is Juiblex, the Demon Lord.
-
-A manifestation of the power of Juiblex addresses the chamber, cursing them for their foolishness in not allying with him against Zuggtomy, their common enemy.  In particular, he lashes out at Patches for her betrayal and foolishness, throwing abyssal energy at her in an attempt to curse her.
-
-Feanon is having none of it and Counterspells the curse, shattering the building Weave.
-
-The shadow of Juiblex’s will slinks away, retreating with its children to the North, to fight Zuggtmoy.
-
-The Demon Lord has fled.  Blingdenstone is truly saved.
-
-The Gnome priests and druids expend all their healing spells and caravans begin to be put together to ferry the wounded back to Blingdenstone proper.
-
-With the oozes gone, the ghosts gone and the wild elementals gone, Blingdenstone is safe again.
-
-The Gnomes express their thanks and promise trade negotiations with Selunia as soon as everyone is rested, they are eager to make a formal alliance with the Barony.
-
-Feanon has a thought and wants to inspect the remains of the Oblex Oozes.  He asks Cirrus where he last saw them and is pointed toward the cracks in the Dome.
-
-Investigating, Feanon finds two ancient books wedged in the cracks, clearly of Gnomish origin and specially varnished and sealed, the books survived within the Oblex’s empowering them.
-
-With a grin, Feanon consults the Iron Tome, Theodemir and then breaks the wards on the book with a deft hand. Inside he finds a treasure trove of arcane knowledge, shockingly not written in code and easy to decipher.
-
-The group decides to set up and rest and they summon the Magnificent Mansion, inviting any Gnomes that wish to enter and partake in the pleasantries within.
-
-The Gnomes leave after a few hours and the group settles in to rest, addressing their grievous wounds and simply resting through the night.
-
-Several hours later, the group stirs and head out into the now almost deserted Dome.
-
-They see Gurnik, the Deep Gnome High Priest nearby with an elemental and he nods at them and then gestures toward the tunnel down, descending in the center of the room.
-
-Patches takes the lead and the group heads down the natural corridor to the Gnomes most holy site; Entemoch’s Boon.
-
-The natural chamber of rough stone shimmers with mineral deposits and it’s stepped sides create a natural amphitheater.
-
-At it’s bottom is a stone altar of solid stone, grown from the natural stone floor.
-
-Atop it are two items.
-
-The group moves in, cautiously with Tark and Patches in the lead.  There’s no sign of demons or oozes, or anything actually.
-
-The place is unusually scoured clean, the rock having been eaten away at over time by the caustic ooze-lord.
-
-The damage it had done to the place seems to be superficial as many in the group can clearly feel the closeness of this place to the Plane of Earth.
-
-They approach the altar of stone and see the items atop it.
-
-One is a half of the Crystal the group seeks; the key to Gravenhollow.
-
-Snorbul picks it up and with assistance, places the cracked ends together, they seal with a soft glow and the crystal shimmers with an inner energy.
-
-Feanon feels the magic emanating from it and takes the time to Identify it as a Stonespeaker Crystal from Gravenhollow.
-
-The other item, Patches inspects and sees a lump of rock.
-
-Handing it over to Feanon, he identifies the magic as Geomancy, focused into Gantlets and Greaves of stone when attuned to.  The artifact is old, and has a subtle identity to it; Umber’s Hands of Stone.
-
-The group looks to Snorbul as, still looking and grinning at the fixed Stonespeaker Crystal, his eyes track to the rock and his eyes light up at Feanons description.
+The group looked at Snorbul. He was still grinning at the fixed Stonespeaker Crystal — then his eyes tracked to the rock and lit up.

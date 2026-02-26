@@ -5,6 +5,7 @@ chapterTitle: The Voyage Home
 session: 13
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"

@@ -5,6 +5,7 @@ chapterTitle: Beyond the Veil
 session: 17
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "fen"

@@ -1,40 +1,41 @@
 ---
-title: "The Demon Lords - Examinations"
+title: The Demon Lords - Examinations
 chapter: 9
 chapterTitle: The Demon Lords
 session: 10
 summary: "MiMaw, the Sovereignty's ancient human emissary, arrived at dawn to negotiate the hostages' release — while Feanon raced to solve the cloning problem that would render the Surgeon's examination unnecessary, ultimately getting his answer from an unlikely trio: Lady Faye, Lemerlais, and a halfling archaeologist with a scroll penned by Manshoon himself."
 people:
-  - aliyah-faen-tlabbar
-  - auril
-  - beryan
-  - chantelle
-  - cirrus-al-kayan
-  - dean-sejuk
-  - feanon-serinde
-  - gundren-rockseeker
-  - intent
-  - lady-faye
-  - lemerlais
-  - mimaw
-  - mordenkainen
-  - tarkathee-daru
-  - thorna
+  - "aliyah-faen-tlabbar"
+  - "auril"
+  - "beryan"
+  - "cirrus-al-kayan"
+  - "dean-sejuk"
+  - "ella"
+  - "feanon-serinde"
+  - "gundren-rockseeker"
+  - "intent"
+  - "lady-faye"
+  - "lemerlais"
+  - "lodan"
+  - "madame-eva"
+  - "mordenkainen"
+  - "tarkathee-daru"
+  - "thorna"
 places:
-  - abyss
-  - amn
-  - daggerford
-  - evermeet
-  - feanons-tower
-  - gravenhollow
-  - keep-of-thunder-bluff
-  - silverymoon
-  - underdark
+  - "abyss"
+  - "amn"
+  - "baldurs-gate"
+  - "daggerford"
+  - "evermeet"
+  - "feanons-tower"
+  - "gravenhollow"
+  - "keep-of-thunder-bluff"
+  - "silverymoon"
+  - "underdark"
 things:
-  - bag-of-holding
-  - chardalyn
+  - "chardalyn"
 factions:
-  - zhentarim
+  - "zhentarim"
 ---
 
 The group split up in the small hours of the morning, though most remained at [[feanons-tower|the tower]] in case the Sovereignty moved again.

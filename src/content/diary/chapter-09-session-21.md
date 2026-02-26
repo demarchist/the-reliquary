@@ -3,6 +3,7 @@ title: The Demon Lords - Juiblex
 chapter: 9
 chapterTitle: The Demon Lords
 session: 21
+summary: "Patches confronted Juiblex in the Ethereal Plane and bluffed the Demon Lord with claims of the army that slew Demogorgon. Meanwhile, the Battle of Blingdenstone raged across the Dome as Tark, Snorbul, and Thorna struck from the north while the southern line held against waves of demons and oozes. The ooze-covered Gnome wizard and its Oblex allies were destroyed, and Patches scouted the Dome's interior from the Ethereal Plane before returning to the material world to join the final push."
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
@@ -11,6 +12,7 @@ people:
   - "feanon-serinde"
   - "fen"
   - "gundren-rockseeker"
+  - "hisesophax"
   - "juiblex"
   - "lolth"
   - "snorbul"
@@ -19,6 +21,7 @@ people:
   - "zuggtmoy"
 places:
   - "abyss"
+  - "blingdenstone"
   - "ethereal-plane"
   - "the-chasm"
   - "underdark"
@@ -27,116 +30,54 @@ things:
 factions:
   - "drow-faction"
   - "svirfneblin-faction"
+events:
+  - "battle-of-blingdenstone"
 ---
 
-The great column of demonic ooze gazes at Patches.
+The great column of demonic ooze gazed at [[aliyah-faen-tlabbar|Patches]].
 
-Juiblex speaks, its voice thrumming in the Drow’s mind, only her separation in the Ethereal plane protecting her mind.
+[[juiblex|Juiblex]] spoke — its voice thrumming in her mind, only the separation of the [[ethereal-plane|Ethereal Plane]] protecting her sanity. It asked who she was and why she had bypassed [[hisesophax|Hisesophax]].
 
-The Demon Lord asks who she is and why she bypassed Hisesophax (Who Patches determines was the Balor Demon she ran past).
+Patches went big. She raised [[eclipse|Eclipse]] before her and proclaimed that the Celestial Army that slew [[demogorgon|Demogorgon]] was here for him — unless he made himself useful to the greater cause against [[lolth|Lolth]] or [[atropos|Atropos]].
 
-Patches decides to go big, and calls out with confidence, raising her celestial weapon Eclipse before her.
+The Demon Lord surged forward, its massive body moving to surround and engulf the ethereal Drow.
 
-She proclaims that The Celestial Army that slew Demogorgon is now here for him, unless he makes himself useful to the greater cause against Lolth or Atropos.
+## The Battle of Blingdenstone
 
-The great ooze lord is taken aback by the proclamation and then surges forward, moving to surround and engulf the Ethereal Patches.
+The battle raged around the Dome.
 
+In the northern tunnels, [[tarkathee-daru|Tark]] and [[snorbul|Snorbul]] surrounded the remaining Barlgura, but the tough demon refused to fall — until [[thorna|Thorna]] rushed past in a blur of hammers, smashing it down in a flash of sparks and a spray of frost. She hurled an icy spear at the nearby oozes before anyone had recovered. Snorbul roared in glee and charged.
 
-Meanwhile, the battle of Blingdesntone rages around The Dome.
+The southern firing line was destroying everything that showed its face. [[gundren-rockseeker|Gundren]] grinned — until [[feanon-serinde|Feanon]] called out that the oozes were pulling back. The massive horde of Black Puddings, Grey Oozes, and Gelatinous Cubes retreated to the north-east, leaving their demon allies behind.
 
-In the northern tunnels, Take and Snorbul surround and gang up on the remaining Barlgura, but the tough Demon proves to be hard to kill.
+From within the Dome, guttural Abyssal chanting echoed as the demons began to summon reinforcements. A Barlgura was hurled aside and splattered against a Wall of Force — [[cirrus-al-kayan|Cirrus]] called it out. A small, ooze-covered Gnome had emerged from the Dome, spellcasting in their direction.
 
-Until Thorna rushes past, smashing the demon with both her hammers and in a flash of sparks and spray of frost the demon falls dead and Thorna hurls an icy spear at the two nearby Oozes.
+The Deep Gnome army surged from the main entry point, hitting the retreating oozes and steadfast demons. Elementals led the charge. But as they came into view, two red oozes flanked the strange gnome wizard and unleashed arcane blasts — a fireball and a lightning bolt — ripping into the Gnomish ranks. Diggermattock counterspelled another blast and repositioned his troops.
 
-Stunned by the furious assault, it takes Snorbul a moment to collect himself before roaring in glee and rushing onto the nearby oozes.
+Gundren earthglided past the Wall of Force and opened fire on the oozing gnome. Feanon and Cirrus repositioned, the druids sealing their flank with a Passwall enchantment. The gnome wizard tried to disintegrate Cirrus — Feanon counterspelled it. Moments later, a shell from Gundren hit it square in the head.
 
-The firing line down to the south appears to be destroying anything that shows its face and Gundren grins.
+## Northern Push
 
-Feanon calls out though that the Oozes are pulling back and sure enough, the massive number of Black Puddings, Grey Oozes and Gelatinous Cubes all begin to head to the north east, leaving the Demons behind to fight.
+Tark, Snorbul, and Thorna rushed south from the cleared northern tunnels, spotting the fleeing mass of oozes about to be caught between them and the attacking Gnomes. Tark summoned a wall of fire to seal the escape. Trisk's warriors set up on the other side. Pressed from behind, the oozes were forced into the flames — any survivors hacked apart.
 
-From within The Dome, the group and Gnomes all begin to hear the start of gutteral abyssal chanting and the Demons begin to summon more of their own kind.
+Thorna called down a lightning cloud and began striking the demons defending the Dome. Hearing summoning chants from within, she called on the power of Winter and conjured a sleet storm inside, disrupting several of the voices with heavy ice.
 
-Suddenly, as one of the Barlgura’s by the southern line is thrown aside and slain, it splatters across a Wall of Force.
+## Juiblex's Offer
 
-Cirrus calls it out and they then notice a small, ooze covered Gnome has walked from The Dome and is spellcasting in their direction.
+Patches was surrounded by the Demon Lord but completely safe in the Ethereal — Juiblex was merely trying to intimidate her. She reminded it that she had slain Demogorgon and he was next.
 
-The group looks north and sees the Deep Gnome army surging from the main entrypoint and hitting the retreating Oozes and steadfast Demons, Elementals leading the way.
+Juiblex chuckled. It said its minions would test this "army" — but it was interested in a deal. Its nemesis, [[zuggtmoy|Zuggtmoy]], laired nearby. The Queen of Fungi was seeking to infect the [[underdark|Underdark]] with her spores. Juiblex wanted the group's help in assaulting and properly banishing her.
 
-As the Gnomes come into view though, two Red oozes come out of The Dome, flanking the strange little Gnome wizard and each releases a blast of arcane energy; a Fireball and a Lightning Bolt.
+Patches thanked the creature and fled — rushing back up the tunnel toward her friends.
 
-Both blast into the Gnomes, the Elementals taking the brunt of it, but many Gnomes calling out in pain.
+## Patches Returns
 
-Diggermattock counterspells another blast and repositions his troops just as Gundren finishes repositioning via an Elemental Earthglide.
+She returned to the material plane near the Dome's opening, grabbed gemstones, bombs, and everything else she thought she'd need, and sneaked to the battleground.
 
-Circumventing the Wall of Force, the Gunslinger begins to blast away at the Ooze covered Deep Gnome.
+Inside the Dome, she saw the Chasme demons on the ceiling, undulating strangely, regurgitating bubbling ooze over eggs clumped to the stone above. One hatched — runny yolk splashing to the ground, rising into a vaguely humanoid ooze creature. Three more dripped down and rushed out to join the battle. Three ooze-covered Glabrezu demons — crab-like carapace and proportions — flew near each exit.
 
-Cirrus and Feanon both resposition, Earthgliding past the Wall of Force just as the Druids seal their flank from attacking Barlguras with a Passwall enchantment.
+Through the north rushed Snorbul, Thorna, and Tark. The Deep Gnomes charged the southwest entrance. [[hisesophax|The Balor]] surged forward to meet them.
 
-Feanon and Cirrus open up on the little Oozing Deep Gnome wizard.
+The Glabrezu unleashed a volley of Power Word Stuns — hitting Gundren, the wererats, and Cirrus. The warlock staggered but was surrounded by allied elementals and backed by the healing druids.
 
-The thing tries to disintegrate the Warlock, but as the green light flashes from his hands toward Cirrus, Feanon Counterspells and breaks the attack.
-
-The oozing gnome is slain shortly after as a shell from Gundren hits it square in the head…
-
-
-Tark, Snorbul and Thorna all rush down from the north, spotting the fleeing mass of oozes and demons about to be caught between themselves and the attacking Gnomes.
-
-Tark summons a wall of fire to seal off the Oozes escape to the north just as Trisks warriors set up on the other side to kill any survivors.
-
-Pressed from behind, the Oozes are then forced into the Wall of Fire and burned, any survivors then being hacked apart by Trisk.
-
-Thorna calls a Lightning cloud above her in the caverns and flashing lightning begins to strike down at the Demons defending The Dome.
-
-Hearing the sounds of summoning from within the main chamber of The Dome, Thorns calls on the power of Winter and summons a sleet storm within, pummeling the area with heavy ice.
-
-It has the desired effect and several of the summoning voices are disrupted.
-
-The three adventurers join the fray of battle in full.
-
-
-Patches is surrounded by the Demon Lord, but completely safe in the Ethereal plane, the creature is just trying to intimidate her.
-
-Not having any of it, Patches reminds it that she slew Demogorgon and he’s next.
-
-Juiblex chuckles, saying his minions will test this “Army”, but that it is interested in a deal.
-
-Patches asks what kind of a deal and the monster responds that its nemesis, Zuggtomy lairs nearby.
-
-It wants the groups help in slaying her, and banishing her properly.
-
-Patches inquires further than Juiblex tells Patches that the Queen of Fungi is seeking to infect and spread her spores throughout the Underdark somehow.  He seeks to assault her with his army of oozes and demons and wishes the group to help.
-
-Patches thanks the creature for its time, and then flees, rushing back up the natural tunnel to return to the rest of the group as quickly as possible.
-
-
-Patches rushes up the tunnel, returning to the Prime Material plane as she nears the opening to The Dome.
-
-She goes through her pack, grabbing gemstones, bombs and anything else she thinks she will need and then sneaks the rest of the way to the battleground.
-
-Entering The Dome interior, Patches takes note of the enemies.
-
-She sees the Chasme Demons on the ceiling, undulating weirdly and regurgitating bubbling ooze over the eggs clumped to the ceiling.
-
-She watches as one of those eggs hatches, like runny yolk being poured from an egg, it splashes down to the ground, and then rises into a vaguely humanoid looking ooze creature.
-
-She watches as three more of the things drip and drop to the ground, then rush out to join the battle.
-
-Additionally, the Rogue spots three ooze-covered Glabrezu demons, these with crablike carapace and proportions, each is flying nearby an exit to The Dome.
-
-Through the north rushes Snorbul, Thorns and Tark close behind as the Deep Gnomes rush the Southwest Entrance.
-
-The Balor rushes forward to meet them and their Elemental allies.
-
-Seeing the crux of the battle finally reveal itself, Patches, Snorbul and the Deep Gnomes rush in with Feanon, Gundren and Diggermattock’s men pushing up the stairs into the building.
-
-The flying Glabrezu let loose a volley of Power Word Stuns, hitting Gundren, the Wererats and Cirrus just as their respective lines clash.
-
-Cirrus staggers, though is surrounded by allied Elementals and backed up by the healing Druids and Priests of the Gnomes.
-
-Good thing too, as the Barlgura Demon he now faces is backed up by the two Arcane wielding oozes.
-
-Indeed, the red creatures summoned Sulfurous impersonations that attacked both Feanon and Cirrus, draining their memories.
-
-The battle rages across the cavern, the Balor of Juiblex showering the area with burning acid and lashing out with corrosive appendages.
-
-It smashes apart an Earth Elemental and burns at the Deep Gnomes, the fury of the Greater Demon a terror to behold.
+The two red oozes retreated inside the Dome and began disgorging Sulphurous Impersonations that attacked Feanon and Cirrus, draining their memories. The battle raged across the cavern. The Balor of Juiblex showered the area with burning acid and lashed out with corrosive appendages, smashing apart an Earth Elemental as the fury of the Greater Demon towered over the Deep Gnome lines.

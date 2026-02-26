@@ -1,38 +1,35 @@
 ---
-title: "The Demon Lords - Blingdenstone"
+title: The Demon Lords - Blingdenstone
 chapter: 9
 chapterTitle: The Demon Lords
 session: 13
 summary: "The group entered Blingdenstone, toured its haunted streets with Gurnik Tapfingers, and uncovered a tangle of problems — a Lolth curse tied to the Stone Priestess, a Rockblight sidequest involving the missing warrior Trisk, and a staged fistfight at the Foaming Mug that drew out hostile ghosts and ended with Patches letting a sorrowful spirit possess her."
 people:
-  - aliyah-faen-tlabbar
-  - bane
-  - cirrus-al-kayan
-  - eilistraee
-  - feanon-serinde
-  - fen
-  - gruttag
-  - gundren-rockseeker
-  - gurnik
-  - intent
-  - juiblex
-  - lolth
-  - moot
-  - ront
-  - snorbul
-  - tarkathee-daru
+  - "aliyah-faen-tlabbar"
+  - "bane"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "feanon-serinde"
+  - "fen"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "juiblex"
+  - "lolth"
+  - "moot"
+  - "snorbul"
+  - "tarkathee-daru"
 places:
-  - blingdenstone
-  - ethereal-plane
-  - gravenhollow
-  - underdark
+  - "blingdenstone"
+  - "ethereal-plane"
+  - "gravenhollow"
+  - "underdark"
 things:
-  - hew
-  - thundercannon
+  - "hew"
+  - "thundercannon"
 factions:
-  - drow-faction
-  - duergar-faction
-  - svirfneblin-faction
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 The tunnels between the checkpoint and [[blingdenstone|Blingdenstone]] were quiet. A few scant hours of walking and the passage opened into something entirely different: a grand staircase easily a hundred and fifty feet wide, ascending on a gentle slope into the warm glow of crystal-lit stone.

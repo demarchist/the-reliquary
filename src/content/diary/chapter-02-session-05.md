@@ -6,6 +6,7 @@ session: 5
 summary: "Lothli wins the rigged archery tournament, the group collects 10,000 gold from the thieves' guild, and the martial tournament begins — Tark and Patches advance while Lothli falls to Hendrell, Champion of the Moonwood."
 people:
   - "aliyah-faen-tlabbar"
+  - "azoo-the-archer"
   - "doc"
   - "feanon-serinde"
   - "fen"

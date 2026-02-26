@@ -1,59 +1,56 @@
 ---
-title: "The Demon Lords - Into the Dark"
+title: The Demon Lords - Into the Dark
 chapter: 9
 chapterTitle: The Demon Lords
 session: 11
 summary: "With the Sovereignty crisis resolved, the group saw to barony business, forged Thorna's hammer Stormvordur in Sundabar's Artificers Terrace, and descended through Mithril Hall's Runegate into the Underdark — arriving at the Pickshine mines to find Snorbul's cousin Yuri staring at him with blank, unsettling eyes."
 people:
-  - aliyah-faen-tlabbar
-  - barthen
-  - beryan
-  - chani
-  - cirrus-al-kayan
-  - doc
-  - feanon-serinde
-  - fen
-  - gruttag
-  - gundren-rockseeker
-  - intent
-  - lady-faye
-  - lemerlais
-  - lolth
-  - madame-eva
-  - moradin
-  - orcus
-  - pickles
-  - ront
-  - selune
-  - snorbul
-  - tarkathee-daru
-  - theodemir
-  - thorna
-  - topsy-and-turvy
-  - val-tengu
+  - "aliyah-faen-tlabbar"
+  - "barthen"
+  - "beryan"
+  - "bohd"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "feanon-serinde"
+  - "fen"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "intent"
+  - "lady-faye"
+  - "lemerlais"
+  - "lolth"
+  - "madame-eva"
+  - "moradin"
+  - "orcus"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "thorna"
+  - "topsy-and-turvy"
 places:
-  - amn
-  - blingdenstone
-  - fane-of-selune
-  - feanons-tower
-  - gravenhollow
-  - selunia
-  - silverymoon
-  - sundabar
-  - underdark
+  - "amn"
+  - "blingdenstone"
+  - "feanons-tower"
+  - "rockseeker-manufactory"
+  - "selunia"
+  - "silverymoon"
+  - "sundabar"
+  - "underdark"
 things:
-  - bag-of-holding
-  - hew
-  - iron-tome
-  - stormvordur
-  - tavern-of-doors
-  - well-of-many-worlds
+  - "bag-of-holding"
+  - "hew"
+  - "iron-tome"
+  - "well-of-many-worlds"
 factions:
-  - bedine
-  - drow-faction
-  - faerun-defense-force
-  - netherese
-  - svirfneblin-faction
+  - "bedine"
+  - "bohds-band"
+  - "drow-faction"
+  - "netherese"
+  - "svirfneblin-faction"
 ---
 
 The last amniotic sacks were opened and the released prisoners sat recovering on the shore as evening settled over Lake [[selunia|Selunia]]. The Sovereignty's storm was entirely gone; the barony's calm had reasserted itself, and the water lay mirror-still in the growing dark.

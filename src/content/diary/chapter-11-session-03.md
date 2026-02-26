@@ -5,6 +5,7 @@ chapterTitle: Shadows of the Empire
 session: 3
 people:
   - "aliyah-faen-tlabbar"
+  - "azoo-the-archer"
   - "bowie"
   - "cirrus-al-kayan"
   - "feanon-serinde"

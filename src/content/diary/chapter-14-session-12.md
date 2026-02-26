@@ -5,7 +5,9 @@ session: 12
 people:
   - "aliyah-faen-tlabbar"
   - "ancalagon"
+  - "ares"
   - "atropos"
+  - "bohd"
   - "bolg"
   - "cirrus-al-kayan"
   - "corpsetaker"

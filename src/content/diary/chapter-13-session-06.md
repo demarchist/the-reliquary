@@ -5,6 +5,7 @@ chapterTitle: The Voyage Home
 session: 6
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "camea"
   - "cirrus-al-kayan"
   - "doc"

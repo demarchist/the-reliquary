@@ -13,6 +13,7 @@ people:
   - "horatio-von-bumidere"
   - "snorbul"
   - "tarkathee-daru"
+  - "xuefang-the-adamant"
 places:
   - "al-askar"
   - "faerun"

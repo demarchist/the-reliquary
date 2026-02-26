@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "argynvost"
   - "atropos"
+  - "azoo-the-archer"
   - "ella"
   - "ezmerelda"
   - "feanon-serinde"

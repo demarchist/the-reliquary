@@ -1,15 +1,18 @@
 ---
-title: "The Underdark - The Vampire Savant"
+title: The Underdark - The Vampire Savant
 chapter: 8
 chapterTitle: The Underdark
 session: 19
 summary: "Tark's grief over Gaddock and the betrayal of Kenshi found its limit in the bathroom walls while the group pursued Bilrigger through the Hall of Sacred Scrolls and the wild-magic tunnels of the Whorlstone Caverns — where a Beholder moderated Derro politics and a simulacrum shattered into teeth — before Bilrigger's Sanctum delivered the real fight: the Vampire Savant Milgre, who barely escaped into the Astral Plane as the group closed around her."
 people:
   - "aliyah-faen-tlabbar"
+  - "bilrigger"
+  - "chani"
   - "cirrus-al-kayan"
   - "doc"
   - "droki"
   - "feanon-serinde"
+  - "fen"
   - "gaddock"
   - "gundren-rockseeker"
   - "intent"
@@ -17,27 +20,30 @@ people:
   - "kenshi"
   - "madame-eva"
   - "mediocris-dente"
+  - "milgre"
+  - "o-alla"
   - "orcus"
   - "ront"
-  - "selune"
-  - "shar"
   - "snorbul"
   - "tarkathee-daru"
-  - "val-tengu"
+  - "zhengyi"
   - "zuggtmoy"
 places:
   - "astral-plane"
   - "ethereal-plane"
-  - "feywild"
   - "gracksuluth"
   - "sanctum-of-krasus"
   - "shadowfell"
   - "underdark"
   - "whorlstone-caverns"
+things:
+  - "faerzress"
+  - "hew"
 factions:
   - "derro-faction"
-  - "duergar-faction"
   - "netherese"
+events:
+  - "trials-of-the-crusader"
 ---
 
 ## The Bathroom

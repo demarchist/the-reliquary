@@ -1,5 +1,5 @@
 ---
-title: "The Underdark - Leaving the Stone Giants"
+title: The Underdark - Leaving the Stone Giants
 chapter: 8
 chapterTitle: The Underdark
 session: 25
@@ -20,6 +20,7 @@ people:
   - "orcus"
   - "snorbul"
   - "tarkathee-daru"
+  - "themberchaud"
 places:
   - "gracksuluth"
   - "gravenhollow"

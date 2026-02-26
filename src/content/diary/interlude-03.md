@@ -1,21 +1,15 @@
 ---
-title: "The Amber Tornado"
+title: The Amber Tornado
 chapter: 15
-chapterTitle: "Interludes"
+chapterTitle: Interludes
 session: 3
 people:
-  - "asha-bellana"
-  - "aurelian"
-  - "azoo-the-archer"
   - "ares"
-  - "fellasin-stormwing"
-  - "gzunteit-the-bold"
-  - "kalphena-the-wise"
-  - "the-black-arrow"
   - "vakuun-the-dreadblade"
   - "xuefang-the-adamant"
 places:
-  - "vaasa"
+  - "ethereal-plane"
+  - "shou-lung"
 factions:
   - "dragons-of-shou-lung"
 ---

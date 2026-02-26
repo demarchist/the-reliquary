@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "aurinax"
   - "bahamut"
+  - "bilrigger"
   - "cercei"
   - "cirrus-al-kayan"
   - "doc"
@@ -19,24 +20,28 @@ people:
   - "madame-eva"
   - "moot"
   - "pickles"
+  - "protanther"
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
   - "veygar"
 places:
   - "abyss"
+  - "amn"
   - "fane-of-selune"
   - "gracksuluth"
   - "gravenhollow"
   - "sundabar"
   - "underdark"
+  - "whorlstone-caverns"
 things:
-  - "iron-tome"
   - "tavern-of-doors"
   - "the-last-word"
 factions:
+  - "amnians"
   - "derro-faction"
-  - "drow-faction"
+  - "duergar-faction"
+  - "stoneguard"
   - "svirfneblin-faction"
 ---
 

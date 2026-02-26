@@ -1,25 +1,23 @@
 ---
-title: "The Bell of Death"
+title: The Bell of Death
 chapter: 15
-chapterTitle: "Interludes"
+chapterTitle: Interludes
 session: 2
 people:
-  - "asha-bellana"
-  - "aurelian"
-  - "azoo-the-archer"
   - "ares"
-  - "fellasin-stormwing"
+  - "ella"
   - "gzunteit-the-bold"
-  - "kalphena-the-wise"
-  - "the-black-arrow"
+  - "intent"
+  - "li-xian"
+  - "madame-eva"
   - "themberchaud"
   - "vakuun-the-dreadblade"
   - "vulcan"
-  - "xuefang-the-adamant"
   - "zhengyi"
 places:
-  - "vaasa"
-  - "bloodstone-city"
+  - "shou-lung"
+factions:
+  - "dragons-of-shou-lung"
 ---
 
 The dragons dive through the ash to attack.

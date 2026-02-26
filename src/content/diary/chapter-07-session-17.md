@@ -49,6 +49,7 @@ places:
   - "barovia"
   - "bluelake-district"
   - "castle-ravenloft"
+  - "far-realm"
   - "helms-hold"
   - "keep-of-thunder-bluff"
   - "neverwinter"

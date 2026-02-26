@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - The Orc and the Alchemist"
+title: The Underdark - The Orc and the Alchemist
 chapter: 8
 chapterTitle: The Underdark
 session: 23
 summary: "Dano Barrison Del Armgo's job offer hung in the air unanswered, Fey barely escaped a demonically mutated Ront, and a translation session with the Arcanaloth Lola revealed more of what the Iron Tome wants — before the trail of Claudine led into the last place they expected to find her."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "claudine"
   - "demogorgon"
@@ -19,12 +20,14 @@ people:
   - "snorbul"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "themberchaud"
 places:
   - "barovia"
   - "castle-ravenloft"
   - "ethereal-plane"
   - "gracksuluth"
   - "menzoberranzan"
+  - "shattered-spire"
   - "the-establishment"
   - "velkynvelve"
 things:

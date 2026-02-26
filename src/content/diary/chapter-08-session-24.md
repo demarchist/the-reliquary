@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - An Old Friend"
+title: The Underdark - An Old Friend
 chapter: 8
 chapterTitle: The Underdark
 session: 24
 summary: "The Muzgardt Brewery yielded Claudine's escape and a tour through Duergar alchemy, while Hemeth's intelligence led the group to the Cairngorm Cavern — where the Stone Giant elder Hgraam held the first half of the Gravenhollow key, and a Summer Sidhe named Araele named the price."
 people:
   - "aliyah-faen-tlabbar"
+  - "bilrigger"
   - "cirrus-al-kayan"
   - "claudine"
   - "ella"

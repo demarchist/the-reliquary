@@ -129,6 +129,11 @@
     "title": "Anduriel",
     "category": "People"
   },
+  "ares": {
+    "slug": "ares",
+    "title": "Ares",
+    "category": "People"
+  },
   "argynvost": {
     "slug": "argynvost",
     "title": "Argynvost",
@@ -153,6 +158,16 @@
     "slug": "artifact-shard",
     "title": "The Celestial Artifact Shard",
     "category": "Things"
+  },
+  "asha bellana": {
+    "slug": "asha-bellana",
+    "title": "Asha Bellana",
+    "category": "People"
+  },
+  "sage of the swamp": {
+    "slug": "asha-bellana",
+    "title": "Asha Bellana",
+    "category": "People"
   },
   "ashbringer": {
     "slug": "ashbringer",
@@ -209,6 +224,26 @@
     "title": "Attack on Neverwinter",
     "category": "Events"
   },
+  "aurelian": {
+    "slug": "aurelian",
+    "title": "Aurelian",
+    "category": "People"
+  },
+  "althul the protector": {
+    "slug": "aurelian",
+    "title": "Aurelian",
+    "category": "People"
+  },
+  "althul": {
+    "slug": "aurelian",
+    "title": "Aurelian",
+    "category": "People"
+  },
+  "the protector": {
+    "slug": "aurelian",
+    "title": "Aurelian",
+    "category": "People"
+  },
   "auril": {
     "slug": "auril",
     "title": "Auril",
@@ -222,6 +257,21 @@
   "aurinax": {
     "slug": "aurinax",
     "title": "Aurinax",
+    "category": "People"
+  },
+  "azoo the archer": {
+    "slug": "azoo-the-archer",
+    "title": "Azoo the Archer",
+    "category": "People"
+  },
+  "azoo": {
+    "slug": "azoo-the-archer",
+    "title": "Azoo the Archer",
+    "category": "People"
+  },
+  "the archer": {
+    "slug": "azoo-the-archer",
+    "title": "Azoo the Archer",
     "category": "People"
   },
   "baba lysaga": {
@@ -299,6 +349,11 @@
     "title": "Barthen's Provisions",
     "category": "Places"
   },
+  "battle of blingdenstone": {
+    "slug": "battle-of-blingdenstone",
+    "title": "Battle of Blingdenstone",
+    "category": "Events"
+  },
   "battle of silverymoon": {
     "slug": "battle-of-silverymoon",
     "title": "Battle of Silverymoon",
@@ -327,6 +382,21 @@
   "beryan the sage": {
     "slug": "beryan",
     "title": "Beryan",
+    "category": "People"
+  },
+  "bildaboi": {
+    "slug": "bildaboi",
+    "title": "Bildaboi",
+    "category": "People"
+  },
+  "bilrigger": {
+    "slug": "bilrigger",
+    "title": "Bilrigger",
+    "category": "People"
+  },
+  "bilrigger the savant": {
+    "slug": "bilrigger",
+    "title": "Bilrigger",
     "category": "People"
   },
   "the black spider": {
@@ -359,6 +429,11 @@
     "title": "Blood on the Vine Tavern",
     "category": "Places"
   },
+  "bloodstone city": {
+    "slug": "bloodstone-city",
+    "title": "Bloodstone City",
+    "category": "Places"
+  },
   "bluelake district": {
     "slug": "bluelake-district",
     "title": "Bluelake District",
@@ -368,6 +443,16 @@
     "slug": "bluelake-district",
     "title": "Bluelake District",
     "category": "Places"
+  },
+  "bohd": {
+    "slug": "bohd",
+    "title": "Bohd",
+    "category": "People"
+  },
+  "bohd's band": {
+    "slug": "bohds-band",
+    "title": "Bohd's Band",
+    "category": "Factions"
   },
   "bolg": {
     "slug": "bolg",
@@ -394,6 +479,11 @@
     "title": "Boris",
     "category": "People"
   },
+  "boulda": {
+    "slug": "boulda",
+    "title": "Boulda",
+    "category": "People"
+  },
   "bowie": {
     "slug": "bowie",
     "title": "Bowie",
@@ -403,6 +493,16 @@
     "slug": "bregan-daerthe",
     "title": "Bregan D'aerthe",
     "category": "Factions"
+  },
+  "bytopia": {
+    "slug": "bytopia",
+    "title": "Bytopia",
+    "category": "Places"
+  },
+  "the twin paradises": {
+    "slug": "bytopia",
+    "title": "Bytopia",
+    "category": "Places"
   },
   "camea": {
     "slug": "camea",
@@ -439,6 +539,16 @@
     "title": "Carp Alderleaf",
     "category": "People"
   },
+  "carrowill": {
+    "slug": "carrowill",
+    "title": "Carrowill",
+    "category": "People"
+  },
+  "archmage carrowill": {
+    "slug": "carrowill",
+    "title": "Carrowill",
+    "category": "People"
+  },
   "castle ravenloft": {
     "slug": "castle-ravenloft",
     "title": "Castle Ravenloft",
@@ -464,6 +574,11 @@
     "title": "Ceregorach",
     "category": "People"
   },
+  "chadle": {
+    "slug": "chadle",
+    "title": "Chadle",
+    "category": "People"
+  },
   "chani": {
     "slug": "chani",
     "title": "Chani",
@@ -477,6 +592,11 @@
   "chekov": {
     "slug": "chekov",
     "title": "Chekov",
+    "category": "People"
+  },
+  "chipgrin": {
+    "slug": "chipgrin",
+    "title": "Chipgrin",
     "category": "People"
   },
   "chrysalis": {
@@ -679,6 +799,16 @@
     "title": "Doctor Breakfast",
     "category": "People"
   },
+  "dogan": {
+    "slug": "dogan",
+    "title": "Dogan",
+    "category": "People"
+  },
+  "dogan of clan battlehammer": {
+    "slug": "dogan",
+    "title": "Dogan",
+    "category": "People"
+  },
   "dokkar": {
     "slug": "dokkar",
     "title": "Dokkar",
@@ -693,6 +823,21 @@
     "slug": "dorbo",
     "title": "Dorbo",
     "category": "People"
+  },
+  "dragons of shou lung": {
+    "slug": "dragons-of-shou-lung",
+    "title": "Dragons of Shou Lung",
+    "category": "Factions"
+  },
+  "the dragonflight": {
+    "slug": "dragons-of-shou-lung",
+    "title": "Dragons of Shou Lung",
+    "category": "Factions"
+  },
+  "dragonflight": {
+    "slug": "dragons-of-shou-lung",
+    "title": "Dragons of Shou Lung",
+    "category": "Factions"
   },
   "dregthana": {
     "slug": "dregthana",
@@ -879,6 +1024,11 @@
     "title": "Faerûn",
     "category": "Places"
   },
+  "faerzress": {
+    "slug": "faerzress",
+    "title": "Faerzress",
+    "category": "Things"
+  },
   "fallen tower inn": {
     "slug": "fallen-tower-inn",
     "title": "Fallen Tower Inn",
@@ -897,6 +1047,16 @@
   "the fane": {
     "slug": "fane-of-selune",
     "title": "Fane of Selune",
+    "category": "Places"
+  },
+  "far realm": {
+    "slug": "far-realm",
+    "title": "Far Realm",
+    "category": "Places"
+  },
+  "the far realm": {
+    "slug": "far-realm",
+    "title": "Far Realm",
     "category": "Places"
   },
   "fawden": {
@@ -943,6 +1103,11 @@
     "slug": "feanons-tower",
     "title": "Fëanon's Tower",
     "category": "Places"
+  },
+  "fellasin stormwing": {
+    "slug": "fellasin-stormwing",
+    "title": "Fellasin Stormwing",
+    "category": "People"
   },
   "fen": {
     "slug": "fen",
@@ -1104,6 +1269,16 @@
     "title": "Gravenhollow",
     "category": "Places"
   },
+  "the grey ghosts": {
+    "slug": "grey-ghosts",
+    "title": "The Grey Ghosts",
+    "category": "Factions"
+  },
+  "grey ghosts": {
+    "slug": "grey-ghosts",
+    "title": "The Grey Ghosts",
+    "category": "Factions"
+  },
   "gromph baenre": {
     "slug": "gromph-baenre",
     "title": "Gromph Baenre",
@@ -1143,6 +1318,16 @@
     "slug": "gwen",
     "title": "Gwen",
     "category": "Things"
+  },
+  "gzunteit the bold": {
+    "slug": "gzunteit-the-bold",
+    "title": "Gzunteit the Bold",
+    "category": "People"
+  },
+  "gzunteit": {
+    "slug": "gzunteit-the-bold",
+    "title": "Gzunteit the Bold",
+    "category": "People"
   },
   "hammer of niraz": {
     "slug": "hammer-of-niraz",
@@ -1247,6 +1432,16 @@
   "arasume": {
     "slug": "high-marshal-arasume",
     "title": "High-Marshal Arasume",
+    "category": "People"
+  },
+  "hisesophax": {
+    "slug": "hisesophax",
+    "title": "Hisesophax",
+    "category": "People"
+  },
+  "balor of juiblex": {
+    "slug": "hisesophax",
+    "title": "Hisesophax",
     "category": "People"
   },
   "hohonu": {
@@ -1449,6 +1644,16 @@
     "title": "Jade Frog",
     "category": "Things"
   },
+  "jadger": {
+    "slug": "jadger",
+    "title": "Jadger",
+    "category": "People"
+  },
+  "burrow warden jadger": {
+    "slug": "jadger",
+    "title": "Jadger",
+    "category": "People"
+  },
   "jareem": {
     "slug": "jareem",
     "title": "Jareem",
@@ -1497,6 +1702,16 @@
   "the faceless lord": {
     "slug": "juiblex",
     "title": "Juiblex",
+    "category": "People"
+  },
+  "kalphena the wise": {
+    "slug": "kalphena-the-wise",
+    "title": "Kalphena the Wise",
+    "category": "People"
+  },
+  "kalphena": {
+    "slug": "kalphena-the-wise",
+    "title": "Kalphena the Wise",
     "category": "People"
   },
   "kangaxx": {
@@ -1804,6 +2019,11 @@
     "title": "Madame Eva",
     "category": "People"
   },
+  "master koh": {
+    "slug": "master-koh",
+    "title": "Master Koh",
+    "category": "People"
+  },
   "mediocris dente": {
     "slug": "mediocris-dente",
     "title": "Mediocris Dente",
@@ -1859,9 +2079,29 @@
     "title": "Mervklo",
     "category": "People"
   },
+  "milgre": {
+    "slug": "milgre",
+    "title": "Milgre",
+    "category": "People"
+  },
   "mimor": {
     "slug": "mimor",
     "title": "Mimor",
+    "category": "People"
+  },
+  "miranda": {
+    "slug": "miranda",
+    "title": "Miranda",
+    "category": "People"
+  },
+  "\"miranda": {
+    "slug": "miranda",
+    "title": "Miranda",
+    "category": "People"
+  },
+  "warpriest of sune\"": {
+    "slug": "miranda",
+    "title": "Miranda",
     "category": "People"
   },
   "moogie": {
@@ -1989,6 +2229,11 @@
     "title": "Nezzan",
     "category": "People"
   },
+  "o'alla": {
+    "slug": "o-alla",
+    "title": "O'Alla",
+    "category": "People"
+  },
   "obsidian order": {
     "slug": "obsidian-order",
     "title": "Obsidian Order",
@@ -2049,6 +2294,16 @@
     "title": "Orcus",
     "category": "People"
   },
+  "peade": {
+    "slug": "peade",
+    "title": "Peade",
+    "category": "Things"
+  },
+  "centi": {
+    "slug": "peade",
+    "title": "Peade",
+    "category": "Things"
+  },
   "petey greene": {
     "slug": "petey-greene",
     "title": "Petey Greene",
@@ -2088,6 +2343,11 @@
     "slug": "piwafwi",
     "title": "Piwafwi",
     "category": "Things"
+  },
+  "protanther": {
+    "slug": "protanther",
+    "title": "Protanther",
+    "category": "People"
   },
   "rahadin": {
     "slug": "rahadin",
@@ -2190,6 +2450,11 @@
     "category": "People"
   },
   "ruthir": {
+    "slug": "ruthir",
+    "title": "Ruthir",
+    "category": "People"
+  },
+  "ruthir k'ree": {
     "slug": "ruthir",
     "title": "Ruthir",
     "category": "People"
@@ -2379,9 +2644,19 @@
     "title": "Sharza",
     "category": "Places"
   },
+  "the shattered spire": {
+    "slug": "shattered-spire",
+    "title": "The Shattered Spire",
+    "category": "Places"
+  },
   "shatterpeak": {
     "slug": "shatterpeak",
     "title": "Shatterpeak",
+    "category": "Places"
+  },
+  "shou lung": {
+    "slug": "shou-lung",
+    "title": "Shou Lung",
     "category": "Places"
   },
   "shuushar": {
@@ -2468,6 +2743,11 @@
     "slug": "stonehill-inn",
     "title": "Stonehill Inn",
     "category": "Places"
+  },
+  "stonespeaker crystal": {
+    "slug": "stonespeaker-crystal",
+    "title": "Stonespeaker Crystal",
+    "category": "Things"
   },
   "strahd von zarovich": {
     "slug": "strahd-von-zarovich",
@@ -2614,6 +2894,11 @@
     "title": "The Bearded Lass II",
     "category": "Things"
   },
+  "the black arrow": {
+    "slug": "the-black-arrow",
+    "title": "The Black Arrow",
+    "category": "People"
+  },
   "the bog": {
     "slug": "the-bog",
     "title": "The Bog",
@@ -2743,6 +3028,16 @@
     "slug": "the-silent-virtue",
     "title": "The Silent Virtue",
     "category": "Things"
+  },
+  "themberchaud": {
+    "slug": "themberchaud",
+    "title": "Themberchaud",
+    "category": "People"
+  },
+  "themberchaud the grand": {
+    "slug": "themberchaud",
+    "title": "Themberchaud",
+    "category": "People"
   },
   "theodemir": {
     "slug": "theodemir",
@@ -2924,6 +3219,21 @@
     "title": "Vaketh",
     "category": "People"
   },
+  "vakuun the dreadblade": {
+    "slug": "vakuun-the-dreadblade",
+    "title": "Vakuun the Dreadblade",
+    "category": "People"
+  },
+  "the dreadblade": {
+    "slug": "vakuun-the-dreadblade",
+    "title": "Vakuun the Dreadblade",
+    "category": "People"
+  },
+  "vakuun": {
+    "slug": "vakuun-the-dreadblade",
+    "title": "Vakuun the Dreadblade",
+    "category": "People"
+  },
   "val tengu": {
     "slug": "val-tengu",
     "title": "Val Tengu",
@@ -3034,6 +3344,11 @@
     "title": "Von Issinger",
     "category": "People"
   },
+  "vulcan": {
+    "slug": "vulcan",
+    "title": "Vulcan",
+    "category": "People"
+  },
   "lady wachter": {
     "slug": "wachter",
     "title": "Lady Wachter",
@@ -3048,6 +3363,21 @@
     "slug": "wachter",
     "title": "Lady Wachter",
     "category": "People"
+  },
+  "the warlocks of ceregorach": {
+    "slug": "warlocks-of-ceregorach",
+    "title": "The Warlocks of Ceregorach",
+    "category": "Factions"
+  },
+  "warlocks of ceregorach": {
+    "slug": "warlocks-of-ceregorach",
+    "title": "The Warlocks of Ceregorach",
+    "category": "Factions"
+  },
+  "warlocks of the laughing god": {
+    "slug": "warlocks-of-ceregorach",
+    "title": "The Warlocks of Ceregorach",
+    "category": "Factions"
   },
   "watchers of helm": {
     "slug": "watchers-of-helm",
@@ -3083,6 +3413,41 @@
     "slug": "well-of-many-worlds",
     "title": "Well of Many Worlds",
     "category": "Things"
+  },
+  "the west cleft": {
+    "slug": "west-cleft",
+    "title": "The West Cleft",
+    "category": "Places"
+  },
+  "the whorlstone caverns": {
+    "slug": "whorlstone-caverns",
+    "title": "The Whorlstone Caverns",
+    "category": "Places"
+  },
+  "whorlstone": {
+    "slug": "whorlstone-caverns",
+    "title": "The Whorlstone Caverns",
+    "category": "Places"
+  },
+  "xuefang the adamant": {
+    "slug": "xuefang-the-adamant",
+    "title": "Xuefang the Adamant",
+    "category": "People"
+  },
+  "xuefang": {
+    "slug": "xuefang-the-adamant",
+    "title": "Xuefang the Adamant",
+    "category": "People"
+  },
+  "xuefeng": {
+    "slug": "xuefang-the-adamant",
+    "title": "Xuefang the Adamant",
+    "category": "People"
+  },
+  "the adamant": {
+    "slug": "xuefang-the-adamant",
+    "title": "Xuefang the Adamant",
+    "category": "People"
   },
   "yeenoghu": {
     "slug": "yeenoghu",
@@ -3147,161 +3512,6 @@
   "lady of fungi": {
     "slug": "zuggtmoy",
     "title": "Zuggtmoy",
-    "category": "People"
-  },
-  "asha bellana": {
-    "slug": "asha-bellana",
-    "title": "Asha Bellana",
-    "category": "People"
-  },
-  "sage of the swamp": {
-    "slug": "asha-bellana",
-    "title": "Asha Bellana",
-    "category": "People"
-  },
-  "fellasin stormwing": {
-    "slug": "fellasin-stormwing",
-    "title": "Fellasin Stormwing",
-    "category": "People"
-  },
-  "fellasin": {
-    "slug": "fellasin-stormwing",
-    "title": "Fellasin Stormwing",
-    "category": "People"
-  },
-  "vakuun the dreadblade": {
-    "slug": "vakuun-the-dreadblade",
-    "title": "Vakuun the Dreadblade",
-    "category": "People"
-  },
-  "vakuun": {
-    "slug": "vakuun-the-dreadblade",
-    "title": "Vakuun the Dreadblade",
-    "category": "People"
-  },
-  "the dreadblade": {
-    "slug": "vakuun-the-dreadblade",
-    "title": "Vakuun the Dreadblade",
-    "category": "People"
-  },
-  "gzunteit the bold": {
-    "slug": "gzunteit-the-bold",
-    "title": "Gzunteit the Bold",
-    "category": "People"
-  },
-  "gzunteit": {
-    "slug": "gzunteit-the-bold",
-    "title": "Gzunteit the Bold",
-    "category": "People"
-  },
-  "aurelian": {
-    "slug": "aurelian",
-    "title": "Aurelian",
-    "category": "People"
-  },
-  "althul": {
-    "slug": "aurelian",
-    "title": "Aurelian",
-    "category": "People"
-  },
-  "althul the protector": {
-    "slug": "aurelian",
-    "title": "Aurelian",
-    "category": "People"
-  },
-  "azoo the archer": {
-    "slug": "azoo-the-archer",
-    "title": "Azoo the Archer",
-    "category": "People"
-  },
-  "azoo": {
-    "slug": "azoo-the-archer",
-    "title": "Azoo the Archer",
-    "category": "People"
-  },
-  "the black arrow": {
-    "slug": "the-black-arrow",
-    "title": "The Black Arrow",
-    "category": "People"
-  },
-  "black arrow": {
-    "slug": "the-black-arrow",
-    "title": "The Black Arrow",
-    "category": "People"
-  },
-  "kalphena the wise": {
-    "slug": "kalphena-the-wise",
-    "title": "Kalphena the Wise",
-    "category": "People"
-  },
-  "kalphena": {
-    "slug": "kalphena-the-wise",
-    "title": "Kalphena the Wise",
-    "category": "People"
-  },
-  "xuefang the adamant": {
-    "slug": "xuefang-the-adamant",
-    "title": "Xuefang the Adamant",
-    "category": "People"
-  },
-  "xuefang": {
-    "slug": "xuefang-the-adamant",
-    "title": "Xuefang the Adamant",
-    "category": "People"
-  },
-  "xuefeng": {
-    "slug": "xuefang-the-adamant",
-    "title": "Xuefang the Adamant",
-    "category": "People"
-  },
-  "protanther": {
-    "slug": "protanther",
-    "title": "Protanther",
-    "category": "People"
-  },
-  "themberchaud": {
-    "slug": "themberchaud",
-    "title": "Themberchaud",
-    "category": "People"
-  },
-  "themberchaud the grand": {
-    "slug": "themberchaud",
-    "title": "Themberchaud",
-    "category": "People"
-  },
-  "shou lung": {
-    "slug": "shou-lung",
-    "title": "Shou Lung",
-    "category": "Places"
-  },
-  "bloodstone city": {
-    "slug": "bloodstone-city",
-    "title": "Bloodstone City",
-    "category": "Places"
-  },
-  "dragons of shou lung": {
-    "slug": "dragons-of-shou-lung",
-    "title": "Dragons of Shou Lung",
-    "category": "Factions"
-  },
-  "the dragonflight": {
-    "slug": "dragons-of-shou-lung",
-    "title": "Dragons of Shou Lung",
-    "category": "Factions"
-  },
-  "dragonflight": {
-    "slug": "dragons-of-shou-lung",
-    "title": "Dragons of Shou Lung",
-    "category": "Factions"
-  },
-  "ares": {
-    "slug": "ares",
-    "title": "Ares",
-    "category": "People"
-  },
-  "vulcan": {
-    "slug": "vulcan",
-    "title": "Vulcan",
     "category": "People"
   }
 }

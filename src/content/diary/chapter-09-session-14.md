@@ -1,34 +1,37 @@
 ---
-title: "The Demon Lords - Blingdenstone Pt. 2"
+title: The Demon Lords - Blingdenstone Pt. 2
 chapter: 9
 chapterTitle: The Demon Lords
 session: 14
 summary: "With Jinu's guidance, the group entered Rockblight and explored the Crystal Garden — rescuing a gnome petrified for twenty years, encountering an army of Drow statues, and discovering a Bane-corrupted obelisk that pulled Gundren into the stone before Gurnik handed them a Hallow spell gem and warned that the Bane drives Earth Elementals mad."
 people:
-  - aliyah-faen-tlabbar
-  - bane
-  - chani
-  - cirrus-al-kayan
-  - eilistraee
-  - feanon-serinde
-  - gruttag
-  - gundren-rockseeker
-  - gurnik
-  - intent
-  - moot
-  - snorbul
-  - tarkathee-daru
+  - "aliyah-faen-tlabbar"
+  - "ares"
+  - "bane"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "feanon-serinde"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "gurnik"
+  - "intent"
+  - "madame-eva"
+  - "moot"
+  - "selune"
+  - "snorbul"
+  - "tarkathee-daru"
+  - "thorna"
 places:
-  - blingdenstone
-  - ethereal-plane
-  - underdark
+  - "ethereal-plane"
+  - "underdark"
 things:
-  - bag-of-holding
-  - eclipse
-  - gwen
+  - "bag-of-holding"
+  - "eclipse"
+  - "gwen"
 factions:
-  - drow-faction
-  - svirfneblin-faction
+  - "drow-faction"
+  - "svirfneblin-faction"
 ---
 
 The group took rooms at the Foaming Mug. [[feanon-serinde|Fey]] summoned his Magnificent Manor almost immediately and most of the party filed inside. [[tarkathee-daru|Tark]] declined and slept in the passage outside the door, keeping watch.

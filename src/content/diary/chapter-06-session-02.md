@@ -6,6 +6,7 @@ session: 2
 summary: "The group enters Sundabar's rebuilt Undercity as guests of a grateful Dwarven patrol — feasting at the Hopping Hair, watching Tark dominate a fighting ring, and selling Ravenloft treasure to eager craftsmen while Patches slips away to resupply through her Xentarim contacts."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cercei"
   - "chani"
   - "feanon-serinde"
@@ -20,6 +21,7 @@ people:
   - "pickles"
   - "tarkathee-daru"
   - "val-tengu"
+  - "xuefang-the-adamant"
 places:
   - "barovia"
   - "castle-ravenloft"

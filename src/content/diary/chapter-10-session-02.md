@@ -5,6 +5,7 @@ chapterTitle: Beyond the Veil
 session: 2
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "atropos"
   - "bahamut"
   - "cirrus-al-kayan"

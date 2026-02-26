@@ -15,7 +15,6 @@ people:
   - "claudine"
   - "corpsetaker"
   - "doc"
-  - "eilistraee"
   - "feanon-serinde"
   - "finn"
   - "gneiss"
@@ -30,6 +29,7 @@ people:
   - "pickles"
   - "ront"
   - "selune"
+  - "shar"
   - "snorbul"
   - "surtr"
   - "tarkathee-daru"
@@ -37,23 +37,21 @@ people:
   - "val-tengu"
 places:
   - "abyss"
-  - "amn"
   - "baldurs-gate"
-  - "daggerford"
   - "ethereal-plane"
   - "evermeet"
-  - "fane-of-selune"
+  - "feanons-tower"
+  - "gracksuluth"
   - "gravenhollow"
   - "keep-of-thunder-bluff"
   - "silverymoon"
   - "the-crossroads"
-  - "underdark"
 things:
-  - "arkto"
   - "chardalyn"
+  - "hew"
   - "the-last-word"
 factions:
-  - "amnians"
+  - "house-baenre"
   - "svirfneblin-faction"
 ---
 

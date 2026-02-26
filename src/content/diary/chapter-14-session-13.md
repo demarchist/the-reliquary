@@ -5,6 +5,7 @@ session: 13
 people:
   - "aliyah-faen-tlabbar"
   - "ancalagon"
+  - "ares"
   - "bowie"
   - "cirrus-al-kayan"
   - "dean-sejuk"
@@ -45,6 +46,7 @@ factions:
   - "drow-faction"
   - "netherese"
   - "the-harpers"
+  - "warlocks-of-ceregorach"
   - "zhentarim"
 ---
 

@@ -1,43 +1,44 @@
 ---
-title: "The Demon Lords - The Sovereignty"
+title: The Demon Lords - The Sovereignty
 chapter: 9
 chapterTitle: The Demon Lords
 session: 8
 summary: "The group fought off Sovereignty raiders in the rain and freed abducted civilians from mutated Storm Giants — but the night ended in disaster: the tower was breached and Uira taken, Topsy and Turvy were stolen from the Fane, and the Aboleth itself dragged Feanon into the depths of the lake."
 people:
-  - aliyah-faen-tlabbar
-  - beryan
-  - chani
-  - cirrus-al-kayan
-  - doc
-  - feanon-serinde
-  - fuega
-  - gneiss
-  - gundren-rockseeker
-  - horatio-von-bumidere
-  - intent
-  - jack-mayer-johnson-mathews
-  - madame-eva
-  - ront
-  - selune
-  - sera-von-bumidere
-  - snorbul
-  - surtr
-  - tarkathee-daru
-  - thorna
-  - topsy-and-turvy
+  - "aliyah-faen-tlabbar"
+  - "ares"
+  - "beryan"
+  - "chani"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "feanon-serinde"
+  - "fen"
+  - "gneiss"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "intent"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "ront"
+  - "selune"
+  - "sera-von-bumidere"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "thorna"
+  - "topsy-and-turvy"
 places:
-  - daggerford
-  - fane-of-selune
-  - feanons-tower
-  - keep-of-thunder-bluff
-  - kossenberg
-  - rockseeker-manufactory
-  - temple-of-helm
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "keep-of-thunder-bluff"
+  - "kossenberg"
+  - "rockseeker-manufactory"
+  - "temple-of-helm"
 things:
-  - arkto
-  - eclipse
-  - gwen
+  - "arkto"
+  - "eclipse"
+  - "gwen"
+  - "hew"
 ---
 
 [[tarkathee-daru|Tark]] peeled away from the group as they pursued the retreating Sovereignty forces into the tree line. The keep had no idea the barony was under attack.

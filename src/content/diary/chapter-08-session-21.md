@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - Snorbul's Fight"
+title: The Underdark - Snorbul's Fight
 chapter: 8
 chapterTitle: The Underdark
 session: 21
 summary: "Snorbul took the Shattered Spire fighting pit by storm in a solo battle that showed what the Deep Gnome was made of, while the group completed their business in the Sanctum — and a bear cub delivered in a basket reminded Tark that not everything in the Underdark wanted to hurt him."
 people:
   - "aliyah-faen-tlabbar"
+  - "bilrigger"
   - "chani"
   - "cirrus-al-kayan"
   - "doc"
@@ -17,6 +18,8 @@ people:
   - "kenshi"
   - "madame-eva"
   - "mediocris-dente"
+  - "milgre"
+  - "o-alla"
   - "orcus"
   - "pickles"
   - "selune"
@@ -29,6 +32,7 @@ places:
   - "sanctum-of-krasus"
   - "sundabar"
   - "underdark"
+  - "whorlstone-caverns"
 things:
   - "hew"
 factions:

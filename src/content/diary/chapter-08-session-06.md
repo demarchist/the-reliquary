@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - The Crossroads"
+title: The Underdark - The Crossroads
 chapter: 8
 chapterTitle: The Underdark
 session: 6
 summary: "Tark's dream confrontation with the monk Kenshi planted seeds of doubt, but it was the Crossroads ambush — sprung by Ilvara Mizzrym's Drow patrol — that split the party in two: Tark and Cirrus slipped away, while the others were taken in chains to Velkynvelve."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
@@ -32,6 +33,7 @@ places:
   - "velkynvelve"
 things:
   - "bag-of-holding"
+  - "faerzress"
   - "piwafwi"
   - "talon"
 factions:

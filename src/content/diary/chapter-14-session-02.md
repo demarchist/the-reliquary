@@ -4,6 +4,7 @@ chapter: 14
 session: 2
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "bahamut"
   - "cirrus-al-kayan"
   - "doc"

@@ -6,6 +6,7 @@ session: 17
 summary: "The group descends through haunted corridors and trapped staircases to the catacombs beneath Castle Ravenloft — where they find Van Richten turned and beg for death, discover a hibernating army of vampire spawn, and recover Sergei's journal, armour, and sword hilt from his pristine tomb. In Strahd's library, Patches confronts the vampire lord with the truth of his past, and he lets them go."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "baba-lysaga"
   - "chani"
   - "feanon-serinde"

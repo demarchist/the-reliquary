@@ -5,6 +5,7 @@ chapterTitle: Shadows of the Empire
 session: 6
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"

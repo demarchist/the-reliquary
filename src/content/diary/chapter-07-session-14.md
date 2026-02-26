@@ -7,6 +7,7 @@ summary: "At Helm's Hold, the group reunites with JmJm and Cirrus reconciles wit
 people:
   - "aliyah-faen-tlabbar"
   - "anaxtrasa"
+  - "ares"
   - "aurinax"
   - "bahamut"
   - "cirrus-al-kayan"
@@ -22,6 +23,7 @@ people:
   - "li-xian"
   - "madame-eva"
   - "mordenkainen"
+  - "protanther"
   - "s-olaa"
   - "shaahir"
   - "tarkathee-daru"
@@ -34,6 +36,7 @@ places:
   - "neverwinter"
   - "waterdeep"
 things:
+  - "faerzress"
   - "hew"
   - "tavern-of-doors"
   - "thayan-drop-box"

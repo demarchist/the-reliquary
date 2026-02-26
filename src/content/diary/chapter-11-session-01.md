@@ -5,6 +5,7 @@ chapterTitle: Shadows of the Empire
 session: 1
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"

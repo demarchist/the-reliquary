@@ -1,37 +1,38 @@
 ---
-title: "The Demon Lords - The Anauroch Desert"
+title: The Demon Lords - The Anauroch Desert
 chapter: 9
 chapterTitle: The Demon Lords
 session: 4
 summary: "Following Samid's directions to a Duergar-occupied Netherese mine, the group dispatched a sandworm in under thirty seconds, negotiated with the Mountain Giant Bolg for entry, and fought their way through the mine's defenses to reach a rich Chardalyn deposit."
 people:
-  - aliyah-faen-tlabbar
-  - bolg
-  - cirrus-al-kayan
-  - doc
-  - feanon-serinde
-  - fen
-  - gundren-rockseeker
-  - intent
-  - madame-eva
-  - ront
-  - shar
-  - snorbul
-  - surtr
-  - tarkathee-daru
-  - val-tengu
+  - "aliyah-faen-tlabbar"
+  - "bolg"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "feanon-serinde"
+  - "fen"
+  - "gundren-rockseeker"
+  - "intent"
+  - "madame-eva"
+  - "moot"
+  - "ront"
+  - "shar"
+  - "surtr"
+  - "tarkathee-daru"
+  - "val-tengu"
 places:
-  - selunia
+  - "selunia"
 things:
-  - chardalyn
-  - gwen
-  - hew
-  - jade-frog
-  - thundercannon
+  - "chardalyn"
+  - "gwen"
+  - "hew"
+  - "jade-frog"
+  - "peade"
+  - "thundercannon"
 factions:
-  - bedine
-  - duergar-faction
-  - netherese
+  - "bedine"
+  - "duergar-faction"
+  - "netherese"
 ---
 
 The group soared across the darkening skies, the desert spreading out below in shades of charcoal and amber.

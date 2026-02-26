@@ -5,6 +5,7 @@ chapterTitle: Beyond the Veil
 session: 3
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "atropos"
   - "cercei"
   - "chani"

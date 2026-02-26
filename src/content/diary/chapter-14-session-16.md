@@ -25,6 +25,7 @@ people:
   - "vaas-redblade"
   - "vecna"
 places:
+  - "bloodstone-city"
   - "damara"
   - "faerun"
   - "feanons-tower"

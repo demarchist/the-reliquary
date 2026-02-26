@@ -1,5 +1,5 @@
 ---
-title: "The Underdark - Peade"
+title: The Underdark - Peade
 chapter: 8
 chapterTitle: The Underdark
 session: 7
@@ -39,6 +39,7 @@ places:
   - "velkynvelve"
 things:
   - "bag-of-holding"
+  - "peade"
 factions:
   - "amnians"
   - "derro-faction"

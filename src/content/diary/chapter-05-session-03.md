@@ -6,6 +6,7 @@ session: 3
 summary: "The group buries the Burgomaster, feeds a corrupt priest to his own vampire son, and travels to the Tser Pool to meet Madame Eva — whose fortune-telling reveals the keys to escaping Barovia: artifacts hidden in tombs, an ally among the Vistani, and the slim hope that Strahd might be saved rather than slain."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "argynvost"
   - "chekov"
   - "donavich"

@@ -7,6 +7,7 @@ summary: "Ireena presents Sergei's journal to Strahd and turns him against Rahad
 people:
   - "aliyah-faen-tlabbar"
   - "anduriel"
+  - "ares"
   - "argynvost"
   - "cirrus-al-kayan"
   - "ezmerelda"

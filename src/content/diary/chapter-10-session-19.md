@@ -6,6 +6,7 @@ session: 19
 people:
   - "aliyah-faen-tlabbar"
   - "anaxtrasa"
+  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"

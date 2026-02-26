@@ -4,6 +4,7 @@ chapter: 12
 chapterTitle: Al Askar
 session: 22
 people:
+  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"

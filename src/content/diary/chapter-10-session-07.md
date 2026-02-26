@@ -31,6 +31,7 @@ places:
   - "the-labyrinth"
   - "underdark"
 things:
+  - "faerzress"
   - "iron-tome"
 factions:
   - "drow-faction"

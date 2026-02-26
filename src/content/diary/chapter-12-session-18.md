@@ -5,6 +5,7 @@ chapterTitle: Al Askar
 session: 18
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "djoser"
   - "doc"
   - "feanon-serinde"

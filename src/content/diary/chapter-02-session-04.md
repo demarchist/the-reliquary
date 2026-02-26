@@ -6,6 +6,7 @@ session: 4
 summary: "The reunited group explores the Refounding Festival — brawling through beer tents, buying from an alchemist gnome, browsing Raylen's Underdark black market, punching out a foppish lord, and signing up for the martial tournament before encountering a rooftop assassin at the docks."
 people:
   - "aliyah-faen-tlabbar"
+  - "azoo-the-archer"
   - "black-spider"
   - "doc"
   - "feanon-serinde"

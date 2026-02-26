@@ -4,6 +4,7 @@ chapter: 14
 session: 15
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "chani"
   - "cirrus-al-kayan"
   - "doc"

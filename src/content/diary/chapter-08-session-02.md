@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - Into the Underdark"
+title: The Underdark - Into the Underdark
 chapter: 8
 chapterTitle: The Underdark
 session: 2
 summary: "JmJm's intervention brought [[gneiss|Gneiss]] back from the dead, cementing an alliance with the Amnian delegation, before the group departed the surface and descended into the Underdark — arriving at the ruins of Moondancer Village and its grim recent history of massacre."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "chani"
   - "cirrus-al-kayan"
   - "doc"
@@ -17,12 +18,12 @@ people:
   - "intent"
   - "jack-mayer-johnson-mathews"
   - "lord-neverember"
+  - "moot"
   - "pickles"
   - "shaahir"
   - "shar"
   - "sharess"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "athkatla"
   - "keep-of-thunder-bluff"
@@ -32,6 +33,7 @@ places:
   - "thunder-bluff"
   - "underdark"
 things:
+  - "hew"
   - "thundercannon"
 factions:
   - "drow-faction"

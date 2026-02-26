@@ -21,11 +21,13 @@ people:
   - "thorna"
 places:
   - "amn"
+  - "bytopia"
   - "ethereal-plane"
   - "gravenhollow"
   - "keep-of-thunder-bluff"
 things:
   - "eclipse"
+  - "stonespeaker-crystal"
   - "the-reaver"
   - "thundercannon"
 factions:

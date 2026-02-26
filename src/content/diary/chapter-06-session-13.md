@@ -6,6 +6,7 @@ session: 13
 summary: "The group discovers arcane bombs planted in the city wall, Patches infiltrates the Palace to interrogate the traitorous Master of Coin, and at dawn a thousand-strong Amnian army marches through the gates — sparking a desperate battle in the Plaza of the Watchers that ends only when the High Marshal and the Mythal Golems arrive."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "chani"
   - "feanon-serinde"
   - "fen"

@@ -6,6 +6,7 @@ session: 20
 people:
   - "aliyah-faen-tlabbar"
   - "ancalagon"
+  - "bohd"
   - "bolg"
   - "cirrus-al-kayan"
   - "doc"
@@ -15,6 +16,7 @@ people:
   - "horatio-von-bumidere"
   - "intent"
   - "li-xian"
+  - "miranda"
   - "mordenkainen"
   - "orcus"
   - "ront"

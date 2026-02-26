@@ -6,6 +6,7 @@ session: 11
 summary: "The group drinks with Lo'Dan at the Sallow Manatee, Gundren kills a pirate captain in the street, and the party retreats to the Bumidere estate — where Buumi reunites with his mother Sera, Patches bonds with his sister Emma, and a mysterious tutor named Mr. Shon draws everyone's suspicion."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cercei"
   - "cirrus-al-kayan"
   - "doc"

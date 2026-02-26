@@ -1,5 +1,5 @@
 ---
-title: "The Underdark - Gracksuluth on Edge"
+title: The Underdark - Gracksuluth on Edge
 chapter: 8
 chapterTitle: The Underdark
 session: 26
@@ -7,6 +7,7 @@ summary: "With Gracksuluth buckling under a demon siege, the group extracted Cla
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
+  - "bilrigger"
   - "cirrus-al-kayan"
   - "claudine"
   - "demogorgon"
@@ -24,13 +25,16 @@ people:
   - "snorbul"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "themberchaud"
   - "val-tengu"
 places:
   - "barovia"
+  - "gracksuluth"
   - "menzoberranzan"
   - "sanctum-of-krasus"
   - "selunia"
   - "underdark"
+  - "whorlstone-caverns"
 things:
   - "bag-of-holding"
   - "gwen"

@@ -1,35 +1,36 @@
 ---
-title: "The Demon Lords - Negotiations"
+title: The Demon Lords - Negotiations
 chapter: 9
 chapterTitle: The Demon Lords
 session: 9
 summary: "The Aboleth nearly enslaved Feanon before something in his mind tore free — in the chaos that followed, the Kraken was banished, Snorbul was blasted unconscious and transformed, and Feanon teleported himself to a prepared water tank in his lab before negotiations over the hostages ended with the Sovereignty's terms refused and a tense, paranoid rest."
 people:
-  - aliyah-faen-tlabbar
-  - cirrus-al-kayan
-  - doc
-  - feanon-serinde
-  - fen
-  - gundren-rockseeker
-  - horatio-von-bumidere
-  - intent
-  - jack-mayer-johnson-mathews
-  - madame-eva
-  - ront
-  - snorbul
-  - surtr
-  - tarkathee-daru
-  - theodemir
-  - thorna
-  - val-tengu
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "doc"
+  - "feanon-serinde"
+  - "fen"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "intent"
+  - "jack-mayer-johnson-mathews"
+  - "madame-eva"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "theodemir"
+  - "thorna"
+  - "val-tengu"
 places:
-  - abyss
-  - feanons-tower
+  - "abyss"
+  - "feanons-tower"
+  - "kossenberg"
 things:
-  - arkto
-  - eclipse
-  - iron-tome
-  - thundercannon
+  - "arkto"
+  - "eclipse"
+  - "hew"
+  - "iron-tome"
+  - "thundercannon"
 ---
 
 The Aboleth's psionics crashed against [[feanon-serinde|Fey]]'s will like a tide. [[theodemir|Theodemir]] cried out from the [[iron-tome|Iron Tome]], throwing everything he had into shoring up Fey's defenses — but both were overwhelmed by the vastness of the Sovereignty pressing in from every direction. Feanon began to change, the creature's mucus rewriting him at a cellular level.

@@ -1,27 +1,27 @@
 ---
-title: "The Demon Lords - Marilith Attack"
+title: The Demon Lords - Marilith Attack
 chapter: 9
 chapterTitle: The Demon Lords
 session: 12
 summary: "Escorting the Pickshine ore cart toward Blingdenstone, the group battled Barlgura demons and Juiblex-tainted oozes through the Svirfneblin tunnels — before a Marilith ambushed them in the darkness, and Gwen tore the demon apart as it died still trying to slash Gundren."
 people:
-  - aliyah-faen-tlabbar
-  - cirrus-al-kayan
-  - eilistraee
-  - feanon-serinde
-  - fen
-  - gruttag
-  - gundren-rockseeker
-  - juiblex
-  - shar
-  - snorbul
+  - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "eilistraee"
+  - "feanon-serinde"
+  - "gruttag"
+  - "gundren-rockseeker"
+  - "juiblex"
+  - "shar"
+  - "snorbul"
+  - "xuefang-the-adamant"
 places:
-  - blingdenstone
-  - underdark
+  - "blingdenstone"
+  - "underdark"
 things:
-  - gwen
+  - "gwen"
 factions:
-  - svirfneblin-faction
+  - "svirfneblin-faction"
 ---
 
 Yuri blinked and smiled at his cousin in greeting.

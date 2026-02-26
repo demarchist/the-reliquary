@@ -3,12 +3,14 @@ title: The Demon Lords - The Bane of Blingdenstone
 chapter: 9
 chapterTitle: The Demon Lords
 session: 15
+summary: "The group activated the Hallow spell at the Steadfast Stone, fighting waves of enraged elementals and a colossal behemoth animated by the Bane while protecting the Galeb Duhr ritual circle. After cleansing Rockblight, they rescued a family of cave badgers from basilisks and began methodically destroying the petrified Drow army guarding the Stone Priestess's lair."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "bane"
   - "cirrus-al-kayan"
+  - "eilistraee"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "gurnik"
   - "intent"
@@ -27,169 +29,78 @@ factions:
   - "svirfneblin-faction"
 ---
 
-As Gurnik turns to leave, the group stops him and decide NOT to bring any elementals in to Rockblight until The Bane is dealt with.
+As [[gurnik|Gurnik]] turned to leave, the group stopped him. No elementals would enter [[blingdenstone|Rockblight]] until the Bane was dealt with — the risk of corruption was too great. Gurnik agreed, though he prepared his acolytes to push into the cursed district once the Hallowing was complete.
 
-Gurnik agrees, but prepares his acolytes to potentially push into Rockblight post-hallow spell.
+The group collected themselves and headed back through the passage into Rockblight and the ruins beyond. They made good time to the Steadfast Stone, arriving without incident — no sign of the dust mephit gang from before. The cursed site pressed against their senses immediately: a low, sourceless rage filling the caverns, setting teeth on edge.
 
-The group collects themselves and then head back to the the passage into Rockblight and the ruins of Blingdenstone.
+[[feanon-serinde|Feanon]] approached the great menhir, stopping at a cautious distance to examine the standing stone. He identified the correct socket quickly and used Mage Hand to guide the spell gem into place.
 
-They make good time back to The Steadfast Stone and make it there un-accosted, with no sight of the Dust Mephit gang from before.
+## The Hallowing
 
-The group feels the cursed site and the rage filling the caverns, they set up expecting trouble…
+The sapphire flashed — a blinding, brilliant blue — and the stone shattered around it, releasing the magic contained within. A cloud of swirling gas and blazing lightning erupted from the menhir and began to whirl, winds howling through the cavern. Red bolts of lightning lanced outward, striking the walls and floor, and moments later enraged elementals slid from the rock as if stepping from pools of water.
 
-Feanon approaches the great Menhir, stopping a safe distance away and examining the standing stone.
+They surged forward in a furious avalanche of animate stone.
 
-He figures out quickly which socket to place the spell gem into and then Mage hands the gem into place.
+As the group braced against the onslaught, a blue glow appeared on the ground near the standing stone. A glowing crystal hand reached from the earth and a roughly humanoid crystal creature — wide and squat — pulled itself free. The crystalline Galeb Duhr slammed its fists together and its glow intensified. The menhir began to shine with previously invisible runes and carvings, illuminating up its length as a shimmering field of blue energy radiated outward.
 
-The Sapphire flashes and glows a powerful blue, the stone shattering and releasing the magic contained within.
+The nearby elementals roared and turned on the Galeb Duhr, several charging to destroy it before it could complete the cleansing. Two more spots began to glow — blue light pouring from cracks in the earth — creating three points of an equilateral triangle around the menhir.
 
-A cloud of swirling gasses and blazing lightning erupts from the standing stone and begins to whirl, winds howling.
+[[cirrus-al-kayan|Cirrus]] saw the elementals closing on the crystal creature and made his decision without hesitation. He Farstepped to the Galeb Duhr and enacted a sphere of force around them both, cutting himself off from the surrounding battle entirely. One elemental slammed against the invisible barrier, hammering uselessly. The red lightning cloud flashed with fury and the elementals refocused their rage on the party and the other two crystal figures pulling themselves from the stone.
 
-Red blasts of lightning lance out from the cloud and strike the cavern walls floor and moments later, enraged elementals slide from the rock as if stepping from a pool of water.
+[[feanon-serinde|Feanon]] found himself surrounded in the open — cockatrice and elementals swarming him — but he enacted a gravity well and Mirror Image, the illusory copies scattering as he fought.
 
-The elementals surge forward, attacking the group in a furious avalanche of animate stone.
+[[aliyah-faen-tlabbar|Patches]] brought down one of the enraged elementals and noted a red glow from within as it crumbled: an uncut ruby, its light fading as it tumbled to the ground. As the glow died, a burst of red lightning arced into the nearby stone. Moments later, the rock surged and another elemental emerged.
 
-As the group braces and defends from the elemental onslaught, a blue glow appears on the ground near the standing stone.
+[[tarkathee-daru|Tark]] shadowstepped to the second Galeb Duhr to protect it. He and the crystal figure were rushed immediately.
 
-A glowing crystal hand reaches from the stone and a roughly humanoid crystal creature, wide and squat, pulls itself from the stone.
+## The Gemhearts
 
-The crystalline Galeb Duhr slams its fists together and its glow intensifies.
+[[gundren-rockseeker|Gundren]] and [[gwen|Gwen]] had been wrestling with their own elemental — the thing attempting to drag the dwarf into the stone floor. Despite [[gwen|Gwen]]'s assistance, the creature proved inexorable and Gundren was pulled beneath a suddenly malleable surface, surrounded by liquid-like rock and total darkness.
 
-The standing stone begins to glow, previously invisible runes and carvings beginning to illuminate up its length and a shimmering field of blue energy begins to radiate from the stone.
+He enacted his gauntlet and punched the elemental point-blank. The chemical charge detonated with a thunderclap.
 
-The nearby elementals roar in anger and turn toward the Galeb Duhr, several charging the thing to destroy it and stop it from cleansing the area.
+The cavern floor exploded upward like an underwater detonation, but the rock re-hardened the instant it left the elemental's magical influence, showering the area with gravel and stone shards. Gundren scrambled from the pit, grabbed his rifle, spun, and fired. The first two shots shattered the creature's chest, exposing a glowing uncut ruby. The third destroyed the gem — a shower of red sparks and shattered crystal cascading across the stone. No arc of lightning reached out to animate more rock.
 
-Two more spots begin to glow on the stone, blue light pouring from cracks in the earth, creating three points of an equilateral triangle around the Menhir.
+Gundren bellowed over the gale-force winds and rumbling thunder: *Destroy the gemhearts!*
 
-Cirrus sees the Elementals charging the crystal creature and decides to protect it with everything he has, Farstepping to the thing and enacting a sphere of force around them both, effectively cutting himself and the Galeb Duhr off from the surrounding conflict.
+As the elementals fell one by one, their gems shattered and the chaotic energies of the Bane banished, the swirling red lightning entity released two final blasts and then dove into the stone. The blasts animated two more elementals that charged the nearest Galeb Duhr.
 
-One elemental slams against the invisible barrier, smashing away with no results.
+Then the cavern shook. A massive elemental creature — easily twenty feet tall — pulled itself from the rock behind the menhir, red lightning flickering around its towering form. It strode forward and brought its stone fists crashing down on the nearest Galeb Duhr, cracking and shattering the crystal creature. The Galeb's legs gave way but it righted itself as best it could, continuing its work.
 
-The red lightning cloud flashes angrily and the Elementals turn their attention away from the protected Galeb, focusing instead on the party and the other two crystal figures pulling themselves from the glowing spots of stone.
+[[feanon-serinde|Feanon]] unleashed a lightning bolt directly into the behemoth. The energies were absorbed entirely by the red lightning aura. The monster struck again, smashing the injured Galeb to a softly glowing pile of crystalline rubble.
 
-Feanon finds himself quickly surrounded out in the open, but enacts a Gravity well and Mirror image as he is swarmed by Cockatrice and angry elementals.
+[[aliyah-faen-tlabbar|Patches]] stepped into the behemoth's path.
 
-Patches manages to take down one of the enraged elementals, noting a red glow from within it as it crumbles, an uncut ruby losing its glow and tumbling to the ground.
+She rushed in, calling on her blade to blur her form, and dueled the thing — stalling it while the others finished their individual fights. [[tarkathee-daru|Tark]] leapt behind it; [[gundren-rockseeker|Gundren]] opened fire; [[feanon-serinde|Feanon]] finished disintegrating the last of the cockatrice and turned his attention to the colossus. Together they kept it from reaching the remaining Galeb Duhr, buying the crystalline creatures the time they needed.
 
-The Drow notes that as the glow fades, a burst of red lightning arcs out and into the nearby stone.
+A flash of blue light washed over the entire cavern. Every enraged elemental crumbled to rubble instantly. The behemoth began to fall, and as it did, the red lightning storm was shunted from its body, thrown across the cavern and down the nearby tunnel — the crimson light illuminating the ranks of petrified Drow as it fled.
 
-Moments later, the stone in that area surges and another Elemental emerges into the battle.
+The group stood in the sudden silence, breathing hard and drenched in sweat.
 
-Tark shadowsteps to the Galeb Duhr, intent to protect the creature emanating the Hallowing energies.
+## The Basilisks
 
-He and the crystal figure are rushed by an enraged elemental.
+As they rested, [[gundren-rockseeker|Gundren]] harvested elemental motes from the dead creatures. Both [[feanon-serinde|Feanon]] and [[cirrus-al-kayan|Cirrus]] confirmed the Hallow spell had succeeded — the holy aura of the place was unmistakable.
 
-Gundren and Gwen meanwhile have been battling their own elemental, the thing attempting to grab Gundren and pull him into the stone…
+[[tarkathee-daru|Tark]] and [[aliyah-faen-tlabbar|Patches]] became aware of two large creatures in a tunnel some distance away and went to investigate. They found two massive basilisks — eight-legged, plate-spined lizards — consuming the shattered remains of a petrified cave badger.
 
-Wrestling the thing, and with Gwen’s assistance, Gundren manages to avoid being dragged under at first, but quickly finds the thing to be inexorable and is pulled beneath a suddenly malleable cavern floor.
+Sneaking past the distracted creatures, Tark and Patches entered an old Svirfneblin chamber. Blocking most of the entrance was another petrified badger, with five flesh-and-blood cubs snuffling around its stony feet.
 
-As all goes dark and he finds himself surrounded by liquid-like stone, Gundren enacts his powerful gauntlet and punches the Elemental point blank, the Chemical charge in the gauntlet housing detonating with a thunderclap.
+The group decided to save them. Moments later both basilisks lay dead — the rest of the party drawing their attention while Tark and Patches ambushed from behind. Tark dragged a reluctant [[cirrus-al-kayan|Cirrus]] to the parent badger to restore it to flesh, enduring the warlock's passive-aggressive commentary the entire way. Patches extracted an intact basilisk eye, sealing it in a jar — she knew its petrifying properties from her Drow training.
 
-The cavern floor where Gundren was pulled under, explodes upward like an underwater detonation, but as the rock and stone leaves the magical influence of the elemental, it re-hardens, showering the area with gravel, sand and larger rock shards.
+Cirrus and Tark returned to happy snuffling from the tunnel behind them.
 
-Gundren scrambles from the pit, the elemental in pursuit, and grabs his rifle.  He spins and blasts the creature as it lunges, Gwen leaping on its back.
+## The Petrified Army
 
-The first two shots shatter the “chest” of the vaguely humanoid thing, revealing a glowing uncut ruby.
+[[cirrus-al-kayan|Cirrus]] began to complain that they had done their part and needed to move on. [[aliyah-faen-tlabbar|Patches]] pointed out that she had a directive from [[eilistraee|her goddess]] to confront the cursed Priestess of [[lolth|Lolth]]. Cirrus reluctantly agreed.
 
-His final shot, he destroys the ruby and a shower of red sparks and shattered gem cascades over the area.  No arc of lightning reaches out to touch the stone from this one and Gundren has an epiphany.
+The group pressed south, following the direction the red lightning had fled, toward the petrified Drow. They approached the small army of statues cautiously. Not wanting to leave potential enemies behind them, they worked methodically — maneuvering each statue into Cirrus's bag of Devouring. On the third attempt, one ground to life and lunged at the party, only to be overpowered and forced into the bag.
 
-The Dwarf yells out over the din of the galeforce winds and rumbling of thunder - DESTROY THE GEMHEARTS!
+Four hours of methodical destruction followed. Tonnes of statues, cleared one by one.
 
-As the Elementals begin to be destroyed, their gems shattered and the chaotic energies of The Bane being banished, the swirling entity of red lightning releases two more blasts and then dives into the nearby stone.
+Near the end, they found two Svirfneblin statues standing back to back among the ruins — a young male holding up an empty hand where a crystal had once been, and a female with strangely sharp features, a long nose and larger ears giving her a rat-like appearance.
 
-The blasts of lightning animate two more elementals that charge the nearest Galeb Duhr, trying to overwhelm Patches and Tarks defense of the creature.
+Beyond the cleared field, a grand edifice came into view: a large mansion cut into the stone, a waterfall cascading from its front, two sweeping staircases rising from the cavern floor to a balcony above. Petrified Drow stood motionless at its entrance.
 
-The cavern begins to shake, and moments later, a massive elemental creature pulls itself from the stone of the cavern behind the Menhir and close to a point of the Galeb Durh triumvirate. 
+[[aliyah-faen-tlabbar|Patches]] bet everyone that was where a stereotypically narcissistic priestess would be.
 
-Easily twenty feet tall, the humanoid elementa strides forward to smash the Crystal Galeb, red lighting flickering around its towering form.
-
-Its massive stone fists come crashing down atop the Galeb, smashing and cracking the crystal creature.
-
-Its legs shatter under the impacts and it falls, though it rights itself as best it can and continues its work to Hallow the area.
-
-Feanon sees the assault from the massive elemental and unleashes a blinding Lightning Bolt directly into it. 
-
-Alas, it proves ineffective and he watches as the energies are absorbed by the red lightning aura of the creature.
-
-The behemoth smashes down again on the injured Galeb and smashes the creature completely, leaving only a soft glowing pile of crystalline rubble.
-
-The enraged earth elementals let out a unified “howl”, sounding more like the crushing of rock and the Behemoth strides toward the next crystal creature.
-
-This time however, Patches stands in its way.
-
-The rogue rushes in to engage the thing, calling upon her blade to blur her form and shield her from harm.
-
-She duels the thing, stalling it effectively, allowing the group to finish off their individual elementals.
-
-The blue shield of the Hallow spell continues to expand and grow more powerful, everywhere it touches it dispels the desecration.
-
-Tark leaps behind the behemoth and attacks just as Gundren begins to blast it with his Rifle.  
-
-Feanon finishes disintegrating the attacking Cockatrice and turns his attention toward it as well.
-
-With the combined effort of the group, they keep the massive elemental from attacking the other Galeb Duhr, giving the crystalline creatures the time they need to finish the Hallowing.
-
-A flash of blue light washes over the entire cavern and every enraged elemental instantly crumbles to rubble.
-
-As the massive behemoth begins to fall, the red lightning storm is shunted from the body and thrown across the cavern.
-
-The group watches as the entity is pushed away and down the nearby tunnel, the red lighting illuminating the ranks of petrified Drow.
-
-Breathing heavily and sweating from the effort, the group takes a moment to recuperate and reflect on the outcome of the battle.
-
-
-As they take a rest, Gundren begins harvesting elemental motes from the dead creatures.
-
-Feanon and Cirrus both look over the site of the battle and easily recognize that the Hallow spell was a success, indeed, the entire group can now sense the holy aura of the place.
-
-As they rest, Tark and Patches are made aware of two large creatures down a tunnel some ways away and they head to investigate.
-
-As they approach, they see two large Basilisks; massive lizards with eight legs, plated spines and a petrifying gaze.
-
-They are consuming the corpse of a Cave Badger, the thing petrified and shattered with the Basilisks greedily consuming the pieces.
-
-Tark and Patches hear snuffling from further down the tunnel and sneaking past the distracted Basilisks, they enter an old Svirfneblin chamber.
-
-Almost blocking the way inside though, is another petrified Badger with 5 flesh and blood cubs all sniffing around it’s stony feet.
-
-The group decides to save them and moments later both Basilisks lie dead, having been attacked by the rest of the party as a distraction and then ambushed from behind by Tark and Patches.
-
-Tark drags an annoyed Cirrus toward the parent Badger to restore it to flesh and blood, despite the Warlock’s passive agressive comments…
-
-Patches manages to rip out an intact Basilisk eye and put it in a jar, knowing it’s petrifying nature from her Drow training.
-
-Cirrus and Tark return a few minutes later, the sounds of happy Badgers emanating from the tunnel behind them.
-
-Cirrus rolls his eyes and begins to complain as the rest of the group decides to head south to deal with the Stone Priestess.
-
-Cirrus says they’ve done their part and need to move on, but Patches points out that she has a directive from her goddess to confront this cursed Priestess of Lolth.
-
-Cirrus reluctantly agrees and the group presses on, heading south, in the direction the red lightning cloud fled and toward the Drow statues.
-
-They cautiously approach the small army of petrified Drow.
-
-Not wanting to take any chances, or potentially leave enemies behind them, the group decides to move through the crowd methodically, maneuvering each statue into Cirrus’ bag of Devouring.
-
-Sure enough, on the third statue, it grinds to life and tries to attack the party, only to be overpowered and forced into the bag.
-
-They head through the crowd, one by one, and spend the next four hours methodically destroying the army of statues.
-
-They clear their way toward two Svirfneblin statues, petrified fighters standing back to back amongst a cluster of ruined statues.
-
-The young male seems to have tried the same trick as before, holding up a crystal to diffuse the petrifying gaze, though the crystal in his hand is gone.
-
-The other deep gnome has strangely sharp features, a long nose, larger ears and teeth, giving her a rat-like feel.
-
-The group is exhausted from moving several tonnes of statues.
-
-As the group finishes devouring the Drow statues, they get eyes on the large chamber with the Fire beetles.
-
-They see a grand edifice cut into the stone, a large mansion with a waterfall cascading from the front and two swooping staircases rise from the cavern floor to the edifice balcony.
-
-Petrified Drow can be seen standing guard, motionless outside the grand Svirfneblin manor.
-
-Patches bets everyone that’s where a stereotypically narcissistic priestess would be.
-
-The group decides to camp out and take a short rest to recuperate and before heading back to town for a longer rest. 
-
-While they do this, they maneuver the petrified Deep Gnomes into bags of holding to be returned to their people.
+The group made camp for a short rest, maneuvering the petrified Deep Gnomes into [[bag-of-holding|bags of holding]] to be returned to their people.

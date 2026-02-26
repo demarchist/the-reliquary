@@ -1,11 +1,13 @@
 ---
-title: "The Underdark - The Wyrm's Court"
+title: The Underdark - The Wyrm's Court
 chapter: 8
 chapterTitle: The Underdark
 session: 16
 summary: "Themberchaud's audience laid bare Gracksuluth's grim history of Wyrmsmiths, and the party's intelligence network took shape — Hemeth and Chadle at the Shattered Spire, the Derro contact Droki as a lead, and the shadow of a Narzugon at the Overlake Hold."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
+  - "chadle"
   - "cirrus-al-kayan"
   - "doc"
   - "droki"
@@ -18,21 +20,28 @@ people:
   - "ront"
   - "snorbul"
   - "tarkathee-daru"
+  - "themberchaud"
   - "veygar"
+  - "xuefang-the-adamant"
 places:
   - "baldurs-gate"
   - "blingdenstone"
   - "darklake"
+  - "shattered-spire"
   - "underdark"
   - "velkynvelve"
+  - "west-cleft"
+  - "whorlstone-caverns"
 things:
+  - "faerzress"
   - "hew"
-  - "the-last-word"
 factions:
   - "derro-faction"
   - "drow-faction"
   - "duergar-faction"
+  - "grey-ghosts"
   - "stoneguard"
+  - "svirfneblin-faction"
 ---
 
 ## The Wyrmsmith

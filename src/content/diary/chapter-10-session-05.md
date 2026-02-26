@@ -5,6 +5,7 @@ chapterTitle: Beyond the Veil
 session: 5
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "beryan"
   - "bolg"
   - "cercei"

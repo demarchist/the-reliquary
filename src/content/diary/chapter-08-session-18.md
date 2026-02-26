@@ -1,33 +1,39 @@
 ---
-title: "The Underdark - The False Monk"
+title: The Underdark - The False Monk
 chapter: 8
 chapterTitle: The Underdark
 session: 18
 summary: "The cursed giant had a grieving husband — Dorhun, who invited the group to Cairngorm and the Stone Giant elders who knew the path to Gravenhollow — while Cirrus entered the West Cleft naked and blood-covered to bluff his way to Droki and a meeting with Bilrigger, and Tark's solo investigation into Rilka ended in a room full of vampire spawn and a revelation that shattered him: Kenshi had never existed."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
+  - "bilrigger"
   - "cirrus-al-kayan"
   - "claudine"
   - "doc"
   - "droki"
   - "feanon-serinde"
-  - "fen"
   - "gaddock"
   - "gundren-rockseeker"
+  - "ilvara-mizzrym"
   - "intent"
   - "kenshi"
   - "madame-eva"
   - "mediocris-dente"
+  - "milgre"
   - "orcus"
   - "ront"
-  - "selune"
+  - "shar"
   - "tarkathee-daru"
+  - "themberchaud"
   - "zhengyi"
 places:
   - "gracksuluth"
   - "gravenhollow"
   - "menzoberranzan"
-  - "underdark"
+  - "rockseeker-manufactory"
+  - "shattered-spire"
+  - "west-cleft"
 things:
   - "gwen"
   - "hew"
@@ -38,6 +44,7 @@ factions:
   - "drow-faction"
   - "duergar-faction"
   - "stoneguard"
+  - "warlocks-of-ceregorach"
 ---
 
 ## Dorhun

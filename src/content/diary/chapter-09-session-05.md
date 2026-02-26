@@ -1,29 +1,28 @@
 ---
-title: "The Demon Lords - The Chardalyn Mine"
+title: The Demon Lords - The Chardalyn Mine
 chapter: 9
 chapterTitle: The Demon Lords
 session: 5
 summary: "The group pushed deeper into the Netherese mine — extracting Chardalyn, battling a malevolent Earth Elemental, and dealing with Snorbul's catastrophic curiosity in the barracks — before the Duergar accidentally unsealed a Chardalyn sarcophagus that had imprisoned something ancient and terrible for three thousand years."
 people:
-  - aliyah-faen-tlabbar
-  - cirrus-al-kayan
-  - feanon-serinde
-  - fen
-  - gundren-rockseeker
-  - intent
-  - ront
-  - snorbul
-  - thorna
-  - val-tengu
+  - "aliyah-faen-tlabbar"
+  - "ares"
+  - "cirrus-al-kayan"
+  - "feanon-serinde"
+  - "gundren-rockseeker"
+  - "intent"
+  - "ront"
+  - "snorbul"
+  - "thorna"
+  - "val-tengu"
 places:
-  - abyss
-  - snorbuls-hole
-  - underdark
+  - "abyss"
+  - "underdark"
 things:
-  - chardalyn
-  - tavern-of-doors
+  - "chardalyn"
+  - "tavern-of-doors"
 factions:
-  - duergar-faction
+  - "duergar-faction"
 ---
 
 The group stripped the fallen Duergar of everything useful: weapons, armor, keys, a letter, and a jar of Keoghtom's Ointment.

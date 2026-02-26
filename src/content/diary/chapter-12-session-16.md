@@ -5,6 +5,7 @@ chapterTitle: Al Askar
 session: 16
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "djoser"
   - "doc"

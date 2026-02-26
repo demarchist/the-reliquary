@@ -6,6 +6,7 @@ session: 3
 summary: "Lothli reunites with the party at the ruins of Thundertree, Reidoth reveals the location of Cragmaw Castle, and the group infiltrates the goblin fortress to rescue Gundren Rockseeker from a Doppelganger agent of the Black Spider."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "black-spider"
   - "doc"
   - "feanon-serinde"

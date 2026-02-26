@@ -6,6 +6,7 @@ session: 2
 summary: "The group arrives at the cursed village of Barovia, encounters the hag Morgantha selling children-meat pastries, acquires the child Chekov as a ward, and meets the deadly Gowain — a teleporting madman who slits a hostage's throat before clashing with the group in a vicious street fight."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "baba-lysaga"
   - "chekov"
   - "feanon-serinde"

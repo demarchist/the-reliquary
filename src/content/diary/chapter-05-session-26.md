@@ -7,6 +7,7 @@ summary: "The group rests in the ruins of Ravenloft, meets Cercei — a black dr
 people:
   - "aliyah-faen-tlabbar"
   - "anaxtrasa"
+  - "ares"
   - "barthen"
   - "cercei"
   - "ezmerelda"

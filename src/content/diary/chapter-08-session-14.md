@@ -1,11 +1,12 @@
 ---
-title: "The Underdark - The Nautiloid"
+title: The Underdark - The Nautiloid
 chapter: 8
 chapterTitle: The Underdark
 session: 14
 summary: "Extortion by the second Lock's captain sent Tark alone onto the Illithid nautiloid while Patches dismantled the barracks from the inside — and when the group paid and moved on, demons had already destroyed the third Lock ahead of them, leaving one survivor and a clear warning of what was growing in the deep."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "cirrus-al-kayan"
   - "demogorgon"
   - "doc"
@@ -13,10 +14,10 @@ people:
   - "gundren-rockseeker"
   - "hemeth"
   - "ilvara-mizzrym"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "kenshi"
   - "madame-eva"
+  - "moot"
   - "orcus"
   - "ront"
   - "snorbul"
@@ -28,6 +29,7 @@ places:
   - "shatterpeak"
   - "underdark"
 things:
+  - "hew"
   - "piwafwi"
   - "saurian-firelance"
 factions:
@@ -35,6 +37,7 @@ factions:
   - "duergar-faction"
   - "illithid-faction"
   - "netherese"
+  - "saurians"
   - "svirfneblin-faction"
 ---
 

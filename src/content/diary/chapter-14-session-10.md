@@ -4,6 +4,7 @@ chapter: 14
 session: 10
 people:
   - "aliyah-faen-tlabbar"
+  - "bohd"
   - "bolg"
   - "chani"
   - "cirrus-al-kayan"
@@ -15,6 +16,7 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "miranda"
   - "ruthir"
   - "shar"
   - "surtr"

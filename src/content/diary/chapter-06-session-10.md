@@ -6,6 +6,7 @@ session: 10
 summary: "After parting ways with a young Red Dragon at the hot springs, the group is ambushed in a farmhouse by an Oni demon disguised as a travelling bard — leading to a desperate battle through a blizzard as the creature flees with a stolen baby."
 people:
   - "aliyah-faen-tlabbar"
+  - "ares"
   - "bahamut"
   - "chani"
   - "feanon-serinde"

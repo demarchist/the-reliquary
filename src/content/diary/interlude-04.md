@@ -1,25 +1,24 @@
 ---
-title: "The Eye of the Storm"
+title: The Eye of the Storm
 chapter: 15
-chapterTitle: "Interludes"
+chapterTitle: Interludes
 session: 4
 people:
-  - "althul"
   - "ares"
-  - "asha-bellana"
   - "aurelian"
-  - "azoo-the-archer"
-  - "fellasin-stormwing"
-  - "gzunteit-the-bold"
-  - "kalphena-the-wise"
-  - "the-black-arrow"
+  - "bahamut"
+  - "ella"
+  - "intent"
+  - "li-xian"
+  - "madame-eva"
   - "themberchaud"
   - "vakuun-the-dreadblade"
-  - "vulkan"
-  - "xuefang-the-adamant"
   - "zhengyi"
 places:
-  - "vaasa"
+  - "shadowfell"
+  - "shou-lung"
+things:
+  - "eclipse"
 factions:
   - "dragons-of-shou-lung"
 ---

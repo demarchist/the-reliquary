@@ -3,9 +3,11 @@ title: The Demon Lords - The Medusa
 chapter: 9
 chapterTitle: The Demon Lords
 session: 16
+summary: "Cirrus scouted the Stone Priestess's lair with his bat familiar, revealing a Medusa Drow surrounded by the Bane's red lightning, a massive armored basilisk, and ranks of petrified Drow. The group returned to Blingdenstone to un-petrify Trisk and a wererat girl named Boulda, collected Chardalyn resonant bells, and devised an elaborate plan to lure the delusional priestess into a fake Chapel of Lolth."
 people:
   - "aliyah-faen-tlabbar"
   - "bane"
+  - "boulda"
   - "cirrus-al-kayan"
   - "doc"
   - "eilistraee"
@@ -13,7 +15,6 @@ people:
   - "gaddock"
   - "gundren-rockseeker"
   - "gurnik"
-  - "intent"
   - "lolth"
   - "ront"
   - "tarkathee-daru"
@@ -28,118 +29,46 @@ factions:
   - "svirfneblin-faction"
 ---
 
-The group takes a rest and has Cirrus begin to scout the next section of the caverns.
+The group rested while [[cirrus-al-kayan|Cirrus]] sent his familiar — a small bat — down the tunnels to scout.
 
-Summoning his familia as a small bat, Cirrus sends the creature down the tunnels.
+Seeing through its eyes, he noted nesting cockatrice that tracked the fluttering creature with predatory interest. The bat made it into the massive cavern chamber they had glimpsed before: the one with the fire beetles. The melee there had escalated. A monstrous fire beetle the size of an elephant spouted jets of flame across attacking cockatrice, burning them away while smaller beetles surged forward to consume the crackling corpses.
 
-Seeing through its eyes, he notes that there are many nesting Cockatrice and they take note of the fluttering bat.
+The bat hid among the shadows, lost the cockatrice's interest, and pushed south.
 
-He makes it into the massive cavern chamber they saw before, with the Fire Beetles and notes that the melee there has escalated.
+## The Stone Priestess
 
-A monstrous Fire-beetle, the size of an elephant can be seen spouting jets of flame across the attacking Cockatrice, burning many away and letting the smaller beetles surge forwards to consume the crackling corpses.
+The familiar approached the grand edifice — the mansion carved into rock, waterfall spilling from the front, sweeping staircases rising to the second level. Petrified Drow stood guard outside. The bat fluttered inside and Cirrus's report grew tense.
 
-The bat takes a moment to hide among the shadows, losing the interest of the Cockatrice.
+He described dozens of petrified Drow standing in ranks, filling the great hall. At the far end, on a raised platform flanked by twin staircases, sat a throne. Standing near it was the Medusa — a Drow priestess whose hair writhed with living snakes. Red lightning flickered around her in an aura: the Bane had found a new host.
 
-The bat then heads south, to investigate the grand edifice that makes up the southern end of the cavern.
+At her side, a massive basilisk covered in spider-carapace armour nested atop two stonelike eggs. Nearby: a treasure trove of jewels, gold, and chests, and an extravagant wardrobe of gowns and dresses.
 
-The bat approaches a large mansion, carved into the rock with a waterfall spilling from the front and two sweep staircases reaching from the cavern floor, to the second level of the building.
+Cirrus heard the woman rambling. [[aliyah-faen-tlabbar|Patches]] translated: the priestess was mad, muttering about her graduation nearing and needing to look her finest.
 
-Petrified drow can be seen standing guard.
+Cirrus broke the connection. The group considered their options. [[tarkathee-daru|Tark]] proved a surprising font of information — [[gaddock|Gaddock]] had once fought a Medusa, defeating it by turning its own gaze against it with a mirror. Cirrus confirmed he had seen mirrors in the creature's den, the vain priestess clearly fawning over herself.
 
-The bat flutters into the structure and Cirrus’ report comes out a bit more stressed.
+A direct assault was ruled out. The Bane's presence made it too dangerous.
 
-He describes dozens of petrified Drow, standing in ranks, filling the great hall of the place.
+## Trisk and Boulda
 
-At the far end, up on a raised section of floor and with two staircases leading up, is a throne.
+The group returned to [[blingdenstone|Blingdenstone]] to deal with the petrified Deep Gnomes. As they re-entered the main settlement, [[tarkathee-daru|Tark]] stopped, smelling sulphur. He and [[aliyah-faen-tlabbar|Patches]] narrowed it down to an almost imperceptible line of ooze trailing under the settlement's door. [[feanon-serinde|Feanon]] blasted it with a firebolt — the severed line retreated north with a hiss of acrid smoke.
 
-Standing near the throne, Cirrus spots the Medusa; the Drow Priestess, whose hair writhes, made of living snakes.
+Inside, commotion. Someone had exploded into corrosive jelly — one of the strangely behaving Deep Gnomes. The group realized the oddly acting Svirfneblin were being replaced by shapeshifting oozes and warned Chief Diggermattock.
 
-Red lightning flickers around her in an aura; The Bane has found a new host.
+While [[cirrus-al-kayan|Cirrus]] and [[gurnik|Gurnik]] worked to un-petrify the rescued Gnomes, [[gundren-rockseeker|Gundren]] and Patches headed to the Craftsmen's Hall to collect the [[chardalyn|Chardalyn]] spell gems they had commissioned. They found the gemcutters surrounded by an excited crowd. The gems had been fitted into resonant bells — an ingenious design by one of the Svirfneblin craftsmen who had discovered that cracked Chardalyn releases its spell and then reforms over time. Chief Diggermattock announced his interest in a formal trade deal for more Chardalyn.
 
-At her side is a massive Basilisk, covered in spider carapace armor that appears to be nesting atop two stonelike eggs.
+Back at the shrine, Cirrus finished restoring Trisk. The young warrior reported his story: he had taken a resurrection stone — an expensive diamond — hoping to diffuse the Medusa's glare, which had not worked. As he fought her minions, an unknown Deep Gnome girl had come to his aid. He gestured to the still-petrified figure.
 
-Nearby, a treasure trove of jewels, gold and chests can be seen, as well as an extravagant wardrobe of gowns and dresses.
+When the girl was revived, the group discovered her to be a wererat — [[boulda|Boulda]], from the warren to the northwest. She had helped Trisk because she could not stand by and watch him die. Cirrus offered her and her kin a place to live at the Barony. She crinkled her nose and rejected the offer outright — [[blingdenstone|Blingdenstone]] was their home.
 
-Cirrus hears the woman rambling and repeats the words to Patches, who translates.
+The Svirfneblin watched with cold disdain but no hostility. Boulda took her leave quickly. Trisk rushed after her.
 
-They hear that the Drow Priestess is mad, rambling that her graduation nears and that she must look her finest.
+[[gurnik|Gurnik]] explained the situation: the wererats were enigmatic — not attacking or causing outright problems, but not helping the settlement either. The general sentiment was that they were a disease to be cured, but not a pressing one.
 
+## The Plan
 
-Cirrus breaks the connection and the group goes over their options.
+The conversation turned to the Stone Priestess. The group and Gurnik devised an elaborate scheme: Earth Elementals would earth-glide them to the rear of the Medusa's lair. There, a small cavern would be excavated and glamoured with Hallucinatory Terrain to look like Arach Tinilith — the grand academy of [[lolth|Lolth]]. They would draw the priestess from her forces, rekindle her delusions about her graduation, and deal with her alone.
 
-Tark is a surprising font of information as Gaddock had once fought a Medusa, defeating it with a mirror to turn its own gaze upon itself.
+[[aliyah-faen-tlabbar|Patches]] reminded everyone that the priestess was hers to deal with ultimately — a commandment from [[eilistraee|Eilistraee]]. This irked [[tarkathee-daru|Tark]], and as he concentrated, analysing his friend, he realized she was under a divine compulsion.
 
-There is some confusion over the comments, as Cirrus DID note mirrors in Medusa’s den, the vain priestess clearly fawning over herself when he was watching.
-
-The group decides that assaulting the Medusa directly is a foolhardy proposition, especially with evidence of the Bane still existing.
-
-The group returns to the city to un-petrify Trisk and the unknown Svirfneblin girl.
-
-As the group returns to the main settlement, Tark stops, smelling sulfur.
-
-He points it out and between he and Patches, manage to narrow down the smell.
-
-They find an almost imperceptible line of ooze, smelling distinctly of Sulfur that trails into the settlement proper, the line going under the door.
-
-Without any argument, they decide to cut the ooze-line, the thing releasing a hiss of acrid smoke as Feanon blasts it with a powerful Firebolt.
-
-Like an elastic line being cut, the thing retreats to the north and the group re-enters blingdenstone proper.
-
-As they re-enter the settlement to head to Gurnik, the group notes that there is a bit of commotion, and after some asking, they find out that someone exploded into corrosive Jelly.  When pressed, it was one of the strangely acting Deep Gnomes.
-
-The group realizes that the strangely acting Svirfneblin are most likely being replaced by shapeshifting oozes and they intend warn Chief Diggermattock.
-
-As Cirrus and Gurnik do their thing, Gundren and Patches head to the Craftsmen hall to retrieve the Chardalyn spell gems they commissioned.
-
-When they arrive, they find a great many of the Svirfneblin craftsmen crowding the Gemcutters.
-
-Approaching, Patches and Gundren find the leader of the Deep Gnomes looking over the Spell Gems.
-
-The Gems though, are contained in Resonant Bells, an ingenious design by one of the Svirfneblin Gemcutters when he noted that the Chardalyn, when cracked, will release its spell and then reform over time.
-
-They collect the Resonant Bells and Chief Diggermattock announces that he is very interested in a potential trade deal for more Chardalyn.
-
-The group warns Diggermattock of the potential Ooze incursion and he says he will begin working on a solution.
-
-Back at the shrine, Cirrus finishes Restoring Trisk and begins the ceremony for the girl.
-
-Trisk reports his story; Taking a resurrection stone (expensive Diamond) to diffuse the Medusa’s glare (which did not work), as he was battling her minions, this unknown Deep Gnome came to his aid (gesturing to the petrified girl).
-
-Trisk also tells the group that the Ghost of the Burrow Warden has been training his friends and him.
-
-After the girl is revived, the group discovers her to be a were-rat, hailing from the warren to the Northwest.  She assisted Trisk because she could not just watch him die.
-
-Cirrus relates that he has two very nice Wererats at home and offers the girl and her kin a place to live.  
-
-She crinkles her nose at the offer, rejecting it outright and stating that Blingdenstone is their home.
-
-Though treated with some coldness and some stern stares, none of the Svirfneblin attack the wererat, but the disdain is obvious.
-
-The girl quickly takes her leave when no one moves to hinder her.
-
-Trisk rushes on after the girl and Gurnik talks to the group.
-
-The Wererats are enigmatic, not attacking or causing outright issues, but not helping the settlement either and keeping to themselves.
-
-There have been a few clashes, but seem to be mostly misunderstandings rather than outright hostile actions.
-
-The general sentiment seems to be that the Wererats are a disease to be cured, but not a pressing one.
-
-
-The changes the conversation to The Stone Priestess and how to deal with her.
-
-They report to Gurnik what they have found and they come up with a plan.
-
-They will have Earth Elementals Earth Glide the group to the rear of the Medusa’s lair.
-
-There, a small cavern will be excavated and glamoured by a Hallucinatory terrain to look like Arach Tinilith, the grand academy of Lolth.
-
-The group will then draw the Stone Priestess from her forces, making her think she is relieving her graduation and then “deal” with her alone.
-
-Patches reminds everyone that the priestess is hers to deal with ultimately; a commandment from Elistraee.
-
-This irks Tark and as he concentrates, analyzing his friend, he realizes that she is under a divine compulsion to do this.
-
-When pressed, Patches reveals that she is terrified of death, as it would deliver her apostate soul directly to Lolth for eternal torture.
-
-She hopes that by serving the Moonlight Dancer, she will save herself and her son from the eternal damnation her people endure in The Abyss…
+When pressed, Patches revealed that she was terrified of death. It would deliver her apostate soul directly to [[lolth|Lolth]] for eternal torture. She hoped that by serving the Moonlight Dancer, she would save herself and her son from the eternal damnation her people endured in [[abyss|The Abyss]].

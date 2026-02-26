@@ -1,44 +1,48 @@
 ---
-title: "The Demon Lords - Interlude"
+title: The Demon Lords - Interlude
 chapter: 9
 chapterTitle: The Demon Lords
 session: 7
-summary: "A quiet day of recovery and uneasy diplomacy over the Quil'Sygoth sarcophagus ended with a hard-won dinner truce — which was immediately shattered when the Abolethic Sovereignty attacked New Daggerford in the rain and dragged civilians toward the lake."
+summary: A quiet day of recovery and uneasy diplomacy over the Quil'Sygoth sarcophagus ended with a hard-won dinner truce — which was immediately shattered when the Abolethic Sovereignty attacked New Daggerford in the rain and dragged civilians toward the lake.
 people:
-  - aliyah-faen-tlabbar
-  - beryan
-  - cirrus-al-kayan
-  - claudine
-  - doc
-  - eilistraee
-  - feanon-serinde
-  - gundren-rockseeker
-  - horatio-von-bumidere
-  - intent
-  - madame-eva
-  - pickles
-  - selune
-  - sera-von-bumidere
-  - shar
-  - snorbul
-  - surtr
-  - tarkathee-daru
-  - thorna
+  - "aliyah-faen-tlabbar"
+  - "beryan"
+  - "cirrus-al-kayan"
+  - "claudine"
+  - "doc"
+  - "eilistraee"
+  - "feanon-serinde"
+  - "gundren-rockseeker"
+  - "horatio-von-bumidere"
+  - "lady-faye"
+  - "lodan"
+  - "madame-eva"
+  - "pickles"
+  - "ront"
+  - "selune"
+  - "sera-von-bumidere"
+  - "shar"
+  - "snorbul"
+  - "surtr"
+  - "tarkathee-daru"
+  - "thorna"
 places:
-  - astral-plane
-  - daggerford
-  - evermeet
-  - fane-of-selune
-  - feanons-tower
-  - kossenberg
-  - rockseeker-manufactory
-  - the-crossroads
-  - the-establishment
+  - "astral-plane"
+  - "daggerford"
+  - "evermeet"
+  - "fane-of-selune"
+  - "feanons-tower"
+  - "keep-of-thunder-bluff"
+  - "kossenberg"
+  - "rockseeker-manufactory"
+  - "snorbuls-hole"
+  - "the-crossroads"
+  - "the-establishment"
 things:
-  - chardalyn
-  - well-of-many-worlds
+  - "chardalyn"
+  - "well-of-many-worlds"
 factions:
-  - bedine
+  - "bedine"
 ---
 
 Back in the barony, the group scattered.

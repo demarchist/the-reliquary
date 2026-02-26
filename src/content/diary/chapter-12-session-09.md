@@ -4,6 +4,7 @@ chapter: 12
 chapterTitle: Al Askar
 session: 9
 people:
+  - "ares"
   - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"
