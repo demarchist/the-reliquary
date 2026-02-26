@@ -17,6 +17,7 @@ people:
   - "gundren-rockseeker"
   - "intent"
   - "jarlaxle"
+  - "kleve"
   - "li-xian"
   - "lolth"
   - "orcus"

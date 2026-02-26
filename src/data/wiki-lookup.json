@@ -1519,6 +1519,21 @@
     "title": "Iarno",
     "category": "People"
   },
+  "icewind dale": {
+    "slug": "icewind-dale",
+    "title": "Icewind Dale",
+    "category": "Places"
+  },
+  "ten towns": {
+    "slug": "icewind-dale",
+    "title": "Icewind Dale",
+    "category": "Places"
+  },
+  "ten towns of icewind dale": {
+    "slug": "icewind-dale",
+    "title": "Icewind Dale",
+    "category": "Places"
+  },
   "the illithid": {
     "slug": "illithid-faction",
     "title": "The Illithid",
@@ -1632,6 +1647,11 @@
   "the dark whistler": {
     "slug": "jack-mayer-johnson-mathews",
     "title": "Jack Mayer Johnson Mathews",
+    "category": "People"
+  },
+  "jacopo": {
+    "slug": "jacopo",
+    "title": "Jacopo",
     "category": "People"
   },
   "jade frog": {
@@ -1782,6 +1802,11 @@
   "klarg": {
     "slug": "klarg",
     "title": "Klarg",
+    "category": "People"
+  },
+  "kleve": {
+    "slug": "kleve",
+    "title": "Kleve",
     "category": "People"
   },
   "knights in silver": {
@@ -2294,6 +2319,11 @@
     "title": "Orcus",
     "category": "People"
   },
+  "palischuk": {
+    "slug": "palischuk",
+    "title": "Palischuk",
+    "category": "Places"
+  },
   "peade": {
     "slug": "peade",
     "title": "Peade",
@@ -2553,6 +2583,11 @@
     "slug": "selunia",
     "title": "Selunia",
     "category": "Places"
+  },
+  "senni": {
+    "slug": "senni",
+    "title": "Senni",
+    "category": "People"
   },
   "sera von bumidere": {
     "slug": "sera-von-bumidere",
@@ -2864,6 +2899,11 @@
     "title": "Temple of Helm",
     "category": "Places"
   },
+  "temura": {
+    "slug": "temura",
+    "title": "Temura",
+    "category": "People"
+  },
   "thayan drop box": {
     "slug": "thayan-drop-box",
     "title": "Thayan Drop Box",
@@ -3159,6 +3199,16 @@
     "title": "The Underdark",
     "category": "Places"
   },
+  "urmas": {
+    "slug": "urmas",
+    "title": "Urmas",
+    "category": "People"
+  },
+  "archivist of the present": {
+    "slug": "urmas",
+    "title": "Urmas",
+    "category": "People"
+  },
   "urwen": {
     "slug": "urwen",
     "title": "Urwen",
@@ -3167,6 +3217,16 @@
   "urwens": {
     "slug": "urwen",
     "title": "Urwen",
+    "category": "People"
+  },
+  "ustova": {
+    "slug": "ustova",
+    "title": "Ustova",
+    "category": "People"
+  },
+  "archivist of the future": {
+    "slug": "ustova",
+    "title": "Ustova",
     "category": "People"
   },
   "usurpers of rudjek": {
@@ -3282,6 +3342,11 @@
   "the undying king": {
     "slug": "vecna",
     "title": "Vecna",
+    "category": "People"
+  },
+  "veldyskar": {
+    "slug": "veldyskar",
+    "title": "Veldyskar",
     "category": "People"
   },
   "velkynvelve": {
@@ -3447,6 +3512,11 @@
   "the adamant": {
     "slug": "xuefang-the-adamant",
     "title": "Xuefang the Adamant",
+    "category": "People"
+  },
+  "yarshud": {
+    "slug": "yarshud",
+    "title": "Yarshud",
     "category": "People"
   },
   "yeenoghu": {

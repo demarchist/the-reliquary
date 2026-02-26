@@ -19,6 +19,7 @@ people:
   - "veygar"
 places:
   - "faerun"
+  - "icewind-dale"
   - "menzoberranzan"
   - "the-crossroads"
   - "underdark"

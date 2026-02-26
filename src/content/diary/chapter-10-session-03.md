@@ -3,9 +3,9 @@ title: Beyond the Veil - Visions pt2.
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 3
+summary: "The group delved deeper into Gravenhollow's visions. Cirrus discovered his mother's connection to Selune in Amn, Gundren envisioned a colossal mech suit, Feanon located an Illithid hive near Ched Nasad, Patches weighed futures against Lolth and Zuggtmoy, and Snorbul rode a crystal wyvern. The library was summoned by the banned entity Corpsetaker, spurring the group to plan a surprise attack."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "atropos"
   - "cercei"
   - "chani"
@@ -19,6 +19,7 @@ people:
   - "karsus"
   - "li-xian"
   - "lolth"
+  - "madame-eva"
   - "ront"
   - "ruthir"
   - "selune"
@@ -27,8 +28,10 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "theodemir"
+  - "urmas"
   - "val-tengu"
   - "veygar"
+  - "yarshud"
   - "zuggtmoy"
 places:
   - "abyss"
@@ -37,13 +40,14 @@ places:
   - "athkatla"
   - "ethereal-plane"
   - "faerun"
+  - "gravenhollow"
+  - "sanctum-of-krasus"
   - "silverymoon"
   - "the-labyrinth"
   - "underdark"
 things:
   - "delzoun-instant-fortress"
   - "gwen"
-  - "the-last-word"
 factions:
   - "amnians"
   - "drow-faction"
@@ -53,249 +57,78 @@ factions:
   - "zhentarim"
 ---
 
-Exhausted, the group retires to the individualized rooms, praying, studying or going over their kit before the next day.
+Exhausted from the day's visions, the group retired to their individualised rooms within [[gravenhollow|Gravenhollow]] — praying, studying, or going over their kit before the next day. [[snorbul|Snorbul]], however, exited the library entirely and began climbing the crystal pillar, searching for a suitably impressive spot to sleep. He wedged himself into a crack a hundred feet up, awed by the beautiful view, and drifted off.
 
-Snorbul however exits the library itself and begins climbing the crystal pillar to find a suitably impressive spot to rest.
+They woke to a feast laid out in each room. After eating, they set out to find more answers.
 
-He ends up about 100ft up and wedged deep in a crack in the crystal pillar.
+## Cirrus and the Moon Convent
 
-Awed by the beautiful view, the Deep Gnome begins to sleep.
+[[cirrus-al-kayan|Cirrus]] returned to the chamber of the Past, intent on learning about his mother. He asked the library to show him the happiest or most accomplished moment of her life.
 
-They awake the next day to a veritable feast laid out in each room 
+What he saw surprised him. The most accomplished moment appeared to be a religious vow taken in a convent of [[selune|Selune]] in [[amn|Amn]]. Shocked, [[cirrus-al-kayan|Cirrus]] took in every detail. It was indeed a shrine to the Moon Goddess, and his mother had been connected to her faith. Leading the ceremony was an ancient-looking elven man with wispy white hair and near-white eyes — [[yarshud|Yarshud]]. The elf smiled at the human woman, clearly proud and moved.
 
-each person eats before heading off to try and find more information.
+[[cirrus-al-kayan|Cirrus]] needed more. He scoured his mother's life as best he could. Born to a noble family, the first major event was during a festival in the streets of [[athkatla|Athkatla]]. The little girl who would become his mother got separated from her family and began to cry — until she bumped into the same elderly elf from the later vision. [[yarshud|Yarshud]] comforted the crying child, lifting her up to spot her parents over the crowd. It was her first brush with the faith.
 
-Cirrus heads back to the chamber of the past, intent on finding some information about his mother.
+She joined the Convent of [[selune|Selune]] as many noblewomen did — for education and training. The temple stood on the banks of the great lake of Esmel in southeastern [[amn|Amn]]. These were the happiest years of her life, learning and growing surrounded by good people in service of a good goddess. When she came of age, her noble family married her off to [[cirrus-al-kayan|Cirrus']] father.
 
-Wanting to try and find the happiest or most accomplished moment in her life, he begins to ask the Library to show him vision of the past.
+In the early years, Al Kayan was not so bad — young and ambitious, but not yet cruel. His closest allies were Shaahir Al Selemchant, the archmage and current leader of the Amnian Cowled Wizards, and Abdul Al Selemchant. Eventually something went wrong, and Al Kayan was forced into a deal with a Devil — the details were indistinct. Nine months later, [[cirrus-al-kayan|Cirrus]] was born bearing the signs of a Tiefling.
 
-What he is shown surprises him.
+Horrified, Al Kayan ripped the babe from its mother's arms and left the room, meeting with the Devil in an adjoining chamber. He handed the child over. The Devil walked to a balcony, smiling, and hurled the baby from the height on a moonless night. A hundred feet it fell, from the plateau of the noble estate to the gutter of the slums far below.
 
-The most accomplished moment of his mothers life appears to be when she took some kind of religious vow or promise...in a convent of Selune in Amn.
+But the baby did not die. It was caught by a vaguely humanoid void — something unseen, something watching — and gently lowered into the gutter. Alive, but abandoned. It was the start of [[cirrus-al-kayan|Cirrus']] harsh life.
 
-Shocked by this, Cirrus tries to take in the entire scene.
+## Gundren's Visions
 
-He confirms that this is indeed a shrine to the Moon Goddess and his mother was connected to her.
+[[gundren-rockseeker|Gundren]] scoured the Present for ways to increase his binding potential with magic items. The library showed him several paths — most involved an expansion of the soul, a gift or boon from a higher being. There were darker rituals too, which he ignored. More promising: ways to replicate magic items that did not require a bond, though the skill and materials would be limiting. Not a problem, he thought, for such a skilled artificer.
 
-Leading the ceremony is an ancient looking elven man, with wispy white hair and almost white eyes.
+He then sought something more dangerous than the enchanted tattoos of the Deep Gnomes. The vision was vague — bright lights, sand, primitive dwellings — and showed a strange-looking elf covered in intricate tattoos unlike anything he had seen.
 
-The Elf smiles at the human woman, clearly proud and moved by the ceremony.
+Still hungry for answers, [[gundren-rockseeker|Gundren]] headed to the chamber of the Future, already worn from the day's scrying. He searched for what he should invent for the upcoming artificer competition. Time and again, whenever he created something that could be mass-produced to swing the war, it ended up being abused. Every future where he armed the general population led to nothing but war and oppression.
 
-Cirrus needs to know more.
+So he focused on futures where he built things for himself and the group. He settled on one vision in particular: a great suit of armour, more vehicle than apparel, piloted from within the breastplate. It shared much of the same technology as [[gwen|Gwen]] but was far larger and more complex. The mechanisms and metals were reminiscent of what he had seen on the Plane of Mechanus and the Modron lifeforms that had built the [[delzoun-instant-fortress|Instant Fortress]]. These visions, coupled with the mark upon [[gundren-rockseeker|Gundren's]] head, pointed to a clear connection with Primus.
 
-He begins to scour through his Mothers life as best he can.
+Once again, [[gundren-rockseeker|Gundren]] had a flash of memory — a mountain stream and gleaming metal beneath the water.
 
-Born to a noble family, the first major event Cirrus sees is during a festival of some kind, the streets of the Amnian city of Athkatla bustling with people.
+## The Illithid Hive
 
-The little girl that will be his mother, gets separated from her family and begins to cry.
+[[feanon-serinde|Feanon]] searched the Present for signs of nearby [[illithid-faction|Illithid]] hives. He felt a familiar power to the southeast and followed it — hundreds of miles past the Dark Lake, tearing through the [[drow-faction|Drow]] city of Ched Nasad with its weblike bridges and inverted-pyramid cavern. The sensor descended past reconstructed sections, past poorer damaged districts, down through the rubble from the catastrophe a century earlier — all crushed to the bottom of the two-kilometre-high cavern. Deeper still, until the vision cut out. A consciousness touched his mind: the Hive of Eliatrope, Vision of the Infinite. It recognised a twinge of its kin within [[feanon-serinde|Feanon's]] power.
 
-Until she bumps into the same elderly elf Cirrus saw in the previous vision.
+He then turned to the chamber of the Future with two questions: when would his apprentice betray him, and could he give his clone body to [[theodemir|Theodemir]]?
 
-The man comforts the crying girl and picks her up to get a better view over the crowd and she quickly finds her parents (who were also looking for her)
+The visions of [[ruthir|Ruthir's]] future were curious — almost all ended with the lad being taken away by [[silverymoon|Silverymoon]] authorities, though the details were vague. Resolving to investigate the apprentice he had taken in, [[feanon-serinde|Feanon]] turned to the clone. It could indeed be given to [[theodemir|Theodemir's]] spirit, though there appeared to be a side effect — nothing life-threatening, but something obscured.
 
-This seems to be her first brush with the religion and she takes a liking to the elderly Elf or possibly half-elf, as he appears younger here; a man named **Yarshud.**
+## Futures of Gods and Demons
 
-Cirrus watches as his mother joins the Convent of Selune as many noblewomen do - for education and training.
+[[aliyah-faen-tlabbar|Patches]] scanned possible futures, asking whether [[lolth|Lolth]] could ever be stopped by them. Very few showed the Spider Queen's defeat, and those that did involved using [[the-last-word|the Word]] and significant aid from the Elven Pantheon. One vision was much like the defeat of [[atropos|Atropos]] that [[tarkathee-daru|Tark]] had described — the wielder dying regardless of who it was. The most promising future showed the group using the individual fragments to lead a host of the Elven race against [[lolth|Lolth]] — not to kill, but to capture. In that vision, [[lolth|Lolth]] surrendered, though the reason was unclear.
 
-The temple was on the banks of the great lake of** Esmel **in the south east of Amn.
+Next, [[aliyah-faen-tlabbar|Patches]] looked to [[zuggtmoy|Zuggtmoy]] and [[juiblex|Juiblex]]. She saw them at a great fungal grove, Myconids dying by the score as the Demon Lords battled. In many futures, [[zuggtmoy|Zuggtmoy]] won; in fewer, [[juiblex|Juiblex]] prevailed. But whenever the group got involved, [[juiblex|Juiblex]] succeeded. If [[zuggtmoy|Zuggtmoy]] lost, she would be severely weakened and would eventually cede their shared lair in the [[abyss|Abyss]] to [[juiblex|Juiblex]]. If she won, she intended to meld with a great fungal creature, creating an Abyssal abode here on the Prime Material to siphon extra souls. Not good.
 
-These are the happiest years of her life, learning and growing up surrounded by other good people and in service of a goodly god.
+## Snorbul and the Crystal Wyvern
 
-Eventually though, when she comes of age, her noble family marries her off to Cirrus father.
+High on the pillar, [[snorbul|Snorbul]] was woken by a massive creature scrabbling at his crack. Claws scratched at the opening, trying to pull him out — likely to eat — but the gap was too narrow. The creature retreated. Curious, [[snorbul|Snorbul]] shuffled to the opening and peered out. A large Crystal-scaled Wyvern hovered ten feet away, hissed, and lunged.
 
-In these early yers, Al Kayan is not so bad, young and ambitious but not yet cruel.
+[[snorbul|Snorbul]] leapt from the crack, grappling around the creature's lower neck and chest. It called out in surprise and tumbled from the air, catching itself just before hitting the ground. Mid-flight it could not reach him, and [[snorbul|Snorbul]] made no hostile movements. The beast calmed — until the Deep Gnome realised they were flying higher. Ahead, among the crystal protrusions of the ceiling, he spotted a nest with two hungry-looking Wyvern babies.
 
-Cirrus sees though that even from an early age, his father was dabbling in dangerous things, his closest allies being Shaahir Al Selemchant (Archmage and current leader of The Amnian Coweled Wizards) and Abdul Al Selemchant.
+Thinking quickly as they landed, he hurled a fistful of rations. The babies went for the food without discrimination and [[snorbul|Snorbul]] touched down, spotted an ornate broomstick jutting from a pile of guano, snatched it, and leapt to a nearby stalactite. It took the better part of two hours to climb down. Exhausted but alive, he traipsed into the library lobby to find his friends deep in discussion.
 
-Eventually, something goes wrong and Al Kayan is forced to make a deal with a Devil, though the details are indistinct.
+## The Library is Summoned
 
-9 months later Cirrus is born and displays all the signs of being a Tiefling.
+One of the giants — [[urmas|Urmas]] of the Present — entered the lobby. [[cirrus-al-kayan|Cirrus]] called her over and began asking questions. The giantess grew uncomfortable, explaining that they did not interfere — their knowledge could cause terrible and unintended consequences. But knowing the stakes, she offered a piece of information: the vision of the deep pit of corruption was of the Planet Gaia, a place so distant that few pathways still connected it to [[faerun|Faerûn]]. Long ago, an ancient race from that world had maintained an outpost nearby in the [[underdark|Underdark]], in [[the-labyrinth|the Labyrinth]].
 
-Horrified, Al Kayan rips the babe from its mothers arms and leaves the room with it, meeting with the Devil in an adjoining room.
+Both [[feanon-serinde|Feanon]] and [[aliyah-faen-tlabbar|Patches]] perked up, remembering that [[veygar|Veygar]] and [[lady-faye|Lady Fae]] had mentioned the ancient ruins in [[the-labyrinth|the Labyrinth]] — and that once the Demon Lords were dealt with, [[veygar|Veygar]] and his crew would guide them through the deadly place.
 
-He hands the babe to the Devil which promptly walks to a balcony, smiling.
+[[cirrus-al-kayan|Cirrus]] pressed for more, but the giantess appeared embarrassed at having said as much as she had and turned to leave. The group went back to their discussion — until the library shuddered. [[urmas|Urmas]] stopped mid-stride. Concerned, many of them touched the mineral veins and asked what was wrong.
 
-He hurls the baby from the balcony, on a moonless night.
+The library said it had been summoned by a banned creature but could not resist the call. The other two giants entered the lobby, conversing in Giant and casting sidelong glances at [[tarkathee-daru|Tark]] and [[horatio-von-bumidere|Buumi]]. Confronted, the archivists explained: a banned possessing entity had summoned the library from within the body of a human who was not banned, using an ancient red-stone ring to which the body was attuned.
 
-The baby falls the hundred or so feet, from the plateau of the noble estate and to the slum gutter far, far below.
+They all looked at one another. [[corpsetaker|Corpsetaker]] — the ghost-like entity that had possessed [[cercei|Cercei]] before being expelled back to Mantol Derith.
 
-The baby however does not die, and is caught by a vaguely humanoid looking void.
+They needed to be sure. In the scrying chamber, using the heart of the library, they overpowered whatever non-detection magic had been concealing [[corpsetaker|Corpsetaker]]. [[feanon-serinde|Feanon]], describing the scene, stammered in shock. [[corpsetaker|Corpsetaker]] was there, the telltale illusionary red robes flowing in an unseen wind, possessing a middle-aged [[amnians|Amnian]] man with a long black goatee and small eyes — earrings cleverly disguising the symbol of the [[zhentarim|Zhentarim]]. Across the camp sat the hulking blue form of [[li-xian|Li Xian]], the Oni Necromancer. And floating beside them, an armour-plated orb — a Beholder. [[feanon-serinde|Feanon]] recognised it: the same creature they had left trapped in a magic circle atop the peak holding the Sanctum of [[karsus|Karsus]]. [[corpsetaker|Corpsetaker]] had been recruiting.
 
-The baby is then gently lowered into the gutter and then left.
+Zombie [[drow-faction|Drow]], [[duergar-faction|Duergar]], and [[svirfneblin-faction|Svirfneblin]] stood motionless around the chamber. [[corpsetaker|Corpsetaker]] sat in meditation, the red-stone ring on one hand, waiting for the library to arrive within the next sixteen hours.
 
-Alive but abandoned, it is the start of Cirrus’ harsh life…
+The group immediately agreed: [[corpsetaker|Corpsetaker]] must not gain access to [[gravenhollow|Gravenhollow]]. [[aliyah-faen-tlabbar|Patches]] had them look through the chamber of the Past, tracing the ring's recent history — and sure enough, [[corpsetaker|Corpsetaker]] sat just outside a ruined Mantol Derith, the place littered with corpses. Whatever had happened there, [[corpsetaker|Corpsetaker]] and its band appeared to have won.
 
-Gundren meanwhile scours the present, intent on finding a way to increase his binding potential to magic items
+Now they had the intelligence needed to strike. They rested as best they could and formulated their strategy: [[cirrus-al-kayan|Cirrus]] would Planeshift them directly into the chamber, close enough for the melee fighters to engage immediately. Using surprise, they would assault and kill [[li-xian|Li Xian]] — for [[tarkathee-daru|Tark]] and [[horatio-von-bumidere|Buumi's]] families. While the Oni was beset, [[aliyah-faen-tlabbar|Patches]] would slip into the [[ethereal-plane|Ethereal Plane]], approach [[corpsetaker|Corpsetaker]], and cut the ring from the possessed body's hand. [[feanon-serinde|Feanon]] would then teleport them all to safety.
 
-He quickly finds that there several ways and most involve an expansion of the soul, a gift from a higher being or boon.
-
-There are darker rituals too, but he has no interest in those.
-
-Lastly, he sees there are often ways to replicate magic items that do not require a bond, though the skill and materials required would be limiting...but not a problem for such a skilled artificer if he sets his mind to it he thinks.
-
-With that in mind, he then scours the present, thinking of the enchanted tattoos of the Deep Gnomes but looking for something...more dangerous.
-
-What he ends up seeing is vague, bright lights, sand and primitive looking dwellings he sees a strange looking elf, covered in intricate tattoos the likes of which he has never seen before.
-
-The vision ends but Gundren is not done and he heads to the chamber of the future, already tired from the days visions.
-
-When he arrives, he attunes to the crystal heart and begins to scour the future for any indication of what he *should* invent for the upcoming artificing competition.
-
-What he sees gives him pause.  It appears that each time he creates something to be mass produced that can swing the war drastically, it ends up being abused.
-
-Time and again, he looks into the future and every time he arms the general population, it creates a future of nothing but war and oppression.
-
-So he focuses on futures that are more about making things for himself or the group.
-
-Having already had some good ideas, he follows them until he settles on one vision in particular.
-
-A great suit of armor, more vehicle than apparel and piloted from within the breastplate.  It shares much of the same technology as Gwen but is far larger and more complex.
-
-The vision ends and Gundren begins to think it over.
-
-The mechanisms and metals he saw are familiar, being reminiscent of what he saw on the Plane of Mechanus and the Modron lifeforms he witnessed building an “Instant Fortress”.
-
-These visions, coupled with the mark upon Gundren’s head; There is clearly a connection with Primus
-
-Once again, Gundren has a flash of memory, of a mountain stream and gleaming metal beneath…
-
-
-Feanon looks through the present, scrying for the signs of any nearby Illithid hives.
-
-As he scours with his mind, he feels a familiar power to the south east and begins to follow it.
-
-Hundreds of miles past the Dark Lake, the vision tears through the Drow city of Ched Nasad, it’s weblike bridges and architecture spanning the inverted pyramid shaped cavern,
-
-The sensor goes down, past the reconstructed parts of the city, past the poorer, still damaged areas and into the rubble of the destruction the city faced a century earlier, all fallen and crushed to the bottom of the tall two kilometer high cavern.
-
-The sensor continues on, deeper, until suddenly it cuts out, but Feanon feels a consciousness touch his mind, the Hive of Eliatrope, Vision of the Infinite.
-
-It recognizes a twinge of its kin within Feanons power as the vision ends.
-
-Feanon then heads to the chamber of the future, intend on discovering two important things: when will his apprentice betray him and can he give his clone body to Theodemir?
-
-The first he checks is the trustworthiness of his apprentice.  What he finds is curiou as almost all the futures end up with the lad being taken away by Silverymoon authorities, though the details are vague.
-
-Resolving to investigate this Ruthir K’Iree that he’s taken as an apprentice, Feanon turns his mind to the future of his fully grown Clone.
-
-Scanning the possible futures, it appears that yes, the Clone can be given to the Spirit of Theodemir though there appears to be some side effect, though the vision is obscure, it does not appear to be a life-threatening side effect.
-
-
-Patches scans possible futures, curious if Lolth can ever be stopped by them.
-
-Very few futures show Lolths defeat, though those that do involve using The Word and/or significant assistance from the Elven Pantheon.
-
- One is very much like the defeat of Atropos Tark mentioned, with the wielder (no matter which variation of wielder) dying if they use the combined artefact.
-
-The one that looked the most promising was using the individual fragments and leading a host of the Elven race against Lolth, not to kill, but to capture.
-
-It appears in that future, Lolth surrendered though it is unclear why.
-
-Next, Patches looks to Zuggtomy and Juiblex and their battle.
-
-She sees them at a great fungal grove, Myconids dying by the score as the demon lords battle.  
-
-In many, Zuggtmoy wins, and in fewer, Juiblex wins.
-
-Whenever the group gets involved though, Juiblex succeeds.
-
-It takes more scrying, but Patches gets an idea of their cosmic struggle, that they share a lair on the Abyss and are mortal enemies.
-
-If Zuggtmoy loses this struggle on the Prime material, she will be severely weakened and would let Juiblex take their lair of the Abyss, though it may take a century.
-
-If Zuggtmoy wins however, she intends to meld with a great fungal creature, creating an Abyssal abode here in the prime material and use it to siphon extra souls to herself in the Abyss.  Not good.
-
-
-Snorbul is awoken, high up on the pillar, by a massive creature scrabbling at the crack he was sleeping in.
-
-The creature tries to get its claws in to pull him out, likely to eat, but it cannot fit and it backs off after a minute.
-
-Curious, Snorbul shuffles near the opening and looks out, seeing a large Crystal-scaled Wyvern hovering about 10ft away.
-
-It hisses and begins to move forward to attack, but Snorbul leaps from the crack, grappling around the lower neck and chest of the thing.
-
-It calls out in surprise and begins to tumble out of the air, but catches itself before hitting the ground.
-
-It tries to peel Snorbul off, but mid flight cannot get an angle on him.
-
-Snorbul tries to calm the creature and makes no hostile movements, and it calms.
-
-Before long though, the Deep Gnome realizes he is flying higher and gets worried.
-
-He gets even more worried when up ahead, among the crystal protrusions of the ceiling, he spots a nest with two hungry looking Wyvern babies.
-
-Thinking quickly, as they land, he hurls out a fistful of rations.
-
-The babies, not caring what they eat first, both go for the rations and Snorbul lands.
-
-He quickly scans about, spotting a nice looking stick in a pile of Guano and takes it, pulling free an ornate looking broomstick and then leaps from the nest to a nearby Stalacmite.
-
-It takes him the better part of two hours to get down and luckily, the rations appear to have sated the Wyverns for now. 
-
-Finally making it to the ground, but now exhausted, Snorbul traipses up into the library lobby and sees his friends chatting and approaches.
-
-It appears they are discussing their visions and what to do next.
-
-One of the giants walks into the lobby, Urmas of the Present.
-
-Cirrus calls her over and begins to ask a number of questions.
-
-The giant immediately becomes uncomfortable, stating that they do not interfere as their knowledge can often cause terrible and unintended consequences.
-
-Knowing the stakes though, she does offer some information on one of the Fragments of the Word, stating that the vision of the deep pit of corruption is of the **Planet Gaia** a place so far that few pathways still exist between Faerun and that world.
-
-She mentions that long, long ago, an ancient race from that world had an outpost nearby in the Underdark, in the Labyrinth.
-
-Feanon perks up, as does Patches, both remembering that Veygar and Lady Fae mentioned the ancient ruins in the Labyrinth of the Underdark and that as soon as the Demon Lords are taken care of, Veygar and his crew will lead them through the deadly place.
-
-Cirrus tries for more information, but the Giantess appears embarrassed about saying as much as she did and turns to leave, the group going back to their discussion.
-
-The library shudders and the Giant stops mid stride.
-
-Concerned, many of them touch a nearby mineral vein and ask what’s wrong.
-
-The Library says that it has been summoned by a banned creature, but cannot resist going.
-
-Moments later, the other two giants enter the lobby and begin to converse in Giant.
-
-The group spots the giants looking sidelong at Tark and Buumi and the group confronts the archivists.
-
-They are told that a banned possessing entity has summoned the library from within the body of a human that is not banned.  They are using an ancient red-stone ring to do so, a ring that the human body must be attuned to.
-
-The group all look at one another, thinking that it must be Corpsetaker, the ghost-like creature that was in Cercei but was ejected back to Mantol Derith when the young Dragon was saved.
-
-They need to be sure.
-
-The group heads to the scrying chamber and using the heart of the Library, overpower whatever non-detection magics were concealing Corpsetaker.
-
-They see the creature’s camp and Feanon, describing the thing stammers in shock for a moment.
-
-Corpsetaker is there, the telltale illusionary red robes flowing in an unseen wind.  It is possessing a middle aged Amnian man with a long black goatee and small eyes.  The man is wearing earrings that cleverly disguise the symbol of the Zhentarim.
-
-Across the small camp, sits the hulking massive blue form of the Oni Necromancer Li Xian.
-
-Across from Li, a floating orb covered in armor plates is what caught Feanon off guard.  A Beholder.
-
-As feanon looks at the thing though, he realizes that he recognizes it: The Beholder they left behind, trapped in the magic circle atop the Peak holding the “Sanctum of Karsus”.
-
-It appears Corpsetaker was recruiting that day.
-
-Around the relatively small chamber, several Zombie drow, duergar and svirfneblin stand, unmoving.
-
-Corpsetaker sits in meditation, the Red-stone ring on one hand as the vile party waits, resting and preparing fro the Library to arrive to them sometime in the next 16 hours.
-
-The vision ends and the group immediately begins to discuss what to do.  They all agree that Corpsetaker must NOT gain access to the library.
-
-Patches has an idea and they go the chamber of the past and look up the recent history of the Red-Stone Ring and sure enough, they discover that Corpsetaker is just outside a ruined Mantol Derith, the place littered with corpses.
-
-It appears that whatever happened there, Corpsetaker and its band appear to have been the winners…
-
-The group though, now has the information necessary to launch a surprise attack on the possessing monster.
-
-They rest up as best they can and begin to formulate a strategy - they will Planeshift into the chamber, far enough to not have the ranged in melee but close enough for the melee to be able to attack.  Using surprise, they will assault and kill Li Xian, for Tark and Buumi’s families.
-
-As Li is assaulted, Patches will sneak to Corpsetaker in the Ethereal Realm, then leave it and cut the ring from the possessed body’s hand.
-
-Feanon will then teleport the group to safety.
-
-The plan is coming together....
+The plan was coming together.

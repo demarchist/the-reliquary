@@ -21,6 +21,7 @@ people:
   - "veygar"
 places:
   - "abyss"
+  - "icewind-dale"
   - "selunia"
   - "snorbuls-hole"
 things:

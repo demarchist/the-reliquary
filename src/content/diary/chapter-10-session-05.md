@@ -3,9 +3,9 @@ title: Beyond the Veil - The Aftermath
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 5
+summary: "Back in the Barony, the group processed their Gravenhollow visions and the aftermath of Li Xian's death. Patches contacted her son Finn through Dream, Thorna discovered her origins in the Ten Towns of Icewind Dale, Snorbul saw an alien world, Gundren found a Modron lead in the Labyrinth, and the Death Slaad Kleve arrived with a dinner invitation from Vizerion DeVir."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "beryan"
   - "bolg"
   - "cercei"
@@ -16,7 +16,9 @@ people:
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
+  - "jacopo"
+  - "kleve"
+  - "li-xian"
   - "mordenkainen"
   - "omar"
   - "pickles"
@@ -25,364 +27,125 @@ people:
   - "shar"
   - "snorbul"
   - "tarkathee-daru"
+  - "temura"
   - "thorna"
   - "topsy-and-turvy"
   - "vaas-redblade"
   - "val-tengu"
+  - "vizerion-devir"
   - "vladalma"
 places:
   - "anauroch"
   - "castle-ravenloft"
   - "fane-of-selune"
+  - "feanons-tower"
   - "gravenhollow"
-  - "keep-of-thunder-bluff"
+  - "icewind-dale"
   - "luskan"
-  - "rockseeker-manufactory"
+  - "palischuk"
+  - "selunia"
   - "silverymoon"
   - "temple-of-helm"
   - "the-establishment"
   - "the-labyrinth"
   - "underdark"
   - "vaasa"
-things:
-  - "tavern-of-doors"
 factions:
   - "drow-faction"
-  - "illithid-faction"
-  - "svirfneblin-faction"
 ---
 
-Back in the Barony, the group all go their separate ways from Feanons tower.
+Back in the [[selunia|Barony]], the group went their separate ways from [[feanons-tower|Feanon's tower]]. As they were leaving, [[aliyah-faen-tlabbar|Patches]] caught up with [[cirrus-al-kayan|Cirrus]] and asked if he had the strength for a Dream spell that evening — she wished to contact her son, [[finn|Finn]]. [[cirrus-al-kayan|Cirrus]] thought on it and nodded. They headed to the [[fane-of-selune|Fane]].
 
-As they go to leave, Patches catches up with Cirrus and asks if he has the power for a Dream spell that night; she wishes to contact her son, Finn.
+## Tark's Visions
 
-Cirrus thinks on it and then nods, he can do this for her, and they head to the Fane.
+At [[horatio-von-bumidere|Buumi's]] room in the [[keep-of-thunder-bluff|Keep]], the Paladin prepared a snack while they talked about [[li-xian|Li Xian's]] death. [[horatio-von-bumidere|Buumi]] mentioned that he would need to either bring the horns to his family or bring them to the [[selunia|Barony]]. He asked [[tarkathee-daru|Tark]] how he was doing, and the Halfling admitted he did not know — [[gravenhollow|Gravenhollow]] had given him many questions.
 
-At Buumi’s room in the Keep, He and Tark chat as Buumi prepares a snack.
+[[tarkathee-daru|Tark]] described what he had seen in the library's visions. A beautiful Halfling village, with buildings of wood and stone constructed around the base of great trees and up into their branches, set in a forest surrounded by high, snowcapped mountains. The dress of the Halflings was Vaasan, or at least from the Bloodstone Lands. He had followed up by asking the library for the village's location, and the vision had focused on something he recognised: the Half-Orc city of [[palischuk|Palischuk]] in [[vaasa|Vaasa]].
 
-They talk about Li's death and Buumi mentions that he will need to either take the Horns of the killer for his family to see, or bring them to the Barony.
+The vision had shown a middle-aged Half-Orc man, favouring his orcish heritage, stumbling from a beer hall. He had dark reddish-brown hair on only half his head — the other half was scalped, showing an angry scarred section of skull. [[tarkathee-daru|Tark]] believed this was his home village, somewhere in the Bloodstone Lands.
 
-He asks Tark how he's doing and the Halfling admits he does not know.  Gravenhollow gave him many, many questions.
+He went on to describe his dream of the crystal egg. He had asked the library what it was, and been shown a Crystal Dragon embryo growing inside. He had then asked why his family would have such a thing. The vision showed a stately, willowy elven figure — gaunt, with a flowing gown of what appeared to be frosted glass, skin and hair and eyes all stark white, colours shifting at her extremities through greens, purples, and blues. An Ancient Crystal Dragon in humanoid form, handing the egg to the oldest Halfling [[tarkathee-daru|Tark]] had ever seen. The elder's whole clan stood behind him, accepting the egg reverently. They carried it to the village in disjointed images, where it sat for an untold number of days — possibly years or decades — until a middle-aged Halfling man finally took it and set it into the hearth of a large and ornate home.
 
-Tark tells his friend what he saw in the visions.
+[[horatio-von-bumidere|Buumi]] was quiet. [[tarkathee-daru|Tark]] asked if he would come with him to [[vaasa|Vaasa]] to find his clan. [[horatio-von-bumidere|Buumi]] swore he would — as a friend to help [[tarkathee-daru|Tark]], and as a father to help [[cercei|Cercei]] and meet this Crystal Dragon. They fell asleep shortly after, their minds drifting to far-off lands and possibilities.
 
-He saw a beautiful Halfling village, with buildings of wood and stone constructed around the base of trees and up into their branches.
+## The Dream
 
-The forest it is built in appears to be surrounded by high, snowcapped mountains, Tark did not recognize them.
+At the [[fane-of-selune|Fane of Selune]], [[cirrus-al-kayan|Cirrus]] led [[aliyah-faen-tlabbar|Patches]] into a Dreaming, connecting her to the mind of her sleeping son. [[finn|Finn]] showed his customary happiness at seeing his mother, which shifted to reserved awkwardness once he realised she was contacting him through magic.
 
-He recognized the dress of the halfling he saw as being Vaasan, or at least from the Bloodstone Lands.
+She asked if he was alright. The young elf said that [[jacopo|Jacopo]], the House Wizard, had been training him but clearly resented the task, taking every opportunity to beat the boy. The veneer of civility had dropped — [[finn|Finn]] spoke of beatings and abuse from the family. Strangely, [[vladalma|Vladalma]], the Matron Mother, was still being kind to him.
 
-He followed up asking if anyone knew the location of that village and the vision focused on something he DID recognize; The Half-Orc city of **Palischuk **in Vaasa.
+This put [[aliyah-faen-tlabbar|Patches]] on edge. As the dream ended, she gave [[finn|Finn]] advice for dealing with the pain: focus on breathing, on taking the next breath and nothing else.
 
-As the vision approaches the Yurt-like structures, Tark notes the only stone used here is foundations and the city walls, the rest appears to be canvas, hide, or wood.
+[[aliyah-faen-tlabbar|Patches]] headed back to [[the-establishment|the Establishment]] to check on [[mordenkainen|Mordenkainen]], thinking over the dream. He had already left, but a note waited for her — thanking her for the hospitality and hoping she would call on him again in a social capacity. She thought she had done well befriending such a valuable ally, then threw the note into the fireplace.
 
-He watches as a middle aged Half-Orc man, favoring his orcish heritage stumbles from a beer hall.
+Still thinking of her son, she took inventory of her infiltrator's kit, resupplied at the [[rockseeker-manufactory|Manufactory]], and headed up to [[horatio-von-bumidere|Buumi's]] room for food. She found both [[tarkathee-daru|Tark]] snoring on the couch and [[horatio-von-bumidere|Buumi]] napping nearby with a book on his lap. She ate loudly. They slept through it. She dropped a fork on the stone floor — the clatter finally woke them. She asked [[horatio-von-bumidere|Buumi]] if he could deal with Domination magic, and the Paladin confirmed that his touch could cleanse such malign influence. [[aliyah-faen-tlabbar|Patches]] thanked him, grabbed provisions for the road, and left.
 
-He has dark reddish brown hair, but only on half his head, the other half appears to be scalped and now shows an angry scarred section of head.
+## Thorna's Origins
 
-He goes into an alley to relieve himself and the vision ends.
+[[thorna|Thorna]], back in [[the-establishment|the Establishment]], poured over her memories of [[gravenhollow|Gravenhollow]]. She had seen her early childhood — being taken as a little girl through the streets of a small frontier city, everyone wrapped in cold-weather gear, snow thick on the ground. People shied away from her and her mother, showing fear and anxiety.
 
-Tark remarks that he thinks that that is his home village and it’s in the Bloodstone Lands.
+She had seen a wider view: ten frontier towns clustered around several large, frozen lakes, a single lonely mountain rising from the tundra, and a massive mountain range barely visible on the southern horizon. She had seen her father — a handsome but unremarkable blue-skinned, white-haired man smiling at her human mother across a table. She did not recognise him.
 
-Tark then goes on to explain his recent dream and the crystal egg he sees in it, and that he had questions about it that he asked the library.
+In the Present, she had been shocked to find her mother bedridden and weak, attended by a kindly old man in a tiny room. An innkeeper, she thought — the name DeGrootz surfaced in her memory.
 
-He asked what the egg is, and was shown that inside, grows a Crystal Dragon embryo.
+The final vision had been disturbing. Her last moments with her mother: Frost Giants climbing from the shores of a frozen lake, hurling boulders and hammers. One clipped her mother, sending her to the ground. A great blue hand reached out to grab the adult [[thorna|Thorna]] — but as the fingers closed, there was a scream, a flash of blue light, a rush of wind, and the Giant's hand shattered into bloody chunks. [[thorna|Thorna]] was nowhere to be found. The Giant recoiled, howling.
 
-Excited, Tark then asked why his family would have it, clarifying that he wishes the history of the egg.
+Not knowing what it meant, she retired for the night.
 
-He sees a stately, yet willowy elven figure, though somewhat gaunt. She has a flowing gown of what appears to be frosted glass yet moves with the suppleness of silk.  Her skin, hair and eyes are all start white and she almost glows.  At her extremities, colors shift and move, changing from green tints through purples and blues, throwing a rainbow of colors across her limbs.
+## Snorbul's Alien World
 
-She hands to the oldest Halfling Tark has ever seen, a Crystal Egg.
+[[snorbul|Snorbul]] retreated to his hole and his dirt pile. Reclining, he thought over his own visions — not from [[gravenhollow|Gravenhollow]], but from [[castle-ravenloft|Ravenloft]]. He had wished to see possibilities for making Sovereign Glue, and the vision had shown strange sights.
 
-The elder takes it respectfully and Tark sees that the old man’s whole clan is there behind him, accepting the Egg from this Ancient Crystal Dragon.
+An underwater reef, something [[snorbul|Snorbul]] had never seen, with sunlight cascading through water. A monstrous clam affixed to the stone, its shell sealed shut by a black tar-like substance. He had looked above the surface — a green sky with two suns, one small and red, the other large and white. An arid, sandswept desert coast, a large city built along the reef. He did not recognise any of it.
 
-They take it reverently and leave that indistinct place, traveling to the village Tark saw earlier, though in disjointed images.
+Trying to understand, he had asked the vision for the most dramatic event happening nearby. A caravan deep in the desert, overrun by strange oozelike but humanoid monsters — unlike any humanoids [[snorbul|Snorbul]] had seen. The caravan beasts were stranger still: many-legged, covered in carapace. Giant insects. The vision ended as the caravaneers were killed.
 
-He sees the Egg sit, for an untold number of days, possibly years or decades until one day, it is finally taken by a middle aged halfling man, and set into the hearth of a large and ornate abode.
+[[snorbul|Snorbul]] drifted to sleep, thoughts of the alien world carrying him under.
 
-The Vision ends.
+## Gundren's Lead
 
-Buumi is quiet and Tark asks if he will come with him to Vaasa to find his clan.
+[[gundren-rockseeker|Gundren]] returned to his office at the [[rockseeker-manufactory|Manufactory]], not quite ready for sleep. Going through his correspondence, something caught his eye: a report of a rumour from the [[underdark|Underdark]]. In an area known as [[the-labyrinth|the Labyrinth]], mechanical creatures had been spotted matching descriptions of Modrons — beings from the Plane of Mechanus. Some twenty years back, a great March of the creatures had passed through that part of the [[underdark|Underdark]], with a significant portion going through [[the-labyrinth|the Labyrinth]]. Ever since, the mechanical beings had been wandering out — mostly lesser machines, but every now and then, one of the bigger, more complex creatures worked its way free.
 
-Buumi swears that he will, as a friend to help Tark and also as a father to help Cercei and meet this Crystal Dragon.
+[[gundren-rockseeker|Gundren]] smiled and read the report again. This was exactly the lead he had been looking for. He lit a cigar and wound down, thinking over the day.
 
-They fall asleep shortly after, their minds drifting to far off lands and possibilities.
+## The Clergy Arrives
 
+The next morning, [[cirrus-al-kayan|Cirrus]] stirred from his sanctum and called [[topsy-and-turvy|Topsy and Turvy]] to him. He gave his two Deep Gnome acolytes the task of tracking down the Diadem of [[selune|Selune]] that he had seen in a vision from [[gravenhollow|Gravenhollow]].
 
-At the Fane of Selune, Cirrus leads Patches in a Dreaming, connecting her to the mind of her sleeping son, Finn.
+One of them returned within moments with news: visitors at the [[fane-of-selune|Fane]]. [[cirrus-al-kayan|Cirrus]] found four people in the entryway of the central tower, all wearing robes of [[selune|Selune]] — three human acolytes and a high-elven man with bronze skin and bleached blonde hair. They carried large travelling packs and trunks of belongings.
 
-In the Dream, Finn shows the customary happiness at seeing his mother, which changes to reserved awkwardness once he realizes that she is contacting him in a Dream.
+The elf stepped forward and bowed, introducing himself as [[temura|Temura]], Cleric of [[selune|Selune]], along with his companions Yuri, Clemence, and Gilga. They had come from the church in [[silverymoon|Silverymoon]] to join the [[fane-of-selune|Fane]] and officially bring it into the religion, granting [[cirrus-al-kayan|Cirrus]] legitimacy among the clergy.
 
-She asks if he is ok and what’s been happening.
+The elf had a sharp, predatory smile that never quite reached his eyes. He was eager to please, pushing [[cirrus-al-kayan|Cirrus]] for a sermon and a reading from the pages of the holy book of [[selune|Selune]] — the Astronomican. [[cirrus-al-kayan|Cirrus]] was hesitant but accepted the book, promising prayers later that day.
 
-The young elf says that **Jacopo, the House Wizard **has been training him, but clearly resents the task, taking every opportunity to beat the young Wizard.
+## Bolg and Allergies
 
-Indeed, the veneer of civility seems to have dropped as Finn remarks on his beatings and abuse from the family.
+[[snorbul|Snorbul]] woke himself sneezing, his eyes itching and nose running. Convinced he had been poisoned, he rushed to the [[temple-of-helm|Temple of Helm]] at the [[keep-of-thunder-bluff|Keep]]. The priests informed the Gnome that he simply had allergies and gave him a blessing. His symptoms lessened and he headed to the alchemist for something stronger.
 
-Strangely though he says that Vladalma, the Matron mother, is still being kind to him.
+As [[snorbul|Snorbul]] entered the town square, he spotted [[cirrus-al-kayan|Cirrus]] exiting the path from his [[fane-of-selune|Fane]]. Then vibrations came through the ground — footsteps. Inside Over the Moon, [[aliyah-faen-tlabbar|Patches]] and [[thorna|Thorna]] felt them too. [[thorna|Thorna]] rushed outside.
 
-This puts Patches on edge and as she ends the dream, gives Finn advice for dealing with the pain: Focus on breathing, taking the next breath and nothing else.
+[[aliyah-faen-tlabbar|Patches]] took her time, having been through enough surface springs to know about the pollen. She detoured into [[claudine|Claudine]] and Marzeline's alchemy shop, where she found [[gundren-rockseeker|Gundren]] handing over meticulously labelled goos and oozes from recent weeks. When he finished, they both headed outside.
 
-The dreaming ends.
+What they saw was [[cirrus-al-kayan|Cirrus]] talking with the Mountain Giant [[bolg|Bolg]]. About twelve feet tall and feeling as wide, the massive slab of muscle had made the trip from the [[anauroch|Anauroch]] in roughly two weeks and looked none the worse for it. [[bolg|Bolg]] surveyed the [[selunia|Barony]] approvingly but bristled at the suggestion of reporting to a magistrate. He had not come for bureaucracy — he had come because [[cirrus-al-kayan|Cirrus]] was the stronger, and he could feel true strength in the [[keep-of-thunder-bluff|Keep]], the Fire Giant in the [[rockseeker-manufactory|Manufactory]].
 
-Patches heads back to her establishment from the Fane, to check on Mordenkainen, and thinks over the Dream.
+[[cirrus-al-kayan|Cirrus]] asked [[bolg|Bolg]] to wait at the [[fane-of-selune|Fane]] with his Hellhound and strange eyeball-tailed feline until he had a proper assignment. The giant agreed and plodded away. [[tarkathee-daru|Tark]] turned to [[horatio-von-bumidere|Buumi]] and asked if they could take [[bolg|Bolg]] and his companions. The Paladin nodded with confidence.
 
-She finds that when she gets there he has already left, but a note waits for her.
+## The Dinner Invitation
 
-The note thanks her for her hospitality and hopes that she call on him again in a social capacity some time.
+The group congregated in the tavern for lunch. [[thorna|Thorna]] mentioned her vision and asked about the towns she had seen. [[tarkathee-daru|Tark]] recognised the place: [[icewind-dale|Ten Towns of Icewind Dale]]. The road there actually left from the [[selunia|Barony]] — due west to [[luskan|Luskan]], then north around the Spine of the World.
 
-Patches thinks that she did a good job befriending a valuable ally and then throws the note in the fireplace.
+[[tarkathee-daru|Tark]] slammed a hand through the nearby wall and grabbed an eavesdropping [[pickles|Mr. Pickles]]. The Goblin yelped but quickly recovered. [[tarkathee-daru|Tark]] asked about traders from Ten Towns, and [[pickles|Mr. Pickles]] directed them to two Dwarves in the basement gambling den. They spent an hour buttering up the merchants — traders from Citadel Adbar who regularly purchased Ten Towns scrimshaw from [[luskan|Luskan]]. The Dwarves estimated two weeks overland to [[luskan|Luskan]], with the Icewind Pass still snowed in but expected to clear by then.
 
-Remembering that Buumi was making snacks and still thinking about her Son, she takes inventory of her Infiltrator’s kit and then heads up to the Manufactory (to resupply) and to Buumi’s room for food.
+Meanwhile, [[snorbul|Snorbul]] wanted to see [[beryan|Beryan]] the Sage in [[feanons-tower|Feanon's tower]] but did not want to go alone — the place unnerved him. [[aliyah-faen-tlabbar|Patches]] agreed to accompany him. [[cirrus-al-kayan|Cirrus]] caught up with them on the way.
 
-She arrives at Buumi’s place and notes the door is open a crack, she walks in and sees Tark snoring on the couch with Buumi napping nearby, a book on his lap.
+At the tower, [[aliyah-faen-tlabbar|Patches]] used a lifted keycard and they entered to find the Halfling Giuseppe at the front desk — and a peculiar visitor standing nearby. Short, with a fat, frog-like face, mouth and eyes set just a bit too far apart, dark beady eyes, lank thinning hair, and skin with a strange grey pallor. His clothes were uniformly grey. A greatsword rested across his back.
 
-Patches walks to the food and begins to eat, being intentionally loud to wake Buumi and Tark.
+The man's beady eyes fixed on them. Giuseppe said the man would not speak to him but had arrived only moments before. The stranger addressed [[snorbul|Snorbul]] and [[aliyah-faen-tlabbar|Patches]] directly: he was the servant of the [[drow-faction|Drow]] wizard [[vizerion-devir|Vizerion DeVir]], sent to invite the group to dinner with the Archmage that evening, in the [[underdark|Underdark]].
 
-They sleep through it
+When they pointed out they had never met this grey man, he smiled — revealing pointed fangs rather than teeth — and remarked that they had. He was [[kleve|Kleve]], the Death Slaad servant they had seen in [[gravenhollow|Gravenhollow]] following [[vizerion-devir|Vizerion]].
 
-So Patches drops a fork on the stone ground, the clatter finally waking them.
+[[aliyah-faen-tlabbar|Patches]] and [[snorbul|Snorbul]] shared a wary glance and told [[kleve|Kleve]] to wait while they discussed it with the group. Unnerved by the fiend in its disguise, [[aliyah-faen-tlabbar|Patches]] asked it to make itself invisible. It complied.
 
-She goes on to ask Buumi if he could deal with Domination magic and the Paladin confirms that if he can touch a target, he can cleanse it of such malign influence.
+They hurried back to the tavern. [[aliyah-faen-tlabbar|Patches]] voiced her concern that [[feanon-serinde|Feanon]] had once again brought a deadly creature to the [[selunia|Barony]] without adequate warning. The others were less alarmed — [[feanon-serinde|Feanon]] had mentioned [[vizerion-devir|Vizerion DeVir's]] interest in an alliance against the Demon Lords, so a visit from his retainer was not entirely unexpected.
 
-Patches takes a bunch of good for the road and thanks Buumi, leaving for the evening.
-
-
-Thorna, back in the establishment, pours over her memories of Gravenhollow, of the visions she had there of the past.
-
-She saw her early childhood, being taken as a little girl through the streets of a small frontier city, everyone wrapped in cold weather gear, snow thick on the ground.
-
-People shied away from her and her mother, showing fear and anxiety in their expressions.
-
-She changes the vision, seeing a larger view of the city and surrounding area; she sees 10 frontier towns around a handful of large currently frozen lakes.  A single lonely mountain rises from the Tundra a few miles away and a massive mountain range is barely visible on the southern horizon.
-
-The vision then changes, she wanted to see her father and it showed a handsome but unremarkable blue-skinned and white haired Man smiling at her human mother from across the table.   She does not recognize him.
-
-She then went to see her mother in the present and was shocked to find that the vision showed her mother bedridden and weak, injured it seems.
-
-The room is tiny but a kindly old man appears to be feeding her.
-
-She remembers the old man’s face.  An Inkeeper? The name **DeGrootz** comes to her mind.
-
-She tries for a vision to see her father, but nothing resolves itself…
-
-She tries again to see a vision of the past, of her last moments with her mother and she is shown a disturbing vision: Of Frost Giants climbing from the shores of a frozen lake, hurling boulders and hammers, one clipping her mother and sending her to the ground.
-
-A great blue hand reaches out to grab at the Adult Thorna, but as the fingers go to close around her, there is a scream, a flash of blue light, rush of wind and the Giants hand shatters into bloody chunks.
-
-Thorna is nowhere to be found and the Giant recoils, howling in pain.
-
-The vision ends.
-
-Not knowing what it means, Thorna retires for the night.
-
-
-Snorbul heads down to his hole and finds his dirt pile.
-
-Reclining, he begins to think about his own visions in Ravenloft.
-
-He wished to see possibilities for making Sovereign Glue and the vision he was given might lead him to it, but it showed many strange sights.
-
-IT began with the target of the vision; a creature with whose parts could make the best Sovereign Glue.
-
-It showed him an underwater reef (something Snorbul has never seen before) with sunlight cascading through the water.
-
-The bustling and lively vision is dominated by a massive shellfish, a monstrous clam affixed to the stone of the reef.
-
-Snorbul notes that it’s shell appears to be glued shut by a black tar-like substance.
-
-Wanting more information, Snorbul changes the vision for a look above the surface of the ocean.
-
-What he sees confuses him even more; A green sky with two suns greets him, one small and red, the other large and white.
-
-The landscape is arid; a sandswept desert coast with a large city built along the reef.
-
-He does not recognize it.
-
-Wondering how to get the group to look for this place, Snorbul changes the vision one last time, trying to see the most dramatic, or immoral thing happening in the area of the city.
-
-He sees a caravan, deep in the desert being overrun by strange monsters, oozelike but humanoid, though not like any humanoids Snorbul has seen.
-
-On closer inspection, the Caravan beasts are even more alien, being many-legged and covered in carapace. Giant insects?
-
-The vision ends as the caravaneers are overrun and killed by the dark monsters, the Insectoid mounts dying with their owners…
-
-Snorbul drifts to sleep, the thoughts of this alien world leading him into a deep slumber.
-
-
-Gundren gets back to his manufactory and his office.
-
-Not quite ready to sleep, Gundren begins to go through his correspondence with his contacts, opening the box to check his incoming mail and penning a few letters to go out.
-
-As he goes through the inbox, something catches his eye.  A Report of a rumor from the Underdark.
-
-In an area known as the **Labyrinth, **Mechanical creatures have been spotted matching the descriptions of **Modrons, **beings from the Plane of Mechanus, the Plane of Order.
-
-It seems that some twenty years back, a great March of the creatures went through that part of the Underdark and a great section of it went through the Labyrinth.
-
-Ever since, the mechanical creatures have been wandering out.
-
-Though mostly lesser machines, every now and then, one of the bigger more complex creatures works its way free...
-
-Gundren smiles and reads it over again, this is exactly the lead he’s been looking for.
-
-He lights a cigar and slowly begins to wind down, thinking over the day’s events.
-
-
-The next day, Cirrus stirs from his sanctum and calls Topsy and Turvey to him.
-
-Inside the hollow of the great statue at the heart of the Fane, he talks with his two acolytes, giving them the task of tracking down the** Diadem of Selune** that he saw in a vision from Gravenhollow.
-
-As he dismisses the two Deep Gnomes, one returns after only moments and with news that there are visitors at the Fane.
-
-Exiting the statue at its base, Cirrus sees four people milling about the entryway of the Fane’s central tower.
-
-They are all clearly wearing robes of Selune, three human acolytes a man and a woman (that appear to be a couple), an elderly woman in her early 60’s and a high-elven man with bronze skin and bleached blonde hair.
-
-Cirrus notes large traveling packs and even a few trunks of belongings.
-
-The High-elf walks forward and bows, introducing himself as **Temura, Cleric of Selune. **He introduces the others as **Yuri, Clemence and Gilga**
-
-They have come from the church in Silverymoon to be a part of the Fane and officially bring it into the religion, granting Cirrus legitimacy amongst the clergy.
-
-The elf has a sharp, predatory smile that never quite reaches his eyes and he is very eager to please Cirrus.
-
-The elf does push Cirrus for a sermon later and a reading from the pages of the Holy Book of Selune - **The Astronomican**.
-
-Cirrus is hesitant to accept the book, but takes it, promising prayers later that day.
-
-He then heads to the Tavern to meet up with the rest of the group to plan next steps.
-
-
-Snorbul wakes himself by sneezing. 
-
-As he rises, his eyes begin to itch and noze begins to run.
-
-He thinks he’s been poisoned and rushes to the Temple of Helm at the keep for healing.
-
-When he arrives, they inform the Gnome that he just has allergies and give him a blessing to make him more resistant.
-
-His symptoms immediately lessen and Snorbul thanks them, then heads to the Alchemist to get something a bit stronger.
-
-As he enters the town square, he spots Cirrus exiting the path from his Fane.
-
-As Cirrus arrives at the town center, he sees Tark across the square, staring at something large moving behind the Tavern, moving along the Eastern Road and sees Snorbul coming down from the Keep.
-
-Then Cirrus feels the vibrations through the ground, footsteps.
-
-Inside Over the Moon, Patches and Thorna feel the footsteps too and Thorna rushes outside to see what it is.
-
-Patches takes her time though.  Having been through many surface Spring seasons, she knows the Pollen situation by now and takes a detour into Claudine and Marzeline’s Alchemy shop.
-
-Inside she comes across Gundren handing over all the various goos and oozes he’s collected in the last few weeks, all meticulously labeled.
-
-When he’s done, Gundren heads outside to check the racket and Patches follows after grabbing her allergy medication from Claudine.
-
-What they see, is Cirrus talking with the Mountain Giant, **Bolg.
-**
-
-About 12ft and feeling about as wide, the massive slab of muscle appears to have made the trip from the Anauroch in about two weeks and looks no worse the wear for it.
-
-Bolg looks around at the Barony, impressed by the scale and agreeing that he made the right choice coming here.
-
-Cirrus agrees and asks that he report to Magistrate Li for assignment.
-
-Bolg doesnt like the sound of that.  He didnt come here to follow a beurocrat, he came to the Barony because Cirrus was the stronger.  He came for battle against serious opponents.
-
-Bolg gestures up at the Keep and mentions he knows there’s true strength here, he can feel the Fire Giant in the Manufactory (and the Fire Giant can feel his presence too).
-
-Cirrus concedes and asks Bolg to head to the Fane with his two “animal” companions until he can give him a proper assignment later in the day.
-
-Bolg agrees and he and his Hellhound and strange eyeball tailed feline.
-
-As the giant plods away, all eyes turn to Cirrus as many of the group, and certainly not the townsfolk, knew that Cirrus had hired the mercenary.
-
-Tark turns to a recently arrived Buumi and asks if they could take Bolg and his abominable allies.  The Paladin nods with confidence that they could.
-
-Seeing that the whole group had congregated, they all head into the Tavern to chat over Lunch.
-
-As they chat and eat, Thorns mentions her vision and asks the group about the Towns she saw, inquiring to Tark if maybe it was the Tundra he knew.
-
-As they talk, Snorbul mentions that he needs to see Beryan The Sage in Fea’s tower.
-
-He doesnt want to go alone as the place creeps him out so sighing, Patches agrees to go with him and they leave.  Cirrus catches up with them on the way.
-
-Back in the Tavern, hearing about the frontier nature of the ten towns Thorna saw, Tark corrects her.
-
-He knows of the place she speaks; **Ten Towns of Icewind Dale.**
-
-The road to get there actually leaves from the Barony, due West, to **Luskan and then North around the Spine of the World**.
-
-Tark slams a hand through the nearby wall and grabs an eavesdropping Mr. Pickles.
-
-The Goblin yelps in fright but it subsides quickly and Tark asks if there are any traders from Ten Towns in the tavern.
-
-Mr. Pickles says there are, two dwarves in the basement.
-
-Tark thanks Mr. Pickles and leaves the Goblin to fix the wall.
-
-Tark, Thorna and Gundren all head down into the Dwarven gambling den in the basement.
-
-They spend the next hour or so buttering up the two Dwarven Merchants who turn out to be from Citadel Adbar to the North east.
-
-These two travel to Luskan regularly to purchase the famed Ten Towns Scrimshaw and bring it out east to market.
-
-They say they’re heading to Luskan now, despite it being a bit late in the season to be only this far along the road.
-
-They’re not concerned though as their reports say the Icewind Pass is still snowed in from the Winter, they estimate about two weeks overland from the Barony to Luskan and by then, the snows should have cleared enough for the first caravans coming south a few days later.
-
-They thank the Dwarves for the information.
-
-
-Cirrus peels off from Patches and Snorbul to go and talk with Bolg and lead his small congregation in prayer.
-
-Chatting with the Mountain Giant, Cirrus floats the idea that he head down and work with the Orcs in clearing the edge of the Evermoor.
-
-Content with that task for now, Bolg accepts and heads south, to the border of the Moor.
-
-Cirrus heads into the Fane and then leads a prayer sermon.
-
-Much to the disappointment of Temura, Cirrus does not stick with the Holy book for long.
-
-Voicing his disapproval, he manages to get a promise from Cirrus to “try again” later, understanding that the holy texts can be dry sometimes.
-
-
-Across the lake Patches and Snorbul make it to Feanons tower.
-
-Patches hands Snorbul a lifted keycard and they enter the lobby, seeing the Halfling Guiseppe manning the front desk.
-
-Oddly though, there is a rather ugly looking human man standing nearby.
-
-Short, with a rather fat and froglike face, the mouth and eyes set just a bit too far apart and with dark beady eyes and lank, thinning hair.
-
-The man’s skin has a strange grey pallor to it and his clothes are about as unremarkable as possible; a grey shirt with grey pants, grey leather boots and grey gloves.
-
-A greatsword rests across the man’s back.
-
-His beady eyes fix on Patches and Snorbul and as they approach, Guiseppe calls out to them.
-
-They ask the halfling who this strange man is and the Halfling says he has no idea, the man wont speak to him, though he arrived only a minute or two before them.
-
-The man turns and addresses Snorbul and Patches.
-
-He tells them that he is the Servant of the Drow Wizard Vizeron De’Vir, sent to invite the group to dinner with the Archmage that evening, in the Underdark.  
-
-When it is mentioned that they have never met this grey man before, he smiles revealing pointed fangs rather than teeth and it remarks that they have met.
-
-He is **Kleve **the Death Slaad servant they saw in Gravenhollow following Vizeron.
-
-Patches and Snorbul share a wary glance and then tell Kleve to wait for them in the lobby while they discuss it with the group.
-
-Unnerved by the ugly fiend in its disguise, Patches also asks it to hide itself and it complies, turning invisible.
-
-They hurry back to the Tavern to tell the others.
-
-Picking up Cirrus on the way back to the Tavern, they all congregate once more at their customary table in the common room of Over the Moon.
-
-Snorbul and Patches tell the others about **Kleve**, with Patches voicing her concern that Feanon has once again brought a deadly creature to the Barony without adequate warning to the rest of them.
-
-The others are less concerned, as he DID mention that Vizeron DeVir was interested in an alliance to fix the Demon Lord issue in the Underdark, so a visit from one of his less than savory allies was expected.
-
-It still does not sit well with Patches and still fearful of Feanon’s past with the Illithid hive resolves to contact The Mindslayers to send one of their own to act as an expert advisor.
-
-The others decide that they will take **Kleve **up on the dinner invitation, they will hear what **Vizeron DeVir **has to say.
+It still did not sit well with [[aliyah-faen-tlabbar|Patches]], who resolved to contact the Mindslayers to send an expert advisor. But the group agreed: they would accept [[kleve|Kleve's]] invitation. They would hear what [[vizerion-devir|Vizerion DeVir]] had to say.

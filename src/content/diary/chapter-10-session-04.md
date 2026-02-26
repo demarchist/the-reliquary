@@ -3,6 +3,7 @@ title: Beyond the Veil - Killing Li Xian
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 4
+summary: "The group Planeshifted into Corpsetaker's camp and executed a devastating surprise attack. They killed Li Xian, the Oni who murdered Tark and Buumi's families, destroyed the armoured Beholder, and drove Corpsetaker into retreat — recovering a Stonespeaker ring and a dark Anathame knife tethered to a necrotic horror."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -24,7 +25,7 @@ places:
   - "bytopia"
   - "ethereal-plane"
   - "gravenhollow"
-  - "keep-of-thunder-bluff"
+  - "selunia"
 things:
   - "eclipse"
   - "stonespeaker-crystal"
@@ -34,158 +35,54 @@ factions:
   - "amnians"
 ---
 
-The group finishes their spells and preparation, Buumi summoning his wings and Gundren ringing the bell of blessings.
+The group finished their preparations — [[horatio-von-bumidere|Buumi]] summoned his wings, [[gundren-rockseeker|Gundren]] rang the bell of blessings. [[tarkathee-daru|Tark]] wreathed them all in shadow and silence, muffling their presence. They circled up around [[cirrus-al-kayan|Cirrus]], grasped hands, and he Planeshifted them from [[gravenhollow|Gravenhollow]] directly into the cavern holding their enemies.
 
-Tark wreaths the group in shadow and silence.
+## The Ambush
 
-They circle up, surrounding Cirrus and grasp hands.
+They arrived in near-perfect silence — save for a single rock shifted by a foot and a quiet clink of armour. The cave was a small chamber off the main road to [[gravenhollow|Gravenhollow]], an oft-used camp whose only current residents were undead corpses animated by their murderer, [[corpsetaker|Corpsetaker]]. [[tarkathee-daru|Tark's]] enchantment kept the sound muffled. It did not echo.
 
-Cirrus Planeshifts them from Gravenhollow, Directly into the cavern holding the villains.
+Even so, the Beholder sleeping nearby shifted at the noise. A single small eye flickered open. Reality itself bent around the dreaming aberration, small objects pulling into existence and popping out just as quickly. The group spread out in silence and moved into position.
 
-They arrive in almost complete silence, save for a single rock shifted by a foot and a small clink of armor.
+[[aliyah-faen-tlabbar|Patches]] was already gone — slipped into the [[ethereal-plane|Ethereal Plane]] and moving on [[corpsetaker|Corpsetaker]]. In the ethereal, she could see the entity's true form: a cadaverous spirit with floating glowing robes and a void where its face should have been. It sat possessing an [[amnians|Amnian]] man with a handsome face and black goatee, before a grisly shrine. The travelling shrine to wayfarers' gods had been desecrated, replaced by a foul monument to [[orcus|Orcus]]. Waves of cold emanated from it as some entity — likely [[orcus|Orcus]] or one of his generals — communed with [[corpsetaker|Corpsetaker]].
 
-The cave is a small chamber off of the main road to Gravenhollow; an oft used camp, though now the only residents are undead corpses animated by their murderer, Corpsetaker.
+[[aliyah-faen-tlabbar|Patches]] ended the spell of Etherealness and slashed with [[eclipse|Eclipse]], cutting three fingers from [[corpsetaker|Corpsetaker's]] hand. She slashed again — the ring finger fell free. She snatched the falling ring and key to [[gravenhollow|Gravenhollow]] from the air and immediately stepped back into the [[ethereal-plane|Ethereal Plane]].
 
-Tark’s enchantment keeps the sound muffled and it does not echo.
+[[corpsetaker|Corpsetaker's]] screams of pain and rage ripped through the cavern. The group sprang into action just as [[li-xian|Li Xian]], the great blue-skinned Oni Lord, stood to assist his master.
 
-Even so, the Beholder they can see sleeping, shifts slightly at the noise, a single small eye flickering open slowly.
+## The Death of Li Xian
 
-They can see reality itself bending around the dreaming aberration, small things pulled into reality around it and popping out just as fast.
+[[snorbul|Snorbul]] rushed forward, slashing, as [[tarkathee-daru|Tark]] appeared behind [[li-xian|Li Xian]] and smashed the Oni's spine with his staff. [[gundren-rockseeker|Gundren]] opened fire with the [[thundercannon|Thundercannon]]. [[feanon-serinde|Feanon]] reached out and a flash of green light burned into [[li-xian|Li Xian's]] back — the Disintegrate ripped through the Oni, turning a swathe of flesh to burning ash.
 
-The group slowly spreads out and moves into position.
+[[li-xian|Li Xian]] staggered, his regeneration unable to keep pace with the surprise assault. [[cirrus-al-kayan|Cirrus]] called to his goddess, and though far from the light of the moon, summoned a Celestial Warrior — a Seraphim that tore the air open beside [[li-xian|Li Xian]], loosing silver arrows at the Beholder while its twin maces smashed into the Oni.
 
-Patches is already gone, slipped into the Ethereal Plane and is moving on Corpsetaker.
+Seeing [[li-xian|Li Xian]] surrounded, [[horatio-von-bumidere|Buumi]] turned his attention to the Beholder as it drifted toward his friends. He flew in and grappled the thing, pulling its gaze and eyestalks away from the party.
 
-In the Ethereal plane, she can see the true form of the thing, a cadaverous spirit with floating glowing robes and a void where it’s face would be.
+The group laid into [[li-xian|Li Xian]] with focused fury. The Oni roared in challenge and attempted to extricate himself — just as a tar bomb detonated over him, thrown by a re-appeared [[aliyah-faen-tlabbar|Patches]]. He cast Dimension Door. [[feanon-serinde|Feanon]] counterspelled it. [[li-xian|Li Xian]] suffered another half-dozen hits before managing the spell again, finally escaping to blast a Cone of Cold across [[cirrus-al-kayan|Cirrus]], [[feanon-serinde|Feanon]], [[thorna|Thorna]], and [[snorbul|Snorbul]].
 
-It sits, possessing an Amnian man with a handsome face and black goatee and sits before a grisly shrine.
+[[corpsetaker|Corpsetaker]] enacted Mirror Image, then floated over to [[tarkathee-daru|Tark]] and reached out a cold glowing hand in greeting. [[tarkathee-daru|Tark]] promptly shadowstepped away to continue his vengeful assault on [[li-xian|Li Xian]]. [[corpsetaker|Corpsetaker]] turned and, seeing the volume of fire pouring in from the ranged fighters, raised a Wall of Fire to cut them off. But the Beholder's anti-magic gaze washed across a section of the wall, preventing it from igniting — though it also banished the Seraphim back to its plane and struck [[snorbul|Snorbul]] and [[aliyah-faen-tlabbar|Patches]] with eye beams that attempted to manipulate their minds. All were resisted.
 
-The campsite shrine to traveling gods and goddesses has been desecrated and in its place, a grisly shrine to Orcus defiles the place.
+[[cirrus-al-kayan|Cirrus]], seeing the threat the Beholder represented, rushed through the gap in the flames and attempted to Banish both [[corpsetaker|Corpsetaker]] and the Eye-Tyrant. The Beholder vanished — the Wall of Fire reignited at full strength — and [[corpsetaker|Corpsetaker]] stumbled to one knee. A ripple of energy shored up the spirit and it resisted the Banishment, but the effort drained it, and it slumped. Just as it began to recover, [[aliyah-faen-tlabbar|Patches]] hit it in the face with a bomb. The gas sprayed over [[corpsetaker|Corpsetaker]], residue adhering to its body and face. The spirit within was immune to such mundane things — but the human body it inhabited was not. The possessed man fell wheezing to the ground.
 
-In the Ethereal plane, Patches feels waves of cold coming from the shrine as some entity, likely Orcus or a General of his, communes with Corpsetaker.
+The moment of incapacitation was enough. With renewed focus, the group tore into [[li-xian|Li Xian]]. Shell after shell rained in from [[gundren-rockseeker|Gundren]]. [[aliyah-faen-tlabbar|Patches]] darted in and out. [[snorbul|Snorbul]] smashed away. [[thorna|Thorna's]] strikes threw sparks. [[li-xian|Li Xian]] desperately tried one last Dimension Door — [[feanon-serinde|Feanon]] counterspelled it. [[tarkathee-daru|Tark]] dodged a grab from the powerful Oni and retaliated as the creature tried to rush away. Through a gap in its brutally wounded but regenerating neck, [[tarkathee-daru|Tark]] could see through the vertebrae. He darted in, slipped his staff into the Oni's neck like a lever, and snapped it.
 
-Patches ends the spell of Etherealness, slashing with Eclipse and cutting three fingers from the hand of Corpsetaker, she slashes again as the stunned creature loses it’s ringfinger.
+[[tarkathee-daru|Tark]] landed on [[li-xian|Li Xian's]] head and gripped the massive horns as the Oni fell to the ground, neck broken. [[cirrus-al-kayan|Cirrus]] began blasting the remaining zombies. [[tarkathee-daru|Tark]] breathed fire from a potion, engulfing the dead Oni. The others joined in, truly destroying the body and finally killing [[li-xian|Li Xian]]. His wicked flint blade — [[the-reaver|the Reaver]] — rested on the cold stone floor. The only thing remaining were the smouldering gold-tipped Oni horns in [[tarkathee-daru|Tark's]] hands.
 
-Patches snatches the falling ring and key to Gravenhollow from the air and then immediately steps back into the Ethereal plane.
+[[corpsetaker|Corpsetaker]] looked stunned. With a scream of anger and defiance, it teleported away, leaving the corpse and the banished Beholder to their fate.
 
-Corpsetaker’s screams of pain and anger rip through the cavern and the group springs into action just as Li Xian, the great blueskinned Oni Lord, stands to assist his master.
+## Spoils and Departure
 
-Snorbul rushes forwards slashing just as Tark appears behind Li and smashes his spine with his staff.  
+The zombies were quickly killed. The group arranged themselves around the spot where the Beholder would reappear. When it popped back into existence, they unleashed their fury — even armoured, the creature was summarily destroyed.
 
-Gundren starts blasting away with his Thundercannon.
+They stood victorious. No retreat needed. Breathing heavily, they began to inspect their handiwork. [[gundren-rockseeker|Gundren]] harvested components from the Beholder — the primary eye being a well-known focusing lens for enchantments — along with several smaller undamaged eyes and a decent quantity of ichor for [[claudine|Claudine]].
 
-Feanon reaches out and a flash of green light burns into Li’s back. The disintegrate rips through the Oni, turning a swath of his back to burning ash.
+[[tarkathee-daru|Tark]] picked up [[li-xian|Li Xian's]] knife and a thunderous heartbeat pounded in his skull, forcing him to drop it. [[aliyah-faen-tlabbar|Patches]] grabbed it with [[tarkathee-daru|Tark]] on the second attempt, just as [[cirrus-al-kayan|Cirrus]] began to worry about curses and slapped it from their hands. [[aliyah-faen-tlabbar|Patches]] stumbled, bleeding from the nose. [[tarkathee-daru|Tark]], however, had calmed his mind enough to see something: a connection between the weapon and a place far to the east.
 
-Li Xian staggers under the assault, his regeneration unable to keep up with the surprise attack.
+[[feanon-serinde|Feanon]] brought out his apparatus to identify the knife and the ring taken from [[corpsetaker|Corpsetaker]]. The knife was another Anathame — a dark weapon of necromantic ritual, tethered to a soul or power. The vision showed a twisted skeleton covered in ancient dried blood, its limbs mangled and deformed, a blackened and shrivelled heart beating within its cracked skull, held in place by sinuous growths. It rested in a dark coffin of wet black stone in a dank crypt. [[feanon-serinde|Feanon]] broke the connection, and the group worried the weapon could serve as a scrying link. [[cirrus-al-kayan|Cirrus]] took the Anathame into his safekeeping — within the non-detection radius of his Ioun Stone, gifted by [[selune|Selune]].
 
-Cirrus calls to his goddess, and though far from the light of the moon, summons a Celestial Warrior to join them in battle.
+The ring was a smaller version of the [[stonespeaker-crystal|Stonespeaker Crystal]], granting Augury and the ability to summon the Library of [[gravenhollow|Gravenhollow]]. [[aliyah-faen-tlabbar|Patches]] held onto the ring, though the group agreed it must be kept secret and safe.
 
-A Seraphim tears the air and appears next to Li Xian, Silver arrows launching at the surprised Beholder as it’s twin maces smash into Li.
+They wrapped up and teleported back to the [[selunia|Barony]] — though [[cirrus-al-kayan|Cirrus]] shocked everyone with the revelation that he could take them to [[bytopia|Bytopia]], Gnome Heaven. The group agreed that visiting [[bytopia|Bytopia]] would be wonderful, but with so much to process, they each needed time to think. [[tarkathee-daru|Tark]] and [[horatio-von-bumidere|Buumi]] headed to the [[keep-of-thunder-bluff|Keep]], and [[horatio-von-bumidere|Buumi]] invited everyone to try his cooking despite the late hour.
 
-Seeing Li surrounded, Buumi sees that the Beholder is moving toward his friends
+The moon waned to a thin sliver — a new moon almost arrived.
 
-Buumi flies in and grapples the thing, pulling its gaze and eyestalks away from the party.
-
-The group lays into Li Xian with a fury, intent on their target.
-
-The Oni Roars in challenge and attempts to extricate itself, just as a Tar Bomb detonates over him, thrown by a re-appeared Patches, he casts Dimension Door.
-
-Feanon counterspells it and Li suffers from another half-dozen hits before he does it again, finally getting away and blasting out a Cone of Cold across Cirrus, Fea, Thorna and Snorbul.
-
-Corpsetaker enacts a Mirror Image and then floats over to Tark, reaching out a cold glowing hand and it “greet’s” the monk.
-
-Who promptly shadowsteps away to continue his vengeful assault on Li.
-
-Corpsetaker turns and seeing the volume of fire pouring in from the ranged characters, it encacts a Wall of Fire to cut them off and burn at them.
-
-Unfortunately though, the Beholder looks out at that moment, keeping a section of the Wall of Fire from ever functioning.  The anti-magic gaze washes across only Snorbul, The Seraphim and Patches.
-
-The Seraphim winks out of existence, back to its own Plane.
-
-The Beholder lets loose a volley of eye beams, striking many of the party, though it appears the ones fired were attempting to manipulate the minds of the targets and all were resisted.
-
-Cirrus, seeing the threat that the Beholder represents, rushes forward through the gap in the flame wall and attempts to Banish Corpsetaker and the Beholder.
-
-The Eye-Tyrant vanishes, causing the Wall of Fire to re-ignite it’s full length and Corpsetaker stumbles down to one knee, just as it catches up to Tark.
-
-A ripple of energy shores up the Spirit and it stops the Banishment, but it drains it of strength and Corpsetaker slumps.
-
-Just as it recovers and begins to stand though, Patches hits it in the face with a bomb.
-
-The Bomb detonates and sprays a thick gas over Corpsetaker, residue adhering to its body and face.
-
-The Spirit inside the body is immune to such mundane things.  The Human body it is in however, is not and it falls to the ground wheezing.
-
-Corpsetaker is stunned momentarily, but it is long enough.
-
-WIth renewed focus, the group tears into Li Xian, the Oni trying and failing to strike at the Monk.
-
-Seeing the body of Li is a mass of gore and regenerating bits, Tark knows that even this powerful creature nears its limit.
-
-Shell after shell from Gundren rains in, Patches darts in and out as Snorbul smashes away.
-
-Thorna’s strikes throw sparks and Li desperately tries one last Dimension door which Feanon promptly counterspells.
-
-Tark dodges a grab from the powerful Oni and retaliates as the Oni attempts to rush away.
-
-Through a gap in it’s brutally wounded but regenerating neck, Tark can see through the Vertibrae. He darts in and using his body as a lever, slips his staff into the Oni’s neck and as a lever, snaps Li’s neck.
-
-Tark lands on Li Xian’s head and he grips the massive horns of the Oni as it falls to the ground, its neck broken.
-
-Cirrus begins to slam Zombies with Eldritch blasts.
-
-Tark knows that even now, Li can come back so he breathes and a stream of fire engulfs the dead Oni from the firebreath potion.
-
-Tark keeps up the assault and the others join in, truly destroying the body and finally killing Li Xian.  Nearby, Li Xian’s wicked Flint blade rests on the cold stone floor of the cave.
-
-The only thing remaining are the smoldering gold tipped Oni  horns in Tark’s hand.
-
-Corpsetaker looks stunned and the group turns their Ire to the entity.
-
-With a scream of anger and defiance, Corpsetaker Teleports itself away, leaving the corpse of Li Xian and the Banished Beholder to its own fate.
-
-The zombies are quickly killed and the group arranges itself around where the Beholder will re-appear.
-
-It pops back into existence and the group unleashes their fury upon it.  
-
-Even armored, the creatures is summarily destroyed.
-
-The group looks around, they are victorious, no retreat needed.
-
-Breathing heavily, they begin to look around the space and inspect their handiwork.
-
-Gundren harvests critical components from the Beholder, it’s eye being a well known focusing lens for enchantments, he snags a couple of the undestroyed smaller eyes too and gets a decent amount of Ichor for CLaudine.
-
-Tark picks up Li Xian’s Knife and a thunderous heartbeat pounds in his head, forcing him to drop the knife.
-
-Patches grabs it with Tark the second time just as Cirrus begins to worry about curses and slaps it out of their hands.
-
-Patches stumbles, bleeding from the nose from the psychic pressure of the weapon.
-
-Tark however managed to calm his mind enough to see something, a connection between the weapon and a place, far to the east.
-
-The group takes a moment to rest and Feanon brings out his apparatus to identify the Knife and the Ring taken from Corpsetaker.
-
-The Knife is another Anathame, like Stabby (Hag’s Tooth) before it that held the Leanonsidhe.  This is a dark weapon of Necromantic ritual, tethered to a soul or power, in this case, a dark and twisted skeleton, covered in ancient dried blood it’s limbs mangled and twisted. In it’s cracked and deformed skull beats a blackened and shrivleded heart, held in place but sinuous growths.  It rests in a dark coffin of wet black stone in a dark, dank crypt.
-
-Feanon breaks the connection and the group worries that it can be used as a scrying link.
-
-Just in case, Cirrus takes the weapon into his safe keeping; to stay within the non-detection radius of his Ioun Stone, gifted by Selune.
-
-They look over the other item.
-
-The ring is a smaller version of the Stonespeaker crystal, granting Augury and the ability to summon the Library of Gravenhollow.
-
-Patches holds on to the ring for now, but the whole group agrees it must be kept secret, and safe.
-
-They wrap up and with a great deal of thought needing to be done for their next steps, the group teleports back to the Barony (though Cirrus shocks everyone with the knowledge he can take them to Bytopia - Gnome Heaven).
-
-The group agrees that visiting Bytopia would be amazing, and they should do it, but with so much information and so much going on in the world, they each need time to think about next steps.
-
-Tark and Buumi go to hang out at the Keep and Buumi invites everyone to come in a few hours to try his cooking despite the late hour.
-
-The Moon wanes as it nears a small sliver, a New moon almost here. 
-
-Buumi takes Li Xian’s horns, wanting to show his family that their parents killer was dealt with and he flies across the lake with his wings.
-
-They each head out to their abodes to think and reflect on the day.
+[[horatio-von-bumidere|Buumi]] took [[li-xian|Li Xian's]] horns, wanting to show his family that their parents' killer had been dealt with, and flew across the lake on his wings. They each headed out to their abodes to think and reflect on the day.

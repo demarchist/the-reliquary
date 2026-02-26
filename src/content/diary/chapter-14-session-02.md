@@ -20,6 +20,7 @@ people:
   - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "temura"
   - "topsy-and-turvy"
   - "vaas-redblade"
   - "vaketh"

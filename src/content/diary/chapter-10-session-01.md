@@ -3,6 +3,7 @@ title: Beyond the Veil - To Gravenhollow
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 1
+summary: "The group negotiated a trade alliance with Blingdenstone, investigated the Gemstone Lens artefact, and descended into the Underdark to reach Gravenhollow — the legendary demi-plane library guarded by Stone Giant archivists."
 people:
   - "aliyah-faen-tlabbar"
   - "auril"
@@ -22,11 +23,14 @@ people:
   - "pickles"
   - "ruthir"
   - "selune"
+  - "senni"
   - "shar"
   - "snorbul"
   - "tarkathee-daru"
   - "thorna"
   - "vaas-redblade"
+  - "val-tengu"
+  - "veldyskar"
   - "vizerion-devir"
 places:
   - "anauroch"
@@ -35,7 +39,6 @@ places:
   - "feanons-tower"
   - "gracksuluth"
   - "gravenhollow"
-  - "keep-of-thunder-bluff"
   - "neverwinter"
   - "rockseeker-manufactory"
   - "selunia"
@@ -50,320 +53,97 @@ factions:
   - "bedine"
   - "drow-faction"
   - "duergar-faction"
-  - "netherese"
-  - "svirfneblin-faction"
   - "zhentarim"
 ---
 
-The group stands there in Entemoch’s boon, looking over the artefacts.
+The group stood in Entemoch's Boon, gazing upon the artefacts resting on the stone altar. Behind them, [[gurnik|Gurnik]] entered the chamber accompanied by an elemental, his expression suggesting there was more to discuss. The Gnomes wished the group to have the two items upon the altar, he explained, but a third had been found — something the Gnomes thought worth examining together.
 
-Behind them, Gurnik enters the chamber, accompanied by an elemental.
+Curious, they followed [[gurnik|Gurnik]] back through the tunnels to [[blingdenstone|Blingdenstone]]. Even with [[juiblex|Juiblex's]] departure so recent, the city was already stirring to life. Gnomes and Elementals pushed into the newly liberated wings of the ruined settlement, eager to reclaim and secure them before anything else moved in.
 
-He gestures to the artefacts, saying that the Gnomes want the group to have the two on the altar, but a third was found by the Gnomes when they came down here before the group and it is worth looking at together.
+## The Gemstone Lens
 
-Curious, the group follows Gurnik and heads back to Blingdenstone.
+[[gurnik|Gurnik]] led them to the Chief's residence, up the wide stone steps and into the great meeting hall. The table was buried under scrolls and books, and at its centre rested a massive diamond — the size of a dinner plate and a good three inches thick. [[aliyah-faen-tlabbar|Patches]] and [[gundren-rockseeker|Gundren]] pulled out jewellers' kits. [[snorbul|Snorbul]] laid a hand on the thing and remarked that it was warm. [[cirrus-al-kayan|Cirrus]] checked for sigils while [[feanon-serinde|Feanon]] began the painstaking work of identification.
 
-Despite the victory over Juiblex being so fresh, even now, Gnomes and Elementals can be seen pushing out into The newly open wing of the ruined city.
+[[dorbo|Dorbo]] and his wife [[senni|Senni]] remarked that they had no idea what it was — only that it was ancient, covered in old Gnomish script, and bore the symbols of several gods. The group confirmed the markings: [[selune|Selune]], [[eilistraee|Eilistraee]], [[mystra|Mystra]], Callarduran, and the Stonefather. Seeing [[selune|Selune's]] symbol stoked [[cirrus-al-kayan|Cirrus']] interest, and he bent to study it intently.
 
-Making it back without issue, the group is led through the city, Gnomes bustling to and fro, putting together caravans to head into the newly safe city sections, eager to move in and secure them  before other things do.
+The examination continued but the artefact defied easy identification. The best they could determine was that it served as some manner of spell "scroll" — a focusing lens for a ritual of considerable power. They dubbed it the [[gemstone-lens|Gemstone Lens]].
 
-Gurnik leads them to the Chiefs residence, approaching the large Svirfneblin structure and ascending the wide steps.
+## The Treaty of Blingdenstone
 
-The group enters and finds the great meeting table of the Gnomish leaders to be covered in scrolls and books and at the tables center is a massive Diamond the size of a dinner plate and a good three inches thick.
+The Gnomes then turned the conversation toward treaties and formal allegiance. Negotiations began in earnest — regular trade and a mutual protection pact.
 
-Fascinated, the group moves in to take a look; Patches and Grundren pulling out jewelers kits, Snorbul touching the thing and remarking that its warm, while Cirrus checks it for sigils and Feanon begins to identify the thing.
+They hammered out the terms: twice a month, a caravan of twenty Gnomes would be teleported to and from [[blingdenstone|Blingdenstone]], most of them wererats making the trip to see the full moon or returning from a stay on the surface. A specially shielded chamber would protect against wild magic during transit, with [[dorbo|Dorbo]] overseeing the summoning circle on the Gnomish end. The Gnomes would bring twelve thousand gold in gemstones — traded at cost — in exchange for food, timber, and labour to assist in their rebuilding. After pricing the goods, the [[selunia|Barony]] netted roughly three thousand gold in cut gemstones per month. Additionally, the Gnomes would supply five hundred gold worth of salt each month at no charge — far easier than shipping it overland from the [[anauroch|Anauroch]] via the [[bedine|Bedine]].
 
-Dorbo and his wife, Senni, remark that they have no idea what the thing is other than old, covered in ancient Gnomish script and has several gods older symbols across it.
+In return, the Gnomes received a mutual protection pact with [[selunia|Selunia]], access to the [[gemstone-lens|Gemstone Lens]] once it was understood, and — perhaps most valuably — a trade route that bypassed both [[gracksuluth|Gracksuluth]] and Mantol Derith entirely, relieving considerable financial pressure from [[duergar-faction|Duergar]] and [[zhentarim|Zhentarim]] controlled markets.
 
-Indeed, as the group is told this, they note the gods mentioned across its surface: Selune, Elistraee, Mystra, Callarduran, and The Stonefather.  
+[[cirrus-al-kayan|Cirrus]] declared the preliminary terms sound and promised to have Magistrate Li handle the fine details, with formal notarization by the High Courts of [[silverymoon|Silverymoon]].
 
-Seeing Selune’s symbol on this artefact stokes Cirrus’ interest and he begins to study it intently.
+## Return to the Barony
 
-The examination continues but the thing seems to defy identification, the best the group can figure is that it is some kind of spell “scroll” and is a focusing lens for the ritual.
+The group teleported home with ease — the destruction of so many demons around [[blingdenstone|Blingdenstone]] had sealed many of the planar fissures, making transit clean and painless. They appeared atop [[feanons-tower|Feanon's tower]], blinking in the spring morning light as it washed over the [[selunia|Barony]].
 
-The Gnomes then turn the conversation toward treaties and written allegiances, and negotiations begin for regular trade and a potential alliance.
+Each went their own way. [[tarkathee-daru|Tark]], [[gundren-rockseeker|Gundren]], [[aliyah-faen-tlabbar|Patches]], and [[snorbul|Snorbul]] headed into town, with [[gundren-rockseeker|Gundren]] peeling off to check on the [[rockseeker-manufactory|Manufactory]]. [[thorna|Thorna]] and [[cirrus-al-kayan|Cirrus]] went to see [[beryan|Beryan]] the Sage, while [[feanon-serinde|Feanon]] went to check on his apprentice [[ruthir|Ruthir]].
 
-They hammer out the following:
+The apprentice was working diligently but had been completely stumped by the damaged Ring of Spell Turning — unable to determine how to restore the cracked gemstone and restabilize the magic within. [[feanon-serinde|Feanon]] looked over the work, corrected a few mistakes, and set [[ruthir|Ruthir]] to calculating equations while he slipped away to inspect his cloning facility. The clone was growing well, nearing maturity. The philotic connection was strong and healthy, the body free of degeneration or defects. The wizard smiled at his progress.
 
-Twice a month a caravan will be teleported to and from Blingdenstone consisting of twenty gnomes.
+## Beryan's Research
 
-The gnomes will mostly be wererats, making the trip to see the full moon or returning from a stay on the surface.
+Meanwhile, [[cirrus-al-kayan|Cirrus]] and [[thorna|Thorna]] found [[beryan|Beryan]] downstairs in her office beside the tower library, taking notes from an ancient text. The sage greeted them warmly and mentioned to [[thorna|Thorna]] that she had found information on the goddess [[auril|Auril]].
 
-A chamber will be made specially to be shielded from wild magic to ensure the safety of the trip, Dorbo will begin on the summoning circle on their end in that chamber.
+[[beryan|Beryan]] explained that [[auril|Auril]] was the goddess of the harsher aspects of winter — storms, darkness, cold, predatory hunger — and that her clergy frequently extorted people in exchange for "milder" winters. There was theological debate about other mantles of power the goddess might hold: the Lady of Winter in the Unseelie Fae court, the being known as Princess Maeve, daughter of Mab, Queen of Air and Darkness.
 
-The Gnomes will bring with them 12,000gp in Gemstones, trading at cost, for things like food, Wood or even labor to assist in the rebuilding of their city and the strengthening of their borders.
+[[cirrus-al-kayan|Cirrus]] grew impatient and interjected. [[thorna|Thorna]], given much to think over, left the tower and headed into town. [[cirrus-al-kayan|Cirrus]] then handed over the silk-wrapped [[gemstone-lens|Gemstone Lens]]. [[beryan|Beryan]] was awestruck, immediately reaching for a magnifying glass and notebook. She found a passage in an old holy book of [[selune|Selune]] — a book of ancient legends and myths — and showed [[cirrus-al-kayan|Cirrus]] a symbol that was an almost exact match for the one on the diamond.
 
-After pricing in the goods being sold to the Gnomes, the Barony nets about 3,000gp in Cut gemstones a month to then be divided as the Barony rulers see fit.
+The symbol was used in reference to something called Moonfire: *"Called down from the heavens, the light of the goddess did coalesce and the Moonfire engulfed the offering and with it great works were wrought by the faithful..."*
 
-Additionally, the Gnomes mine salt, which is a far easier purchase than having it shipped from the Anauroch by the Bedine.
+[[cirrus-al-kayan|Cirrus']] eyes went wide. He had [[beryan|Beryan]] focus on this project above all others.
 
-The Gnomes will supply the Barony with 500gp of salt for free a month.
+## Mordenkainen's Wall
 
-**The Barony gets:**
+The others made it to town without incident. [[snorbul|Snorbul]] spotted the wartigers enjoying the hearth and went to pet them, noting they looked larger and more muscular than before. As [[aliyah-faen-tlabbar|Patches]] and [[tarkathee-daru|Tark]] headed toward their regular table, [[pickles|Mr. Pickles]] approached with word that their honoured guest was out by the eastern gate, near the newly constructed walls.
 
-**3,000gp in gems**
+[[aliyah-faen-tlabbar|Patches]] came clean to [[tarkathee-daru|Tark]] — [[mordenkainen|Mordenkainen]] was in the [[selunia|Barony]], hiding here for a few days. [[tarkathee-daru|Tark]] was unsurprised that she had kept the secret but excited to see Stick nonetheless. They walked along the road toward the gate and easily spotted the new wall circling the settlement. The progress was astounding for barely a week's work — and the reason became clear as they approached. [[mordenkainen|Mordenkainen]] levitated above a section of wall, telekinetically assembling stone slabs and bricks while a team of Dwarven masons sealed and finished each section behind him. A second crew hauled material to the site as the archmage made quick work of every delivery.
 
-**500gp in salt**
+[[tarkathee-daru|Tark]] flew up on the power of his staff and surprised the archmage. Both Stick and Mordy greeted the monk warmly — [[tarkathee-daru|Tark]] hugging the man and noting that his legs were still tiny — before they drifted down to chat. [[mordenkainen|Mordenkainen]] thanked them for their hospitality, mentioning that his legs would be fully regenerated within the day and that he wished to repay their kindness by finishing the wall.
 
-**Taking the Gemstone Lens Artefact to the Barony for further study**
+The archmage returned to the sky. [[tarkathee-daru|Tark]] and [[aliyah-faen-tlabbar|Patches]] continued along the road, [[tarkathee-daru|Tark]] having caught the scent of [[horatio-von-bumidere|Buumi]] approaching by carriage. As they walked, [[aliyah-faen-tlabbar|Patches]] asked who she should have teach her son wizardry once they saved him — [[feanon-serinde|Feanon]] or [[mordenkainen|Mordenkainen]]. [[tarkathee-daru|Tark]] voiced his concerns about Mordy's power, that interplanetary archwizards probably did not care much for the little people. [[aliyah-faen-tlabbar|Patches]] agreed but had similar worries about [[feanon-serinde|Feanon]]. [[tarkathee-daru|Tark]] concluded that if she wanted her son taught properly, [[feanon-serinde|Feanon]] was the one to do it — and it was all their job to keep the wizard grounded.
 
-**The Gnomes get:**
+The carriage drew close and [[horatio-von-bumidere|Buumi]] and Li stepped out with news. In three weeks, a debutante ball would be hosted in [[silverymoon|Silverymoon]] with all the Heralds invited and [[cirrus-al-kayan|Cirrus]] as guest of honour — part of its purpose being to find the new lord a bride. [[horatio-von-bumidere|Buumi]] pulled [[tarkathee-daru|Tark]] into the carriage's relative privacy and confessed that his family had surprised him with a betrothal to some noblewoman in [[neverwinter|Neverwinter]] whose name he did not even know. It was to be formally announced at the ball. [[tarkathee-daru|Tark]] asked about [[aliyah-faen-tlabbar|Patches]], and [[horatio-von-bumidere|Buumi]] could only say he did not know — it was all so confusing.
 
-**A mutual protection pact with Selunia**
+## The Manufactory Opens
 
-**Access to the Lens once it has been figured out**
+[[gundren-rockseeker|Gundren]] met with his craftsmen, now fully settled in the [[rockseeker-manufactory|Manufactory]], and briefed them on the upcoming competition in Gantlgrym. The workshop was running well and the experts were in place. The [[rockseeker-manufactory|Manufactory]] was finally ready for full business.
 
-**Bypassing Mantol Derith and Gracksuluth for Trade, relieving a great deal of financial pressure on the Gnomes (one being run by Duergar, the other by the Zhentarim).**
+## Descent to Gravenhollow
 
-Cirrus says that the preliminary treaty sounds good and he will have Magistrate Li go over the fine details and have it formally notarized by the High Courts of Silverymoon.
+The group relaxed through the afternoon, then reconvened at [[feanons-tower|Feanon's tower]] as evening fell. The wizard teleported them back to [[blingdenstone|Blingdenstone]], and they struck out into the wilds of the [[underdark|Underdark]]. They put as much distance as they could between themselves and any semblance of civilization, passing fields of shockgrass and the Rothe that grazed there. Finding a suitable campground, they climbed into a crack in the tunnel ceiling and summoned both a Tiny Hut and a Magnificent Mansion.
 
-This concludes the negotiations and the group leaves the Diggermattock residence to discuss their next plans.
+They awoke to a rumbling, strangely modulated moaning — or perhaps singing. [[tarkathee-daru|Tark]] and [[aliyah-faen-tlabbar|Patches]] moved to investigate, following the sound up the tunnel to a point where it widened into a proper cavern. There, against one wall, stood an archway of carved stone opening onto a crystalline stairway — broad enough for two giants to walk abreast. Atop a nearby mineral outcropping sat the source of the sound: a Basilisk, singing.
 
-They have the key to Gravenhollow and Feanon says that now he has it attuned they need only spend the night out in the wilds for the Library to come to them.
+The creature noted their approach and greeted them in a rumbling voice, introducing itself as [[veldyskar|Veldyskar]], a resident of [[gravenhollow|Gravenhollow]] sent to escort them into the library. [[tarkathee-daru|Tark]] and [[aliyah-faen-tlabbar|Patches]] fetched the others, and together they descended.
 
-Tark is anxious to continue on the Gravenhollow but upon hearing that they HAVE to wait, he reluctantly agrees to head back to the Barony.
+[[veldyskar|Veldyskar]] explained that [[gravenhollow|Gravenhollow]] was a demi-plane of earth — not unlike [[barovia|Barovia]] had been a demi-plane of shadow — but here the entire plane was itself a living entity, attended by three Stone Giant librarians. While the adage of the library holding all knowledge was technically true, it was more theoretical. There were chambers of Past, Present, and Future, and the archivists scoured them for information relating to giants and their civilization. Everything else was recorded at the librarians' leisure, though due to the strange time dilations, all information could eventually be found — it just might take a very long time.
 
+The staircase levelled off and the tunnel opened before them, refracted light cascading from crystalline walls. The vista that greeted them stole the breath from their lungs: a massive geode-cavern kilometres across, a titanic crystal pillar connecting floor and ceiling at its centre. The ceiling soared five hundred metres at its peak, sloping to perhaps forty at the exterior walls. The far side was lost to atmospheric haze. Light poured from the crystal itself, refracting and reflecting off mineral deposits in every direction.
 
-The teleport is quick and painless with the destruction of so many demons around Blingdenstone sealing many of the planar fissures.
+A crystal roadway stretched toward the central pillar, and at this distance they could just make out a great gleaming door. The place bustled with natural activity — small elementals rumbling along, living crystal motes drifting through the air. [[veldyskar|Veldyskar]] cautioned that the biggest things to worry about were the worms, though they were docile enough if not bothered. [[aliyah-faen-tlabbar|Patches]] spotted large winged creatures among the crystal stalactites above.
 
-The group appears atop Feanon’s tower, looking out across the sunlit barony in the spring morning air.
+It took the better part of an hour to reach the heart of the demi-plane. The great brass doors of the library were flanked by two massive Stone Golems — each depicting a stone giant, clad in golden jewellery, their great gazes watching the group approach with no effort to hide their animated nature. The doors swung wide, each large enough to dwarf a giant, revealing a foyer of black marble threaded with veins of crystal and precious metals. The architecture was classical, titanic in scale, and absolutely magnificent.
 
-The group then heads out and about for the day, each with their own plans.
+Galeb Duhr bustled about carrying crystals of various colours, archiving them as [[veldyskar|Veldyskar]] explained. In a lounge area furnished for smaller folk near a roaring fire, a Drow male sat watching the group enter with a curling smile.
 
-Tark,Gundren, Patches and Snorbul all head into town, to Over the Moon with Gundren peeling off to check out his workshop.
+[[veldyskar|Veldyskar]] told them to touch any vein of ore or crystal and simply ask the library — it would take care of their needs. The Basilisk then touched a vein, a doorway appeared, and it departed.
 
-Thorna and Cirrus go to see Beryan the Sage and Feanon goes to check on his apprentice **Ruthir**.
+[[tarkathee-daru|Tark]] immediately touched a vein of gold and asked for the archive of the Future. A tunnel appeared and he was gone. [[cirrus-al-kayan|Cirrus]] asked for accommodations and vanished down his own corridor. [[thorna|Thorna]] and [[snorbul|Snorbul]] headed to the Archive of the Past, intent on uncovering her origins.
 
+[[horatio-von-bumidere|Buumi]], [[gundren-rockseeker|Gundren]], [[feanon-serinde|Feanon]], and [[aliyah-faen-tlabbar|Patches]] turned their attention to the Drow. He stood and bowed slightly, introducing himself as the Archmage [[vizerion-devir|Vizerion DeVir]]. [[feanon-serinde|Feanon]] studied the features — they were familiar. [[aliyah-faen-tlabbar|Patches]] remembered that House DeVir had been destroyed centuries ago by the Do'Urdens. This wizard must have been in exile for a very long time.
 
-The apprentice is working away diligently, but is completely stumped by the damaged Ring of Spell Turning having no idea how to fix the cracked gemstone and restabilize the magic within.
+[[feanon-serinde|Feanon]] placed the face at last. "Elion?"
 
-Feanon takes a look over it and checks the students' work, it's accurate for the most part and Feanon corrects a few mistakes.
+[[vizerion-devir|Vizerion]] smiled and nodded — he had indeed known [[feanon-serinde|Feanon]] from his time in [[silverymoon|Silverymoon]], disguised as Elion, one of [[feanon-serinde|Feanon's]] mage colleagues. [[aliyah-faen-tlabbar|Patches]] glanced at [[horatio-von-bumidere|Buumi]], gestured away, and the two of them headed to the chamber of the Present.
 
-An enchanting medium is going to be needed to fix the Gemstone in the ring and Feanon thinks that the ancient Prismeum that they recovered from the Netherese Sanctum might do the trick.
+[[cirrus-al-kayan|Cirrus]], finding a perfect replica of his rooms in the [[selunia|Barony]], touched the only thing out of place — a vein of ore running through the wall — and asked for the Archive of the Past.
 
-He has **Ruthir **start some equations and then heads to the lab, to the Cloning Facility.
+[[tarkathee-daru|Tark]] emerged into a large natural cavern threaded with raw gemstones and precious metals. At its heart, a massive amethyst chandelier descended from the ceiling a hundred feet above, shedding crystal shards that floated like falling stars into the waiting hands of Galeb Duhr below. Beneath the crystal heart stood a Stone Giant clad in crimson robes and gold bangles. The giant turned its bald grey head and fixed soft, glowing emerald eyes upon the monk. They crinkled with a smile.
 
-The clone is growing well and nears maturity.  Indeed, when checking the Philotic connection, Fea finds it to be strong and healthy and the clone seems to be lacking in degeneration or defects.
-
-The wizard smiles at his progress…
-
-
-Cirrus and Thorna meanwhile have found Beryan downstairs in her office by the tower library.
-
-The sage is taking notes from an ancient text as they come in and she greets them warmly, mentioning to Thorna that she has found some information on the goddess Auril.
-
-Beryan goes on to explain that Auril is the goddess of the harsher aspects of winter: storms, darkness, cold, predatory hunger and the like and is NOT a nice goddess, the clergy frequently extorting people in exchange for “milder” winters.
-
-Additionally, there is some theological debate about other “mantles of power” the goddess might hold; such as being the Lady of Winter in the Unseelie Fae court. The being known as Princess Maeve and the daughter of Mab Queen of Air and Darkness.
-
-Cirrus grows impatient and interjects, though Beryan is all but done and Thorna has a great deal to think over, leaving the tower and heading into town.
-
-Cirrus turns to his sage and then hands over the silk-wrapped Gemstone Lens.
-
-Beryan is in awe and excitedly begins to go over it, grabbing a magnifying glass and a notebook.
-
-Cirrus points out the markings of Selune as well as passages of ancient text he cannot make out.
-
-Beryan goes to an old holy book to Selune, a book of ancient legends and myths and begins flipping through it, stopping at a page and showing it to Cirrus.
-
-The symbol on the page is an almost exact match for the one on the Diamond Lens.
-
-In the book, the Symbol is used in reference to something called **Moonfire:** “Called down from the heavens, the light of the goddess did coalesce and the Moonfire engulfed the offering and with it great works were wrought by the faithful...”
-
-Cirrus’ eyes go wide and his NEED to find out more only intensifies, he has Beryan focus on this project above all others.
-
-
-The others make it to town uneventfully, Gundren peeling off to go up to the Keep while the others all head into the Tavern.
-
-Snorbul spots both Wartigers enjoying the hearth and he decides to go over and try and pet the giant beasts again.  He notes that they are definitely looking a bit bigger and more muscular than before, strange…
-
-As Patches and Tark head toward their regular table, Mr. Pickles approaches.
-
-He tells Patches that their honored guest is out by the Eastern gate, by the newly constructed walls.
-
-Patches thanks the Goblin and then comes clean to Tark, telling him that Mordenkainen is in the Barony and that he was hiding here for a few days.
-
-Tark is unsurprised that Patches kept this from him but is excited to see Stick again nonetheless.
-
-The two of them decide to head along the road to the gate to see the archmage.
-
-They walk through the idyllic town center and head along the road, easily spotting the new wall circling the Barony.  
-
-The progress is astounding, having only been under construction for a week or so.
-
-The speed of construction becomes clear as they approach and spot Mordenkainen levitating above a section of the wall, telekinetically assembling the stone slabs and bricks into a wall which is then sealed and finished by a Team of Dwarven masons.
-
-An entire second team is dedicated simply to hauling more material to the site a Mordy makes quick work of the available materials, quickly assembling an entire section of wall.
-
-The Archmage is a little surprised as Tark appears next to him, flying through the power of his staff.
-
-Both Stick and Mordy greet the Monk warmly, the monk hugging him (and noting his legs are tiny) and they then drift down to the ground to chat.
-
-Mordy thanks the group for their hospitality, mentioning that his legs should be fully regenerated in another day or so and in the mean time, he will do what he can to pay the group back for their hospitality by creating the wall for them.
-
-He also has set up in a suite in Over the Moon and is paying very well for the service.
-
-Mordy heads back into the sky to continue his work, leaving Tark and Patches who continue out the gate and along the road as Tark thinks he smells Buumi and Li approaching and he spotted a carriage on the road while he was up in the air.
-
-Patches and Tark talk as they go, Patches asking Tark who she should ask to teach her son wizardry after they save him: Feanon or Mordenkainen.
-
-Tark says he’s worries about how powerful Mordy is, that he may have lost touch with reality a little as interplanetary Archwizards probably don't care, or won't do much for the little guy.
-
-Patches agrees, but has similar worries about Fea.
-
-Tark goes on to say that if she wants her son taught properly, Feanon is the one to do it and its all of their job to keep Feanon grounded.
-
-Patches agrees just as the carriage draws close, slowing down as it approaches the well known duo.
-
-Buumi and Li get out of the carriage and greet their friends discussing the recent events.
-
-Li mentions that in 3 weeks there is a debutante ball to be hosted in Silverymoon and all of The Heralds are invited with Cirrus as the guest of honor as a new lord in the area.
-
-Indeed, the intent of the ball is partly to find the Lord a bride.
-
-Buumi manages to extricate him and Tark back to the relative privacy of the carriage.
-
-Inside, he tells Tark that his family has surprised him with a betrothal to some noblewoman in Neverwinter, he doesnt even know her name.
-
-It is to be formally announced at the Debutante ball.
-
-Tark asks about Patches and Buumi responds saying he doesnt know, its all so confusing and Tark agrees.
-
-Patches, Li, Buumi and Tark all then head back into town.
-
-
-Gundren meets with his craftsmen who are now fully settled and he briefs them on the upcoming competition in Gantlgrym (happening over a month from now).
-
-The workshop is up and running well and the experts are fully settled.
-
-The Manufactory is finally ready to open for full business.
-
-
-The group relaxes for the rest of the day, meeting back up at Feanons tower in the evening.
-
-The wizard then teleports everyone back to Blingdenstone and they head out from the Deep Gnome settlement, into the wilds of the Underdark once more.
-
-They head out, putting as much distance as they can between themselves and any semblance of civilization.
-
-They make good time, passing a field of Shockgrass and the Rothe living there and find a good potential campground for the night.
-
-They climb up into a crack in the ceiling of the tunnel and summon a Tiny hut and Magnificent mansion, ensuring their security for the night.
-
-They retire, exhausted but excited for what the next day will bring.
-
-
-They awake the next morning.
-
-Tark and Patches hear it first, a rumbling and strangely modulated moaning or singing.
-
-They move in to investigate, heading up the tunnel to a point where it widens almost to the point the “tunnel” becomes a cavern.
-
-There, against one large wall is an archway of carved stone, opening to a crystalline stairway large enough to easily allow two giants to walk down it abreast.
-
-They also notice that all the mineral deposits in the area are noticeably more defined and impressive than the day before and atop one such outcropping is the source of the strange noise.
-
-A Basilisk is singing.
-
-It notes their approach and greets them in a rumbling voice, introducing itself as **Veldyskar, **a resident of Gravenhollow sent to escort the group into the library.
-
-Tark and Patches fetch the rest of the group and they eagerly convene at the start of the massive glittering stairway.
-
-Veldyskar leads them and they begin their lengthy descent.
-
-The group questions the talking basilisk, asking about Gravenhollow.
-
-They discover that the place is a demi-plane of earth, not unlike Barovia was a demi-plane of shadow.
-
-This one however, the entire plane is an entity - Gravenhollow, attended to by three Stone Giant librarians.
-
-While the adage of the library holding all knowledge is true, it’s more theoretical.
-
-There is a chamber of past, present and future and the librarians scour them for information relating to the giants and their civilization.
-
-Therefore anything related to giants is meticulously recorded, everything else is recorded at the librarians leisure.
-
-Due to the strange time dilations of the library, all information can eventually be found here, it just might take a long time…
-
-The staircase finally begins to level off and the group sees the tunnel open up before them, refracted light cascading and reflecting from the crystalline walls.
-
-The tunnel opens into a massive cavern, kilometers across with a massive crystal pillar connecting the floor and ceiling in the center.
-
-At its highest point, the ceiling of the massive geode is at least 500 meters, sloping down to the exterior walls of the place at around 40m.
-
-It is so large that the other side is lost to the haze of atmospheric perspective.
-
-The light is brilliant as it appears that much of the crystal within the geode is emitting light and reflecting off of the many mineral deposits of the area.
-
-Before them, is a roadway of crystal, the plane going straight toward the main pillar, from this distance, a great gleaming door can barely be seen in the column.
-
-The group, in awe of the place, begin their trek across the crystal planes of the geode toward the library.
-
-Around them, the place is a bustle of natural activity, with small elementals rumbling along or living crystal motes floating in the air.
-
-The group asks what lives out there and the Basilisk says the biggest thing to worry about are the worms, but their docile enough if not bothered.
-
-Patches spots movement in the massive crystal stalacmites above, there’s some kind of large winged creatures up there.
-
-It takes the better part of an hour, but the group finally makes it to the heart of the demi-plane, the crystal pillar that constitutes the library itself.
-
-As the group approaches, the great brass doors of the place are flanked by two massive Stone Golems.
-
-Each depicting a stone giant and clad in golden jewelry and bangles, their great stone gazes watch the group approach, making no effort to hide their animated nature.
-
-The brass doors swing wide, each large enough to dwarf even a giant, and open to reveal the foyer of a massive stone complex.
-
-Made of black marble and threaded with veins of natural crystal and precious metals, the interior is of a classical greco-roman design, yet scaled to a being far, far larger than a human.
-
-The titanic architecture dwarfs the current occupants of the foyer and the group takes in the bustling sight of the place.
-
-Earthen Galeb Duh bustle to and fro, many carrying crystals of various colors, some glowing.
-
-Veldyskar mentions that they are archiving the crystals.
-
-The other occupant of the space is sitting in a lounge of sorts, a collection of comfortable looking “small-folk” scaled furnishings near a roaring fire.
-
-The Drow male sits there, gazing at the group as they enter, a smile curling at his lips.
-
-The group takes note.
-
-They ask Veldyskar how to get around and the Basilisk says to touch any vein of ore or crystal and simply ask the library, it will take care of their needs.
-
-The Basilisk then touches a vein, and a doorway appears through which Veldyskar leaves.
-
-Tark immediately touches a vein of gold and asks to go to the archive of the future.
-
-A tunnel appears and he heads down it.
-
-Cirrus asks for accommodations and a tunnel appears for himself.  He heads down it.
-
-Thorna and Snorbul immediately head to the Archive of the Past, intent on finding out about her origin.
-
-Buumi, Gundren, Feanon and Patches are looking at the Drow.
-
-They approach and the Drow stands and bows slightly and introduces himself as the Archmage Vizerion DeVir.
-
-Feanon looks at the wizard and notes that the features are familiar, the group then introduces themselves as The Heralds.
-
-Patches remembers that House DeVir was destroyed centuries ago by the Do’Urdens.  This wizard has probably been in exile for a long, long time.
-
-Feanon finally place the features and remarks “Elion?”
-
-Vizerian smiles and nods, he mentions that indeed, he knows Feanon from his time in Silverymoon in the guise of Elion, Feanon’s mage colleague.
-
-Patches looks to Buumi and gestures away and the two of them head to the chamber of the present.
-
-Cirrus finds himself in a perfect replica of his rooms in the barony.
-
-Astounded, but seeking answers, he touches a vein of ore running through the wall (the only thing out of place in this otherwise perfect replica) and asks for the archive of the Past.
-
-Tark exits the tunnel and finds himself in a large natural cavern, the raw rock threaded with raw gemstones and lines of precious metal.
-
-At the heart of the cavern, a massive amethyst chandelier of crystal descends from the ceiling, a hundred feet overhead.
-
-The Amethyst is shedding and raining crystal shards that float to the cavern below where they are caught by a bustling army of Galeb Duhr, the crystals glowing like falling stars.
-
-At the lowest point of the crystal heart of the library stands a Stone Giant, clad in crimson robes and Gold bangles.
-
-With a rumbling voice, the giant turns its bald, grey head and affixes soft glowing emerald eyes upon the monk.  They crinkle with a smile.
-
-“Welcome Tarkothy Daaru of Vaasa. One of The Heralds. I have been expecting you.”
+"Welcome, Tarkothy Daaru of [[vaasa|Vaasa]]. One of the Heralds. I have been expecting you."
