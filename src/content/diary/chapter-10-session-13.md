@@ -8,6 +8,7 @@ people:
   - "delly-griplim"
   - "fen"
   - "finn"
+  - "grein-osstyl"
   - "gromph-baenre"
   - "gundren-rockseeker"
   - "jarlaxle"

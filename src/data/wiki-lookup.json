@@ -1269,6 +1269,16 @@
     "title": "Gravenhollow",
     "category": "Places"
   },
+  "grein osstyl": {
+    "slug": "grein-osstyl",
+    "title": "Grein Osstyl",
+    "category": "People"
+  },
+  "grein": {
+    "slug": "grein-osstyl",
+    "title": "Grein Osstyl",
+    "category": "People"
+  },
   "the grey ghosts": {
     "slug": "grey-ghosts",
     "title": "The Grey Ghosts",
@@ -1797,6 +1807,11 @@
   "kimmuriel": {
     "slug": "kimmuriel",
     "title": "Kimmuriel",
+    "category": "People"
+  },
+  "kirangelos": {
+    "slug": "kirangelos",
+    "title": "Kirangelos",
     "category": "People"
   },
   "klarg": {

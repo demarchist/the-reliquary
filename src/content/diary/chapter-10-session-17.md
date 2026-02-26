@@ -10,6 +10,7 @@ people:
   - "feanon-serinde"
   - "fen"
   - "finn"
+  - "grein-osstyl"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"

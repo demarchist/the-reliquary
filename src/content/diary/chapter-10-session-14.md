@@ -10,6 +10,7 @@ people:
   - "demogorgon"
   - "feanon-serinde"
   - "finn"
+  - "grein-osstyl"
   - "horatio-von-bumidere"
   - "jarlaxle"
   - "kangaxx"

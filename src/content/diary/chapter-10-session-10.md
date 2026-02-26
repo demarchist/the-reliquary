@@ -3,9 +3,9 @@ title: Beyond the Veil - The Gallery of Angels
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 10
+summary: "The group braved ancient Glyphs of Antipathy and Sympathy to enter the Gallery of Angels — a prison of petrified fallen angels deep beneath the Labyrinth. They harvested six feathers for Vizerion's ritual while resisting the angels' desperate offers of power. Baphomet arrived and cornered them, but Feanon teleported the group to safety just as the Demon Lord reached them. Back home, Feanon decoded Vizerion's hidden spell — a soul-harvesting ritual — and Tark was tormented in dreams by Zhengyi."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "baphomet"
   - "cirrus-al-kayan"
   - "doc"
@@ -17,7 +17,6 @@ people:
   - "intent"
   - "kenshi"
   - "orcus"
-  - "ront"
   - "shar"
   - "tarkathee-daru"
   - "theodemir"
@@ -36,206 +35,70 @@ factions:
   - "svirfneblin-faction"
 ---
 
-The group finds themselves descending an ancient stone tunnel, mostly natural but peppered with bricks or supporting archways.
+The ancient tunnel descended into near-absolute darkness. [[horatio-von-bumidere|Buumi]] could see barely five feet ahead; the others, with their darkvision, fared somewhat better. Ahead, they saw the metal slab of a door and, etched into the stone before it, a symbol.
 
-The tunnel is in near absolute Darkness and Buumi can only see about 5ft in front of him.
+[[cirrus-al-kayan|Cirrus]] immediately turned around and walked away, then continued talking as if nothing had happened. [[tarkathee-daru|Tark]] staggered for a moment before closing his eyes and focusing his mind. [[aliyah-faen-tlabbar|Patches]] looked at her forearm — the mercury of [[eclipse|Eclipse]] was writhing.
 
-The others, with their darkvision can see farther.
+## The Wards
 
-Up ahead, they see a metal, slab-like door.
+[[tarkathee-daru|Tark]] called out that the glyph was pushing them away with some kind of compulsion magic. [[feanon-serinde|Feanon]], bolstered by the blessings of Helm through [[horatio-von-bumidere|Buumi]], approached and confirmed a Glyph of Antipathy — a spell designed to repel intruders. [[tarkathee-daru|Tark]], having braved the compulsion, returned with the padlock from the door, its metal sheared clean through by something incredibly hot.
 
-As they approach, Patches spots a symbol, etched into the stone ground before it.
+They forced their way past the glyph and heaved against the ancient stone door until rust and mineral deposits cracked and the thing swung inward. Beyond lay a small chamber with an identical door fifteen feet across — and a floor covered in ancient, mummified corpses.
 
-The group moves forward cautiously
+[[aliyah-faen-tlabbar|Patches]] and [[tarkathee-daru|Tark]] moved to cross the room. They could not leave. A mental block held them — a Glyph of Sympathy, a psychic glue-trap. [[gundren-rockseeker|Gundren]] heard something echoing down the tunnel behind them. They were not alone.
 
-As they do, Cirrus immediately turns around, walks away and then continues talking as if nothing had happened.
+[[cirrus-al-kayan|Cirrus]], on [[feanon-serinde|Feanon's]] advice, cast a Hypnotic Pattern to knock them unconscious so they could be physically removed. [[aliyah-faen-tlabbar|Patches]] succumbed; [[tarkathee-daru|Tark]] resisted. [[horatio-von-bumidere|Buumi]] dragged [[aliyah-faen-tlabbar|Patches']] body from the room, and she awoke moments later, freed from the compulsion.
 
-Tark too staggers for a moment, before closing his eyes and focusing his mind.
+[[aliyah-faen-tlabbar|Patches]] tossed [[tarkathee-daru|Tark]] a satchel charge and black powder. He piled the desiccated corpses in a corner — smashing one that animated as a skeleton — and sheltered behind ancient plate armour. The charge detonated and the inner door blew inward, revealing a dark stone chamber lined with statues.
 
-Patches looks at her forearm and notes the Mercury of Eclipse writhing.
+With [[horatio-von-bumidere|Buumi's]] blessings of Helm bolstering them, the group blitzed through the glyphs and into the chamber beyond, dropping a spell of Darkness behind them as the sounds of hyenas and Gnolls echoed from the tunnel.
 
-Tark calls out to the group that the Glyph is pushing them back with some kind of magic.
+## The Gallery
 
-Feanon suspects what they're dealing with and with Buumi, they head to the door.
+Each statue was a classical angel sculpture — feathered wings ranging from a single pair to several — all frozen in different poses. Several of the group thought they saw movement at the edges of their vision.
 
-With the blessings of Helm protecting him, Feanon confirms that they are dealing with a Glyph of Antipathy - a spell to drive people away.
+The statues were petrified and imprisoned fallen angels.
 
-Buumi and Feanon back away from the magic, back to Cirrus, who is understandably concerned by the whole affair.
+Some offered answers. Others tried charm. Still others lashed out mentally. All were desperate to be freed and offered the party power in exchange. [[gundren-rockseeker|Gundren]] accepted a gift from one — a silver coin that materialised in a statue's hand — but [[feanon-serinde|Feanon]] warned the others against accepting anything, fearing a Magic Jar situation and potential possession. He voiced a deeper concern too: the angels here were clearly suffering.
 
-Tark joins them a moment later, having retrieved the padlock from the door, the metal cut.
+[[gundren-rockseeker|Gundren]] looked at the coin in his hand and, after conversing with the entity within, decided the risk was not worth taking. The angel clawed at his mind, desperate not to be left behind — but with [[horatio-von-bumidere|Buumi's]] paladin presence steadying him, [[gundren-rockseeker|Gundren]] dropped the coin. [[aliyah-faen-tlabbar|Patches]] kicked it away into the darkness.
 
-He heaves the thing to the ground and they inspect the ancient device, noting that the metal has been sheared through by something incredibly hot.
+They moved from statue to statue, carefully breaking feathers free — six from six different angels — while one of the imprisoned beings issued a warning: [[baphomet|Baphomet]], Prince of Beasts, was approaching.
 
-How long ago this happened is anyone's guess.
+## Baphomet
 
-They brave the Antipathy rune again and heave against the ancient stone door and after some effort, the rust and mineral deposits crack and flake from the hinges and thing thing swings inwards.
+The Gnolls up the tunnel encountered something horrific. The sounds of their grisly deaths echoed through the passage. The Darkness spell was dispelled, and a hulking, hairy form filled the tunnel leading from the Gallery of Angels. [[baphomet|Baphomet]] grinned at them and strode forward through the defensive glyphs, seemingly unaffected.
 
-Patches and Tark move forwards, into a small chamber with an identical door across the 15ft room from the one they entered from.
+The Demon Lord called out in a guttural voice. He knew their smell — he had found the battle site where they drove [[yeenoghu|Yeenoghu]] away — and he would parlay. Unconvinced but willing to stall, they began a dialogue. It was quickly apparent that even if the Demon Lord was truthful about wanting an alliance against [[yeenoghu|Yeenoghu]], he would be unable to restrain his bloodlust for long.
 
-The first thing they notice is that the floor here is covered in ancient, mummified corpses.
+[[baphomet|Baphomet]] promised to lead them to ancient treasures hidden in the maze, then moved forward — and hit the Wall of Force [[cirrus-al-kayan|Cirrus]] had erected. The Demon Lord snarled. [[gundren-rockseeker|Gundren]], turning to leave, was grabbed from behind by one of the angel statues. [[aliyah-faen-tlabbar|Patches]] shot the hand with her revolver, shattering it and freeing him.
 
-Concerned, they turn to leave the room, only to find that they are unable to leave, a mental block stops them from stepping over the threshold...
+[[baphomet|Baphomet]] teleported into the room. [[feanon-serinde|Feanon]] enacted his own teleport at the same instant, and they fled the [[underdark|Underdark]], leaving the great beast behind.
 
-Moving the corpses, they find another rune which Feanon guesses is a rune of Sympathy, a mental glue-trap.
+## Aftermath
 
-Gundren hears something echoing down the tunnel behind the group and mentions that they may not be alone much longer.
+They materialised atop [[feanons-tower|Feanon's tower]], breathing heavily. After catching their breath, they dispersed for the night.
 
-Cirrus, fearing for his friends and on the advice of Feanon, tries to render both Patches and Tark unconscious so they can be removed from the trap.
+[[feanon-serinde|Feanon]] checked on [[theodemir|Theodemir]], who was still adapting to the clone body — his ability to cast severely diminished, though his mind was sharp. Together, over the next few hours, they pieced together [[vizerion-devir|Vizerion's]] true intent from multiple sources.
 
-Patches is caught by the Hypnotic pattern, but Tark resists the magic.
+The spell did what the archmage claimed: drawing the Demon Lords together and forcing them into a bloody rage until they could be permanently banished. But beneath the summoning lay a far more subtle ritual — one of transfer. By tapping into the [[ethereal-plane|Ethereal Plane]] and drawing souls into a singularity, [[vizerion-devir|Vizerion]] would consume the power of every death within miles. [[feanon-serinde|Feanon]] was certain the [[drow-faction|Drow]] intended for maximum collateral damage.
 
-Patches body though, is thrown from the room to a waiting Buumi, who then drags Patches to safety, away from the magical traps.
+[[gundren-rockseeker|Gundren]] checked on the Belt of Giant Strength — the giant's blood had come in from [[sundabar|Sundabar]], but he was still waiting on the hearts. [[aliyah-faen-tlabbar|Patches]] noted the [[svirfneblin-faction|Svirfneblin]] trading delegation from [[blingdenstone|Blingdenstone]] had arrived and planned to visit them for gemstones.
 
-She awakes moments later, freed of the spell effects.
+## Zhengyi's Dream
 
-Coming up with a plan, Patches tosses Tark one of her satchel charges and black powder.  They plan on blowing the inner door.
+[[tarkathee-daru|Tark]] slept at his tree fort, exhausted. He found himself in a familiar dream — the Yellow Monastery, sent by [[zhengyi|Zhengyi]].
 
-Concerned about the blast, Tark piles the long desiccated corpses in a corner (smashing one that comes to life as a skeleton) and then using the ancient plate armor as a shelter against the blast.
+Furious, he stormed through the dreamscape to the garden overlooking the Bloodstone Mountains. There, beneath a blossoming tree, sat the illusionary form of [[kenshi|Kenshi]] — [[zhengyi|Zhengyi]] in disguise. [[tarkathee-daru|Tark]] made no effort to hide his anger, condemning the Lich and promising destruction. Oddly, [[kenshi|Kenshi's]] smile only flickered. The Lich said his reaction was good, then asked if they could keep chatting like this. [[tarkathee-daru|Tark]] said no. [[kenshi|Kenshi]] wondered if [[cirrus-al-kayan|Cirrus]] would enjoy some talks.
 
-The satchel charge is detonated and the door is blown inwards, revealing a dark stone chamber, lined with statues.
+[[tarkathee-daru|Tark]] told him it would not matter — the group was coming for him and his master, [[orcus|Orcus]].
 
-The group moves in, and with the blessings of helm bolstering them, manage to blitz through the Glyphs and into the dark chamber beyond.
+As [[tarkathee-daru|Tark]] turned to leave, [[kenshi|Kenshi]]/[[zhengyi|Zhengyi]] called after him: his old master [[gaddock|Gaddock]] had taken well to vampirism and was enacting bloody justice in the Bloodstone Lands.
 
-As they move, they definitely hear pursuit coming down the tunnel behind them and drop a spell of Darkness to cover their path.
+[[tarkathee-daru|Tark]] left the dream. He awoke shuddering, the cave-bear cub stretching at his feet in the small bed.
 
-Moments later, they hear hyenas and gnolls.
+The next day, the group gathered at [[aliyah-faen-tlabbar|Patches']] establishment. Over a long lunch, they argued about [[vizerion-devir|Vizerion]], the Demon Lords, and the best course of action. The [[svirfneblin-faction|Svirfneblin]] delegation from [[blingdenstone|Blingdenstone]] was being eagerly greeted by the locals across the tavern, the small Gnomes dumbfounded but smiling.
 
-The group is not worried, figuring that the powerful magic will keep the creatures away.
+The group agreed on three things: collateral damage was unacceptable, [[vizerion-devir|Vizerion]] could not be trusted, and they needed to go to [[menzoberranzan|Menzoberranzan]] to have an informed path forward.
 
-
-They tun their attention to the new, dark chamber filled with statues.
-
-Investigating, they see that each of the statues is that of a classical angel sculpture, with feathered wings (ranging from a single pair, to several pairs) and all in different poses.
-
-Several of the group think they see movement out of the corners of their eyes and tell one another to be careful, fearing living statues.
-
-The group needs the angel feathers and so move in to break off a few from different statues.
-
-They quickly find that each statue is a petrified and imprisoned Fallen Angel.
-
-Some offer answers to questions, others try to charm their way free, while others attack mentally.
-
-What they all have in common though, is they are desperate to be free of their fate and offer several of the party power to be freed.
-
-Gundren accepts from one of them, even going so far as to take a single silver coin from its hand, a coin that had not been there before.
-
-Feanon, who has spent the time thinking, warns the others not to accept any gifts, fearing a Magic Jar situation and potential possession.
-
-He voices his other concern - that the Angels here are clearly suffering and he feels for their plight.
-
-Gundren looks at the coin in his hand and after conversing with the Fallen Angel inside it, decides that its a risk he doesnt want to take and moves to drop the coin.
-
-The Angel does not wish to be left behind and it claws at his mind, desperate to be taken from this place by the Dwarf.
-
-With the presence of a Paladin of Helm though, Gundren can resist and manages to drop the coin, which Patches promptly kicks away into the darkness.
-
-The Gnolls up the tunnel make quite a commotion and Tark turns from the statue he just ripped a feather from.
-
-One of the angels warns the group that Baphomet, Prince of Beasts is approaching.
-
-Sure enough, moments later the Gnolls and Hyenas up the tunnel encounter something horrific, the sounds of their grisly deaths echoing down the tunnel.
-
-The Darkness blocking the tunnel is dispelled and a hulking, hairy form fills the tunnel leading from the Gallery of Angels.
-
-Baphomet grins at them, and strides forward, into the aura of the defensive Glyphs, seemingly unaffected.
-
-
-As the group prepares to teleport from the Gallery of Angels, despite the wildmagic present, Baphomet calls out in a guttural voice.
-
-He knows their smell, he found the battle site where they drove Yeenoghu away and he would parlay with the group.
-
-Unconvinced, but willing to stall for time, they begin a dialogue with the demon lord.
-
-It's quickly apparent that even if the Demon is truthful and would ally itself against his nemesis Yeenoghu, he would likely be unable to restrain his bloodlust for long.
-
-Wanting assurances, the Demon Lord promises to lead them to ancient relics and treasures in the maze - one of his abilities it seems.
-
-As the Demon Lord moves forwards again, it hits the Wall of Force Cirrus erected and snarls.
-
-Moving to leave, Gundren is grabbed from behind by one of the Angel statues, but Patches shoots the hand with her revolver, shattering it and freeing her companion.
-
-The Demon Lord teleports into the room with the party, just as Feanon enacts his own teleport and they flee the Underdark, leaving the great beast behind.
-
-
-The group finds themselves tired and breathing heavily atop Feanon's tower.
-
-They take a while to catch their breath before heading out for the night, back to their respective rooms to recuperate.
-
-Feanon checks in on Theodemir, who is still growing accustomed to the Clone body.
-
-He warns Feanon that his ability to cast is severely diminished, though he hopes it will recover in time.
-
-His mind however is sharp as always and shows Feanon what he's dredged up on Vizeron's Spell.
-
-over the next few hours, Feanon pieces together, from numerous sources, the vague intent of Vizeron's spell:
-
-The spell does as the Archmage said it would; bring the Demon Lords together and force them into a bloody rage.
-
-As they murder one another, they consume the ambient magic, until finally, they stop coming back and can be banished for good
-
-As the group was promised.
-
-There's more to the spell though.  Beneath this summoning is a far more subtle ritual.
-
-One of transfer.
-
-By tapping into the ethereal Plane and then drawing souls into a singularity, Vizeron would consume the power of every death in miles.
-
-Feanon is sure that the Drow's intent is for there to be as much collateral damage as possible when the Lords throw down.
-
-Concerned, but needing rest, Feanon sleeps on his findings.
-
-Across the Barony, the others sleep and prepare for the coming day.
-
-Gundren checks in on the Belt of Giant Strength, noting that the Giants blood had come in from Sundabar, but he's still waiting on the hearts.
-
-Patches notes the Svirfneblin delegation has arrived in town and decides to visit them the next day for some gemstones.  She then goes to make her bombs.
-
-Tark sleeps at his tree fort, exhausted from the trek through the underdark.
-
-He finds himself in a familiar dream.
-
-The dream of the Yellow Monastery, sent by Zhengyi.
-
-Furious, Tark heads through the dream world, toward the garden overlooking the Mountains of the Bloodstone Lands.
-
-There, sitting beneath a blossoming tree is the illusionary form of Kenshi - Zhengyi in disguise.
-
-Tark makes no effort to hide his anger and walks up to the Lich.
-
-Kenshi's smile flickers and fades slightly as Tark rails against him, condemning the Lich and promising him destruction.
-
-Oddly, the Lich simply accepts this, saying that his reaction is good.  He then goes on to ask if they can keep chatting like this?
-
-Tark says no and Kenshi wonders if Cirrus would enjoy some talks.
-
-Tark tells him it wont matter, as the group is coming for him and his master, Orcus.
-
-As Tark turns to leave, Kenshi/Zhengyi calls after him, telling the young Monk that his old Master Gaddock has taken well to Vampirism.
-
-That the old master is enacting bloody Justice in the Bloodstone Lands.
-
-Tark leaves.
-
-He awakes, shuddering and rolls over in his small bed.  The Cave-bear cub at his feet stretches out in the small bed.
-
-Cirrus spends the night reading through the Book of Phases, really trying to get a grasp of the holy text.
-
-
-The next day, the group finds their way to Patches Establishment after Cirrus' morning prayers.
-
-There, they spend a good long lunch arguing about the best course of action, whether to trust (definitely not) Vizeron and what to do about the Demon Lords.
-
-Across the tavern, the Svirfneblin trading delegation from Blingdenstone is being eagerly greeted by the locals.
-
-The small gnomes seem a little dumbfounded by the setting, but are all smiles, gladly accepting the warm welcome.
-
-The group continues their discussion end up all agreeing on three things: 
-
-Collateral damage is unacceptable 
-
-Vizeron cannot be trusted 
-
-They need to *go *to Menzoberranzan to have an informed path forwards.
-
-They need to go to the City of Spiders.
+They needed to go to the City of Spiders.

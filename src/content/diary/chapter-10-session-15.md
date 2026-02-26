@@ -9,6 +9,7 @@ people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "finn"
+  - "grein-osstyl"
   - "gromph-baenre"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
