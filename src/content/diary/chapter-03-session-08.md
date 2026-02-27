@@ -6,15 +6,12 @@ session: 8
 summary: "The group enters the deepest chamber to find Patches and Lady Faye held captive by the Duergar leader Veygar, battles grey dwarves, mechanical spiders, and a Stone Golem — then an Alhoon emerges from a portal, seizing control of the golem and unleashing a new wave of enemies."
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
-  - "ront"
   - "tarkathee-daru"
   - "veygar"
 things:

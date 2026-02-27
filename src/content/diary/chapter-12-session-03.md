@@ -4,16 +4,12 @@ chapter: 12
 chapterTitle: Al Askar
 session: 3
 people:
-  - "ares"
   - "chrysalis"
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "liara"
-  - "ront"
   - "rudjek"
   - "selune"
   - "snorbul"
@@ -23,8 +19,6 @@ places:
   - "faerun"
   - "iyum"
   - "ras-alkan"
-things:
-  - "saurian-firelance"
 factions:
   - "cult-of-zalaam"
   - "faerun-defense-force"

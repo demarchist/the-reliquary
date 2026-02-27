@@ -4,12 +4,10 @@ chapter: 14
 session: 11
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "tarkathee-daru"
 places:

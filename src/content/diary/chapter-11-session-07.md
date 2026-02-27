@@ -4,15 +4,11 @@ chapter: 11
 chapterTitle: Shadows of the Empire
 session: 7
 people:
-  - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"
-  - "intent"
-  - "shar"
 places:
   - "neverwinter"
   - "sharza"

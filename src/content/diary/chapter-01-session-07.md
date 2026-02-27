@@ -8,14 +8,11 @@ people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
   - "gundren-rockseeker"
-  - "intent"
   - "lothli"
   - "orcus"
   - "tarkathee-daru"
 places:
   - "snorbuls-hole"
-factions:
-  - "drow-faction"
 ---
 
 The group awoke separated, stripped of their gear, and trapped in a nightmare. No one remembered how they'd gotten there — only that the ground had given way beneath them after a deep mist rolled in and the vegetation withered around them.

@@ -6,7 +6,6 @@ session: 2
 summary: "JmJm's intervention brought [[gneiss|Gneiss]] back from the dead, cementing an alliance with the Amnian delegation, before the group departed the surface and descended into the Underdark — arriving at the ruins of Moondancer Village and its grim recent history of massacre."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "chani"
   - "cirrus-al-kayan"
   - "doc"
@@ -15,13 +14,10 @@ people:
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lord-neverember"
-  - "moot"
   - "pickles"
   - "shaahir"
-  - "shar"
   - "sharess"
   - "tarkathee-daru"
 places:
@@ -33,7 +29,6 @@ places:
   - "thunder-bluff"
   - "underdark"
 things:
-  - "hew"
   - "thundercannon"
 factions:
   - "drow-faction"

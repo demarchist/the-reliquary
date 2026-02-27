@@ -6,19 +6,14 @@ session: 15
 summary: "The group activated the Hallow spell at the Steadfast Stone, fighting waves of enraged elementals and a colossal behemoth animated by the Bane while protecting the Galeb Duhr ritual circle. After cleansing Rockblight, they rescued a family of cave badgers from basilisks and began methodically destroying the petrified Drow army guarding the Stone Priestess's lair."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "bane"
   - "cirrus-al-kayan"
   - "eilistraee"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
-  - "intent"
   - "lolth"
-  - "ront"
-  - "shar"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "blingdenstone"
 things:

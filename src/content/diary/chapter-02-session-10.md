@@ -6,9 +6,7 @@ session: 10
 summary: "The group fights through undead, an Umber Hulk, and madness-inducing mist in the labyrinth, then breaches the golden ward into an ancient celestial vault — discovering murals depicting the fall of Orcus, a sentient statue guardian, and a forest trial where Patches and Fëanon each negotiate with fiends."
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "kangaxx"
@@ -17,8 +15,6 @@ people:
   - "lothli"
   - "myria-brightlance"
   - "pickles"
-  - "sera-von-bumidere"
-  - "shar"
   - "tarkathee-daru"
   - "ysera"
 places:

@@ -8,7 +8,6 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lothli"
   - "mediocris-dente"

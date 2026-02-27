@@ -13,7 +13,6 @@ people:
   - "horatio-von-bumidere"
   - "snorbul"
   - "tarkathee-daru"
-  - "xuefang-the-adamant"
 places:
   - "al-askar"
   - "faerun"
@@ -21,7 +20,6 @@ places:
 things:
   - "arkto"
   - "delzoun-instant-fortress"
-  - "saurian-firelance"
 factions:
   - "saurians"
 ---

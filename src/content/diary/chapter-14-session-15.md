@@ -4,20 +4,15 @@ chapter: 14
 session: 15
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
-  - "chani"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "jarlaxle"
-  - "kurt-von-bumidere"
   - "lady-faye"
   - "mediocris-dente"
   - "selune"
-  - "val-tengu"
 places:
   - "fane-of-selune"
   - "luskan"

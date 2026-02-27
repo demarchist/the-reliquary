@@ -5,18 +5,13 @@ chapterTitle: The Voyage Home
 session: 11
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "hohonu"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "madame-eva"
-  - "ront"
   - "snorbul"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "ethereal-plane"
   - "machina-factory"

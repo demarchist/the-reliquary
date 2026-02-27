@@ -11,18 +11,14 @@ people:
   - "demogorgon"
   - "doc"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "ilvara-mizzrym"
   - "jack-mayer-johnson-mathews"
   - "mediocris-dente"
   - "pickles"
-  - "ront"
-  - "shar"
   - "snorbul"
   - "tarkathee-daru"
   - "themberchaud"
-  - "val-tengu"
 places:
   - "blingdenstone"
   - "gracksuluth"
@@ -34,7 +30,6 @@ places:
 things:
   - "arkto"
   - "gwen"
-  - "hew"
   - "the-last-word"
 factions:
   - "drow-faction"

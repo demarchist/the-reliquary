@@ -5,17 +5,13 @@ chapterTitle: Shadows of the Empire
 session: 1
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
-  - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "tarkathee-daru"
   - "veygar"
 places:
-  - "the-labyrinth"
   - "underdark"
 factions:
   - "duergar-faction"

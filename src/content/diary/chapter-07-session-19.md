@@ -18,17 +18,14 @@ people:
   - "jack-mayer-johnson-mathews"
   - "li-xian"
   - "rahadin"
-  - "ront"
   - "selune"
   - "tarkathee-daru"
 places:
-  - "amn"
   - "keep-of-thunder-bluff"
   - "neverwinter"
   - "sundabar"
 things:
   - "gwen"
-  - "hew"
 factions:
   - "amnians"
 ---

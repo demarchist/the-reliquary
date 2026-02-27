@@ -7,18 +7,13 @@ people:
   - "ares"
   - "aurelian"
   - "bahamut"
-  - "ella"
-  - "intent"
   - "li-xian"
-  - "madame-eva"
   - "themberchaud"
   - "vakuun-the-dreadblade"
   - "zhengyi"
 places:
   - "shadowfell"
   - "shou-lung"
-things:
-  - "eclipse"
 factions:
   - "dragons-of-shou-lung"
 ---

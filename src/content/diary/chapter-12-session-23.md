@@ -5,13 +5,10 @@ chapterTitle: Al Askar
 session: 23
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "jareem"
   - "snorbul"
@@ -23,7 +20,6 @@ places:
 things:
   - "arkto"
   - "bag-of-holding"
-  - "gwen"
   - "thundercannon"
 factions:
   - "saurians"

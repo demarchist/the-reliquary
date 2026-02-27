@@ -7,11 +7,9 @@ summary: "The freed Nixie turns hostile and mind-controls the boars, the group r
 people:
   - "doc"
   - "feanon-serinde"
-  - "fen"
   - "goblin-king"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
-  - "val-tengu"
   - "zhink"
 places:
   - "the-bog"

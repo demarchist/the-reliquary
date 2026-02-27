@@ -5,14 +5,11 @@ chapterTitle: Al Askar
 session: 11
 people:
   - "cirrus-al-kayan"
-  - "doc"
   - "drizzly-dawg"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "liara"
-  - "ront"
   - "selune"
   - "snorbul"
   - "tarkathee-daru"

@@ -5,11 +5,9 @@ chapterTitle: The Bog
 session: 4
 summary: "The group escapes the tunnel of hands by answering a riddle, Tark tames a racing snail, Doctor Breakfast befriends a giant turtle, and the Bog's curse twists each of them — Buumi grows a hunched spine, Fëanon sprouts a tentacle, and Doctor Breakfast shrinks to the size of her horse."
 people:
-  - "ares"
   - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
-  - "intent"
   - "tarkathee-daru"
   - "zhink"
 places:

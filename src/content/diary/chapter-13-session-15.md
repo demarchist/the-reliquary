@@ -8,10 +8,8 @@ people:
   - "atropos"
   - "baba-lysaga"
   - "cirrus-al-kayan"
-  - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
-  - "intent"
   - "vecna"
 places:
   - "barovia"

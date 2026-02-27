@@ -13,7 +13,6 @@ people:
   - "rudjek"
   - "snorbul"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "iyum"
   - "serinde-isle"

@@ -9,7 +9,6 @@ people:
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "liara"
-  - "shar"
 factions:
   - "medjay"
   - "saurians"

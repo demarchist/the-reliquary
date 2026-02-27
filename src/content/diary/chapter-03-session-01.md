@@ -6,11 +6,9 @@ session: 1
 summary: "The group arrives in a fearful Baldur's Gate aboard a damaged ship, causes a goblin panic at the Merry Maidens Arms, discovers the artifact can drive back the undead mists, and fights wraiths that slip in through an open window."
 people:
   - "aliyah-faen-tlabbar"
-  - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
   - "lodan"

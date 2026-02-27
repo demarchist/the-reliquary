@@ -5,19 +5,14 @@ chapterTitle: Al Askar
 session: 12
 people:
   - "cirrus-al-kayan"
-  - "doc"
   - "drizzly-dawg"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
-  - "jack-mayer-johnson-mathews"
   - "liara"
-  - "madame-eva"
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "faerun"
   - "iyum"

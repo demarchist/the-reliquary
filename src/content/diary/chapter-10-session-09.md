@@ -19,7 +19,6 @@ places:
   - "feanons-tower"
   - "gauntlgrym"
   - "sundabar"
-  - "the-chasm"
   - "the-labyrinth"
 things:
   - "delzoun-instant-fortress"

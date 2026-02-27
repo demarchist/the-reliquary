@@ -6,7 +6,6 @@ session: 7
 summary: "The group infiltrates the Burgomaster's mansion, discovers Izek's obsessive collection of Ireena dolls, frees a tortured political prisoner, and kills the Burgomaster's murderous son Victor — before retreating to the Bluewater Inn where they meet the innkeeper Urwen Martikov and the enigmatic Lady Wachter."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "ireena"
@@ -14,7 +13,6 @@ people:
   - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "urwen"
-  - "val-tengu"
   - "wachter"
 places:
   - "vallaki"

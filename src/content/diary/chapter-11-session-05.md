@@ -6,13 +6,10 @@ session: 5
 people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "hasrala"
   - "hazzim"
   - "horatio-von-bumidere"
-  - "intent"
-  - "ront"
   - "tarkathee-daru"
 places:
   - "al-askar"

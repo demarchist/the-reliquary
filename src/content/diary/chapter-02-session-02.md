@@ -9,10 +9,8 @@ people:
   - "doc"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lothli"
-  - "ront"
   - "sha-alazzi"
 places:
   - "feanons-tower"

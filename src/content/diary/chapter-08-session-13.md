@@ -9,22 +9,14 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "hemeth"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "madame-eva"
-  - "ront"
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
 places:
   - "darklake"
-things:
-  - "hew"
-  - "tavern-of-doors"
-  - "the-last-word"
 factions:
   - "drow-faction"
   - "duergar-faction"

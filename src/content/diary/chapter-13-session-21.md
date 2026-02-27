@@ -5,27 +5,20 @@ chapterTitle: The Voyage Home
 session: 21
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "fawden"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "jareem"
-  - "madame-eva"
-  - "ront"
   - "selune"
-  - "sera-von-bumidere"
   - "snorbul"
   - "tarkathee-daru"
   - "thorna"
   - "vaketh"
   - "vecna"
-  - "xuefang-the-adamant"
 places:
   - "astral-plane"
   - "feanons-tower"
@@ -33,10 +26,8 @@ places:
   - "the-establishment"
 things:
   - "delzoun-instant-fortress"
-  - "hew"
   - "saurian-firelance"
 factions:
-  - "faerun-defense-force"
   - "saurians"
 ---
 

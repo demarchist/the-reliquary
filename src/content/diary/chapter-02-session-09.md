@@ -10,7 +10,6 @@ people:
   - "horatio-von-bumidere"
   - "kangaxx"
   - "lothli"
-  - "madame-eva"
   - "myria-brightlance"
   - "orcus"
   - "tarkathee-daru"

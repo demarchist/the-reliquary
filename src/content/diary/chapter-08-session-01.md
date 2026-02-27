@@ -19,7 +19,6 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "hugh"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "karsus"
   - "li-xian"
@@ -53,7 +52,6 @@ places:
 things:
   - "crystal-tuning-fork"
   - "gwen"
-  - "hew"
 factions:
   - "amnians"
   - "drow-faction"

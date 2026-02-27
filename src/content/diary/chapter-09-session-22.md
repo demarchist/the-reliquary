@@ -11,7 +11,6 @@ people:
   - "gundren-rockseeker"
   - "gurnik"
   - "hisesophax"
-  - "intent"
   - "juiblex"
   - "snorbul"
   - "tarkathee-daru"
@@ -19,7 +18,6 @@ people:
   - "thorna"
   - "zuggtmoy"
 places:
-  - "abyss"
   - "blingdenstone"
   - "gravenhollow"
   - "selunia"

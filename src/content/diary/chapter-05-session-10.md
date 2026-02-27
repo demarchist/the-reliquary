@@ -6,10 +6,8 @@ session: 10
 summary: "After a day of political manoeuvring and discovering Lady Wachter's devil-worship, the group is blindsided when Gowain attacks the Feast of St. Andral with a small army of vampires — a brutal street battle that kills dozens of civilians and pushes the group to the edge of their power."
 people:
   - "aliyah-faen-tlabbar"
-  - "argynvost"
   - "atropos"
   - "azoo-the-archer"
-  - "ella"
   - "ezmerelda"
   - "feanon-serinde"
   - "gowain"
@@ -19,10 +17,8 @@ people:
   - "jack-mayer-johnson-mathews"
   - "madame-eva"
   - "pickles"
-  - "ront"
   - "tarkathee-daru"
   - "urwen"
-  - "val-tengu"
   - "van-richten"
   - "wachter"
 places:

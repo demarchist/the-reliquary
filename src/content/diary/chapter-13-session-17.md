@@ -5,15 +5,12 @@ chapterTitle: The Voyage Home
 session: 17
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "fawden"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "hasrala"
-  - "intent"
   - "jareem"
   - "lolth"
   - "sultan-bashir"

@@ -9,18 +9,14 @@ people:
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "madame-eva"
   - "snorbul"
   - "surtr"
   - "tarkathee-daru"
   - "theodemir"
   - "thorna"
-  - "val-tengu"
 places:
   - "abyss"
   - "feanons-tower"
@@ -28,7 +24,6 @@ places:
 things:
   - "arkto"
   - "eclipse"
-  - "hew"
   - "iron-tome"
   - "thundercannon"
 ---

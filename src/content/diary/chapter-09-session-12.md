@@ -12,9 +12,7 @@ people:
   - "gruttag"
   - "gundren-rockseeker"
   - "juiblex"
-  - "shar"
   - "snorbul"
-  - "xuefang-the-adamant"
 places:
   - "blingdenstone"
   - "underdark"

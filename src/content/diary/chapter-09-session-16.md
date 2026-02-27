@@ -9,18 +9,15 @@ people:
   - "bane"
   - "boulda"
   - "cirrus-al-kayan"
-  - "doc"
   - "eilistraee"
   - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
   - "gurnik"
   - "lolth"
-  - "ront"
   - "tarkathee-daru"
 places:
   - "abyss"
-  - "amn"
   - "blingdenstone"
 things:
   - "chardalyn"

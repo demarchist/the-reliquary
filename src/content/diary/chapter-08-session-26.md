@@ -14,19 +14,12 @@ people:
   - "doc"
   - "droki"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "madame-eva"
   - "orcus"
-  - "ront"
-  - "shar"
   - "snorbul"
-  - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "themberchaud"
-  - "val-tengu"
 places:
   - "barovia"
   - "gracksuluth"
@@ -38,7 +31,6 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
-  - "hew"
   - "tavern-of-doors"
 factions:
   - "bregan-daerthe"

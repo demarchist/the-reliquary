@@ -11,10 +11,6 @@ people:
   - "gundren-rockseeker"
   - "hohonu"
   - "horatio-von-bumidere"
-  - "intent"
-  - "madame-eva"
-  - "moot"
-  - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "vecna"
 places:

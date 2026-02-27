@@ -9,9 +9,6 @@ people:
   - "doc"
   - "feanon-serinde"
   - "jack-mayer-johnson-mathews"
-  - "madame-eva"
-  - "ront"
-  - "shar"
   - "topsy-and-turvy"
 places:
   - "ethereal-plane"
@@ -20,8 +17,6 @@ places:
   - "snorbuls-hole"
   - "the-bog"
   - "the-establishment"
-things:
-  - "talon"
 factions:
   - "drow-faction"
 ---

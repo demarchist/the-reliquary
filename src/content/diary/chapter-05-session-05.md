@@ -17,7 +17,6 @@ people:
   - "pickles"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "barovia"
   - "castle-ravenloft"

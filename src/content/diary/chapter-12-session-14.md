@@ -4,16 +4,12 @@ chapter: 12
 chapterTitle: Al Askar
 session: 14
 people:
-  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "liara"
-  - "shar"
   - "snorbul"
-  - "strahd-von-zarovich"
   - "tarkathee-daru"
 places:
   - "temple-of-carthus"

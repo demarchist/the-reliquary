@@ -11,7 +11,6 @@ people:
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "jareem"
-  - "shar"
   - "snorbul"
   - "tarkathee-daru"
   - "vecna"

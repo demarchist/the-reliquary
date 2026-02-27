@@ -6,18 +6,13 @@ session: 8
 people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "liara"
-  - "madame-eva"
-  - "ront"
   - "snorbul"
   - "tarkathee-daru"
 places:
   - "faerun"
-  - "feanons-tower"
   - "shadowfell"
   - "temple-of-carthus"
 factions:

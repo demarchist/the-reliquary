@@ -7,19 +7,14 @@ summary: "The Duergar city of Gracksuluth declared itself immediately — vast, 
 people:
   - "aliyah-faen-tlabbar"
   - "chadle"
-  - "chani"
   - "cirrus-al-kayan"
   - "claudine"
   - "doc"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "hemeth"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "ront"
   - "snorbul"
-  - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "themberchaud"
 places:
@@ -33,7 +28,6 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
-  - "hew"
   - "piwafwi"
 factions:
   - "bregan-daerthe"

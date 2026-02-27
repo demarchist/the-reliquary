@@ -15,7 +15,6 @@ people:
   - "hyrokken"
   - "ingrbotha"
   - "li-xian"
-  - "madame-eva"
   - "megno-slatesunder"
   - "meljir"
   - "mervklo"

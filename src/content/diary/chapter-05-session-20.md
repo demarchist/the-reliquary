@@ -6,7 +6,6 @@ session: 20
 summary: "In the ash-choked aftermath of Krezk, the hollows turn on the living and Tark leaps down a cliff to save survivors. The group teleports to the ruins of Argynvostholt, rests, and marches on Berez — destroying the enslaved vampire adventurers on the road before confronting Baba Lysaga in her animated hut, surrounded by aberrant druids, a lurking Genoskwa, and a night hag rising from the mud."
 people:
   - "aliyah-faen-tlabbar"
-  - "argynvost"
   - "atropos"
   - "baba-lysaga"
   - "feanon-serinde"
@@ -20,7 +19,6 @@ people:
   - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "amber-temple"
   - "astral-plane"

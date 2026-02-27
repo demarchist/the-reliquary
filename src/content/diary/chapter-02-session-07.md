@@ -11,13 +11,10 @@ people:
   - "gundren-rockseeker"
   - "hendrell"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lorde"
-  - "madame-eva"
   - "moot"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "baldurs-gate"
   - "moonstone-mask-inn"

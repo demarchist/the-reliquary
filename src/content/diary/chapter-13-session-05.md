@@ -10,8 +10,6 @@ people:
   - "feanon-serinde"
   - "hohonu"
   - "horatio-von-bumidere"
-  - "intent"
-  - "orcus"
   - "selune"
   - "tarkathee-daru"
 places:

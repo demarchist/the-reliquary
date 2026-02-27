@@ -7,14 +7,11 @@ summary: "Kangaxx besieges Baldur's Gate with an undead horde, tears open a wind
 people:
   - "aliyah-faen-tlabbar"
   - "bahamut"
-  - "doc"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "kangaxx"
   - "selune"
-  - "sera-von-bumidere"
   - "tarkathee-daru"
   - "ysera"
 places:

@@ -8,12 +8,9 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "selune"
   - "tarkathee-daru"
-places:
-  - "abyss"
 things:
   - "arkto"
   - "eclipse"

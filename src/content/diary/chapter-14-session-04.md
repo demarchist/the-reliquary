@@ -4,7 +4,6 @@ chapter: 14
 session: 4
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "bolg"
   - "cirrus-al-kayan"
   - "eilistraee"
@@ -12,14 +11,10 @@ people:
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "madame-eva"
   - "orcus"
   - "pickles"
-  - "shar"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "anauroch"
   - "dokkar"

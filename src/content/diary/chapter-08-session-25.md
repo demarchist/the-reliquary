@@ -6,7 +6,6 @@ session: 25
 summary: "With the first key half secured, the group prepared to leave Gracksuluth — but the city had one last obstacle in the form of a Derro street ambush where the dead refused to stay down, and Patches found the chaos useful."
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
   - "cirrus-al-kayan"
   - "claudine"
   - "demogorgon"
@@ -14,9 +13,7 @@ people:
   - "droki"
   - "feanon-serinde"
   - "gundren-rockseeker"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "madame-eva"
   - "orcus"
   - "snorbul"
   - "tarkathee-daru"
@@ -28,7 +25,6 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
-  - "hew"
   - "thundercannon"
 factions:
   - "derro-faction"

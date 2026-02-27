@@ -6,18 +6,13 @@ session: 3
 summary: "The group enters the Sanctum of Krasus, rests in Cirrus's tiny hut, and Tark receives dream training from Kenshi — before they descend into the ancient Netherese complex, encounter shadows and aberrations, discover the Obelisk's countdown, and fight through gibbering mouthers as a magical dampening field traps them inside."
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
   - "cirrus-al-kayan"
-  - "doc"
-  - "ella"
   - "feanon-serinde"
-  - "fen"
   - "gaddock"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "kenshi"
   - "megno-slatesunder"
-  - "ront"
   - "tarkathee-daru"
   - "zhengyi"
 places:

@@ -4,8 +4,6 @@ chapter: 12
 chapterTitle: Al Askar
 session: 9
 people:
-  - "ares"
-  - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gruttag"
@@ -13,11 +11,9 @@ people:
   - "horatio-von-bumidere"
   - "liara"
   - "orcus"
-  - "shar"
   - "snorbul"
   - "tarkathee-daru"
   - "theodemir"
-  - "val-tengu"
   - "zhengyi"
 places:
   - "barovia"
@@ -28,7 +24,6 @@ places:
   - "shadowfell"
 things:
   - "bag-of-holding"
-  - "talon"
 factions:
   - "cult-of-zalaam"
 events:

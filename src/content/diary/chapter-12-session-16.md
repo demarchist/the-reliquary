@@ -5,14 +5,12 @@ chapterTitle: Al Askar
 session: 16
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "djoser"
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "liara"
   - "snorbul"

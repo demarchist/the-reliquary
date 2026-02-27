@@ -7,7 +7,6 @@ summary: "The group captured and silenced Vizerion's apprentice Grein with a Gea
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
-  - "delly-griplim"
   - "demogorgon"
   - "feanon-serinde"
   - "finn"
@@ -21,7 +20,6 @@ people:
   - "kleve"
   - "lodan"
   - "lolth"
-  - "madame-eva"
   - "pickles"
   - "tarkathee-daru"
 places:

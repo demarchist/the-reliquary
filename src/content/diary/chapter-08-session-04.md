@@ -6,16 +6,12 @@ session: 4
 summary: "A wild magic surge from the Faerzress melted the tunnel around them and sent Fëanon briefly topside, while the rest navigated Shadowfell-leaking passages and a crystalline geode inhabited by elemental spirits — before steam-filled tunnels and a reanimated body marked the approach toward Menzoberranzan."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "selune"
-  - "shar"
   - "tarkathee-daru"
 places:
   - "keep-of-thunder-bluff"
@@ -25,7 +21,6 @@ places:
   - "underdark"
 things:
   - "faerzress"
-  - "hew"
   - "thundercannon"
 factions:
   - "duergar-faction"

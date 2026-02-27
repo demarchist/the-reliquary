@@ -8,13 +8,10 @@ people:
   - "camea"
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "hohonu"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "ront"
   - "selune"
   - "tarkathee-daru"
 places:

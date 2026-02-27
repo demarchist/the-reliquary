@@ -5,19 +5,13 @@ chapterTitle: The Voyage Home
 session: 19
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
   - "cirrus-al-kayan"
   - "fawden"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
-  - "madame-eva"
-  - "ront"
   - "snorbul"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "al-askar"
   - "barovia"

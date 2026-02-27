@@ -5,11 +5,8 @@ chapterTitle: Interludes
 session: 2
 people:
   - "ares"
-  - "ella"
   - "gzunteit-the-bold"
-  - "intent"
   - "li-xian"
-  - "madame-eva"
   - "themberchaud"
   - "vakuun-the-dreadblade"
   - "vulcan"

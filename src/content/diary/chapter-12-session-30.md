@@ -9,13 +9,10 @@ people:
   - "fawden"
   - "feanon-serinde"
   - "gundren-rockseeker"
-  - "intent"
   - "rudjek"
   - "selune"
-  - "shar"
   - "snorbul"
   - "tarkathee-daru"
-  - "val-tengu"
   - "vecna"
 places:
   - "feanons-tower"

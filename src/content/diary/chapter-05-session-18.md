@@ -7,7 +7,6 @@ summary: "The group fights a running battle up the towers of Castle Ravenloft â€
 people:
   - "aliyah-faen-tlabbar"
   - "argynvost"
-  - "chani"
   - "ezmerelda"
   - "feanon-serinde"
   - "goblin-king"
@@ -16,7 +15,6 @@ people:
   - "ireena"
   - "jack-mayer-johnson-mathews"
   - "lathander"
-  - "madame-eva"
   - "mordenkainen"
   - "peytr"
   - "pickles"

@@ -10,13 +10,11 @@ people:
   - "cirrus-al-kayan"
   - "eilistraee"
   - "feanon-serinde"
-  - "fen"
   - "gruttag"
   - "gundren-rockseeker"
   - "gurnik"
   - "juiblex"
   - "lolth"
-  - "moot"
   - "snorbul"
   - "tarkathee-daru"
 places:
@@ -25,7 +23,6 @@ places:
   - "gravenhollow"
   - "underdark"
 things:
-  - "hew"
   - "thundercannon"
 factions:
   - "drow-faction"

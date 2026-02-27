@@ -11,7 +11,6 @@ people:
   - "cirrus-al-kayan"
   - "dregthana"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "ingrbotha"
@@ -21,9 +20,7 @@ people:
   - "megno-slatesunder"
   - "meljir"
   - "mimor"
-  - "ront"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "baldurs-gate"
   - "menzoberranzan"

@@ -24,8 +24,6 @@ places:
   - "feanons-tower"
   - "golden-tower"
   - "machina-factory"
-things:
-  - "peade"
 factions:
   - "saurians"
 ---

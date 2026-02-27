@@ -6,15 +6,11 @@ session: 18
 summary: "The freed slaves from Menzoberranzan poured through a portal into the Barony with Red Slaad on their heels. Kimmuriel debriefed the group on the chaos engulfing the Drow city and accepted a dwelling — the Twilight Lodge — as a Bregan D'Aerthe safe house. Patches opened herself to the group's questions, and Stason Jatham, the Last Mindslayer, appeared as the new janitor in Feanon's Tower. Cirrus then plane shifted the group to Svartalfheim, where Magistrate Delroy of Dokkar debated the Curse of Wendonai before granting them entry to the gleaming city."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
-  - "doc"
   - "eilistraee"
   - "feanon-serinde"
-  - "fen"
   - "finn"
   - "horatio-von-bumidere"
-  - "intent"
   - "jarlaxle"
   - "kimmuriel"
   - "lolth"
@@ -22,7 +18,6 @@ people:
   - "selune"
   - "stason-jatham"
   - "tarkathee-daru"
-  - "val-tengu"
   - "vladalma"
 places:
   - "dokkar"

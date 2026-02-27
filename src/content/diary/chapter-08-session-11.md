@@ -1,5 +1,5 @@
 ---
-title: "The Underdark - The Prince Below"
+title: The Underdark - The Prince Below
 chapter: 8
 chapterTitle: The Underdark
 session: 11
@@ -12,13 +12,11 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "orcus"
   - "pickles"
   - "ront"
   - "selune"
-  - "shar"
   - "shuushar"
   - "snorbul"
   - "tarkathee-daru"
@@ -28,7 +26,6 @@ places:
 things:
   - "eclipse"
   - "luck-blade"
-  - "talon"
 factions:
   - "drow-faction"
   - "duergar-faction"

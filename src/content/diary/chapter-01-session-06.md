@@ -10,7 +10,6 @@ people:
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
-  - "intent"
   - "lodan"
   - "nezzan"
   - "tarkathee-daru"

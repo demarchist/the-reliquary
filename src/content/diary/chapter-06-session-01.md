@@ -13,13 +13,9 @@ people:
   - "gebbin-steeltoe"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "rahadin"
-  - "ront"
-  - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
-  - "val-tengu"
   - "zhengyi"
 places:
   - "castle-ravenloft"

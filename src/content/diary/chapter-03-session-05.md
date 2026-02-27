@@ -11,7 +11,6 @@ people:
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
   - "lothli"
-  - "ront"
   - "tarkathee-daru"
   - "zhink"
 places:

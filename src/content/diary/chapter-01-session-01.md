@@ -16,13 +16,9 @@ people:
   - "klarg"
   - "lathander"
   - "linene-greywind"
-  - "madame-eva"
   - "nezzan"
-  - "ront"
-  - "shar"
   - "sildar"
   - "toblen-stonehill"
-  - "val-tengu"
 places:
   - "barthens-provisions"
   - "cragmaw-castle"
@@ -34,10 +30,8 @@ places:
   - "triboar-trail"
   - "wave-echo-cave"
 things:
-  - "hew"
   - "lightbringer"
   - "spellforge"
-  - "tavern-of-doors"
 factions:
   - "drow-faction"
   - "lords-alliance"

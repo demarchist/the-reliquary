@@ -10,10 +10,8 @@ people:
   - "bahamut"
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "lady-faye"
   - "lolth"
   - "orcus"
@@ -23,7 +21,6 @@ people:
   - "zhengyi"
 places:
   - "abyss"
-  - "amn"
   - "baldurs-gate"
   - "ethereal-plane"
   - "evermeet"
@@ -34,7 +31,6 @@ places:
   - "underdark"
 things:
   - "delzoun-instant-fortress"
-  - "tavern-of-doors"
   - "the-last-word"
 factions:
   - "amnians"

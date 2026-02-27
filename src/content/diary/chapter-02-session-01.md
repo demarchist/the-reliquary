@@ -9,17 +9,14 @@ people:
   - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "jeckeyll"
   - "kangaxx"
   - "lord-neverember"
   - "lorde"
   - "lothli"
-  - "madame-eva"
   - "sha-alazzi"
   - "tarkathee-daru"
-  - "val-tengu"
   - "venomfang"
 places:
   - "baldurs-gate"
@@ -31,8 +28,6 @@ places:
   - "shadowfell"
   - "the-chasm"
 things:
-  - "hew"
-  - "spellforge"
   - "tavern-of-doors"
   - "the-reaver"
 factions:

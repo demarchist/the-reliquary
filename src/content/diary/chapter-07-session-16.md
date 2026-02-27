@@ -17,13 +17,11 @@ people:
   - "jack-mayer-johnson-mathews"
   - "leanansidhe"
   - "li-xian"
-  - "madame-eva"
   - "s-olaa"
   - "sera-von-bumidere"
   - "tarkathee-daru"
   - "val-tengu"
 places:
-  - "amn"
   - "helms-hold"
   - "neverwinter"
   - "the-bog"
@@ -31,7 +29,6 @@ places:
 things:
   - "deck-of-illusions"
   - "faerzress"
-  - "hew"
 factions:
   - "amnians"
   - "drow-faction"

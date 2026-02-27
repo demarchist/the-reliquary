@@ -10,7 +10,6 @@ people:
   - "goblin-king"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "madame-eva"
   - "tarkathee-daru"
   - "zhink"
 things:

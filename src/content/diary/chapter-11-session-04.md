@@ -5,14 +5,12 @@ chapterTitle: Shadows of the Empire
 session: 4
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "bowie"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"
-  - "intent"
   - "veygar"
 places:
   - "snorbuls-hole"

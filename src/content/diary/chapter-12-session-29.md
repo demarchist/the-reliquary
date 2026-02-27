@@ -8,11 +8,8 @@ people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "kumuzu-isa"
-  - "madame-eva"
-  - "ront"
   - "rudjek"
   - "tarkathee-daru"
 places:

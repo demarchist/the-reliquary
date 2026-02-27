@@ -5,20 +5,16 @@ chapterTitle: The Voyage Home
 session: 13
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
-  - "ront"
   - "tarkathee-daru"
 places:
   - "machina-factory"
   - "shadowfell"
 things:
   - "gwen"
-  - "saurian-firelance"
 ---
 
 The group slays the Alghoul, though with great effort.

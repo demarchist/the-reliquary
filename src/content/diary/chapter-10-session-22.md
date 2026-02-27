@@ -6,9 +6,7 @@ session: 22
 summary: "Gundren and Tark arrived at the Gorgon's Maw just as battle was joined — Gundren's thundercannon shredding the Annis Hag and a Marilith slithering from the pit to attack Cirrus. The group destroyed the coven and rescued imprisoned children and a soulless woman. A mysterious Eastern warrior named Ujio revealed he had been hunting the minions of Ceregorach, and Cirrus discovered the woman's soul was buried under tonnes of collapsed rock — and said nothing."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
-  - "feanon-serinde"
   - "gundren-rockseeker"
   - "mediocris-dente"
   - "tarkathee-daru"

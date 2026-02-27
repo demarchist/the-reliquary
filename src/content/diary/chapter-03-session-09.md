@@ -6,7 +6,6 @@ session: 9
 summary: "The group battles the Alhoon and its Stone Golem in a desperate fighting retreat, Lothli kills the undead Illithid with a final arrow, and the group escapes the collapsing ruins — emerging in the Troll Hills with Patches' revelation of her Bregan D'aerthe past and her son hidden in the Moonwood."
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
@@ -14,7 +13,6 @@ people:
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
   - "lothli"
-  - "ront"
   - "tarkathee-daru"
   - "veygar"
   - "zhink"

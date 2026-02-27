@@ -10,7 +10,6 @@ people:
   - "cirrus-al-kayan"
   - "demogorgon"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "hisesophax"
   - "juiblex"
@@ -20,10 +19,8 @@ people:
   - "thorna"
   - "zuggtmoy"
 places:
-  - "abyss"
   - "blingdenstone"
   - "ethereal-plane"
-  - "the-chasm"
   - "underdark"
 things:
   - "eclipse"

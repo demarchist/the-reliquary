@@ -17,7 +17,6 @@ people:
   - "gundren-rockseeker"
   - "hemeth"
   - "horatio-von-bumidere"
-  - "madame-eva"
   - "moot"
   - "pickles"
   - "protanther"
@@ -26,8 +25,6 @@ people:
   - "tarkathee-daru"
   - "veygar"
 places:
-  - "abyss"
-  - "amn"
   - "fane-of-selune"
   - "gracksuluth"
   - "gravenhollow"
@@ -35,7 +32,6 @@ places:
   - "underdark"
   - "whorlstone-caverns"
 things:
-  - "tavern-of-doors"
   - "the-last-word"
 factions:
   - "amnians"

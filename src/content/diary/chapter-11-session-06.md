@@ -5,15 +5,12 @@ chapterTitle: Shadows of the Empire
 session: 6
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hasrala"
   - "hazzim"
   - "horatio-von-bumidere"
-  - "intent"
-  - "ront"
   - "snorbul"
   - "tarkathee-daru"
 things:

@@ -8,7 +8,6 @@ people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
   - "lothli"
-  - "madame-eva"
   - "tarkathee-daru"
 factions:
   - "drow-faction"

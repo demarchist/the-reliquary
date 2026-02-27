@@ -6,18 +6,14 @@ session: 16
 summary: "The group destroys the spirit troll Shadowclaw in the caverns beneath Thunder Bluff, lays the ghost of High Hold's last commander to rest, and reunites in Sundabar where Megno reveals a breakthrough in the ancient Dwarven journal."
 people:
   - "aliyah-faen-tlabbar"
-  - "ella"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "harold-ophrella"
   - "horatio-von-bumidere"
-  - "intent"
   - "luumsh"
-  - "madame-eva"
   - "megno-slatesunder"
   - "moogie"
   - "pickles"
-  - "ront"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
 places:

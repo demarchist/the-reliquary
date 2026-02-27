@@ -5,15 +5,12 @@ chapterTitle: The Voyage Home
 session: 6
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "camea"
   - "cirrus-al-kayan"
-  - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hohonu"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "tarkathee-daru"
 places:

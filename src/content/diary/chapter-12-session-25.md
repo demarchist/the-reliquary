@@ -10,14 +10,11 @@ people:
   - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "jareem"
   - "liara"
-  - "moot"
   - "vecna"
 places:
-  - "amn"
   - "iyum"
 factions:
   - "amnians"

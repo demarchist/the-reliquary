@@ -7,7 +7,6 @@ summary: "Ireena presents Sergei's journal to Strahd and turns him against Rahad
 people:
   - "aliyah-faen-tlabbar"
   - "anduriel"
-  - "ares"
   - "argynvost"
   - "cirrus-al-kayan"
   - "ezmerelda"
@@ -21,11 +20,9 @@ people:
   - "mordenkainen"
   - "pickles"
   - "rahadin"
-  - "ront"
   - "sergei"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
-  - "val-tengu"
   - "van-richten"
 places:
   - "barovia"

@@ -7,7 +7,6 @@ summary: "The group infiltrates Castle Ravenloft through a bat cavern in the Pil
 people:
   - "aliyah-faen-tlabbar"
   - "argynvost"
-  - "chani"
   - "ezmerelda"
   - "feanon-serinde"
   - "gundren-rockseeker"
@@ -18,11 +17,9 @@ people:
   - "mordenkainen"
   - "pickles"
   - "rahadin"
-  - "shar"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
   - "urwen"
-  - "val-tengu"
 places:
   - "barovia"
   - "castle-ravenloft"
@@ -33,7 +30,6 @@ things:
   - "ashbringer"
   - "bag-of-holding"
   - "gwen"
-  - "talon"
   - "the-last-word"
 factions:
   - "drow-faction"

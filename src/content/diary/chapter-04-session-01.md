@@ -12,12 +12,9 @@ people:
   - "goblin-king"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lady-faye"
   - "mediocris-dente"
-  - "sera-von-bumidere"
-  - "shar"
   - "tarkathee-daru"
   - "ysera"
   - "zhink"
@@ -25,7 +22,6 @@ places:
   - "astral-plane"
   - "goblin-town"
 things:
-  - "hew"
   - "tavern-of-doors"
 factions:
   - "duergar-faction"

@@ -6,7 +6,6 @@ session: 18
 summary: "The cursed giant had a grieving husband — Dorhun, who invited the group to Cairngorm and the Stone Giant elders who knew the path to Gravenhollow — while Cirrus entered the West Cleft naked and blood-covered to bluff his way to Droki and a meeting with Bilrigger, and Tark's solo investigation into Rilka ended in a room full of vampire spawn and a revelation that shattered him: Kenshi had never existed."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "bilrigger"
   - "cirrus-al-kayan"
   - "claudine"
@@ -16,14 +15,10 @@ people:
   - "gaddock"
   - "gundren-rockseeker"
   - "ilvara-mizzrym"
-  - "intent"
   - "kenshi"
-  - "madame-eva"
   - "mediocris-dente"
   - "milgre"
   - "orcus"
-  - "ront"
-  - "shar"
   - "tarkathee-daru"
   - "themberchaud"
   - "zhengyi"
@@ -36,7 +31,6 @@ places:
   - "west-cleft"
 things:
   - "gwen"
-  - "hew"
   - "tavern-of-doors"
 factions:
   - "bregan-daerthe"

@@ -139,14 +139,24 @@ for (const entry of wikiEntries) {
   }
 }
 
-// Build regex for matching names in text (longest first to avoid partial matches)
+// Names/aliases that are common English words and should only match via [[wiki-link]] syntax.
+// With word-boundary matching, substring false positives (e.g. "ares" in "Sharess") are
+// already handled. This stoplist is for names that are common standalone English words.
+const STOPLIST = new Set([
+  'intent', 'tent',   // Intent (planeswalker) - "intent on", "tent" (canvas)
+  'fen',              // Fen (Frost Giant) - "fen" (marshland, common in D&D prose)
+  'hew',              // Hew (axe) - "hew" (verb: to chop/cut)
+]);
+
+// Build per-name word-boundary regexes for matching in text
+// Longest first to avoid partial matches; filter short names and stoplist entries
 const allNames = [...nameToSlug.keys()].sort((a, b) => b.length - a.length);
-// Filter out very short names (< 3 chars) to avoid false positives
-const filteredNames = allNames.filter(n => n.length >= 3);
-const namePattern = new RegExp(
-  '\\b(' + filteredNames.map(n => n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')\\b',
-  'gi'
-);
+const filteredNames = allNames.filter(n => n.length >= 3 && !STOPLIST.has(n));
+const nameRegexMap = new Map<string, RegExp>();
+for (const name of filteredNames) {
+  const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  nameRegexMap.set(name, new RegExp('\\b' + escaped + '\\b', 'i'));
+}
 
 // Category → frontmatter key mapping
 const categoryToKey: Record<string, string> = {
@@ -168,11 +178,21 @@ for (const file of diaryFiles) {
 
   // Find all wiki entity mentions in the body text
   const foundSlugs = new Set<string>();
-  const bodyLower = body.toLowerCase();
 
-  for (const [name, slug] of nameToSlug.entries()) {
-    if (name.length < 3) continue;
-    if (bodyLower.includes(name)) {
+  // 1. Match non-stoplisted names using word-boundary regexes
+  for (const [name, regex] of nameRegexMap.entries()) {
+    if (regex.test(body)) {
+      const slug = nameToSlug.get(name);
+      if (slug) foundSlugs.add(slug);
+    }
+  }
+
+  // 2. Match stoplisted names ONLY via explicit [[wiki-link]] syntax
+  for (const stoppedName of STOPLIST) {
+    const slug = nameToSlug.get(stoppedName);
+    if (!slug) continue;
+    // Match [[slug]] or [[slug|Display Name]]
+    if (body.includes(`[[${slug}]]`) || body.includes(`[[${slug}|`)) {
       foundSlugs.add(slug);
     }
   }

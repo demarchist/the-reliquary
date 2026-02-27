@@ -7,8 +7,6 @@ summary: "Vizerion contacted Gundren in a dream, suspicious of the group's prese
 people:
   - "aliyah-faen-tlabbar"
   - "dalfred-noakes"
-  - "delly-griplim"
-  - "fen"
   - "finn"
   - "grein-osstyl"
   - "gromph-baenre"

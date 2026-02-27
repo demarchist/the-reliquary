@@ -6,27 +6,19 @@ session: 15
 summary: "The Trials of the Crusader erupt into full-scale battle as the Narzugon Prime summons reinforcements that shatter the containment wards — the group fights cavalry charges, flaming lances, and walls of hellfire before banishing the Archdevil and discovering that Faerzress crystals have cracked the planar barriers beneath Helm's Hold."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
-  - "chani"
   - "cirrus-al-kayan"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "javen-tarkimos"
-  - "madame-eva"
-  - "shar"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "ethereal-plane"
   - "underdark"
 things:
   - "faerzress"
   - "gwen"
-  - "hew"
-  - "saurian-firelance"
 ---
 
 ## The Battle

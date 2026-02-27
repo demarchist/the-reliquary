@@ -6,7 +6,6 @@ session: 15
 summary: "As Gromph Baenre began the ritual to summon the Demon Lords above, the group assaulted the West-Wall Slave Market from below — using Passwall and Earthglide to breach the prison walls and liberate hundreds of slaves into the stench-streets. They discovered wings of dead prisoners killed by black veins, and their escape was blocked by Grein Osstyl, wielding strange new power and backed by Red Slaad."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "finn"

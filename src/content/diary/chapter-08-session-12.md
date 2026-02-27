@@ -1,27 +1,21 @@
 ---
-title: "The Underdark - The Tomb on the Water"
+title: The Underdark - The Tomb on the Water
 chapter: 8
 chapterTitle: The Underdark
 session: 12
 summary: "Aboard Hemeth's Darklake vessel, the group discovered a Netherese tomb embedded in the cavern ceiling above the water — and what they found inside had been waiting a very long time for someone to come looking."
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
   - "cirrus-al-kayan"
   - "doc"
-  - "ella"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hemeth"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "ront"
-  - "shar"
   - "shuushar"
   - "snorbul"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "blingdenstone"
   - "darklake"

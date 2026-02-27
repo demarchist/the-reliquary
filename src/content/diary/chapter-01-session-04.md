@@ -16,10 +16,7 @@ people:
   - "moot"
   - "orcus"
   - "pickles"
-  - "ront"
-  - "sera-von-bumidere"
   - "tarkathee-daru"
-  - "val-tengu"
   - "ysera"
 places:
   - "astral-plane"
@@ -31,7 +28,6 @@ places:
   - "shadowfell"
   - "wave-echo-cave"
 things:
-  - "hew"
   - "piwafwi"
   - "tavern-of-doors"
   - "thundercannon"

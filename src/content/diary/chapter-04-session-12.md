@@ -13,8 +13,6 @@ people:
   - "kangaxx"
   - "lathander"
   - "orcus"
-  - "sera-von-bumidere"
-  - "shar"
   - "tarkathee-daru"
   - "ysera"
 places:

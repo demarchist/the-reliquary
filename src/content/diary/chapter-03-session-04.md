@@ -6,16 +6,12 @@ session: 4
 summary: "The group infiltrates Lord Fendrel's restricted wing — solving puzzles, charming nobles, fighting animated suits of armor, and cracking the vault — only to discover the whole heist was a Duergar trap."
 people:
   - "aliyah-faen-tlabbar"
-  - "chani"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
-  - "fen"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
-  - "madame-eva"
   - "tarkathee-daru"
-  - "val-tengu"
 things:
   - "tavern-of-doors"
 factions:

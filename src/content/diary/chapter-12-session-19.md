@@ -10,14 +10,10 @@ people:
   - "gundren-rockseeker"
   - "hasrala"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "ront"
-  - "shar"
   - "snorbul"
   - "tarkathee-daru"
   - "vaketh"
-  - "val-tengu"
   - "ventari"
 places:
   - "faerun"
@@ -29,7 +25,6 @@ places:
 things:
   - "arkto"
   - "ringed-veils"
-  - "saurian-firelance"
   - "titanic-forge"
 factions:
   - "saurians"

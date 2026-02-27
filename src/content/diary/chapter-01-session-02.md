@@ -7,7 +7,6 @@ summary: "The party meets Doctor Breakfast, receives the Tavern of Doors from Sh
 people:
   - "agatha"
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "black-spider"
   - "doc"
   - "feanon-serinde"
@@ -15,12 +14,9 @@ people:
   - "harbin-wester"
   - "horatio-von-bumidere"
   - "iarno"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "nezzan"
   - "reidoth"
-  - "ront"
-  - "shar"
   - "sharess"
   - "sildar"
   - "tarkathee-daru"
@@ -33,7 +29,6 @@ places:
   - "thundertree"
   - "tresendar-manor"
 things:
-  - "hew"
   - "talon"
   - "tavern-of-doors"
 factions:

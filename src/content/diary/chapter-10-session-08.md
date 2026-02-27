@@ -7,14 +7,10 @@ summary: "The group drove Yeenoghu from the field and harvested the Goristro's h
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
-  - "ella"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "orcus"
-  - "ront"
   - "tarkathee-daru"
   - "yeenoghu"
 places:

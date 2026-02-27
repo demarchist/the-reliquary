@@ -12,7 +12,6 @@ people:
   - "cirrus-al-kayan"
   - "dorbo"
   - "feanon-serinde"
-  - "fen"
   - "gundren-rockseeker"
   - "gurnik"
   - "hisesophax"
@@ -21,7 +20,6 @@ people:
   - "tarkathee-daru"
   - "thorna"
 places:
-  - "abyss"
   - "blingdenstone"
   - "ethereal-plane"
 things:

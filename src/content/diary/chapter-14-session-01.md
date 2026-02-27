@@ -10,7 +10,6 @@ people:
   - "claudine"
   - "doc"
   - "feanon-serinde"
-  - "fen"
   - "finn"
   - "gaddock"
   - "gundren-rockseeker"
@@ -20,16 +19,12 @@ people:
   - "lathander"
   - "lodan"
   - "pickles"
-  - "ront"
   - "ruthir"
   - "snorbul"
   - "tarkathee-daru"
-  - "vaas-redblade"
-  - "val-tengu"
   - "vladalma"
   - "zhengyi"
 places:
-  - "amn"
   - "barovia"
   - "blingdenstone"
   - "ethereal-plane"
@@ -41,8 +36,6 @@ places:
   - "silverymoon"
   - "the-establishment"
   - "vaasa"
-things:
-  - "hew"
 factions:
   - "amnians"
   - "bregan-daerthe"

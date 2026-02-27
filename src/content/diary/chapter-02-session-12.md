@@ -14,15 +14,9 @@ people:
   - "lodan"
   - "lothli"
   - "orcus"
-  - "shar"
   - "tarkathee-daru"
   - "venomfang"
-places:
-  - "abyss"
 things:
-  - "artifact-shard"
-  - "hew"
-  - "spellforge"
   - "tavern-of-doors"
 factions:
   - "drow-faction"

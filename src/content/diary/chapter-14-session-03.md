@@ -5,14 +5,11 @@ session: 3
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "lathander"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "anauroch"
   - "ethereal-plane"

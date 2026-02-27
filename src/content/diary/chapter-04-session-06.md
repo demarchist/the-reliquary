@@ -5,7 +5,6 @@ chapterTitle: The Bog
 session: 6
 summary: "The group gathers allies at the Goblin Town inn — Demetrius the Malk, an enormous elf barbarian, trapped tiefling twins, and Kazoo — rallies the goblins into a war party, kills a bridge troll, and reaches the labyrinth wall to wait for the riddle's answer at sundown."
 people:
-  - "azoo-the-archer"
   - "demetrius"
   - "doc"
   - "feanon-serinde"

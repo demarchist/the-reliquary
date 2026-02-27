@@ -6,22 +6,16 @@ session: 8
 summary: "The group fought off Sovereignty raiders in the rain and freed abducted civilians from mutated Storm Giants — but the night ended in disaster: the tower was breached and Uira taken, Topsy and Turvy were stolen from the Fane, and the Aboleth itself dragged Feanon into the depths of the lake."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "beryan"
   - "chani"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
-  - "fen"
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
-  - "madame-eva"
-  - "ront"
   - "selune"
-  - "sera-von-bumidere"
   - "snorbul"
   - "surtr"
   - "tarkathee-daru"
@@ -38,7 +32,6 @@ things:
   - "arkto"
   - "eclipse"
   - "gwen"
-  - "hew"
 ---
 
 [[tarkathee-daru|Tark]] peeled away from the group as they pursued the retreating Sovereignty forces into the tree line. The keep had no idea the barony was under attack.

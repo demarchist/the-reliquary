@@ -20,19 +20,15 @@ people:
   - "kurt-von-bumidere"
   - "li-xian"
   - "lord-neverember"
-  - "ront"
   - "selune"
   - "sera-von-bumidere"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
-  - "amn"
   - "silverymoon"
   - "snorbuls-hole"
   - "sundabar"
 things:
   - "gwen"
-  - "hew"
   - "thayan-drop-box"
 factions:
   - "amnians"

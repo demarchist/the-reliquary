@@ -13,12 +13,9 @@ people:
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "lothli"
-  - "madame-eva"
   - "nezzan"
   - "orcus"
-  - "shar"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "astral-plane"
   - "the-chasm"

@@ -18,8 +18,6 @@ places:
   - "iyum"
   - "machina-factory"
   - "thueba-swamp"
-things:
-  - "hew"
 factions:
   - "cult-of-zalaam"
   - "obsidian-order"

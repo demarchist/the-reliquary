@@ -9,16 +9,11 @@ people:
   - "demogorgon"
   - "grazzt"
   - "gromph-baenre"
-  - "intent"
   - "juiblex"
-  - "madame-eva"
   - "orcus"
-  - "ront"
-  - "val-tengu"
   - "yeenoghu"
   - "zuggtmoy"
 places:
-  - "abyss"
   - "menzoberranzan"
   - "underdark"
 factions:

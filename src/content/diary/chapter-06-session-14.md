@@ -7,7 +7,6 @@ summary: "In the aftermath of the failed Amnian coup, the group is awarded the B
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
-  - "doc"
   - "feanon-serinde"
   - "gaddock"
   - "gundren-rockseeker"
@@ -17,7 +16,6 @@ people:
   - "megno-slatesunder"
   - "omar"
   - "orcus"
-  - "shar"
   - "tarkathee-daru"
   - "von-issinger"
   - "zhengyi"

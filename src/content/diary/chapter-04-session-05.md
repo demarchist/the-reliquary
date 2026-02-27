@@ -5,18 +5,13 @@ chapterTitle: The Bog
 session: 5
 summary: "The group arrives in Goblin Town and discovers Lorde — JmJm's rival and a Harper agent — locked in the stocks, learns the Goblin King has taken JmJm into the labyrinth, trades junk for supplies, and Buumi befriends Lorde's celestial war-tiger whose presence heals his Bog curse."
 people:
-  - "ares"
-  - "azoo-the-archer"
   - "doc"
-  - "ella"
   - "goblin-king"
   - "horatio-von-bumidere"
-  - "intent"
   - "jack-mayer-johnson-mathews"
   - "kazoo"
   - "lorde"
   - "tarkathee-daru"
-  - "val-tengu"
 places:
   - "feanons-tower"
   - "goblin-town"

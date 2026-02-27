@@ -6,11 +6,9 @@ session: 8
 summary: "Scattered across Neverwinter, the group visits Buumi's family estate, Tark and Gundren dismantle a slaving gang in the Red Belt shantytown, and Cirrus tracks the Red Grin Killer — a warlock of Ceregorach — to the Fallen Tower Inn, where they meet the spy Galen Marek and set a trap to protect the killer's next target."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "aurelian"
   - "boris"
   - "cirrus-al-kayan"
-  - "ella"
   - "esimir-von-bumidere"
   - "feanon-serinde"
   - "galen-marek"

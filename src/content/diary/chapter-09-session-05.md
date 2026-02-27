@@ -6,17 +6,12 @@ session: 5
 summary: "The group pushed deeper into the Netherese mine — extracting Chardalyn, battling a malevolent Earth Elemental, and dealing with Snorbul's catastrophic curiosity in the barracks — before the Duergar accidentally unsealed a Chardalyn sarcophagus that had imprisoned something ancient and terrible for three thousand years."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
-  - "intent"
-  - "ront"
   - "snorbul"
   - "thorna"
-  - "val-tengu"
 places:
-  - "abyss"
   - "underdark"
 things:
   - "chardalyn"

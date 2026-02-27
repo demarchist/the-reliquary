@@ -12,7 +12,6 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "intent"
   - "ront"
   - "snorbul"
   - "tarkathee-daru"
