@@ -3,6 +3,7 @@ title: Beyond the Veil - Full Circle
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 21
+summary: "The group returned to Dokkar to research the Crystal relic and the Illythiri Dark Elves, discovering the ritual required Moonfire — a divine gift of Eilistraee and Selûne. Back on Faerûn, they sailed from Baldur's Gate up the Chionthar toward Scornubel, and Cirrus led them to the Gorgon's Maw in the Wood of Sharp Teeth — the place where he had once planned to lure them to their deaths — where they found a coven of Hags conducting a summoning ritual."
 people:
   - "aliyah-faen-tlabbar"
   - "beryan"
@@ -15,198 +16,84 @@ people:
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "intent"
   - "li-xian"
   - "lolth"
+  - "madame-eva"
   - "ront"
   - "selune"
   - "shar"
   - "snorbul"
   - "tarkathee-daru"
 places:
-  - "amn"
+  - "baldurs-gate"
   - "blingdenstone"
   - "dokkar"
   - "faerun"
-  - "feanons-tower"
   - "scornubel"
-  - "snorbuls-hole"
+  - "selunia"
   - "svartalfheim"
+  - "wood-of-sharp-teeth"
 things:
   - "arkto"
   - "eclipse"
   - "gwen"
   - "piwafwi"
 factions:
-  - "amnians"
   - "drow-faction"
   - "svirfneblin-faction"
 ---
 
-Back in the tower, Buumi and Tark head back to the Orc village to report to the troops what just happened.
+Back in [[feanons-tower|Feanon's Tower]], [[horatio-von-bumidere|Buumi]] and [[tarkathee-daru|Tark]] headed to the Orc village to report what had happened. [[bolg|Bolg]] was left in the teleportation room to regenerate.
 
-They leave Bolg in the Teleport room to regenerate.
+## The Crystal Relic
 
-Cirrus, Patches and Feanon all decide to remain in the tower.
+[[aliyah-faen-tlabbar|Patches]] headed to the library to research, while [[feanon-serinde|Feanon]] and [[cirrus-al-kayan|Cirrus]] went to the labs. There, [[cirrus-al-kayan|Cirrus]] found the Crystal plate — the holy item given to them by the [[svirfneblin-faction|Svirfneblin]] of [[blingdenstone|Blingdenstone]] — hooked up to wires and apparatus designed to measure its energies. This offended him deeply, and he called [[feanon-serinde|Feanon]] over to argue about proper methods of investigation.
 
-Patches heads to the library to do some research while Feanon and Cirrus head to the labs.
+[[aliyah-faen-tlabbar|Patches]], struggling with translations in the library, joined them. With [[beryan|Beryan's]] assistance, [[feanon-serinde|Feanon]] and [[cirrus-al-kayan|Cirrus]] made a breakthrough — the Crystal was the heart of a ritual spell, a lens for something related to Prismeum, a magical material previously unknown to [[beryan|Beryan]] the sage. They determined that three powerful spellcasters were needed: two of the Arcane and one of Celestial weal. One arcanist to perform the ritual, a second to cast a Prismatic beam into the Crystal, and the third to call down Moonfire into the relic.
 
-In the labs, Cirrus feels drawn to the Crystal plate given to them by the Svirfneblin of Blingdenstone.
+The three of them decided to travel to [[svartalfheim|Svartalfheim]] and the city of [[dokkar|Dokkar]] to inquire about the history of the Illythiri Dark Elves and whatever Moonfire might be.
 
-Investigating it, Cirrus finds that the holy item is hooked up to wires and apparatus designed to measure it’s various energies.
+## Return to Dokkar
 
-This offends Cirrus and he calls Feanon over to argue about how best to research the thing.
+Plane shifting to the gates of [[dokkar|Dokkar]], the group was welcomed inside — though reminded of their limitations, much to [[aliyah-faen-tlabbar|Patches']] annoyance. On their second visit, they began to distinguish between the living and the dead among the city's inhabitants, noting the slight desaturation of those who had passed on. Small glowing orbs of light — souls of the departed — drifted through the streets.
 
-Down in the main library, with assistance from Beryan, Patches manages to find some interesting books on the pre-Crown War Dark Elves known as the **Illythiri.**
+[[cirrus-al-kayan|Cirrus]] led them to the tailor who had woven his moonweave robe, reasoning it might be a starting point for their Moonfire investigation. In what amounted to a shrine to [[selune|Selûne]], the tailor explained that moonweave cloth was silk infused with Moonfire, called down in a ceremony by the heads of the Tailors' Guild. All sufficiently powerful clerics of [[eilistraee|Eilistraee]] and [[selune|Selûne]] could call upon Moonfire — a physical manifestation of the divine power of the moon.
 
-Having a hard time with the translation though, Patches ends up in the labs, watching Feanon and Cirrus argue over the Crystal relic.
+[[cirrus-al-kayan|Cirrus]] pressed higher into the city, climbing to the sixth tier and the great temples there. He found the grandest — belonging to Clan Tinnaveddir — and was directed through chambers of meditation and prayer to a great grove seemingly contained within the stone core of the city. There, an ancient High Priestess told him that Moonfire was a gift from the Goddess and would be bestowed upon him as a rite of passage in his great journey. He must continue on the path.
 
-With Beryan’s assistance though, the two of them seem to have actually made some progress and have discovered that the Crystal is the heart of a ritual spell, a lens for something related to **Prismeum**, a magical material previously unknown to Beryan the Sage.
+[[aliyah-faen-tlabbar|Patches]] and [[feanon-serinde|Feanon]], limited to the first two levels, found Madame Toux at the Tailors' Guild and received a similar explanation. The next Moonfire ceremony would take place in just under a month, coinciding with the next full moon on the Prime Material Plane. The group asked to attend and were welcomed to return.
 
-They further determine that three powerful spellcasters are needed for this ritual - two of the Arcane and one of Celestial weal.
+In the city's library, they discovered that the ancient empire of the Illythiri Dark Elves — the pre-[[lolth|Lolth]] [[drow-faction|Drow]] — had existed in what was now modern-day Chult on [[faerun|Faerûn]]. A place to continue the search for how to cleanse the Curse of Wendonai.
 
-One Arcanist to perform the ritual, a second to cast a Prismatic beam into the Crystal and the third to call down **Moonfire **into the crystal Relic.
+[[aliyah-faen-tlabbar|Patches]] visited [[finn|Finn]], and then the group returned to the [[selunia|Barony]].
 
-After some discussion, Feanon, Patches and Cirrus decide to head to **Svartalfheim and the City of Dokkar **to inquire about the history of the Illythiri Dark Elves and whatever **Moonfire** may be.
+## To Baldur's Gate
 
-Planeshifting to the gates of the city of Dokkar, the group is welcomed inside, though reminded of their limitations (much to Patches annoyance).
+The dragons had not reappeared and the Oni had been repelled from the [[selunia|Barony]]. Still wanting to pursue the Efreeti at [[scornubel|Scornubel]], the group reconvened at [[feanons-tower|Feanon's Tower]] and teleported to the Mage's College of [[baldurs-gate|Baldur's Gate]].
 
-As they head inside, they note many small glowing orbs of light moving around the place and determine them to be souls of the dead.
+The city had not changed much, though they drew far more attention from the citizenry. The people knew of the Heralds — there was even a statue of the group in the Temple district. [[aliyah-faen-tlabbar|Patches]] led them to the docks and to the same inn where, long ago, they had first met [[cirrus-al-kayan|Cirrus]] — the Mermaid's Arms.
 
-Indeed, on their second visit now, the group thinks they can begin to tell which Elves here are alive and which are dead from their auras and slight desaturation (for the dead ones)
+[[gundren-rockseeker|Gundren]] purchased an entire river barge and inducted its young captain, Gil, into the Rockseeker Corporation. As they departed, guards arrived to protest that Gil was wanted for minor crimes — but backed down when they realised the Heralds were aboard. [[tarkathee-daru|Tark]] caused a scene running across the water to buy food from vendors before being asked to keep a low profile.
 
-Cirrus leads the group up to the limits of the second level, to the tailor he met that weaved his robe with “Moonweave” cloth, thinking this may be a good starting point for their Moonfire investigation.
+They headed up the Chionthar, passing military convoys bound for the front. The first day was uneventful.
 
-Indeed, upon meeting the tailor in what amounts to a shrine to Selune, they discover that Moonweave cloth is silk infused with Moonfire, called down in a ceremony by the heads of the Tailors guild in the city.
+## The Gorgon's Maw
 
-Indeed, she explains that all sufficiently powerful clerics of Elistraee and Selune can call on Moonfire, a physical manifestation of the divine power of the moon.
+As they pulled into a small town dock for the night, [[cirrus-al-kayan|Cirrus]] raised something he had long kept quiet. When he had first met the group, he had intended to lure them from [[baldurs-gate|Baldur's Gate]] to the [[wood-of-sharp-teeth|Wood of Sharp Teeth]] — to the Gorgon's Maw — to be slain by the Marilith. That had obviously not happened, but the Maw still existed, and likely still harboured something terrible. He asked the group to come with him and cleanse it.
 
-Wanting more answers, Cirrus heads higher in the city, seeking to climb to the limits of the sixth tier and the great temples there.
+[[aliyah-faen-tlabbar|Patches]] was sceptical, remarking that she had never realised [[cirrus-al-kayan|Cirrus]] was so patient in his scheming. She was only half joking. [[cirrus-al-kayan|Cirrus]] took offence, insisting he had changed. [[aliyah-faen-tlabbar|Patches]] brought up the followers in the [[selunia|Barony]] who were removing body parts and replacing them with metal — the group agreed it looked distinctly cult-like. [[cirrus-al-kayan|Cirrus]] grumbled that he could not control what his followers did. The others remained unconvinced but agreed to go.
 
-Patches and Feanon, limited as they are to the first two levels of the city decide to head to the library and to the Guild hall of the Tailors to meet with **Madame Toux.**
+[[gundren-rockseeker|Gundren]] lent [[horatio-von-bumidere|Buumi]] and [[aliyah-faen-tlabbar|Patches]] [[gwen|Gwen]] as a mount, promising to catch up on [[arkto|Arkto]] with [[tarkathee-daru|Tark]] and [[snorbul|Snorbul]]. The main force rode south and reached the edge of the [[wood-of-sharp-teeth|Wood of Sharp Teeth]] after half a day.
 
-Cirrus finds the grandest temple in the district (owned by **Clan Tinnavedir) **and heads inside, passing chambers of meditation and prayer and being directed to a great grove, seemingly contained within the stone core of the city.
+[[cirrus-al-kayan|Cirrus]] led them west along the forest's edge. [[aliyah-faen-tlabbar|Patches]] spotted a tribe of Goblins shadowing them through the trees. The creatures attacked — and the group put half the tribe to sleep before annihilating the rest, save for the Goblin Boss, who lost a hand to a blast and was left unconscious.
 
-Here, Cirrus meets with an ancient high priestess and sits with her for a while.
+The landscape grew dark and twisted as they pressed deeper. [[feanon-serinde|Feanon]] detected an enchantment and found a hidden path that led them to the dark cavern of the Gorgon's Maw. Grisly warnings hung from the trees — ears, skin, and dismembered limbs. [[feanon-serinde|Feanon]] voiced his suspicions based on the magic he was encountering. Hags.
 
-She explains that Moonfire is a gift from the Goddess and will be bestowed upon Cirrus as a right of passage in his great journey.
+[[aliyah-faen-tlabbar|Patches]] pulled on the cowl of her [[piwafwi|Piwafwi]] and slipped into the darkness. She found more wards, avoided them, and crept far enough to hear chanting from three crackling voices. She returned, reported, and then led the group inside.
 
-He must continue on the path.
+They picked their way through the depths, the ritual spellcasting masking their approach. In a chamber at the end of a long, narrow hallway, they spotted two Night Hags and one Annis Hag conducting a summoning ritual involving a blood sacrifice.
 
-Having faith, Cirrus nods in understanding and proceeds to relax in the temple a while.
+Not wanting to wait and see what they summoned, the group rushed them.
 
-Meanwhile, Patches and Feanon find and talk with Madame Toux and get a similar explanation.
-
-They are also told that the next Moonfire ceremony will be in just under a month, coinciding with the next full moon on the Prime Material Plane - an event seemingly synchronized across many worlds.
-
-The group asks to visit and bear witness to the event.
-
-Madame Toux welcomes them to return at that time.
-
-Cirrus rejoins the group at the Guildhall and the three of them head to the library to find any information on the Illithyri Dark Evles.
-
-While there, they make a discovery; that the ancient empire of the Dark Elves, pre-lolth curse, existed in what is modern day Chult in Faerun.
-
-With a place to now continue the search for how to cleanse the corruption of Lolth, the group rests. 
-
-Patches visits her brother Finn, and then the group heads out, returning to the Barony after a only few days in Dokkar.
-
-
-Back in the Barony, the Dragons have not reappeared and the Oni that came with them were repelled from the Barony, it seems that all is well currently.
-
-Wanting to still head to Scornubel to deal with the Efreeti, the group reconvenes at Feanons tower, planning on Teleporting to Baldur’s Gate and hiring a boat to take them up river to Scornubel.
-
-They teleport to the Mage’s College of Baldur’s Gate.
-
-The teleportation ring deposits the group in the main hall of the College
-
-The place is a bustle of activity and feels more like a museum than a school.
-
-As they move to leave, they do note residual damage from the Amnian attack that started the war.
-
-Heading out into the city, the group asks Patches where they should go for a boat.
-
-She leads them to the docks and indeed, to the same Inn where so long ago, they met Cirrus: **The Mermaid’s Arms.**
-
-Baldur’s Gate hasnt changed much since the group was last here, though they do get a lot more gawking looks from the average citizens.
-
-Indeed, the people here know of the Heralds and there is even a statue of the group in the Temple district.
-
-The group though heads straight to the docks where they waste no time in finding a young river-barge captain.
-
-Gundren purchases the entire Barge, inducting **Gil**, the boat captain, into the Rockseeker Corporation as their newest asset.
-
-The group hops onto the Barge and begin to head out of the city.
-
-As they are leaving though, the guards show up and begin to protest that Gil is wanted for minor crimes, though the guards back down when they realize that the Heralds are Gil’s passengers.
-
-The group gets gawked at as they leave the city, Tark being very conspicuous and running across water to buy food from vendors before being asked to lay low a bit.
-
-The boat heads out of Baldur’s Gate and begins the trek up the river Chionthar.
-
-Passing military convoys heading to the front, and other tradesmen on the river, the group makes good time and has an uneventful first day.
-
-As they pull into a small town dock for the night, Cirrus brings something up to the group.
-
-Long ago, when he first met them, he had intended to lure the group out of the city and to the Wood of Sharp Teeth, to the Gorgon’s Maw to be slain by The Marilith.
-
-That obviously did not happen, but the Maw still exists, and likely still contains something terrible.
-
-He asks the group to come with him to that place to cleanse it of evil.
-
-Patches is skeptical and mentions that she had no idea Cirrus was so patient, trying to lure them to their doom after so much time.
-
-She’s only half joking and Cirrus takes offense, claiming that he has changed!
-
-Patches brings up the followers in the Barony removing body parts and swapping them with metal and a few other members of the group agree that it’s pretty culty and not a good look.
-
-Cirrus grumbles about it, saying he cant control what his followers do.
-
-The others remain unconvinced, but do agree to go with him to The Gorgon’s Maw.
-
-The group has Gil stay in town while they ride south, to the Woods.
-
-Gundren lends Buumi and Patches Gwen as a mount, saying he will catch up on Arkto later with Tark and Snorbul.
-
-Cirrus and Feanon both summon their magical mounts and the group splits, with the main force heading south.
-
-Travel is quick and with the group riding atop magical beasts, they are not accosted/outpace anything that might rise against them.
-
-They quickly make the Woods border after only a half day of riding.
-
-Vaguely remembering the way, Cirrus leads them West, skirting the edge of the forest.
-
-As he notes a familiar crest of rock, Patches notes movement in the forest from a Tribe of Goblins shadowing them.
-
-The Goblins attack, but the group puts half the tribe to sleep and then easily annihilates the lot rest of them, save for the Goblin Boss who has his hand blasted off and is left unconscious.
-
-Continuing on, away from the battle, the group notes the landscape changing in subtle ways, becoming dark and twisted.
-
-Feanon detects a subtle thread of the arcane and when he pulls on it, determines there is an enchantment in this area of the Forest.
-
-He leads the group through the enchantment, finding a hidden path.
-
-Following it, the group comes across the dark cavern of The Gorgon’s Maw.
-
-Before heading inside, the group looks around, noting grisly warnings tied up in the trees - ears, skin and dismembered limbs.
-
-Feanon voices his suspicions based on the magic he’s encountering; Hags.
-
-Patches pulls on the cowl of her Piwafwi and heads into the dark hole in the forest.
-
-She finds more grisly wards and avoids them, getting far enough into the hole to hear chanting from three crackling voices.
-
-She returns to the group and tells them what she found and then leads them all into The Maw to face the Hags.
-
-The group picks their way into the depths of the cave, the ritual spellcasting keeping them from being heard.
-
-They move into position and spot the hags in a chamber down a long and narrow hallway.
-
-They see two Night Hags and one Annis Hag conducting a summoning ritual involving a blood sacrifice.
-
-Not wanting to wait and see what they summon, the group rushes the Hags, attacking furiously.
-
-Hitting the fiends hard, the group’s opening attacks are powerful, but not enough to slay the creatures outright.
-
-The Hags reel from the onslaught, caught in tar, shot and hit with spells, but they do not fall.
-
-The fiends begin to cackle with glee, pulling wands of bone and rusty looking knives from their robes as they turn to face their attackers...
+The opening assault was devastating but not enough to slay the fiends outright. Caught in tar, shot, and battered with spells, the Hags reeled — but did not fall. They began to cackle with glee, pulling wands of bone and rusty knives from their robes as they turned to face their attackers.

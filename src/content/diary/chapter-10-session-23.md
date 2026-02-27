@@ -3,16 +3,17 @@ title: Beyond the Veil - The Great Escape
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 23
+summary: "At Scornubel, the group crossed the Chionthar into Efreeti-held territory and discovered a temple of Chauntea converted into a war camp, guarded by fire elementals and a shrine to Orcus. Patches infiltrated the spire alone, freed the prisoner Ezmerelda d'Avenir, and stole the legendary Efreeti Chain armour from a trapped alcove — fleeing through Snorbul's tunnel as the enraged commander Shal Bartok unleashed a Red Dragon on their scent."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "ezmerelda"
-  - "fen"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "intent"
   - "orcus"
   - "ront"
+  - "shal-bartok"
   - "snorbul"
   - "tarkathee-daru"
   - "val-tengu"
@@ -22,99 +23,53 @@ places:
   - "barovia"
   - "city-of-brass"
   - "scornubel"
+  - "selunia"
 things:
   - "bag-of-holding"
   - "deck-of-illusions"
 factions:
   - "amnians"
+  - "vistani"
 ---
 
-The group immediately moves to cross the Chionthar River and move on the Efreeti this very night.
+The group moved to cross the Chionthar River that night and strike at the Efreeti immediately.
 
-Several of the group move across the river quickly using magic, but Cirrus attempts to swim after altering his form.  It takes him an hour and exhausts the lanky Warlock.
+## Across the River
 
-Meanwhile, the others have begun scouting the area on the other side of the river.
+Several of the group used magic to cross quickly. [[cirrus-al-kayan|Cirrus]] attempted to swim after altering his form — it took him an hour and left the lanky Warlock exhausted. Meanwhile, the others scouted the far bank.
 
-Patches and Gundren both spot the injured Efreeti Raider become visible and land in the nearby Village.
+[[aliyah-faen-tlabbar|Patches]] and [[gundren-rockseeker|Gundren]] both spotted an injured Efreeti raider become visible and land in the nearby village. The town was clearly occupied by the [[amnians|Amnian]] army, but the soldiers made no move to assist the wounded creature — treating the group's killing of the Efreeti raiders as none of their concern. [[gundren-rockseeker|Gundren]] returned to the group and advised bypassing the town entirely.
 
-The town is clearly occupied by the Amnian Army but they do not assist the injured Efreeti, indeed they act as if the group’s slaying of the Efreeti raiders is not their business.
+[[aliyah-faen-tlabbar|Patches]] lingered, disguised as an old woman. She spotted a shrine to [[orcus|Orcus]] in the town centre, built around the gallows and several hanging bodies. Strangely, all sides seemed to avoid the grisly site. From the spire of Chauntea, goddess of the Harvest, she spotted the larger temple farther inland, atop a nearby hill — great fires burning among its grounds. She returned to the group after watching the injured Efreeti flee through the air toward the temple.
 
-Liking the sound of that, Gundren returns to the group at the river bank to inform them they should bypass the town.
+## The Temple Camp
 
-Patches stays in the town a little longer, intent on finding out a bit more.
+The group circled the town and climbed the hill to the temple. Scouting from the air, they quickly determined the force was too large to assault directly. The temple spire sat at the centre of an encampment housing at least fifty human tribesmen, each circle of tents gathered around a blazing bonfire of living elemental fire. The once-beautiful gardens of Chauntea had been burned to ash, and cages held many prisoners.
 
-Disguised as an old lady, she spots a shrine to Orcus in the center of the town, built around the gallows and a number of bodies hanging there.
+The Efreeti commander emerged from the spire to address his troops.
 
-Strangely, all sides seem to avoid that site - she spots no one attending that grisly location.
+The group decided to send [[tarkathee-daru|Tark]] and [[aliyah-faen-tlabbar|Patches]] through a tunnel dug by [[snorbul|Snorbul]] beneath the walls. They emerged in a deserted section of the burned garden and slipped easily into the temple spire.
 
-Moving up the spire of Chaunteau, goddess of The Harvest and Fertility, she spots the larger temple farther inland, atop a nearby hill.
+Inside, four Efreeti were laughing at their injured companion, handing him healing potions and berating the survivor of the earlier raid. They were leisurely preparing for battle — gathering weapons, drinking, revelling.
 
-The large spire there is easily visible, with great fires burning amongst the grounds.
+## The Heist
 
-Patches returns to the group after watching the Efreeti flee through the air, toward the temple of Chaunteau in the distance.
+[[aliyah-faen-tlabbar|Patches]] found the commanding Efreeti's alcove — his personal chamber and treasure room — and pushed past a burning illusion to get inside. She pocketed a considerable amount of valuables before discovering a caged prisoner she recognised.
 
-The group circumvents the town and heads up the hill toward the temple.
+[[ezmerelda|Ezmerelda d'Avenir]] of [[barovia|Barovia]].
 
-There, they scout it from the air and quickly determine that it is too dangerous of a force to simply attack.
+The Vistani monster hunter had turned mercenary after parting ways with the group, drawn by good money along the front lines. Overconfident from her victories, she had gotten in too deep with the Efreeti. Her band had been taken as slaves through the planar gate to the [[city-of-brass|City of Brass]]. [[aliyah-faen-tlabbar|Patches]] freed [[ezmerelda|Ezmerelda]] and stuffed her into a [[bag-of-holding|Bag of Holding]].
 
-With a small wall, but easily defended choke points, the Temple spire sits at the center of an encampment of at least fifty human tribesmen, each circle of tents gathered around a blazing bonfire of living elemental fire.
+Before leaving, [[aliyah-faen-tlabbar|Patches]] found a hidden, trapped alcove and lunged for it. She dove out of the burning trap clutching the Efreeti Chain armour, the hot metal scalding her hands. She stuffed it into her bag and hid herself just as the Efreeti rushed in to investigate.
 
-The once beautiful gardens of Chaunteau have been burned to ash here and there are many cages with prisoners.
+## The Escape
 
-The temple Spire in the center has several large openings and they see the Efreeti commander come out from within to address his troops.
+[[shal-bartok|Shal Bartok]], the Efreeti commander, was irate. The legendary armour had been stolen. Every Efreeti in the camp summoned fire elementals and began searching. They could not find [[aliyah-faen-tlabbar|Patches]]. Convinced the thief had already fled, the commander went to the planar gate and called forth a young Red Dragon enslaved to his will. The beast began sniffing for a scent.
 
-The group decides to send in Tark and Patches through a tunnel dug by Snorbul.
+[[aliyah-faen-tlabbar|Patches]] broke for it — sprinting back toward [[snorbul|Snorbul's]] tunnel. The Dragon caught her scent. She threw a [[deck-of-illusions|Deck of Illusions]] card — a Kobold — and the Dragon dove on the phantom. She plunged into the tunnel and the group fled to their prepared teleportation circle, vanishing from the Heartlands and reappearing in the [[selunia|Barony]].
 
-Under the main walls and in a deserted part of the burned garden, Patches and Tark easily move into the temple Spire.
+[[aliyah-faen-tlabbar|Patches]] let [[ezmerelda|Ezmerelda]] out of the bag. The group caught their breath. [[horatio-von-bumidere|Buumi]] was uneasy at having left so many prisoners behind — [[ezmerelda|Ezmerelda]] agreed, and the two of them went to discuss what could be done.
 
-Inside they see four Efreeti laughing at their injured companion and handing him healing potions.
+[[gundren-rockseeker|Gundren]] donned a badge of nondetection and carried his prized armour to his workshop for fitting. [[aliyah-faen-tlabbar|Patches]] spoke with [[veygar|Veygar]] about the upcoming job. [[snorbul|Snorbul]] began researching dragons, thinking about the enslaved Red Dragon back at the Efreeti camp.
 
-They berate the survivor of the raid as they begin to leisurely prepare for battle against the group, gathering weapons, drinking, reveling etc.
-
-Patches finds the alcove used by the Commanding Efreeti as his main chamber/treasure room and pushes past a burning illusion to get inside.
-
-In the treasure room she finds many valuables and pockets a good amount.
-
-She comes across a prisoner in a cage there though and recognizes the woman.
-
-Ezmerelda D’Avenir of Barovia
-
-Turns out Ez had decided to become a mercenary after parting ways with the group and there was good money along the frontlines of the war
-
-She was arrogant from her victories with the group and got in too deep with the Efreeti.
-
-Her band was taken as slaves through the planar gate to the City of Brass in the Plane of Fire.
-
-Patches frees the woman and takes her out of there in her bag of holding.
-
-Before leaving though, Patches finds a hidden, trapped alcove and grabs at it.
-
-Diving out of the burning trap, Patches clutches the Efreeti Chain armor, even as the hot metal scalds her hands.
-
-She stuffs it into her bag and hides herself just as the Efreeti rush into the room to investigate the trap.
-
-Seeing the legendary armor stolen, the Efreeti all summon fire elementals and begin to search the area.
-
-Search as they might though, they do not find Patches.
-
-The Efreeti think they have missed the flight of the Thief and begin to spread out from the Spire - the leader goes to the Planar Gate and calls forth a young Red Dragon enslaved to its will.
-
-The Dragon begins sniffing around for a scent as the whole camp comes on alert - the Chief of the Efreeti - **Shal Bartok, **is Irate.
-
-Patches makes a break for it, rushing back to the tunnel just as the Dragon gets her scent.
-
-She throws a Deck of Illusions card of a Kobold and the Dragon dives on it.
-
-She flees down the tunnel with the group, to the awaiting Teleportation circle and they flee the Heartlands, returning to the Barony.
-
-Patches lets Ezmerelda out of the bag and the group catches their breath, discussing what just happened back there.
-
-Buumi is uneasy having left so many prisoners to be enslaved and Ezmerelda agrees, they head off to discuss what they can do about it.
-
-Gundren dons a badge of nondetection and then takes his prized armor to his workshop to have it fitted.
-
-Patches speaks with Veygar about the upcoming job.
-
-Snorbul researches Dragons. Thinking about that enslaved Red Dragon back with the Efreeti.
-
-Everyone else retires for the night, exhausted and unsure what the outcome of the war down in Scornubel will be…
+Everyone else retired for the night, exhausted and uncertain what the outcome of the war at [[scornubel|Scornubel]] would be.

@@ -3,6 +3,7 @@ title: Beyond the Veil - The Prisoner
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 22
+summary: "Gundren and Tark arrived at the Gorgon's Maw just as battle was joined — Gundren's thundercannon shredding the Annis Hag and a Marilith slithering from the pit to attack Cirrus. The group destroyed the coven and rescued imprisoned children and a soulless woman. A mysterious Eastern warrior named Ujio revealed he had been hunting the minions of Ceregorach, and Cirrus discovered the woman's soul was buried under tonnes of collapsed rock — and said nothing."
 people:
   - "aliyah-faen-tlabbar"
   - "ares"
@@ -19,65 +20,38 @@ things:
   - "thundercannon"
 ---
 
-Gundren and Tark decided to follow the group on Arkto.
+[[gundren-rockseeker|Gundren]] and [[tarkathee-daru|Tark]] had followed on [[arkto|Arkto]], and the sounds of battle drew them into the Hag den at a sprint.
 
-Hot on the heels of the others, they hear the commotion in the Hag den and race to meet up.
+## The Coven
 
-Just as battle is met in the Hag den, the two of them burst onto the scene, 
+[[gundren-rockseeker|Gundren]] rounded the corner and killed the Annis Hag in a hail of [[thundercannon|thundercannon]] shells. [[tarkathee-daru|Tark's]] furious assault forced the Night Hags to flee, turning ethereal. Before the group could reorient, [[aliyah-faen-tlabbar|Patches]] spotted a third hag hiding behind them — a creature that promptly loosed a bolt of lightning down the passage.
 
-Gundren kills the Annis Hag in a hail of Thundercannon shells and Tark’s furious assault forces the Night hags to flee, turning ethereal.
+The Hags recognised [[cirrus-al-kayan|Cirrus]]. They called out to him, welcoming him to the hole where his victims had ended up.
 
-The group prepares to take out the Ethereal creatures, but Patches notes another hag hiding behind them which promptly looses a lightning bolt.
+A Marilith slithered from the pit at the chamber's centre and attacked [[cirrus-al-kayan|Cirrus]] in a whirlwind of blades before coiling around him, constricting. Badly hurt, he encased himself in a block of ice as a Feral Green Hag leapt from invisibility to join the fray. [[tarkathee-daru|Tark]] rushed in, going toe to toe with the Marilith and coming away bloodied.
 
-Cirrus is called out by the hags, they recognize him and welcome him to the hole where his victims ended up.
+The battle was fierce and the group took vicious hits, but the coven and the Marilith fell quickly under their combined assault.
 
-A Marilith slithers out of the pit and attacks Cirrus in a flurry of blades and then moves to constrict and crush the Warlock.
+## The Prisoners
 
-Hurting from the assault, Cirrus takes refuge in a block of ice, just as a Feral Green Hag leaps from invisibility to attack as well.
+The cave did not fall silent. Whimpering calls for help echoed from deeper within. The group found a number of imprisoned children, whom they freed immediately, along with an Eastern man in rags and an unconscious woman from the Sword Coast. One of the children identified the woman as her mother — but despite the group's best efforts, they could not revive her.
 
-Tark rushes to help his friend, going toe to toe with the Marilith and coming out bloodied.
+The man was healed and began to move about. He did not speak the Common tongue, and [[tarkathee-daru|Tark]] translated. The man — Ujio — was stoic and quiet. He recovered his pack, but over the course of the conversation, the group grew concerned. He was clearly lying about certain things, and he unmistakably recognised [[cirrus-al-kayan|Cirrus']] name.
 
-The battle is fierce and the group takes a number of vicious hits, but slay the hags and Marilith quickly.
+## The Pit
 
-The cave does not grow silent after the battle; the group hears the whimpering calls of help from the hags prisoners.
+[[tarkathee-daru|Tark]] investigated the pit in the Hags' den and found it filled with teeth. When he touched the pile, [[ceregorach|Ceregorach]] spoke to him — the entity attempting to influence the monk several times. [[tarkathee-daru|Tark]] was uninterested, unmoved, and entirely unfazed. When the entity grew frustrated, he simply left.
 
-The group investigates the area and finds a number of children, which they promptly free as well as an Eastern man in rags and an unconscious woman from the Sword Coast.
+The group decided to destroy the place. They set their bombs, devices, and spells, and returned to the surface as the Gorgon's Maw collapsed behind them.
 
-One of the children reveals the woman to be her mother, but despite the groups best efforts, they cannot revive the woman.
+## Ujio
 
-The man is healed and begins to move about, not speaking the language and having Tark translate, the man is stoic and quiet.
+Above ground, the children were placed on [[arkto|Arkto]] and flown directly to the nearest village. The rest walked back to the Chionthar, continuing to question Ujio.
 
-The man recovers his pack, but over the course of the conversation, the group becomes concerned that the man is lying to them and clearly recognizes Cirrus’ name.
+After a tense interrogation — and the discovery of armour and a sword in his bag — the man admitted he had come to find and destroy the minions of [[ceregorach|Ceregorach]]. He did not believe [[cirrus-al-kayan|Cirrus]] had truly abandoned the Archfey until he saw that the jade tooth was gone from [[cirrus-al-kayan|Cirrus']] mouth. Seemingly convinced, Ujio nevertheless insisted he must leave. The group reluctantly let him walk away.
 
-Tark investigates the pit in the Hag’s den and finds it filled with teeth.
+Hours later, they reached the river village where they had left the barge and Gil. Many of the rescued children were from the area, and at least two were reunited with their parents.
 
-Touching the pile, Ceregorach speaks to him and attempts to influence the monk several times.
+The unconscious woman remained comatose. [[cirrus-al-kayan|Cirrus]] prayed over her and realised her soul was missing — likely still trapped in the Hag den, now buried under tonnes of rock.
 
-Tark is uninterested, unmoved and unfazed by the attacks and leaves when the entity grows frustrated.
-
-The group decides to burn and collapse the cavern in on itself.
-
-They set their bombs, devices and spells and then return to the surface, the Gorgon’s Maw collapsing behind them.
-
-Above ground, the children are put on Arkto and flown directly back to the nearest village.
-
-The rest of the group use mounts and walk back to the Chionthar river.
-
-They continue to question the man - Ujio.
-
-
-After a fairly tense interrogation and discovering his armor and sword in his bag, the group gets him to admit that he was in the area to find and destroy the minions of Ceregorach.
-
-He does not believe that Cirrus has abandoned the Archfey until he sees that the Jade tooth is gone from Cirrus’ mouth.
-
-Seemingly convinced, the man still insists that he must leave and the group reluctantly lets him walk away.
-
-Hours later, the group makes it back to the River village where they left the Barge and Gil, the boat captain.
-
-They discover that many of the children rescued are from the area and at least two are being reunited with parents.
-
-The unconscious woman however remains comatose.
-
-Cirrus prays over her and realizes that her soul is missing and likely back in the Hag den under tonnes of rock.
-
-Cirrus finds this unfortunate, but he does not say anything to the others as they prepare to continue on upriver…
+He found this unfortunate. But he said nothing to the others as they prepared to continue upriver.

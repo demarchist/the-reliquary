@@ -2709,6 +2709,11 @@
     "title": "The Shadowfell",
     "category": "Places"
   },
+  "shal bartok": {
+    "slug": "shal-bartok",
+    "title": "Shal Bartok",
+    "category": "People"
+  },
   "shar": {
     "slug": "shar",
     "title": "Shar",
@@ -3578,6 +3583,16 @@
     "slug": "willow-aldencroft",
     "title": "Willow Aldencroft",
     "category": "People"
+  },
+  "wood of sharp teeth": {
+    "slug": "wood-of-sharp-teeth",
+    "title": "Wood of Sharp Teeth",
+    "category": "Places"
+  },
+  "the wood of sharp teeth": {
+    "slug": "wood-of-sharp-teeth",
+    "title": "Wood of Sharp Teeth",
+    "category": "Places"
   },
   "xuefang the adamant": {
     "slug": "xuefang-the-adamant",
