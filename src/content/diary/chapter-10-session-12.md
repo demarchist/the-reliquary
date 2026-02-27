@@ -3,179 +3,64 @@ title: Beyond the Veil - The Clawrift
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 12
+summary: "The group infiltrated Menzoberranzan through the fetid depths of the Clawrift, navigating smuggler checkpoints and slave tunnels with Patches' expertise. Feanon's wild magic surge permanently transformed a mile of the Clawrift into Elven architecture. They emerged into the City of Spiders — a bustling, dangerous metropolis of many races — and were led to Narbondellyn's Shadow, an inn run by the Halfling Dalfred Noakes."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "dalfred-noakes"
   - "delly-griplim"
   - "demogorgon"
   - "feanon-serinde"
-  - "fen"
+  - "grazzt"
   - "lolth"
   - "ront"
+  - "shinz"
   - "tarkathee-daru"
   - "val-tengu"
   - "zuggtmoy"
 places:
   - "evermeet"
   - "menzoberranzan"
-  - "the-bog"
   - "the-chasm"
   - "underdark"
 factions:
+  - "bregan-daerthe"
   - "drow-faction"
   - "duergar-faction"
 ---
 
-The group heads through the natural tunnels surrounding the Drow city.
+The group headed through the natural tunnels surrounding the [[drow-faction|Drow]] city. [[aliyah-faen-tlabbar|Patches]] knew many of the patrol routes, and the group outclassed those still guarding the approaches. Through investigation, arcane knowledge, and cunning, they made good time — until they were forced to destroy a group of [[zuggtmoy|Zuggtmoy]]-infested [[drow-faction|Drow]] blocking their path. [[cirrus-al-kayan|Cirrus]] caught a cough from the encounter. They pressed on, nearing the Clawrift.
 
-Knowing many of the patrol routes and outclassing those still in the area, Patches leads the group into the darkness.
+## The Clawrift
 
-Through investigation, Arcane knowledge, cunning and skill, the group manages to make good time.
+The [[underdark|Underdark]] landscape grew dank and fetid. They had reached the bottom of the Clawrift — where the sewers and waterways of [[menzoberranzan|Menzoberranzan]] had been draining for aeons. Centuries of filth, muck, and biomatter had created a foul mire. Enough solid ground existed for the group to enter the chasm and gaze upward as its walls rose around them, snaking for miles.
 
-Eventually, they run into a hiccup and are forced to destroy a group of Zuggtmoy infested Drow.
+They trekked along stone paths above the mire, across boggy ground, and through occasional tunnels. [[tarkathee-daru|Tark]] masked their approach with shadow magic. [[feanon-serinde|Feanon]] cast Mirage Arcane to ease the journey — but he tapped into the local wild magic, and the surge wrought a permanent change instead of an illusionary one. For one mile in every direction, tunnels, chasms, and chambers transformed into Elven architecture from the capital of [[evermeet|Evermeet]], though lacking in the finest details.
 
-They kill them, though Cirrus catches a bit of a cough.
+The locals — hiding and laying low, as one does in the [[underdark|Underdark]] — panicked. Goblin tribes and raiding Kobolds from the slave populations of the Clawrift came to investigate. The group slipped past the feral creatures, now traversing alleyways and tunnels, stairs and bridges instead of an underground bog.
 
-They continue on, nearing the Clawrift.
+[[aliyah-faen-tlabbar|Patches]] stopped them at a smuggler's checkpoint — a nicely wrought ladder ascending the chasm wall to an obvious doorway, with fast-flowing dark water below. She spotted a guard inside and opted to approach with only the most suspicious-looking members hanging back. [[feanon-serinde|Feanon]] reclined on a Tenser's Disc in very convincing purple-face.
 
-Before long, they note the Underdark landscape changing, becoming more, dank and fetid.
+The [[drow-faction|Drow]] guard emerged and communicated with [[aliyah-faen-tlabbar|Patches]] in Thieves' Cant sign language. She convinced them to let her party through with surface drugs and a few choice valuables. The guards let them past, though they eyed the group with obvious interest.
 
-The bottom of the Clawrift; where the sewers and waterways of Menzoberranzan have been draining for eons.
+They entered the great slaving pits of the Clawrift — tunnels and chambers beneath the city, sealed off with few controlled entrances. The Goblins and Kobolds here were embroiled in the endless tribal warfare engineered by their [[drow-faction|Drow]] masters. After an hour of travel, despite [[aliyah-faen-tlabbar|Patches']] best efforts, they found themselves surrounded by a migrating tribe of Kobolds — though the creatures seemed unaware of them. [[cirrus-al-kayan|Cirrus]] strode forward, casting spells and looking magnificent, cowing the small draconids long enough for the tribe to scatter. They rushed past before the Kobolds could organise.
 
-Over centuries, the filth, much and general biomatter of the citty flowing down here has created a Fetid Mire.
+[[aliyah-faen-tlabbar|Patches]] found the last [[bregan-daerthe|Bregan D'Aerthe]] checkpoint. A troupe of [[drow-faction|Drow]] warriors materialised from the shadows. [[aliyah-faen-tlabbar|Patches]] placated them with a name, and after a brief exchange, the group was led into a hidden set of chambers — an underground underground hideout. They purchased [[drow-faction|Drow]] clothing, arranged for papers, and received instructions to find an inn in the Eastmyr district called Narbondellyn's Shadow.
 
-Enough solid ground exists that the group can enter the Chasm of the Clawrift and look up as the thing grows larger, rising up and continuing, snaking for miles.
+The [[bregan-daerthe|Bregan D'Aerthe]] captain mentioned two things of note: the Marilith was the current champion in the fighting pits, though someone named Tiago had bested her, and Graz'zt the Demon Lord was rumoured to be living it up in the pleasure houses of the city.
 
-The group begins to trek, sometimes above the floor of the bog, along snaking stone paths, sometimes across the mired ground and occasionally taking to tunnels.
+## The City of Spiders
 
-The group uses shadow magic to mask and conceal their approach through the Mire.
+The group ascended the last sections of tunnel and emerged from the Clawrift wall onto a small stone path winding upward, past a ruined [[drow-faction|Drow]] fortress perched on the chasm's edge. Behind and around the dark stone, the lights of the city smouldered — greens, purples, and reds shining from faeriefire enchantments that lined doorways, formed runes along tower walls, and created flowing designs of light.
 
-Feanon casts Mirage Arcane to Holo-deck away some of the toil, he tapped in to the local Wild Magic and caused a surge that instead of acting an illusionary change, wrought a permanent one.
+[[menzoberranzan|Menzoberranzan]] was not what they had expected. A bustling metropolis of many races — though predominantly [[drow-faction|Drow]], most cloaked and hooded. Those who showed their faces were either high nobles showing off or the clergy of [[lolth|Lolth]]. Rubble and structural damage from [[demogorgon|Demogorgon's]] summoning littered the district, alongside homeless refugees and unruly groups of slaves. Just as often, they spotted a Priestess of [[lolth|Lolth]] leading a pack of Lolthian demons.
 
-For one mile in all directions of the casting, tunnels, chasms and chambers all look like Elven architecture from the Capital of Evermeet, though lacking in the finest details.
+[[aliyah-faen-tlabbar|Patches]] did not dally, leading them directly to the Eastmyr district. A great glowing pillar rose from the cavern floor — Narbondellyn, the great clock — its stone red-hot partway up before rising to the ceiling. The vastness of the cavern stretched around them like a great bowl, spires of stalactites and stalagmites carved with intricate Gothic architecture, black stone highlighted by swirling magical lights.
 
-THe locals, hiding and laying low (as you do in the Underdark) freak out, going wild in a 1 mile radius, which ripples out a bit.
+A half-[[drow-faction|Drow]] girl — probably a slave — approached and handed them each a flyer for Narbondellyn's Shadow. She introduced herself as [[shinz|Shinz]] and said it was the nicest place for non-[[drow-faction|Drow]] to stay. Recognising the name from their instructions, they followed her to a small cluster of carved stone resembling a Tudor-esque manor house with turrets and towers.
 
-Before long, Goblin tribes and raiding Kobolds of the Slave populations of the Clawrift come to investigate.
+They entered to warm firelight and candles. Behind the dark zurkhwood front desk sat a Halfling man in his later years — salt-and-pepper hair, a beaming smile, and a significant scar cleaving one ear in half. He introduced himself as [[dalfred-noakes|Dalfred Noakes]].
 
-The group slips past the feral creatures, continuing on, taking alleyways and tunnels, stairs and bridges now as opposed to traversing an Underground Bog.
+The common room was spacious and well-furnished: dark wooden furniture with emerald green cushions, simple tapestries, stone floors covered in plush carpets. A [[duergar-faction|Duergar]] man read a book while a greyish-looking human ate stew. It was surprisingly homey.
 
-Before long, Patches stops the group and points out their way forward.
-
-There is little ground here, consisting mostly of fast-flowing dark water, fed by a massive set of falls, falling from high, high above.
-
-Ascending the nearby wall of the Clawrift is a nicely wrought ladder and obvious looking doorway.
-
-A Smuggler’s checkpoint.
-
-Patches spots a guard inside and opts to go chat with half the crew (The most suspicious) hanging back.
-
-Feanon rests atop a Tenser’s disc in very well done purple-face.
-
-Approaching the checkpoint, a Drow guard exits and makes contact with Patches in Thieves Cant Drow Sign-language.
-
-She convinces the guards to let her party through, bribing them with surface drugs and a few choice valuables.
-
-The guards let the group past, though eye them with interest.
-
-The group heads into the great slaving pits of the Clawrift, tunnels and chambers beneath the city, sealed off for few, controlled entrances.
-
-The Goblins and Kobolds in the Clawrift are then embroiled, by the drow, in endless tribal warfare.
-
-The tunnels are littered with detritus, bones and refuse.
-
-After an hour of traveling, despite Patches best efforts, the group finds itself more or less surrounded by a moving tribe of Kobolds.
-
-They do not seem to be aware of the group.
-
-Not willing to stop for Kobolds, Cirrus strides forwards, casting spells and looking magnificent.
-
-He cowes the Kobolds long enough for the tribe To scatter and the group rushes on past, not giving the small draconids time to organize.
-
-Moving quickly, Patches notes their location and knows where to go. 
-
-She heads to the last Bregan D’Aerthe checkpoint, and her way into the city.
-
-A troupe of Drow warriors appear before the group from the shadows, Patches placates them with a name and after a short exchange, the group is asked to follow the Drow.
-
-They lead the party into a hidden set of chambers, functioning as an underground *UNDERGROUND* hideout.
-
-Exchanging more surface drugs and valuables, the group purchases Drow clothing and arranges for papers and further instructions at an inn in Eastmyr (the Drow district).
-
-The name of the place is *Narbondellyn’s Shadow *
-
-The Bregan captain mentions two more things: The Marilith is the current champion in the fighting pits (though someone named Tiago bested her), and Grazz’t the demon Lord is rumored to be living it up in the pleasure-houses of the city.
-
-The group exchanges pleasantries, though Tark Spidermann offends some of the Drow Brigands by bringing out spiders.
-
-As the group leaves, Patches explains that many male Drow, especially members of the outlaw band Bregan D’Aerthe, are not fans of spiders, the matriarchy or lolth.
-
-The group ascends the last sections of tunnels before coming out of the Clawrift wall, to a small stone path leading up, winding along the chasm wall, past a large, dark stone edifice.
-
-A ruined Drow Fortress, an old House, is perched on the edge of the Clawrfit, waterfalls roaring around the massive foundations.
-
-Behind and around the dark stone, the lights of the rest of the city smolder.
-
-Greens, purples and reds shine from faeriefire enchantments, lining doorways, forming runes along tower walls and creating intricate flowing designs of light.
-
-The group ascends the slick stone, arriving in Menzoberranzan, the City of Spiders. 
-
-Not at all what the group was expecting, they look around and see a bustling metropolis of many races.
-
-Though many, many drow are seen, moving to and fro almost always cloaked.
-
-When they are not concealing their identity, the Drow are either high-nobles showing off, or the Clergy of Lolth.
-
-The group is led by Patches through the streets, noting quite a bit of rubble and structural damage in the area - supposedly from Demogorgon’s summoning here.
-
-The group notes that along with the rubble, a number of homeless, refugees and more unruly groups of slaves can be spotted.
-
-Just as often though, they spot a Priestess of Lolth leading a pack of Lolthian looking Demons.
-
-The place seems a little on edge.
-
-Patches does not dally, leading the group directly to the Eastmyr district.
-
-A great glowing pillar rises from the floor of the monstrous cavern that houses the city.
-
-Looking up, the stone edifice rises, glowing red hot partway up the pillar that then rises all the way to the ceiling.
-
-*Narbondellyn *Patches calls it, the great clock.
-
-As the group stands there looking up at it, they note the vastness of the cavern, rising around them as if they stand at the bottom of a great bowl.
-
-Spires of Stalacmites and Stalactites, rising and descending from the ceiling, all carved with intricate, severe “gothic” architecture.  Black stone highlighted by swriling magical lights, designs and energies, the flowing shapes contrasting with the straight lines and facets of the Drow Architecture.
-
-As they gaze upon the city, they are approached.
-
-Patches intercepts and sees that its a half-drow girl, probably a slave.
-
-She hands them each a flyer, a promotion for the Inn *Narbondellyn’s Shadow*
-
-She tells them that its the nicest place for Non-Drow to stay.
-
-All recognizing the name, they follow the girl who introduces herself as **Shinz**
-
-She leads the group toward a small cluster of carved stone, resembling a small tudor-esque manor house with turrets and towers of stone. 
-
-Is decently sized in comparison to many of the buildings and estates in the Eastmyr, though a single, massive estate can be seen looming nearby.
-
-They enter the building and the group is greeted by warm firelight and candles.
-
-Behind the dark zurkhwooden front desk sits a Halfling man in his later years.
-
-Salt and pepper hair and a beaming smile, the small man introduces himself as **Dalfred Noakes**
-
-The halfling has a significant scar up one side of his face, cleaving his ear in half.
-
-As the group looks around, they see two patrons in the spacious and well furnished common room - A duergar man reading a book and a greyish looking human eating a bowl of stew.
-
-Dark wooden furniture with emerald green cushions and simple tapestries hang from the walls.
-
-The floors are stone and covered in plush carpets.
-
-It is surprisingly homey.
-
-Patches greets Dalfred and says that she and the group are here for special orders.
-
-Dalfred nods and grabs a key, leading them to a private room so they may talk away from the prying ears of the City of Spiders.
+[[aliyah-faen-tlabbar|Patches]] greeted [[dalfred-noakes|Dalfred]] and said they were here for special orders. The Halfling nodded, grabbed a key, and led them to a private room — away from the prying ears of the City of Spiders.

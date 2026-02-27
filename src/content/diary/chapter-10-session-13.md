@@ -3,8 +3,10 @@ title: Beyond the Veil - The City of Spiders pt.1
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 13
+summary: "Vizerion contacted Gundren in a dream, suspicious of the group's presence in Menzoberranzan. The group deflected his apprentice Grein and sent a warning to Sundabar. Escorted by a Bregan D'Aerthe agent through the dangerous streets, they met Jarlaxle at the old Do'Urden compound and negotiated a deal: the modified ritual spell and components for House Baenre in exchange for Finn's extraction from House Faen Tlabbar."
 people:
   - "aliyah-faen-tlabbar"
+  - "dalfred-noakes"
   - "delly-griplim"
   - "fen"
   - "finn"
@@ -14,108 +16,45 @@ people:
   - "jarlaxle"
   - "lolth"
   - "tarkathee-daru"
-  - "vizerion-devir"
 places:
   - "menzoberranzan"
+  - "selunia"
   - "sundabar"
-  - "underdark"
 factions:
+  - "bregan-daerthe"
   - "drow-faction"
   - "house-baenre"
+  - "house-faen-tlabbar"
 ---
 
-The group sits down in the shielded room and get the lay of the land from Dalfred.
+The group settled into the shielded room and [[dalfred-noakes|Dalfred]] laid out the arrangements. A [[bregan-daerthe|Bregan D'Aerthe]] agent would arrive at midnight to escort them through the city to the old Do'Urden compound. The Halfling handed out identity papers for each of them. The group retired to their rooms to hash out their plan.
 
-A Bregan D’Aerthe Agent will arrive at midnight and escort the group through the city, to the old Do’Urden compound.
+## Vizerion's Suspicion
 
-To facilitate this, the Halfling hands out papers for each of the crew.
+As the group rested, [[gundren-rockseeker|Gundren]] was visited in his dreams. [[vizerion-devir|Vizerion]] sat across from him at a dinner table and asked, with deceptive calm, whether the group was betraying him. [[gundren-rockseeker|Gundren]] said they were not — they were in [[menzoberranzan|Menzoberranzan]] to meet with [[jarlaxle|Jarlaxle]] on business pertaining to the acquisition of spell ingredients. [[vizerion-devir|Vizerion]] appeared to accept the explanation and had [[gundren-rockseeker|Gundren]] promise to hand the components to his apprentice [[grein-osstyl|Grein]] when he arrived.
 
-The group then retires to their rooms and begin to hash out their plan.
+[[gundren-rockseeker|Gundren]] agreed. The dream ended.
 
-As the group rests, Gundren is visited in his dreams.
+He woke hours later to a knock on his door. [[grein-osstyl|Grein]] stood in the corridor. Thinking quickly, [[gundren-rockseeker|Gundren]] stalled the apprentice and assembled the group. He warned them that [[vizerion-devir|Vizerion]] might be on to their betrayal soon if they did not hand over at least one ingredient. They settled on a plan: they told [[grein-osstyl|Grein]] that the ingredients were in their bank and would need to be retrieved after they left the city.
 
-Vizeron, the Drow Archmage sits with Gundren at a dinner and asks if the group is betraying him.
+[[grein-osstyl|Grein]] reluctantly agreed, though he mentioned that *they* knew of the group's holdings in [[sundabar|Sundabar]] and he would head there to collect them. The group sketched a good likeness of [[grein-osstyl|Grein]] and sent it to Goldhold in [[sundabar|Sundabar]]. The old Dwarf responded that he would keep watch.
 
-Gundren says that they’re not, they’re in Menzoberranzan to meet with Jarlaxle on business pertaining to the acquisition of the spell ingredients.
+## Meeting Jarlaxle
 
-Vizeron seems to buy the explanation and has Gundren promise to hand over the Spell components to his apprentice **Grein **when he arrives.
+That night, the group headed to the back alley of Narbondellyn's Shadow to meet their escort — a [[drow-faction|Drow]] agent who went by Krilelyn, or "Nose," owing to the fact that he was missing his. They headed out into the city.
 
-Gundren agrees and the dream ends.
+Traversing the districts proved eventful, though not catastrophically so. They witnessed a cultist sacrificed on an altar to [[lolth|Lolth]], gangs of ruffians and slaves, patrols of demons led by priestess masters, parades of noble-born soldiers and their painted slaves, and noble [[drow-faction|Drow]] wizards drawn by the arcane emanations of the group.
 
-Waking up a few hours later, Gundren hears a knock on his room door.
+At the Westwall, [[aliyah-faen-tlabbar|Patches]] spotted the old Do'Urden compound and noted the guard presence within. Krilelyn informed them that despite its shabby appearance, the house defences were fully operational — they would need to skirt the outer wall. [[tarkathee-daru|Tark]] wreathed them in darkness, and they crossed the open ground to a hidden tunnel, climbing until they emerged among the stalactites of the cavern ceiling, looking down over the compound.
 
-Investigating and opening the door, he sees **Grein, **Vizeron’s apprentice.
+Two figures appeared, floating from around the stalactites. One remained quiet and unobtrusive. The other was the polar opposite — flamboyant even by surface standards. A bald [[drow-faction|Drow]] in a doublet, leather trousers, knee-high boots, a wide-brimmed hat with a feather, a sweeping rapier at his hip, an eyepatch, and a large grin.
 
-Thinking quickly, Gundren gets the Apprentice to back off for a minute and wait for them downstairs.
+[[jarlaxle|Jarlaxle]] welcomed the group, pleased to finally meet the folk he had heard so much about. He dropped enough details to prove that his spies had been to the [[selunia|Barony]] extensively. He informed them that he could not leave the compound due to a promise, and that they must not cross the threshold or risk setting off an alarm. If discovered, he would have no choice but to attack them — and put on a very good show of it.
 
-The group quickly assembles and Gundren fills them in that Vizeron might be on to their betrayal soon if they dont hand over at least one ingredient.
+The negotiation began. The group laid out their offer: they had a spell to deal with the Demon Lords and the ingredients to power it. In exchange for the spell and components being delivered to [[house-baenre|House Baenre]], the First House would extradite [[finn|Finn]] — [[aliyah-faen-tlabbar|Patches']] son — from [[house-faen-tlabbar|House Faen Tlabbar]], using a claim of parentage through Tiago Baenre.
 
-The group settles on a plan and head down to Grein, informing him that the ingredients are in their bank and must be retrieved once they leave the City of Spiders.
+[[jarlaxle|Jarlaxle]] believed it could work. He agreed to the terms: the spell would go to [[house-baenre|House Baenre]] immediately, but the ingredients would not be delivered until [[finn|Finn]] was safely in the [[selunia|Barony]]. [[gromph-baenre|Gromph Baenre]] would cast the ritual, giving great honour and prestige to [[house-baenre|House Baenre]]. In exchange, the ruling house would strongarm [[aliyah-faen-tlabbar|Patches']] family into surrendering the boy, and [[bregan-daerthe|Bregan D'Aerthe]] would deliver him to the surface.
 
-Grein reluctantly agrees, though mentions that *they* know of the groups holdings in Sundabar and he will head there to retrieve the items.
+The group was certain someone would double-cross them and expected [[finn|Finn]] to arrive with some manner of programming or charm. They would be ready.
 
-Grein then leaves.
-
-The group then sketches a pretty good approximation of Grein and sents it to **Goldhold **in Sundabar.
-
-The old Dwarf responds that he’ll keep an eye out.
-
-The group then heads into the back alley of the Narbondellyn’s shadow to meet their Bregan D’Aerthe contact; Krilelyn or “Nose”.
-
-The drow approaches and they quickly see that he’s missing his nose, hence the nickname.
-
-They head out into the city.
-
-Traversing the various districts proves to go without much serious trouble, though they see many interesting and terrible sights  
-
-A cultist sacrificed on an altar to Lolth 
-
-gangs of ruffians and slaves 
-
-patrols of packs of demons and their priestess masters 
-
-parades of noble-born soldiers and their painted slaves.
-
-Noble-born Drow Wizards drawn to the Arcane emanations of the group.
-
-Arriving at the Westwall, Patches sees the old Do’Urden compound and notes the guard presence inside the derelict.
-
-Krilelyn informs them that though shabby, the house defenses are fully operational and they will have to skirt the outer wall.
-
-Crossing the open ground, they are wrapped in darkness by Tark and easily make it to a hidden tunnel.
-
-Rising along the wall, the group eventually finds themselves looking out, over the Drow Compound and nestled among the stalactites of the ceiling.
-
-Two figures appear, floating from around the stalactites and approach. One drow remains quiet and unobtrusive, the other is the polar opposite
-
-One is very flamboyant for a Drow, doublet, leather pants, knee high boots, a widebrimmed hat with a feather and a sweeping rapier on his hip.  The bald Drow wearing all this also sports an eyepatch and a large grin.
-
-Jarlaxle welcomes the group, happy to finally be meeting the folk he has heard so much about and for so long.
-
-He drops enough details to prove that his spies have been to the Barony extensively.
-
-He informs the group that he cannot leave the compound due to a promise and that the group should not step over the threshold or risk setting off an alarm.
-
-Due to the infernal politicking of Drow Society, if the group is discovered, Jarlaxle would have no choice but to attack them and put on at least a very good show of it.
-
-The group begins to talk and negotiate with Jarlaxle, laying out that they have a spell to deal with Demon Lords AND the ingredients for it.
-
-In exchange for the spell being delivered to House Baenre, along with the ingredients, the First House of the City must extradite Finn, Patches Son.
-
-Using a claim of parentage that Tiago Baenre is Finn’s father, Jarlaxle believes that it can work.
-
-He agrees to the terms, taking the spell, but not taking the ingredients until Finn is safely delivered to the Barony, secreted away from the city after he is moved to house Baenre.
-
-In short
-
-The Drow Ruling houses will deal with the Demon Lords, summoning them and killing them with the spell and ingredients provided by the group
-
-Gromph Baenre will cast the spell to fix the Underdark, giving great honor and prestige to house Baenre.
-
-In exchange, the ruling house of the city will strongarm Patches family into giving up the kid, then Bregan D’Aerthe will take the kid to the Barony (pre-arranged with Baenre).
-
-The group is pretty sure that someone is going to double cross them and expect Finn to have some kind of programming or charm upon being remanded to the surface.
-
-They will be ready.
-
-Finishing negotiations with Jarlaxle, the group descends the wall of the city cavern and head out from the Do’Urden Compound, back into the City of Spiders.
+They descended the cavern wall and headed back into the City of Spiders.

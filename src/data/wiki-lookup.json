@@ -689,6 +689,16 @@
     "title": "Daggerford",
     "category": "Places"
   },
+  "dalfred noakes": {
+    "slug": "dalfred-noakes",
+    "title": "Dalfred Noakes",
+    "category": "People"
+  },
+  "dalfred": {
+    "slug": "dalfred-noakes",
+    "title": "Dalfred Noakes",
+    "category": "People"
+  },
   "damara": {
     "slug": "damara",
     "title": "Damara",
@@ -1268,6 +1278,16 @@
     "slug": "gravenhollow",
     "title": "Gravenhollow",
     "category": "Places"
+  },
+  "graz'zt": {
+    "slug": "grazzt",
+    "title": "Graz'zt",
+    "category": "People"
+  },
+  "grazzt": {
+    "slug": "grazzt",
+    "title": "Graz'zt",
+    "category": "People"
   },
   "grein osstyl": {
     "slug": "grein-osstyl",
@@ -2703,6 +2723,11 @@
     "slug": "shatterpeak",
     "title": "Shatterpeak",
     "category": "Places"
+  },
+  "shinz": {
+    "slug": "shinz",
+    "title": "Shinz",
+    "category": "People"
   },
   "shou lung": {
     "slug": "shou-lung",
