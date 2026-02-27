@@ -3,98 +3,84 @@ title: Beyond the Veil - The Summoning
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 16
+summary: "Above Menzoberranzan, Gromph Baenre completed the ritual to summon all seven Demon Lords — Demogorgon, Orcus, Baphomet, Yeenoghu, Zuggtmoy, Juiblex, and Graz'zt — into a single killing ground. Compelled to battle one another, the lords tore each other apart while the ambient wild magic of the Underdark drained away, sealing the planar rifts. The Drow army finished off the last standing demon — Zuggtmoy — with massed crossbow fire and evocation magic."
 people:
   - "baphomet"
   - "demogorgon"
+  - "grazzt"
+  - "gromph-baenre"
   - "intent"
   - "juiblex"
+  - "madame-eva"
   - "orcus"
   - "ront"
+  - "val-tengu"
   - "yeenoghu"
   - "zuggtmoy"
 places:
   - "abyss"
+  - "menzoberranzan"
   - "underdark"
 factions:
   - "drow-faction"
 ---
 
-Floating above Tier Breche, Gromph finishes casting the ritual spell to summon the Demon Lords.
+Floating above Tier Breche, [[gromph-baenre|Gromph Baenre]] — Archmage of [[menzoberranzan|Menzoberranzan]] — finished casting the ritual spell.
 
-He teleports away as his contingency spell whisks him from potential danger.
+He vanished in a flash of contingency magic, whisked from the air as the singularity he had been forming exploded outward in a blinding detonation of planar energy.
 
-Floating a hundred feet from the plaza, the singularity he had been forming, explodes.
+## The Arrival
 
-Blasts of energy deposit massive forms across the Plaza, resolving into the 7 figures of the Demon Lords.
+Blasts of force deposited massive forms across the great plaza, each resolving into a towering figure. Seven Demon Lords stood upon the killing ground of [[menzoberranzan|Menzoberranzan]].
 
-Demogorgon, Orcus, Baphomet, Yeenoghu, Zuggtmoy, Juiblex and Graz’zt
+[[demogorgon|Demogorgon]]. [[orcus|Orcus]]. [[baphomet|Baphomet]]. [[yeenoghu|Yeenoghu]]. [[zuggtmoy|Zuggtmoy]]. [[juiblex|Juiblex]]. [[grazzt|Graz'zt]].
 
-The singularity pulses with energy still as other demons are ripped from around the Underdark, depositing them into the battlefield.
+The singularity continued to pulse, ripping lesser demons from across the [[underdark|Underdark]] and depositing them onto the battlefield. As the lords reacted to their sudden translocation, the compulsion of the ritual took hold — driving each to annihilate the others and ignore the surrounding city and its armies.
 
-As the Demons all begin to react to the new situation, they are all compelled by the spell to battle, to annihilate one another and ignore the surrounding city and surrounding armies.
+Despite the overwhelming power of the spell, [[grazzt|Graz'zt]] and [[zuggtmoy|Zuggtmoy]] both managed to twist free long enough to wade into the front ranks of slave fodder, turning dozens to their will and adding them to their personal retinues.
 
-Despite the overwhelming power of the ritual spell to compel them, Graz’zt and Zuggtmogy both manage to wade into the front ranks of Slave fodder, turning dozens to their will, to join them in battle against their fellow demons.
+Behind the ranks of expendable thralls, the [[drow-faction|Drow]] waited and watched. Priestesses wove protective magics against the abyssal energies, shielding the army's minds, while abjurers erected walls of force and arcane shields against the collateral devastation — flying rubble, stray magic, and the shockwaves of titanic blows.
 
-Behind the ranks of slaves, the Drow wait and watch.
+## The Battle
 
-The Priestesses weave protective magics against the abyssal energies of the demon lords, protecting the armies minds while abjurers create shields and walls of force to protect from collateral damage (flying rocks, magic etc.)
+The plaza became an abattoir.
 
-The Plaza quickly turns into an absolute bloodbath.
+[[baphomet|Baphomet]] went down first, set upon by several foes at once — but his corpse had not stopped twitching before he consumed ambient magic and dragged himself back to his feet. New energy rushed in to fill the void left by his resurrection.
 
-Baphomet goes down quickly, set upon by several foes, but he doesnt stop twitching before he consumes the ambient magic to resurrect.
+[[grazzt|Graz'zt]] hung back with infuriating composure, content to watch the others bleed while seeking opportunistic kills. [[zuggtmoy|Zuggtmoy]] too bided her time, her fungal tendrils spreading across the battlefield as [[juiblex|Juiblex]] launched great arcing gobs of corrosive ooze at anything that moved.
 
-As he does so, new magic rushes to fill the void.
+[[orcus|Orcus]] and [[demogorgon|Demogorgon]] locked in a titanic struggle, the Prince of Undeath summoning a small army of skeletons and mummies to assist him. [[demogorgon|Demogorgon's]] sheer size and brute power was enough to wade through the undead ranks.
 
-Graz’zt seems intent to annoy the others and watch while they battle.
+[[yeenoghu|Yeenoghu]] and [[baphomet|Baphomet]] clashed again and again — ancient rivals unable to resist one another. [[grazzt|Graz'zt]] saw his opening and killed [[baphomet|Baphomet]] a second time. [[zuggtmoy|Zuggtmoy]] destroyed [[yeenoghu|Yeenoghu]]. [[orcus|Orcus]] managed to bring down [[demogorgon|Demogorgon]].
 
-Zuggtmoy too seems to bide her time while Juiblex launches great arcing gobs of ooze across the battlefield.
+Each rose again moments later.
 
-Orcus and Demogorgon lock in combat, the Prince of Undeath summoning a small army of skeletons and mummies to assist him.
+## The Draining
 
-Demogorgon’s sheer size and power is enough to wade through them.
+Across the city, a second ritual spell ignited in the Clawrift — visible from every district and felt by every creature within the cavern. A section of the army broke away from the rear to investigate.
 
-Yeenoghu and Baphomet continue to battle, Graz’zt seeing an opportunity and kills Baphomet again.
+Visibility grew treacherous as great clouds of toxic gas began to form. The ambient magic of the [[underdark|Underdark]] was being consumed by the Demon Lords — so voraciously that the wild and abyssal energies plaguing the deep places of the world were draining away entirely. As the lords poured everything into maintaining their physical forms, the lesser demons that fell stayed dead — properly banished, their ties to the material plane severed.
 
-Zuggtmoy kills Yeenoghu, then Orcus manages to take down Demogorgon.
+With the ambient magic so thoroughly depleted, the barriers between the planes began to reform. The rifts that had been pried open and gnawed at for months finally sealed.
 
-Each rise again moments later…
+## The End of the Demon Lords
 
-Across the city, a second ritual spell begins in the Clawrift, visible from across the city and felt by all within.  A section of the army is sent to investigate, breaking off from the rear.
+The greater demons began to die — and this time, they did not rise.
 
-Visibility begins to get tricky across the city as great clouds of gas begin to form.
+[[baphomet|Baphomet]] fell and lay still. [[grazzt|Graz'zt]], [[demogorgon|Demogorgon]], and [[yeenoghu|Yeenoghu]] followed. Only [[orcus|Orcus]], [[zuggtmoy|Zuggtmoy]], and [[juiblex|Juiblex]] remained standing.
 
-The ambient magic of the Underdark is being consumed by the Demon Lords, so much so that the underdark itself is being drained of the cloying abyssal and wild magics that have been plaguing it.
+The [[drow-faction|Drow]] army stirred. Commands rang across the plaza. Ranged forces took aim and spellcasters began their incantations.
 
-As the Demon Lords do everything they can to maintain their physical forms, the lesser demons remain dead and indeed seem to be properly banished on death.
+Across the city, the second ritual in the Clawrift — [[vizerion-devir|Vizerion's]] work — swelled with necromantic energy. Clouds of sickening gas drifted through the streets, and a commotion erupted at the army's flank as demon cultists attacked from within.
 
-With the ambient magics being so thoroughly depleted, the barriers between the worlds begin to reform, no longer being eaten away at/pried open.
+[[orcus|Orcus]] fell to [[juiblex|Juiblex]], a laugh dying in his throat as his essence spiralled back to his fortress on Thanatos. [[zuggtmoy|Zuggtmoy]] waded into her most ancient rival. Her surviving minions formed a living barrier between the two lords, but [[juiblex|Juiblex]] dissolved them in moments. It gave the Queen of Decay just enough time. She ripped [[juiblex|Juiblex]] apart.
 
-The greater demons begin to die and this time, they stay dead.
+Cackling with bloodlust, her tendrils still tearing at the remains, [[zuggtmoy|Zuggtmoy]] stood alone upon the battlefield.
 
-Baphomet falls again and this time does not rise.
+The [[drow-faction|Drow]] army attacked.
 
-Orcus, Zuggtmoy and Juiblex are the only demons still standing.
+Thousands of crossbows fired. Dozens of evocation spells arced across the plaza. Great columns of divine flame were called down by the clergy.
 
-The Drow army preps to move in, commands begin to be called and the ranged forces of the army begin to take aim and prepare spells.
+[[zuggtmoy|Zuggtmoy]] was destroyed.
 
-Across the city, the second ritual in the Clawrift seems to grow stronger a swirl of necromantic energies. 
-
-great clouds of gas float through the city and a commotion at the back of the Drow army seems to be demon cultists attacking their flank.
-
-Orcus falls to Juiblex, a laugh in his throat as he returns to his fortress of Thanatos.
-
-Zuggtmoy wades in to battle against her most ancient foe - Juiblex.
-
-Her surviving minions form a living barrier between the two lords, but are quickly dissolved by the Ooze Lord.
-
-It gives the Queen of Decay enough time though to rip Juiblex apart.
-
-Cackling with glee and bloodlust, Zuggtmoy’s tendrils continue to rip bodies apart.
-
-The Drow army attacks.
-
-Thousands of crossbows fire, dozens if not hundreds of evocation spells are launched from the wizards and great columns of flame are called down by clerics.
-
-Zuggtmoy is destroyed.
-
-The Demon Lords are finally, and truly banished.
+The Demon Lords were finally — and truly — banished from the [[underdark|Underdark]].

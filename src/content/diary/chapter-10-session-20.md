@@ -3,6 +3,7 @@ title: Beyond the Veil - Dragons
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 20
+summary: "In the aftermath of the ball, the group dealt with guests, pursued leads on the thieves, and planned Gundren's expedition to Scornubel. A disturbance in the Evermoor drew them into the swamp, where they found the mountain giant Bolg's broken body — and were ambushed by Ancalagon the Void, an Ancient Black Dragon hunting Mordenkainen, alongside a smaller dragon and an Oni. The group drove the dragons off and teleported home with Bolg's slowly regenerating corpse."
 people:
   - "aliyah-faen-tlabbar"
   - "ancalagon"
@@ -22,100 +23,54 @@ people:
   - "ront"
   - "strahd-von-zarovich"
   - "tarkathee-daru"
+  - "willow-aldencroft"
 places:
-  - "keep-of-thunder-bluff"
   - "scornubel"
+  - "selunia"
   - "the-bog"
   - "the-establishment"
 things:
   - "arkto"
 ---
 
-The group deals with the immediate aftermath of the debutante ball.
+The group dealt with the immediate aftermath of the debutante ball.
 
-Cirrus has secluded himself in his tower
+## Morning After
 
-Feanon watches the barony from his scrying chamber and watches Mordenkainen with interest.
+[[cirrus-al-kayan|Cirrus]] secluded himself in his tower. [[feanon-serinde|Feanon]] watched the [[selunia|Barony]] from his scrying chamber, observing [[mordenkainen|Mordenkainen]] with particular interest. [[tarkathee-daru|Tark]] and [[aliyah-faen-tlabbar|Patches]] visited the archmage — [[mordenkainen|Mordenkainen]] helped [[tarkathee-daru|Tark]] with his snail while [[aliyah-faen-tlabbar|Patches]] furthered her network of contacts. [[gundren-rockseeker|Gundren]] pored over reports from the south and began planning an expedition. [[horatio-von-bumidere|Buumi]] and [[doc|Doc]] tended to those hurt during the previous night's chaos.
 
-Tark and Patches visit Mordenkainen (who ends up helping Tark with his snail) as Patches seeks to further network with the Archmage.
+[[aliyah-faen-tlabbar|Patches]] continued her surveillance of [[willow-aldencroft|Willow Aldencroft]] and visited [[horatio-von-bumidere|Buumi]] in the [[keep-of-thunder-bluff|Keep]]. She told him the woman was suspicious. [[horatio-von-bumidere|Buumi]] agreed and was almost relieved — if his potential betrothed turned out to be an assassin, the situation would be far easier to resolve than an actual relationship.
 
-Gundren goes over the reports from the south and begins planning an expedition
+The group retired for the evening. [[tarkathee-daru|Tark]] stopped by to greet the followers of Sune — escorts and the priestess [[miranda|Miranda]] — working in [[aliyah-faen-tlabbar|Patches']] establishment.
 
-Buumi and Doc get to healing folks hurt in the ball the night before.
+## Scornubel
 
-Patches ends up spying on Willow Aldencroft and visits Buumi in the keep
+Once the last guests departed, the group gathered to discuss their next move. [[gundren-rockseeker|Gundren]] presented his planned expedition to [[scornubel|Scornubel]]. A Dwarven captain on the front lines of the siege had put out a call for experts to deal with the Efreeti his troops were facing. [[gundren-rockseeker|Gundren]] proposed that they be those experts. The group agreed.
 
-She tells Buumi that she thinks the woman (Willow) is suspicious.
+## The Evermoor
 
-Buumi agrees and is a bit relieved that his potential betrothed might just be an assassin trying to get at him.
+As they left [[the-establishment|the Establishment]] to prepare for the journey, [[aliyah-faen-tlabbar|Patches]] noted a disturbance on the horizon — a great number of birds flushed from the Evermoor. [[bohd|Bohd]], the mercenary captain, scouted the moor atop his wyvern but saw nothing. The group summoned the mountain giant [[bolg|Bolg]] and sent him into the swamp with scouts to investigate.
 
-A situation much easier to resolve than a relationship.
+The group marshalled their troops and established a defensive line along the moor's edge, expecting an army pushing up through the swamp. Nothing emerged — and [[bolg|Bolg]] and his men did not return.
 
-The group retires for the night, with Tark saying hello to the followers of Sune (escorts and priestess Miranda) working in Patches establishment.
+Fearing the worst, the group went in after them.
 
-The group gathers once the guests all leave and they discuss what they want to do next.
+Using spells and magical means to bypass the boggy terrain, they made good time — outpacing their defensive troops by miles. Eventually, they found signs of a battle. Trees were smashed flat. Great furrows had been torn through the mire.
 
-Gundren presents his planned expedition to Scornubel and hunting some Efreeti there.
+They found [[bolg|Bolg's]] corpse. The mountain giant was slowly healing from a ring of regeneration, but had been brought down by something of enormous power. The group began to investigate, trying to determine how to move him to safety while expecting an attack from whatever had done this.
 
-He informs the group that a Dwarven Captain on the front lines has apparently put out a call for experts to deal with the Efreeti his troops are facing.
+[[aliyah-faen-tlabbar|Patches]] put herself in harm's way, goading an attack and preparing to dodge. As she scanned the waters, she accidentally locked eyes with a massive cat-like pupil staring up at her from beneath the surface.
 
-Gundren presents his plan that they should be those experts.
+## Ancalagon the Void
 
-The group agrees.
+An Ancient Black Dragon exploded from the water, lunging at [[aliyah-faen-tlabbar|Patches]]. A second, smaller Black Dragon erupted from another deep pool. An Oni materialised from the mist.
 
-As they head out from the Establishment to prepare for the journey, Patches notes a disturbance on the horizon in the Evermoor.
+The dragons hit hard — spewing lines of acid, smashing through trees with tooth and claw, snapping limbs with the force of their wings. [[tarkathee-daru|Tark]] rushed in to engage while [[gundren-rockseeker|Gundren]] opened fire from on high atop [[arkto|Arkto]]. The spellcasters, still investigating the other battle site, rushed to support.
 
-The group turns to inspect the horizon and see a great number of birds having been disturbed.
+The great beasts leapt skyward, smashing through the tree canopy, but the group's retaliation was swift and punishing. [[aliyah-faen-tlabbar|Patches]] struck the Ancient Dragon with her bolt of Dragonslaying, driving the barbed projectile deep. The beast roared its name — [[ancalagon|Ancalagon]] the Void — and declared it was hunting [[mordenkainen|Mordenkainen]].
 
-Bohd, the Mercenary captain scouts the moor atop his Wyvern but sees nothing.
+The dragons reeled from the counterstrike and reconsidered. The smaller dragon plunged into the waters of the Evermoor and did not resurface. [[ancalagon|Ancalagon]] roared in fury and fled south, soaring over the treetops.
 
-They summon the Mountain Giant Bolg and send him and scouts into the Evermoor to investigate the disturbance.
+The Oni was killed quickly by [[feanon-serinde|Feanon]] and [[cirrus-al-kayan|Cirrus]], though they suspected a second lurked nearby.
 
-The group summons their troops and they head south, setting up a defensive line along the moor, expecting an attack from an army pushing up through the swamp.
-
-Nothing comes out of the moor to attack, but Bolg and his men do not return.
-
-Fearing the worst, the group decide to go into the moor to look for their people.
-
-They head in.
-
-
-The group uses spells and magical means to avoid having to hike through the boggy swamp and make good time, outpacing their defensive troops back at the Barony by many miles.
-
-Eventually, they find signs of a battle.
-
-Some great conflict that has left trees smashed.
-
-Searching the area, they find the corpse of Bolg the Mountain Giant, but determine that he is slowly healing from a ring of regeneration.
-
-They begin to inspect the area further and try and figure out a way to move Bolg to safety.
-
-Expecting an attack from *something* Patches puts herself in harms way, goading an attack and preparing to dodge
-
-As she scans the area, she spots something under the water and accidentally locks eyes with a massive cat-like eye.
-
-An Ancient Black Dragon leaps from the waters to attack Patches as another smaller Black Dragon erupts from another deep pool of water.
-
-The group is attacked by two Black dragons and an Oni that materializes from mist.
-
-The Dragons hit the group hard, spewing lines of acid and smashing through trees with tooth and claw, snapping tree limbs with their flapping wings.
-
-Tark rushes in to attack the dragons while Gundren begins to fire from on high atop Arkto.
-
-The spellcasters, back investigating the other battlesite rush to help their friends.
-
-The great beasts leap into the sky, smashing through the tree canopy with ease as the retaliation from the group is swift and harsh.
-
-Patches hits the Ancient Dragon with her bolt of Dragonslaying, causing a painful wound to the beast that announced it’s name as **Ancalagon the Void, (who was seeking Mordenkainen)**.
-
-The dragons reel from the counterstrike and think better of a drawn out conflict.
-
-The smaller dragon flees and plunges into the waters of the Evermoor and does not reappear, while the Ancient Dragon - **Ancalagon, **roars in anger and flees to the south, soaring over the treetops of the Evermoor.
-
-The Oni is killed quickly by Feanon and Cirrus, though they suspect a second is in the area but laying low.
-
-Shocked and wounded from the short, but intense battle, the group takes stock of their situation in the Moor.
-
-The group quickly retreats to Bolg’s corpse, hearing other creatures off in the distance being drawn to the commotion  
-
-The roars of Trolls are easily heard - and the group teleports themselves and Bolg, back to Feanon’s tower...
+Shocked and wounded from the short but intense battle, the group took stock. Trolls could be heard in the distance, drawn by the commotion. The group teleported themselves and [[bolg|Bolg's]] slowly regenerating body back to [[feanons-tower|Feanon's Tower]].

@@ -26,6 +26,7 @@ people:
   - "tarkathee-daru"
   - "val-tengu"
   - "veygar"
+  - "willow-aldencroft"
 places:
   - "abyss"
   - "amn"

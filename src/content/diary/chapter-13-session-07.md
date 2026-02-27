@@ -18,6 +18,7 @@ people:
   - "jareem"
   - "snorbul"
   - "tarkathee-daru"
+  - "willow-aldencroft"
 places:
   - "barovia"
   - "ethereal-plane"

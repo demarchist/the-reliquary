@@ -34,6 +34,7 @@ people:
   - "val-tengu"
   - "vizerion-devir"
   - "vladalma"
+  - "willow-aldencroft"
 places:
   - "anauroch"
   - "castle-ravenloft"

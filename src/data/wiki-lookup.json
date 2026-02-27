@@ -1359,6 +1359,16 @@
     "title": "Gzunteit the Bold",
     "category": "People"
   },
+  "halrak sudrin": {
+    "slug": "halrak-sudrin",
+    "title": "Halrak Sudrin",
+    "category": "People"
+  },
+  "halrak": {
+    "slug": "halrak-sudrin",
+    "title": "Halrak Sudrin",
+    "category": "People"
+  },
   "hammer of niraz": {
     "slug": "hammer-of-niraz",
     "title": "Hammer of Niraz",
@@ -2077,6 +2087,16 @@
   "eva": {
     "slug": "madame-eva",
     "title": "Madame Eva",
+    "category": "People"
+  },
+  "magistrate delroy": {
+    "slug": "magistrate-delroy",
+    "title": "Magistrate Delroy",
+    "category": "People"
+  },
+  "delroy": {
+    "slug": "magistrate-delroy",
+    "title": "Magistrate Delroy",
     "category": "People"
   },
   "master koh": {
@@ -2809,6 +2829,21 @@
     "title": "Staff of Defense",
     "category": "Things"
   },
+  "stason jatham": {
+    "slug": "stason-jatham",
+    "title": "Stason Jatham",
+    "category": "People"
+  },
+  "stason": {
+    "slug": "stason-jatham",
+    "title": "Stason Jatham",
+    "category": "People"
+  },
+  "the last mindslayer": {
+    "slug": "stason-jatham",
+    "title": "Stason Jatham",
+    "category": "People"
+  },
   "stoneguard": {
     "slug": "stoneguard",
     "title": "Stoneguard",
@@ -3533,6 +3568,16 @@
     "slug": "whorlstone-caverns",
     "title": "The Whorlstone Caverns",
     "category": "Places"
+  },
+  "willow aldencroft": {
+    "slug": "willow-aldencroft",
+    "title": "Willow Aldencroft",
+    "category": "People"
+  },
+  "willow": {
+    "slug": "willow-aldencroft",
+    "title": "Willow Aldencroft",
+    "category": "People"
   },
   "xuefang the adamant": {
     "slug": "xuefang-the-adamant",

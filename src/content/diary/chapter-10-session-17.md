@@ -3,26 +3,28 @@ title: Beyond the Veil - The Apprentice
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 17
+summary: "The group battled Grein Osstyl in the stench-streets beneath Menzoberranzan — the apprentice wielding devastating magic through a black sourcestone harness. In death, Vizerion's curse twisted Grein into a Boneclaw, which the group hunted and destroyed through the slave pens. They teleported home to discover Finn waiting in the Barony, and Patches revealed the truth — Finn was not her son, but her baby brother, kidnapped from their murderous mother decades ago."
 people:
   - "aliyah-faen-tlabbar"
-  - "ares"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "fen"
   - "finn"
   - "grein-osstyl"
   - "gundren-rockseeker"
+  - "halrak-sudrin"
   - "horatio-von-bumidere"
   - "intent"
   - "megno-slatesunder"
   - "pickles"
   - "tarkathee-daru"
   - "val-tengu"
+  - "vladalma"
 places:
-  - "abyss"
   - "amn"
-  - "keep-of-thunder-bluff"
+  - "faerun"
   - "menzoberranzan"
+  - "selunia"
   - "sundabar"
   - "underdark"
 things:
@@ -34,141 +36,70 @@ factions:
   - "house-faen-tlabbar"
 ---
 
-Grein Osstyl, embarrassed by the group, turns his fury upon them.
+[[grein-osstyl|Grein Osstyl]], humiliated by the group's earlier encounter, turned the full measure of his fury upon them.
 
-The Metal harness on his chest with the black sourcestone pulses with energy and a Circle of Death spell detonates amidst the party.
+## The Battle with Grein
 
-He swirls his hands and points, uttering a word and a green flash of light disintegrates the wall of force separating him from his chosen enemies.
+The metal harness across his chest pulsed — the black sourcestone at its centre flaring with necrotic energy — and a Circle of Death detonated amidst the group. He swirled his hands, spoke a single word, and a green flash of light disintegrated [[cirrus-al-kayan|Cirrus']] Wall of Force.
 
-The Red Slaad rush in to attack the group at the behest of their master.
+The Red Slaad rushed in at their master's behest.
 
-The group decides to fight, Patches rushing to each and giving out Poison resistance potions as the Stinking Clouds push through the city.
+[[aliyah-faen-tlabbar|Patches]] moved through the chaos, distributing poison resistance potions as the Stinking Clouds pushed through the stench-streets. The rest of the group fanned out to engage.
 
-Everyone else fans out to attack.
+[[grein-osstyl|Grein]] was no dabbler. Decades of study under [[vizerion-devir|Vizerion]] and an arsenal of powerful magical gear made him a formidable opponent. He lashed out with blasts of necrotic magic and lances of graviturgy, layering defensive spells between attacks. The Slaad tied up [[aliyah-faen-tlabbar|Patches]] and [[horatio-von-bumidere|Buumi]] while [[tarkathee-daru|Tark]] struggled to pin down the teleporting wizard.
 
-Grein is no mere dabbler in the arcane, having studied with Vizeron for decades and outfitted with powerful magical gear, the wizard begins casting.
+Across the city, [[feanon-serinde|Feanon]] could feel [[vizerion-devir|Vizerion's]] dark ritual in the Clawrift — a lesser version of the Demon Lord summoning, pulling necrotic energies from across [[menzoberranzan|Menzoberranzan]] and feeding on the chaos and death.
 
-Lashing out with blasts of necrotic magic, lances of gravity and weaved with defensive spells, Grein immediately puts the group onto the backfoot, having the Slaad tie up Patches and Buumi while Tark tries (in vain) to pin down Grein.
+[[grein-osstyl|Grein]] blinked across the battlefield repeatedly, keeping the group off-balance. When that failed, he called in his final ally — [[vizerion-devir|Vizerion's]] Death Slaad, which materialised from stealth and ambushed [[tarkathee-daru|Tark]].
 
-Across the city, Feanon can feel the dark ritual of Vizeron, a lesser version of the ritual he had planned against the Demon Lords.
+But one by one, the Red Slaad fell. [[grein-osstyl|Grein]] found himself cornered in a back room with the [[faerun-defense-force|FDF]] converging. He gathered every remaining ounce of power for a final strike — and [[gundren-rockseeker|Gundren]] rounded the corner and unloaded his [[thundercannon|thundercannon]] into the wizard's chest.
 
-Feanon can feel it pulling in necrotic energies across the city, feeding on the chaos and death.
+The Death Slaad, seeing the battle lost, plane shifted away.
 
-Teleporting repeatedly across the battlefield to keep the group guessing, he ends up calling in his last ally as the Death Slaad of Vizeron sneak attacks Tark from stealth.
+## The Boneclaw
 
-Across the battlefield, the Slaad begin to fall to the group, leaving Grein without support.
+As [[grein-osstyl|Grein]] died, the harness on his body exploded with energy. The black sourcestone cracked. The metal contracted, cutting into flesh and melding with bone as skin dissolved and muscle sloughed away. He howled in agony, screaming at his absent master — *"But you promised!"*
 
-Pinned in the back room and with the FDF converging on him, he tries to throw all of his energies into one last attack.
+[[feanon-serinde|Feanon]] felt the connection between [[grein-osstyl|Grein]], the harness, and [[vizerion-devir|Vizerion]], and recognised what was happening. In his final moment, [[grein-osstyl|Grein]] had pulled on the harness's power to attempt ascension — to become a lich. A desperate, foolish gambit. But [[vizerion-devir|Vizerion]] had foreseen it. The harness was cursed so that in [[grein-osstyl|Grein's]] moment of need, the transformation would fail — twisting him instead into something far more useful to his master: a Boneclaw.
 
-The group is injured but the attack is cut short as Gundren rounds the corner and unloads his thundercannon into the wizards chest.
+[[cirrus-al-kayan|Cirrus]] attempted to trap the thing in a Soul Cage. He held the rapidly corrupting soul long enough to wrench free a confirmation — this was [[vizerion-devir|Vizerion's]] doing, and the ritual in the Clawrift was siphoning power for a greater purpose. Then the soul twisted beyond repair and was ejected from the cage.
 
-Seeing the battle turning, the Death Slaad retreats, Plane shifting away.
+The undead creature rose from the remains — the harness still fused to its chest — and lunged at the group, its bony arms extending and stretching in grotesque fashion. [[gundren-rockseeker|Gundren's]] helm blazed with radiant light, burning the creature, but the Boneclaw only cackled, gathered shadows to itself, and teleported away in a wash of necrotic energy. Helm's protection held, and the group took no damage.
 
-As Grein dies, the harness on his body explodes with energy, the Black Sourcestone cracking.
+Above the city, the Battle of the Demon Lords ended. The ritual completed. The wild magic of the [[underdark|Underdark]] drained away.
 
-The Harness rapidly shrinks, cuttint into flesh and melding with bone as the flesh is rapidly dissolved from Grein’s body.
+## Hunting the Creature
 
-He howls in agony as he is transformed and screams “BUT YOU PROMISED!” seemingly to his Master Vizeron.
+[[tarkathee-daru|Tark]] tracked the displacement of the creature's teleportation. [[gundren-rockseeker|Gundren]] moved to support, and as he passed a doorway, a fifteen-foot arm lashed out — gouging the Dwarf badly but finding no purchase. The group closed in, landing several solid hits before the thing teleported again in another explosion of necrotic force.
 
-Feanon can feel the connection between Grein, the harness and Vizeron and recognizes what’s happening.
+Its next ambush was foiled when [[feanon-serinde|Feanon]] unleashed a Cone of Cold down the entire hallway, forcing the creature from its ceiling perch. The group cornered it, and with their combined efforts, destroyed the Boneclaw and the remaining Slaad.
 
-In his dying moment, Grein pulled on the power of the Harness to try and ascend, to become a lich.  A desperate and stupid move, but maybe his only recource.
+As the creature dissolved into ash, [[feanon-serinde|Feanon]] felt its essence being pulled toward [[vizerion-devir|Vizerion]] — even in death, the apprentice served his master's designs.
 
-Vizeron had foreseen this, and cursed the Harness so in his moment of need, Grein would fail the transformation and become something far more useful to Vizeron; a Boneclaw.
+## Coming Home
 
-Cirrus tries to capture the thing in a Soul Cage.
+[[feanon-serinde|Feanon]] confirmed that the Demon Lords were banished and the wild magic of the [[underdark|Underdark]] was spent. He slammed his staff into the stone and drew upon his place of power on the surface, draining his reserves there to recharge his spent magical energies. [[pickles|Mr. Pickles]] emerged from the shadows, and the group teleported back to the [[selunia|Barony]].
 
-Containing it momentarily, Cirrus tries to pull questions from the rapidly corrupting soul of Grein.  He gets confirmation this is Vizeron’s doing and that the ritual was to siphon power for a greater purpose.
+Atop [[feanons-tower|Feanon's Tower]], they took in the beautiful late spring morning and looked at one another in silence. No one felt particularly good about how things had ended. And what of the slaves sent toward the Clawrift?
 
-Cirrus can hold the Boneclaw no longer and Grein’s soul is twisted beyond repair and ejected from the Soul Cage.
+Unable to do anything about it, the group descended into town. [[gundren-rockseeker|Gundren]] checked on the ingredients for his belt — everything had finally been delivered. [[aliyah-faen-tlabbar|Patches]] checked on Li and the debutante ball preparations, and learned that a strange man had appeared in the [[keep-of-thunder-bluff|Keep]] — an escaped slave they had saved from the [[underdark|Underdark]]. A hydromancer from the [[amnians|Amnian]]-controlled Moonshae Isles named [[halrak-sudrin|Halrak Sudrin]], now staying in town.
 
-The Undead creature rises from the remains of Grein, the Harness still worn across its chest and lunges toward the group, it’s bony arms extending and stretching weirdly.
+[[aliyah-faen-tlabbar|Patches]] collected a package from [[sundabar|Sundabar]] and distributed gifts to the group — badges of Telepathic Bonding, commissioned from [[megno-slatesunder|Megno]]. Then [[pickles|Mr. Pickles]] told her that [[finn|Finn]] was waiting in her rooms.
 
-Gundren’s helm begins to shine with radiant light, burning the creature but the thing cackles, gathering shadows to itself and then teleporting away, necrotic energy washing over the group.
+## Finn
 
-Helm protects them and they take no damage.
+[[aliyah-faen-tlabbar|Patches]] met her [[finn|Finn]] in person for the first time in almost two decades. He thanked her for saving him, and she introduced him to [[horatio-von-bumidere|Buumi]], who used his cleansing touch to dispel any potential mind controls or dominations [[house-faen-tlabbar|House Faen Tlabbar]] might have woven.
 
-Across the city, the Battle of the Demon Lords ends and the ritual completes.  The Demon Lords are banished and the planar damage beings to repair.
+Then she called in the rest of the group — peering in from the doorway — and introduced [[finn|Finn]]. Her wizard. Her sorcerer.
 
-The Abyssal Wild Magic of the Underdark has drained away.
+Her brother.
 
-Tark heads to look for the creature, hearing the displacement as it teleported.
+[[aliyah-faen-tlabbar|Patches]] explained the truth she had hidden for twenty years. [[finn|Finn]] was not her son. Long ago, she had kidnapped her baby brother from the clutches of their murderous mother, [[vladalma|Valdalma Faen Tlabbar]]. To conceal the kidnapping, she had faked a pregnancy and then a death during her flight from [[menzoberranzan|Menzoberranzan]]. From that day forward, anyone on the surface knew [[finn|Finn]] only as her son — and anyone in the [[underdark|Underdark]] believed them both dead.
 
-Gundren moves in too and as he passes a doorway, an arm lashes out, 15 feet gouging the dwarf badly but finding no purchase.
+Telling the group now, after all this time, was visibly difficult. Most accepted her apology. [[finn|Finn]] nodded, lost in thought — he had heard similar from [[vladalma|Valdalma]] herself, but had doubted the source. In the end, he said it did not matter. [[aliyah-faen-tlabbar|Patches]] had saved him. Twice. He embraced her.
 
-The group moves in.
+[[finn|Finn]] mentioned that [[vladalma|Valdalma]] had been eager to send him away at the end, and he did not know why. That frightened him. [[aliyah-faen-tlabbar|Patches]] nodded, filing it away. This would not be the last time she tangled with [[house-faen-tlabbar|House Faen Tlabbar]].
 
-They get a number of good hits in before the thing once again teleports away in an explosion of necrotic energies.
+[[tarkathee-daru|Tark]] heard the truth and was dismayed — another lie, from yet another friend. He was having a hard time trusting anyone. [[aliyah-faen-tlabbar|Patches]] tried to explain, but the monk could not accept it. He left the room.
 
-The things next ambush is ruined though as Feanon Cone of Colds down the entire hallway forcing it to drop from the ceiling.
-
-The group moves in, cornering it and with their combined efforts, slay the creature and the remaining Slaad in the area.
-
-As the Boneclaw dissolves into ash though, Feanon can clearly feel the essence of the creature being pulled toward Vizeron.
-
-The group re-gathers, Feanon confirming that the Demon Lords are dead and the wild-magic of the Underdark is no longer an issue.
-
-Slamming his staff into the ground and calling upon his place of power on the surface, Feanon recharges his magical stores of energy, draining his reserves on the surface.
-
-The group regathers, Mr. Pickles coming out of the shadows and the group Teleports back to the Barony.
-
-
-Atop Feanon’s Tower, the group rests.
-
-Taking in the beautiful late spring morning, they look at one another.
-
-No one feels particularly good about how that all ended, and what about the Slaves sent TO the Clawrift?
-
-Unable to do anything about it at present, the group decides to rest and then figure out next steps.
-
-Everyone heads into town, Gundren checking on the ingredients for the Belt and finding everything finally delivered, and Patches checks on Li and the debutant ball.
-
-Li brings up that a strange man appeared in the Keep the other day and after questioning him, they realized the group must have saved him from the Underdark.
-
-Patches confirms and Li says the man - a Hydromancer from the Amnian controlled Moonshae Isles  named **Halrak Sudrin** - is staying in town.
-
-She grabs her package delivered from Sundabar then leaves with Gundren to return to the group in Over the Moon and grab lunch.
-
-As they do, Mr. Pickles informs Patches that Finn, her son is waiting in her rooms.
-
-Patches gifts the group badges from a box, she says that they are badges of Telepathic bonding and she had the commissioned from Megno.
-
-Everyone in the group grabs a badge and they thank Patches, who then goes with Buumi to meet her son.
-
-The entire group follows tentatively.
-
-Patches meets her son in person for the first time in almost two decades.
-
-He thanks her for saving him and Patches introduces Finn to Buumi.
-
-Buumi uses his cleansing touch on the young Drow, dispelling any potential mind controls or dominations.
-
-Patches then calls in the rest of the group, peeking in from the door and introduces Finn, her wizard/sorcerer...brother.
-
-Patches explains that Finn is not her son, long ago, she kidnapped her baby brother from the clutches of her murderous mother.
-
-To hide the kidnapping, Patches faked her own pregnancy and then death during her flight from Menzoberranzan.
-
-From then on, all anyone on the surface would know is that Finn was her son, and to anyone in the Underdark; that Patches and Finn were dead.
-
-Telling the group now, after twenty years is difficult for Patches to admit and most of the group accepts her apology.
-
-Finn nods, lost in thought over the confirmation, having heard similar from his actual mother, Valdalma Faen Tlabbar, but doubting the source.
-
-Finn proclaims that parentage doesn't matter, Patches saved him, twice and he hugs her.
-
-Finn mentions that Valdalma was eager to send him away at the end and he doesnt know why.  This scares him.
-
-Patches nods, keeping it in mind to deal with her mother and her machinations in the future.
-
-This wont be the last time she tangles with House Faen Tlabbar.
-
-Tark hears the truth from patches and is dismayed and saddened by yet another lie.  Nothing but lies, from everyone recently.  He’s having a hard time trusting.
-
-Patches tries to explain again, but Tark is having a hard time accepting it.
-
-Tark leaves the room.
-
-The group moves in, introducing themselves to Finn and welcoming the young Elf to the Barony.
-
-Brother or Son, it doesn't matter to the group, he’s still Patches Family, and they saved him from the City of Spiders.
+The rest of the group stayed, introducing themselves to [[finn|Finn]] and welcoming the young [[drow-faction|Drow]] to the [[selunia|Barony]]. Brother or son — it did not matter. He was [[aliyah-faen-tlabbar|Patches']] family, and they had saved him from the City of Spiders.
