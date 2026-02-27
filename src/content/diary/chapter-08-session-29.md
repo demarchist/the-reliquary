@@ -23,6 +23,7 @@ people:
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
+  - "velka"
   - "veygar"
 places:
   - "fane-of-selune"

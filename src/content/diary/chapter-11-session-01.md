@@ -3,6 +3,7 @@ title: Shadows of the Empire - Into the Fortress
 chapter: 11
 chapterTitle: Shadows of the Empire
 session: 1
+summary: "The group pressed deeper into the Saurian ruins beneath the Labyrinth, finding mechanical spiders cleaning ancient battle damage and a Flumph named Marge. After a Quaggoth ambush triggered by Buumi's prayers, they emerged into a grand cavern housing a black marble pyramid with active Ringed Veils — and were attacked by dark-robed cultists lurking in silence."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -13,105 +14,47 @@ people:
   - "veygar"
 places:
   - "underdark"
+things:
+  - "ringed-veils"
 factions:
   - "duergar-faction"
   - "saurians"
 ---
 
-The group presses on, through the labyrinthine Underdark.
+The group pressed on through the labyrinthine [[underdark|Underdark]].
 
-The day is relatively uneventful, until Feanon senses some lingering magic and leads the group to a strange sight.
+## The Mechanical Spider
 
-They see a dead Grell being dragged across the ground, toward a vent, by a Mechanical spider, very similar to the ones from the Troll Hills.
+The day was relatively uneventful until [[feanon-serinde|Feanon]] sensed lingering magic and led the group to a strange sight — a dead Grell being dragged across the ground toward a vent by a mechanical spider, identical in design to the ones they had encountered years ago beneath the Troll Hills.
 
-Gundren is fascinated and moves to investigate the thing.
+[[gundren-rockseeker|Gundren]] was fascinated and moved to investigate. [[feanon-serinde|Feanon]] theorised that the strangely well-maintained ruins were the work of these spiders — janitors of a sort — and gestured at the Grell being cleaned away. He wanted the Grell's brainstem, however, and had the creature disembowelled, giving the spider considerably more to clean and granting himself a window to extract the organs he wanted.
 
-Feanon theorizes that the strangely well mainainted ruins here are probably the doing of the mechanical spider, a Janitor of sorts, and gestures toward the Grell being “cleaned”
+The group decided not to invoke the ire of the mechanical custodian and moved on.
 
-Feanon wants the Grell brainstem though and has the grell disemboweled, giving the spider much more to clean and giving Feanon a window to swipe the organs of his choice.
+## Marge
 
-The group decides to otherwise not invoke the ire of the mechanical spider and they move on.
+After a full day of travel through increasingly intact ruins, [[feanon-serinde|Feanon]] conjured his Magnificent Mansion for the group to rest in, leaving [[tarkathee-daru|Tark]], [[veygar|Veygar]], and [[aliyah-faen-tlabbar|Patches]] outside on watch.
 
-After a good day of travel, the group finds themselves in well maintained ruins, far more intact than those just a day away.
+[[tarkathee-daru|Tark]] went looking for mushrooms and came across a strange jellyfish-like creature the size of a large almond. It introduced itself as Marge — a Flumph. [[tarkathee-daru|Tark]] had no idea what that was but greeted the being and offered it nourishment. The creature accepted, draining a measure of Ki from the monk. [[tarkathee-daru|Tark]] grumbled but would never let another creature go hungry. Marge mentioned that the Elder Flumphs in the area might have more knowledge of these ruins.
 
-Feanon sets up his mansion and the majority head inside to rest, leaving Tark, Veygar and Patches outside.
+[[horatio-von-bumidere|Buumi]] emerged for his watch and began praying aloud to Helm. [[aliyah-faen-tlabbar|Patches]] could not stop him in time — the sound of spoken prayers echoed down the tunnels and a roar answered. Six Quaggoths rushed into the cave and threw themselves at [[horatio-von-bumidere|Buumi]]. They were hard-pressed to penetrate his plate armour and shield, and the rest of the group, roused from the mansion, destroyed the creatures in short order.
 
-Tark goes looking for mushrooms and comes across a strange jelly-fish like creature the size of a large almond.
+## The Fortress
 
-It introduces itself as Marge and is a Flumph.
+The next day, they headed deeper into the ancient [[saurians|Saurian]] ruins, [[veygar|Veygar]] disarming traps with his skeleton key as they went. The [[duergar-faction|Duergar]] grew visibly uneasy — they should have met his guards by now.
 
-Tark has no idea what that is but greets the being and offers it nourishment.
+The group emerged from the carved tunnels into a grand cavern. Ancient ramparts and defensive works were constructed across the floor, and at the heart of the chamber stood a pyramid of black marble threaded with quartz, a pure cap of silvery metal gleaming atop it in green-hued sconce light.
 
-The creature accepts and drains some Ki from the monk.
+The group stood in awe before moving into the abandoned defences. Signs of ancient battle were everywhere, though the mechanical spiders had cleaned away all smaller debris — only massive structural damage and boulders too large to move remained, giving the ruins an eerie, sanitised feeling.
 
-A little surprised, Tark grumbles a bit about it, but would never let another creature go hungry.
+[[veygar|Veygar]] halted them. There was no way they would not have encountered his guards by now — unless they were dead.
 
-Marge then mentions that the Elder Flumphs in the area might have more knowledge of these ruins.
+They fanned out to search and pushed deeper, eventually reaching the foot of the grand pyramid and its single great door, twenty feet up a set of broad stairs. Inside, they found their answer — a body, being dragged away by a mechanical spider. The [[duergar-faction|Duergar]] had been dead for at least a week. [[veygar|Veygar]] knew the fellow.
 
-Buumi exits the mansion for his watch at that point and begins praying to Helm to protect the camp.
+## The Ringed Veils
 
-It takes Patches too long to rouse from her Reverie to stop him and the sound of the spoken prayers echo off into the tunnels.
+The group pressed on, passing through tunnels choked with cloying black, oozing webs — which [[cirrus-al-kayan|Cirrus]] burned away with a flaming sphere. The tunnel opened into a large octagonal chamber with a raised dais at its centre, upon which sat two [[ringed-veils|Ringed Veils]] — portals of ancient [[saurians|Saurian]] design. Both gleamed with energy, their mirror-like gateways active.
 
-A roar responds as six Quaggoths rush into the cave, attacking Buumi.
+As the group moved toward the artefacts, sound died. A zone of magical silence engulfed them. Dark-robed cultists rushed from the shadows, weapons drawn.
 
-Despite the sudden onslaught, they are hard pressed to get past the plate armor and shield and are held off long enough for the group to be roused.
-
-Rushing from the mansion, the battle is quickly joined and the ape-like creatures are quickly destroyed.
-
-The group moves the corpses off a ways, cleans the area enough to disinterest any predators and then finish up their nights rest.
-
-The next day, they head deeper into these ancient Saurian ruins, Veygar disarming traps with his skeleton key as they go.
-
-Veygar begins to grow discomforted and mentions that they should have met his guards by now.
-
-The group exits the now fully carved tunnels into a large chamber of ancient design.
-
-Constructed all around the floor of the grand cavern they find themselves in, are ancient ramparts and defenses. 
-
-At the heart of the cavern sits a grand ancient Pyramid of black marble threaded with quartz, a pure cap of silvery metal gleams atop the pyramid in Green-hued sconce-light.
-
-The group stands in awe for a moment and then silently they head off into the now abandoned defenses of this underground fortress.
-
-The defenses show sign of ancient battle and the doors and smaller debris have long been cleaned away by the mechanical spiders.  Only massive damage and rocks too large for the spiders to move remain, giving the damage a “missing” feeling of detail.
-
-Despite this, the signs of battle are extensive, though ancient.
-
-Veygar stops the group as they are moving through a section of the fort and he says there’s no way they would not have seen his guards by now unless they were dead.
-
-The group fans out a bit to search for clues.
-
-It takes a while and they head deeper into the Ancient fortress.
-
-They head through the last stretch of cavern to the foot of the grand pyramid and the single large door they can see on its surface about 20ft up a set of grand stairs.
-
-They head inside, wary of traps but come across none.
-
-They do finally find sign of Veygar’s guards.
-
-A body, being dragged away by a Mechanical spider.
-
-Not wanting to incite the spider, the group hangs back but can tell the Duergar has been dead for at least a week.
-
-Veygar mentions he knew the fellow.
-
-The group comes on guard, now fearing they are not alone in this place and see something gleam in the dim light of the Pyramid.
-
-Up ahead, the tunnel is covered with cloying black, oozing webs which Cirrus burns away with a flaming sphere, revealing archways to other hallways within the pyramid.
-
-Dead ahead though the tunnel opens up.
-
-Heading down the entry hall, the group eventually comes into a large interior chamber within the pyramid.
-
-Octagonal and with a large dais in the center, atop which sits two Ringed Veils - portals of ancient Saurian design.
-
-Both gleam and glow with energy, their mirror-like gateways active, possibly to other worlds.
-
-As the group stares at the ancient, active gateways, they move into the room, beelining for the artifacts.
-
-Suddenly the group finds they cannot hear anything, this queues them in and they look around.
-
-Dark robed cultists rush from the shadows, weapons drawn and attack the party.
-
-They kill the cultists quickly, but one of them does not go down so easily; one of the creatures climbing across the ceiling.
-
-It takes a considerable effort to down the last of the black robed enemies and leaves the group breathing heavily, surveying the battlefield.
+The group killed them quickly — save for one creature that clung to the ceiling and proved far harder to bring down. It took considerable effort before the last of the black-robed enemies fell, leaving the group breathing heavily amidst the bodies, surveying the ancient gateway chamber.

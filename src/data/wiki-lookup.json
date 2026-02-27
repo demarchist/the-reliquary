@@ -2154,6 +2154,11 @@
     "title": "Menzoberranzan",
     "category": "Places"
   },
+  "merrigold": {
+    "slug": "merrigold",
+    "title": "Merrigold",
+    "category": "People"
+  },
   "mervklo": {
     "slug": "mervklo",
     "title": "Mervklo",
@@ -2283,6 +2288,11 @@
     "slug": "mythallar",
     "title": "Mythallar",
     "category": "Things"
+  },
+  "nalkara": {
+    "slug": "nalkara",
+    "title": "Nalkara",
+    "category": "People"
   },
   "the netherese": {
     "slug": "netherese",
@@ -3427,6 +3437,11 @@
   "veldyskar": {
     "slug": "veldyskar",
     "title": "Veldyskar",
+    "category": "People"
+  },
+  "velka": {
+    "slug": "velka",
+    "title": "Velka",
     "category": "People"
   },
   "velkynvelve": {

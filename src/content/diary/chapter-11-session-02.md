@@ -3,10 +3,10 @@ title: Shadows of the Empire - Through the Gates
 chapter: 11
 chapterTitle: Shadows of the Empire
 session: 2
+summary: "The group entered the Ringed Veil network — a chain of ancient Saurian portals spanning worlds. They traversed a desert of disguised Ropers, a jungle under siege by cultists, a reality-warped void, a glacial titan's domain, and an idyllic coastal world before arriving at an inn overrun with corrupted undead. Falling through a void gate, they discovered a dying World Tree and met Hazzim, a defector from the Cult of Zalaam who offered to guide them to the mines."
 people:
-  - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
-  - "feanon-serinde"
+  - "hazzim"
   - "horatio-von-bumidere"
   - "selune"
   - "snorbul"
@@ -14,170 +14,50 @@ people:
   - "veygar"
 places:
   - "al-askar"
-  - "barovia"
-  - "faerun"
   - "iyum"
   - "the-crossroads"
-things:
-  - "ringed-veils"
 factions:
   - "cult-of-zalaam"
   - "duergar-faction"
   - "saurians"
 ---
 
-The group moves the bodies away from the Ringed Veils (Fargates)
+The group moved the cultist bodies away from the [[ringed-veils|Ringed Veils]]. As they did, they discovered one was regenerating — the same creature that had been far harder to kill. [[horatio-von-bumidere|Buumi]] recognised the energies as undead and they burned the body to prevent further complications.
 
-As they do, they realize that one of the bodies is regenerating - the strange cultist that was much harder to kill.
+## Exploring the Pyramid
 
-Buumi recognizes the energies around it as undead and they burn the body to stop it from being an issue later.
+They turned from the gates to investigate the source of the cultist presence. Backtracking through the cleared tunnels, they found a recently-used passage leading to a barracks. A mural on the wall depicted the [[saurians|Saurian]] race and a planet with two suns. [[cirrus-al-kayan|Cirrus]] recognised the significance — connecting his vision of a Fragment of the Word with this image. They were on the right path.
 
-They turn away from the Gates for now, intent on finding where this large batch of enemies had come from.
+The cultists' effects yielded necromantic totems dedicated to an unfamiliar god, but no currency — only thin linen clothes, bone dice, and miscellaneous refuse.
 
-Backtracking a little, the group finds the doorways that were cleared of the black webs by Cirrus and check beyond them.
+[[cirrus-al-kayan|Cirrus]] returned to the gate room and communed with [[selune|Selûne]], determining the correct path. He led the group through the shimmering gateway.
 
-Several have collapsed tunnels, but one was recently traveled and the group finds where the Cultists had been holed up.
+## The Desert of Ropers
 
-In the barracks they find a Mural depicting the Saurian race and a planet with two suns.
+They emerged onto a strange desert-like plane punctuated by stalagmite formations, a shimmering energy barrier separating the gate platform from the surrounding world. Three of four platforms were occupied, three [[ringed-veils|Ringed Veils]] standing active.
 
-Cirrus recognizes the significance of the dual suns, connecting his vision of the fragment of the word with this mural.
+[[tarkathee-daru|Tark]] spotted a camp beyond the barrier and shadow-stepped out to investigate, passing a circle of skulls projecting some kind of magic. Meanwhile, [[snorbul|Snorbul]] tested the wrong gate and began seeing phantom jellyfish in the sky.
 
-They are on the right path, he is sure of it.
+As [[tarkathee-daru|Tark]] pushed through the illusion projected by the skulls, the truth revealed itself — the stalagmites had been creeping closer, each bearing a glowing red eye and an array of grasping tendrils. Corpses littered the camp, their brains sucked out through gaping holes in their skulls.
 
-Searching the cultists effects, the group finds several more necromantic totems to a god no one recognizes as well as a distinct lack of money and coin.
+The Roper-like monstrosities surged forward. [[tarkathee-daru|Tark]] retreated, calling the warning, and the group fled through the correct gate.
 
-The only thing they did find were thin linen-like clothes, bone dice and similar miscellaneous trash
+## The Jungle and the Void
 
-Cirrus returns to the Gate room ahead of the group and prays to Selune, Communing with his goddess to try and find the way forward.
+They emerged onto a gate platform surrounded by blue jungle beneath a sky of stars and swirling nebulae. A nearby [[saurians|Saurian]] spire was under attack — bottles of Alchemist's Fire shattering against its defences. [[tarkathee-daru|Tark]] shadow-stepped to one of the protective skulls and extinguished its candle, dropping the barrier. The next volley of flasks exploded among the panicking cultists within.
 
-He determines the correct path and leads the group through to the other side, touching the shimmering mirror of energy and being transported.
+Below, the group met the throwers — surviving [[duergar-faction|Duergar]] from [[veygar|Veygar's]] advance party, lost in the network after fleeing a veritable army of cultists. They interrogated a captured corrupted cultist — the thing cackled with madness, reciting scripture and offering only death in the name of Zalaam. [[horatio-von-bumidere|Buumi]] burned it to ash.
 
-The group finds themselves instantly transported to a strange desertlike plane punctuated by Stalagmites that extends before them
+They pressed through another gate into a reality warped beyond recognition, then to a hub — a gate platform with four active portals, a barn, and a human-built inn surrounded by misty meadows. The barn held unfamiliar dead beasts and ghoul-like corpses leaking black ooze. The inn showed signs of battle. On the second floor, behind a barricaded door, three undead [[duergar-faction|Duergar]] attacked — and [[horatio-von-bumidere|Buumi]] stumbled out of the room with his eyes swelling, black tar leaking from his nose. The power of Helm cleansed him, but the warning was clear: whatever this corruption was, it could infect even a Paladin.
 
- a shimmering field of energy at the edge of the Gate platform separates them from this new world.
+They burned the inn and pressed through the next gate without checking its destination.
 
-Three of the four Gate platforms are occupied and three Ringed Veils stand active.
+## The Dying World
 
-The group moves around the area, investigating their options and looking at this strange place.
+They were hurled from a free-floating gate into a void. Each member conjured flight — wings, mounts, spells — but by the time they arrested their fall, the gate had vanished above them. Below, a great plane of orange grass appeared, stretching for miles. At its centre stood the largest tree any of them had ever seen — the last great living thing in a dying reality. Beyond the grasslands, existence simply ceased.
 
-Tark spots a camp, just on the other side of the barrier and shadowsteps out to investigate - past a circle of skulls projecting some kind of magic.
+At the tree's roots, they found a camp and its sole occupant — a human named [[hazzim|Hazzim]], a defector from the [[cult-of-zalaam|Cult of Zalaam]]. Unlike the others, he did not attack. He spoke in a strange, older dialect and explained that he had joined the cult in [[al-askar|Al Askar]], in the city of [[iyum|Iyum]], because it was better than the alternative. Only after joining did he realise how evil it truly was.
 
-Meanwhile the group tests the active Gates, determining the correct one forwards, but not before Snorbul is affected by the wrong gate and starts to see weird jellyfish in the sky.
+He had a runestone that could return them to [[the-crossroads|the Crossroads]]. In exchange for their help finding his friend Jamil, he would guide them.
 
-Tark begins to check the desolate camp, but at that same moment, pushes through an Illusion spell covering the area - created by the line of skulls.
-
-The Stalagmites have been moving closer and each has a glowing red eye at its center and an array of tendrils. 
-
-Around the camp, Tark sees corpses, each with their brains sucked out through a large gaping hole in the backs of their skulls…
-
-The Roper-like monstrosities surge forward just as Tark retreats, calling the danger to the group.
-
-Tendrils try to grab Tark and Snorbul, but cannot find purchase on the slippery smallfolk
-
-The group makes haste and they flee through the gate they know to be safe.
-
-And find themselves in a completely different place.
-
-The sky is filled with stars and swirling nebulae and the group finds themselves on a Gate Platform surrounded by blue Jungle.
-
-The sounds of breaking glass and conflagrations reaches the group and as they look around, a nearby spire of stone, clearly of Saurian design can be seen under attack from bottles of Alchemists fire.
-
-Snorbul and Tark move in on the flying broom to look at the Spire while the others move into the jungle to see who is attacking.
-
-Snorbul and Tark both move in stealthily, making the top of the spire with ease.
-
-There, they see the alchemists fire smashing against an invisible barrier created by a ring of skulls similar to what they had seen before.
-
-A dozen cultists shelter behind the barrier.
-
-Tark shadowsteps to a skull and puts the candle out that burns within.
-
-The defensive barrier immediately ceases and the next hurled bottle of alchemists fire smashes at the feet of a cluster of cultists who immediately burst into flame.
-
-Another handful of flasks soar in and explode amongst the panicking cultists.
-
-Tark shadowsteps away, leaping into the sky just as Snorbul soars in to catch him and they fly back to the group as the spire burns.
-
-Below, they see the group has met up with the throwers of the flasks - a group of Veygar’s Duergar.
-
-The group, and Duergar survivors head back to the Gate platform to talk.
-
-They determine that the “mine” with the mural of the Word is deeper into the network and the Duergar survivors here are a bit lost, having fled the veritable army of black robed cultists that attacked them.
-
-They determined the cultists are from further through the network of gates and not native to Faerun.
-
-Tark and Snorbul bring over the corpse of a corrupted Cultists and it regenerates enough to converse.
-
-The thing is almost impossible to understand, Feanon and Cirrus picking up some words from an older dialect of common, though the speech is slurred with blood and tar.
-
-Tark acts as the translator, but the thing cackling with madness, reciting scripture and offering nothing but death from the god “Zalaam”.
-
-Buumi burns it away with fire, killing it properly.
-
-They head through the gate and find a gate platform, reality warped and twisted beyond recognition.
-
-Three gates here are active and Patches tries the first, but finds herself being crushed by some magic and the group intervenes, thus leaving the other gate as the way forwards.
-
-Unwilling to test the boundary of reality here in this place, the group leaves.
-
-In the next area, they find themselves at a hub, with a Gate platform with four active gates, a Barn nearby and a large human-made Inn nearby.
-
-Misty meadows surround the area and the fields go off into the mists.
-
-The group cautiously moves in to investigate this place.
-
-They check the barn first, finding unfamiliar beasts of burden here, dead and bitten by strange ghoul-like/zombie corpses, also nearby.  Black ooze and corruption is present around the wounds, not unlike the ooze they have seen before on the webbing and resilient cultists.
-
-They move into the Inn building itself, finding signs of battle.  The cult clearly has been here.
-
-On the second floor, they find a dead Duergar and a barricaded door.
-
-They open it and are immediately attacked by three undead Duergar that had been motionless on the other side.
-
-The beasts are quickly slain and the group determines what happened when Buumi stumbles out of the room, his eyes swelling and leaking fluid and black tar leaking from his nose.
-
-It takes him a second as he focuses and the power of Helm cleanses the disease from him.
-
-Buumi warns the others and gestures to the spore and black web filled room that held the undead creatures.
-
-Creatures that after inspection, are revealed to be turned Duergar.  The one on the outside having locked his infected friends in the room…
-
-Whatever this corruption is, it could even infect Buumi who is supposedly protected from such things by Helm.
-
-Assembling outside the corrupted inn, the group decides to burn it down and move on.
-
-As the spore-filled house begins to light, they move to a gate and move through it, not checking its destination ahead of time.
-
-On the other side, the party is hurled from a free floating gate, contained within a void.
-
-As the group “falls” each group member enacts some form of magic (wings, Arcto, flight spells) to arrest their fall, but with the speed of their fall, it takes long enough that the gate is no longer visible.
-
-Something else is though, as a great plane of orange grass expands below, suddenly visible.
-
-The field of grass is several miles across.
-
-At the “center” of the plane of grass sits the largest tree anyone has ever seen. A vast ancient thing, maybe the last great living thing in this reality.
-
-Beyond the field of grass, reality simply ceases.
-
-As the group lands on the “ground” they see a camp near the base roots of the World Tree and decide to head over to investigate.
-
-They find several corpses of Ghouls near the camp and then come across the camp resident - a Human cultist named Haszzm.
-
-Unlike the other cultists, this man does not attack (indeed, he is quite intimidated by the large group before him).
-
-Once again, his dialect is strange, but the group parlays and eventually, are invited into the camp by the man, who has defected from the Cult of Zalaam.
-
-The group sits around the fire and talk with the man.
-
-He has a runestone that will return them to the Crossroads and take them from this strange world and he is eager to help.
-
-In return, he asks that the group help him find his friend Jamil.
-
-He explains that he joined the cult in **Al Askar, in the city if Iyum** as it was better than the alternative life there.
-
-Only after he joined did he realize how evil this “religion” was.
-
-The group listens to his story and they agree to take him with them and look for his friend.
-
-He nods and they prepare to leave.
+The group agreed and prepared to leave the dying world.

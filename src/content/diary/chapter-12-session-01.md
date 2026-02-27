@@ -11,6 +11,7 @@ people:
   - "hasrala"
   - "horatio-von-bumidere"
   - "liara"
+  - "merrigold"
   - "selune"
   - "snorbul"
   - "tarkathee-daru"

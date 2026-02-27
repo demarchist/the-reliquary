@@ -3,17 +3,18 @@ title: Shadows of the Empire - They call it a Mine…
 chapter: 11
 chapterTitle: Shadows of the Empire
 session: 4
+summary: "The group explored the Saurian mines, battling corrupted cultists with tentacle attacks and four serpentine sentry statues that teleported to defend their wards. Inside the central pyramid, they found a control console requiring three crests, a shaft descending into the deep Underdark, and evidence that something was stalking them through the tunnels — dragging victims away without a trace."
 people:
-  - "aliyah-faen-tlabbar"
   - "bowie"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"
+  - "merrigold"
+  - "velka"
   - "veygar"
 places:
-  - "snorbuls-hole"
   - "underdark"
 things:
   - "the-last-word"
@@ -22,112 +23,42 @@ factions:
   - "saurians"
 ---
 
-The group decide to head back through the Ringed Veil, to the turquoise coast and the ramshackle village there.
+The group decided to fall back through the [[ringed-veils|Ringed Veil]] to the turquoise coast, where they could rest safely.
 
-Buumi grabs the corpse with the runes carved into it, intent on questioning Hazzim about it.
+## Rest and Ambush
 
-They head back through the veil and on the other side, begin to set a camp and rest.
+[[horatio-von-bumidere|Buumi]] brought the rune-carved corpse, questioning [[hazzim|Hazzim]] about it — but learned only that it bore symbols of necromancy for an unknown purpose. The [[duergar-faction|Duergar]] made their own camp nearby while the group prepared a Magnificent Mansion.
 
-The Duergar stay in their own small camp while the group prepares a Magnificent mansion.
+The night was uneventful until [[cirrus-al-kayan|Cirrus']] watch. While chatting with the [[duergar-faction|Duergar]], ghouls crept from the [[ringed-veils|Ringed Veil]] and ambushed him. The group was quickly roused and the battle was swift, though several members were doused in the creatures' corrupting bile before they fell.
 
-Buumi gets nothing from the corpse other than it was engraved with symbols of necromancy for an unknown purpose.
+In the morning, the main group headed back to the mines, leaving the [[duergar-faction|Duergar]] civilians, [[bowie|Bowie]], Maloo, and [[merrigold|Merrigold]] behind. [[velka|Velka]] and [[veygar|Veygar]] split off to scout the mine's ventilation system.
 
-Over the course of the evening, several of the group are on watch and it is uneventful.
+## The Sourcestone Chamber
 
-That is until Cirrus is on watch and while chatting with the Duergar, is ambushed by ghouls that had crept from the Ringed Veil.
+The group returned to the room with the gemstone infusion tables and four large serpentine statues with crystal eyes. They discovered crates of sourcestones ready to be infused with magic. [[horatio-von-bumidere|Buumi]] tried to infuse one — divine power pulsed into the stone. Others attempted their own spells without success, proving [[horatio-von-bumidere|Buumi's]] effort more fluke than method. They teleported the crates of crystals back to their bank regardless.
 
-The group is quickly roused and the battle is swift.
+[[feanon-serinde|Feanon]] attempted to remove the crystal eyes from the statues using an Unseen Servant and a crowbar, but each time a flash of magic destroyed the servant. Not wanting to tangle with a powerful trap, they moved on.
 
-The Ghouls are destroyed, though not before several vomit disgusting and corrupting juices over several party members.
+## Deeper into the Mines
 
-The rest of the evening is uneventful and in the morning, the main group heads out, back to the Mine, leaving the Duergar (except Veygar and Velka), Bowie, Maloo, and Merrigold behind.
+In a storage chamber, they found a satchel of poisoncraft herbs and a parchment depicting symbols of various gods — one obscured and unfinished. Three cultists rushed them from deeper within. These were far tougher than expected, attacking with tentacles and strange magical abilities.
 
-As they head back into the mines,  the press of thousands of tonnes of rock replacing the beautiful open skies of the previous area, Velka and Veygar head off on their own to scout the vents of the Mines.
+Beyond the ambush, the group discovered a massive chamber with a pyramid at its centre. [[hazzim|Hazzim]] confirmed it led to the mural of [[the-last-word|the Last Word]] Fragment — but they opted to explore the side tunnels first.
 
-This leaves the group to themselves and they head back to the room with the Gemstone infusion tables and the four, large serpentine statues with gemstone eyes.
+Down one passage, they found more corrupted ooze and blackened webs, these wreathed in purple energy. [[gundren-rockseeker|Gundren]] ignited his cannon with magical flame and fired into the barriers. The purple magic vanished — and the four serpentine statues from the other room teleported beside the group, their crystal eyes blazing with magic.
 
-The group thoroughly investigates the area, discovering crates of Sourcestones ready to be infused with magic.
+The sentries unleashed a barrage of spells. [[cirrus-al-kayan|Cirrus]] attempted to banish them — the magically resistant constructs shrugged off the first attempt, but on his second try he removed two from the battlefield. The group destroyed the remaining pair, then positioned themselves for the return of the banished sentries, finishing them as they reappeared.
 
-Buumi tries to infuse one and Divine power pulses into the stone.
+## The Central Pyramid
 
-Others try their own spells without luck, proving Buumi’s effort to be more of a fluke than the norm.
+Exhausted from the fight, the group entered the pyramid and sealed the grand doors behind them. Inside was an open chamber with a raised dais, a control panel at its base, and two small staircases leading up. At the centre of the platform, a decorative metal plate surrounded a ten-foot shaft descending into the unknown depths of the [[underdark|Underdark]].
 
-Even so, the group teleports the crates of crystals back to their bank.
+[[horatio-von-bumidere|Buumi]] cooked for the group during their rest. [[cirrus-al-kayan|Cirrus]] sent his owl down the shaft to scout — but something several hundred feet below attacked and destroyed it.
 
-They move on to the statues and the crystal eyes.
+As they rested, a human scream echoed from outside the pyramid. Something in the tunnels had claimed another victim.
 
-Using an unseen servant and a crowbar, Feanon attempts to remove the eye crystals, but each time a flash of magic destroys the Unseen servant.
+## The Barracks and the Keys
 
-Not wanting to tangle with a potentially powerful trap, the group decides to move on, further into the mine.
+The group pressed on, discovering that three crests — held by high-ranking cultists — were needed for the control panel. They ransacked cultist longhouses, finding roughly four hundred Durhams of [[al-askar|Al'Askarian]] currency and confirming the place as an active barracks.
 
-They come into a small storage chamber and discover a satchel of herbs for poison making as well as a parchment with symbols of the gods, one of which is obscured and unfinished.
-
-As the group looks over this area, they are rushed by three Cultists and Buumi moves to intercept with Patches.
-
-They are killed quickly, but are far tougher than expected, even attacking with tentacles and other strange magical attacks.
-
-Moving in from where the attack came from, the group discovers a massive chamber with a pyramid in the center.
-
-Deciding not to approach the pyramid yet (though Hazzim confirms it leads to the Mural they are looking for of the Last Word Fragment), they head down a side tunnel and spot more corrupted ooze and blackened webs.
-
-These are different than the others though and are wreathed in purple energies.
-
-Gundren ignites his cannon with magical flame and shoots the barriers.
-
-The purple magic vanishes and then moments later, the large serpentine statues from the other room teleport besides the group.
-
-Their eyes flash with magic and the sentries unleash a barrage of spells from their enchanted eyes.
-
-The statues are tough and powerful and the group is caught by surprise.
-
-Cirrus attempts to banish them several times, but the magically resistant sentries prove difficult.
-
-Cirrus manages on the second attempt and manages to remove two from the battle temporarily.
-
-With only two targets to deal with now, the group makes quick work of the sentries, then turn to where the others will appear and prepare to destroy them when they return from their banishment.
-
-The banishment ends and the remaining two sentries are destroyed.
-
-Tired from such a magically exhausting fight, the group moves into the large pyramid, intent on closing the pyramids grand doors behind them for security.
-
-On the inside of the Pyramid, they see an open chamber with a raised dais in the middle.
-
-A control panel is at the foot of the dauis and two small staircases lead up to the platforms top.
-
-In the center of the platform is a metal plate of decoration and at the center of that, is a 10ft hole that descends into the unknown depths of the Underdark…
-
-The group shuts the door behind them and sets up a watch on the hold, taking a short rest.
-
-Buumi cooks for the group as they do this and hands out tasty treats.
-
-Cirrus sends his owl down the hole to scout it, but the owl is attacked and destroyed by a creature several hundred feet down.
-
-As they rest, they hear a commotion outside the pyramid ending in a human screaming in death.
-
-Some creature out in the tunnels claims another victim.
-
-The group heads out after their rest and finds nothing but bloodstains.
-
-They return to the site of the corrupted webs and break through them, finding a storage room with ancient alcoves.
-
-Opening many of them, they find ancient knicknacks and a great deal of decay.
-
-Two items stand out though, a potion and a cloak and the group takes them.
-
-Heading deeper into the mines, the group figures out that they are looking for three “keys” or icons to place in the control panel in the main pyramid here.
-
-The keys, Hazzim relays, were held and then secured by high ranking cultists and he thinks he has an idea where.
-
-Up ahead, the groups spots several ancient longhouses - barracks to house slaves maybe?
-
-They move in, uncontested and ransack the place, finding numerous modern nicknacks and confirming this place as a barracks for the cultists.
-
-During the investigation, the group finds around 400 Durhams (40gp) worth of Al’Askarian currency.
-
-The group moves past two storehouses, intent on other tunnels for now and the vast cavern that opens up further on.
-
-Checking a side tunnel, the group finds more ooze and webs and determines that they can use the Cult pendants to get through some of the corruption.
-
-Inside this side chamber, they find an ancient Saurian weapon still in working order - some kind of magical lance?
-
-They regroup back at the longhouses, intent on the rest of the mines and what they may encounter deeper in this dungeon…
+In a side chamber beyond more corrupted webbing, they found an ancient [[saurians|Saurian]] weapon still in working order — some kind of magical lance. They cleared the cult pendants through the corruption barriers and regrouped at the longhouses, steeling themselves for the deeper reaches of the mines and whatever lurked within.

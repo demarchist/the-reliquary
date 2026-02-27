@@ -16,6 +16,7 @@ people:
   - "ront"
   - "snorbul"
   - "tarkathee-daru"
+  - "velka"
 places:
   - "gracksuluth"
   - "helms-hold"

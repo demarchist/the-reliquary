@@ -3,22 +3,28 @@ title: Shadows of the Empire - Interplanar Spaces
 chapter: 11
 chapterTitle: Shadows of the Empire
 session: 3
+summary: "While the group rested beneath the dying World Tree, Feanon offered his Ring of Mind Shielding as a liferaft for a spark of its ancient soul. Across the multiverse, Bowie and his companion Maloo traversed the network, and Thorna — beaten by a titan claiming to be her divine sister — pursued the group with the Halfling Merrigold. All converged at the Crossroads before pressing through hostile worlds of ice titans, undead wastelands, and idyllic coastal villages, reaching the Saurian mines where something was hunting from the shadows."
 people:
   - "aliyah-faen-tlabbar"
   - "azoo-the-archer"
   - "bowie"
   - "cirrus-al-kayan"
+  - "doc"
   - "feanon-serinde"
   - "hazzim"
   - "jack-mayer-johnson-mathews"
   - "megno-slatesunder"
+  - "merrigold"
+  - "nalkara"
   - "snorbul"
   - "thorna"
+  - "velka"
   - "veygar"
 places:
   - "faerun"
   - "icewind-dale"
   - "menzoberranzan"
+  - "selunia"
   - "the-crossroads"
   - "underdark"
 factions:
@@ -26,139 +32,52 @@ factions:
   - "duergar-faction"
 ---
 
-Somewhere in the multiverse, a strange character finds himself on a set of beautiful islands in a turquoise sea.Bowie and his companion, Maloo, have been here for a while, having arrived through a network of gates
+Somewhere in the multiverse, on a set of beautiful islands in a turquoise sea, a stranger prepared to move on.
 
-Recently, these peaceful islands have been attacked by black robed cultists and Bowie thinks its time to move on.
+## Bowie
 
-With the help of two blue-skinned native Orcs, Bowie and Maloo head through the Ringed Veil and back into the network...
+[[bowie|Bowie]] and his companion Maloo had been on the islands for a while, having arrived through the [[ringed-veils|Ringed Veil]] network. Recently, black-robed cultists had begun attacking, and [[bowie|Bowie]] decided it was time to leave. With the help of two blue-skinned native Orcs, he and Maloo stepped through the Veil and back into the network — passing through a gloomy world of shuffling corpses and corruption-choked air before fleeing to a safer node.
 
-As they head through, they find a gloomy world, where the gate platform is fenced off from the surrounding reality. 
+## Thorna's Pursuit
 
-Beyond the mesh wall, shuffling corpses can be seen amongst misty ruins.
+Meanwhile, a chase had been underway without the group's knowledge. [[thorna|Thorna]], turned back at the Great Glacier blocking the way into [[icewind-dale|Icewind Dale]], had been attacked by a massive, titan-like woman calling herself [[nalkara|Nalkara]] — claiming to be [[thorna|Thorna's]] divine sister — who had tried to forcibly take [[thorna|Thorna's]] hammer. [[thorna|Thorna]] escaped, badly beaten, and was saved by the Halfling [[merrigold|Merrigold]].
 
-Just as they begin to gag and choke on the corruption filled air, Bowie leads the group through the correct gate and to a safer area...
+They travelled back to the [[selunia|Barony]], arriving too late and just missing the group. [[thorna|Thorna]] recruited [[megno-slatesunder|Megno Slatesunder]] to teleport them to the [[underdark|Underdark]] in pursuit. Merely hours behind, they followed the group's progress into the [[ringed-veils|Ringed Veil]] network.
 
+## The Dying World
 
-Meanwhile, a chase of sorts has been going on without the group even knowing.
+Beneath the dying World Tree, the group rested in [[hazzim|Hazzim's]] camp. While others questioned their guide, [[snorbul|Snorbul]] explored the area and stumbled over a seed — which he pocketed.
 
-Thorna, turned back at the Great Glacier that blocks the way into Icewind Dale, was attacked by a massive, titan-esque woman.
+[[feanon-serinde|Feanon]] approached the trunk and reached out telepathically. He encountered a vast, almost slumbering mind — the ancient, dying tree. It knew its universe was in its final moments, entropy collapsing inward upon this last bastion. [[feanon-serinde|Feanon]] offered it a way out, using his Ring of Mind Shielding as a liferaft for a spark of its soul. With a last burst of vigour, the great tree siphoned a fragment of itself into the ring — and with a sigh of effort, died.
 
-Claiming to be her divine sister, Nalkara, and tries to forcibly take Thorna's hammer.
+The leaves began to wither. The grasslands browned. This universe entered its last moments.
 
-Thorna managed to escape but was badly beaten.  She was saved by the Halfling Merrigold.
+[[hazzim|Hazzim]] used his runestone to return the group to [[the-crossroads|the Crossroads]] — the misty meadow hub where they had burned the corrupted inn. The rune was consumed in the process.
 
-Since then, Thorna has been travelling back to the barony, with Merrigold to take refuge with the group.
+## Convergence
 
-Arriving too late and just missing them, Thorna recruits Megno Slatesunder to teleport herself and the halfling to the Underdark in pursuit of the party.
+From two separate [[ringed-veils|Ringed Veils]], two groups appeared simultaneously — [[bowie|Bowie's]] and [[thorna|Thorna's]].
 
-Merely hours behind, Thorna and Merrigold follow the party's progress and make it to the ringed veil network merely hours behind.
+[[bowie|Bowie]] claimed to be [[jack-mayer-johnson-mathews|JmJm's]] father, a planar traveller himself. Maloo claimed kinship with [[doc|Doctor Breakfast]] and [[azoo-the-archer|Azoo]]. The group greeted [[merrigold|Merrigold]] with warmth and questioned [[thorna|Thorna's]] reappearance. She was tight-lipped. [[cirrus-al-kayan|Cirrus]] grew concerned.
 
-Figuring they should push forward, they enter the Network in search of the group.
+## Through Hostile Worlds
 
+They pressed on through the network.
 
-Meanwhile, the group finds themselves resting in Hazzim's camp beneath the dying World Tree.
+[[snorbul|Snorbul]] went first through a gate, a safety rope around his waist — which proved wise, as he found himself in a void. Gates floated in nothingness, connected by rope bridges, with bodies drifting in the dark. As they crossed, [[snorbul|Snorbul]] was attacked by a lone [[drow-faction|Drow]] wearing [[menzoberranzan|Menzoberranzan]] garb. They subdued the man and dragged him along.
 
-While many of the group question Hazzim for information, Snorbul and a few others look around the area.
+The next world was glacial and violent. A gargantuan form — a mountain of ice — shifted in a howling blizzard, screaming that they would *"no longer corrupt this world."* Ice Mephits materialised and the titan buried the gate platform under gale-force ice. The group smashed through the frozen barrier sealing their exit and fled.
 
-They find nothing of interest, until Snorbul practically stumbles over a seed.  He takes it.
+They emerged into warmth — an idyllic coast with a rudimentary village surrounding the gate platform, built on a massive bluff of flattened rock with concentric rings carved into it. A grand feast lay on a nearby table, surrounded by corpses. Black-robed cultists streamed from the village under cover of a blindness spell. The group slaughtered them, capturing two — a [[drow-faction|Drow]] from House Barrison Del'Armgo of [[menzoberranzan|Menzoberranzan]], and a Zalaam cultist.
 
-Feanon moves up to the trunk of the great tree and reaches out telepathically.
+They left the [[duergar-faction|Duergar]] civilians in this safe haven and pressed through the final gate.
 
-He encounters a vast, almost slumbering mind.  The ancient and dying tree.
+## The Mines
 
-It knows its universe is on its last legs.  Entropy is even now, collapsing in on this last bastion.
+The rock formations and magical lighting on the other side were unmistakable — familiar to the fortress they had left in the [[underdark|Underdark]] of [[faerun|Faerûn]], though whether they were still on their home world was uncertain.
 
-Feanon offers it a way out, using his ring of mind shielding as a liferaft for a spark of its soul.
+[[veygar|Veygar]] and his cousin [[velka|Velka]] — who dropped from the ceiling catwalks to greet them — scouted the mine's vents while the group investigated. They found a corpse carved with necromantic runes and a chamber where four cultists were siphoning energy into gemstones at workbenches. The group killed them quickly, though [[hazzim|Hazzim]] seized one — his former boss — forcing [[aliyah-faen-tlabbar|Patches]] to slay the man to save their guide.
 
-With a last burst of vigor, the great tree siphons a part of itself into the ring and with a sigh of effort, dies as it accomplishes its task.
+As the group took stock, a scream from the rear snapped their attention around. A captured cultist they had been calling Baconbitz was gone — only a bloodstain remained.
 
-As the leaves of the great tree begin to wither and the grasslands die.  This universe begins its last moments.
-
-The group gathers around Hazzim, and the man uses his runestone to return the group to The Crossroads, destroying the rune in the process.
-
-They are teleported back to the crossroads of gates, where the infested Inn was burned down amongst the endless fields of misty flowers.
-
-As the group (and their followers) decide what to do next, from two separate Ringed Veils, two groups appear - Bowie's and Thorna's.
-
-The groups meet up and exchange greetings, discovering that Bowie claims to be JmJm's father and a Planar Traveller himself.
-
-Maloo claims to be related to Dr. B and Azoo and the group is astounded.
-
-They greet Merrigold with friendship and question Thorna's reappearance, she is tight lipped and Cirrus grows concerned.
-
-Eventually though, they decide they must keep moving through the network and they press on.
-
-
-Snorbul heads through the first gate, a safety rope tied around his waist.
-
-Good thing too as he finds himself in a void.
-
-Gates float in nothingness, rope bridges strung between them and several bodies can be seen floating.
-
-The group heads through, straight across to the only other active gate.
-
-As they go, Snorbul is attacked by a lone Drow, wearing Menzoberranzan garb.
-
-The group subdues the man and take him prisoner, dragging the Drow with them.
-
-Through the next portal, they find an inhospitable world.
-
-Seemingly on the surface of some great Glacier, wind and ice buffets them and a shifting form can be seen in the whirling blizzard.
-
-A gargantuan form, like that of a great mountain, or iceburg shifts in the winds and the howling gale can be heard screaming that the group "shall no longer corrupt this world!"
-
-The group sees nearby signs of black ooze and corruption, no doubt from a few nearby cultist corpses.
-
-Ice Mephits materialize from the air and begin to blast intense cold over the group, attacking for their Titanic Glacial master.
-
-The massive titan covers the gate platform with a gale of ice and wind, cutting the group and chilling them dreadfully.
-
-They smash through the mephits and approach the gates, eager to fight their way free of this inhospitable planet.
-
-They approach the gates, determining which is the correct gate but as they try to head through it, a wall of ice blocks their path.
-
-They smash through and the group piles through the Ringed Veil and away from the furious and titanic elemental.
-
-The other side of the gate is a very different environment.
-
-Sunny, warm and pleasant, the group finds themselves overlooking an idyllic coast.  
-
-Nearby, a rudimentary village can be seen surrounding the gate platform.
-
-The entire thing is constructed on a massive bluff of flattened rock, with great concentric rings carved into it.
-
-A table rests nearby, laiden with a grand feast, though it is surrounded by corpses.
-
-The group takes a moment to catch their breath, having fled from subzero degrees into idyllic warmth.
-
-As they do, they go blind and deaf and black robed cultists stream from the nearby village to attack.
-
-The battle is short and the cultists slaughtered save for two, one dominated by charm magic and the other coerced traditionally.
-
-Interrogating their prisoners, the group finds the Drow is from the second House of Menzoberranzan -House Barrison Del Armgo.
-
-The cultists are more of the worshippers of this Zalaam god from Al'Askar and they find a few more corrupted individuals they need to burn to properly kill.
-
-They get the information of which Veil to take to get to the Mines and the group heads through the last gate, leaving the Duergar civilians in this idyllic town rather than moving into enemy territory.
-
-Exiting the gate, the group sees familiar rock formation, coloring and magical lighting to the Fortress back in the Underdark in Faerun.
-
-Whether they are on their homeworld or not, they are unsure.
-
-The group moves in, scouting the first few tunnels of the mine, having Veygar help.
-
-They find one room with a corpse, with runes carved into its flesh, the other room has four cultists at work benches, siphoning energy into gems.
-
-The group rushes into this room and engages, quickly killing the cultists.
-
-They discover that one of them is Hazzim's "boss" as he grabs the man and threatens to kill him, forcing Patches to slay the man to save Hazzim.
-
-As the group takes stock of this chamber of the mines, they see a flicker of movement along the darkened ceiling catwalks.
-
-A duergar drops down - Velka, Veyga's cousin greets the group, thankful to finally have backup.
-
-Before she can report her findings in the Mines, a scream from the back of the group gets everyones attention.
-
-One of the captured cultists, a burned man they called Baconbitz, is gone, only a bloodstain remains.
-
-As the group looks warily around, Velka turns to the group and ominously says "We're not alone..." 
+[[velka|Velka]] turned to the group. *"We're not alone."*
