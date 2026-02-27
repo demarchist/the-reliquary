@@ -1,5 +1,5 @@
 ---
-title: Baldur's Gate - Session 7
+title: Baldur's Gate - The Crystal Locks
 chapter: 3
 chapterTitle: Baldur's Gate
 session: 7

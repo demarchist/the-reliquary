@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 10
+title: The Bog - The Collapsing World
 chapter: 4
 chapterTitle: The Bog
 session: 10

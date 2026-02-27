@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 5
+title: The Bog - Goblin Town
 chapter: 4
 chapterTitle: The Bog
 session: 5

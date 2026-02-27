@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 8
+title: The Bog - The Goblin King
 chapter: 4
 chapterTitle: The Bog
 session: 8

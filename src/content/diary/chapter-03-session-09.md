@@ -1,5 +1,5 @@
 ---
-title: Baldur's Gate - Session 9
+title: Baldur's Gate - The Troll Hills
 chapter: 3
 chapterTitle: Baldur's Gate
 session: 9

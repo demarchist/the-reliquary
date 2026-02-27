@@ -1,5 +1,5 @@
 ---
-title: Baldur's Gate - Session 4
+title: Baldur's Gate - The Duergar Trap
 chapter: 3
 chapterTitle: Baldur's Gate
 session: 4

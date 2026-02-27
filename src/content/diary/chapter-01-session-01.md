@@ -1,5 +1,5 @@
 ---
-title: Phandalin - Session 1
+title: Phandalin - The Redbrand Purge
 chapter: 1
 chapterTitle: Phandalin
 session: 1

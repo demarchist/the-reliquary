@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 2
+title: Neverwinter - Devils in the Tower
 chapter: 2
 chapterTitle: Neverwinter
 session: 2

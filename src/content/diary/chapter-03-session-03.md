@@ -1,5 +1,5 @@
 ---
-title: Baldur's Gate - Session 3
+title: Baldur's Gate - The Masquerade
 chapter: 3
 chapterTitle: Baldur's Gate
 session: 3

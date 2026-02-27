@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 6
+title: The Bog - The War Party
 chapter: 4
 chapterTitle: The Bog
 session: 6

@@ -1,5 +1,5 @@
 ---
-title: Phandalin - Session 6
+title: Phandalin - The Black Spider
 chapter: 1
 chapterTitle: Phandalin
 session: 6

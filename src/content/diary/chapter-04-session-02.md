@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 2
+title: The Bog - The Black Dragon's Charm
 chapter: 4
 chapterTitle: The Bog
 session: 2

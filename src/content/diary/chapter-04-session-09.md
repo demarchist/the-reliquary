@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 9
+title: The Bog - The Drider Reborn
 chapter: 4
 chapterTitle: The Bog
 session: 9

@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 12
+title: The Bog - The Crossroads
 chapter: 4
 chapterTitle: The Bog
 session: 12

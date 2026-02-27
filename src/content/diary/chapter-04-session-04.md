@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 4
+title: The Bog - Curses and Mounts
 chapter: 4
 chapterTitle: The Bog
 session: 4

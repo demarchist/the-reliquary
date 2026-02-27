@@ -1,5 +1,5 @@
 ---
-title: Phandalin - Session 2
+title: Phandalin - The Dragon of Thundertree
 chapter: 1
 chapterTitle: Phandalin
 session: 2

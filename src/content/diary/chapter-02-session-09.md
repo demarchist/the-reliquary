@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 9
+title: Neverwinter - The Spider Matriarch
 chapter: 2
 chapterTitle: Neverwinter
 session: 9

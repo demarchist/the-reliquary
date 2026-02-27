@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 1
+title: The Bog - The Goblin King's Ransom
 chapter: 4
 chapterTitle: The Bog
 session: 1

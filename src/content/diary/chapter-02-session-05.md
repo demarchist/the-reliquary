@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 5
+title: Neverwinter - The Tournament
 chapter: 2
 chapterTitle: Neverwinter
 session: 5

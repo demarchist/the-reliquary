@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 10
+title: Neverwinter - The Celestial Vault
 chapter: 2
 chapterTitle: Neverwinter
 session: 10

@@ -1,5 +1,5 @@
 ---
-title: Baldur's Gate - Session 6
+title: Baldur's Gate - Invisible Blades
 chapter: 3
 chapterTitle: Baldur's Gate
 session: 6

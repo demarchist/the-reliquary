@@ -1,5 +1,5 @@
 ---
-title: Baldur's Gate - Session 8
+title: Baldur's Gate - The Alhoon Emerges
 chapter: 3
 chapterTitle: Baldur's Gate
 session: 8

@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 7
+title: The Bog - Into the Labyrinth
 chapter: 4
 chapterTitle: The Bog
 session: 7

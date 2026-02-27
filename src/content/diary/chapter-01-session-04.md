@@ -1,5 +1,5 @@
 ---
-title: Phandalin - Session 4
+title: Phandalin - The Demon's Prophecy
 chapter: 1
 chapterTitle: Phandalin
 session: 4

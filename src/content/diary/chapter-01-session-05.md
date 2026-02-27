@@ -1,5 +1,5 @@
 ---
-title: Phandalin - Session 5
+title: Phandalin - The Spellforge
 chapter: 1
 chapterTitle: Phandalin
 session: 5

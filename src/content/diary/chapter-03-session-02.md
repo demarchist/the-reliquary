@@ -1,5 +1,5 @@
 ---
-title: Baldur's Gate - Session 2
+title: Baldur's Gate - The Catacombs
 chapter: 3
 chapterTitle: Baldur's Gate
 session: 2

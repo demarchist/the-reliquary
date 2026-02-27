@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 7
+title: Neverwinter - Blood on the Festival
 chapter: 2
 chapterTitle: Neverwinter
 session: 7

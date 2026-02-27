@@ -1,5 +1,5 @@
 ---
-title: Phandalin - Session 7
+title: Phandalin - The Nightmare Below
 chapter: 1
 chapterTitle: Phandalin
 session: 7

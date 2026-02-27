@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 1
+title: Neverwinter - The Refounding
 chapter: 2
 chapterTitle: Neverwinter
 session: 1

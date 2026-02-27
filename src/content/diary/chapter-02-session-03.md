@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 3
+title: Neverwinter - The Chain Devil
 chapter: 2
 chapterTitle: Neverwinter
 session: 3

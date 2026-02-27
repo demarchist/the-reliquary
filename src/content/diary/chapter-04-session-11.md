@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 11
+title: The Bog - The Siege of Baldur's Gate
 chapter: 4
 chapterTitle: The Bog
 session: 11

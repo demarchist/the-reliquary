@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 4
+title: Neverwinter - The Rooftop Assassin
 chapter: 2
 chapterTitle: Neverwinter
 session: 4

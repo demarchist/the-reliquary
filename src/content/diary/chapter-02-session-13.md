@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 13
+title: Neverwinter - Storm and Bone
 chapter: 2
 chapterTitle: Neverwinter
 session: 13

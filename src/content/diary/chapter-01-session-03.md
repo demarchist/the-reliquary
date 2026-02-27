@@ -1,5 +1,5 @@
 ---
-title: Phandalin - Session 3
+title: Phandalin - The Doppelganger's Mask
 chapter: 1
 chapterTitle: Phandalin
 session: 3

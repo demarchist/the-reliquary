@@ -1,5 +1,5 @@
 ---
-title: The Bog - Session 3
+title: The Bog - The Wall of Hands
 chapter: 4
 chapterTitle: The Bog
 session: 3

@@ -1,5 +1,5 @@
 ---
-title: Phandalin - Session 8
+title: Phandalin - The Reaver
 chapter: 1
 chapterTitle: Phandalin
 session: 8

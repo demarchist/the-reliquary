@@ -1,5 +1,5 @@
 ---
-title: Phandalin - Session 9
+title: Phandalin - The Dracolich's Ascension
 chapter: 1
 chapterTitle: Phandalin
 session: 9

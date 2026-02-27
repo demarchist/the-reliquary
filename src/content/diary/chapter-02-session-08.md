@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 8
+title: Neverwinter - Into the Chasm
 chapter: 2
 chapterTitle: Neverwinter
 session: 8

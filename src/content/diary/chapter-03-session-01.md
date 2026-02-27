@@ -1,5 +1,5 @@
 ---
-title: Baldur's Gate - Session 1
+title: Baldur's Gate - The Mist-Shrouded City
 chapter: 3
 chapterTitle: Baldur's Gate
 session: 1

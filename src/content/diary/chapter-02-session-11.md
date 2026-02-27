@@ -1,5 +1,5 @@
 ---
-title: Neverwinter - Session 11
+title: Neverwinter - The Priestess and the Devil
 chapter: 2
 chapterTitle: Neverwinter
 session: 11
