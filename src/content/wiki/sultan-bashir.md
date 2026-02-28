@@ -12,10 +12,13 @@ Sultan Bashir is the ruler of Iyum and the leader of the Usurpers of Rudjek, the
 
 ## Role in the Campaign
 
-Bashir governs Iyum during the party's visit to Al Askar, providing them with sanctuary and support. His leadership of the Usurpers represents one of the few bastions of order in the troubled region.
+Bashir governs Iyum during the party's visit to Al Askar, managing a city beset by plague, cult infiltration, underfunding, and the looming presence of Rudjek's uncleared Dark Spire. The party negotiated a sweeping alliance with Bashir: the Barony of Thunder Bluff would supply food, medicine, and Warden equipment, Doc would double local farm production, the Barony would help breach the Golden Tower's wards and cleanse the Dark Spire (to be converted into a Temple of Selune). In return, the group received access to the spelljammer expedition, machina technology, first choice of Magi Tower treasure, palace suites, and the Hammer of Niraz.
+
+After the party cleansed the Golden Tower and revealed the plague's source in its aquifer, Bashir granted Tark the title of Pasha to legitimise outsider control of the tower before the local nobility.
 
 ## Notable Traits
 
-- Charismatic revolutionary leader turned ruler
-- Successfully overthrew a vampire lord's reign
-- Maintains order in Iyum against ongoing cult threats
+- Charismatic revolutionary leader governing a city in crisis
+- Successfully overthrew the vampire lord Rudjek
+- Maintains order against cult threats, plague, and limited resources
+- Willing to make pragmatic alliances with powerful outlanders

@@ -1,8 +1,9 @@
 ---
-title: Al Askar - The Golden Tower pt.2
+title: Al Askar - The Golden Tower Cleansed
 chapter: 12
 chapterTitle: Al Askar
 session: 30
+summary: "The group destroys the ceiling horror, claims treasure and an Efreeti Bottle, sabotages three Ringed Veils, and rests — during which Vecna offers Feanon a vision of the Machina Factory, and Fawden shows Cirrus a secret path to her temple and proposes transferring her dying power to Selune. They clear Rudjek's trap-laden penthouse and strip the Golden Tower bare."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -15,7 +16,6 @@ people:
   - "tarkathee-daru"
   - "vecna"
 places:
-  - "feanons-tower"
   - "golden-tower"
   - "machina-factory"
   - "sharza"
@@ -24,112 +24,33 @@ places:
   - "underdark"
 things:
   - "efreeti-bottle"
-  - "ringed-veils"
   - "the-last-word"
 factions:
   - "saurians"
 ---
 
-It takes a few moments for the group to understand they are under attack.
+## The Ceiling Horror
 
-Cirrus manages to get free of the tentacles and falls
+[[Cirrus Al-Kayan|Cirrus]] wrenched free of the tentacles and fell, pulling off a diving escape on summoned wings. The group rallied against the creature embedded in the ceiling while [[Tarkathee Daru|Tark]] called the golems from below. Several members were snatched by tentacles, but concerted effort severed them all and the abomination died quickly.
 
-The warlock summons his wings and pulls off a pretty impressive dive.
+With the golems scooping up the rugs of smothering, the group examined the chamber. They discovered powerful spell scrolls, an Ioun Stone, and fourteen extremely valuable gems — including two diamonds. The crystal slab was indeed an [[Efreeti Bottle]] containing the Insufferable One, an Ifrit of considerable power. Negotiations began but the group decided to let the creature stew.
 
-The group rallies and assaults the creature embedded into the ceiling and Tark summons the two Golems from below.
+[[Feanon Serinde|Feanon]] and [[Gundren Rockseeker|Gundren]] spent hours studying the three [[Ringed Veils]] in the wall — small portals to other locations on the planet. They rigged two to no longer function and the third to kill anyone attempting to use it.
 
-Many of the group are scooped up by tentacles, but with concerted effort, each tentacle is either severed or rendered useless and the group makes short work of the abomination.
+## Two Dreams
 
-With the guardian of the chamber dead and the Golems scooping up as many of the rugs of Smothering as possible, the group cautiously examines the rest of the chamber.
+With Tark in the control chair and golems standing guard, Feanon summoned his mansion. During his Reverie, [[Vecna]] came again. The dark god asked if he had considered the offer. Feanon said the group could not trust Vecna's word. Vecna offered something tangible: a vision of the Saurian Factory sinking into swampland, its sloping stone sides clear enough for Feanon to teleport there. Vecna was pulling his troops from the stronghold. He just wanted the group gone. Feanon took the information and woke.
 
-They discover several very powerful spell scrolls, an Ioun Stone, 14 *very *valuable gems (including two diamonds) 
+Cirrus dreamed of walking along a beach beneath a rising moon — not this world's moon, but Selune. His moon, from [[Toril]]. Behind him, a moaning sound. A gargantuan eel-like creature filled the ocean, consuming another immense being that wailed in agony. The eel was Vecna. The creature being consumed was the goddess [[Fawden]].
 
-They also discover that the slab of crystal under the “chandelier” is an Efreeti bottle (they talk with *The Insuffurable One* held within) and that there are three small Ringed Veils embedded in the wall, leading to other parts of the planet.
+Cirrus flew toward the moon but saw it dip lower as more of Fawden was devoured. He descended to the goddess, and she communicated in a flash of images: the Temple of Fawden overrun by corruption, a purple singularity in the vaults, the Death Lord and his retinue waiting. Then a font of power — a plant-like growth dripping water into a cracked pool. A stream descending through stone into the [[Underdark]] of this world, feeding a subterranean pool. A secret way in.
 
-The Insufferable One is an Ifrit of no small power and the group starts negotiations with it, but ultimately decide to let it stew for a while.
+Fawden knew she was dying. She proposed one last act of chaos: during a ritual at the Font, with [[The Last Word]] above it, a portal would open and [[Selune]] would enter this world. Most of Fawden's power would flow to Selune through the ritual. A small piece of Fawden would survive as an aspect of the new Moon goddess. Cirrus accepted.
 
-Feanon and Gundren turn their attention to the Ringed Veils and begin to study them.
+That morning, Cirrus forced the group into a huddle under Feanon's nondetection spell and revealed everything. They could sneak into the Temple of Fawden through the Underdark, bypassing the Death Lord. The temple lay near the edge of the [[Thueba Swamp]] — close to [[Sharza]] and the [[Machina Factory]]. [[Aliyah Faen Tlabbar|Patches]] and [[Snorbul]] perked up at the thought of getting underground and out of the suns.
 
-Two of these smaller portals are inactive, and after a few hours of investigation and thorough research; they rig two to simply not work, but the third to kill anyone that tries to use it.
+## Rudjek's Chambers
 
-Feeling quite safe with Tark in the control chair and being watched over by Golems, Feanon summons his mansion and the group rests.
+They ascended to the final room — [[Rudjek]]'s penthouse. A meticulous search revealed mimics, Antipathy spells in the fireplace, a Clay Golem behind a door, and Patches nearly falling to her death from an illusionary balcony. The golems smashed a Bed of Smothering. The group was almost ensnared by an Antipathy/Sympathy spell in a beautiful planetarium before dispelling it.
 
-As they rest, Feanon is visited by Vecna once more.
-
-Feanon rises in the vision and moves to sit across the grand table from the dark figure of Vecna and they begin to talk.
-
-Vecna asks the wizard if he has thought about the offer, to which Feanon says that he has, but the group cannot trust his word.
-
-Vecna acknowledges this and offers something tangible.
-
-He shows the wizard a vision of their goal - the Saurian Factory sinking into the swamps, its sloping stone sides making for an impressive edifice - enough information for the Wizard to teleport to the location.
-
-Vecna then goes on to say that he is pulling his troops from the stronghold to allow the group easy access to the ringed Veil and the library of addresses.  He just wants the group *gone.*
-
-Feanon takes the information and the vision ends.  The Elf blinks his eyes open and begins to mull over everything he has learned. 
-
-
-Cirrus falls asleep with difficulty (as he always has trouble sleeping) and dreams.
-
-He finds himself walking along a thin spit of land, a sandy beach with the high tide of the ocean lapping across the dark sand.
-
-The horizon is lit by a rising moon, but not the moon of Gaia, but of Toril. Selune. HIS moon.
-
-He takes note of another sound permeating the area, a moaning, whale-like sound coming from behind him, further down the beach.
-
-Cirrus turns to look and for the first time, notices that something is in the water. Something gargantuan.
-
-The dark coils of it fill the ocean and its dark skin pulses and gleams under the moonlight.
-
-The massive Eel-like creature’s head can be seen just on the edge of the water, consuming another gargantuan creature, and it is this other beast that seems to be wailing in agony as it is being consumed.
-
-As he watches, the great eel’s jaws distend a bit more, and more of the creature is consumed.
-
-Cirrus realizes that the great Eel is Zalaam/Vecna, and the other creature is the goddess Fawden.
-
-Cirrus flies into the sky to strike at Vecna and bask in the radiance of the moon, but he notices that the moon dips a little lower as Fawden is consumed a bit more.
-
-He flies down to the goddess and the thing reaches out to communicate to him.
-
-In a flash of images, it shows Cirrus a path forwards.
-
-He sees the Temple of Fawden, overrun by corruption, a strange purple singularity floating in the vaults of the ceiling. Cirrus sees a flash of the Saurian Death Lord and his retinue. They are waiting for the group at that temple.
-
-He then sees a chamber, a font of power much like those seen at the other temples, with a large plant-like growth and water dripping from it into a pool.
-
-One side of the pool has cracked and water trickles from it.  Following the small stream, Cirrus sees a crack through the stone and follows it, descending into the Underdark of this world.  He sees a pool fed by this water and knows that the group could get to the font through there.
-
-Fawden communicates that she knows she is dying, Zalaam has killed her, though it has taken an age to culminate.  She does not wish him to win and consume her power so she will assist Cirrus in an alternative. One last great act of chaos and change.
-
-Cirrus sees himself over the Font, the Last Word Floating above it as a portal opens and light erupts in a solid beam from the water. Selune comes into this world just as Fawden surrenders to her fate and is torn apart.  Vecna would get some of her power, some of the other gods might snatch up pieces, but the majority would go to Selune due to the ritual in this font.  A small piece of Fawden would survive and live on as an aspect of the new Moon goddess.
-
-Cirrus accepts this deal and the vision ends.
-
-
- The group awakes in the morning and they go about their morning routine.
-
-Cirrus however, calls a meeting and forces Feanon to be close enough for the nondetection spell to cover him.
-
-Cirrus tells the group about his vision.
-
-He sells it as striking a fatal blow to Zalaam.
-
-He tells the group that they can sneak into the Temple of Fawden through this worlds Underdark and avoid the Death Lord.  
-
-Patches and Snorbul perk up at this and a chance to finally get out of these blistering suns.
-
-They also hear that theTemple is on the edge of the Thueba Swamp, the same part of the continent as Sharza and the Machina Factory.
-
-Cirrus mentions that he would need the Last Word to properly bring Selune to this world which gets Feanon thinking about Capacitors and the best way to be shielded when using the Word.
-
-They break “camp” and decide to head up to the last room of the Tower - Rudjek’s Chambers.
-
-Taking the daius, they arrive on the top floor and begin to meticulously scour the room for traps and subterfuge.
-
-They find several mimics, Antipathy spells in the fireplace, a strange Clay Golem behind one of the doors and Patches almost falls to her death from a balcony due to an illusion.
-
-They use the Golems they brought with them to smash the Bed of Smothering and are almost ensnared by a spell of Antipathy/Sympathy in a beautiful planetarium, but they dispel the magic, freeing themselves.
-
-With the room appropriately scoured for danger, they then begin to move about the place looking for treasure.  They find a number of  valuable art pieces, another spell scroll (demiplane), several gold statues of the late Rudjek and two biographies of the man.
-
-The Golden Tower has been cleansed of evil, as well as treasures.
+Once safe, they stripped the room: art pieces, a Demiplane scroll, gold statues of the late vampire, and two biographies. The [[Golden Tower]] had been cleansed of evil — and treasure.

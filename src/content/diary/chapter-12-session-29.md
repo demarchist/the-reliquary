@@ -3,6 +3,7 @@ title: Al Askar - The Golden Tower
 chapter: 12
 chapterTitle: Al Askar
 session: 29
+summary: "The group battles ward elementals across the palace bridge, JmJm dispels the tower's sealed door, lightning statues blast the entry hall, Buumi breaks the crystal throne's enchantments, Tark attunes as tower controller, they purge the plague from the aquifer, and Cirrus is snatched by a tentacled horror in Kumuzu Isa's trap-laden penthouse."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -14,108 +15,36 @@ people:
   - "tarkathee-daru"
 places:
   - "feanons-tower"
+  - "golden-tower"
+  - "iyum"
+things:
+  - "efreeti-bottle"
 factions:
   - "saurians"
 ---
 
-The group battles the elementals, two are banished and the Water elemental is still taking time to return from where it fell.
+## The Wards
 
-They kill the air elemental, each fragment exploding in a shockwave.
+The group decided to brute-force the [[Golden Tower|tower]]'s outer wards. Arcane energies lashed from crystals in the white marble facade, summoning four massive elementals. A pulse of wild magic reversed gravity beneath the earth elemental, flinging it skyward. The water elemental was hurled from the bridge, plummeting five hundred feet. With two temporarily removed, the group concentrated fire — but the wind elemental split into three smaller ones. The wards were more complex than expected.
 
-The water elemental returns and attempts to knock the group off the bridge with a geyser of water.
+They destroyed the air elementals in a series of shockwaves. [[Horatio Von Bumidere|Buumi]] enclosed the returning water elemental in a Resilient Sphere and dropped it from the bridge again. [[Aliyah Faen Tlabbar|Patches]] spotted a crystal on the tower charging for another summon and shot it. [[Feanon Serinde|Feanon]] identified three more, each preparing to call additional elementals. The group destroyed them all.
 
-Buumi encloses it in a Resilient Sphere and it drops away to the city below.
+[[Jack Mayer-Johnson Mathews|JmJm]] mounted his Nightmare steed and soared above the city, gaining a magnificent view of the ancient Saurian High Road stretching to the horizon. Below, the front door was sealed by powerful magic. JmJm returned and dispelled the wards with a flourish.
 
-Patches sees a crystal embedded in the Tower begin to glow and she shoots it with a magical bullet, destroying it.
+The door opened onto a copper-lined tunnel flanked by bronze statues. JmJm walked straight in. Every statue blasted him with lightning. The entire group caught the discharge. Buumi rushed around healing. JmJm smashed the inner doors with a Bigsby's Hand, deactivating the statues.
 
-Feanon notes that there are likely 3 more crystals each preparing to summon more elementals.
+## The Crystal Throne
 
-The group goes around destroying them.
+Beyond lay a throne room. A golden dais held a crystal throne — the tower's control seat. Two alcoves contained dormant golems. [[Cirrus Al-Kayan|Cirrus]] sat in the throne and was attacked by its security enchantments. He failed the mental challenge and was hurled ten feet, bleeding from his eyes and ears. The golems stirred. One more attempt before the tower attacked in force.
 
-JmJm summons his Nightmare mount and takes to the sky and gets an amazing view of the city and the ancient Saurian High Road, stretching to the horizon.
+Buumi sat on the throne, praying to Helm as his companions infused him with protective magic. He broke the security spells. [[Tarkathee Daru|Tark]] attuned over the next hour, learning the tower's architecture: a dangerous basement, guest rooms designed by [[Rudjek]] as torture chambers, two penthouse suites obscured by separate enchantments, and hidden elevator shafts. He commanded the death-trap guest rooms deleted and the golems to obey his voice.
 
-Down below, the group investigates the front door, finding it sealed.
+## The Plague Below
 
-Feanon investigates it and determines that it is locked by powerful magics. 
+In the basement — a mix of natural rock and masonry through which an aquifer flowed — they found hundreds of cages. Each contained wailing masses of corrupt flesh, oozing disease into the water supply. This was the source of [[Iyum]]'s plague. Cirrus burned it all away with sickening radiance. Tark deleted the room behind them as they ascended.
 
-JmJm returns and with a flourish of power, dispels the wards from the door.
+## Kumuzu Isa's Chamber
 
-It swings open revealing a copper-lined tunnel with bronze statues lining the walls and a large one in an alcove above the inner door, twenty feet away.
+The first penthouse was lush with drapes and carpets on every surface. A dais of clear marble held a slab of dark crystal at its centre, and three rings of metal were set into the far wall — small Ringed Veils, one with an active portal. Ornate drapes arched up to a chandelier. Puddles of wax dotted the floor.
 
-JmJm simply walks inside and the statues all thrust out a hand and blast him with lightning.
-
-The group is all in the line of fire and they dive aside, getting singed and burned, but no one getting annihilated.
-
-Buumi rushes around healing his allies.
-
-JmJm moves into the copper hallway and uses a Bigsby’s Hand to smash open the far doors, 
-
-This deactivates the statues that were recharging.
-
-The group enters a throne room with a golden daius atop which a crystal throne sits.
-
-They investigate the plane room, finding two alcoves with Golems.
-
-They investigate the throne and determine it to be the control chair of the tower.
-
-Cirrus sits in it and is attacked by the security spells of the tower, he fails the mental challenge and is immediately thrown off it.
-
-He lands ten feet away, bleeding from his eyes and ears.
-
-The golems come to live and look menacing.
-
-They determine that they get one more try to dominate the tower before it attacks in force.
-
-Buumi goes to sit on it, muttering prayers to Helm while his group infuses him with magics.
-
-He sits, and breaks the security spells of the tower, leaving it open to be claimed.
-
-The group debates for some time who should attune to the tower and they end up agreeing, more or less, that it should be Tark for now.
-
-The monk reluctantly agrees, sits, and begins to attune to the tower.
-
-An hour later he finishes his attunement and learns much about the inner workings of the tower.
-
-There is a basement, filled with danger.  He sees some history of the room, the place filled with cages as the villain **Kumuzu Isa** conducts dark rituals down there.
-
-Tark commands the basement room to delete itself, but it cannot as there are creatures down there.
-
-Guest rooms fill the midsection, filled with traps and danger, all designed for Rudjek to torture and kill any he wished.  Tark wills these rooms to delete themselves.
-
-There are two penthouse suites, both are obscured by magics separate from the Tower, each hold danger.
-
-Tark commands the Golems in the alcoves to move and then the illusion around the elevator shafts disappears from the alcoves.
-
-The dais moves (Tark in the chair, commanding it) into the alcove, fitting perfectly, and then he descends to the basement.
-
-In the basement, the place is a strange mix of natural rock and masonry, water flows through the place, possibly an aquifer.
-
-Surrounding the chamber are hundreds of cages, each containing wailing masses of corrupt flesh
-
-They are oozing plague into the aquifer which in turn is spreading plague in the city below.
-
-Cirrus burns it all away with sickening radiance.
-
-The group then heads up, with Tark commanding the room to delete itself.
-
-Ascending the elevator shaft, they arrive at the first penthouse
-
-The place is lush with drapes and carpets on every surface, save for a dais of clear marble
-
-At the center of the dais is a slab of dark crystal and three circles of metal can be seen set into the far wall, one of which has an active portal within it.
-
-Above the slab of crystal are ornat drapes, attached to the wall and arcing gracefully up to a chandelier centered over the crystal.
-
-Puddles of wax can be seen.
-
-The group carefully moves into the room but are attacked by the rugs
-
-They determine every rug in here is an animate object that will attack them
-
-They fly and jump and avoid the rugs to move to the slab of crystal, Feanon and Cirrus moving in to check it out.
-
-Something moves within the crystal and Feanon thinks that this could be an Efreeti “bottle”
-
-Just then, Cirrus is lifted into the air by one of the nearby drapes and carried through the illusionary ceiling.
-
-He is in the grasp of a long tentacle and being carried up to a dripping maw on the ceiling to be consumed…
+Every carpet in the room was an animate trap. The group flew and leapt to reach the crystal slab, which Feanon identified as an Efreeti bottle. Then a drape wrapped around Cirrus and hauled him through the illusionary ceiling — a long tentacle carrying him toward a dripping maw embedded above. Something vast and hungry lurked in [[Kumuzu Isa]]'s architecture.

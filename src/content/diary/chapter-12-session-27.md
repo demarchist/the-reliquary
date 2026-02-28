@@ -3,9 +3,9 @@ title: Al Askar - Slaying the Speaker
 chapter: 12
 chapterTitle: Al Askar
 session: 27
+summary: "The party defeats the mind-controlled mob without massacring the civilians — Gundren floods the street, Jareem transforms to cleanse minds with psionics, and Buumi smashes Sebek's skull on a rooftop. The group then negotiates a sweeping alliance with Sultan Bashir, exchanges services for the Hammer of Niraz, and Feanon begins cracking the wards of the Golden Tower."
 people:
   - "aliyah-faen-tlabbar"
-  - "cirrus-al-kayan"
   - "djoser"
   - "doc"
   - "feanon-serinde"
@@ -14,6 +14,7 @@ people:
   - "jack-mayer-johnson-mathews"
   - "jareem"
   - "rudjek"
+  - "sebek"
   - "selune"
   - "sultan-bashir"
   - "tarkathee-daru"
@@ -21,187 +22,44 @@ people:
   - "vecna"
 places:
   - "feanons-tower"
+  - "golden-tower"
   - "iyum"
+  - "thunder-bluff"
 things:
-  - "saurian-firelance"
+  - "hammer-of-niraz"
   - "titanic-forge"
 factions:
   - "usurpers-of-rudjek"
 ---
 
-Surrounded by a hoard of peasants and facing a powerful servant of Vecna, the group is in a tough situation.
+## Breaking the Mob
 
-They do not wish to harm the mind controlled peasants, but this mob could kill them if they are not careful.
+The mob rushed the cantina. Those inside barricaded doors and windows as [[Gundren Rockseeker|Gundren]] hurled a small bead into the street — a Dust of Dryness pellet. Twenty thousand gallons of water detonated across the road. The deluge threw the crowd back, the narrow street funnelling the torrent, and the area cleared. Most of the drenched civilians regained their feet in bedraggled confusion, but several did not stir.
 
-The mob rushes toward the Cantina and those inside do their best to barricade the windows and doors
+On the rooftops, [[Tarkathee Daru|Tark]] extricated himself from the assassin's blade and shadow-stepped to nearby trees. [[Feanon Serinde|Feanon]] tried to disintegrate [[Sebek]], but the Speaker dived aside and a hapless cultist took the blast, burning to dust. [[Jack Mayer-Johnson Mathews|JmJm]] summoned a Magical Hand that seized Sebek and hauled him sixty feet into the air. [[Thorna]] struck him with lightning. Gundren shot him repeatedly. [[Horatio Von Bumidere|Buumi]] flew up and delivered a devastating smite.
 
-As the mob surges forward, Gundren hurls out a small bead
+Sebek Dispelled the Hand and plummeted into the crowd, landing on and likely killing someone who tried to catch him. [[Aliyah Faen Tlabbar|Patches]] blanketed the area with a tar bomb, and Tark found the struggling, invisible Speaker trapped in the tar. A flurry of spear strikes dropped Sebek unconscious.
 
-Created from Dust of Dryness, the bead sails through the air and lands in the street, disgorging over twenty thousand gallons of water.
+Meanwhile, hypnotic patterns and mass suggestions dispersed huge sections of the mob. Then [[Jareem]] transformed into his true draconic form and unleashed a wave of psionic energy, cleansing the minds of hundreds of civilians. Buumi turned to [[Djoser]] and shouted: *"See! A Dragon!"* Djoser let out a whoop of excitement. The sight of a massive Ruby Dragon in the street sent the remaining mob fleeing.
 
-the deluge throws the crowd back as the water is constrained by the relatively close street and an area 40ft across is cleared
+On the rooftop, Sebek's wounds began to regenerate. Buumi landed beside him and brought his hammer down. With a flash of divine light, the Speaker's head was crushed and the roof smashed from the impact.
 
-As the water subsides, several in the crowd that were carried away down the street do not stir...but most do, regaining their feet after a few moments of bedraggled confusion.
+The energies controlling the mob dissipated. Even the assassins fled with the civilians. Jareem reverted to his genasi form before the Wardens arrived. Ime took Djoser's report, arrested the more fervent cultists, and dismissed the group.
 
-Above, on the rooftops, Tark is stabbed badly and extricates himself, shadowstepping to the tops of some nearby scraggly looking trees for a breather.
+## The Sultan's Bargain
 
-Feanon throws out a hand to disintegrate the Speaker, but the man dives to the ground, a hapless cultist taking the hit and burning to dust.
+The group resolved to deal with [[Vecna]] as quickly as possible — the Corruption spreading through [[Iyum]] could not be cured piecemeal. They needed [[Sultan Bashir]]. Djoser led them to a bathhouse, where they scrubbed off weeks of volcanic grime, then through the Noble District to the palace itself — built into a pillar of rock dominating the city centre, its marble domes gleaming in the moonlight.
 
-Tark moves, the Arcane Hand that JmJm summoned grabs the Speaker and hauls the man 60ft into the sky 
+They passed the great black stone pyramid that had been [[Rudjek]]'s personal hunting ground and dungeon. Djoser mentioned that two expeditions sent to cleanse it had never returned. Several members of the group eyed it with interested calculation.
 
-The speaker is being crushed in the Arcane Hand when Thorna hits him with a powerful blast of lightning, Gundren shoots the man repeatedly and Buumi flies up to deliver a powerful smite to the man.
+A graceful arching bridge connected the main palace to a smaller pillar of stone crowned with towers — the [[Golden Tower|Magi Tower]], where Rudjek and his Grand Vizier had created their dark magic. [[Feanon Serinde|Feanon]]'s eyes locked on it. He had to plunder it.
 
-Tark looks over to where the Speaker *had *been and spots one of the assassins taking aim with a Firelance and Tark is hit by the shot.
+Inside the palace, Djoser introduced them to Sultan Bashir. The leader of the [[Usurpers of Rudjek]] had been governing for a year. It was going acceptably, but they were beset by plague, underfunded, under-equipped, and unable to access the Magi Tower — its wards summoned elementals that had stymied two breaching attempts.
 
-For rare weapons, Tark sure is getting shot a lot by them...
+After hours of discussion and tea, the group struck a sweeping agreement. The Barony of Thunder Bluff would supply food, medicine, and equipment for the Wardens. [[Doctor Breakfast|Doc]] would cast a spell doubling farm production in a mile radius. The Barony would help breach the Magi Tower's wards and cleanse the Dark Spire. In exchange: access to the spelljammer wreck, machina technology, first choice of treasure from the Magi Tower, residence in the tower or a nearby manor, palace suites, the Hammer of Niraz immediately, and the Dark Spire — once cleansed, gutted by dwarven engineers, and transformed from obsidian to moonstone by Fabricate ritual — would become a temple to [[Selune]] at the heart of the city.
 
-Crushed, shot and bleeding dark blood, the Speaker realizes he's in a terrible spot and Dispels the Arcane Hand, plummeting to the ground.
+Djoser handed Buumi the hammer. Buumi handed it to Gundren, who inspected it and declared it unfinished — they could complete it at the [[Titanic Forge]], but would need more titanium.
 
-The crowd gathers below to try and "catch" him as the speaker plummets, landing on and likely killing a person.
+Feanon walked out onto the bridge with Bashir. Three-quarters of the way across, the Sultan asked him to test the wards. Feanon began to work and determined the wards were indeed powerful.
 
-An assassin moves out of the crowd and stabs JmJm, forcing Cirrus to turn and heal his friend.
-
-Unwilling to stay within easy range of being knifed, JmJm mounts his Nightmare Steed and takes off into the sky.
-
-The Speaker lands, untangles himself from the crowd and then goes invisible, only for Patches to hit the whole area with a Tarbomb moments later.
-
-Tark leaps back into the fray, looking for a spot of struggling tar with an invisible person restrained in it.
-
-He spots him and leaps over, hitting the man with a flurry of Spear strikes and the Speaker falls unconscious
-
-Meanwhile, the mob is being effectively dismantled by the rest of the group.
-
-Hypnotic patterns and Mass suggestions manage to disperse a huge chunk of the mob
-
-Jareem transforms into his true Draconic form and unleashes a wave of Psionic Energies, cleansing the minds of many of the civilians.
-
-Buumi turns and shouts at Djoser, saying "See! A Dragon!" and Djoser lets out a whoop of excitement.
-
-The sight of a massive Dragon then causes another chunk of the mob to turn and flee.
-
-Atop the roofs, the Speaker begins to stir and Tark looks down to see the mans wounds regenerating.
-
-A moment later, Buumi lands on the roof, smashing down with his hammer and with a flash of light, the Speakers head is crushed and the roof is smashed from the impact.
-
-The Speaker dies in a splatter of gore.
-
-And a great deal of the energies around the mob begin to dissipate.
-
-Over the next few minutes, with the speaker dead and a massive dragon in the street, the Mob flees the scene.
-
-Even the assassins in the crowd are not stupid enough to stay and they flee with the civilians lest they are left in the streets without cover.
-
-Jareem reverts to his human form before the Wardens can arrive.
-
-The group turns to tend to the wounded.
-
-
-The Wardens arrive a few minutes later and begin to arrest the more fervent cultists and disperse those whose sickness overwhelmed their minds.
-
-The group wants to help cleanse the Blighted corruption but the spell is powerful and difficult to cure and there's no way they can help everyone.  
-
-They resolve to help by dealing with Vecna as quickly as they can.
-
-Ime talks to Djoser about the riot, and happy with the report, dismisses the group and her friend.
-
-The group decides that their best course of action is to visit the palace and get an introduction to Sultan Bashir.
-
-Once there, they can cast the Instant Summons on the Hamer of Nuraz and get the blessing from the Sultan too (Djoser assures the group).
-
-They head out from the slums of the city and head inward to the noble district.
-
-As they are traveling, they realize how dirty they all are and they ask Djoser if he knows of a place they can get cleaned up.
-
-Bathhouses are on of the main luxuries of the city and it takes Djoser only a few minutes to take the group to one he frequents.
-
-The group head inside the ancient stone building and are separated by gender into steam rooms, cold baths, hot baths etc.
-
-The place is extensive and exquisite and after a good relaxing hour the group finds themselves cleaned and refreshed.
-
-They head out from the Bath House and finish the short trek across the city to the Palace itself.
-
-They pass by the great black stone pyramid that dominates the center of the city, its steep sides making it look like a giant iron splinter.
-
-Djoser mentions that the place was once the dungeon and personal hunting ground of the Vampire Lord Rudjek.
-
-Since his death, they have sent in two expeditions to cleanse it.  Neither have ever returned.
-
-The group casts an eye over the grand pyramid, their interest piqued and some of them beginning to formulate a plan…
-
-Built into a pillar of rock that dominates the center of the city, the palaces many marble domes gleam in the moonlight.
-
-Wide stairs lead from the city proper, up to the palace and the group begins the trek upwards.
-
-From the main body of the grand palace, a graceful arching bridge connects to a smaller pillar of stone, atop which sits another smaller palace, but with far more towers.
-
-Feanon points it out, and Djoser confirms it as the Magi Tower, where the Grand Vizier and Rudjek created their dark magic and items of power!
-
-Feanons eyes go wide and lock on to the tower in excitement.  He has to plunder it.
-
-As they ascend the grand stair and are met with the palace gates, the group heads inside without issue, the guards recognizing Djoser and waving them inside, despite the eccentric looking outlanders.
-
-As the group gets a better look over the city guard and those running the place, it is apparent that a regime change was recent.
-
-The newcomers are rough around the edges and clearly a hodgepodge of society.
-
-Many of the nobles the group passes also seem to be turning their noses up at those around them, but dealing with it nonetheless.
-
-Rather than going through the main halls, Djoser takes a side route, chatting with some guards on the way and being directed toward the location of the Sultan.
-
-The group finds him in a beautiful office dominating a floor of a small tower.
-
-The tower is directly across the bridge leading to the Magi Tower.
-
-Djoser makes the introductions and the group meets Sultan Bashir.
-
-The leader of the Usurpers of Rudjek, Bashir has been running the city for the last year.
-
-Its going ok, but they are in a dire spot with the outbreak of plague.
-
-Bashirs men are also underfunded and equipped.
-
-On top of this, the dark Spire of Rudjeks hunting ground is a steady reminder to the city that the new government is not entirely in control and Bashir does not have access to the Magi Tower.
-
-The group asks why not and he says that the place has several wards.
-
-They got through one layer, and are now stumped by another that summons elementals.
-
-The group takes their time, discussing things with Bashir, and drinking tea brought by servants.
-
-After talking late into the evening, they had come to several agreements with Bashir and the city of Iyum.
-
-The Barony will help supply the city with food, medicine and equipment for the Wardens.
-
-Doc will cast a spell before he leaves on the local farms that will double production in a 1 mile radius.
-
-The Barony will also assist in breaking down the wards of the Magi Tower
-
-The Barony will cleanse the Dark Spire 
-
-In exchange, the group will get:
-
-Access to the Spelljammer wreck and expedition and access to Machina technology
-
-First choice of treasure from the Magi Tower/residence in the Magi Tower or residence in a nearby manor
-
-Suites at the palace for the group.
-
- The Dark Spire as a temple to Selune, cleansed and changed, but it would become the heart of the city.
-
-Cleansed by the Hallow spell, gutted by Dwarven engineers, Fabricate Ritual casting to change the Obsidian to Moonstone.
-
-Access to the Hammer of Nuraz, immediately. 
-
-Djoser hands Buumi the hammer.
-
-Buumi then hands it to Gundren who looks it over.  It could use some work, it seems to be unfinished.
-
-The group thinks that they could finish the hammer at the Titan Forge but would need more Titanium.
-
-Fanon moves out onto the bridge with Bashir and they move across it.
-
-They stop about ¾ of the way and Bashir asks Feanon to test the Wards.
-
-Feanon begins to work and determines that the Wards are indeed powerful
-
-Feanon is better though…
+Feanon was better.
