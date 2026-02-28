@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
+import { categoryColors } from '../../utils/category-colors';
 
 export async function getStaticPaths() {
   const entries = await getCollection('diary');
@@ -30,14 +31,6 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const allWiki = await getCollection('wiki');
 const wikiBySlug = new Map(allWiki.map(w => [w.id, w]));
 
-const categoryColors: Record<string, string> = {
-  People: 'bg-amber-100 text-amber-800',
-  Places: 'bg-emerald-100 text-emerald-800',
-  Things: 'bg-sky-100 text-sky-800',
-  Factions: 'bg-violet-100 text-violet-800',
-  Events: 'bg-rose-100 text-rose-800',
-};
-
 // Build entity sidebar sections
 const entitySections = [
   { label: 'People', key: 'people' as const, slugs: entry.data.people || [] },
@@ -51,7 +44,7 @@ const hasEntities = entitySections.length > 0;
 const hasOutline = h2Headings.length > 0;
 ---
 
-<BaseLayout title={entry.data.title} wide={hasEntities} extraWide={hasOutline && hasEntities}>
+<BaseLayout title={entry.data.title} extraWide={hasOutline && hasEntities}>
   <article>
     <div class="mb-6">
       <a href={`${base}/diary/`} class="text-sm text-ink-400 hover:text-accent-600 no-underline">&larr; Back to Diary</a>
@@ -146,14 +139,6 @@ const hasOutline = h2Headings.length > 0;
   </article>
 
   {hasOutline && (
-    <style>
-      html { scroll-behavior: smooth; }
-      .outline-link.active {
-        color: var(--color-accent-700, #b45309);
-        font-weight: 600;
-        border-left-color: var(--color-accent-700, #b45309);
-      }
-    </style>
     <script>
       const links = document.querySelectorAll<HTMLAnchorElement>('.outline-link');
       if (links.length > 0) {
