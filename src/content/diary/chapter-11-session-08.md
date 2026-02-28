@@ -3,6 +3,7 @@ title: Shadows of the Empire - Thunderdome
 chapter: 11
 chapterTitle: Shadows of the Empire
 session: 8
+summary: "The party teleports a Delzoun Instant Fortress into the cult's fortified Veil chamber, battles regenerating cultists and waves of Alghouls, traps the cult leadership in a dome of force, and fights their way to the main Ringed Veil to escape to Al Askar."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -11,6 +12,7 @@ people:
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"
+  - "raveel"
   - "snorbul"
   - "tarkathee-daru"
 places:
@@ -20,86 +22,65 @@ places:
 things:
   - "arkto"
   - "delzoun-instant-fortress"
+  - "piwafwi"
+  - "saurian-firelance"
 factions:
+  - "cult-of-zalaam"
   - "saurians"
 ---
 
-The group thinks up a strategy.  
+## The Fortress Gambit
 
-They want to assault and kill this dark cult.
+The party measured the teleportation rings and arrived at a conclusion both audacious and deeply characteristic: the [[Delzoun Instant Fortress]] would fit.
 
-They measure the teleportation rings and figure out that, their Delzoun Instant Fortress will fit.
+[[Gundren Rockseeker|Gundren]] set the adamantite model on the platform and spoke the command word. The tower exploded upward to its full twenty-foot height, each wall ten feet across, a miniature castle of indestructible metal. The ranged fighters climbed inside along with [[Hazzim]] and [[Raveel]], while the melee — [[Horatio Von Bumidere|Buumi]], [[Tarkathee Daru|Tark]], [[Snorbul]], and [[Aliyah Faen Tlabbar|Patches]] — pressed themselves against the tower's rear exterior, ready to rush into battle the moment they arrived.
 
-They throw down the Adamantite tower and Gundren speaks the password and the model tower rapidly expands to its 20ft height (each wall be ten feet across).
+They activated the teleporter.
 
-All of the ranged get in the tower, along with the NPC’s Hazzim and Raveel while the melee characters press themselves to the rear exterior of the tower, able to rush into combat from behind it and secure the teleportation controls.
+In the Veil chamber beyond, the [[Cult of Zalaam]] had prepared for an assault. They had not prepared for twenty feet of adamantite materializing in a flash of arcane light.
 
-They activate the teleporter and the tower and its occupants are transported in a flash of magical energies.
+## Wall of Fire and Force
 
-In the other chamber, the Cultists, though ready for an attack - are momentarily stunned by the appearance of a massive Adamantite tower.
+The stunned silence lasted barely a heartbeat before the cultists opened fire. [[Saurian Firelance|Saurian firelances]] hammered the fortress in a barrage of searing blasts, but the adamantite held. From the tower's arrow slits, [[Feanon Serinde|Feanon]] and Gundren returned fire, ripping one cultist apart — only to watch the torn body knit itself together and rise again. These corrupted servants of Zalaam could only be killed by fire.
 
-All hell breaks loose as the fortified cultists open fire with a barrage of Saurian Firelances, striking the magical tower with great blasts.
+The melee fighters surged around the tower's flanks, cutting through the nearest cultists. Each fell, and each began to regenerate, forcing Feanon to follow behind with firebolts to finish what steel had started.
 
-The group returns fire, ripping one cultist apart, though it quickly regenerates and regains its footing - these things must be killed with fire!
+Then [[Cirrus Al-Kayan|Cirrus]] spotted his opening. The cult's leadership — including a figure wielding a blade of living shadow — had clustered together behind their fortifications. Cirrus raised his hand and sealed them inside a dome of force, splitting the enemy in two.
 
-Buumi, Tark, Snorbul and Patches all rush around the tower exterior, slaying cultists in their path, but they dont stay down long, regenerating until Feanon can burn them with a firebolt.
+Separated from their commanders but not from their magic, the trapped cultists lashed out through the barrier with dark spells. Feanon answered with a gravity well that smashed every cultist inside to the ground, crushing them under relentless magical pressure even as their regeneration fought to keep them alive. Only the shadow-blade leader remained on her feet, straining against the pull.
 
-Cirrus spots a juicy target and traps the majority of the Cultists, including the leadership (with a shadowy blade!) inside a Dome of Force, effectively splitting the enemy force.
+## The Whistle
 
-Though separated, the Cultists inside the dome can still strike out with magical attacks, forcing Feanon to unleash a powerful gravity spell to restrain and damage all those inside, forcing continual concentration checks.
+The cult leader saw the battle turning. She reached for a whistle around her neck and blew.
 
-All save the cult leader are smashed to the ground, gravity slowly crushing the life from them even as their regeneration fights to heal them.
+A hypersonic shriek tore through the dome of force, through the porous stone of the chamber walls, and out into the deep tunnels beyond. From the darkness came answering shrieks — dozens of Alghouls, roused and rushing toward the call.
 
-The shadow-blade wielding leader sees that she cannot win this fight, pulls a whistle from around her neck and blows it.
+Inside the fortress, Raveel and Hazzim both went white with terror. They screamed that the party had to flee through the Veil and shut it behind them, or the horde would overwhelm them all.
 
-A Hypersonic shriek reverberates out, passing through the magical dome and the cracked and porous rock of the chamber.
+The first Alghouls were already pulling themselves through cracks in the cavern walls, acid-slick and ravenous. The melee fighters pivoted to meet the new threat, and every wound they dealt sprayed burning blood across their skin. This was not a battle that numbers and courage could win.
 
-Off in the distance, the sounds of dozens of Alghouls can be heard as they screech in reply, rushing to the call.
+## Into the Dome
 
-Behind the dome of force, the Ringed Veil platform stands idle.
+The party looked across the battlefield and made their calculation. The thinking enemies — the cult's leadership — were trapped behind force and gravity. The mindless horde was the true danger. Cut the head, and run.
 
-With the blowing of the whistle, Raveel and Hazzim both begin to panic, telling those in the Delzoun Fortress that they have to flee through the Veil and shut it behind them, otherwise they will all be overwhelmed and die.
+Tark shadowstepped through the dome of force. Buumi and Snorbul thunderstepped after him. Inside, they fell upon the crushed and restrained cultists with brutal efficiency, hacking apart bodies that could not rise under the gravity well's relentless pull. The shadow-blade leader fought Tark one-on-one, her dark weapon singing through the air — but he disarmed her and Snorbul finished the work.
 
-Indeed, even as they say this, the first few Alghouls and their spawn pull themselves from the cracks in the wall and rush into combat.
+Outside, Alghouls swarmed the dome, clawing uselessly at the magical barrier, unable to reach the prey within.
 
-As the melee force pivots to the new threat, they are splashed and burned with their enemies acidic blood and realize that this is not a battle they can win with conventional tactics.
+## Flight Through the Veil
 
-Looking around the battlefield, the group sees precious few thinking enemies, and those that are leading this cult are trapped within a dome of force - separated from any help.
+In the Delzoun Fortress, the casters extricated themselves from a restraining spell and abandoned the tower. Feanon summoned [[Arkto]], the winged owlbear, and they took to the air — Gundren's cannon blazing down at the cultists below while Feanon deep-slumbered Hazzim and dragged Raveel out in chains. Cirrus woke Hazzim just long enough to drop him into a demiplane for safekeeping, unbeknownst to the others.
 
-The Melee thunderstep, burrow and shadowstep into the Dome of Force and smash into the cultist leadership inside still being crushed by the Gravity well.
+Arkto soared across the chamber, firelance blasts streaking past, and hovered over the Ringed Veil's dialling device. Feanon worked the controls with his Mage Hand while Gundren ringed the dome of force with a wall of fire, incinerating the Alghouls pressed against it and driving the rest back across the cavern.
 
-As the leaders are hacked apart, the only one unrestrained brandishes her shadowblade, battling Tark to no avail and even being disarmed at one point.
+Patches hid beneath the dial itself, pressing flat against the stone and praying to [[Eilistraee]] that her piwafwi would keep her invisible.
 
-Alghouls continue to pour into the cavern, rushing toward the only targets they can really see - those fighting in the dome, though they cannot get to them.
+Inside the burning dome, Buumi and Snorbul finished the last of the restrained cultists and burned the remains. Tark pried the whistle from the dead leader's grip, shadowstepped as far outside the dome as he could manage, and blew.
 
-The unintelligent monsters rake and claw at the dome, unable to get inside.
+The horde shrieked in answer and abandoned their futile assault on the flying party, surging across the chamber toward the lone figure with the whistle.
 
-In the Delzoun fortress, the casters extricate themselves from a restraining spell and leave the tower, getting on the summoned Winged Owlbear Arkto and flying into the air, staying out of reach of the horde of monsters.
+Feanon finished dialling. The Ringed Veil blazed to life. Arkto dove through with Tenser's disk trailing behind, carrying the remaining companions. Snorbul and Buumi thunderstepped out of the dome — the shockwave splattering the remains within — and Snorbul barrelled through the portal.
 
-Before they leave though, Feanon deep slumbers Hazzim and then drags out Raveel in chains.
+Buumi waited at the threshold. Tark shadowstepped to his friend's side, the horde's claws raking the air behind him, and together they stepped through the Veil and out of [[Faerun]] entirely.
 
-Cirrus then wakes Hazzim, but before the man can react, is dropped into a Demi-plane (everyone else not knowing this).
-
-Arkto flies across the large chamber, taking fire from the only surviving cult members wielding staff weapons and then hovers over the dialing device, Feanon working to dial it with his Mage-Hand and provide an escape.
-
-As they hover, Gundren returns fire with his Cannon and even rings the Dome of Force with a wall of fire, burning and killing many in the horde.
-
-Eventually, even the monsters are driven back by the wall of fire and rush across the cavern to slaver and rave beneath the flying group, unable to reach them.
-
-Patches hides underneath the dial, pressing herself against it and praying to Elistraee that her Piwawfi will hide her…
-
-Inside the burning Dome of Force, Buumi and Snorbul hack apart the restrained foes and then burn them before they can regenerate while Tark duels the Cult Leader.
-
-The lone surviving cult leader is then cornered against the dome and hacked apart by Snorbul as the three of them surround her.
-
-Seeing the horde of monsters outside waiting to attack, Tark takes the whistle from the now dead cult leader and shadowsteps outside the dome of force as far as he can and blows the whistle.
-
-The horde shrieks and they rush across the chamber to Tark, ignoring the flying group that was frustrating them.
-
-Feanon finishes dialing and the Ringed Veil shimmers to life in a blaze of arcane power and Arkto dives through, Tensers disk trailing behind carrying the extra characters.
-
-Snorbul and Buumi Thunderstep from the dome, the shockwave splattering and ripping apart the remains left behind in the Wall of Force.
-
-Snorbul rushes through the portal, leaving Buumi to wait for Tark.
-
-Tark shadowsteps beside his friend and they depart Faerun together, heading to the dark world of Al Askar.
+The light of [[Al-Askar|Al Askar]] swallowed them whole.

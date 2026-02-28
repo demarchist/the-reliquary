@@ -1,110 +1,74 @@
 ---
-title: Shadows of the Empire - A Helpful Guide
+title: Shadows of the Empire - The Mural of the Word
 chapter: 11
 chapterTitle: Shadows of the Empire
 session: 7
+summary: "The party captures the cultist Raveel who leads them to an ancient mural depicting a Last Word fragment, reveals it lies in the dead city of Sharza, and guides them through Saurian machina defenses to the main Ringed Veil — where the cult waits in ambush."
 people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "hazzim"
   - "horatio-von-bumidere"
+  - "raveel"
 places:
+  - "al-askar"
   - "neverwinter"
   - "sharza"
-  - "snorbuls-hole"
 things:
+  - "saurian-firelance"
   - "the-last-word"
 factions:
+  - "cult-of-zalaam"
   - "saurians"
 ---
 
-The group moves in to investigate the well-made tunnels, draggin **Hazzim **with them.
+## The Cultist Who Surrendered
 
-They do not catch up with the fleeing cultist and decide instead, to move in slowly and carefully.
+The party pressed into the well-crafted tunnels, dragging [[Hazzim]] along, but the fleeing cultist had too great a lead. Rather than chase blindly into potential ambush, they chose a cautious advance.
 
-They check a trapped and locked door at the end of the hallway the Cultist fled down and Feanon uses Passwall to simply make the stone door disappear.
+At the corridor's end stood a trapped and locked door — the passage the cultist had fled down. [[Feanon Serinde|Feanon]] dispensed with subtlety entirely, casting Passwall to simply dissolve the stone barrier.
 
-Inside is a smoking and reclining Cultist who sits up in bed alarmed.
+Inside, a young man sat up in bed, alarmed, a pipe still smoking in his hand. He made no threatening moves. In fact, he surrendered with a speed that bordered on relief.
 
-He does not make any threatening moves and in fact surrenders quite quickly.
+The captive was sickly, his veins pulsing with visible dark corruption beneath pallid skin. He gave his name as [[Raveel]], and when the party called Hazzim forward, the two men recognized each other at once — they were friends.
 
-The young man looks sickly and his veins pulse with dark corruption.
+Under interrogation, the story emerged. Raveel had come to the mines first, drawn by the promise of steady food and shelter in a world where both were scarce. Finding conditions tolerable, he had sent word for others to join him. The first days had been acceptable enough. Then the true nature of the [[Cult of Zalaam]] revealed itself — the corruption, the rituals, the ghouls. By then, leaving seemed more dangerous than staying. Still, Raveel insisted he held no loyalty to the cult's dark purpose, and his friend Hazzim vouched for his character.
 
-The group interrogates the man, known as **Raveel** and then call over to Hazzim to see if they know one another.
+The party remained suspicious but pragmatic. They bound Raveel, confiscated his tablets of communication — the cult's method of coordinating between cells — and accepted his offer to guide them exactly where they needed to go: the Mural of the Word.
 
-It turns out they do and are in fact friends.
+## The Fragment's Resting Place
 
-After some more interrogation, the group decides to trust the story of these cultists - that **Raveel** came first, found steady food and shelter and then sent for his friends to join him.
+Raveel led them deeper. They passed a grand set of sealed doors, and when Feanon asked what lay beyond, the young man said only that monsters dwelt inside. A cautious pry of the door revealed rows of tanks within. The party chose discretion and moved on.
 
-After the first few days, things went downhill as the true nature of the cult was revealed. 
+The complex opened into a massive ornate chamber, and there on the far wall spread the mural they had sought.
 
-They still think it was better than surviving on their own, but they also have no loyalty to the Cult and renounce the evil.
+It was beautiful and terrible in equal measure — a sweeping depiction of the [[Saurians|Saurian]] empire at its apex, their armies conquering and expanding across the planes, mechanical legions marching through Ringed Veils into world after world. At the mural's heart blazed an icon of light and power, a single relic fuelling their incredible mechanized civilization. The similarities to the ancient mural the party had discovered long ago beneath [[Neverwinter]] were unmistakable: this was a fragment of [[The Last Word]].
 
-Everyone remains suspicious and the group apprehend him, taking his tablets of communication that go higher up in the cult.
+They turned to Raveel and asked where the fragment would be now, bracing for the usual answer — lost to time, buried beyond reach. Instead, the young man told them exactly where it was.
 
-**Raveel**, though bound, offers to lead the characters exactly where they want to go - to the Mural of the Word and he leads on.
+At the heart of the Black Pyramid, in the dead city of [[Sharza]], where the Saurians had ended the world with their weapon.
 
-As the group passes a grand set of sealed doors, Feanon asks what is inside.
+The room fell silent as the weight of that knowledge settled over them.
 
-**Raveel** knows that it houses monsters and the group decides (after prying the door enough to see inside and seeing many tanks) to move on.
+## Machina and Dark Tomes
 
-Deeper into the complex, the group enters a massive and ornate chamber.
+They had barely begun to investigate the chamber when a cultist materialized from the shadows. She threw a lever and fled before anyone could react.
 
-On one wall is a beautiful mural depicting the Saurians conquering and expanding across the planes.
+Vents hissed open. A statue at the room's centre retracted into the floor, and from the pit beneath it rose a massive Saurian war machine — whirling metal and blades, ancient but lethal. Mechanical spiders poured from the vents to support it. The machina guardian fought with devastating precision, and the party took several savage hits before [[Gundren Rockseeker|Gundren's]] cannon and the combined assault of the fighters brought the construct crashing down. Gundren immediately set about scavenging every scrap of enchanted bronze he could carry.
 
-In the center of the mural is an icon of light and power, a single relic at the heart of their incredible mechanized empire.  The similarities are unmistakable to the ancient mural seen long ago beneath Neverwinter; this appears to be a fragment of The Last Word.
+The party followed the cultist's escape route south and found a ring-teleporter. Raveel confirmed it would take them to the main Ringed Veil — the one that could carry them to [[Al-Askar|Al Askar]] itself.
 
-They ask **Raveel** where the Fragment would be.
+But before departing, Raveel mentioned one more thing: a powerful tome used by the cult's leaders. The promise of forbidden knowledge was too tempting for Feanon, [[Horatio Von Bumidere|Buumi]], and [[Cirrus Al-Kayan|Cirrus]] to ignore.
 
-Expecting the typical answer of “lost to time” they are shocked when he tells them exactly where the artifact is: **At the heart of the black Pyramid, in the dead city of Sharza, **where the Saurians ended the world with their weapon.
+The route to the book was defended — vents disgorged swarms of machina beetles that exploded on death, spraying shrapnel in all directions. The party dispatched them quickly, though not without cost. A side chamber yielded several massive raw gemstones, which vanished into packs without ceremony.
 
-As the group investigates the room, they do not notice the Cultist in the shadows.
+At last, Feanon found what he sought: a relic book at the centre of a speaking chamber, bound in volcanic glass with an oily black iridescent cover. The slablike tome radiated dangerous magic. Feanon reached for its wards and was thrown back, shaking and retching as corruption lanced through him. Buumi rushed to his side and purged the taint, and the wizard — stubborn as ever — steeled himself and tried again. This time, the wards yielded. Feanon pocketed the book with trembling hands.
 
-She steps forward and throws a lever, then flees the chamber.
+## The Cult Awaits
 
-She is spotted doing this, but vents open and a statue in the middle of the room retracts, a massive metal machine comes from the hole as spiders climb from the vents.
+The party reunited at the teleporter. Raveel warned them plainly: the main Veil chamber would be heavily defended, and by now the cult would have been alerted and readied for trouble.
 
-A massive machine of whirling metal and blades battles the group - an ancient Saurian Machina intent on defending the installation.
+Wanting to scout before committing, the party sent Cirrus's owl familiar through the portal. Through the bird's eyes, Cirrus caught a single glimpse of the chamber beyond — fortified positions, armed cultists, a killing ground — before a barrage of Saurian firelance blasts obliterated the familiar in a flash of light.
 
-The thing proves to be a worthy foe and the group takes several wicked hits before putting it down.
-
-As they wreck the security of the room, Gundren scavanges as much enchanted Bronze as he can.
-
-The group then moves to the south, following the flight of the cultist.
-
-They find a ring-teleporter that **Raveel** says will take the group to the Main Ringed Veil, the one to take them to Al’Askar itself.
-
-Before heading on, the group investigates one more lead - **Raveel** tells of a powerful tome used by the Cult.
-
-Intrigued, Feanon wishes to see the book, as does Buumi and Cirrus.
-
-As the group arrives at the area **Raveel** spoke of, vents open and Mechanical beetles swarm forth attacking the group.
-
-They are dealt with quickly, though the dangerous contraptions explode when killed, throwing shrapnel everywhere.
-
-After dealing with security again, the group is wanting to push on but check one last room.
-
-Inside they see several massive raw gemstones and quickly go about looting the contents of the room.
-
-As several return to the teleportation room, Feanon finds the book he’s been looking for at the center of the speaking chamber.
-
-He approaches a relic book made from Volcanic glass, with an oily black iridescent cover.
-
-The slablike tome is clearly dangerously magical.
-
-Feanon attempts to overcome its wards and is left shaking and vomiting.
-
-Buumi rushes to his side and cleanses the corruption from the wizard.
-
-Feanon steels himself and tries again, this time with success.
-
-Feanon pockets the book and the group reunites at the teleporter.
-
-**Raveel** warns that the main Veil chamber is well defended and by now, they would have been alerted and ready for trouble.
-
-Wanting to scout, the group sends Cirrus’ owl through while the warlock sees through its eyes.
-
-It gets one good look at the room before it is pummeled with Fire Staff blasts and destroyed.
-
-The cult is indeed ready, and waiting…
+The cult was indeed ready. And waiting.

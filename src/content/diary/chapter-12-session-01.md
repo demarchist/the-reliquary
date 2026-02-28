@@ -12,6 +12,7 @@ people:
   - "horatio-von-bumidere"
   - "liara"
   - "merrigold"
+  - "raveel"
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
