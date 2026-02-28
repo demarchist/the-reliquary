@@ -1,75 +1,52 @@
 ---
-title: "Al Askar - Battle!"
+title: Al Askar - The Font of Power
 chapter: 12
 chapterTitle: Al Askar
 session: 10
+summary: "The party emerges from their ethereal visions and battles stone constructs in the temple's final trial, during which Cirrus manifests black angel wings and summons a celestial — revealing his new power. They descend to the Font of Power, a sacred basin where Buumi and Liara each receive a glowing pearl of divine energy."
 people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "karthus"
   - "liara"
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
+places:
+  - "ethereal-plane"
+  - "temple-of-carthus"
 things:
   - "saurian-firelance"
+factions:
+  - "saurians"
 ---
 
-The group looks around
+## Bring Order to the Chaos
 
-They are seemingly back in the real world and they see one another.
+The party returned from the Ethereal visions to find themselves in another chamber — seemingly back in the physical world, facing each other with wide eyes and reeling minds.
 
-Tark immediately goes into shock, having been fighting for a seeming eternity.
+[[Tarkathee Daru|Tark]] went into shock. He had been fighting for what felt like an eternity. He collapsed and went invisible.
 
-He falls over and goes invisible.
+Before anyone could process what they had seen, the voice of the temple boomed: *"Bring Order to the Chaos!"*
 
-Everyone else looks around, noting a chamber almost identical to the ones above.
+Stone constructs burst from the walls. The party had barely recovered from the previous battles, but they were not the same people who had entered this temple.
 
-They begin to tentatively question one another what they all just saw.
+[[Cirrus Al-Kayan|Cirrus]] leapt into the air, borne aloft on black angel wings that unfurled from his back. He cried out that he had found his purpose — to bring [[Selune]] to this world. He tore the air and a celestial being materialized, immediately turning on the enemy.
 
-All of a sudden, the Voice of the temple booms out in the chamber - “Bring Order to the Chaos!”
+[[Horatio Von Bumidere|Buumi]] began to glow with a holy nimbus, striking with divine power once more. [[Gundren Rockseeker|Gundren]] opened a barrage with his [[Saurian Firelance|firelance]]. [[Feanon Serinde|Feanon]] unleashed a hail of micro-meteorites. [[Snorbul]] hacked through the lesser constructs while Tark — recovered and furious — chased the main guardian around the arena as it teleported from pillar to pillar.
 
-Creatures burst forth from the walls to attack.
+The constructs were destroyed. The dais activated.
 
-Beset again by Stonework constructs animated by powerful magics, the group springs into action.
+## The Sacred Basin
 
-Cirrus leaps high into the air, borne aloft by Black angel wings and calls out.
+The final chamber was unlike anything above. A large cavernous expanse of solid rock, illuminated by an orange magical aura with tiny otherworldly particles floating through the air. From the stone ceiling hung an alien tree-like plant, its tentacles growing downward toward a basin carved into the floor — wide, shallow, and filled with eerily still water, occasionally broken by a droplet falling from the plant above. The entire space hummed with potent magic.
 
-He cries that he has found his purpose! To bring Selune to THIS world!
+Tark moved to the basin and drank. The water filled him with vigour and purity.
 
-He then rends the air and a celestial being appears and immediately begins to attack the foes.
+[[Liara]] and Buumi approached and reached into the pool. Beneath the surface, both saw what no one else could: glowing pearls. Each took one, and each was infused with power.
 
-Buumi meanwhile begins to glow with a Holy Nimbus, striking with holy power again!
+Liara began to weep. She thanked the group profusely — earnestly, without pretence — for helping her reach this place.
 
-Gundren begins a barrage of shots with his Firelance
-
-Feanon unleashes a hail micro-meteorites and begins to shell the opponents.
-
-Snorbul hacks through the minions while Tark chases the main boss around the Arena as it teleports from person to person.
-
-The group battles, the tide shifts in their favor, and they destroy the Stonework constructs
-
-The dais in this room activates and they take it one level lower.
-
-This chamber looks different.
-
-This large cavernous expanse of solid rock is illuminated by an orange magical aura, with tiny otherworldly particles floating around. In the center of the ceiling of stone, hangs an alien tree-like plant with tentacles growing down towards a basin carved into the stone floor of the chamber.  Wide and shallow, it is filled with eerily still water, occasionally broken by a droplet falling from the plant above.  The whole area hums with potent magic.
-
-Tark moves to the basin and drinks the water, feeling invigorated and pure
-
-Liara moves to investigate the basin as well and Buumi follows.
-
-Buumi and Liara both reach into the pool, seeing glowing pearls
-
-They each take one.
-
-No one else can see the pearls and both Buumi and Liara are infused with power.
-
-Liara begins to tear up and thanks the group profusely for helping her get this far.
-
-She is earnest
-
-Feanon speaks up after examining the magics here, he explains that if the group spends some time here, it will greatly help with controlling the wild magic surges.
-
-They move to the pool and begin to meditate
+[[Feanon Serinde|Feanon]] examined the magics radiating from the basin and recognized their nature. If the group spent time meditating here, it would greatly improve their ability to control wild-magic surges. They gathered around the [[Temple of Carthus|sacred pool]] and began to meditate, the hum of ancient power washing through them.

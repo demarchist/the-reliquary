@@ -2314,6 +2314,11 @@
     "title": "Nalkara",
     "category": "People"
   },
+  "narhan": {
+    "slug": "narhan",
+    "title": "Narhan",
+    "category": "People"
+  },
   "the netherese": {
     "slug": "netherese",
     "title": "The Netherese",
@@ -2402,6 +2407,11 @@
   "the great beast": {
     "slug": "orcus",
     "title": "Orcus",
+    "category": "People"
+  },
+  "orrah": {
+    "slug": "orrah",
+    "title": "Orrah",
     "category": "People"
   },
   "palischuk": {

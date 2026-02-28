@@ -12,8 +12,12 @@ The Medjay are the primary law enforcement force in Al Askar, serving as both co
 
 ## Authority
 
-The Medjay possess broad powers to investigate magical crimes, confiscate dangerous artifacts, and suppress uncontrolled magical activity. They believe strict control of magic is necessary to prevent the kind of corruption embodied by the Cult of Zalaam.
+The Medjay possess broad powers to investigate magical crimes, confiscate dangerous artifacts, and suppress uncontrolled magical activity. They are closest in nature to paladins and clerics — holy warriors who police magic users to prevent wild-magic surges and protect the populace from the horrors of a dying world.
+
+## The Crucible
+
+The Medjay administer the Crucible, a gladiatorial trial at their garrison in Ras Alkan that tests how magic users should be classified and treated. The party passed the first major test by defeating psychic hounds, with Feanon's double disintegration — performed without triggering a single wild-magic surge — stunning the Sheik and his sages. The group was awarded bronze badges denoting their sanctioned status.
 
 ## Significance
 
-The party must navigate the Medjay's strict regulations during their time in Al Askar, balancing their own magical capabilities against local laws and customs.
+The party must navigate the Medjay's strict regulations during their time in Al Askar. Displaying arcane ability openly — such as Feanon's Iron Tome — is considered provocative, as magic is what broke the world. The bronze badges grant the party legitimacy to operate as magic users within Medjay jurisdiction.

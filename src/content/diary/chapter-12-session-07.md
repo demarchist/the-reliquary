@@ -3,132 +3,59 @@ title: Al Askar - The Fiery Flower
 chapter: 12
 chapterTitle: Al Askar
 session: 7
+summary: "The Sheik of Ras Alkan awards the party bronze badges for passing the Crucible, they board the ship Fiery Flower, survive a High Storm at sea, and Feanon develops a list of reagents for his reality-mending ritual as they sail toward the Temple of Karthus."
 people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "karthus"
   - "lady-taurus"
   - "liara"
-  - "rudjek"
   - "snorbul"
 places:
+  - "al-askar"
   - "feywild"
+  - "ras-alkan"
   - "shadowfell"
   - "temple-of-carthus"
 factions:
   - "medjay"
-  - "usurpers-of-rudjek"
 events:
   - "the-calamity"
 ---
 
-In the waiting area of the Crucible, the group waits
+## Bronze Badges
 
-After a few minutes of enjoying the refreshments, the doors open and a small group enters.
+In the Crucible's waiting area, the doors opened and a small retinue entered — [[Medjay]] guards flanking a nobleman of obvious high standing, with [[Liara]] and several sagely types in tow. The nobleman was introduced as the Sheik of [[Ras Alkan]].
 
-Flanked by Medjay guards, a nobleman of obvious high standing approaches with Liara and a few wizard/sagely looking types.
+He announced that the group had passed the first major test of the Crucible and awarded them bronze badges. The sages examined [[Feanon Serinde|Feanon]] with undisguised interest, though they persistently referred to him as a half-elf — which grated on the wizard considerably. Liara calmed him, explaining that elves were not treated well on Al Askar and this was the nobles' awkward way of being diplomatic. It was, she conceded, deeply racist.
 
-The Noble is introduced as the Sheik and he announces that the group has passed the first major test of the Crucible and then awards the group with Bronze badges.
+The Sheik was genuinely impressed. The Crucible had not seen a display of magic like Feanon's disintegrations in living memory. Each badge bore a colour tied to one of the Ancients — gods linked to fundamental workings of the universe. [[Cirrus Al-Kayan|Cirrus]] tried his best to schmooze, but tieflings were seen as a bad omen here, so his charm found limited purchase.
 
-As the group is awarded the badges, they talk with the Sheik to get an idea of the social structure.
+## The Fiery Flower
 
-The group discovers that the Crucible has not seen a display of magic like that….ever, really.
+The group left the Crucible and made for the Diver's Wharf — the docks for common folk, not the trade harbour. There they found the ship [[Lady Taurus]] had hired: the Fiery Flower, a fairly unimpressive transport. They boarded, meeting Captain Losthook and settling into the general cabins. Cirrus, naturally, tried to commandeer the captain's quarters.
 
-The sages look over Feanon with interest and though his Elven blood is obvious, they continually refer to him as a half-elf, which really starts to irritate Feanon.
+They sailed north, hugging the coast and dodging reefs. [[Snorbul]] wanted to dive immediately for the Sovereign Glue from his vision, but was persuaded to wait for the return voyage.
 
-Liara calms the wizard, pointing out that Elves are not treated so well and this is the nobles bizarre way of downplaying that.  It’s super racist.
+On the second day, the horizon darkened. A High Storm swept in, and wild magic crackled through the rigging. The crew's expert sailing — aided by the party — kept the ship on the storm's edge. At the worst of it, a gravitational surge grounded through the mainmast runes, bruising everyone as they were yanked toward the spar. But the damage was minor.
 
-The Sheik is impressed by the group overall, not seeing a display like that for many years.
+Cirrus slept and had no dreams, though he claimed frequent visits from the foreign moon deity.
 
-The badges all have colors associated with them and the group questions the meaning.
+## The Reagent List
 
-The Sheik explains that each color is tied to a god, which is also tied to a working of the universe.  
+As the ship approached the Pirate Cove — a trading and drinking outpost frequented by local thugs — the group debated strategy. Diplomacy first, violence as a backup. Perhaps the pirates could be swayed to work for Lady Taurus rather than against her.
 
-They continue to talk for a little while, with Cirrus attempting his best to schmooze.
+But the map showed something more compelling: the [[Temple of Carthus|Temple of Karthus]] was close. The Pilgrimage took precedence. Captain Losthook blanched — no one had attempted the pilgrimage in centuries, and here he was ferrying the first heroes mad enough to try.
 
-Tieflings are seen as somewhat of a bad omen here so he does not get too far, though the Shiek and his retinue are polite.
+That night, Feanon worked on his reality-mending ritual. After extensive discussion with Liara, he compiled a list of reagents adapted from Vizeron's original work:
 
-Eventually, the Shiek takes his leave and exits with his retinue after the small ceremony concludes.
+- **Nightstalker Horn** — a beast of shadow and death, representing the [[Shadowfell]]
+- **Essence of Calamity** — an artifact of Zalaam's, representing whatever force caused [[The Calamity]]
+- **Scales of an Al'Jin** — higher beings representing Order
+- **Black Sandfury Blood** — a focal point of massive physical power
+- **Hand of a Phaerimm** — a focus to reshape magical barriers
+- **Ancient [[Feywild]] Seed** — something from before the Calamity to represent natural order restored
 
-Liara remains behind to talk and rejoin the group
+Several unknowns remained, but Liara left the conversation electrified. She believed Feanon could actually do this.
 
-The group leaves the Crucible to head over to the Diver’s Wharf to find the Fiery Flower - the boat Lady Taurus has hired for them.
-
-As they walk, they question Liara about the Crucible, Medjay and her place in society here.
-
-As a member of the Usurpers of Rudjek, she is well known enough to have clout with Sheiks and high-priests. She walks in high circles in society but is not wealthy herself
-
-They move through the city, eventually making their way to a much less impressive set of docks.  
-
-Clearly, this is the docks for the peasantry.
-
-The group heads to the Wharf and quickly find the ship, a fairly unimpressive transport.
-
-They board, meeting **Captain Losthook** and settling into the general cabins.
-
-Except for Cirrus, he tries his hardest to steal the captains quarters.
-
-They head out from the port city and head North, sticking close enough to the coast to always see it, but expertly dodging the dangerous reefs.
-
-Snorbul wants to go swimming and searching for the Sovereign Glue, but is eventually convinced that he can do it on the way back.
-
-The next several days of ship-travel go fairly well, with smooth sailing and no sightings of other ships.
-
-Late in the second day though, the Horizon begins to grow dark and the alarm for a High-Storm is called.
-
-The Wild Magic Storm blows in, but the expert sailing of the crew, with the help of the group, keeps the ship on the edge of the Storm.
-
-In the worst of it, a massive surge of energy is drawn into the Runes of the main-mast, causing a Gravitational surge, but being grounded out without much damage (beyond some bruises as folks are pulled to the mast).
-
-The storm dissipates over the next few hours, the worst of it being spent.
-
-Cirrus sleeps again and has no dreams, though claims frequent visits of the foreign moon deity.
-
-The sailing is going well with the group assisting and the ship is fast approaching the Pirate cove, a small trading and drinking outpost frequented by the local thugs.
-
-The ship can evidently dock there, but not without significant danger and the group discusses with Liara and the Captain what their options are.
-
-They think that violence is likely inevitable, but they should go in with diplomacy first and see if they can't maybe sway the Pirates into working *for *Lady Taurus.
-
-At the worst, the group thinks they can always bash some heads and steal back the ship…
-
-As this is discussed, with the map of the coast before them, the group notes how close they are to the Temple of Carthus.
-
-The Pilgrimage is brought up again and the Captain blanches, no one has attempted that in centuries, and he just happens to be transporting the first heroes to attempt it?
-
-He swears to deliver the group to the Temple first, and then double back for the job for Lady Taurus.
-
-The group prefers this, with many answers possible in that ancient place.
-
-They decide, they will go to the Temple first, and sail past Pirate Cove.
-
-As the ship moves away from the coastline for clearer sailing, the lookout calls that four beasts have been spotted moving toward the ship.
-
-Thinking fast, Feanon uses Control Water to silence the ship as it speeds through the waves, making it almost impossible for the pursuing creatures to follow the ship.
-
-The spell does not last too long, but the ship has a massive lead over the confused beasts and they lag behind,eventually giving up the chase.
-
-That night, Feanon continues to work on the Reality-mending spell and becomes convinced he can fix this palce.
-
-He works on a list of reagents he will need for the spell and comes up with a list after talking with Liara:
-
-**Nightstalker Horn**  - a beast of horrific shadow and death representing the Shadowfell and its power. Replacement for the Goristro heart.
-
-**Essence** of **Calamity - The Apocrypha or any other magic Item of Zalaam’s. **Whatever force, god or creature caused the Calamity that destroyed this world must be represented. Replacement for the blood of a Demon Lord.
-
-**Scales of an Al’Jin. **Higher beings and a replacement for the feathers of an Angel. Represent Order and counteracts the massive negative energy present in the world.
-
-**Representation of Power - Black Sandfury Blood. **Something must be a focal point and represent something of massive physical power to hold the spell together. Replaces the living Egg of a Purple Worm. 
-
-**Focusing Item - Hand of a Phaerimm. **Something must work as a focus to break down magical barriers and reshape power. Replaces the Beholder eye.
-
-**Representation of the Natural Order - Ancient Feywild Seed (Erdtree/Yggdrasil). **Something must represent the world coming back into balance and being healed. Preferably something from before the Calamity.  Replaces the Thirteen Tinmask Mushrooms sprouted from a Higher Demon’s blood.
-
-
-There are still several unknowns, but Liara leaves the conversation excited to think about the possible reagents.  
-
-She believes Feanon will be able to do this.
-
-The next day, the ship races along the coast and the Captain points to the horizon, a gleaming reflection of sun from worked stone visible.
-
-The Temple of Carthus is on the Horizon.
+The next day, the captain pointed to the horizon. A gleaming reflection of sun from worked stone — the Temple of [[Karthus]] — shone on the coast ahead.

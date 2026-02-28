@@ -3,97 +3,44 @@ title: Al Askar - The Crucible
 chapter: 12
 chapterTitle: Al Askar
 session: 6
+summary: "The party watches chariot combat at the Critereon arena, explores Ras Alkan's Guild District and Forum, then takes the Crucible test at the Medjay garrison — defeating psychic hounds while Feanon's double disintegration stuns the onlookers."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "liara"
+places:
+  - "ras-alkan"
 factions:
   - "medjay"
   - "saurians"
 ---
 
-The group heads into the Critereon and finds themselves in a massive oblong arena.
+## The Critereon
 
-The stands seat thousands and all look down upon a gladiatorial spectacle.
+The group entered the Critereon and found themselves in a massive oblong arena, its stands seating thousands. Down on the sands, two chariots were being drawn by feathered raptor-like dinosaurs, spear and bow-wielding gladiators whirling in the backs as they stirred the crowd into a frenzy.
 
-Down in the sands of the arena, two Chariots are being drawn by feathered Raptor-esque dinosaurs.
+The party settled in to watch, ordering drinks and unfamiliar food. Cages opened and large spined creatures — the size of horses, their quill-like spines razor-sharp — burst onto the sand. Two were considerably larger than the rest, snapping at their chains. One broke free and lunged at the nearest chariot, and the spectacle began in earnest.
 
-In the backs of both, spear wielding and bow wielding gladiators whirl around the arena, stirring up the crowd.
+The bout was exciting and savage. Half the group eventually drifted out to meet [[Liara]] at the Forum, while the rest stayed to eat and watch the chariots take their bloody victory. [[Cirrus Al-Kayan|Cirrus]] looked for someone to pickpocket in the dispersing crowd.
 
-The group settles in to watch the spectacle, ordering drinks and food.
+## The Forum and the Guild District
 
-Cages are opened and large spined creatures the size of horses come out.
+On the way to rejoin the others, the party passed through the Guild District — a quarter thick with craftsmen, the old [[Saurians|Saurian]] architecture visible everywhere, some of the larger buildings almost entirely of ancient make. They stopped in to find something for [[Aliyah Faen Tlabbar|Patches]] and picked up healing runestones, which they gave to Cirrus instead.
 
-Two in particular are much larger, their quill-like spines razor sharp and massive.
+The Forum was the political heart of [[Ras Alkan]] and its most impressive quarter. Here the group stood out badly: the entire aristocracy wore elaborate masks denoting station and function, and the outlanders had none. They found the others quickly enough — subtlety was not an option.
 
-They seem to be ferocious, snapping at their chains and one gets free, lunging toward the chariots, starting the battle!
+Liara informed them that she had arranged for the group to be tested together in the Crucible. The local [[Medjay]] had concerns about unlicensed magic being used in their city. [[Feanon Serinde|Feanon]] scoffed, but the group agreed to abide by local customs.
 
-The group then watches an exciting bout between the two chariots and the 6 fearsome beasts.
+## The Test
 
-As the battle goes on, half the group heads out to meet up with Liara at the Forum nearby.
+They headed to the Crucible — the [[Medjay]] garrison headquarters attached to the arena. While Liara arranged the trial, [[Horatio Von Bumidere|Buumi]] chatted with one of the Medjay officers and learned their nature: closest to paladins and clerics, they policed magic users to prevent wild-magic surges and protected the populace from the horrors of a dying world. The Crucible itself was designed to determine how a magic user should be treated — whether as ally, threat, or something in between.
 
-The rest stay to witness the rest of the fight and continue to eat.
+The group entered a small arena ringed by four glowing portals, a handful of figures watching from the stands above. Liara took her place among them. The party signalled readiness.
 
-The chariots end up being the victors, though suffer from some pretty severe looking wounds.
+Four beasts erupted from the portals — grey-skinned, fanged, and fast. The battle was short and bloody. The creatures unleashed psychic wails that sent terror ripping through the group, forcing those unaffected to focus fire on specific targets to protect their fleeing companions.
 
-The Gladiators roar in victory and ride off the field.
+Buumi took several savage hits but held the line. The most significant moment came when Feanon disintegrated two of the beasts in rapid succession without triggering a single wild-magic surge. In the stands above, the watchers fell silent, then began whispering urgently among themselves.
 
-The stadium crowd begins to get up to leave.
-
-Cirrus looks for an opportunity to pickpocket someone.
-
-The group heads out to go catch up with the others at the Forum.
-
-On the way, they move past the edge of the Guild District - filled with craftsmen.
-
-The evidence of old Saurian architecture is everywhere here, some of the larger buildings being almost completely of the ancient make and design.
-
-They stop in to try and find something for Patches and end up picking up some healing Runestones (and giving them to Cirrus).
-
-They head on to the Forum - the political center of the city and the most impressive structures in the city.
-
-The group stands out here like sore thumbs.
-
-All of the aristocracy here in the forum are wearing some kind of mask to denote station and function.
-
-The group is easily spotted across the plaza by the others and the groups meet up, Liara with them.
-
-Liara informs them that she can get the group tested together in The Crucible - the local Medjay having something to say about “unlicensed” magic used.
-
-Feanon scoffs at the idea, but the group decides they should do this to abide by the local customs.
-
-They head to The Crucible and the headquarters of the Local Medjay garrison.
-
-Once there, Liara heads in to get the test setup.
-
-While she does this, Buumi chats with one of the Medjay officers.
-
-He finds out that they are closest to Paladins and Clerics, they police magic users to prevent wild-magic and protect the local populace as best they can from the horrors of this dying world.
-
-The Crucible is designed as a test to determine how a magic user should be *treated *by the Medjay.
-
-The group heads in to a small Arena, four glowing portals around the edge.
-
-A small set of stands is above where a handful of figures watch.
-
-Liara comes forward and waves to let herself be known amongst the watchers.
-
-The group forms up for battle and signals that they are ready.
-
-Four beasts rush from the glowing portals, grey skin glistening and large dangerous looking fanged maws begin to snap at the group.
-
-The battle is short and bloody, with the strange hound-like creatures letting loose psychic wails.
-
-These wails terrified different members of the group, forcing those unaffected to focus their fire and kill specific beasts.
-
-The group takes a number of hits, Buumi especially, but they manage to slay each of the creatures.
-
-The most significant contribution being Feanon disintegrating two of the things and not causing Wild-magic either time.
-
-When the second beast is disintegrated, the onlookers can be heard whispering and discussing.
-
-The battle over, the group is shown from the arena to a waiting area.
-
-There, the group rests from their combat…
+The battle over, the group was shown to a waiting area. There, bloodied and breathing hard, they settled in to await the verdict.
