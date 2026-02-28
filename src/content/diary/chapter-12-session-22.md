@@ -3,11 +3,14 @@ title: Al Askar - The Temple of Vaketh
 chapter: 12
 chapterTitle: Al Askar
 session: 22
+summary: "Feanon's corruption worsens as the group descends back into the caldera to cleanse the Temple of Vaketh — a domed structure atop a stone pillar above a magma lake. They fight Howlers, Banshees, and the Lonely across a narrow bridge, and Tark glimpses the Army of the Dead through a rift before a Saurian Death Lord teleports into the temple with four Boneclaws."
 people:
+  - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "jareem"
   - "snorbul"
   - "tarkathee-daru"
   - "vaketh"
@@ -15,140 +18,49 @@ places:
   - "ras-alkan"
   - "shadowfell"
 factions:
-  - "drow-faction"
   - "saurians"
 ---
 
-The group awakes on the side of the great volcano
+## The Wizard's Decline
 
-Despite the altitude, the heat of the place kept it comfortable at night and they slept surprisingly well
+The group woke on the mountainside. Despite the altitude, the volcanic heat had kept the night comfortable — for everyone except [[Feanon Serinde|Feanon]]. He rose from his Reverie shaking, then vomited black tar and blood. It was a magical malady, and it could be fatal.
 
-Except for Feanon
+His friends gathered in concern. The symptoms abated enough for Feanon to wave them off, but [[Cirrus Al-Kayan|Cirrus]] made clear that if the wizard worsened, he would cast Greater Restoration immediately. The dragon stared at Feanon in silence.
 
-He rises from his reverie, shaking and vomiting black tar and blood
+## The Bridge
 
-Feanon realizes that this is a magical malady and could be fatal
+Jareem ferried them back into the caldera, his weight halved by Feanon's magic. They descended through caustic fumes and ash, [[Gundren Rockseeker|Gundren]] donning a gas mask, and the Molten City Ruins stretched out below among fields of glowing lava.
 
-In the morning routine, the group notices that something is amiss with the Wizard
+Where the magma had recently receded, a large domed structure sat atop a pillar of stone jutting from the lake. Two narrow bridges connected the mainland to the Temple of [[Vaketh]]. The group landed on the far side of one bridge while Jareem shifted down to his genasi form — exerting his full psionic power would be a beacon to Zalaam.
 
-Concerned, the group gathers to see their friend.
+With Pass Without Trace and [[Aliyah Faen Tlabbar|Patches]] back in the scout role, the group crept across the precariously thin bridge. The temple was patrolled by Howlers — Shadowfell hounds they had fought before in the Crucible of [[Ras Alkan]] — and angular spectres floating around the exterior. The place was riddled with dark corruption and a storm of wild-magic sparks crackled overhead.
 
-As bad as the first symptoms were though, they abate somewhat and he manages to shake off the group’s concerns…for now
+As they neared the temple, two of the spectres turned their heads and wailed.
 
-If his condition worsens, Cirrus will cast an immediate Greater Restoration on the Wizard.
+The Howlers charged. The spectres were Banshees — spirits of long-dead elves, and their shrieks could kill outright.
 
-The Dragon stares at the Wizard
+The group destroyed the Banshees first while [[Horatio Von Bumidere|Buumi]], [[Tarkathee Daru|Tark]], and [[Snorbul]] held the bridge, hurling Howlers into the lava. Cirrus cast sickening radiance at the junction of bridge and temple, forcing creatures through it to reach the group. Feanon used telekinesis to drag Banshees back into the radiance whenever they drifted free. Gundren shot the last Howlers clinging to the bridge's edge.
 
-Mollified for now, the group continues with their breakfast and then break camp
+## The Rift
 
-The Dragon ferries them back into the Caldera of the volcano, his weight halved by Feanon
+Moments after the last creature fell, the wild-magic storm surged and rifts opened across the temple. More Lonely and Banshees materialised.
 
-They descend through a cloud of caustic fumes and ash, forcing everyone to cover their faces
+Tark, who had shadow-stepped ahead, found himself surrounded. He looked up — inside the temple dome, a storm of energies swirled around a floating glyph. A rift. He stuck his head through.
 
-Gundren puts on a gas-mask
+He saw a desolate landscape under dark thunderclouds. A ruined city stretched to the horizon, and as far as he could see stood rank upon rank of undead — wielding ancient weapons and armour. Many were clearly human. But many were taller, more lithe, with a serpentine cast to their skeletons. Great dark forms wheeled overhead amid a cacophony of shrieking. The air smelled of dust, mould, and old blood.
 
-Below the volcanic clouds, the group can see the Molten City Ruins stretch out before them amongst the glowing fields of lava.
+Directly before the portal stood a resplendent figure — flanked by dark creatures, against the backdrop of a massive obsidian pyramid. This serpentine lord, adorned in tattered riches and black armour, reached forward with a glowing gauntleted hand —
 
-In one area, where the magma has receded recently, a large domed structure sits atop a pillar of stone
+Tark was yanked back through the rift. He fell into the temple and attacked a Lonely passing beneath him.
 
-The pillar juts out of the Magma lake, with only two small bridges connecting from the mainland to the Temple of Vaketh perched atop it
+Outside, the group used the bridge as a chokepoint, destroying the Banshees and pushing the Lonely into the lava. [[Feanon Serinde|Feanon]] scooped up a thousand pounds of molten lava with telekinesis and encased a creature in it, killing it with a hiss of escaping gases.
 
-The group gets as close as they dare to the Temple, landing on the other side of one of the narrow bridges.
+Then the wild-magic storm surged again. Flashes of purple lightning resolved into monstrous forms.
 
-The Dragon shapeshifts down into his Genasi form, saying that he *can *exert himself magically, but it would be a psionic beacon to Zalaam and would likely draw undue attention.
+Four massive, lanky shapes wreathed in darkness materialised in the temple. Angular — perhaps elves, once. The group had seen such creatures before: Vizeron's apprentice had turned into one when he failed to become a lich. Boneclaws.
 
-For now, he goes low-key.
+The four surrounded a figure at the temple's centre — the serpentine lord from the rift. Clad in ancient armour adorned with jewellery, feathers, and glowing sourcestones, the figure was tall and sinuous, its helmet mimicking the cobra-like hood it had worn in life. Cold light glimmered in its recessed eye sockets.
 
-The group agrees on a plan and they sneak closer to the temple for a better look
+A [[Saurians|Saurian]] Death Lord. It let forth a dusty hiss that shook the feathers of its armour, and its voice echoed through the temple:
 
-The heat though is terrible and Buumi begins to get quite exhausted and Feanon’s sickness begins to drain on the wizard.
-
-With Pass Without Trace and their favorite Drow back in the scout role though, the group pushes across the precariously thin bridge
-
-They get within shooting distance for Gundren to properly support and then take a good look.
-
-The temple has numerous “hound”-like creatures patrolling the area, *Howlers*, we had fought before in the Crucible of Ras Alkan. Shadowfell creatures.
-
-A number of strange looking, angular specters can also be seen floating around the exterior.
-
-The place is also riddled with dark corruption and a storm of wild-magic sparks overhead.
-
-The group moves in, intent on sneaking inside with their veiling magics, but as they near the temple, two of the specters turn their heads toward the group and wail.
-
-The nearby Howlers let out snorts and then begin to head over to where the wailing specters are now pointing.
-
-The fight is on.
-
-The group bursts from their hiding places and attack the approaching Howlers and ghostly specters.
-
-As one of the specters nears the group on the bridge, it wails again, a far more sinister and deadly blast.
-
-These are Banshees.
-
-Spirits of long dead Elves.
-
-The group moves to destroy the deadly things first while Buumi, Tark and Snorbul hold the bridge against the howlers and toss them into the lava if they get too close.
-
-Cirrus decides to put an end to the battle quickly, and summons a sickening radiance at the junction of bridge and temple.
-
-This forces the creatures into the radiance if they wish to approach the group
-
-Feanon then enacts a telekinesis spell and drags the banshees back into the radiance if they move away.
-
-The last few Howlers are slain by being shot by Gundren, or pushed into the Lava and the group cautiously moves up.
-
-Moments go by, just long enough for Tark to shadowstep ahead, when the Wild Magic Storm surges and a set of rifts appear, depositing a large number of creatures.
-
-Several Lonely, and more Banshees appear in the temple vicinity.
-
-As Tark looks around, confused and feeling very alone surrounded by enemies, he looks straight up.
-
-In the air, inside the dome of the temple, is a storm of energies, he leaps to hide up in there.
-
-Inside the storm though, he finds a glyph floating at the epicenter, a rift.
-
-Tark sticks his head through and witnesses a flash of the other side
-
-Tark sees a desolate landscape, the sky covered in dark stormclouds and rumbling with thunder. He looks around; It appears to be a ruined city but as far as he can see, are rank after rank of undead, all wielding ancient weapons and armor.  Many are clearly human or human-like.  But many are taller, more lithe and have a serpentine cast to their skeletons.  Great dark forms wheel overhead and a terrifying cacophony of shrieking can heard echoing across the ruins. It smells of dust, mold and old blood.  Directly in front of the portal and glyph, stands a resplendent figure, flanked by dark creatures against a backdrop of a massive obsidian pyramid.  Just as Tark is yanked back through the portal, he sees this Serpentine figure, adorned in tattered riches and black armor, reaches forwards with a glowing gauntleted hand… 
-
-Tark falls back into the temple of Vaketh and lands a moment later, attacking the Lonely passing underneath him.
-
-Outside, the group is battling the Loney and Banshees, focusing again on the specters and using the bridge as a choke point for the Lonely.
-
-Unfortunately, the Lonely have harpoon-like arms and manage to snare Buumi and drag him into the Sickening Radiance.
-
-With a snort of derision, Cirrus lets his Radiance end.
-
-The group destroys the Banshees then turn their attention to the Lonely.
-
-Once again, they manage to push several Lonely off of the bridge and into the lava, though several manage to use their arms to latch on and save themselves from the fall, Gundren then just shoots them.
-
-Feanon pushes another Lonely into the lava and then decides to try something new and novel, he scoops up 1,000lbs of molten lava.
-
-As the group charges forward, pushing the last twenty feet of the bridge, most of them make the temple proper.
-
-Inside, Tark battles the lonely with Buumi rushing to assist and Snorbul close behind.
-
-As the last few shadowfell creatures are slain, Feanon envelopes one in the Molten Lava he brought from below.
-
-The creatures dies with a hiss of gasses escaping the molded lava.
-
-The stormabove flashes and pulses with energy and Feanon realizes they are witnessing a Teleport Spell from the other side.
-
-Flashes of discharging purple lighting resolve into monstrous forms.
-
-Four massive, lanky shapes can be seen embroiled in darkness. The shapes are angular, maybe elves once? 
-
-The group has seen such creatures before; Vizeron’s apprentice turned into one of these things when he failed to become a Lich.  These are *Boneclaws.*
-
-Four of these creatures surround a figure at the center of the temple
-
-At the heart of the chamber, is the figure Tark saw at the head of the Army of the Dead.
-
-Clad in ancient armor and adorned with jewelry, feathers and glowing source-stones, the figure is tall and lanky.  Its figure is far more elegant than that of a human.  A long boney tail and sinuous neck speaks to its serpentine nature and its helmet mimics the cobra-like hood it would have had in life. Cold glints of light can be seen in the recessed eye sockets of its headdress adorned Helmet.
-
-Arcane magic radiates from him and Feanon notes at least two active spell effects.
-
-The Saurian Lord lets forth a dusty hiss which shakes the feathers of its armor, and a voice echoes in the temple in his own language.
-
-(in Saurian) “Interlopersss, we are no longer amused.  This endsss here…”
+*"Interlopersss. We are no longer amused. This endsss here."*

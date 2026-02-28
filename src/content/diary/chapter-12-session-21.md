@@ -1,8 +1,9 @@
 ---
-title: "Al Askar - Vecna, The Undying King"
+title: Al Askar - The Undying King
 chapter: 12
 chapterTitle: Al Askar
 session: 21
+summary: "The Ruby Dragon Jareem reads each hero's soul with his psionics, reveals his tragic past and his mate Ajak's fate as a Hollow Dragon guarding Sharza. Feanon pieces together that Zalaam is the ascended archlich Vecna. The group forges titanium weapons at the Titanic Forge, then flies to the volcano's slopes to rest before cleansing the Temple of Vaketh."
 people:
   - "aliyah-faen-tlabbar"
   - "auril"
@@ -20,7 +21,6 @@ people:
   - "lolth"
   - "mordenkainen"
   - "orcus"
-  - "rudjek"
   - "snorbul"
   - "tarkathee-daru"
   - "thorna"
@@ -39,182 +39,66 @@ places:
 things:
   - "hammer-of-niraz"
   - "the-last-word"
+  - "titanic-forge"
 factions:
-  - "cult-of-zalaam"
   - "drow-faction"
   - "illithid-faction"
   - "saurians"
-  - "usurpers-of-rudjek"
   - "watchers-of-helm"
 events:
   - "the-calamity"
 ---
 
-Snorbul looks down at the decapitated head of the cult leader and the constricting tongue wrapping his arm.
+## The Dragon's Eye
 
-He manages to tear it from his flesh and spikes it onto his broom of flying, sending the flying broom into the air away from him.
+[[Snorbul]] tore the constricting tongue from his arm and spiked the severed head onto his flying broom, sending it skyward. The tongue lashed out again — [[Thorna]] hurled her hammer and knocked the head into the lava, where it burned to nothing.
 
-The tongue lashes out again, striking at Snorbul who lets out a shriek of disgust.
+[[Jareem]], now in his fire genasi form, approached [[Tarkathee Daru|Tark]] and they began to talk. The dragon could sense something unique in Tark's ki — techniques that seemed to have been passed down by a Ruby Dragon. Tark's master had been [[Gaddock]], not a dragon, but Gaddock had trained at the Monastery of the Yellow Rose in [[Vaasa]]. Perhaps the monastery had been founded by a Ruby Dragon long ago. When Tark mentioned Vaasa, the dragon's recognition was unmistakable, though he said nothing more.
 
-Thorna hurls her hammer and strikes the decapitated head, causing it to fall into the lava and burn away…
+Jareem introduced himself and asked where the group hailed from. When Tark said [[Toril]], the dragon was surprised — it was exceedingly difficult to reach this world. He knew of a handful of Crystal Dragons on Toril.
 
+The rest of the group gathered, and Jareem turned his psionic sight on each of them in turn:
 
-Meanwhile, the dragon in his humanoid form moves over to Tark and they begin to talk
+Tark — an aura of Crystal-touched and Shadow-touched ki. [[Feanon Serinde|Feanon]] — not Elf, not [[Illithid Faction|Illithid]], but changed and psionically gifted. Snorbul — a safe harbour for the Source of this world, a child of nature and balance in a world gone mad. [[Gundren Rockseeker|Gundren]] — a vessel for two Modron minds, a life-raft. [[Horatio Von Bumidere|Buumi]] — a chromatic Dragon consort and protector, empowered by [[Karthus]]. Thorna — a shard of the goddess [[Auril]], made for a purpose not yet revealed. [[Cirrus Al-Kayan|Cirrus]] — a child of Dark Divinity, adopted by the light. [[Aliyah Faen Tlabbar|Patches]] — a cursed Dawn-Elf, touched by the blood of Wendonai, but wielding a glimmer of hope. [[Jack Mayer-Johnson Mathews|JmJm]] — the man of many worlds, harbouring a spirit of pure chaos.
 
-The dragon apparently, can sense something unique in Tark’s Ki and mentions that it seems like Tark may have learned some techniques passed down by a Ruby Dragon
+## The Revelation
 
-Tark’s master was Gaddock, not a dragon, but Gaddock learned in the Monastery of the Yellow Rose in Vaasa.  Maybe the monastery was founded by a Ruby Dragon long ago?
+Jareem had come to this world centuries ago with his mate, Ajak. They had sensed a perversion of reality and, as Crystal Dragons are compelled to preserve and stabilise reality, they came to fix things. It was far worse than they realised. Ajak was tricked into wearing cursed armour by the Lady in White, a powerful servant of Zalaam. The armour killed her, then raised her corpse and transformed it into a Hollow Dragon. That abomination now guarded the City of the Dead — [[Sharza]].
 
-The Dragon introduces himself as Jareem and aks where the group is from, as it is clear that they are Outlanders to this world of Gaia
+Jareem had been trying to save his mate and this world ever since, working alone but for a network of elven spies and agents. He originated from [[Oerth]], the same world as [[Mordenkainen]]. He had never met the archmage personally, but knew of him.
 
-Tark says they are from Toril.  
+Feanon, who had been listening intently, seized control of the telepathic conversation and laid out his evidence for everyone to see. The visions of a human wizard from another world subjugating the non-magical. The cults and their iconography, their preference for necromancy. The fact that Zalaam was supposedly an imposter who came to power a thousand years ago by orchestrating [[The Calamity]]. The cult leader's own words — that Zalaam was a brother of [[Zhengyi]] and related to [[Orcus]].
 
-This surprised the Dragon as it is *very *difficult to get to this world
+There was only one being it could be. A being whose cults surfaced across every world like cockroaches: the Whispered One, the Undying King — the Archlich [[Vecna]].
 
-He mentions that he knows of a handful of Crystal Dragons in Toril and asks where Tark is from.
+Jareem was stunned to silence. Then he reached the same conclusion.
 
-Tark mentions Vaasa and though Jareem does not say more, Tark can tell that the Dragon recognizes the name of the land.
+Zalaam, god of Death of this world, was an ascended Vecna.
 
-The rest of the group heads over to the conversing dragon, and they begin to talk.
+## The Shape of the War
 
-Jareem looks at each of the heroes and detects something of interest from each of them with his psionics.
+Jareem described the wider situation. Vecna was calling all dark things to him, forming two armies — an army of the dead in Sharza, and an army of [[Shadowfell]] monstrosities in the Black Sea. The gods were not merely imprisoned; Vecna was consuming them. He had already devoured Zalaam entirely and was nearly finished absorbing [[Fawden]], goddess of Chaos — hence the wild-magic surges and High Storms increasing in frequency. He did not know how Vecna had acquired the power to consume a god in the first place, but rumours pointed to the [[Saurians|Saurian]] artefact at the heart of Barzak Pyramid — a Fragment of [[The Last Word]].
 
-Tark - with his aura of Crystal-touched and Shadow-touched Ki
+Jareem had learned all this at the nearby Temple of [[Vaketh]], which he noted was undefended by the Shadowfell creatures that guarded other temples. He had gone to cleanse it himself but was captured by the cult while meditating. The [[Hammer of Niraz]], a relic powerful enough to serve as the Icon of Power in Feanon's Ritual of Harmony, was currently wielded by [[Djoser]], who had departed with [[Liara]] for [[Iyum]].
 
-Feanon - Not Elf, or Illithid.  Changed and psionically gifted
+The tongue the cult leader had used on Snorbul would have served as a relic of Vecna for the ritual, but it had been cast into the lava. Jareem knew of another such relic, however — in the Citadel of Flesh, in the Black Sea.
 
-Snorbul - A safe harbor for the Source of this world. A Child of nature and balance in a world gone mad.
+Buumi noted grimly that the [[Watchers of Helm|Paladins of Helm]] were instructed to destroy Vecna's cults wherever they appeared. If Vecna was here, with a dark army and a Fragment of the Last Word, this was worse than any of them had imagined.
 
-Gundren - A vessel for two Modron minds; a life-raft
+The group asked Jareem to fly them to the [[Thueba Swamp]], where they had a lead on Ringed Veil coordinates back to Toril. Jareem agreed — in exchange for the group guarding him while he finished cleansing the [[Temple of Carthus|Temple of Vaketh]].
 
-Buumi - A chromatic Dragon consort and protector, empowered by Carthus
+## The Forge
 
-Thorna - A Shard of the goddess Auril, but for what purpose was she made?
+They turned their attention to the [[Titanic Forge]]. Among the cult's possessions they found three shortswords of a glittering, iridescent metal, weapon and armour moulds, chunks of Titanite ore, and a massive Onyx Skull of a Storm Giant filled with a dark liquid — the concoction meant to corrupt Jareem into a Hollow Dragon. They poured the liquid into the lava and kept the skull chalice.
 
-Cirrus - A child of Dark Divinity, but adopted by the light.
+Below, Gundren deciphered the workings of the Forge with the help of his friends. Using the great hammer and crucible at the chamber's centre, they refined the Titanite ore. Lava pooled up from below — without the Efreeti chain, Gundren would have burned alive — but the dwarf operated the forge with expert precision, crafting a titanium spear for Tark, a shield for Buumi, armour for Thorna, a scimitar for JmJm, a tome-box for Feanon, and a greatsword for Snorbul. Gundren also collected half a dozen working firelances, intent on crafting something unique from the components.
 
-Patches - A cursed Dawn-Elf, touched by the blood of Wendonai, but wielding a glimmer of hope.
+Rejoining Jareem and Patches upstairs, the group overheard that there were many Dawn and Dusk Elves in this world — [[Drow Faction|Dark Elves]] uncursed by [[Lolth]], without the blood of Wendonai. They might even have a way to cleanse Patches of her curse.
 
-JmJm - The man of many worlds, harboring a spirit of pure chaos.
+## The Mountain Camp
 
-The Dragon came to this world many centuries ago with his Mate.
+The lava-fall had ceased — the great worm no longer perched above — and the Temple of Vaketh was now visible across the exposed lava-fields. But dark stains were appearing in the air — [[Shadowfell]] rifts — and the group was in no condition to fight. Jareem offered to fly them out of the caldera.
 
-They could sense a perversion of reality happening here, and as it is in their nature to preserve and stabilize reality, they came here to do what they could to fix things.
+Feanon halved the dragon's weight to ease the flight. They landed on the volcano's exterior slope and found an ancient monument nearby — a grave marker for pilgrims who had died trying to reach the Temple of Vaketh centuries before.
 
-It was far worse than they realized and Jareem’s mate - **Ajak **was tricked into wearing cursed armor by **The Lady in White, **a powerful servant of **Zalaam**.
-
-The Armor killed her, and then raised her corpse, transforming it into a **Hollow Dragon. **The Hollow Dragon now guards the City of the Dead - Sharza
-
-Jareem has been trying to find a way to save his mate, and this world, ever since, but he has been (mostly) alone.
-
-He has been working with the Elves of this land for centuries, through a network of spies and agents.
-
-Jareem goes on to say that he originates from **Oerth** the same world as Mordenkainen.
-
-The group asks if Jareem knows the Archmage
-
-The dragon knows of him, but has never met the man personally.
-
-Jareem and his Mate came from Oerth, following a trail from that world, to this one.
-
-Feanon, who had been listening in, has a realization.
-
-He takes control of the conversation, which had been happening psionically, and shows everyone his thought process and evidence.
-
-He shows the visions of a Human Wizard (from what he now believes is Oerth) subjugating the non-magical.  He shows the cults and their iconography, their preference for necromancy. He reminds everyone that **Zalaam **here is supposedly an imposter who came to power here a thousand years ago, orchestrating a calamity, and that the cult leader they just slew, described Zalaam as a brother of Zhengyi and related to Orcus.
-
-There is only one being that it could be.  A being whose cults show up across every world like cockroaches: **The Whispered One, The Undying King; The Archlich Vecna.**
-
-Jareem is stunned to silence for a moment, but with the information Feanon just gave them, he comes to the same conclusion.
-
-Zalaam, god of Death of this world, is an ascended Vecna.
-
-Jareem goes on to describe what he knows has been happening in the wider world:
-
-Vecna/Zalaam is calling all dark things to him, forming two armies - an Army of the dead in Sharza, and an army of Shadowfell monstrosities in Black Sea.
-
-The gods are not just imprisoned, they are being consumed by Vecna.  He has devoured Zalaam, and is almost done consuming Fawden goddess of Chaos - hence the wildmagic and highstorms increasing in frequency.
-
-He does not know how Vecna had the power to consume Zalaam in the first place, but he has heard rumors of the Saurian Artifact at the heart of **Barzak Pyramid**
-
-He learned this at the nearby temple of Vaketh, which he noted was undefended by the Shadowfell creatures that guard the other temples. He went there to cleanse it himself, but was captured by the Cult while he was meditating and communing with the gods there.
-
-He had to dive through the lava to get to the temple but was unaffected by the fire (being a Ruby Dragon).
-
-He assisted the Mortal heroes - The Usurpers of Rudjek in taking back the city of Iyum from the servants of Vecna, leading them to the Artifact **The Hammer of Niraz**.
-
-He had hoped to lead/direct the Usurpers on their own pilgrimage to stop the gods from being consumed, but the Cult of Zalaam has proven a thorn in their side ever since taking the city of Iyum and they have been unable to leave it as a unit.
-
-**The Hammer of Niraz** is powerful enough to work as the **Icon of Power in the Ritual of Harmony Feanon is creating to fix the Weave of Gaia.**
-
-The hammer is currently wielded by Djoser, the Tiefling Warrior who showed up at the crashed Spelljammer with Patches and Thorna, and who left with **Liara **to return to **Iyum.**
-
-**Feanon **asks Jareem what other relics could be used for the ritual.  The dragon mentions the relics of Vecna - The tongue the cultist leader had used on Snorbul would have been one if it was not cast into the lava.  He knows of another though, in the **Citadel of Flesh in the Black Sea**.
-
-The group takes some time to digest what they have discovered.
-
-Vecna is a revelation and many of the group have heard the name before as a dark and cursed being.
-
-Buumi mentions that the Paladins of Helm are instructed to destroy his cults wherever they crop up as they are exceedingly dangerous. 
-
- If Vecna is here, gathering a dark army and already has a Fragment of the Last Word, this is bad news indeed.
-
-The group aks Jareem if they can help get them back to Toril - they have a lead on a Ringed Veil and coordinates back to their world in **Thueba Swamp** 
-
-Jareem agrees to fly them to the Swamp, in exchange for guarding him while he finishes the cleansing of the nearby **Temple of Vaketh**.
-
-The group agrees.
-
-The group then turns their attention to the** Forge of the Titans** and what drew them to the Volcano in the first place.
-
-Looking around, the find three shortswords of a glittering and iridescent metal they are unfamiliar with.
-
-The magical shackles that were restraining Jareem are of the same stuff, though disintegrated into dust.
-
-The divvy up the swords and Gundren collects a decent amount of the glittering dust.
-
-They also discover a number of items on the nearby altar the cultists had set up.
-
-A number of molds for weapons and armor, a few chunks of Titanite ore, and a massive Onyx Skull of a Storm Giant filled with a dark liquid that was meant to turn Jareem into a corrupted dragon.
-
-After some debate, they pour the dark liquid into the lava and then take the valuable skull chalice with them.
-
-They take the ore and molds down to the Forge below.
-
-There, Gundren deciphers aworkings of the forge with the help of his friends.
-
-Using the great hammer and crucible in the center of the chamber, they refine the Titanite Ore and then implement the molds, even crafting two unique ones. 
-
-Lava pools up from below and if not for the Efreeti chain, Gundren would have burned to death.  Instead though, he operates the forge with skill; forging a Titanium Spear for Tark, Shield for Buumi, Armor for Thorna, Scimitar for JmJm, Tome-box for Feanon and Greatsword for Snorbul.
-
-Gundren also collects a half dozen working firelances for himself, intent on creating a unique weapon from the collected implements.
-
-Heading up from the lava-fueled forge they reunite with Jareem and Patches and overhear that there are many Dawn and Dusk elves in Gaia, Dark Elves who are not cursed by Lolth and do not have the blood of Wendonai within their veins.  They may even have a way to cleanse Patches of the curse.
-
-The group gathers their things and then head out from the Forge, desperate to rest in a place that is nor oppressively hot.
-
-They exit the forge without incident now that the cult is destroyed and make it to where the lava-falls were blocking the bridge.
-
-The lava-fall is gone and the great Worm that was vomiting it forth is no longer perched above.
-
-As they look around, they see the gargantuan thing off in the lava-fields and ruins of the Titanic city writhing and smashing at smaller creatures, possibly some fire-mephits.
-
-With the lake of lava now no longer being fed by the worm, the temple of Vaketh is visible in the distance.
-
-As they watch though, they see dark stains appear in the air - rifts to the Shadowfell.
-
-Remembering their battle at the Temple of Carthus, the group determines that they should rest before heading over there, especially if the Magma Worm is currently rampaging through the caldera of the volcano.
-
-Jareem offers to fly them out of the Crater and on to the slopes of the Volcano, away from the heat and gasses.
-
-Feanon halves the dragons weight to make the flight easier and he thanks the wizard as he is not used to ferrying so many at once.
-
-They fly up and onto the exterior slope of the mountain to set up camp.
-
-Nearby, they see a monument and they move over to investigate, finding an ancient grave marker - marking Pilgrims who died trying to reach the Temple of Vaketh many centuries before.
-
-Gundren pours out his Horn of Feasting, but is thrown twenty feet down the mountain by wild magic.
-
-Grumbling, he trudges back up with a new bruise and the group sits down and feasts
-
- Refreshing  themselves, the group settles in for a well earned rest with Jareem reverting to his Draconic form and curling up on the mountainside shielding the resting party from the elements.
+Gundren poured out his Horn of Feasting and was thrown twenty feet down the mountainside by a wild-magic surge. Grumbling, he trudged back up with a new bruise. The group feasted, and Jareem reverted to his draconic form, curling around the camp and shielding the resting party from the elements.

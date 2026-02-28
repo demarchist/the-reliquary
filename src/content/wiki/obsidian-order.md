@@ -8,12 +8,12 @@ description: "Secret society of elves working against Vecna, led by a council of
 
 ## Overview
 
-The Obsidian Order is a clandestine organization composed primarily of elves dedicated to opposing Vecna and his forces. Governed by a council of elven sages, they operate in secrecy to gather intelligence and coordinate resistance efforts.
+The Obsidian Order is a clandestine organisation composed primarily of elves in Al Askar, dedicated to opposing Vecna and his forces. The Ruby Dragon Jareem sits on its council, though he is not its leader. The Order operates through networks of spies and agents across the land, coordinating resistance against the Cult of the Black Skull.
 
-## Operations
+## Greatest Achievement
 
-The Order works through a cell-based structure with members spread across multiple regions. They identify and neutralize threats posed by Vecna's agents while protecting valuable magical knowledge from corruption.
+The Order's most significant accomplishment has been kept secret: working with Jareem, they managed to cleanse the Temple of Horrah and free the goddess from Vecna's corruption. Horrah now feigns her continued malady to avoid alerting Vecna that she is free to act — a deception that may prove critical, as Horrah alone cannot stop Vecna, but with the other gods freed, the divine powers of Al Askar might stand a chance.
 
 ## Significance
 
-The party encounters the Obsidian Order during their Al Askar adventures, finding allies in their shared goal of opposing the dark forces threatening the multiverse.
+Jareem offered to connect the party with the Obsidian Order, believing the organisation could assist the heroes in their broader mission. The Order represents one of the few organised resistance forces capable of opposing Vecna on a strategic level.
