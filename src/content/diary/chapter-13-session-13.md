@@ -1,5 +1,5 @@
 ---
-title: "The Voyage Home - The Machina Factory"
+title: The Voyage Home - The Machina Factory
 chapter: 13
 chapterTitle: The Voyage Home
 session: 13
@@ -9,12 +9,9 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
-  - "tarkathee-daru"
 places:
   - "machina-factory"
   - "shadowfell"
-things:
-  - "gwen"
 ---
 
 The group slays the Alghoul, though with great effort.

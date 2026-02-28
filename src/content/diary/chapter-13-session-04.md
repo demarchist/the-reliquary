@@ -3,93 +3,54 @@ title: The Voyage Home - Ghosts of the Ancients
 chapter: 13
 chapterTitle: The Voyage Home
 session: 4
+summary: "Feanon researches Hohonu and discovers it is an ancient dragon sealed since the dawn of Al Askar, the group heads toward Āina Pulu to stop the sacrifices weakening its prison, a Highstorm forces them into ancient Saurian ruins haunted by ghosts of a thousand-year-old battle against the Phaerimm, and a rift summons three Quetzalcoatlus into the chamber."
 people:
   - "camea"
   - "feanon-serinde"
   - "hohonu"
   - "horatio-von-bumidere"
-  - "orcus"
   - "vecna"
 places:
+  - "feywild"
   - "golden-tower"
+  - "thueba-swamp"
 factions:
+  - "phaerimm"
   - "saurians"
 ---
 
-The group spends some time deciding on their course of action.
+## The Nature of the Beast
 
-The group talks things over with Camea, the Shaman of her halfling people
+The group spent time deliberating their course. [[Feanon Serinde|Feanon]] needed more information about [[Hohonu]] before committing to anything, so the wizard reached into the fabric of reality itself and pulled.
 
-With some questioning about the nature of this Hohonu, Feanon decides he needs more information
+What he found was troubling. Hohonu was an ancient dragon from when this world was young and the gods still walked the earth in open conflict. It had been imprisoned for aeons, sealed within a Greater Magic Circle and contained by a powerful Antipathy spell, with something else — something older — chaining the beast within the circle. But with the weakening of the world's barriers, [[Vecna]] might be seeking an ally. The halfling sacrifices were eroding the Greater Circle, and the Antipathy spell was almost certainly long gone.
 
-The wizard uses his arcane mastery to pull information from the fabric of reality and gleans a great deal of information on Hohonu and his place of power.
+The group made their decision. They would continue toward the halfling homeland and do what they could to stop the sacrifices, stalling Hohonu's resurrection. They would shore up the magic sealing the beast, then press on to the Factory. When they were stronger — and with dragon allies of their own — they would return and put Hohonu down before it could meet up with Vecna.
 
-Hohonu is an ancient Dragon, from when this world was young and the gods still walked the earth engaged in conflict.
+[[Camea]] listened as the group discussed offering her people sanctuary at the [[Golden Tower]]. She thanked them but refused for now — her followers had risked everything to be here, and she would not abandon her mission.
 
-He has been imprisoned for eons and now, with the weakening of the world's barriers, Vecna may be seeking an ally.
+## The Highstorm
 
-Long ago Hohonu was sealed within a Greater Magic Cirlce, contained within a powerful Antipathy spell, with something else chaining the great beast away within the circle.
+They pressed on through [[Thueba Swamp]] under a darkening sky. By mid-morning, a Highstorm bore down on them from the west — ripping across the swamp, uprooting trees, and hurling debris through the air.
 
-It is likely that the Halflings are weakening the Greater Circle with human sacrifice and he suspects the Antipathy spell is long gone. 
+The group needed shelter. Through the driving rain they spotted ancient ruins jutting from the water — great blocks of weathered stone, half-swallowed by the swamp. Camea warned them that her people avoided such places. They were haunted by the ghosts of the ancient [[The Saurians|Saurians]].
 
-The group makes a decision to continue toward Aina Pulu and do what they can to stop the ongoing sacrifices, to stall the resurrection of this demigod dragon.
+The group took heed, but the storm was too fierce to ignore. They went in anyway.
 
-They will do what they can to shore up the magic sealing Hohonu and then continue on to the Factory.
+## The Frozen Fortress
 
-They intend to return with their own dragon allies, and put down this Hohonu before he can meet up with Zalaam/Vecna.
+The exterior was monolithic stonework smothered by centuries of vine and jungle growth. A great door frame led to a hall that descended steadily into darkness. Inside, their breath plumed in great white clouds. The temperature plummeted and the group found themselves shivering. Feanon confirmed the cold was supernatural, and the source became apparent — scattered across the great hall were ancient frozen corpses.
 
-Talking with Camea, the group realizes what the Haflings in her party have risked to be here and offer them sanctuary at The Golden Tower.
+Most were the mummified remains of [[The Saurians|Saurians]] and elves, their armour still gleaming faintly beneath the frost. But among the dead lay something else — strange conical corpses with gaping maws and four arms, surrounded by the fallen. Feanon identified them as [[Phaerimm]], the great aberration enemies of all creation. They had not been seen in millennia, but history recorded that wherever they appeared, all must band together to fight them or be consumed.
 
-Camera thanks them, but refuses for now.
+A glimmer of light caught the group's attention. Ghostly apparitions drifted through the chamber — long, elegant serpentine forms of ancient Saurians intermingled with the smaller shapes of elves. Their armour was fashioned of gleaming metal and adorned with feathers, and they wielded firelances and curving swords. An elven commander gave a rousing speech about facing a great foe and giving their lives for the empire. His men cheered. The apparitions faded.
 
-They continue on their course, heading through the swamp.
+[[Horatio Von Bumidere|Buumi]] noted the direction the commander's ghost had turned — deeper into the ruins — and moved to the back of the hall. His caution saved them. A force of skeletal Saurians and strange ghostly aberrations came shambling and floating out of the tunnels beyond.
 
-After the better part of the morning, the days progress looks bleak as a storm begins to darken the western horizon.
+## Ancient Enemies
 
-The Highstorm begins to rip across the swamp, uprooting trees and hurling debris
+The group rallied to Buumi's cry and the battle erupted. The skeletal foes were sheathed in icy energy — every strike against them sent freezing cold back through the attacker. Worse, the ghostly Phaerimm proved formidable even in death, capable of rerouting and consuming magic directed at them.
 
-The group is forced to look for shelter and they spot some ancient ruins, great blocks of stone jutting from the swamp.
+The fight was fiercer than expected, but the group methodically destroyed every attacker. As the last of the undead fell, however, an errant spell tore open a rift in the air. Three great serpentine beasts flew through — feathered and crystalline, their scales scattering prismatic light off the frosted surfaces.
 
-They are warned by Camea that her people avoid those places, as they are haunted by the ancient Saurian ghosts of the marsh 
-
-The group takes heed, but the storm is proving to be a bad one.
-
-The group heads in anyways, interested from a historical perspective.
-
-The exterior is made of ancient stone blocks, overgrown by centuries of vines and jungle
-
-a monolithic door frame leads to a hall leading steadily downward.
-
-They enter the brief tunnel and find themselves in a great hall of stone with their breath clearly visible in great plumes.
-
-Indeed, the group finds themselves quickly shivering and Feanon confirms that this is an unnatural cold and ancient frozen corpses can be seen scattered around.
-
-The group moves in, curious and they see that many of the corpses are the mummified remains of Saurians and Elves, though some strange conical corpses with gaping maws and four arms can be seen surrounded by the dead.
-
-The aberrations are identified by Feanon as Phaerimm, the great Aberration enemies of seemingly all creation.  
-
-Phaerimm have not been seen in millenia, but history shows that wherever they appear, all must band together to fight them or be consumed.
-
-A glimmer of light gets the group's attention and they see ghostly apparitions moving about the chamber, long elegant serpentine forms of ancient saurians intermingled with the smaller forms of elves.  Their armor made of gleaming metal and adorned in feathers, they all wield firelances and elegant curving swords.
-
-The elven commander gives a rousing speech, talking about battling some great foe (the group assumes the Phaerimm) and giving their lives for the empire.
-
-The commander’s men cheer, and the ghostly apparitions subside.
-
-Buumi sees that the commander turned deeper into the ancient ruins and patrols to the back of the great hall of this place.
-
-He is not caught unawares then as a Skeletal force of Saurians and Strange ghostly aberrations come shambling and floating out of the tunnel to attack.
-
-The group quickly rallies to Buumi’s cry of alarm and the battle is on.
-
-The skeletal foes are sheathed in icey energies that as the group strikes, freezes attacker
-
-The group finds that even the ghosts of the dreaded Phaerimm are formidable, capable of rerouting and consuming magic.
-
-The battle is surprisingly fierce but ultimately the group destroys all of the attacking undead.
-
-As the last moments of the battle rage though, an errant spell tears open a rift and three great serpentine beasts fly through.
-
-Great feathered and crystalline Quetzacoatalus fill the chamber with glittering light dancing off the frosty surfaces.
-
-The group finds themselves in the great hall of a long dead fortress, facing great fae creatures while the ancient inhabitants of this dark place seem to be reliving their final moments…
+Quetzalcoatlus — fae creatures of immense power — filled the ancient hall with glittering radiance. The group stood in the frozen fortress of a long-dead civilisation, facing beings from the Feywild, while the ghosts of the ancients replayed their final moments around them.

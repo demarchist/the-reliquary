@@ -18,6 +18,7 @@ people:
   - "tarkathee-daru"
   - "willow-aldencroft"
 places:
+  - "aina-pulu"
   - "barovia"
   - "ethereal-plane"
   - "machina-factory"

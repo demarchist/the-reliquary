@@ -18,6 +18,7 @@ places:
 things:
   - "the-last-word"
 factions:
+  - "phaerimm"
   - "saurians"
 ---
 

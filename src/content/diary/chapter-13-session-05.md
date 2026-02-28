@@ -3,128 +3,69 @@ title: The Voyage Home - Righting a Wrong
 chapter: 13
 chapterTitle: The Voyage Home
 session: 5
+summary: "The Quetzalcoatlus depart peacefully, the group pushes deeper into the cursed frozen ruins, Tark witnesses a ghostly vision of an ancient battle where a summoned Aldjinn was imprisoned by a shadow spirit, and the group frees the Aldjinn — who gratefully provides Feanon with a divine scale needed for the Ritual of Harmony."
 people:
+  - "aldjinn"
   - "aliyah-faen-tlabbar"
   - "camea"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "hohonu"
   - "horatio-von-bumidere"
-  - "selune"
   - "tarkathee-daru"
 places:
   - "feywild"
-  - "snorbuls-hole"
 factions:
+  - "phaerimm"
   - "saurians"
 ---
 
-The group is faced by three massive winged serpents from this worlds Fae realms
+## The Mourning Serpents
 
-The great beasts do not appear violent and instead circle the chamber, calling mournfully
+The three massive winged serpents did not attack. Instead they circled the chamber, calling mournfully — long, keening cries that resonated through the frozen stone. Something about this place was causing them anguish.
 
-Something about this place is causing them anguish
+With [[Camea]]'s help, the group determined that whatever disturbed the Quetzalcoatlus lay deeper in the ruins. After a short minute, the magic that had torn them into this realm expired and the great serpents vanished, their cries echoing for a moment longer before the silence returned.
 
-The group determines with Camea’s help that whatever it is that has the Quetzalcoatlus disturbed is deeper in the ruins.
+## No Rest for the Weary
 
-After a short minute, the magic that brought the great beasts to this realm ends and the serpents vanish
+The group needed rest after the battle, but [[Feanon Serinde|Feanon]] was too spent to summon his Magnificent Mansion. [[Horatio Von Bumidere|Buumi]] tried to get a fire going. Three failed attempts later, he finally coaxed the tinder to catch — and watched it immediately dwindle and die. The curse on this place would permit no fire, no warmth. Without either, rest was impossible, and the supernatural cold would steadily sap their strength.
 
-They discuss what to do next, and rest after that surprisingly intense battle comes up, though Feanon is too spent to summon his Magnificent Mansion
+They checked the Highstorm outside. Still raging. There was only one option — push deeper and find the source of the curse.
 
-Buumi tries to get a fire going and after three failed attempts, finally manages to get the tinder to catch, only to have it immediately dwindle and extinguish
+## The Vision
 
-This place is cursed and will allow no fire or warmth, and without it, there’s no chance the group can rest here and the cold will continually sap their strength
+A junction offered three paths: one tunnel fully submerged in icy water, another blocked by a wall of ice five feet thick, and the third descending into total darkness. [[Tarkathee Daru|Tark]] volunteered to scout beyond the ice wall. He shadowstepped through.
 
-They check on the Highstorm outside but it is still raging.
+Alone on the other side, another ghostly vision engulfed him. An epic battle between [[Phaerimm]] and [[The Saurians|Saurians]] raged through the corridors, and the defenders were losing. The [[The Saurians|Saurian]] commander demanded that the elven mage — Avitus — summon allies. The mage obliged, calling forth an [[Aldjinn]], a high celestial of ice and radiance. The tide turned momentarily, until the magic-devouring Phaerimm adapted and counterattacked.
 
-They decide to push deeper into the ruin and perhaps find a way to end this supernatural cold.
+Still overwhelmed, the commander demanded another summoning. This time the mage called up a powerful spirit from the Shadow realm — but could not control both it and the Aldjinn in the chaos of battle. The incantation went awry. Both creatures broke free. The shadow spirit tore open a rift, imprisoned the Aldjinn in a block of ice, and condemned every soul in the fortress to torment and death. The elven mage fled, and the vision ended.
 
-Only slightly deeper into the complex, they find a junction, one side is fully submerged in icy water, another way is blocked by an ice wall five feet thick and the other descends into darkness
+In the centre of what had once been a grand solarium stood the ice block — ancient, dark, a horned figure barely visible within, the whole mass wreathed in purple miasma.
 
-They decide to send Tark through the ice wall to scout the other side and he shadowsteps through 
+Tark returned to the group and told them what he had found.
 
-Alone on the other side, he witnesses another vision of the ancient ghosts of this place
+## The Descent
 
-An epic battle between Phaerimm and the Saurians does not seem to be going well and the commander demands that the Elven Mage, Avitus, summon allies to repel the Aberrant invaders.
+Rest was out of the question, but Feanon now had a reason to press forward. He revealed that for the Ritual of Harmony — the working that would repair the Weave and the planar boundaries of this world — he needed a Scale of an Aldjinn to represent the Divine.
 
-The Mage summons an Al’Jin, a high Celestial of ice and radiance and the tide seems to turn momentarily, until the Magic consuming Phaerimm adjusts to the newcomer and counterattack.
+The group steeled themselves. They had to free the [[Aldjinn]] and request a scale.
 
-Still overwhelmed, the commander demands the Mage perform another summoning
+They returned to the junction and explored the dark tunnel first. More ice blocked the path, this time containing several frozen [[The Saurians|Saurian]] skeletons. Patches set up a satchel charge to blast through, but the undead began to stir before she could finish. Feanon detonated the charge with a firebolt. The explosion cleared the skeletons but shook the entire ruin — a section of floor collapsed to a flooded lower level, dunking Buumi in lethally cold water.
 
-This time, the Mage calls up a powerful spirit from the Shadow realm, but is unable to control both it and the Aldjinn in the midst of battle.
+[[Cirrus Al-Kayan|Cirrus]] hauled him out and dried him off with a spell just as the feeling left Buumi's limbs. Feanon then melted the main ice wall with a torrent of fire, took a running leap across the new gap — and slammed into the far wall, barely catching the ledge. The others pulled him to safety and crossed by various means. Camea stayed behind in the entry chamber.
 
-The incantation goes awry and the creatures break free
+## Freeing the Celestial
 
-The Spirit of Shadow tears open a rift, imprisoning the Aldjinn in a block of ice and condemns the souls of all those in the fortress to torment and death…
+They entered the solarium and approached the ice block cautiously, keeping clear of the purple miasma. On cue, a swirl of energy and crackle of ice heralded another wave of cursed undead. The group struck them down as they freed themselves from the ice or rose through the floor — skeletal Saurians and ghostly [[Phaerimm]], as fierce as before.
 
-The Elven Mage flees and the vision ends.
+Using the collapsed junction as a chokepoint against the physical undead, the group destroyed them all and turned their attention to the ice block. Careful study revealed that synchronized castings of Dispel Magic and Greater Restoration could diffuse the shadow spirit and free the Aldjinn. They unleashed their combined magic. The miasma blew apart, the ice shattered, and the shadow spirit clawed desperately at its captive before the power of [[Selûné]] overwhelmed it and shunted it back to its plane.
 
-In the center of this once-grand Solarium stands the now ancient block of ice, a dark horned figure barely visible within and the whole thing surrounded and wreathed in purple miasma.
+The [[Aldjinn]] stood free — humanoid and feminine, its body flowing blue crystal sand, two graceful horns curving from its brow. It cleansed the ruin of its deathly cold with a gesture. With the shadow spirit banished, the undead trapped in limbo for a thousand years finally found their rest.
 
-Tark returns to the group to report what he has found.
+The celestial was grateful. When the group explained the state of the world — the impostor Zalaam, the dying goddess, the crumbling barriers — the Aldjinn was shocked. It formed a scale from its flowing, sand-like body in the palm of its hand and gave it willingly to Feanon.
 
-With rest out of the question, they mull their options until Feanon reveals that he needs something from the Aldjinn
+They asked about [[Hohonu]], the nearby draconic demigod. The Aldjinn knew of it — a truly mighty being. The group asked for its help, but the celestial refused. It had been imprisoned for a thousand years and needed to return to its native plane. It did, however, mention that other draconic demigods might assist — particularly a great metallic wyrm that guarded the gateway from the [[Feywild]] of this realm to the Material Plane.
 
-He explains that for the Ritual of Harmony (to fix the Weave and Planar boundaries of this world), one of the ingredients he needs is a Scale of an Aldjinn to represent the Divine.
+The group thanked the Aldjinn. It opened a portal and departed.
 
-The group steels themselves, they MUST free the Aldjinn and *request *a Scale.
-
-They return to the junction of tunnels in the ruin and take a moment to explore one of the other tunnels.
-
-As they head down the dark, unflooded tunnel, they discover the way blocked by more ice, though this contains several frozen Saurian skeletons
-
-They decide to blow up the skeletons and just as Patches sets up her explosives, the undead begin to stir!
-
-Patches Satchel charge takes care of them as Feanon detonates it with a firebolt, but the explosion causes the entire ruin to shake and a section of the floor collapses to a lower, flooded level, dunking Buumi in deadly cold water
-
-Buumi manages to climb to safety just as he loses feeling and is dried off magically by Cirrus
-
-Feanon then turns his attention to the Icewall and with a blast of fire, melts it away.
-
-Then with a running leap, attempts to jump the new hole in the floor of the junction and slams into the far wall, barely hanging from the ledge.
-
-He is quickly pulled to safety and the rest of the group follows across with various means.
-
-Camea remains on the far side of the hole, in the entry chamber of the ruin.
-
-The group finds themselves in the same chamber as the Aldjnn and they cautiously move forwards, intent on remaining out of the purple miasma surrounding the Ice block.
-
-A swirl of energies and crackle of ice alerts the attentive group to a new round of cursed Undead
-
- The group manages to assault the things as they are freeing themselves from the ice or in the case of ghostly Phaerimm - becoming visible or rising out of the floor.
-
-Like the battle in the entryway, it is fierce, with the ghostly aberrations proving to be stalwart foes
-
-With proper positioning and using the hole in the junction as a barrier against the physical undead, the group manages to destroy the Undead and turn their attention to the Ice block.
-
-As they study it, they realize that with the appropriate synchronized casting of Dispel Magic and Greater Restoration, they can diffuse and cleanse the Aldjinn of the accursed shadow spirit and free this place.
-
-They unleash their magics and the Miasma is blown away and the Ice block shattered.
-
-The Shadow spirit attempts to retain its grip on the Aldjinn, but the magics of Selune are too powerful and it is shunted back to its Plane.
-
-All that remains is the Aldjinn.
-
-Its body is humanoid and feminine, made of flowing and shifting blue crystal sand.
-
-Its head sports two graceful tiefling-esque horns
-
-The Celestial cleanses the Ruin of the deadly cold and with the Shadow Spirit banished, the Undead, held in limbo for a thousand years, finally rest.
-
-The Aldjinn is thankful for its freedom and begins to converse with the group
-
-Hearing about the Imposter Zalaam and the current state of the world shocks the Aldjinn and it is more than happy to assist the group, forming a scale from its flowing, sand-like body in the palm of its hand and giving it willingly to Feanon.
-
-They ask if the Aldjinn if it knows of Hohonu, the nearby Draconic demigod imprisoned in the Swamp
-
-It does, and states that it is truly a mighty being.
-
-The group asks for assistance in defeating Hohonu but the Aldjinn refuses, needing to return to its native Plane as it has been gone a thousand years
-
-It does mention though that there are other Draconic demigods that could assist and mentions a great Metallic Wyrm that guards the gateway from the Faewilds of this realm to the Material Plane. 
-
-The group thanks the Aldjinn and it opens a portal and leaves.
-
-The group finds themselves now alone in the ancient fortress, the curse lifted and the deathly cold now reduced to a mere chill.
-
-Buumi breaks out his flint and tinder and begins to get a fire going for a much needed rest.
+Alone in the ancient fortress — the curse lifted, the cold reduced to a mere chill — Buumi broke out his flint and tinder. This time, the fire caught and held. The group settled in for a much-needed rest.

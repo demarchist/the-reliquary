@@ -19,6 +19,16 @@
     "title": "Agatha",
     "category": "People"
   },
+  "'āina pulu": {
+    "slug": "aina-pulu",
+    "title": "'Āina Pulu",
+    "category": "Places"
+  },
+  "aina pulu": {
+    "slug": "aina-pulu",
+    "title": "'Āina Pulu",
+    "category": "Places"
+  },
   "al askar": {
     "slug": "al-askar",
     "title": "Al Askar",
@@ -38,6 +48,16 @@
     "slug": "alberts-armor",
     "title": "Albert's Armor",
     "category": "Places"
+  },
+  "aldjinn": {
+    "slug": "aldjinn",
+    "title": "Aldjinn",
+    "category": "People"
+  },
+  "al'jin": {
+    "slug": "aldjinn",
+    "title": "Aldjinn",
+    "category": "People"
   },
   "aliyah faen tlabbar": {
     "slug": "aliyah-faen-tlabbar",
@@ -2448,6 +2468,11 @@
     "slug": "peytr",
     "title": "Peytr",
     "category": "People"
+  },
+  "phaerimm": {
+    "slug": "phaerimm",
+    "title": "Phaerimm",
+    "category": "Factions"
   },
   "phandalin": {
     "slug": "phandalin",

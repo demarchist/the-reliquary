@@ -3,6 +3,7 @@ title: The Voyage Home - The Undead Legions
 chapter: 13
 chapterTitle: The Voyage Home
 session: 1
+summary: "The group battles a massive undead horde rising from Thueba Swamp — skeletal giants hurling debris, swarms of skeletons dragged under by unseen swamp creatures, and regenerating ghost giants that wield spectral greatswords."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -13,52 +14,37 @@ people:
   - "tarkathee-daru"
 things:
   - "arkto"
+  - "thundercannon"
 ---
 
-A horde of Undead rises from the swamps and the group turns to face them.
+## The Horde Rises
 
-They have contingencies if things get out of hand, and besides, these are undead and most of the group has a strong distaste for them.
+The undead came from everywhere — shambling out of the water, pulling themselves from the mud, rising from beneath the wreckage. The group turned to face them with grim resolve. They had contingencies if things went badly, and most of them bore a particular hatred for the walking dead.
 
-The group charges ahead, just as a cloud of mist forms amongst the casters.
+The group charged. A cloud of clammy mist rolled in among the casters, but rather than retreat, they used it as cover. [[Cirrus Al-Kayan|Cirrus]] took wing and called forth a powerful abjuration, his body blazing with holy radiance. All save [[Tarkathee Daru|Tark]] were blessed by Selûné's light, and [[Horatio Von Bumidere|Buumi]] ignited his Holy Nimbus, golden fire wreathing his armour.
 
-Unfazed, they start to use the Mist as cover.
+## Fire and Lightning
 
-Cirrus aloft on his wings calls forth a powerful abjuration and glows with radiance.
+[[Feanon Serinde|Feanon]] launched fireball after fireball into the amassed dead, orange detonations scything through their ranks. [[Gundren Rockseeker|Gundren]] flew in and out of the mist on [[Arkto]]'s back, concentrating his thundercannon fire on one skeletal giant at a time.
 
-All the group save Tark become blessed and Buumi summons his Holy Nimbus
+[[Jack Mayer Johnson Mathews|JmJm]] rode forward on his Nightmare mount with Patches close behind, but boulders crashed into the fiery steed from above and pummelled it to death. JmJm hit the ground hard. He rose, screaming with fury, and unleashed a ninth-level lightning bolt from his rings — a searing line of white that tore through the weaker undead and badly burned several giants.
 
-Feanon launches fireball after fireball into the amassed undead while Gundren flies in and out of the Mist concentrating his fire on one Giant at a time.
+More rocks sailed in, but Cirrus's Holy Aura fouled the giants' aim and only a few struck home. Hordes of skeletons surged forward through the shallows, though Patches noticed many being dragged beneath the water by something unseen. She webbed her way out of danger to higher ground and called a warning to the others — the swamp itself was hungry.
 
-JmJm rides forwards with his Nightmare mount, Patches behind him, but is knocked from the air as his mount is pummeled to death by thrown boulders.
+## The Ghostly Giants
 
-Other rocks sail in, but the aim is fouled by the Holy Aura and only a few strike the group.
+The skeletal giants strode forward, massive bone frameworks flinging anything they could grab — trees, boulders, crates, even their own allies. The group's return fire thinned their ranks quickly.
 
-JmJm gets up and infuriated that his mount was killed, he screams and casts a 9th level lightning bolt from his rings, blasting a line through the weaker undead and badly burning some of the giants.
+Then, high above, the ghost giants drifted in on the wind, howling blasts of freezing air down at the party. The group landed several hits before realising the spectral forms were regenerating. They turned back to the corporeal threats.
 
-Hordes of undead surge forwards, through the swamp, but Patches notices many getting dragged under the water by…something.
+One ghost seized the remains of the shipwreck's boat and hurled it at Buumi, who narrowly dodged. The same spirit flung it again into the mist, clipping Feanon, then drove it directly onto Cirrus, who had been sheltering beneath a fallen pillar. The impact crushed the cleric into the mud, and a swarm of skeletons closed in on him.
 
-She webs out of a sticky situation to higher ground and calls a warning about the swamp to the group.
+Arkto dove from the sky, landed beside the wreckage, twisted his beak around the back of Cirrus's robes, and hauled him free. The owlbear launched skyward with the battered cleric dangling from his grip.
 
-The horde of Giants strides forwards, massive skeletons flinging anything they can grab, trees, boulders, crates, allies.  
+## Turning the Tide
 
-The return fire from the group is quickly thinning their ranks
+Gundren continued blasting the giants while activating his helmet's radiant aura, holy light burning the undead around him. Tark rushed from giant to giant, scaling their ribcages and pummelling skulls as the group concentrated their fire.
 
-Disconcertingly, high above, giant ghosts drift forwards on the winds, howling blasts of freezing air. 
+The last of the skeletal horde shattered and fell still. The group turned upward to face the hovering spectral forms above.
 
-The ghosts take a few hits, but the group quickly realizes they are regenerating and return to dealing with the corporeal threats.
-
-One of the ghosts flings the remains of the boat at Buumi, who narrowly avoids it.
-
-The same ghost then flings the boat into the mist, clipping Feanon and then again, directly on top of Cirrus who was hiding under a fallen pillar.
-
-The boat and pillar badly crush Cirrus into the mud who is then beset upon by a horde of skeletons.
-
-Arkto dives from the sky, landing next to the pillar and with a twist of his beak, grabs Cirrus by the back of his robes, hauls him out and the Owlbear takes off into the sky
-
-Gundren continues to blast away at the giants, but enacts the radiant damage of his helmet to begin to burn the undead.
-
-Tark rushes from Giant to Giant, climbing and pummeling them as the group continues to focus their fire (more or less)
-
-The last of the skeletal horde is destroyed and the group turns to face the hovering ghostly forms
-
-The spectral giants reach forth and produce spectral greatswords…
+The ghost giants reached out with translucent hands and drew spectral greatswords from nothing.

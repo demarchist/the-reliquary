@@ -3,6 +3,7 @@ title: The Grafted (anniversary game)
 chapter: 14
 session: 12
 people:
+  - "aldjinn"
   - "aliyah-faen-tlabbar"
   - "ancalagon"
   - "atropos"

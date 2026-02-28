@@ -5,6 +5,7 @@ chapterTitle: Al Askar
 session: 7
 summary: "The Sheik of Ras Alkan awards the party bronze badges for passing the Crucible, they board the ship Fiery Flower, survive a High Storm at sea, and Feanon develops a list of reagents for his reality-mending ritual as they sail toward the Temple of Karthus."
 people:
+  - "aldjinn"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "karthus"
@@ -19,6 +20,7 @@ places:
   - "temple-of-carthus"
 factions:
   - "medjay"
+  - "phaerimm"
 events:
   - "the-calamity"
 ---

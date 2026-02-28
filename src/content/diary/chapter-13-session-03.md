@@ -3,8 +3,8 @@ title: The Voyage Home - The Halflings
 chapter: 13
 chapterTitle: The Voyage Home
 session: 3
+summary: "The group fights off an ambush by corrupted halflings who worship the dark entity Hohonu Hāmau, interrogates captives who refuse to renounce their god, and meets Camea — a friendly halfling shaman whose people oppose the Abyss Walkers and seek help preventing Hohonu's awakening."
 people:
-  - "atropos"
   - "camea"
   - "cirrus-al-kayan"
   - "feanon-serinde"
@@ -23,104 +23,48 @@ factions:
   - "cult-of-zalaam"
 ---
 
-The group is surrounded by a dozen assailants and arrows begin to fly in at the unsuspecting group!
+## The Ambush
 
-The halflings are small, pale and covered in mud.  They are adorned with skulls and grisly trophies and they are all visibly and badly Corrupted.
+A dozen assailants surrounded the group and arrows flew in from every direction. The halflings were small, pale, and caked in mud, adorned with skulls and grisly trophies. Every one of them was visibly and badly corrupted.
 
-The group is shocked and many of them take multiple arrow hits.
+The group took multiple hits before they could react. A black skull arced into the middle of the party and detonated in a wave of corruption — [[Horatio Von Bumidere|Buumi]] caught the worst of it. [[Gundren Rockseeker|Gundren]] was splattered just as he leapt onto [[Arkto]] and felt poison crawl through his veins. The owlbear took to the sky, but the halfling archers tracked them, loosing arrow after arrow. Arkto howled in pain but climbed higher until the shafts fell short.
 
-A black skull is lobbed into the middle of the party and it explodes in a wave of Corruption, covering Buumi the worst.
+Only [[Feanon Serinde|Feanon]] had not been caught flat-footed. The wizard retaliated immediately with blasts of fire and devastating singularities that tore the halflings apart.
 
-Gundren gets splattered just as he leaps onto Arkto and he finds himself poisoned and feeling ill.
+The battle erupted in full as the initial assault failed to overwhelm the party. [[Tarkathee Daru|Tark]] spotted a shaman among the attackers and shadowstepped to him, demanding to know why they were attacking. The shaman hissed that the group would be the new sacrifice to [[Hohonu|Hohonu Hāmau]]. Tark disagreed — by kicking the shaman in the face.
 
-The Owlbear takes into the sky, but the Halfling archers track it, letting loose arrow after arrow
+The halflings continued lobbing corrupted arrows and exploding skulls, but with the momentum of the ambush spent, the fight turned quickly. The group cut them down in the counterattack. Tark deliberately kept two alive, and [[Cirrus Al-Kayan|Cirrus]] charmed two others into ceasing their assault. A fifth fled into the swamp, but when Tark pursued, he watched vines from below the water drag the body under. He turned away.
 
-Arkto howls in pain but climbs even higher to escape the arrows.
+## The Prisoners
 
-Everyone was surprised, save for Feanon, who quickly begins retaliating against the Halfling assailants with blasts of fire and devastating singularities.
+The group gathered around their captives. Two were unconscious, so they interrogated the charmed pair. These halflings were tribal people who lived nearby and worshipped a great creature called Hohonu Hāmau. Cirrus had sensed the entity — when he cast his charm, a voice had told him to back off. Whatever Hohonu was, it was powerful enough to forge pact magic. The corruption on these halflings was different from what they had seen in other villagers — more potent, more virulent, but with seemingly no ill effect on the host.
 
-The battle erupts in full as the initial assault fails to overwhelm the party and they strike back.
+The halflings called it the blessing of their dark god.
 
-Tark spots a shaman and shadowsteps to him, asking why they are attacking.
+The group cleansed them of it by force. The halflings wailed and wept at the severance from their god, and rather than showing gratitude, they began trying to reinfect themselves in Hohonu's name.
 
-The Shaman responds that the group is to be the new sacrifice to Hohonu Hāmau
+Buumi asked them plainly: if freed, would they continue to worship Hohonu and sacrifice others? They would, they said. Their god demanded it to survive the coming fading of this world.
 
-Tark doesnt like the sound of that, and disagrees by kicking the Shaman in the face.
+Tark made a case to save them — they were halflings, like him, who could be rehabilitated. Cirrus agreed, knowing the seductive pull of pact magic all too well. But Buumi had spoken with them long enough to become convinced that leaving them alive while the group travelled through the swamp would prove fatal to his friends. Conflicted, he backed away and turned to Gundren with a nod.
 
-The Halfling loose their corrupted arrows and lob exploding skulls into the group, but with the momentum of the Ambush spent, the battle turns against them quickly
+Gundren shot them both dead, putting the debate to rest.
 
-The group slaughters the corrupted Halflings in the counterattack.
+Tark erupted, furiously shouting at those who had allowed the execution, admonishing them for their callousness and haste. Gundren turned away, uninterested and unaffected, but Buumi's expression crumbled from resolve into shame.
 
-Tark intentionally keeps two of the halflings alive and two others are charmed and stop attacking.
+They kept the two unconscious halflings alive — tightly bound and gagged.
 
-A fifth flees into the swamp, but when Tark pursues, he watches the body being dragged into the water by tangling vines and he turns away.
+## Camea's People
 
-The group gathers around their captives, intent on learning why these strange and hostile halflings attacked them.
+After a short rest, the group pressed on. Two hours deeper into [[Thueba Swamp]], those flying overhead spotted movement — another caravan of halflings, wearing similar clothing and painted in mud, but lacking the horrific trophies. These ones walked openly, making no effort to hide.
 
-Two are unconscious so they interrogate the two charmed Halflings
+After the last encounter, the group chose to let Tark make first contact — halfling to halfling. They hid and watched as the caravan spotted and approached the monk. The introduction was tense, but it quickly became clear this group was friendly.
 
-They discover that these halflings are a tribal people, they live nearby and worship a great creature named Hohonu Hāmau.
+Their leader, [[Camea]], said they had been searching for a group of foreigners in the area, hoping to find them before the dark brethren did. The group showed Camea their captives. The shaman's expression saddened — these were worshippers of [[Hohonu]], and their violence had become the new reality for her people.
 
-Cirrus was spoken to by this creature when he cast a charm spell on some of the other attackers, he heard a voice telling him to back off.
+She offered to take the prisoners, promising they would be treated well, though she admitted their deaths were likely inevitable. For months now, the Abyss Walkers had seized control of her tribe, sacrificing many to their dark god in hopes of awakening it from its ancient slumber — a dark god that was neither Zalaam nor Vecna, she was careful to say. The Abyss Walkers had been part of the tribe for untold ages, growing in power as the world grew darker. Those who followed the old ways, of which Camea was priestess, were forced to hide their allegiances.
 
-Cirrus believes that whatever this creature it, it may be powerful enough to form pacts and indeed, the corruption on these halflings is not the same as the other villagers, it is more potent, more virulent but with seemingly no downside for the host.
+She asked the outlanders for help preventing Hohonu's awakening. The group was noncommittal but troubled by the idea of any entity powerful enough to create pact magic.
 
-The Halflings claim it as the blessing of their dark god.
+They camped together that night in a location Camea chose — one where the insects would leave them be. The two groups swapped stories over a fire, the halflings fascinated and terrified by the outlanders' casual use of metal, especially for something as mundane as cooking.
 
-The group cleanses them of this corruption, forcefully.
-
-The halflings wail and cry to be separated from their god, and rather than be grateful for being cleansed, but begin to try and re-infect themselves in the name of Hohonu.
-
-Buumi asks them that if they were to be freed to live their lives, would they still worship Hohonu and seek to sacrifice the group and others to the beast?
-
-They say that they will, that their god demands it in order to survive to coming fading of this world.
-
-Tark makes a case to save them, that they are halflings like himself that can be cleansed.  Cirrus agrees, knowing full well the lure of pact magic and the influence of these entities.
-
-Buumi talks with the captives some more, but comes away convinced that leaving them alive while traveling through this swamp could prove fatal to his friends.  
-
-He backs away conflicted but turns to Gundren and nods.
-
-As the group is arguing about saving the Halflings and ridding them of this influence vs killing enemies that could cause trouble in this woefully dangerous environment; Gundren shoots them both dead, putting the debate to rest.
-
-Tark is stricken and furiously begins shouting at the group that murdered the two captives, admonishing them for their callousness and haste.
-
-Gundren turns away, uninterested and unaffected, but Buumi begins to look unsure, and then ashamed.
-
-They keep the other two halflings alive but tightly bound and gagged.
-
-The group wraps up their short rest and then they set off again, trekking through Thueba Swamp.
-
-After two hours or so, several of the group in the air, spot movement a little ways further into the Swamp
-
-They see a Caravan of more Halflings, though these ones wear similar clothing and are painted in mud, they lack the horrific and grisly trophies and are walking in the open, seemingly making no effort to hide themselves.
-
-The group decides that after the last batch of murderous halflings, they will hide and let Tark be the one to meet this group. 
-
-Halfling to Halfling, despite the cultural differences.
-
-The group spots and approaches Tark and after a tense introduction, it becomes clear that this group is friendly
-
-The rest of the party comes out of hiding and the leader of the halflings; **Camea** says that they have been looking for a group of Foreigners in the area and they hoped to find them before their dark brethren did
-
-The group shows Camea their captives and the Shaman laments that these are worshippers of the dark entity Hohonu and that their violence is unfortunately the new norm for her people.
-
-She offers to take over stewardship of the prisoners, saying that they will be treated well, but laments that their deaths are likely inevitable, sooner rather than later. 
-
-She says that for many months now, the Abyss Walkers have taken control of her people, sacrificing many to their Dark god, seeking to awaken it from its ancient slumber (a dark god that is NOT Zalaam or Vecna it seems).
-
-The Abyss Walkers have been a part of the tribe for untold ages, gaining in power and influence as the world has grown darker and more chaotic.
-
-With the new schism in the tribe, the followers of the old ways, which she is the priestess for, are forced to hide their true allegiances and lay low.
-
-Camea hopes to change this and asks the Outlanders if they could help her prevent the awakening of Hohonu.
-
-The group is non-commital, but they do not like the sound of this powerful entity, perhaps powerful enough to create Pact Magic.
-
-The group and the halflings decide to rest for the night and with Camea leading them to a safer location, they set up a decent camp for the night where the insects will not bother them.
-
-They spend the night swapping stories and the halflings are fascinated and terrified by the Outlanders use of metal (especially for something as mundane as cooking).
-
-Both groups awake early, the night’s watch having gone smoothly and treat themselves to some of Buumi’s cooking.
-
-They break camp, looking to head further West, in the direction of the supposed Machina factory, and the domain of the halflings, known as** ‘****Ā****ina Pulu**.
+Both groups rose early the next morning, broke camp over Buumi's cooking, and turned west toward the [[Machina Factory]] and the halfling homeland — the 'Āina Pulu.

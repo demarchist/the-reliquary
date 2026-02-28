@@ -14,6 +14,7 @@ people:
   - "jack-mayer-johnson-mathews"
   - "tarkathee-daru"
 places:
+  - "aina-pulu"
   - "barovia"
   - "ethereal-plane"
 ---

@@ -3,6 +3,7 @@ title: The Voyage Home - Thueba Swamp
 chapter: 13
 chapterTitle: The Voyage Home
 session: 2
+summary: "The group destroys the ghost giants, glimpses Vecna's army at the City of the Dead, rescues shipwreck survivors from gargantuan crocodiles, cures JmJm of Zalaam's Corruption, sends civilians to Jareem at the Golden Tower, and begins the long trek across Thueba Swamp — only to be ambushed by corrupted halflings."
 people:
   - "cirrus-al-kayan"
   - "doc"
@@ -15,136 +16,59 @@ people:
   - "tarkathee-daru"
   - "vecna"
 places:
+  - "al-askar"
   - "golden-tower"
   - "machina-factory"
   - "sharza"
   - "thueba-swamp"
 ---
 
-The group rallies as the Ghostly Giants swoop down to attack
+## The Last Ghost
 
-The giants cut at the group and let loose blasts of icy wind
+The ghostly giants swooped down with their spectral blades, cutting through armour and flesh and loosing blasts of icy wind. [[Cirrus Al-Kayan|Cirrus]] was struck twice before managing to banish his attacker to another plane. The group retaliated, destroying the remaining skeletal giants and then methodically cutting down the ghosts one by one.
 
-Cirrus is struck twice before managing to banish his assailant.
+Eventually only the banished spirit remained. The group gathered around the spot where it would reappear and waited. The misty form materialised — and [[Snorbul]] screamed as he fell from the sky, having teleported directly above the giant, and came down splitting it clean in half with his axe.
 
-The group retaliates and destroys the last of the skeletal giants and then methodically destroy the ghosts one by one.
+## The City of the Dead
 
-Eventually, only the banished Ghost remains and the group gathers around where it will return.
+Battered and spent, the group debated whether to push deeper into [[Thueba Swamp]]. Snorbul flew straight up to get a better view of the dark stain on the horizon.
 
-As its misty form appears, the group attacks.
+The City of the Dead — [[Sharza]] — loomed as a dark shadow against the sky. Its massive walls and structures were barely visible through the haze, and all around the great perimeter, legions of undead moved in formation. A churning storm of wild magic boiled over the city, and Snorbul swore he could see a barrier — a massive dome of energy encasing the entire metropolis. The Demiplane, perhaps. Peering closer, he sensed hundreds of Glyphs of Warding, which [[Feanon Serinde|Feanon]] later confirmed.
 
-Snorbul screams as he falls out of the sky, having teleported above the giant, and comes down splitting it in half with his ax
+The group had already planned to leave Al Askar and find their way home. Fighting this vanguard only solidified that resolve. They turned southwest, away from Sharza and toward the [[Machina Factory]] and the Temple of [[Fawden]].
 
-Hurt and exhausted, the group takes gathers to discuss if they should push deeper into the swamp.
+## Survivors
 
-Snorbul flies straight up to get a good look at the dark stain on the horizon
+They stopped by the shipwreck and pulled a small haul of treasure from the wreckage. [[Tarkathee Daru|Tark]] tried to fish something from the swamp but only caught a skeletal arm.
 
-The City of the Dead is visible as a dark shadow against the horizon, the massive walls and structures can barely be seen through the haze and all about the great wall, legions can be seen moving
+The heat and humidity became unbearable. Feanon decided to change the scenery — with a Mirage Arcane, the wizard transformed the landscape for a mile around into a perfect replica of his tower back home. The group was astounded. They tried to rest but quickly discovered that while the scenery had changed, the insects had not.
 
-A great storm of wild magic can be seen churning over the city and Snorbul swears he can see a barrier, like a massive dome of energies encasing the city.
+While Feanon spent the next hour memorising his Magnificent Mansion spell, Tark, [[Horatio Von Bumidere|Buumi]], [[Jack Mayer Johnson Mathews|JmJm]], and Snorbul explored a few islands away and came upon a terrible scene. There had been survivors of the shipwreck — perhaps twenty people who had made it to this island with some of their crates intact. Gargantuan crocodiles, some twenty feet long and others pushing forty, were tearing into them.
 
-The Demiplane?
+Tark spotted a young woman still alive and rushed in, throwing knives into the eyes of the largest beast. Blinded and maddened, it turned on the other crocodiles. The group charged in after him and pulled four people out alive. One man was too badly mauled — Tark put him out of his misery.
 
-As he peers closer still, he senses many hundreds of Glyphs of warnding (confirmed by Feanon)
+They retreated and Buumi healed the worst of the wounds, though every one of those crocodiles had been riddled with corruption, and some of the bite wounds looked infected. They fell back to the rest of the group and found Feanon's Magnificent Mansion waiting inside his illusory tower. The survivors muttered about demigods and empyreans. The group quarantined them in separate quarters in case the infection made them dangerous, then settled in for a much-needed rest.
 
-He returns to the group and tells them what he has seen.
+## Corruption
 
-The group has a plan to leave Alaskar and to return home and fighting this vanguard only solidifies that plan.
+The next morning, a scream from JmJm's quarters shattered the routine. Zalaam's Corruption had taken hold — he was blind, feverish, and hallucinating visions of his disappointed father. Buumi rushed to his side and cleansed the corruption with difficulty. JmJm embraced him as the panic subsided.
 
-The group turns South West, away from Sharzad and heading toward the location of the Machina Factory and Temple of Fawden.
+The healers visited the civilians and found them badly corrupted — feverish with boils, cataracts, and weeping lesions. It was only four people. The group used their holy magic to cleanse them, and [[Doc]] cast Regeneration on two, promising the others would follow the next day.
 
-They stop by the shipwreck and manage to pull a small amount of treasure from the wreckage.
+With the civilians saved, the group sent them to [[Jareem]] at the [[Golden Tower]]. Tark spoke to the Ruby Dragon through their connection, asking him to care for the survivors — and confirming that Jareem was in dragon form, wearing the turban.
 
-Tark tries to fish something from the swamp, but only catches a skeletal arm.
+## The Eye of Vecna
 
-The oppressive heat and humidity of the swamp becomes unbearable and Feanon decides to change the scenery.
+The mansion spell ended and the group found themselves in Feanon's illusory tower. Before leaving, the wizard climbed to where his teleportation ring would have been and gazed across the swamp.
 
-Using a Mirage Arcane, the Wizard changes the landscape for a mile around, making it a perfect replica of his Tower back home.
+The dark stain on the horizon rumbled with purple lightning. Without warning, Feanon's vision was ripped forward — rushing across the leagues to the City of the Dead, through crumbling streets, and up the onyx flanks of a vast pyramid. Atop it, a swirling vortex of energy lit the sky. Hordes of undead shambled through decayed streets below, and darker things glided through the storm clouds above.
 
-The group is astounded
+The vortex twisted and formed the shape of a great eye. [[Vecna]] saw Feanon. In the wizard's mind came the voice of Zalaam — of Vecna — telling him he should join. Feanon turned away, breaking the vision, and descended his tower in silence.
 
-They try to rest but quickly find that although the scenery has changed, the bugs remain.
+## The Ambush
 
-Feanon then takes the next hour to memorize his Magnificent Mansion spell for some proper shelter
+The group turned southwest and began the long trek across the fetid expanse of [[Thueba Swamp]]. The hours dragged. Humidity hung thick. Insects bit at their eyes and mouths, and those who could fly or ride did so to escape the worst of it.
 
-As he is doing this, Tark, Buumi, JmJm and Snorbul explore a little bit and come across a terrible scene a few islands away.
+When they reached a stretch of denser islands, they gathered for food and water. As they ate, the attack came.
 
-There were survivors of the shipwreck, but they did not get very far.
-
-Maybe 20 people had come to this island with some of their crates intact.
-
-They had been set upon by massive reptillian beasts
-
-Gargantuan crocodiles, some twenty feet, some getting up to forty are tearing into the caravan “survivors”
-
-Tark spots a young woman, still alive and rushes in, throwing knives into the eyes of the biggest croc, who goes wild and starts to fight the other crocodiles nearby (not understanding where the attack came from)
-
-The group rushes in, grabbing four people still alive
-
-Tark puts one badly mauled man out of his misery
-
-They retreat to a safe distance and Buumi goes about healing the worst of their wounds.
-
-Concerningly though, all of those crocodiles were riddled with corruption and some of the bites look infected…
-
-They fall back to the rest of the group and find that Feanon has created his Magnificent Mansion within the Arcane Mirage of his tower.
-
-The shipwreck survivors are awed and mutter about “demigods” and “empyreans”
-
-The group sequesters the survivors in their own quarters in case their infection causes them to become dangerous
-
-The group then settles into their quarters for the evening, taking a much needed rest.
-
-
-The next morning, the regular routine is interrupted by a scream from JmJm’s quarters
-
-It appears that while rescuing the civilians, he has become infected by Zalaam’s Corruption.  He is blind! And Feverish with hallucinations of his (disappointed) father!
-
-Buumi rushes to his friends side and cleanses the corruption, with some difficulty.
-
-JmJm embraces him as the panic subsides and then the morning routine continues.
-
-The healers visit the Civilians and find that many of them are badly corrupted, feverish with boils, cataracts and lesions
-
-It's only four people and the group uses their holy magics to cleanse them of the disease and Doc casts Regeneration on two of them, promising to get the other two the next day.
-
-With the civilians saved, the group sends them to Jareem in the Golden Tower.
-
-Tark chats with the Ruby Dragon and lets him know to take care of the civilians
-
-He also asks if Jareem is in Dragon form and wearing the Turban.
-
-He is.
-
-The mansion spell ends and the group finds themselves in the Mirage Arcane of Feanon’s tower
-
-Before leaving the area, Feanon goes to the top of his tower, to where his Teleportation ring would be and looks out across the expanse of the swamp.
-
-
-
-
-The stain on the horizon rumbles with purple lightning and all of a sudden, Feanon finds his vision transported, rushing across the leagues to the city of the dead, through its crumbling streets, and up the onyx sides of a vast pyramid. 
-
-Atop it a swirling vortex of energies lights the sky.  Hordes of undead shamble through the decayed streets and darker things glide through the stormy clouds. 
-
-The energies atop the Pyramid twist and look like a great eye. 
-
-Vecna sees Feanon. 
-
-In his mind the Wizard hears Zalaam, Vecna, saying that Feanon should join him.  The wizard turns away, breaking the vision, and descends his tower.
-
-The group turns to the Southwest and they begin their long and arduous trek across the fetid expanse of Thueba Swamp.
-
-The hours drag by and the humidity hangs thick about the place
-
-Bugs bite and fly around the groups eyes and mouths and they do all they can to fly or ride above the swamp
-
-The trek is exhausting 
-
-As the group gets to a particularly island filled section, they group up for a bite to eat and drink
-
-As they do, they are attacked in an ambush
-
-Small, pale figures rise from the vegetation, mud and descend from trees throwing blighted spears and shooting dark arrows.
-
-The Halflings of Alaskar are attacking!
+Small, pale figures rose from the vegetation, the mud, and the trees — hurling blighted spears and loosing dark arrows. The halflings of Al Askar were attacking.
