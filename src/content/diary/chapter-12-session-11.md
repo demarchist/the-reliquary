@@ -3,6 +3,7 @@ title: Al Askar - Drizzly Dawg
 chapter: 12
 chapterTitle: Al Askar
 session: 11
+summary: "The party leaves the purified Temple of Karthus, survives a giant's boulder, sails to Pirate's Cove, and abandons Lady Taurus's ship-recovery job in favour of chartering the pirate captain Drizzly Dawg and his stolen vessel The Revenger to sail to Iyum."
 people:
   - "cirrus-al-kayan"
   - "drizzly-dawg"
@@ -16,113 +17,37 @@ people:
   - "snorbul"
   - "tarkathee-daru"
 places:
+  - "al-askar"
   - "iyum"
-  - "ras-alkan"
   - "temple-of-carthus"
 ---
 
-The group rests for only a short time in the Temple of Carthus
+## The Purified Temple
 
-While there though, Feanon makes contact with the entity at the heart of the place.
+The group rested only briefly at the Font of Power. While there, [[Feanon Serinde|Feanon]] made contact with the entity at the temple's heart — an ancient hive-mind growing deep within the planet, a servant of the god [[Karthus]]. By attuning themselves at the font, the party had purified the temple above, re-consecrating it after centuries of corruption.
 
-An ancient hive-mind growing deep within this planet and a servant of the god Carthus.
+[[Gundren Rockseeker|Gundren]] produced the Horn of Feasting — safe to use in this sanctified space without risk of wild-magic surges — and the group feasted properly for the first time since arriving on Al Askar. [[Liara]] thanked them again, her gratitude raw and earnest. She knew her own companions could never have managed this.
 
-Feanon learns that by coming here, to this font and attuning themselves, the temple above has been purified and is once again, concecrated
+They ascended the dais to the surface. The [[Temple of Carthus|temple]] was transformed — corruption gone, leaving only clean stone, dust, and bleached bones. The first pilgrimage in centuries, complete.
 
-Gundren pours out the Horn of feasting as there’s no danger of wild magic in this sanctified space.
+## Giants and Flight
 
-They feast and then pack up to head out.
+The sun was setting as they set out across the badlands toward the coast. [[Cirrus Al-Kayan|Cirrus]] leapt forward, his black wings unfurling as he took flight. [[Horatio Von Bumidere|Buumi]] warned him that he made a very tempting target. Cirrus ignored him.
 
-Liara once again thanks the group profusely for getting her this far, a feat she knows her own friends could not have managed.
+A boulder knocked him from the sky.
 
-They take the dais back to the ground level
+Off in the distance, three massive figures — barely visible, but their booming laughter echoed across the wasteland. *"LOOKS LIKE YOU HIT IT!"* Liara called them Marid — giants with elemental affinities. Cirrus skated along the ground back to the group, suddenly less enthusiastic about aerial travel.
 
-The place is now clear of corruption, leaving only stone, dust and bleached bones
+At the cliffs, Cirrus flew a rope down while Gundren secured the top. Everyone rappelled safely, and [[Tarkathee Daru|Tark]] descended last. On the beach, Thirsty-Fingers waited by the rowboat. They rowed out to the Fiery Flower.
 
-The sun is setting and they have quite a lot of ground to cover to make it to the boat.
+As Cirrus swooped around the vessel, Liara warned that his black feathered wings could mark him as an Ifrit — a being of the lower planes. After some heated discussion, Cirrus relented to hide his wings, but swore he would bring the religion of [[Selune]] to this world.
 
-Cirrus leaps forward, his wings flapping as he takes flight.
+## Pirate's Cove
 
-As he goes, Buumi warns the Warlock that he makes a very tempting target flying like that.
+They sailed to Pirate's Cove — a shantytown free-port of fighting pits, gambling, drink, and excess that made Buumi snap his eyes away from several scandalous sights. The guards at the entrance were no match for [[Snorbul]]'s excessive flexing, and the group bluffed their way inside.
 
-Cirrus ignores him and flies onward
+They spread out searching for the missing ship — the Royal Venture. Buumi arm-wrestled, Tark played chance-cubes, and through high-stakes questioning they located the vessel at the docks, being refitted with its name half-repainted. The captain was a pirate called [[Drizzly Dawg]].
 
-Until he’s hit by a thrown boulder.
+The group convened and made a pragmatic decision. Rather than recover [[Lady Taurus]]'s ship, they would simply charter Drizzly and his stolen vessel to take them to [[Iyum]] — the largest city in the region and closer to other temples and the Ruby Dragon. Buumi objected on moral grounds until Liara promised to compensate Lady Taurus from Iyum — though she was reluctant to commit, and Thirsty-Fingers pointed out that Lady Taurus was no saint herself. She had used the Royal Venture to smuggle serfs.
 
-Knocked from the sky, the Warlock almost hits the ground before catching himself
-
-Off in the distance, three massive figures can barely be seen, though their booming laughter echoes across the badlands.
-
-“LOOKS LIKE YOU HIT IT!” they bellow
-
-Cirrus skates along the ground back to the group, unwilling to attract the attention ofthe giants.
-
-Buumi aks Liara what kind of Giants they have here, she calls the Marid, which have elemental affinities.
-
-The group makes it back to the cliffs in good time
-
-Unwilling to free climb down, they have Cirrus fly a rope down and secure it at the bottom while Gundren secures it at the top
-
-Tark releases the rope once everyone is safely down and then follows.
-
-On the beach is a small campfire and Thirsty-Fingers is there waiting by the rowboat.
-
-They hop in and begin to row out to the Fiery Flower
-
-As Cirrus begins to swoop and fly around the rowboat, Liara warns the tiefling that his black feathered wings might mark him as an Ifrit, a being of the lower planes
-
-After some discussion, Cirrus relents to hide his wings so as not to attract the wrong kind of attention, but he swears that he will bring the religion of Selune to this place.
-
- They get aboard the vessel and then begin to sail to the Pirates Cover to do the job they promised Lady Taurus.
-
-The group charms the captain into dining with them
-
-That night, they discuss their plans.
-
-They will be dropped of on the shore as they approach the cove, allowing the Fiery Flower to return to Ras Alkan.
-
-Thirsty will come with them as the sailing expert and the group will then hunt down the boat and discover the disposition of the Pirates that stole it.
-
-They sail for most of the next day, nearing the Pirate cove in the afternoon.
-
-They are rowed ashore and dropped off, Thirsty with an appropriate eye-patch and mustache disguise.
-
-They hike in overland and through the dust2y badlands here.
-
-As they near the location, the trail dips into the rock, creating a natural avenue down to the coast and a modest space containing the Pirate’s Cove
-
-There are guards out front but the group bluffs and intimidates their way in (Snorbul flexed excessively)
-
-They head into this small shanty-town esque freetown and find the place to be a veritable party of excess.
-
-Fighting pits, gambling, whoring, drink, food and competitions abound and Buumi has to snap his eyes away from some fairly scandalous sights
-
-They spread out searching the place for signs of the ship - The Royal Venture
-
-Buumi arm wrestles someone, Tark plays Chance-cubes and there’s some high-stakes questioning before the ship is found down at the docks being re-fitted, the name in the process of getting re-painted.
-
-They find out that the name of the captain of the ship is Drizzly Dawg
-
-The group moves off to find a group of pirates that might know him.
-
-They find one group that looks fairly disreputable and are pointed in the right direction.
-
-As the group rendezvous at the docks, they decide to take a peaceful approach to this situation.
-
-They’re going to ditch Lady Taurus and simply charter Drizzly and his new ship to take them to Iyum, the largest city in the area and ideally, their next destination (closer to other temples and the Ruby Dragon seen in the area).
-
-Buumi has a moral objection to ignoring Lady Taurus’ quest and gets Liara to promise to compensate her when they get to Iyum.
-
-Liara is reluctant to commit and Thirsty mentions that Lady T was no saint - she used the Royal Venture to Smuggle Serfs
-
-Buumi relents a little and Cirrus approaches the ship, calling for Captain Drizzly Dawg
-
-A dashing Elf with blonde locks and bronze skin comes to the railing.
-
-A real Fabio-type
-
-He looks down with interest at the group, his discerning eyes taking them in.
-
-They talk for only a moment before the Captain offers them a spot on the trip to Iyum, a dangerous voyage.
-
-They agree and the group ascends the gangplank to the newly christened ship, The Revenger (they tried to save as much gold lettering as they could…)
+Cirrus approached the ship and called for the captain. A dashing elf with blonde locks and bronze skin appeared at the railing — a real Fabio type. He looked over the group with discerning eyes, offered them passage in moments, and they boarded the newly christened Revenger. The pirates had tried to save as much gold lettering as possible in the renaming.

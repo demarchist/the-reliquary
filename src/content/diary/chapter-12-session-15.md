@@ -3,6 +3,7 @@ title: Al Askar - Leaving the Isle
 chapter: 12
 chapterTitle: Al Askar
 session: 15
+summary: "The party hunts down and destroys the vampires' coffins in underwater sea caves, rescues the surviving acolytes, claims treasure and a new ship, then sails toward Iyum — discovering the wreckage of a crashed flying vessel containing a red slipper identical to JmJm's."
 people:
   - "cirrus-al-kayan"
   - "drizzly-dawg"
@@ -14,96 +15,44 @@ people:
   - "snorbul"
   - "tarkathee-daru"
 places:
+  - "al-askar"
   - "iyum"
-  - "serinde-isle"
+things:
+  - "tome-of-al-azif"
 ---
 
-The group begins to scour the lair, looking for secret passages, coffins and treasure.
+## The Crypts Beneath the Sea
 
-They find precious little save a magical mirror and a crystal ball for scrying, until on his second pass, Gundren finds a secret stair
+The group scoured the fortress for secret passages. [[Gundren Rockseeker|Gundren]] found a hidden stair — heavily trapped but passable — that descended beneath the island into sea caves. [[Cirrus Al-Kayan|Cirrus]] sent a celestial to scout ahead. It did not return.
 
-It is heavily trapped by they make their way through it, descending beneath the isle and into sea caves
+With water breathing cast, the party entered the underwater tunnels cautiously. Past a particularly aggressive cluster of anemones, they found a large chamber containing two stone sarcophagi. At the entrance, Gundren discovered an ancient ring of metal embedded in the wall — an anti-magic field that would strip all enchantments from anything passing through. He worked to remove it while [[Snorbul]] burrowed a bypass with his gloves.
 
-Cirrus summons a Celestial to scout it out, but the creature does not return to report
+The delay cost them. One sarcophagus lid opened and Lord Nehi rose — shocked to see the party at his resting place. He summoned a fog cloud and fled in gaseous form, barely escaping Cirrus's sickening radiance. Lady Takhat's coffin was already empty, cracks in the walls showing her escape route.
 
-Concerned, the group moves into the underwater tunnels with caution and a spell of Water Breathing
+The party split. Half destroyed the coffins while the others raced to the surface. In the tunnels, Lord Nehi appeared and begged for mercy. The group gave him none. They killed him just as his coffin was smashed apart above.
 
-Moving through, they ask local wildlife if they have seen anything unnatural, and after getting past a particularly grabby set of anonemies, they come to a large chamber containing two large stone sarcophagi
+They reached the beach to find Lady Takhat feeding on the unconscious acolytes. [[Liara]] restrained her with animated kelp, and [[Tarkathee Daru|Tark]] shattered her for the last time. When sunlight finally touched this island, the Shaa'barid would be truly destroyed.
 
-Unwilling to just rush in, they investigate the entrance to the chamber, suspecting traps and end up finding an ancient ring of metal embedded into the wall that dispels anything magic passing through it.
+## Liara's Secret
 
-Gundren works to remove it from the wall (to take) and Snorbul retrieves his burrowing gloves and creates a small passage around it.
+The acolytes were woken and tended to. Withdrawal from the vampires' cursed feedings would take time, but Liara had experience with this — she revealed quietly that she had been a favoured thrall of [[Rudjek]] himself. She knew exactly what these people had endured.
 
-Finding the coffins and burrowing around the anti-magic ring has taken a great deal of time and as they wrap up, one of the lids opens and Lord Nehi rises from it.
+The ransacked crypt yielded over twenty thousand Durhams, a magical mirror, and a crystal ball. They found two sets of sails for the moored ship, stripped the island of food and water — storing the water in a marble of Dust of Dryness — and rigged the vessel with Thirsty's help and the crew from [[Drizzly Dawg]]'s ship.
 
-He is shocked to see the group and instantly summons a Fog cloud and runs away in gaseous form - not a moment before Cirrus summons a sickening radiance to burn him to ash.
+They left the island as the sun set and the thunderclouds began to disperse.
 
-The group then begins to work methodically, though then note Lady Takhat is also gone from her sarcophagi and note cracks in the walls she could have escaped through.
+## The Falling Star
 
-They begin to systematically destroy the coffins.
+That night, [[Feanon Serinde|Feanon]] studied the [[Tome of Al Azif]] and endured a waking nightmare vision of death — Zalaam's taunting. He was shaken but refused to yield.
 
-The group splits and half begin to return to the surface
+The group sailed toward the Throat of Al Hawia — the strait and archipelago connecting the ocean to the city of [[Iyum]]. They tended the acolytes, watched plesiosaurs dance among the waves with water sprites chasing the ship, and Liara shared more of her time under Rudjek's control.
 
-On the way, Lord Nehi appears in the tunnels and begins to beg for mercy, but the group is having none of it and quickly kill the Vampire, just as his Coffin is smashed apart.
+That night, a shooting star streaked across the sky and impacted on the horizon.
 
-The group realizes the acolytes on the beach are vulnerable and rush back to the surface
+The next morning, smoke plumes confirmed the impact. Tark, Snorbul, and Gundren took various magical transport inland to investigate. The first plume revealed a slab of aluminium — clearly a piece of large artifice, churning a furrow through the badlands. The largest plume was far worse: a massive chunk of a metal ship, arrowhead-shaped, twisted and burning with sparking arcane energies. Multiple twisted decks were visible in the wreckage.
 
-They make the beach just as Lady Takhat is beginning to feed on the unconscious Acolytes.
+And inside, bizarrely out of place: a single red slipper with a curled toe.
 
-She is restrained by animated Kelp from Liara and then smashed apart by Tark.
+Tark's blood ran cold. The slipper was identical to [[Jack Mayer-Johnson Mathews|JmJm's]] footwear. But the bard couldn't possibly have been aboard a crashed flying vessel on Al Askar.
 
-The group convenes on the beach, the Vampires slain and their resting places destroyed.
-
-When the sun finally shines on this island, the spirits of the Vampires will be truly destroyed.
-
-The group wakes the acolytes and Thirsty Fingers, tending to their needs and doing their best to alleviate the withdrawl of the Vampire’s cursed feedings.
-
-It will be a long while before they are fully ok, but Liara has experience with this and is there to assist.
-
-She informs the group that she was a favored Thrall of Rudjek and knows what they have gone through.
-
-The group goes through the chests of treasure that they ransacked from the Vampires crypt and find themselves with well over 20,000 Durhams, far richer than they had been previously and with two sets of sails for the small ship moored in the bay.
-
-They fully ransack the island of food and water (taking all the water in a marble of Dust of Dryness)
-
-They head over and rig the ship with the help of the few crew that had come from Drizzly Dawg’s ship and had sheltered on board while the group dealt with the Vampires.
-
-They finally leave the isle just as the sun is setting and the thunderclouds begin to disperse.
-
-That night, Feanon studies the dark tome, seeing a vision of death as a waking nightmare.
-
-Feanon is shaken, but unwilling to give in to Zalaam’s taunting.
-
-The next day, the group deals with sailing the ship and make good time to the Throat of Al Hawia; the Straight and archipelago connecting the ocean through to the city of Iyum.
-
-They talk with the acolytes and tend to them with Liara talking about her time under Rudjek 
-
-as they talk, watch plesiosaurs dance among the waves with water sprites chasing the ship.
-
-That night, they see a shooting star, or meteorite streak across the sky and impact off on the horizon.
-
-They endeavor to go and investigate it in the morning as such things are normally very valuable.
-
-The next morning, they see smoke plumes on the horizon, confirming that something did indeed fall from the heavens.
-
-As they get close to the coast, they moor the ship while Tark, Snorbul and Gundren take various magical means of transport inland to investigate the smoke.
-
-They check the first plume and find that a large slab of metal (aluminum) has crashed, churning a furrow in the badlands and burning what little vegetation there is.
-
-It is clearly a piece of a large work of artifice.
-
-As they head in further, getting closer to the largest plume of smoke, they spot a high-storm on the horizon - a massive wall of dust and particles lit by flashes of purple lighting racing across the badlands.
-
-They arrive at the smoke and find a crash site.
-
-A massive chunk of a metal ship has impacted here and is in a bad state, the metal twisted and burning, arcane energies sparking.
-
-They investigate, moving in to see several twisted decks on the interior of the arrowhead shaped vessel.
-
-Back on the moored ocean-going ship, they spot the incoming Highstorm and begin to raise the anchor to move away from the coast 
-
-They hope to better weather the storm farther from the coast and hope that Gundren, Tark and Snorbul can find shelter.
-
-Inland, the three adventurers move into the wreckage to take shelter from the storm and find something bizarrely out of place - a single red slipper with a curled toe.
-
-Tark recognizes it as identical to that of JmJm’s footwear, but the Bard couldn't have been aboard this strange vessel in Alaskar…could he?
+Could he?

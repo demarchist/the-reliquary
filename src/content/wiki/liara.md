@@ -23,3 +23,4 @@ Her use of necromancy in combat — raising a fallen beast's corpse to fight —
 - Capable necromancer and healer
 - Teaches the party to mitigate wild sourcery surges
 - Knows a lullaby about Al Askar's moon being chased by its binary star
+- Revealed she was once a favoured thrall of Rudjek, giving her firsthand understanding of vampire enthrallment

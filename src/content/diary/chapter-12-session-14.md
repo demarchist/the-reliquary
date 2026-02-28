@@ -1,8 +1,9 @@
 ---
-title: Al Askar - The Shaa’barid
+title: Al Askar - The Shaa'barid
 chapter: 12
 chapterTitle: Al Askar
 session: 14
+summary: "The party confronts the energy vampires Lord Nehi and Lady Takhat, who refuse to surrender their ship and kill several acolytes with lightning. The group storms the fortress, destroys four flesh golems, and Snorbul body-slams both Shaa'barid from the sky — shattering them."
 people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
@@ -18,162 +19,40 @@ things:
   - "arkto"
 ---
 
-As the group turns back to their meals, Buumi and Tark share a glance, wondering if they should strike.
+## Snorbul's New Sight
 
-Cirrus gets them to calm down as he turns to try diplomacy one more time.
+[[Snorbul]], who had been acting strangely since the [[Temple of Carthus|Temple of Karthus]], suddenly yelped in pain and covered his eyes. He could see magic — and [[Feanon Serinde|Feanon]] and [[Cirrus Al-Kayan|Cirrus]] had practically blinded him. More usefully, the gnome spotted that four statues in the grand hall were saturated with necromantic energy. Flesh golems.
 
-As he does, a nearby acolyte whispers something to Lord Nehi and the Lord gestures to someone across the room.
+A scuffle between acolytes drew [[Gundren Rockseeker|Gundren]] to his feet. He headbutted the knife-wielder unconscious, laughed, and sat back down to eat. Feanon watched Lord Nehi rush to the fallen man's side and pieced it together. These were energy vampires — Shaa'barid — who fed on strong emotions. The touching, the drama, the instigated conflicts: all of it was feeding.
 
-Snorbul, who has been acting a bit weird since the Temple of Carthus, suddenly yelps in pain and covers his eyes
+Cirrus tried diplomacy one final time, laying it out plainly: they wanted the ship. If the vampires didn't surrender it, the group would take it. This time, the message landed. Nehi and Takhat realized these outlanders were not ordinary prey. They asked the group to leave and swept from the hall up spiral staircases, abandoning their acolytes.
 
-Suddenly, the Gnome can see magic and Feanon and Cirrus all but blinded him.
+## Lightning and Blood
 
-The Gnome does notice though, that four statues in the grand hall are exuding strong necromantic energies.
+The party tried to convince the acolytes to leave with them. Most refused, but followed the group down to the beach. There the ship sat in the cove — without sails. The acolytes would not reveal where the sails were hidden.
 
-Everyone suspects Flesh Golems
+Examination revealed all the acolytes had been slowly drained of life force. The feeding was lethal given enough time. The group counter-charmed half and put the worst-affected to sleep, loading them into the dinghy with Thirsty Fingers.
 
-The Acolyte leaves the table and moves across the room, talking with another man
+A massive lightning bolt struck the water beside the dinghy — a warning shot that no one registered. Moments later, a second bolt hit the small vessel dead-on. The acolytes were killed instantly. Thirsty was thrown into the water, unconscious.
 
-Soon though, there is an altercation and one of them is thrown to the ground, the other pulling a knife.
+[[Tarkathee Daru|Tark]] dove in, grabbed the man, and swam him to shore — noting reef sharks converging on the corpses and what might be an underwater cave below. [[Liara]] rushed to stabilize him.
 
-Gundren leaps up, headbutting the knife wielder so hard, he’s immediately dropped unconscious
+A booming voice declared: leave, or the remaining acolytes die. Cirrus covered the sleeping hostages with a globe of invulnerability. Lightning struck Liara, badly wounding her, and she took shelter with the protected acolytes.
 
-Gundren laughs and sits back to eat
+The group charged up the stairs. Time to kill some vampires.
 
-As Nehi rushes to the downed mans aid
+## The Shaa'barid Fall
 
-Feanon thinks he figures out what is going on.
+As they entered the grand hall, Snorbul's new power surged — wild magic erupted and the gnome began to fly, coursing with uncontrolled energy.
 
-These are Energy Vampires
+The four flesh golems animated. Two swirling orbs of lightning and wind formed in the chamber's centre, and blasts rained down from the clouds through the open ceiling. High above, two hawks shrieked in enjoyment — and in doing so, revealed themselves to the attentive party.
 
-They are instigating drama and other strong emotions to feed upon the humans.
+Gundren summoned [[Arkto]] as Snorbul rocketed upward toward the hawks. Feanon's minute meteors hammered the flesh golems while Tark and [[Horatio Von Bumidere|Buumi]] kept them engaged. Cirrus ignored the melee entirely and sprinted up the spiral stairs, emerging on a balcony to spot the hawks in the storm above.
 
-By touching people, it seems it creates a stronger connection for them to feed
+Snorbul took blast after blast of lightning but kept climbing. He caught one hawk and the vampires descended on him, feeding with sparking claws. His energy drained, he roared in rage and grabbed the hawk out of the air — then fell, intending to crush it against the stone. The hawk shifted into Lord Nehi's form and tried to charm Snorbul. The gnome resisted.
 
-Cirrus tries one last time, he lays out what they are here for: The Ship, and that if they do not give them the vessel, they will take it…
+Just before impact, Feanon caught Snorbul with telekinesis. Lord Nehi hit the ground alone. The entire party turned on the exposed vampire and pummelled him. His body cracked and shattered like a marble statue.
 
-The Vampires understand this time and also realize that this group is unusual.
+Cirrus healed Snorbul's drained energy from the air. The second hawk made the mistake of dipping too close. Snorbul grabbed it too, performed the same manoeuvre, and Lady Takhat shattered against the stone just as her lord had.
 
-They decide that the group has outsayed their welcome and they ask the group to leave their island.
-
-They do not attack, but the Lord and Lady leave the room quite quickly up nearby spiral staircases.
-
-Left alone, with the acolytes, the group tries to convince the human followers to simply leave the island with them.
-
-At first, they all refuse, but do follow the group around the island to attend to their needs.
-
-Being followed, the group heads out of the stone complex and down the stairs to the beach and the ship moored in the cove here.
-
-The clouds are grey in the sky and rumble with thunder.
-
-They spot two hawks circling high above.
-
-On the beach, they see Thirsry Fingers by a dinghy looking a little apprehensive.
-
-They ask him what’s wrong and he says there are no sails on the ship…
-
-They ask the Acolytes and they refuse to say where their masters have stashed the sails.
-
-They try and talk with the acolytes but they are pretty tight lipped
-
-They take a closer look at the acolytes and determine that all of them have had their life-force eroded
-
-The feeding by the energy Vampires does seem to be deadly given enough time
-
-The group counter-charms about half and then put the really far-gone acolytes to sleep
-
-They load up the Dinghy with the counter-charmed acolytes and have Thirsty begin to row them out to the ship while the group returns to “convince” the Vampires to part with their sails
-
-A massive blast of lightning hits near the Dinghy just as its pushing off - a Warning shot, though no one picks up on it
-
-The Dinghy sets out into the water and a moment later, the small vessel veritable explodes as its hit by a blast of lightning from the clouds above
-
-The acolytes are all killed instantly and Thirsty is thrown into the waters, unconscious
-
-Tark rushes out to the man, grabbing him and swimming him back to shore.
-
-As they are underwater for a moment, Tark notes many Reef sharks heading toward the corpses and what appears to maybe be an underwater cave among the reef of the Cove
-
-Tark pulls Thirsty on to shore and Liara rushes to Stabilize him
-
-A booming voice declares that the Group must leave, if they do not, the remaining acolytes will be killed just as the others were.
-
-Unwilling to negotiate with vampires, Cirrus covers the sleeping hostages with a globe of invulnerability 
-
-Liara is struck by a blast of lightning, hurting her badly and forcing her to take shelter with the hostages.
-
-She will see to the acolytes health (and her own)
-
-The group rushes up the stairs, back to the main structure
-
-Time to kill some Vampires.
-
-As they move into the grand hall, something strange happens
-
-With a pulse of magic and a flash of discharged electricity, Snorbul lets out a shout and begins to fly
-
-Feanon looks closely and senses a tumult of magic around the Deep Gnome
-
-The natural magic of the Gnome is acting strangely in this land and he appears to be causing some kind of wild magic surge!
-
-Knowing there are four Flesh golems in the room, the group moves to destroy them first and then force the Vampires into battle.
-
-As they move to attack the “statues” there’s a flash and a blast of lightning descends from the sky and through the open ceiling of the hall, forcing Tark to Dodge.
-
-The blast strikes one of the Flesh Golems and the energy revitalizes the creature, healing it.
-
-In the center of the room, two swiling orbs of lightning and wind begin to form, blasts of lightning now emanating from them as well.
-
-High above, the hawks let out shrieks of enjoyment
-
-But in their arrogance, the Shaa’barid Vampires have confirmed their positions to the attentive and intelligent group
-
-Gundren throws down the magic figurine of Arkto and summons forth his flying mount as Snorbul, adjusting to his flying, begins to rocket upward to attack the hawks.
-
-Feanon summons his minute meteors and begins to deal significant damage to the Flesh Golems as Tark and Buumi keep them occupied.
-
-Cirrus rushes past the battle though to go up the spiral stairs he saw the Vampires go up earlier.
-
-Climbing up, he finds bedchambers but no Vampires.
-
-He moves to the Balcony and looks up into the stormy sky, spotting the Hawks that he is now sure are the Vampires.
-
-As Snorbul races upward, he is struck by blast after blast of lightning.
-
-He swings at one of the hawks, hitting it and Gundren shoots it several times
-
-Both Hawks then dive on Snorbul and with flashing claws and sparks of electricity, they feed upon and drain Snorbul
-
-He feels his energy being drained and lets out a yell of rage, redoubling his attacks
-
-As he catches the hawk again, he grabs it out of the air, grappling the beast tight and then falling from the sky, intent on bearing the hawk to the ground to crush it against the stone.
-
-The hawk shapeshifts into the form of Lord Nehi and he tries to charm Snorbul to let him go.
-
-Snorbul resists
-
-Just as they are about to hit the ground, Feanon catches Snorbul with telekinesis and Lord Nehi slams into the ground.
-
-Moments later the entire force of the group turns on him and pummels him
-
-His body cracks and shatters, like a marble statue being destroyed.
-
-Now flying above the battlefield himself, Cirrus lets out a yell and then heals Snorbul of his drained energy
-
-The second Hawk is still circling and begins to blast the group with lightning again.
-
-It has erred though and gotten too close to the ground.
-
-The group manages to catch it in the air and Snorbul grabs it, doing the same trick as before.
-
-Once again, the Vampire thinks to charm Snorbul, but once again, he resists and smashes Lady Takhat into the ground once more, shattering her body too.
-
-Tark, now falling as well, is caught by Liara as she summons a cube of water beneath him.
-
-He falls into it, crossing his arms and keeping his body straight, moving through the water easily and averting his fall.
-
-The group is burned and singed from the blasts of lightning and the Flesh Golems are all destroyed.
-
-As they watch though, mist rises from the shattered bodies of the Shaa’barid and flow away, dissipating.
-
-The group knows better with Vampires though, they will be back unless their hallowed resting place is destroyed…
+Mist rose from the broken bodies and flowed away. The group knew better — they would return unless their resting places were destroyed.

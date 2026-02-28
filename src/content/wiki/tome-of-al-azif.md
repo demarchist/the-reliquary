@@ -16,4 +16,4 @@ The tome teaches powerful but dangerous spells, including the spell Torture. Rea
 
 ## History
 
-Fëanon studies the Tome of Al Azif despite warnings about its corrupting influence. The dark knowledge it imparts contributes to changes in the wizard's character and abilities, representing one of the campaign's key moral dilemmas about the price of power.
+Fëanon recovered the tome from the Cult of Zalaam in the Saurian mines. He continues to study it aboard The Revenger during the voyage to Iyum, enduring its threats and enticements — writing appears in the book, threatening him and luring him toward undeath. On one occasion, it inflicts a waking nightmare vision of death, Zalaam taunting the wizard. Fëanon refuses to yield to the entity each time and extracts new spells from its pages, but the dark knowledge is taking its toll. The tome represents one of the campaign's key moral dilemmas about the price of power.
