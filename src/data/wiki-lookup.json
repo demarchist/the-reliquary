@@ -1794,6 +1794,21 @@
     "title": "Karsus",
     "category": "People"
   },
+  "karthus": {
+    "slug": "karthus",
+    "title": "Karthus",
+    "category": "People"
+  },
+  "carthus": {
+    "slug": "karthus",
+    "title": "Karthus",
+    "category": "People"
+  },
+  "karthas": {
+    "slug": "karthus",
+    "title": "Karthus",
+    "category": "People"
+  },
   "kasimir": {
     "slug": "kasimir",
     "title": "Kasimir",
@@ -1892,6 +1907,11 @@
   "lady faye": {
     "slug": "lady-faye",
     "title": "Lady Faye",
+    "category": "People"
+  },
+  "lady taurus": {
+    "slug": "lady-taurus",
+    "title": "Lady Taurus",
     "category": "People"
   },
   "laeral silverhand": {

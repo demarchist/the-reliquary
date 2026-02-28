@@ -12,6 +12,7 @@ people:
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "jareem"
+  - "karthus"
   - "liara"
   - "vecna"
 places:

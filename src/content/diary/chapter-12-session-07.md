@@ -6,6 +6,8 @@ session: 7
 people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "karthus"
+  - "lady-taurus"
   - "liara"
   - "rudjek"
   - "snorbul"

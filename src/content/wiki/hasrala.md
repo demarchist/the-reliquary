@@ -12,7 +12,7 @@ Hasrala is an ancient Saurian — a member of the long-lost civilization that wa
 
 ## Role in the Campaign
 
-The party discovers Hasrala's phylactery and helps transfer her consciousness into a machina body. In return, she provides invaluable knowledge about the Ringed Veils network and helps calculate coordinates for the party's journey home to Faerûn.
+The party discovers Hasrala's phylactery in the Saurian mines and carries her memory core until reaching Al Askar, where Gundren finds a half-wrecked machina in the ancient ruins. After a quick repair, Tark installs the core and gives Hasrala a body at last. Ecstatic in her new mechanical form, she swears to help the group get home — given enough time to assimilate and repair the damaged spirit and body, she can calculate the Ringed Veil address for Toril.
 
 ## Notable Traits
 

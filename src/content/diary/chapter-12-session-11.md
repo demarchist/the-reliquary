@@ -9,6 +9,8 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "karthus"
+  - "lady-taurus"
   - "liara"
   - "selune"
   - "snorbul"

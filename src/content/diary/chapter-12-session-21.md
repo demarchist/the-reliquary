@@ -15,6 +15,7 @@ people:
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "jareem"
+  - "karthus"
   - "liara"
   - "lolth"
   - "mordenkainen"

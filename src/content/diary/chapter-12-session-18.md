@@ -11,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "karthus"
   - "liara"
   - "snorbul"
   - "sultan-bashir"

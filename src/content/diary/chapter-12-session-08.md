@@ -8,6 +8,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "karthus"
   - "liara"
   - "snorbul"
   - "tarkathee-daru"

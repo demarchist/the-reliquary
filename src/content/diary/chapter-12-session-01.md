@@ -3,6 +3,7 @@ title: Al Askar - The Red Hills
 chapter: 12
 chapterTitle: Al Askar
 session: 1
+summary: "The party arrives on Al Askar through the Ringed Veil, meets the priestess Liara and her band of fighters, discovers that divine magic is severed from Toril's gods, learns that wild sourcery makes magic dangerous, and sets out through the scorching Red Hills toward Ras Alkan."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -10,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "hasrala"
   - "horatio-von-bumidere"
+  - "karthus"
   - "liara"
   - "merrigold"
   - "raveel"
@@ -26,187 +28,68 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
-  - "saurian-firelance"
 factions:
   - "saurians"
 ---
 
-The group finds themselves in a familiar ancient set of ruins.
+## A Strange New World
 
-The chamber they are in is a copy of the gate platform they just left, but older looking and more weathered, made of white marble and copper instead of black marble and Silver.
+The Ringed Veil deposited the party in a chamber that was both familiar and deeply wrong. The same architecture as the gate platform they had just fled — but older, more weathered, rendered in white marble and copper instead of black marble and silver. Dead cultists lay scattered at the feet of a group of armed strangers who eyed the newcomers with wary suspicion.
 
-Like where they had just left, this chamber is occupied and dead cultists can be seen strewn at the feet of a group of adventurers.
+Before anyone could speak, [[Raveel]] moved to disable the portal, sealing the passage against the horde of Alghouls shrieking on the other side. With that immediate threat contained, the party turned to take stock of their new surroundings and the people who occupied them.
 
-Before the group can really react of register this new place, they act to seal the Ringed Veil and stop the horde of Alghouls from coming through the portal.
+[[Tarkathee Daru|Tark]] approached the strangers first, noting with quiet alarm that not a single piece of metal hung from any of them — no steel blades, no iron armour, nothing. They wore hides, shells, and bone, but far from looking primitive, their equipment was expertly crafted: intricate layers of chitin armour and weapons lashed into ingenious designs. These were survivors, not savages.
 
-Raveel disables the portal and the group turns to better look at the chamber and the group of adventurers now worriedly eyeing them.
+Their leader stepped forward — a priestess named [[Liara]], who sighed with visible relief when Tark declared them enemies of the dark cult. She confirmed they fought on the same side.
 
-Tark moves over to talk with the group, noting not a single metal weapon or affect on the entire group.
+## The Severed Thread
 
-They look unique; wearing nothing but hides, shells and bone armor and weapons. Far from looking primitive, many of the armors have intricate layers of chitin and the weapons are expertly lashed into ingenious designs.
+While Tark negotiated, [[Cirrus Al-Kayan|Cirrus]] strode forward to introduce himself in his customary fashion — and stopped dead, his vision blurring, mercury tears streaming down his face. His illusions would not form. His pact magic refused to answer. [[Selune]] was gone.
 
- Tark assures them that they are friendly to common folk and enemies of the dark cult that is present here.
+As the truth sank in, [[Horatio Von Bumidere|Buumi]] began to cough, complaining of sudden exhaustion. Cirrus rounded on Raveel and beat the man with his quarterstaff, screaming that this must be his doing.
 
-The groups leader, a priestess named** Liara**, sighs in relief and confirms that they fight on the same side; against this dark cult.
+Liara intervened, explaining gently that Cirrus was too far from his reality. This was the planet of Gaia — whatever goddess held dominion over Toril's moon had no name here, no foothold. Cirrus screamed blasphemy at her.
 
-While this talk is happening, Cirrus strides forward to engage in his customary performance, but stops short, his eyesight blurring and crying Mercury tears.
+It was Buumi who found the answer. Gods were transcendent, he insisted — they embodied universal truths, not geographic boundaries. [[Selune]] was not her name here, but the moon goddess existed under another guise. For Buumi, his tenets were guardianship, protection, and justice. If he lived by Helm's code, that act of worship would sustain the connection. He asked Liara what god on this world defended those who could not defend themselves. She answered: [[Karthus]].
 
-Others in the party react and approach Cirrus asking him if he’s alright as he looks…wrong.
+Buumi smiled. "See — Helm is here. You need only look to find your goddess."
 
-Suddenly realizing that his illusions are not functioning, Cirrus tries to use other pact magic.  To no avail.
+Cirrus was not having any of it and stormed away.
 
-Cirrus is cut off from Selune.
+## Wild Sourcery
 
-As this dawns on Cirrus, Buumi begins to cough a little and complains of exhaustion.
+While [[Feanon Serinde|Feanon]] searched the ruins, he attempted to cast Magnificent Mansion — and the spell collapsed, smothered by the chamber's ancient wards. What happened next was far worse: a massive surge of wild magic erupted into a lightning storm that filled the chamber for ten agonizing minutes.
 
-Cirrus storms to Raveel and begins to beat the man with his quarterstaff, exclaiming that it must the Raveels fault that he cannot contact Selune.
+Liara rushed over once the crackling subsided and explained. When the [[Saurians]] broke the world a thousand years ago, magic and sourcery became entangled in chaos. Without proper training, any use of magic triggered a surge — unpredictable, often lethal. Worse still, casting generated source static that arced to nearby metal conductors, burning anyone wearing or carrying them. This was why no one on [[Al-Askar|Al Askar]] wore metal. It would get you killed.
 
-Liara tries to help, revealing that Cirrus must be too far from his reality for the goddess of Selune to have influence in this realm, this is the planet of Gaia.
+The party collectively grumbled. They would go home as soon as possible.
 
-Cirrus is flabbergasted and appalled at the blasphemy and starts to scream at her.
+But the portal was disconnected from [[Toril]], and none of them knew the address to dial back. [[Gundren Rockseeker|Gundren]], ever practical, found a half-wrecked machina in the ruins and hauled it back to camp. After a quick repair, Tark installed the memory core of [[Hasrala]] — the ancient Saurian intellect they had carried since the mines — fulfilling his promise of a body for the long-dead scholar. Ecstatic in her new mechanical form, Hasrala swore to help them get home. Given time to assimilate and repair, she could calculate the Ringed Veil address for Toril.
 
-Buumi who was similarly concerned has his own epiphany and tries to calm Cirrus.
+## The Pilgrimage
 
-Buumi says that this must be a test - Gods are transcendent and embody a fact of the universe, they cannot simply not exist.  Just because Selune is not her name *here* does not mean the moon goddess is not embodied here under another alias.
+Not wanting all their hopes pinned on a single avenue, the party discussed alternatives. The Saurians must have maintained libraries of Veil addresses — Toril's coordinates had to be recorded somewhere. Liara confirmed that the city of [[Sharza]] would certainly hold such records, as might the great Library of the Elves. Additionally, contacting the Ancients — Al Askar's gods — could yield the information they needed.
 
-For Buumi, his tenants are guardianship, protection and justice.  If he lives his life to the code of a Watcher of Helm, then that act of worship will be enough to connect him to his god.
+Cirrus nearly exploded at the suggestion of worshipping foreign gods. The rest of the group listened more carefully, sensing Liara's motive in pushing this particular route. She explained that undertaking a pilgrimage to each holy temple of the Ancients would bless them with power, teach them to temper sourcery, and grant access to the Pilgrim's Way into Sharza — bypassing an army of corrupted dead that guarded the conventional approach.
 
-He asks Liara what god would defend those who cannot defend themselves and she answers **Karthus**** **
+At the heart of Sharza's Black Pyramid of Barzak lay the Saurian artifact depicted in the mural before them. Another reason to gain access through the pilgrimage.
 
-Buumi smiles and looks to Cirrus, stating “see, Helm is here, you need only look to find your goddess”.
+The party divided. [[Aliyah Faen Tlabbar|Patches]], [[Gwen]], Raveel, [[Thorna]], [[Merrigold]], and Hasrala would remain at the ruins with a communication tablet, working on reconnecting the Ringed Veil. The rest would travel north with Liara to the city of [[Ras Alkan]], near the Temple of Karthus, and decide their path forward.
 
-Cirrus is not having any of it and storms off.
+## Into the Furnace
 
-As this is happening, Feanon searches and loots the area while the others begin to setup a camp.
+Liara's companions returned with supplies — armour and weapons suited to Al Askar's brutal climate. Even underground, the temperature was severe. The party donned shell, hide, and carapace armour, stowing their metal gear deep in [[Bag of Holding|bags of holding]] or bundled in non-conductive hides. They looked almost like natives, if far too pale.
 
-Feanon walks aside and goes to cast his Magnificent Mansion.  The spell fails due to the wards of the teleportation chamber, but one other unexpected thing happens - a massive surge of wild magic erupts into a lighting storm that fills the chamber for ten minutes.
+One glaring exception was Cirrus. Unable to cope with his severance from Selune, he had retreated into delusion — thinking and pretending with absolute conviction that his power still answered.
 
-After it subsides, Liara rushes over from her own camp (after being asked for some privacy).
+Two suns glared down from a greenish sky. The Red Hills baked in temperatures climbing past a hundred degrees, and water became precious immediately. When the sky clouded over, Liara warned of an impending High Storm. They found a small cave and watched as a massive wall of sand and dust tore through the mountains, shimmering with wild sourcery — a blast of magic summoned a locust swarm that consumed a nearby patch of vegetation before being swept away.
 
-She explains that ever since the Saurians broke the world a thousand years ago, magic and sourcery have been entangled in chaos.
+The storm lasted three hours and left them burned despite their shelter.
 
-Without proper training, the use of magic results in a Magic Surge creating unpredictable and often dangerous results.  She can teach the group to mitigate it and they eagerly agree.
+Feanon asked how common such storms were. Liara said: common. The wizard's mind raced — what had happened in the [[Underdark]] that fractured reality had happened here on a planetary scale. He believed he could modify the ritual he had developed from Vizeron's work to heal this world's damage. Liara was stunned that such a thing might be possible.
 
-In addition to this, using Magic results in a cascade of Source Static to nearby metal conductors causing burns.
+After the worst had passed, they pressed on before the local creatures stirred from their own shelter. Buumi struggled without his magical belt of giant strength, finding himself quite out of shape, and tried to ride the strange beetle-like beast of burden Liara had brought. They were forced to detour when a ravine choked with black tar, webbing, and spores — corruption — blocked their path.
 
-This is why none of them use Metal gear - it conducts wild magic and sourcery and can get you killed…
+As evening approached, four massive creatures burst from the earth. Bulettes — or their Al Askar cousins, more chitinous and insectoid than their Toril variants. Having trained with Liara that morning in controlling wild sourcery, Tark and Feanon fought without triggering surges. [[Snorbul]] revelled in his crystal greataxe, and Feanon disintegrated one of the beasts outright.
 
-The collective party begins to grumble about this, they will go home as soon as possible (if not for Cirrus then simply to have a way home).
-
-With the portal disconnected from Toril though, none of them know the address to dial back.
-
-Gundren finds a half-wrecked machina in the ancient ruins though and brings it back to camp.
-
-After a quick repair, Tark slots in the memory core of the ancient and long dead Saurian and fulfills his promise of a body for the long dead intellect.
-
-Ecstatic, Hasrala swears to help the group get home.
-
-Given enough time to assimilate and repair the damaged mind’s spirit and body, Hasrala says he will have the address to dial the group back to Toril.
-
-Not wanting to put all their eggs in one basket, the group discusses other options.
-
-Liara listens in.
-
-The Saurians must have had a library of addresses, Torils address must be stored somewhere.
-
-Liara confirms that the City of Sharza would certainly have a library containing such things, as might the great Library of the Elves (feanon says “*obviously”)*. 
-
- Additionally, contacting the Ancients (gods) of her world could get them that information.
-
-Cirrus just about explodes on her as she mentions that they should try and communicate with The Ancients.
-
-The rest of the group listens but wonders about Liara’s motive in pushing them toward that route.
-
-She mentions that going on a pilgrimage to each holy temple of The Ancients would bless the group with power, the ability to temper Sourcery and access to the Pilgrim’s Way into the city of Sharza, avoiding an Army of the corrupted dead.
-
-The group mentions the artifact the Saurians used in their murals (pointing to the mural in the current chamber).
-
-Liara confirms that the Artifact’s location is well known - at the Black Pyramid of Barzak in the City of the Dead - Sharza - another reason to go on the Pilgrimage to gain access.
-
-She backs away and the group talk amongst themselves.
-
-Patches, Gwen, Raveel, Thorna, Merrigold and Hasrala will remain behind in this location with one of the communication tablets looted from the cult.
-
-The rest of them will go with Liara to the north, to the City of Ras Alkan, near the Temple of Karthas and then decide their path forward rather than remain without adequate supplies in the mountains.
-
-As the group rests out the evening and into the next day, Liara’s own group returns with supplies, armor and weapons better suited to the climate of Al Askar.
-
-Indeed, even beneath the ground in these ancient ruins, the temperature is severe.
-
-The group dons appropriate attire to not stand out and leaves all their metal behind, in bags of holding (as last resorts) or bundled in non conductive hides and strapped to packs.
-
-Wearing shell, hide and carapace armor, the group looks a little more like natives, though exceedingly pale and un-tanned in comparison.
-
-One glaring exception to this is Cirrus.
-
-Unable to deal with his disconnection from Selune, he is suffering from delusions, thinking and pretending with absolute conviction, that he still has his power and connection…
-
-The group sets out, Liara companions returning to a nearby trading post down the mountain, while Liara takes the group North, through the Red Hills to the nearest city, and closest Temple of the Ancients (and a possible address home).
-
-The group remains wary of Liara, sensing that she seeks to use the group for her own ends and wonders about the Pilgrimage she was so quick to suggest…
-
-The rest of the group remains behind, to try a second avenue to reconnect the Ringed Veil to one back in Toril.
-
-The Red Hills prove to be inhospitable.
-
-The High altitude does nothing for the temperature, rising into the low hundreds over the course of the day.
-
-The group is thankful for the lighter armor and clothing that they have donned.
-
-Liara leads, though many of the group take point, keen on perceiving and being exceptionally wary of this new world.
-
-Two suns glare down from above set in a greenish sky.  The Red rocky hills of this place are baking and the group realizes that water supplies are going to be precious here.
-
-Respite arrives as later that day, the sky clouds over.
-
-Liara warns the group of an impending High Storm and they begin to look for shelter.
-
-They find a small cave to shelter in and watch as the massive sand and dust storm blows through, shimmering Wild Sourcery being released in its passing.
-
-They watch as a blast of magic summons a swarm of locust that consume a nearby patch of plants before being swept off in the storm…
-
-The storm lasts for three hours and blasts the mountainside, causing minor burns and contusions to the group despite the shelter.
-
-Feanon asks how common these magical storms are and Liara says - Common.
-
-Feanon comes to the realization that what happened in the Underdark that fractured Reality, likely happened here in Al Askar just on a planetary scale.
-
-He thinks that he may be able to modify the ritual he developed from Vizeron’s to heal the damage to this world…
-
-Liara is shocked that this is a possibility.
-
-After the worst of the storm has passed, they move to press on before many of the local creatures begin to stir from their own shelter.
-
-The path is hard work, the terrain rocky and the temperatures sweltering.
-
-Buumi has particular trouble, no longer able to rely on the strength of his magical belt, he finds himself quite out of shape and tries to ride the strange beetle-like beast of burden Liara brought to carry supplies.
-
-Later that day, they are forced to turn back and look for another path as they come across a ravine filled with black tar, webbing and spores.
-
-Liara calls it Corruption.
-
-They move on, the delay costing precious time.
-
-The sun begins to get low on the horizon and they begin to think about shelter for the night.
-
-As they do, a tremor in the ground alerts them and Buumi calls a warning just as four large creatures burst forth.
-
-More chitinous and insectoid than their Toril variants, the group recognizes Bulettes and quickly move to battle the creatures.
-
-Having trained with Liara that morning in controlling Wild Sourcery, Tark and Feanon are able to utilize their skills with little worry about negative magic surges.
-
-With Cirrus not actually casting any magic and everyone else disarmed of magical weapons (save Gundren’s Saurian Firelance), there are no sourcery issues.
-
-Though, the creatures were much more difficult to slay without metal weapons and armor.
-
-Snorbul has a fantastic time though, loving his crystal Greataxe.
-
-Feanon disintegrates one of the Bulettes and the last is slain quickly.
-
-The group gathers teeth, bone, meat and carapace from the corpses and then look nearby for the creatures lair.
-
-Gundren finds it and the group decides to camp there for the evening (having slain the previous owner).
-
-The group settles down for their first night out in the wilderness on this strange new world. 
-
-Tark spyies some Garnet encrusted dragon-kin skittering over the hills in the night and Cirrus looks up into an unfamiliar night sky, refusing to sleep…
+The group butchered the kills, gathered teeth, bone, meat, and carapace, and made camp in the creatures' lair. Their first night under Al Askar's alien sky — two moons, unfamiliar stars, and Cirrus refusing to sleep, staring upward as garnet-encrusted dragonkin skittered across the distant hills.

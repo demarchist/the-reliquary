@@ -3,72 +3,38 @@ title: Al Askar - The City of Ras Alkan
 chapter: 12
 chapterTitle: Al Askar
 session: 4
+summary: "The party defeats the Musulhuf, harvests its materials, and reaches the coastal city of Ras Alkan where they rescue a noble's wayward daughter and earn an invitation to dinner at House Taurus."
 people:
   - "cirrus-al-kayan"
+  - "lady-taurus"
   - "liara"
   - "snorbul"
+places:
+  - "ras-alkan"
 factions:
   - "saurians"
 ---
 
-The group battles the massive Psionic Turtle-like creatures.
+## The Musulhuf
 
-Liara manages to affect one with a Fear spell, allowing the rest of the group to gang up and surround the other, slaying it in short order.
+[[Liara]] affected one of the massive psionic turtle-creatures with a Fear spell, sending it lumbering into the scrub desert. The rest of the party surrounded the other and cut it down — no easy feat through its armoured shell. They butchered the Musulhuf for bones, armour plates, meat, and organs, reasoning that someone in civilization would pay well for the materials, or at the very least provide raw crafting stock.
 
-The other, still fearful of the Cleric of Zalaam, flees into the surrounding scrub desert.
+That night, [[Cirrus Al-Kayan|Cirrus]] actually accepted what was happening and chose to sleep — though he refused to go down naturally. [[Snorbul]] choked him out. It was becoming something of a routine.
 
-They then gather and butcher the creature - a Musulhuf - for it’s bones, armor plates, meat and organs.
+## The Citadel Coast
 
-The group figures that someone would likely pay good money for this thing, or at the very least, provide the group with some raw crafting materials.
+The next day, the party crested the final rise and saw [[Ras Alkan]] spread before them — a ramshackle city along the coast of the scrub plains. At its heart stood a grand citadel of ancient stone and brass, unmistakably [[Saurians|Saurian]] in origin, its architecture preserved through the centuries even as modern constructions and modifications crowded around it. No Saurians had lived here for a very long time, but their bones endured.
 
-They then push on.
+On the outskirts, the group spotted a wandering Khonsfa beetle mount with a palanquin atop it. Inside, a teenage girl was just waking from a slumber — Hamda, whose mount had apparently wandered away from her father's trade convoy to the south. The party wasn't convinced she had simply wandered off, but they offered to return her to her family estate in exchange for a reward.
 
-It becomes evident that they will not make it to the city that day and the group begins to look for shelter for the night.
+They pushed through the slums of Dust Town and reached the citadel walls. Leading a small convoy of beetles and hauling the butchered Musulhuf, the guards let them pass without issue. They stopped for soup at Stew's Stews in the Souk district, then followed the winding Saurian streets through buildings of stone and bronze into the wealthier quarter.
 
-Cirrus actually seems to accept what is happening and decides to sleep.
+Surrounded by estates and villas, Hamda led them to a beautiful walled house. The guard fetched the lady of the house, and the group presented her daughter.
 
-He refuses to go down naturally though and Snorbul is forced to choke him out.
+[[Lady Taurus]] was quite surprised.
 
-The next day, the group makes it to the outskirts of the city, a ramshackle looking place along the coast of the scrub plains here.
+The annoying daughter was welcomed back inside, and the group was offered dinner at the villa, along with lodging and a monetary reward.
 
-At the heart of the city though is a grand citadel of ancient stone and brass, clearly of ancient saurian make.
+The party exchanged glances, smiling. Perhaps their luck on this world was turning.
 
-While the place has clearly been kept up with well, modern constructions and modifications abound.
-
-It is obvious that no Saurians have lived here for some time.
-
-On the outskirts the group spots a wandering Khonsfa beetle mount with a palanquin atop it.
-
-Moving in, they find a teenage girl waking up from a slumber.
-
-Her mount apparently wandered away from her fathers trade/marriage convoy to the south.
-
-The group endeavors to help the girl and return her to her family estate (for a hefty reward).
-
-Her name is Humdia
-
-There’s something strange about her story and no one thinks she just wandered away.
-
-The group pushes through the slums, Dust Town, and make it to the walls of the citadel.
-
-The group notes a distinct lack of guards in this part of town.
-
-At the head of a small convoy of Beetles and bringing in the Musulhuf to trade, the guards let the group in without issue.
-
-They head through the city, stopping for some Soup at Stew’s Stews in the Souk district.
-
-Moving through the ancient but expertly made saurian streets and past great buildings of stone and bronze, the group finds themselves in the nice part of town.
-
-Surrounded by estates and villas, the group is led by the wealthy girl to a beautiful walled house.
-
-The guard outside is convinced to fetch the lady of the house.
-
-Once she arrives, the group presents her daughter back to her.
-
-She is quite surprised.
-
-The annoying daughter is welcomed back into the house and the group is offered a dinner in the villa as well as a deal on lodging elsewhere in the city and a monetary reward.
-
-The group looks at one another smiling, thinking their luck in this place might be turning.
-
-They head into the estate to go to dinner.
+They followed their host through the gates to dine.

@@ -8,8 +8,8 @@ description: "City in Al Askar with the Circaean arena and the nearby Temple of 
 
 ## Description
 
-Ras Alkan is a city in Al Askar governed by a local Sheik. It features the Circaean (also called The Crucible), a gladiatorial arena where combatants prove their worth. The Temple of Carthus, a font of power and pilgrimage site, lies nearby.
+Ras Alkan is a coastal city in Al Askar, built around a grand citadel of ancient Saurian stone and brass that has been maintained and modified over the centuries. The outer city is a ramshackle sprawl including the slums of Dust Town, the bustling Souk district (home to Stew's Stews), the trade district with its harbour-master, the Fisherman's Wharf, and a wealthier quarter of noble estates and villas. The Critereon (also called The Crucible) is the city's famous gladiatorial arena. The nearby Temple of Karthus is a pilgrimage site of the Ancients.
 
 ## Significance
 
-The party arrives in Ras Alkan during their Al Askar adventures, facing trials in the Crucible arena and undertaking a pilgrimage to the Temple of Carthus. The temple is cleansed by the group as part of their quest to gather power against the spreading corruption.
+The party reaches Ras Alkan after a gruelling trek through the Red Hills, arriving with butchered Musulhuf to trade and a noble's lost daughter to return. House Taurus provides lodging in exchange for finding a missing merchant ship near the reef, where the pirate band Demon Claws operate and where Snorbul hopes to find Sovereign Glue from his vision. The Temple of Karthus nearby serves as the first stop on the Pilgrimage of the Ancients.

@@ -12,10 +12,10 @@ Chrysalis runs the Oasis, a trading post in Al Askar that serves as a critical s
 
 ## Role in the Campaign
 
-The party encounters Chrysalis at the Oasis during their Al Askar adventures, using the trading post to resupply and gather information about the region's dangers and opportunities.
+The party reaches the Oasis after a harrowing trek through the Red Hills, carrying a shipment of alcohol recovered from a destroyed caravan. It turns out Chrysalis's own guards had stolen the shipment. She thanks the party for returning it and pays two thousand Durhams — a crucial first income for the group on Al Askar.
 
 ## Notable Traits
 
 - Shrewd trader and community leader
 - Maintains a vital supply hub in a hostile environment
-- Well-connected with various factions across Al Askar
+- Always has work available for capable travellers

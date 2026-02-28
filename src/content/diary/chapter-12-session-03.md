@@ -3,6 +3,7 @@ title: Al Askar - The Oasis
 chapter: 12
 chapterTitle: Al Askar
 session: 3
+summary: "The party ambushes corrupted beasts, discovers Liara worships Zalaam (the true aspect, not the cult), resupplies at the Oasis trading post, and forcibly puts Cirrus to sleep — where a mysterious entity contacts him in dreams."
 people:
   - "chrysalis"
   - "cirrus-al-kayan"
@@ -10,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "liara"
+  - "mediocris-dente"
   - "rudjek"
   - "selune"
   - "snorbul"
@@ -17,6 +19,7 @@ people:
 places:
   - "al-askar"
   - "faerun"
+  - "helms-hold"
   - "iyum"
   - "ras-alkan"
 factions:
@@ -25,126 +28,58 @@ factions:
   - "usurpers-of-rudjek"
 ---
 
-Tark rushes down the small canyon to the ambush location, noting the position of the boulder.
+## The Ambush Sprung
 
-He stays just far enough to be out of charging range of the creatures, but not so far that they give up the chase.
+[[Tarkathee Daru|Tark]] rushed down the small canyon, keeping just far enough ahead of the beasts to maintain the chase without losing them. He hit his mark and the trap sprung. A boulder tumbled down the cliffside, crushing two of the creatures flat. [[Gundren Rockseeker|Gundren]] and [[Feanon Serinde|Feanon]] opened fire with firelances from above.
 
-He rushes into position and the group springs the trap.
+[[Cirrus Al-Kayan|Cirrus]] charged down the hill with a tired yell — tripped — and tumbled the last ten feet. [[Snorbul]] scooped him up before plunging into the fight. [[Horatio Von Bumidere|Buumi]] tried to follow but stumbled as well, clattering down the cliffside in his armour before hauling himself upright and joining the melee.
 
-The boulder tumbles down the cliffside, smashing into the beasts and laying two out flat as the rock comes to a halt.
+As the first beast fell, [[Liara]] raised its corpse to fight alongside the party — a casual act of necromancy that startled both Buumi and Tark. They made short work of the remaining creatures and then turned to the priestess, who released her spell without comment. The risen corpse collapsed.
 
-Gundren and Feanon begin blasting with the firelances and Tark leaps into combat.
+Tark demanded to know which god Liara served.
 
-Cirrus rushes down the hill with a tired yell, but trips and tumbles the last ten feet.
+Zalaam. God of death.
 
-Snorbul rushes over to pick him up before charging on into combat.
+The party went on guard immediately — the cult that had dragged them to this world served Zalaam. Liara's eyes flashed with anger and she called the [[Cult of Zalaam|Black Skull]] heretics. Their way was false and must be destroyed. She served the true aspect of Zalaam: death as balance, as natural order, not as corruption and domination.
 
-Buumi tries to follow, but stumbles as well, falling and clattering down the cliffside with his armor before getting to his feet and rushing to the fight.
+Buumi recounted how a similar cult had once infiltrated his own order — Paladins at Helm's Hold led astray by a devil that had killed the Grandmaster. That cult had been rooted out and destroyed. Liara nodded. The parallel was exact.
 
-As one of the creatures is killed, Liara raises the corpse of one to fight for the group, startling Buumi and Tark.
+The group let it go, for now. Tark kept watching.
 
-They make short work of the strange beasts, slaughtering them.
+Liara sanctified the beasts' corpses — which had once been human.
 
-The group is more or less unharmed, having resisted the psychic attacks of the beasts.
+## The Oasis
 
-They look to Liara, who releases her spell and the corpse falls inanimate once more.
+The party salvaged the wrecked caravan, recovering a shipment of alcohol and a wagon their Khonsfa beetle could pull. They loaded Cirrus into the back and made the last few miles to the Stone Spire.
 
-Tark freaks out, about the use of necromancy and Buumi even is concerned.
+Numerous caravans were parked outside the walls, crews gathered around campfires. The guards informed them: two hundred Durhams per person, unless they had goods to trade. The alcohol earned them free passage, and the guards ushered them inside with raised eyebrows at the exhausted warlock slumped in the wagon.
 
-They demand to know which god Liara serves; Zalaam, god of death.
+The group refilled their water supplies at the oasis and met with [[Chrysalis]], the Spire's leader. It turned out her own guards had stolen the alcohol shipment. She thanked the party for its return and offered two thousand Durhams — which they took as a lump sum, preferring to push on to [[Ras Alkan]] rather than accept mercenary work in the hills.
 
-The group is startled and come on guard, afterall, the cult that led them to this world was doing horrific things in the name of Zalaam.
+## The Dream
 
-Liara calls them heretics and says that their way is a false way and they must be destroyed.
+That night, the group enacted their plan to save Cirrus from himself.
 
-The group agrees but Tark still doesn't know if he can trust her.
+Feanon cast Deep Slumber, shielding the warlock's mind from nightmares. Cirrus resisted. His eyes snapped to Liara — who stood nearby with her lullaby ready — and he lunged at her with a knife. Snorbul and Buumi tackled him to the ground, subduing the warlock as he pleaded. They knocked him unconscious and made him as comfortable as they could.
 
-Buumi recounts a cult that sprung up in his own order, in a group of Paladins at Helm’s Hold.
+In the darkness behind his eyes, Cirrus dreamed. He floated in a vast body of water, a starry nebula filling the sky above, the moon of Al Askar visible. Terror gripped him — but a great voice told him not to worry. He was safe here. He could rest. He pushed himself too much.
 
-They were led astray by a Devil that had killed the Grandmaster and taken over a few years back.
+The entity said Cirrus had great power within, if only he would accept it.
 
-The cult was rooted out and destroyed.
+Cirrus rejected the voice, terrified that this was a dark nightmare luring him from [[Selune]] into another pact like the one that had enslaved him to Ceregorach. The entity withdrew, stating it wished him no harm, and Cirrus rested in dreamless peace for the remainder of the night.
 
-Liara confirms that the cult they have faced is very similar.
+## The Usurpers
 
-The group lets it go, for now, but Tark endeavors to keep an eye on her and the group agrees.
+While Cirrus slept, Liara shared more of her history over fermented bug nectar. She belonged to a group called the [[Usurpers of Rudjek]], who had overthrown the ruler of the [[Iyum]] — a creature she called a Shaa'barid, The Cold One. Her descriptions made the party suspect he had been some kind of vampire: killed only by being stabbed in the heart with a magic weapon in sunlight. She had followed his Vizier — a member of the Black Skull — out to the mountains, which is where she had encountered the party.
 
-Liara sanctifies the corpses of the beasts - which were once human.
+Buumi offered that their own group was called the [[Faerun Defense Force]], though some knew them as the Heralds of Woe.
 
-The group then heads back to where Tark had found the ruined wagon and begin a salvage operation.
+Come morning, Cirrus awoke surrounded by concerned faces. Furious at his treatment, he stormed away. Buumi followed, apologizing profusely. Cirrus called it assault. Buumi accepted the charge, saying he hadn't known what else to do to save his friend's life.
 
-As the bodies are once again seen to, they note that many of them are armed and armored.
+As the two returned to the group, a rough vagrant offered to tell their fortune. They refused.
 
-The group recovers a shipment of alcohol and a wagon that their Khonsfa beetle can pull.  
+## Teleporting Turtles
 
-They load it up, put Cirrus in the back and head the last few miles to the Stone Spire.
+The group packed up and headed north through scrublands and sage desert — much easier terrain than the Red Hills. Near the end of the first day, trouble found them.
 
-As they approach the place, they see numerous caravans parked outside the walls, their crews all gathered around campfires and tents.
-
-The group is stopped by the guards as they approach and are told that if they have no goods to trade, it’s 200 Durhams a person.  If they have goods to trade, it’s free entry.
-
-The group shows the guards the alcohol (who are surprised at an exhausted Cirrus in the back) and usher the group inside, toward the tavern.
-
-Inside the walls, the group avails themselves of the Oasis, refilling their water supplies. 
-
-Shockingly, no one goes for a swim, likely due to the number of distractions, which includes concern for the exhausted Cirrus.
-
-The group meets with the leader of the Oasis by the Tavern - turns out a number of her guards stole this shipment of alcohol meant for the Oasis.
-
-She thanks the group for returning it and offers 2,000 Durhams up front, or 1,800 and a followup job.
-
-The group elects to take the lump sum, keep on reaching Ras Alkan and not wanting to deal with hunting down monsters in the nearby hills.
-
-The leader, Chrysalis, says she always has work and the group heads outside the wall to make camp.
-
-They settle down for the night and the group springs their plan to get Cirrus to sleep.
-
-Feanon casts his deep slumber on his friend, intent on shielding his mind from nightmares and allowing him to get some rest.
-
-He resists.
-
-Cirrus spins, sees Liara nearby (waiting in case she was needed with her lullaby) and he lunges at her with a knife.
-
-Snorbul and Buumi who were nearby, both tackle him to the ground and quickly subdue Cirrus, knocking him unconscious as Cirrus pleads.
-
-They make the warlock as comfortable as possible and settle in for an uneventful night.
-
-Cirrus meanwhile, dreams of a floating in a vast body of water, a starry nebula filled sky above him and the moon of Al’Askar visible.
-
-He is terrified and begins to distress but a great voice tells him not to worry, that he is safe here and can rest and that he pushes himself too much.
-
-The entity says that he has great power within, if he would only accept it.
-
-Cirrus rejects the entity, worried that this is a dark nightmare trying to lure him from Selune and into another dark pact like he was in before.
-
-The entity leaves, stating that it wishes no harm on him and Cirrus rests for the remainder of the night in dreamlessness.
-
-That night, Liara goes into some of her backstory, mentioning she is part of a larger group called the “Usurpers of Rudjek”.
-
-Buumi points out that their group name is the Faerun Defense force, but some call them the Heralds of Woe.
-
-Liara mentions that they overthrow the ruler of the Iyum named Rudjek. She calls him a Shaa’barid - The Cold One. and says that she followed his Vizier (a member of the cult of the Black Skull) out to where she met up with this group.
-
-As she says what it took to kill Rudjek (being stabbed in the heart by a magic weapon while in Sunlight) and her other descriptions lead the group to think he muast have been some kind of Vampire.
-
-He awakes and finds himself surrounded by a concerned group.
-
-Furious at his treatment, he storms away, Buumi in close pursuit apologizing profusely.
-
-Cirrus blames Buumi for what amounts to assault and Buumi accepts that, saying he didn't know what else to do to save his life.
-
-As Buumi and Cirrus return to the group, a rough looking vagrant asks to tell their fortune, but they refuse him.
-
-The group packs up and continue north, toward the city of Ras Alkan.
-
-The group makes good time, putting many miles between themselves and the Oasis.
-
-The Scrublands and sage-desert is much easier to travel over than the Red Hills and the mountain.
-
-Near the end of the first day though trouble finds the group.
-
-The group stumbles across two creatures attempting an ambush.
-
-Massive turtle-like creatures appear on the trail and attack, teleporting around the battlefield and unleashing psychic attacks.
-
-As the group rallies to counterattack, they realize that the creatures are extremely tough and little damage is getting through their thick shells…
+Two massive turtle-like creatures materialized on the trail — teleporting around the battlefield and unleashing devastating psychic attacks. The party rallied but quickly realized these Musulhuf were extraordinarily tough, their thick shells turning aside blow after blow.
