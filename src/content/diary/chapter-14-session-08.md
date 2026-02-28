@@ -24,6 +24,7 @@ places:
   - "the-moonwood"
 things:
   - "gwen"
+  - "steden"
 factions:
   - "drow-faction"
   - "house-faen-tlabbar"

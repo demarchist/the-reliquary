@@ -18,6 +18,7 @@ places:
   - "luskan"
 things:
   - "arkto"
+  - "steden"
 factions:
   - "drow-faction"
   - "zhentarim"

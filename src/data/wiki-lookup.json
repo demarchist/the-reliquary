@@ -384,6 +384,16 @@
     "title": "Battle of Silverymoon",
     "category": "Events"
   },
+  "battle of the tar pits": {
+    "slug": "battle-of-the-tar-pits",
+    "title": "Battle of the Tar Pits",
+    "category": "Events"
+  },
+  "battle of the pit": {
+    "slug": "battle-of-the-tar-pits",
+    "title": "Battle of the Tar Pits",
+    "category": "Events"
+  },
   "the bedine": {
     "slug": "bedine",
     "title": "The Bedine",
@@ -2614,6 +2624,11 @@
     "title": "Rudjek",
     "category": "People"
   },
+  "ruru": {
+    "slug": "ruru",
+    "title": "Ruru",
+    "category": "People"
+  },
   "ruthir": {
     "slug": "ruthir",
     "title": "Ruthir",
@@ -2928,6 +2943,16 @@
     "slug": "stason-jatham",
     "title": "Stason Jatham",
     "category": "People"
+  },
+  "steden": {
+    "slug": "steden",
+    "title": "Steden",
+    "category": "Things"
+  },
+  "steeden": {
+    "slug": "steden",
+    "title": "Steden",
+    "category": "Things"
   },
   "stoneguard": {
     "slug": "stoneguard",

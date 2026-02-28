@@ -17,6 +17,8 @@ places:
   - "snorbuls-hole"
   - "the-bog"
   - "the-establishment"
+things:
+  - "steden"
 factions:
   - "drow-faction"
 ---

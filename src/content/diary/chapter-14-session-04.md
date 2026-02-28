@@ -26,6 +26,7 @@ places:
   - "underdark"
 things:
   - "piwafwi"
+  - "steden"
 factions:
   - "drow-faction"
   - "netherese"

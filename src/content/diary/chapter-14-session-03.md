@@ -17,6 +17,7 @@ places:
   - "the-chasm"
 things:
   - "arkto"
+  - "steden"
   - "tavern-of-doors"
   - "thundercannon"
 factions:

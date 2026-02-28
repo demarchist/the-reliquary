@@ -36,6 +36,8 @@ places:
   - "silverymoon"
   - "the-establishment"
   - "vaasa"
+things:
+  - "steden"
 factions:
   - "amnians"
   - "bregan-daerthe"

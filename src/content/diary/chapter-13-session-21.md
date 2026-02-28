@@ -27,6 +27,7 @@ places:
 things:
   - "delzoun-instant-fortress"
   - "saurian-firelance"
+  - "steden"
 factions:
   - "saurians"
 ---

@@ -17,6 +17,8 @@ places:
   - "machina-factory"
   - "shadowfell"
   - "thueba-swamp"
+things:
+  - "steden"
 factions:
   - "saurians"
 ---

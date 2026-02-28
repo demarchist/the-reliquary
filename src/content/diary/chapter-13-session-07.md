@@ -3,6 +3,7 @@ title: The Voyage Home - The Abyss Walkers
 chapter: 13
 chapterTitle: The Voyage Home
 session: 7
+summary: "Desert elves of the Obsidian Order arrive with intelligence on the Machina Factory, then the party splits and infiltrates Aina Pulu — bluffing past Ruru and his corrupted halflings to reach the sacrificial tar pits of Hohonu."
 people:
   - "aliyah-faen-tlabbar"
   - "camea"
@@ -14,6 +15,7 @@ people:
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "jareem"
+  - "ruru"
   - "snorbul"
   - "tarkathee-daru"
   - "willow-aldencroft"
@@ -23,81 +25,53 @@ places:
   - "ethereal-plane"
   - "machina-factory"
   - "thueba-swamp"
+things:
+  - "steden"
 factions:
   - "cult-of-zalaam"
   - "obsidian-order"
 ---
 
-The group continues their ferry ride across the waterways of Thueba Swamp
+## The Desert Elves
 
-As night falls, they take a break on a small island
+The ferry ride continued through the waterways of [[Thueba Swamp]]. As night fell, the group pulled ashore on a small island to rest. [[Horatio Von Bumidere|Buumi]] enlisted [[Camea]] as a cooking instructor, and there followed an earnest discussion about Tiefling dietary needs as he tried to prepare something palatable for [[Cirrus Al-Kayan|Cirrus]].
 
-Buumi gets Camea to help him cook so he can learn from her
+[[Feanon Serinde|Feanon]] summoned his Magnificent Mansion, and the more pampered members of the group prepared to retire — but a sound from the darkening horizon drew their attention. A massive flying beetle descended out of the twilight, its wingbeats generating a veritable hurricane. Three elves and an insectoid figure rode atop it.
 
-There is a discussion about Tiefling diet as Buumi tries to make something palatable for Cirrus
+The beetle landed nearby. One of the elves addressed the group. They were of the [[Obsidian Order]], operatives who worked alongside [[Jareem]]. These were Desert Elves — lean, severe, and utterly without warmth. They did not join the group at their fire.
 
-Feanon summons his magnificent mansion and the pampered members of the group prepare retire to it
+Once satisfied that these were indeed the Outlanders they sought, the elves reported that the [[Machina Factory]] lay within a few days' travel and marked its location on the group's map. No servants of Zalaam appeared to be at the site, though they suspected creatures remained — and warned of a trap. Yugoloth fiends, they cautioned. Extra-planar mercenaries.
 
-They are distracted by a sound and look across the darkening horizon, spotting a large flying beetle
+While this exchange unfolded, [[Tarkathee Daru|Tark]] found himself fascinated by the beetle's pilot — a Thri-kreen, a hive-dwelling insectoid with strange psionics that both Tark and Feanon could sense.
 
-The beetle approaches to land, blowing a veritable hurricane and they note three elves and an insectoid person riding it.
+[[Jack Mayer Johnson Mathews|JmJm]] asked the elves to stay and help with the coming battle against Zalaam. They declined. They had been fighting the [[Cult of Zalaam|cult]] for an age, they said, and their other tasks were far more important than babysitting Outlanders. They mentioned a camp near the temple of [[Fawden]] and ongoing operations against the cult in the Black Sea.
 
-It lands nearby.
+Before departing, the Desert Elves made a number of culturally insensitive remarks — calling out the dark skin of [[Aliyah Faen Tlabbar|Patches]] and [[Snorbul]], and expressing surprise at the appearance of a purple Jun Sahara. Several of the group took offence. The elves mounted their beetle and departed without apology, while Patches' companions shouted after them on her behalf.
 
-One of the elves addresses the group and they find that these elves are of the Obsidian Order and work with Jareem.
+Patches and Cirrus then sat together for a long conversation — beginning with hurt feelings and gradually shifting into a theological discussion about the ascendance of mortals to godhood.
 
-These are Desert Elves.
+## Into the Mists
 
-The elves are not friendly and do not join the group at their fire
+The next morning, the group awoke to dense fog. The mists surrounding [['Āina Pulu|Aina Pulu]] had closed in.
 
-The Elves report (once they confirm these are the Outlanders they seek) that the Machina factory is within a few days travel nearby and they mark it on the groups map
+The time had come to enact their plan. The group split: Cirrus, JmJm, and [[Gundren Rockseeker|Gundren]] transitioned into the [[Ethereal Plane]] aboard [[Steden]] the Nightmare. Buumi and Feanon dissolved into Gaseous Form and were sealed in glass bottles. Tark and Patches carried the bottles at their hips, posing as Camea's prisoners.
 
-While they say no monsters of Zalaam seem to be at the Factory, they suspect some creatures remain, and suspect a trap.
+Camea guided them through the mists. Before long, the fog parted to reveal a halfling village nestled into the swamp — and on the docks, a large warparty of corrupted halflings led by shamans, waiting for Camea's arrival.
 
-They warn of Yugoloth fiends - extra-planar mercenaries
+## The Throne of Ruru
 
-While this is happening, the insectoid piloting the giant beetle is fascinating to Tark
+The standoff was tense. The lead shaman cast bones to read the strangers. Tark, thinking fast, managed to knock one of the divination bones aside for a more favourable result. Between Camea's authority and Tark's sleight of hand, the deception held. The group was accepted as prisoners.
 
-it is a Thri-kreen, a hive-dwelling creature and it has strange psionics that Tark and Feanon pick up on
+They were escorted through the village to the throne of the high priest. There they discovered Camea's brother, [[Ruru]], presiding over a crude court — with a massive corrupted Sacrosu, a monstrous crocodilian beast, lying at his feet like a pet. The thing was taller than a halfling even lying down.
 
-As the Elves look like they are about to leave, JmJm asks if they can stay and help with the battle against Zalaam
+Tark put on a convincing performance as a cowed prisoner, narrowly avoiding having his fingers cut off when Ruru tested Camea's loyalty. Camea convinced her corrupted brother not to "spoil" the sacrifices meant for [[Hohonu]], and Ruru — satisfied for the moment — waved them on.
 
-The elves mention that they have been fighting Zalaam for an age, and their other tasks are far more important that staying with the Outlanders.
+## The Sacrificial Pits
 
-The elves go on to mention have a camp near the temple of Fawden and are dealing with the cult of Zalaam in the Black Sea
+The group was led out of the village, back into the mists, escorted as prisoners toward the sacrificial pits. A wisp of light guided them through the fog — a willow-wisp, flickering in the haze.
 
-The Desert elves are surprised at the appearance of some of the group and call out the dark skin of Patches and Snorbul, offending several of the group
+In the Ethereal Plane, the other half of the party followed as best they could, but the dark spirits and echoes of the past grew denser here. Their vision was badly obscured, and they fell behind. Worried that the Material group would reach the altar without backup, Gundren pulled out the Tablet of Sending they had stolen from the cultists and transmitted a message to Patches: stall. Buy time.
 
-They mention that they have never seen a purple Jun Sahara
+The message worked. The two groups reunited on the far side of the mists, where the fog parted to reveal an expanse of bubbling tar pits spewing noxious fumes. Massive bones jutted from the ground like monuments. Grisly trophies hung from stakes. Prostrate worshippers surrounded the site.
 
-The elves then leave with their mount and Thri-kreen pilot, while some of the group call after them, offended on Patches behalf
-
-Patches and Cirrus then have a long talk about hurt feelings which morphs into a theological discussion about the ascendance of mortals to godhood
-
-The next day the group awakes to dense mists and fog; the mists surrounding Aina Pulu
-
-The group heads through the mists and after a time, they near the halfling village and they prepare their deception and infiltration of the village.
-
-The group splits and half go into the Ethereal Plane and Buumi and Feanon turn into smoke and become contained in bottles
-
-The group traverses the mists with Camea’s guidance and before long they part to reveal a halfling village nestled into the swamp
-
-On the docks of the village, a large warparty of corrupted halflings, led by shamans is waiting for Camea
-
-After a tense standoff, and the Shaman asking the bones about Tark and Patches (which Tark manages to knock over one of the bones for a better result) Camea manages to successfully smuggle them in under the disguise of prisoners
-
-She, Tark and Patches are escorted through the village to the throne of the High-priest, with the other group navigating the Ethereal plane and the dark shades drifting there.
-
-They arrive at the Throne to discover Camea’s brother presiding over “court” with a massive corrupted Sacrosu (monstrous crocodile) seemingly as his pet at his “feet” (the thing is taller than a halfling lying down).
-
-Tark manages to put on a good show, and narrowly avoids having his fingers cut off by Camea’s corrupted brother, but the *good *halfling manages to convince her brother not to “spoil” the sacrifices to Hohonu.
-
-Narrowly avoiding mutilation, the group in the Prime Material then leaves the village, taking to the mists once more, though being escorted as prisoners.  They follow a willow-wisp type light through the mists, toward the sacrificial pits
-
-The Ethereal group follows, but during this leg of the difficult journey, they find their vision far more obscured by the dark spirits and echoes of the past and fall behind
-
-Worried that the Material group will get into trouble, Gundren gets out the Tablet of sending they stole from the Cultists and sends a message to Patches to kill some time to let them catch up.
-
-The message works and the group re-unite on the other side of the mists; where they part to reveal an expanse of bubbling tar pits spewing forth noxious fumes.
-
-Up ahead, surrounded by massive bones, grisly trophies and surrounded by prostrate worshippers, they see the Altar of Hohonu, and the Dark Halfling Shaman presiding over the grisly ritual…
+And there, at the centre of it all — ringed by the bones of ancient sacrifices — stood the Altar of Hohonu, and the dark halfling shaman presiding over the ritual.

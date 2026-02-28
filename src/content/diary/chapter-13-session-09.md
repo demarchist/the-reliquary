@@ -3,6 +3,7 @@ title: The Voyage Home - The Death Wyrm
 chapter: 13
 chapterTitle: The Voyage Home
 session: 9
+summary: "Hohonu erupts from his prison in the Ethereal Plane, Tark dives into the vortex to rescue Camea's soul, and the party destroys the Altar — severing the Grand Shaman's power. They revive Camea, seal Hohonu's prison with an Antipathy spell, and part ways with the halfling shaman as they turn toward the Machina Factory."
 people:
   - "aliyah-faen-tlabbar"
   - "camea"
@@ -12,121 +13,90 @@ people:
   - "hohonu"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "ruru"
   - "tarkathee-daru"
 places:
   - "barovia"
   - "ethereal-plane"
   - "golden-tower"
   - "machina-factory"
+  - "thueba-swamp"
 things:
   - "arkto"
+  - "steden"
   - "the-last-word"
 ---
 
-In the ethereal plane, JmJm and Tark witness the swirling vortex of energies around Hohonu’s prison erupt as the Great Wyrm pulls itself from the pit.
+## The Great Wyrm
 
-“You hear a rushing sound, like an oncoming hurricane and look down toward the swirling vortex of souls. Erupting from the pit is a horrific, gargantuan form. It must be hundreds of feet long from horns to tail, with a set of four feathered wings, an axehead snout and covered in twisted cruel looking barbs and spines its dark glittering onyx body is threaded with gold. You note titan-forged chains around the arms and legs of the great Wyrm, sucking in all light around them in the Ethereal Plane and creating void-links that descend down into the Vortex. Hohonu’s dark eyes look down from above, the towering dragon opens its mouth and lets loose a deafening roar”
+In the [[Ethereal Plane]], [[Jack Mayer Johnson Mathews|JmJm]] and [[Tarkathee Daru|Tark]] witnessed the swirling vortex of energies around [[Hohonu]]'s prison erupt. The Great Wyrm tore itself free.
 
-JmJm is terrified and turns Steden to flee the Ethereal Plane and return to the prime material.
+It was hundreds of feet long from horns to tail — a gargantuan draconic form with four feathered wings, an axe-shaped snout, and a body covered in cruel barbs and twisted spines. Its dark, glittering onyx hide was threaded with veins of gold. Titan-forged chains still bound its limbs, the void-links descending into the vortex and devouring all light around them. Hohonu opened its maw and loosed a deafening roar that shook the Ethereal Plane itself.
 
-Tark however, spots a small bright light, spiraling into the vortex and realizes that it is the soul of Camea.
+JmJm was terrified. He wheeled [[Steden]] around to flee.
 
-He leaps from the horse and falls into the pit as the great dragon tries to strike at Tark, but the void chains restrain him.
+But Tark saw something — a small, bright light spiralling into the vortex. [[Camea]]'s soul.
 
-JmJm flees, leaving Tark alone in the Ethereal Plane.
+He leapt from the horse.
 
-As he makes the transition, he sees a line of Necrichors and unleases a powerful blast of lightning from his ring, almost destroying them, which is then followed up by a blast from Cirrus, which does.
+The monk plummeted into the pit as the great dragon lunged for him. The void chains restrained Hohonu — barely — and Tark fell past the snapping jaws, deeper into the swirling cloud of spectres and consumed souls. JmJm fled alone, leaving Tark behind.
 
-In the prime material Patches quickly slays the remaining halfling warriors.
+## Two Fronts
 
-The battle continues though as the Unliving Grand Shaman and hordes of Nechricors (tar/body amalgamations) surge from the pit, 
+As JmJm made the transition back to the Material Plane, he spotted a line of Necrichors and unleashed a devastating blast of lightning from his ring, nearly annihilating them. [[Cirrus Al-Kayan|Cirrus]] followed up with a second blast that finished them off.
 
-the Shaman casts spell after spell at the party
+[[Aliyah Faen Tlabbar|Patches]] cut through the remaining halfling warriors with brutal efficiency. But the battle was far from over. The undead Grand Shaman kept casting spell after spell at the party, and wave after wave of Necrichors surged from the tar pit. Worse, Hohonu was now projecting his power through the weakened veil — striking at the group from within his prison with blasts of shadow and necrotic force.
 
-Hohonu in the Ethereal Plane begins to project his power through the weakened veil of this world, striking powerfully at the group even from within his prison.
+The party pivoted their focus. The Altar had to be destroyed.
 
-The group pivots their attention to destroying the Altar and preventing the ritual from completing so they can retreat from the area
+In the Ethereal Plane, Tark managed to seize the tangible essence of Camea's soul and seal it in a waterskin. But he was dangerously close to the Death Wyrm now, surrounded by the cloud of captive spirits. Hohonu reached out. A flood of corruption washed over the halfling, erupting across his skin in agonising lesions — but Tark's monastic training purged the poison in an instant. He struck back, landing a blow against the Death Wyrm itself.
 
-In the Ethereal Plane, Tark manages to grab the tangible soul of Camea and store it in a water-skin, but finds himself in a precarious and dangerous position so close to the Death Wyrm, swimming through the strange cloud of specters and consumed souls
+## The Altar Falls
 
-Hohonu reaches out to Tark and a flood of corruption washes over the halfling, causing him to erupt in painful lesions, but his training purges the poison of it quickly.
+In the Material Plane, JmJm told the others of Tark's plight and scooped Cirrus onto Steden to return for their friend. [[Horatio Von Bumidere|Buumi]] and Patches both rushed the Grand Shaman to prevent him from reaching the Altar, but the twisted creature slipped past them and lunged at [[Feanon Serinde|Feanon]].
 
-Tark strikes back, hitting the Death Wyrm
+Feanon ignored the attack.
 
-In the Prime Material, JmJm tells his companions of Tark’s plight in the Ethereal Plane and scoops up Cirrus to return to help his friend.
+He and [[Gundren Rockseeker|Gundren]] — flying high above astride [[Arkto]] — poured their combined might into the Altar. It shattered. The remains tumbled into the tar pit, and the Grand Shaman dropped dead instantly — the power conduit that had sustained his unlife severed in a single stroke.
 
-Buumi and Patches both rush the Grand Shaman and attack him to stop him from making it back to the altar, but the small creature slips away, attacking Feanon.
+## Temptation
 
-Feanon ignores the Shaman
+Those who could reach the Ethereal Plane made the transition and beheld the Great Death Wyrm in all its dreadful majesty. Hohonu reached into each of their minds, one by one, offering something they deeply desired in exchange for his freedom. Several of them paused, turning the offers over for a moment — but only for a moment. None accepted.
 
-he and Gundren (flying high above, atop Arkto) manage to finally destroy the Altar to Hohonu and as it falls into the tar-pit, the Grand Shaman falls dead - the power conduit keeping him alive being severed.
+Cirrus dove into the vortex on Steden and grabbed Tark, hauling the monk from the pit and back to the Nightmare's saddle. They retreated to the Material Plane.
 
-Those who can make it to the Ethereal Plane make the transition, and see the Great Deathwyrm in all its splendor.
+Patches lingered a heartbeat longer. She steadied her crossbow, lined up her shot, and loosed the Bolt of Dragon Slaying she had carried for so long. It struck true — lodging between the scales at the base of Hohonu's jaw. The Death Wyrm roared in pain and lunged, but Patches was already gone, slipping back through the veil.
 
-Hohonu reaches out into everyone’s minds, promising them something they deeply desire in exchange for his freedom, many of the group stop to consider it, but only for a moment.  None accept his offers.
+Hohonu's fury followed them. Three blasts of shadow erupted from the tar pit, striking Patches, Tark, and Gundren in the Material Plane.
 
-Cirrus flies down into the vortex and grabs his friend, pulling him from the pit and back to Steden, who quickly retreats back to the Prime Material.
+## Camea Returns
 
-Patches lingers a moment though, lining up a shot with her long held Bolt of Dragon Slaying.
+The Necrichors and halflings lay slain. The ritual was fouled. The party took a ragged breath.
 
-She fires and hits the Great Deathwyrm, lodging the bolt between scales at the base of its jaw.
+They rushed to Camea's body. Tark produced the waterskin containing her soul. With a diamond and a prayer, they brought her back. She cried out in pain — her body was shattered — but they healed her quickly. She lay there, stunned to silence by the fact of her own death and return.
 
-Hohonu roars in pain and moves to lash out at his attacker, but Patches is already gone, fleeing back to the Prime Material.
+The pit still bubbled. Hohonu called to them telepathically — threatening, bargaining, lashing out. The group gathered Camea and the dwarven merchant who had fought alongside them, and Patches searched the Grand Shaman's corpse. She took his obsidian dagger and found a small book bound in leathers — finer craftsmanship than anything the halflings had produced.
 
-Hohonu can reach them even there, and three blasts of shadow erupt from the tar pit, striking Patches, Tark and Gundren painfully.
+They retreated five hundred yards, near the mists, to regroup.
 
-The group takes a moment to catch their breath with the Nechricors and Halflings all slain and the ritual fouled.
+## Sealing the Prison
 
-They rush to the body of Camea and revive her with a diamond and the soul brought back by Tark.
+Camea was still in shock. She rested while the others planned.
 
-Camera cries in pain, as her body is broken, but she is quickly healed.
+Feanon revealed that Hohonu's prison — whether by design or coincidence — sat atop a powerful leyline. He proposed using it to reinforce an Antipathy spell, which should keep most beings away from the site for the foreseeable future. It was not a permanent solution, and the group spoke of returning someday with gold dragons as allies to destroy Hohonu properly.
 
-She lays there, stunned to silence.
+Feanon considered empowering the spell with [[The Last Word]], but decided the risk was still too great.
 
-The pit still bubbles and Hohonu calls telepathically, threatening and promising bargains and lashing out at the group.
+He returned to the pit alone. Hohonu attempted to counter the spell from within his prison and failed. Feanon wove the working, binding it to the leyline. A permanent Antipathy now guarded the site. Given enough time, the accumulated power of the sacrifices would dissipate, and the prison would restabilise.
 
-The group gathers Camea and the Dwarven Merchant that had been assisting them in the battle
+## Parting Ways
 
-Patches searches the corpse of the Grand Shaman, taking his obsidian dagger and finding a small book on the body, bound in leathers, but looking far fancier than anything she has seen from the Halflings thus far.
+They left through the mists with Camea guiding them one last time. They asked what she wanted — for herself, and for her people. The shaman, still shaken, said she could not return to the village. Her brother [[Ruru]] would seize control, and with Hohonu still alive, she could not wrest it from him without a fight that would cost many lives.
 
-Thinking better than to stay where the Wyrm can strike at them, they retreat 500 yards away, near the mists of the Swamp to regroup and figure out their next course.
+Her goal had been to prevent the freeing of Hohonu. That had been achieved.
 
-Camea is still in shock, having just died and almost been sacrificed to a dark god.  She stays quiet and rests.
+She would return to her exiled followers and decide with them whether to remain in the swamp or accept the group's offer of sanctuary at the [[Golden Tower]].
 
-Feanon informs them that he has a plan and mentions that Hohonu’s prison, whether the source, or it was build here for this reason; is a *powerful *leyline.
+On the far side of the mists, Camea thanked the party for everything and said she would remain in contact through magic. Then she turned and disappeared into [[Thueba Swamp]], passing without a trace.
 
-The group decide to try and use the Leyline of this place to reinforce an Antipathy spell which *should *keep most beings away from Hohonu for the time being.
-
-It is not a permanent solution and the group mentions coming back with some Gold Dragons as allies to put this thing down properly.
-
-Feanon wonders about using The Last Word to empower the spell, but thinks that it is still too risky to use.
-
-He returns to the Pit and casts the spell 
-
-Despite interference from the imprisoned Death Wyrm, who attempts and fails to counter it, manages to weave the powerful spell.
-
-A permanent Antipathy spell now defends the area, and given enough time, the power of the sacrifices should attenuate, allowing the prison to become secure once more.
-
-Feanon returns to the group, letting them know that it has been done 
-
-They then leave through the mists with Camea leading.
-
-They talk with Camea about what she wants from them and for her people.
-
-The Shaman of the Old ways, still shaken from the ordeal, says that she cannot return to the village.  Her brother Ruru will take control and with Hohonu still around, she doubts she can wrest control from him. 
-
-If the group was to return with her, it would be a fight that would lead to the deaths of many
-
-Her goal was to stop the freeing of Hohonu, that has been achieved.
-
- She will return to her exiled people and decide with them if they should remain in the Swamp, or head to the Golden Tower (as offered by the party).
-
-They make it to the other side of the mists 
-
-Camea thanks the party for stopping the rise of Hohonu and saving her and says that she will remain in touch with the group with magic.
-
-The group turns to leave the area, intent on putting as much distance between themselves and Hohonu as they can.
-
-Camera disappears into the swamp, passing without a trace.
-
-The group turns Southwest, intent on finding the Machina factory, and the way home…
+The group turned southwest, toward the [[Machina Factory]] — and the way home.

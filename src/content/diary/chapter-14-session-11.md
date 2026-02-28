@@ -12,6 +12,8 @@ people:
   - "tarkathee-daru"
 places:
   - "shadowfell"
+things:
+  - "steden"
 ---
 
 The group continues their assault on the Doomstar Legion, hammering the steps of the Ziggurat and the shield-wall formation of Devils

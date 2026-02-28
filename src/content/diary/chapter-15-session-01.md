@@ -26,6 +26,7 @@ things:
   - "bag-of-holding"
   - "eclipse"
   - "iron-tome"
+  - "steden"
   - "the-last-word"
 factions:
   - "drow-faction"

@@ -27,6 +27,7 @@ places:
   - "the-moonwood"
 things:
   - "gwen"
+  - "steden"
 ---
 
 Gundren arrives at the Establishment and demands a report, sitting at a booth with the group as they argue about what to do next

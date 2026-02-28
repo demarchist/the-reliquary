@@ -17,6 +17,7 @@ places:
   - "underdark"
 things:
   - "gwen"
+  - "steden"
 factions:
   - "drow-faction"
   - "saurians"

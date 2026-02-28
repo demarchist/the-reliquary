@@ -3,6 +3,7 @@ title: The Voyage Home - Caught in the Act
 chapter: 13
 chapterTitle: The Voyage Home
 session: 6
+summary: "The party destroys the Dark Tome after Feanon relapses, then crosses the Great River through the mists of Thueba Swamp and devises a plan to infiltrate Aina Pulu disguised as prisoners and sacrifices."
 people:
   - "aliyah-faen-tlabbar"
   - "camea"
@@ -17,75 +18,46 @@ places:
   - "aina-pulu"
   - "barovia"
   - "ethereal-plane"
+  - "thueba-swamp"
+things:
+  - "hammer-of-niraz"
+  - "steden"
 ---
 
-The group begins to rest in the cleansed Solarium, it takes some effort, but they get a fire going.
+## The Relapse
 
- Luckily, the insects of the Swamp have not moved into the newly freed ruins and they do not disturb the group. 
+The group settled into the cleansed Solarium for the night. It took some effort, but they coaxed a fire to life among the ancient stones. Mercifully, the insects of [[Thueba Swamp]] had not yet reclaimed the newly freed ruins, and the camp was quiet. [[Camea]] and [[Horatio Von Bumidere|Buumi]] rigged a rope across the pit in the floor while [[Feanon Serinde|Feanon]] set an alarm on the approach. [[Aliyah Faen Tlabbar|Patches]] secured the only other entrance, and the group began to relax.
 
-Camea and Buumi set up a rope across the pit in the floor of the ruin and Feanon then alarms the approach for security.
+Feanon, however, could not. Exhausted from the day's trials, his mind turned toward the Dark Tome in his possession — the corrupted book he had carried too long. He could not resist its pull. He took the book from its shielding box and began to read, hungrily, as though starving for its contents.
 
-Patches secures the only other way in and they all begin to rest a little easier.
+Buumi was busy cooking. [[Jack Mayer Johnson Mathews|JmJm]] and [[Cirrus Al-Kayan|Cirrus]] noticed first — their eyes widening as they recognised the signs. Feanon had relapsed. The book had won another battle of wills.
 
-Feanon however, finds his mind turning toward the Dark tome in his possession.
+It had to go.
 
-Exhausted from the day, he cannot resist the pull of the artifact and he takes the book out of its shielding box and begins to hungrily read it.
+JmJm seized the wizard and restrained him while Cirrus snatched the tome and shoved it into his Bag of Devouring. The book freed itself somehow. Feanon cast Haste on himself and tore loose from JmJm's grip.
 
-Buumi is busy cooking, but JmJm and Cirrus’ eyes go wide as they recognize Feanon is relapsing and has lost a battle of wills against this thing.
+Buumi finally noticed the commotion. He rushed over with the [[Hammer of Niraz]] and brought it down on the tome in a devastating smite. One of the covers cracked with a burst of screams and necrotic energy. JmJm conjured a Bigby's Hand to restrain the wizard, but Feanon dispelled it and crashed to the floor. He snatched the book with Mage Hand and tried to put it away — but the tome would not let him set it down.
 
-It has to go.
+JmJm knocked it to the ground. Buumi struck it again. Cirrus summoned a celestial to join the assault. Under the combined onslaught, the Dark Tome imploded — its remains collapsing inward, leaving nothing behind.
 
-JmJm restrains Feanon and Cirrus shoves the tome into his bag of Devouring, but the book frees itself somehow and Feanon casts haste on himself and struggles free from JmJm.
+Feanon sagged as the book's influence left him. Buumi crossed the room and embraced the wizard, apologising for not freeing him from the book's grip sooner. Feanon looked conflicted but decided not to dwell on it. In the corner, Patches and Camea had been watching the whole affair over a pipe, and now rejoined the group for dinner.
 
-Buumi finally notices the kerfuffle and the book, and rushes over with the Hammer of Nuraz and smites the book with a powerful blow, cracking one of the covers in a burst of screams and necrotic energy.
+Exhausted, the party rested through an uneventful night.
 
-Feanon is then restrained by JmJm’s Bigsby hand but the Wizard dispels it, falling to the floor
+## The Great River
 
-Feanon snatches the book with a Mage hand and goes to put it away, but the book doesnt let him discard it.
+Come morning, they packed up and departed the ancient ruins, heading west. Buumi attempted to lead the way through faith, but the unforgiving swamps of this alien world quickly made a fool of his confidence. More competent navigation corrected their course, though not before they had lost several hours drifting too far north.
 
-JmJm then smacks the book to the ground as Buumi rushes over to smite it again and Cirrus summons a Celestial to also assault the Dark Tome.
+As the day wore on, they came across a ring of Standing Stones swarming with Allips — undead spirits drifting among the monoliths. The group chose to go around rather than fight, losing still more time to caution.
 
-Under the combined assault, the book is destroyed, the remains imploding in on themselves and leaving nothing
+Feanon then turned to his arcana, reading the currents of magic to sense the nearest and strongest emanations. He steered the group toward what he believed to be the resting place of [[Hohonu]].
 
-Feanon sags as the influence of the book leaves him.
+After a long and gruelling day, they reached the shore of a wide, uninterrupted body of water. Camea said it was the Great River, and that they were near [['Āina Pulu|Aina Pulu]]. To reach it, they would have to cross the mists and the river of the dead.
 
-Buumi comes over and hugs the Wizard, apologizing for not freeing him from the books influence earlier.
+She led them to a small dock where a halfling ferryman kept a boat. The ferryman knew Camea and agreed to take the group across. Buumi scouted ahead, diving beneath the surface — and surfaced white-faced. Thousands of corpses lay beneath the water. Camea warned them that not all of the bodies were real, and that they should not look too closely.
 
-Feanon looks conflicted, but decides not to dwell on it
+## The Plan
 
-All this time, Patches and Camea have been smoking in a corner, watching it unfold, they rejoin the group for dinner 
+As they set off across the river, the group discussed their approach to Aina Pulu. They settled on a scheme: Feanon and Buumi would be smuggled into the village in Gaseous Form, carried in glass bottles by the disguised [[Tarkathee Daru|Tark]] and Patches. Camea would present the "prisoners" as sacrificial offerings, to be taken to the ritual site for sacrifice to the dark draconic god. Once at the site, Cirrus, JmJm, and [[Gundren Rockseeker|Gundren]] — travelling through the [[Ethereal Plane]] aboard [[Steden]] the Nightmare — would transition back to the Material Plane at a moment's notice.
 
-Exhausted, the group then rests through an uneventful night.
-
-
-After a good eight hours, the group packs up and heads from the ancient ruins, intent on continuing West.
-
-They set out with Buumi attempting to lead through faith, but in the unforgiving swamps of this alien world, it quickly goes awry
-
-Led by more competent means, the group gets back on track having only lost a few hours going too far north.
-
-As the day draws on, they come across an interesting set of Standing Stones, the place however is swarming with Allips (undead spirits) and the group decides to go around, losing even more time to avoid battle with the Undead.
-
-Feanon then uses his arcana to try and read the winds of magic and get a sense of the nearest and strongest emanations of magic.  He leads the group to where he believes the Resting Place of Hohonu lies.
-
-After a long, long day, the group makes it to the shore of a wide uninterrupted body of water.
-
-Camea says that it is the Great River and that they near Aina Pulu
-
-To get there, they must cross the mists and the river of the dead.
-
-Intrigued, they let Camea lead them to a small dock and boat run by another halfling.
-
-The ferryman knows Camea and will gladly take the group across the river
-
-Buumi scouts the river, noticing many thousands of corpses beneath the surface and then goes back to report
-
-Camea says not all of the bodies are real, but not to look at the bodies too closely.
-
-They set off across the river, discussing their plans for Aina Pulu
-
-They decide to have Feanon and Buumi be smuggled into the town in Gaseous Form, held by the fake prisoners of Patches and Tark. Camera will then proffer the “prisoners” as sacrifice, to be taken to the ritual site for sacrifice to the Dark Draconic god. Once at the site; Cirrus, JmJm and Gundren will be in the Ethereal plane following using Steeden (the Nightmare), ready to transition back to the Material Plane at a moments notice.
-
-With a plan set, they turn their attention to the dead in the water, using the dangerous curse as a game to see how close they would come to plunging into the depths.
-
-Camea, the Ferryman and Buumi look on incredulously as JmJm and Cirrus risk so much for a true thrill…
+With the plan set, they turned their attention to the dead in the water. What followed was reckless even by their standards — JmJm and Cirrus used the dangerous curse as a game, daring each other to lean as close to the water as possible without tumbling in. Camea, the ferryman, and Buumi watched in disbelief as the two of them risked oblivion for a thrill.
