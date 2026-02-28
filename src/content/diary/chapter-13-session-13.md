@@ -1,5 +1,5 @@
 ---
-title: "The Voyage Home - & 14: The Machina Factory"
+title: "The Voyage Home - The Machina Factory"
 chapter: 13
 chapterTitle: The Voyage Home
 session: 13
