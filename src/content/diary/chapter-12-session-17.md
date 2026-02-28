@@ -1,16 +1,17 @@
 ---
-title: Al Askar - The Storm Aftermath
+title: Al Askar - Reunions and Ruin
 chapter: 12
 chapterTitle: Al Askar
 session: 17
+summary: "JmJm awakens and learns about Al Askar, the group navigates treacherous badlands to scavenge a second spelljammer fragment, evades giant insectoids, and fights through a ravine of blood-drinking cacti while pursuing their missing crew heading south toward Mt. Saqar."
 people:
   - "cirrus-al-kayan"
-  - "djoser"
   - "doc"
   - "hasrala"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
 places:
+  - "al-askar"
   - "faerun"
   - "mt-saqar"
   - "shadowfell"
@@ -18,81 +19,25 @@ places:
 things:
   - "the-last-word"
 factions:
+  - "cult-of-zalaam"
+  - "medjay"
   - "saurians"
 ---
 
-Doc and JmJm are alive and back in the hands of the group!
+## The Briefing
 
-The lone surviving cultist is tied up
+[[Doctor Breakfast|Doc]] and [[Jack Mayer-Johnson Mathews|JmJm]] were alive, though barely. [[Horatio Von Bumidere|Buumi]] and [[Cirrus Al-Kayan|Cirrus]] poured healing magic into them as the lone surviving cultist sat bound nearby. JmJm coughed, muttered something about the volcano to the south, and blinked open his eyes.
 
-Looking over Doc and JmJm, both appear to be in a bad state, riddled with corruption
+He was shocked to be surrounded by his friends. They were equally shocked to find him here. After confirming each other's identities — a necessary precaution in a world of shapeshifters and charms — Buumi sat the bard down and explained everything.
 
-Buumi and Cirrus both move to their friends sides and begin to cast healing magics on them, alleviating their symptoms.
+They were trapped in another world called Al Askar — not [[Faerun]]. The Weave was broken, spellcasting caused wild-magic surges that tore rifts to the [[Shadowfell]], and metal conducted source static badly enough to kill. The gods here were weakened and sequestered, save one — Zalaam, god of Death, an imposter who had usurped his throne a thousand years ago during a catastrophe that killed the [[Saurians]] and shattered their advanced civilisation. At the heart of that civilisation lay a Fragment of [[The Last Word]], hidden in the Pyramid of Barzok within [[Sharza]], the City of the Dead. An ancient Saurian named [[Hasrala]] was working on the Ringed Veil — their best lead home. The Medjay regulated magic. The Cult of the Black Skull served Zalaam.
 
-JmJm, coughs and weakly mentions the Volcano to the south
+JmJm took it in, remarked that it was good the group had finally branched out from a single plane of existence, and mentioned growing up in the City of Doors. He gathered his gear from the dead cultists, wisely limiting what metal and magic items he wore.
 
-Moments later, he blinks open his eyes and sits up, while Doc remains unconscious
+## The Second Fragment
 
-JmJm is shocked to be surrounded by his friends and his friends are just as shocked to find JmJm here
+The shifting sands made navigation treacherous. Despite flying up to survey the terrain, the group spent over an hour hiking before finding wreckage — but it was a different fragment of the spelljammer, a smaller section of hull and deck. They scavenged a section of the helm and navigation system before Cirrus flew up again and spotted massive insectoids approaching from one direction and, inexplicably, their missing crew heading south toward the volcano.
 
-They both question one another until they are confident that they are who they say they are.
+They grabbed what they had and ran, skirting the insectoids and pushing south to catch up with the crew. The trail led into a narrow ravine choked with cacti. As the group moved through, a dozen of the plants shifted colour and attacked — blood-drinking cacti that paralysed with a touch and drained anyone they latched onto.
 
-Buumi takes some time to explain the situation to JmJm; Al’askar, Wild Magic and the dark and shattered world they find themselves in.
-
-They are trapped in another world - not Faerun
-
-They are looking for a way home and have a few leads; An ancient Saurian named Hasrala is working on the Ringed Veil (stargate) and there is a way back to Faerun through this world’s Faewild (according to one of the gods of this world).
-
-The Weave is broken, with spellcasting often causing Wild Magic and tearing rifts to the Shadowfell
-
-The gods here are weakened and sequestered save one - Zalaam god of Death
-
-Zalaam is an imposter/usurper not originally from this world
-
-A catastrophe 1,000 years ago caused his ascendence and the damage to this world
-
-It killed the Saurians, the main race of this world, leaving their advanced technology behind
-
-Technology at the heart of which is a Fragment of the Last Word.
-
-This Fragment is at the heart of their empire - the Pyramid of Barzok, at the heart of Sharzad, city of the Dead.
-
-Metal is scarce and conducts Wild Magic, often leading to deadly burns and electrocutions
-
-Magic is looked down on as having broken the world and is regulated by the Medjai - this world’s Paladins (sort of)
-
-JmJm takes it in, he mentions that its good the group has finally branched out from a single plane of existence and talks about his time as a child in the City of Doors.  He gathers his gear from the dead cultists, but wisely limits what metal and magic items he wears.
-
-The group grabs the unconscious cultist and head out from the site of their battle
-
-An issue quickly arises, in that the shifting sands of the desert make it hard to navigate
-
-Despite the height advantages from flying up and surveying the area, it takes the group some time to spot the chunk of the spelljammer and head toward it.
-
-After an hour of hiking, they arrive, only to find that its not the same piece they left before.
-
-A smaller section of hull and deck, the group still moves in to investigate and they manage to scavenge a section of the helm and navigation system.
-
-Realizing that neither Djoser, nor the ship crew will be coming to this location, Cirrus flies up to see if he can spot them while the rest of the group investigates the crashed ship and scavenges what they can.
-
-While in the sky, Cirrus sees a plume of dust coming toward them caused by massive insectoids.
-
-He also spots what he believes to be the crew, heading South for some reason.
-
-Cirrus returns to the crashed piece of ship and informs the group of the impending insect attack and that the crew is heading south toward the Volcano and likely need rescuing (if not now, then shortly).
-
-The group grabs what they have scavenged and quickly rush from the crash, avoiding the strange insects and heading south to catch up with the crew, Djoser and his group still nowhere to be found.
-
-With the group checking for tracks, doing their best to avoid the sun, sticking to ridges and avoiding the worst of the sand, they manage to catch up to the crew over the next few hours, but lose sight of them as they enter a small ravine.
-
-There are Cacti everywhere and as the group moves through, they are attacked!
-
-Over a dozen of the Cacti shift color, and then move, lashing out with spines and attacking the group
-
-The poisonous things paralyze with a touch and actively drink the blood of any they attach to.
-
-Initially caught unawares, the group quickly rallies with blasts of destructive magic and a brutal assault, the creatures/plants are quickly destroyed but not without the group receiving some nasty wounds from the poisonous spines.
-
-Even the flora in this place are deadly and the group knows that every hour the crew is left unattended, the chance of tragedy rises greatly.
-
-They turn south to pursue, the looming Volcano of Mount Saqar dominating the landscape and the scent of volcanic gasses now thick in the air…
+The group rallied with destructive magic and brute force, smashing through the ambush but collecting nasty wounds from the poisonous spines. Even the flora in this world wanted them dead. They turned south to pursue their crew, the looming volcano of [[Mt. Saqar]] belching gas into the darkening sky.

@@ -1,8 +1,9 @@
 ---
-title: Al Askar - The Psi’Shara Attack
+title: Al Askar - The Psi'Shara
 chapter: 12
 chapterTitle: Al Askar
 session: 18
+summary: "The party discovers their missing crew are psionically dominated by giant insectoids called Psi'Shara, fights to free them, and camps near Mt. Saqar — where Buumi receives divine guidance to save a dragon in the gorge, and Feanon suffers his worst Tome-induced vision yet."
 people:
   - "aliyah-faen-tlabbar"
   - "djoser"
@@ -18,103 +19,52 @@ people:
   - "vaketh"
   - "val-tengu"
 places:
+  - "al-askar"
+  - "faerun"
   - "iyum"
   - "mt-saqar"
   - "temple-of-carthus"
 things:
   - "titanic-forge"
+  - "tome-of-al-azif"
 factions:
   - "cult-of-zalaam"
+  - "medjay"
+  - "psi-shara"
 ---
 
-The group quickly catches up to the Caravan, traversing the badlands with haste
+## The Dominated Caravan
 
-When they arrive, they find that the Caravan is indeed the missing sailors, Thirsty-Fingers and Liara
+The group caught up to the caravan quickly and found exactly what they feared: their missing sailors, Thirsty Fingers, and [[Liara]], all marching in an eerie trance toward the volcano of [[Mt. Saqar]]. Half the crew were psionically dominated.
 
-They are acting oddly though, making for the **Volcano of Mt. Saqar**
+[[Feanon Serinde|Feanon]] heard creatures speaking telepathically — they had been driven from their home in the volcano, and these humans would make wonderful new slaves and food. Feanon alerted the group, then responded telepathically to the creatures.
 
-As the group investigates and inquires, they realize that Liara, Thirsty and half of the rest of the crew are psionically dominated
+Great insectoids burst from the ground.
 
-Feanon hears creatures speaking with Telepathy - the things say that they have been forced from their home in the Volcano, but that these humans will make for wonderful new slaves and food.
+[[Djoser]] would later name them Psi'Shara — massive, armoured things with psionic domination abilities that tried to seize the party's minds. The group was not caught unaware. Feanon unleashed a disintegrate on the nearest one, burning away legs and chunks of flesh, but the creature survived. These things were tough.
 
-Feanon lets the group know they are not alone and then responds telepathically to the creatures.
+The battle was fierce. The group cleansed the domination from Liara and Thirsty first, then rallied together against the remaining beasts. Some of the crew were not so lucky — several died in the struggle. Near the end, Djoser and his Medjay arrived on their mounts and joined the fight. [[Snorbul]] grabbed the last fleeing Psi'Shara and gutted it.
 
-Great insectoids burst from the ground and attempt to dominate the group, but the group is not caught unawares and immediately retaliate.
+## Campfire Councils
 
-Feanon immediately unleashes a Disintegrate on the closest one, burning away many legs and chunks of flesh, but the thing survives the deadly blast.
+With the Psi'Shara dead, the group took stock. Djoser reported that the largest piece of the spelljammer had been lost to quicksand, but he intended to return to [[Iyum]] and organise a proper excavation. Liara would accompany him and report to [[Sultan Bashir]].
 
-Feanon warns the group that these things are tough!
+The group divided the recovered coin — giving a fair share to the surviving civilians — and sent them back with Djoser and Liara while their attention turned to the nearby volcano, spewing light and ash into the sky.
 
-The battle is fierce, the Insectoids proving to be formidable, but the group manages to cleanse the domination from several of the crew (Liara and Thirsty first) and they all join in battle against the beasts. 
+Feanon theorised that the [[Cult of Zalaam|Cult of the Black Skull]] might be behind the Psi'Shara's displacement — the cultists who had captured [[Doctor Breakfast|Doc]] and [[Jack Mayer-Johnson Mathews|JmJm]] had been heading back to the volcano. But how had the cult reached the spelljammer so quickly?
 
-Some of the crew are not so lucky, and are killed in the struggle.
+Djoser and Liara mentioned the Temple of [[Vaketh]] on the nearby slopes — none had returned from it in centuries. Snorbul perked up: at the [[Temple of Carthus]], he had been told great power awaited him at Vaketh's shrine. They also spoke of a legend: a great [[Titanic Forge]] hidden somewhere within the volcano. [[Gundren Rockseeker|Gundren]]'s eyes lit up.
 
-Near the tail end of the battle,** Djoser and his Medja**i catch up to the group riding their mounts and assisting in the fight.
+[[Horatio Von Bumidere|Buumi]] prayed to Helm and [[Karthus]], the embodiment of protection and justice in this world, and heard a quiet but strong voice: *"Save the Dragon within the gorge. He will aid you in your path to order."* JmJm scoffed, and the two launched into a theological debate over the entities and gods of this realm versus those of Faerun.
 
-The great beasts are slain, with the last trying desperately to flee the fight, but is grabbed and gutted by Snorbul.
+## The Waking Nightmare
 
-Djoser names these things as **Psi’Shara**
+Away from the campfire, Feanon turned to study the [[Tome of Al Azif]]. He gleaned no new spell, but when he took his Reverie, another vision found him.
 
+He dreamed of a magical college — not Al Askar, but somewhere he could not place. He was in class, grasping familiar theory with ease while the other students shied away from him. The headmaster came asking for "Val Cerdno." Everyone turned to Feanon. He was Val.
 
-With the **Psi’Shara** (insectoids) killed, the group begins to rest up and take stock of the situation.
+In the headmaster's office, he was admonished for burning a boy outside the college with a spell, blinding him. Feanon found himself saying the boy deserved it — that the weak should be punished by the strong. The headmaster's face began to ooze corruption and melt, an echoing voice asking why Feanon tolerated the weak and powerless, insisting that all should be subjugated by those with magical strength.
 
-Djoser mentions that the largest piece of the **Spelljammer was lost to quicksand**, but that he intends to return to **Iyum** and get a proper expedition sent out to excavate it.
+He woke to a blighted landscape — twisted, covered with death. Shadow beasts strode the horizon and a ghoul approached, calling his name.
 
-Liara says that she will return with Djoser and report to **Sultan Bashir**
-
-The group wonders what to do next, with the civilians now rescued; they decide to send them back with Djoser and Liara to the city, 
-
-but not before taking their coin from the recovered chests (but giving a fair amount to the civilians).
-
-As the party talks, their attention turns to the nearby Volcano, spewing light and ash into the air.
-
-Feanon thinks that perhaps the **Cult of the Black Skull** might be behind these creatures losing their home and coming out looking for food as the Cultists that tried to capture Doc and JmJm were heading back to the Volcano, 
-
-he questions how the Cult could have gotten to the Spelljammer so quickly...
-
-Djoser and Liara mention that the **Temple of Vaketh** lies on the slopes nearby, but none have returned from it in centuries.
-
-Snorbul notes this and mentions that at the **Temple of Carthus**, he was told great power awaits him at the Temple of Vaketh.
-
-They also mention that there is a **Legend; that a great Titanic Forge** exists somewhere in the Volcano.
-
-Gundren perks up at this, wanting to find it and see what secrets it may hold.
-
-They look for a good campsite, away from the remains of the battle and settle down for a long rest before the others take their leave and return to Iyum.
-
-The group talks and they mull over their options
-
-Buumi prays to Helm and Carthus, the embodiment of protection and justice in this world and he hears a quiet, but strong voice - **“Save the Dragon within the gorge, he will aid you in your path to order”**.
-
-Buumi turns to his friends and tells them what he just heard - that Helm has given them guidance.
-
-JmJm scoffs and he and Buumi launch into a theological discussion over the entities and gods of this realm and Faeurun.
-
-
-Feanon turns to study his dark book away from the group.
-
-He does not glean a new spell, but when he takes his Reverie, he has another waking vision.
-
-He sees a dream of a magical college, clearly not Al’Askar but other than that, it is hard to place
-
-He is in class going over familiar magical theory and grasps it easily, but the other students seem to shy away from him 
-
-Eventually the headmaster comes in asking for “**Val Cerdno**”
-
-When everyone turns to Feanon, he realizes he must be this Val and goes with the headmaster
-
-Arriving at his office, the headmaster admonishes Val for burning a boy outside the College with Burning hands, blinding the lad in their confrontation
-
-Feanon finds himself being forced to say that the lad deserved it and was weak
-
-The headmaster’s face then begins to ooze corruption and melt, with ominous, echoing words coming forth, asking why Feanon puts up with the weak and powerless, saying that all should be subjugated by the strong, by the magical.
-
-Feanon then wakes, and finds himself looking over the camp, but the landscape is twisted and blighted and covered with death
-
-Great striding beasts of shadow can be seen across the landscape and a ghoul approaches
-
-It calls to Feanon, asking if he is alright
-
-He snaps out of the vision and sees Patches concerned face.
-
-She asks why his eyes were solid black just now and that Feanon looks quite pale… 
+It was [[Aliyah Faen Tlabbar|Patches]], her concerned face snapping him out of the hallucination. She asked why his eyes had been solid black and why he looked so pale. Feanon had no answer.

@@ -1,8 +1,9 @@
 ---
-title: Al Askar - The Storm
+title: Al Askar - The Falling Star
 chapter: 12
 chapterTitle: Al Askar
 session: 16
+summary: "The party splits across two crises — Tark, Snorbul, and Gundren explore a crashed Amnian spelljammer and discover a captive Modron at its core, while Feanon teleports the entire ship out of a High Storm only to crash-land in the badlands. Both groups converge on a Black Skull caravan and rescue JmJm and Doc."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -24,194 +25,59 @@ places:
 factions:
   - "amnians"
   - "cult-of-zalaam"
+  - "medjay"
 ---
 
-At the crashed spelljammer, Tark, Snorbul and Gundren look for a way in with the Highstorm looming and growing closer.
+## Inside the Wreck
 
-Before they head inside, they look around for any sign of JmJm and discover a great many foot prints.
+At the crashed spelljammer, the High Storm loomed closer. [[Tarkathee Daru|Tark]], [[Snorbul]], and [[Gundren Rockseeker|Gundren]] searched for a way in, pausing only to note the many footprints around the site — someone had been here before them. Their friend [[Jack Mayer-Johnson Mathews|JmJm]] was nowhere to be found.
 
-They worry that someone beat them to the crash and have abducted their friend.
+Snorbul located access tunnels and clambered inside. The ship's innards were a marvel of intricate gemstone and precious-metal housings, many cracked and sparking. When Snorbul reached for a gemstone, electricity arced into his hand. Tark and Gundren followed, pressing through the discharging tunnels until they forced a door onto the main deck and found a mangled corpse on the other side.
 
-Snorbul finds some access tunnels, and clambers inside
+## Convergence
 
-The inner workings appear to be mostly gems and precious metals in intricate housings, many of which are damaged
+Nearby, [[Thorna]], [[Aliyah Faen Tlabbar|Patches]], [[Djoser]], and two Medjay rode hard toward the wreck. Djoser — the Grand Warden of [[Iyum]] — had gone searching for [[Liara]] and found Thorna and Patches instead. All of them had witnessed the fiery comet streak across the sky and raced to investigate.
 
-As Snorbul reaches for the gemstones, he is shocked by discharges of electricity
+The storm overtook them at the last hundred feet. Visibility collapsed. Thorna and Patches lost the others in the wall of dust, fought to control their mounts, and threw themselves into the nearest access tunnel. Thorna was shocked by a gemstone; Patches pried one free — and both froze as a building whine began where the stone had been.
 
-With the ship being twisted and damaged, Tark and Gundren follow Snorbul in through the access tunnels, brushing up agains the discharging gemstones
+Deeper inside, Snorbul, Gundren, and Tark heard the commotion and investigated. They found their friends, replaced the gemstone before the housing could detonate, and extracted everyone to a space where they could speak properly. Patches and Thorna explained they had come to investigate the fallen star, convinced the group would be involved.
 
-They make their way through, relatively unharmed and find an exit into the main deck of the ship, a door blocking their way
+The Amnian corpse confirmed a chilling detail: the spelljammer had come from [[Amn]].
 
-They force the door and on the other side, find a mangled corpse.
+## The Modron Hierarch
 
+Gundren wandered deeper and found a damaged circular chamber. At its centre stood a plinth bearing an intricate brass machine, cabled with precious metal to the ship's systems. The group determined it was a captured Modron Hierarch — the vessel's enslaved core intelligence.
 
+Both Tark and Gundren could understand the Modron's strangely melodic speech, though Gundren looked dazed, muttering that all of this felt extremely familiar. The creature kept repeating: *"Decaton, help me."*
 
-Nearby, Thorna, Patches, Djoser and two Medjai rush toward the crashed vessel on their mounts.
+The ship was overloading — the storm supercharging its damaged systems toward detonation. Snorbul exercised his new magical sight and traced the strongest sources of energy into other access tunnels. He and Thorna found massive rubies at the centre of intricate metal housings, both badly damaged, and repaired them as best they could despite the discharging electricity and searing heat.
 
-**Djoser, the Grand Warden of Iyum** went looking for his companion;** Liara**, and found Thorna and Patches instead.
+The overload was averted. They turned to freeing the Modron, but it was fastened securely and they risked destroying it. Gundren reached forward and touched the brass creature — a flash of light, and the dwarf collapsed unconscious, the symbol of Primus glowing softly on his forehead. His eyes moved beneath closed lids as though dreaming, but he could not be woken. The Modron's intelligence, it seemed, now resided within Gundren.
 
-After returning to Iyum, they witnessed the fiery comet streak across the sky and rushed to investigate.
+## Feanon's Gambit
 
-The Storm is almost upon them, but they are only a few hundred feet from the shelter of the wreck.
+Back on the seafaring vessel, [[Feanon Serinde|Feanon]], [[Horatio Von Bumidere|Buumi]], Liara, and [[Cirrus Al-Kayan|Cirrus]] watched the worst High Storm they had ever seen bearing down on them. Thirsty Fingers gave them fifty-fifty odds of outrunning it. Twenty minutes later, the storm overtook them.
 
-As the dust kicks up, visibility begins to drop significantly
+Feanon proposed teleporting to safety and abandoning the ship. Buumi and Liara refused. Other plans were floated — water breathing, walls of force — but it was the sheer magical power of the storm that gave Feanon his real idea.
 
-Thorna and Patches stick together, but lose the rest of the group in the edges of the Storm
+He fabricated the anti-magic ring from the Shaa'barid crypts into the hull as a conductor and climbed the mast. Channelling the storm's energy directly into the ship, he was badly burned and wracked by three wild-magic surges. Cirrus healed him and caught him when he nearly fell from the rigging. Below, Buumi worked the ropes while Liara obliterated waves that threatened to capsize them.
 
-They manage to keep their mounts under control until the last minute, Patches being thrown but she lands on her feet
+After the third surge, Feanon had enough power. He began to teleport the entire ship.
 
-Thorna and Patches rush into the wreck and dive into the nearby access tubes
+A rift to the [[Shadowfell]] tore open. Creatures fell through and attacked the crew — but the teleport fired and left them behind. With a thunderous crack of displaced air, the ship materialised in clear skies over the badlands.
 
-“Safe” from the storm, they take a moment to look around, noting the array of gemstones.
+A hundred feet above the ground.
 
-Thorna reaches out and is shocked by one while Patches attempts to remove another
+The ship plummeted. Cirrus summoned a celestial and his wings. Liara conjured a cube of water below. Feanon halved the vessel's weight and created a singularity to slow the descent. The ship hit the desert moments later.
 
-She does so, but the two adventurers are unnerved as a building whine can now be heard from where the gemstone was pulled.
+## Wreckage and Rescue
 
-Further in the crashed ship Snorbul, Gundren and Tark hear a commotion from the access tube and investigate, coming across their erstwhile companions.
+Cirrus woke covered in sand. The ship was badly smashed but not destroyed. Of thirteen crew, three were dead from the impact and one killed by the shadow creatures just before the teleport. Liara resuscitated one, but the other two were beyond help. They buried the dead — Liara conducting the rites, Cirrus presiding over a small wake.
 
-Shocked at finding them here of all places, they replace the gemstone before the housing can detonate and they extract themselves from the access tube so they can talk properly.
+Cirrus flew skyward and spotted the crashed spelljammer fifteen miles away, movement at the wreck, and a caravan of black-robed figures a few miles south of it. He instructed the surviving crew to salvage what they could and head for the spelljammer while the others flew to investigate.
 
-Patches and Thorna tell the others that they came to investigate the fallen star, convinced (rightly) that the group would be involved somehow.
+At the wreck, the spelljammer group emerged into sunlight to find Djoser and the Medjay outside. They too spotted the caravan. Djoser identified their heading: [[Mt. Saqar]], the massive volcano.
 
-They tell them that they came with others, but they got separated in the storm.
+Both groups converged on the caravan and discovered over a dozen [[Cult of Zalaam|Cultists of the Black Skull]] carrying the unconscious forms of JmJm and [[Doctor Breakfast|Doc]]. The group attacked without hesitation, overwhelming the cultists in a savage assault. Their leader, realising she was outmatched, called upon her dark god — her body swelled and detonated, showering the area with corruption. The group slew all but one, keeping a prisoner to question.
 
-Turning to look at the interior of the crashed ship, they get a better look at the mangled corpse nearby and determine it to be of Amnian origin.
-
-The Spelljammer came from Amn?
-
-They look around more and notice that Gundren has wandered further inside, to a damaged circular room
-
-In the center is a plinth with an intricate brass machine hooked up with cabled of precious metal to the ship.
-
-Investigating, they determine that it is a captured Modron Heirarch and likely the core of the ship, enslaved against its will
-
-Tark and Gundren can both understand it, though Gundren looks somewhat dazed and remarks that this all looks and feels extremely familiar.
-
-The Modron keeps saying “**Decaton, help me”**
-
-Translating the creatures strangely melodic sounds, they determine that the ship is overloading and nearing detonation - the Storm is supercharging what remains of the systems and they need to be repaired.
-
-Snorbul exercises his new found abilities and follows the strongest sources of magic into other access tunnels.
-
-He and Thorna find massive rubies at the center of intricate metal workings, though both show bad damage.
-
-They take the time to re-attach and repair them as best they can despite the discharging electricity and intense heat.
-
-Back on the bridge of the derelict, Patches is taking apart a nearby console, stripping it of precious gems while Gundren stares at the Modron.
-
-Snorbul and Thorna return and report and discover that the overload has been averted for now
-
-They turn their attention to try and free the Modron from the ship, but it is fastened quite securely and they risk damaging it.
-
-Gundren however reaches forwards and touches the brassy thing and with a flash of light, falls unconscious, the symbol of Primus on his forehead glowing softly.
-
-Tark rushes to his friend and determines that it is almost like Gundren is sleeping, his eyes moving back and forth below the lids, though he cannot be awoken.
-
-Perhaps the Modron intelligence now resides within Gundren?
-
-
-Back on the seafaring vessel along the coast, Feanon, Buumi, Liara and Cirrus all watch as the Highstorm approaches,
-
-This storm is the worst they have seen since they have arrived in this world.
-
-They turn to Thirsty Fingers and ask if they can outrun it
-
-The grizzled sailor gives them 50/50 odds
-
-Over the next twenty minutes, they do their best to stay on the edge, but are eventually overtaken.
-
-The heroes brainstorm how to survive, with Feanon offering that they teleport to safety and simply leave the ship behind.
-
-Buumi and Liara refuse, though Cirrus seems receptive.
-
-Other plans are floated, such as waterbreathing and walls of force.
-
-The sheer amount of magical power in the storm is astounding and it gives Feanon an idea.
-
-Fabricating the now defunct anti-magic ring they found with the Shaabarid into the hull of the ship, Feanon uses it as a conductor for the Storm.
-
-He climbs the mast and begins to channel energy into the ship, being badly burned and being the epicenter of several wild magic surges.
-
-Cirrus heals the wizard and even stops him from falling from the mast into the roiling ocean.
-
-Below, Buumi heals and helps with the ropes while Liara destroys any massive waves that look to capsize the ship.
-
-After the third blast of Wildmagic, Feanon has enough power and begins to teleport the entire ship!
-
-As he does, a tear appears to the shadowfell and creatures fall through, immediately attacking the crew.
-
-The teleport is enacted and the creatures are not brought along with the crew and the vessel.
-
-With a flash of light and a thunderous retort from the displaced air, the ship finds itself suddenly awash with light.
-
-The Storm is no longer above, only the clear skies of Al’askar
-
-Feanon has attempted to teleport to the crashed Spelljammer, but is off target by many miles.
-
-More importantly though, the ship is over a hundred feet in the air over the badlands.
-
-The ship begins to plummet
-
-Cirrus summons a Celestial, his wings and then with Buumi they all attempt to arrest the fall.
-
-Liara summons a cube of water beneath the ship while Feanon halves the weight of the vessel and creates a singularity to pull at the craft.
-
-It hits the desert moments later…
-
-
-Cirrus awakes covered in sand and aching from the fall.
-
-He stands and looks around at the wreckage, the ship having been badly smashed, though not pulverized on impact.
-
-Other bodies are scattered around, though many stir as he watches.
-
-The others awake and find that of the 13 crew, three are dead, plus one other that was killed by the Shadow creatures just prior to the teleport.
-
-Liara manages to resuscitate one, though the other two that died in the crash are too badly damaged to revive.
-
-The crew is awestruck by the display of magic, everyone sure that they were going to die in the storm.
-
-They bury the dead, with Liara conducting the religious rituals and Cirrus presiding over a small wake of sorts.
-
-Cirrus flies into the sky and looks around, noting the crashed Spelljammer about fifteen miles away, the Storm having blown past the wreck.
-
-He notes movement at the wreck as well as movement a few miles south of it.
-
-Focusing, he believes that he can make out the southern movement to be a caravan of black robed individuals.
-
-Cirrus returns to the wrecked sailboat and instructs the crew to salvage what they can and head toward the crashed Spelljammer while he and the others all fly toward the caravan to investigate.
-
-At the crashed Spelljammer, the group extricates themselves from the wreckage of the ship and out into sunlight.
-
-Djoser and the Medjai are out there, investigating the crash and make themselves known.
-
-Off in the distance though, they all spot a caravan of black robed individuals moving South.
-
-Djoser points out that they appear to be heading to Mt. Saqar, a massive Volcano.
-
-Tark, Thorna, Patches and Snorbul (with Gundren in tow) all begin to head toward the caravan, hoping to find JmJm while Djoser and the Medjai stay at the crash.
-
-Both groups are heading toward the caravan of black robed individuals and they notice each other before long.
-
-They converge and discover over a dozen Cultists of the Black Skull rushing across the badlands, heading toward the Volcano and carrying the unconscious forms of JmJm and Doc. B
-
-Shocked at finding their friends but unwilling to leave them in the hands of the murderous cult, the group attacks and quickly overwhelms the Cultists, killing many of them in a savage assault.
-
-Their leader realizes they are outmatched and calls upon her dark god.
-
-Her body swells and explodes, showering the area, and the group, with corruption.
-
-The group slay all but one of the cultists, wanting a prisoner to question and then they turn to their captured friends.
-
-JmJm and Doc are both unconscious and riddled with corruption themselves.
-
-Sweating, with dark ooze seeping from their eyes, mouths and ears, they look terrible.
-
-Cirrus, Buumi and Thorna all begin to cast healing spells on them, but they are very sick with this supernatural disease.
-
-Exhausted from the Storm and now this battle, the group takes stock of their options.
-
-To the south, Mt. Saqar looms ominously, belching forth a continual cloud of gasses and to the north, the wreck of the Spelljammer can be seen smoldering.
-
-The Spelljammer is only a few miles away and with their crew and Djoser there, they decide to make for the wreck…
+JmJm and Doc were alive but riddled with corruption — dark ooze seeping from their eyes, mouths, and ears. Cirrus, Buumi, and Thorna poured healing magic into them, but the supernatural disease resisted easy treatment. Exhausted from the storm and battle, the group looked south toward the belching volcano and north toward the smouldering spelljammer, and chose to make for the wreck.

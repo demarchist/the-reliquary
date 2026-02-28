@@ -20,3 +20,4 @@ The party discovers Hasrala's phylactery in the Saurian mines and carries her me
 - Possesses ancient knowledge of Ringed Veil technology and sourcestone properties
 - Brilliant engineer and scholar from a lost civilization
 - Identified runestones and other Saurian artifacts recovered from the mines
+- Located a database of Ringed Veil addresses in an ancient manufactory in Thueba Swamp — the party's first major lead on a way home that did not come from a god of Al Askar

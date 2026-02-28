@@ -21,6 +21,10 @@ Gundren has a gruff, no-nonsense demeanor and a rough-and-tumble attitude toward
 
 In battle, Gundren fights with an enormous magical cannon, lobbing exploding shells and grapeshot at enemies. He is always accompanied by Guinevere, his astoundingly sophisticated clockwork lion — his magnum opus as an Artificer and the envy of Artificers the world over.
 
+## The Modron Connection
+
+When the party explored a crashed Amnian spelljammer on Al Askar, Gundren was drawn to its core — a captured Modron Hierarch enslaved as the ship's intelligence. The ship felt strangely familiar to him. He could understand the Modron's melodic speech, and when he touched the brass creature, a flash of light knocked him unconscious. The symbol of Primus glowed on his forehead, his eyes moving beneath closed lids as though in a trance. The Modron's intelligence appeared to have transferred into Gundren — a connection whose full implications remain unclear but which deepened his obsession with Titanic and ancient artifice, driving him relentlessly toward the Titanic Forge within Mt. Saqar.
+
 ## The Rockseeker Manufactory
 
 Gundren built and operates the Rockseeker Manufactory within the walls of the Keep of Thunder Bluff. It is a massive, sprawling complex of forges, foundries, and workshops where his extended family — renowned for their expertise in metalworking — produce some of the finest weapons and armor in Faerûn. The Manufactory is a major employer in the region.
