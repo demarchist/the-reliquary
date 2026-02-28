@@ -41,6 +41,12 @@
     scroll-behavior: smooth;
   }
 
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-serif);
     color: var(--color-ink-900);
@@ -81,9 +87,9 @@
 
 /* Outline active link */
 .outline-link.active {
-  color: var(--color-accent-700, #b45309);
+  color: var(--color-accent-700);
   font-weight: 600;
-  border-left-color: var(--color-accent-700, #b45309);
+  border-left-color: var(--color-accent-700);
 }
 
 /* Pagefind search UI overrides */
