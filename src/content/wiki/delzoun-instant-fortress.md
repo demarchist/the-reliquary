@@ -13,3 +13,7 @@ The Delzoun Instant Fortress is a dwarven-crafted magical item that takes the fo
 ## Properties
 
 Constructed from adamantite by Delzoun dwarven artificers, the fortress is nearly indestructible when deployed. It provides the party with a portable stronghold that can be erected anywhere, offering protection in the most hostile environments.
+
+## Notable Uses
+
+The fortress proved decisive during the assault on the Cult of Zalaam's fortified Ringed Veil chamber. The party placed it on the teleportation platform and activated the ring, materializing twenty feet of adamantite directly into the enemy's killing ground. The ranged fighters and civilians sheltered inside while firelance blasts hammered uselessly against the walls, and the melee fighters used the tower as cover to flank the cult's positions.

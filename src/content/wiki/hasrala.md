@@ -17,5 +17,6 @@ The party discovers Hasrala's phylactery and helps transfer her consciousness in
 ## Notable Traits
 
 - One of the last surviving Saurians, albeit in a mechanical body
-- Possesses ancient knowledge of Ringed Veil technology
+- Possesses ancient knowledge of Ringed Veil technology and sourcestone properties
 - Brilliant engineer and scholar from a lost civilization
+- Identified runestones and other Saurian artifacts recovered from the mines
