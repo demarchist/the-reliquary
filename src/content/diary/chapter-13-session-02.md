@@ -21,6 +21,8 @@ places:
   - "machina-factory"
   - "sharza"
   - "thueba-swamp"
+things:
+  - "eye-of-aren"
 ---
 
 ## The Last Ghost

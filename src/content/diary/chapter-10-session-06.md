@@ -35,6 +35,7 @@ places:
   - "the-labyrinth"
   - "underdark"
 things:
+  - "eye-of-aren"
   - "piwafwi"
   - "the-last-word"
   - "well-of-many-worlds"

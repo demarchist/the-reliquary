@@ -25,6 +25,7 @@ places:
   - "selunia"
 things:
   - "eclipse"
+  - "eye-of-aren"
   - "stonespeaker-crystal"
   - "the-reaver"
   - "thundercannon"

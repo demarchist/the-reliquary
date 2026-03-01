@@ -35,6 +35,7 @@ places:
   - "underdark"
 things:
   - "eclipse"
+  - "eye-of-aren"
   - "the-bearded-lass-ii"
   - "the-last-word"
 factions:

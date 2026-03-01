@@ -25,6 +25,7 @@ people:
 things:
   - "ashbringer"
   - "bag-of-holding"
+  - "eye-of-aren"
   - "gwen"
 ---
 

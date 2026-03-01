@@ -25,6 +25,7 @@ places:
   - "the-establishment"
   - "yggward"
 things:
+  - "eye-of-aren"
   - "piwafwi"
   - "steden"
 factions:

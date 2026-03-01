@@ -56,6 +56,7 @@ places:
   - "thunder-bluff"
   - "underdark"
 things:
+  - "eye-of-aren"
   - "gwen"
   - "thayan-drop-box"
   - "the-last-word"

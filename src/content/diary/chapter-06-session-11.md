@@ -10,6 +10,7 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "li-xian"
+  - "magistrate-li"
   - "pickles"
   - "s-olaa"
   - "shaahir"

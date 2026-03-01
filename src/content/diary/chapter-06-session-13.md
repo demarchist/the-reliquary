@@ -10,6 +10,7 @@ people:
   - "gundren-rockseeker"
   - "high-marshal-arasume"
   - "horatio-von-bumidere"
+  - "magistrate-li"
   - "megno-slatesunder"
   - "omar"
   - "pickles"

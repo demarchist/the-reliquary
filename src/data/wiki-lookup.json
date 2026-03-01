@@ -694,6 +694,26 @@
     "title": "Coho",
     "category": "People"
   },
+  "the conclave of silverymoon": {
+    "slug": "conclave-of-silverymoon",
+    "title": "The Conclave of Silverymoon",
+    "category": "Factions"
+  },
+  "conclave of silverymoon": {
+    "slug": "conclave-of-silverymoon",
+    "title": "The Conclave of Silverymoon",
+    "category": "Factions"
+  },
+  "the conclave": {
+    "slug": "conclave-of-silverymoon",
+    "title": "The Conclave of Silverymoon",
+    "category": "Factions"
+  },
+  "conclave": {
+    "slug": "conclave-of-silverymoon",
+    "title": "The Conclave of Silverymoon",
+    "category": "Factions"
+  },
   "corpsetaker": {
     "slug": "corpsetaker",
     "title": "Corpsetaker",
@@ -1024,6 +1044,16 @@
     "title": "Elara",
     "category": "People"
   },
+  "elion loberos": {
+    "slug": "elion-loberos",
+    "title": "Elion Loberos",
+    "category": "People"
+  },
+  "elion": {
+    "slug": "elion-loberos",
+    "title": "Elion Loberos",
+    "category": "People"
+  },
   "ella": {
     "slug": "ella",
     "title": "Ella",
@@ -1093,6 +1123,21 @@
     "slug": "evermeet",
     "title": "Evermeet",
     "category": "Places"
+  },
+  "the eye of aren": {
+    "slug": "eye-of-aren",
+    "title": "The Eye of Aren",
+    "category": "Things"
+  },
+  "eye of aren": {
+    "slug": "eye-of-aren",
+    "title": "The Eye of Aren",
+    "category": "Things"
+  },
+  "the eye": {
+    "slug": "eye-of-aren",
+    "title": "The Eye of Aren",
+    "category": "Things"
   },
   "ezmerelda": {
     "slug": "ezmerelda",
@@ -2134,6 +2179,21 @@
     "title": "The Leanansidhe",
     "category": "People"
   },
+  "the lei technique": {
+    "slug": "lei-technique",
+    "title": "The Lei Technique",
+    "category": "Things"
+  },
+  "lei technique": {
+    "slug": "lei-technique",
+    "title": "The Lei Technique",
+    "category": "Things"
+  },
+  "grell technique": {
+    "slug": "lei-technique",
+    "title": "The Lei Technique",
+    "category": "Things"
+  },
   "lemerlais": {
     "slug": "lemerlais",
     "title": "Lemerlais",
@@ -2315,6 +2375,16 @@
     "category": "People"
   },
   "li": {
+    "slug": "magistrate-li",
+    "title": "Magistrate Li",
+    "category": "People"
+  },
+  "lei tan": {
+    "slug": "magistrate-li",
+    "title": "Magistrate Li",
+    "category": "People"
+  },
+  "officer li": {
     "slug": "magistrate-li",
     "title": "Magistrate Li",
     "category": "People"
@@ -2554,6 +2624,21 @@
     "title": "Nidavellir",
     "category": "Places"
   },
+  "nostalgia for infinity": {
+    "slug": "nostalgia-for-infinity",
+    "title": "Nostalgia for Infinity",
+    "category": "Factions"
+  },
+  "nostalgia": {
+    "slug": "nostalgia-for-infinity",
+    "title": "Nostalgia for Infinity",
+    "category": "Factions"
+  },
+  "the elder brain": {
+    "slug": "nostalgia-for-infinity",
+    "title": "Nostalgia for Infinity",
+    "category": "Factions"
+  },
   "o'alla": {
     "slug": "o-alla",
     "title": "O'Alla",
@@ -2617,6 +2702,16 @@
   "the great beast": {
     "slug": "orcus",
     "title": "Orcus",
+    "category": "People"
+  },
+  "orla pyntle": {
+    "slug": "orla-pyntle",
+    "title": "Orla Pyntle",
+    "category": "People"
+  },
+  "orla": {
+    "slug": "orla-pyntle",
+    "title": "Orla Pyntle",
     "category": "People"
   },
   "orrah": {
@@ -2822,6 +2917,21 @@
   "s'olaa": {
     "slug": "s-olaa",
     "title": "S'Olaa",
+    "category": "People"
+  },
+  "sala shara": {
+    "slug": "sala-shara",
+    "title": "Sala Shara",
+    "category": "People"
+  },
+  "sala": {
+    "slug": "sala-shara",
+    "title": "Sala Shara",
+    "category": "People"
+  },
+  "keeper shara": {
+    "slug": "sala-shara",
+    "title": "Sala Shara",
     "category": "People"
   },
   "sallow manatee": {
@@ -3070,6 +3180,11 @@
     "category": "People"
   },
   "silverymoon": {
+    "slug": "silverymoon",
+    "title": "Silverymoon",
+    "category": "Places"
+  },
+  "the gem of the north": {
     "slug": "silverymoon",
     "title": "Silverymoon",
     "category": "Places"

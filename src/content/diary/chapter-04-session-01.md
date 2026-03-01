@@ -22,6 +22,7 @@ places:
   - "astral-plane"
   - "goblin-town"
 things:
+  - "eye-of-aren"
   - "tavern-of-doors"
 factions:
   - "duergar-faction"

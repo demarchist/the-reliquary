@@ -18,6 +18,8 @@ places:
   - "font-of-fawden"
   - "shadowfell"
   - "temple-of-carthus"
+things:
+  - "eye-of-aren"
 factions:
   - "saurians"
 ---

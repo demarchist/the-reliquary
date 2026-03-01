@@ -36,6 +36,7 @@ factions:
   - "drow-faction"
   - "house-alamreth-undonwe"
   - "house-faen-tlabbar"
+  - "nostalgia-for-infinity"
 ---
 
 ## The Killing Blow

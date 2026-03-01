@@ -13,6 +13,7 @@ people:
   - "jack-mayer-johnson-mathews"
   - "tarkathee-daru"
 things:
+  - "eye-of-aren"
   - "tavern-of-doors"
 factions:
   - "duergar-faction"

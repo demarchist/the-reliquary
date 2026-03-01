@@ -11,6 +11,7 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "li-xian"
+  - "magistrate-li"
   - "pickles"
   - "tarkathee-daru"
   - "theodemir"

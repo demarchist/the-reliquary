@@ -16,6 +16,7 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "jack-mayer-johnson-mathews"
+  - "magistrate-li"
   - "orcus"
   - "snorbul"
   - "tarkathee-daru"

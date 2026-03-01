@@ -14,6 +14,8 @@ people:
 places:
   - "shadowfell"
   - "shou-lung"
+things:
+  - "eye-of-aren"
 factions:
   - "dragons-of-shou-lung"
 ---

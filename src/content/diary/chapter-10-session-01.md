@@ -11,6 +11,7 @@ people:
   - "cirrus-al-kayan"
   - "dorbo"
   - "eilistraee"
+  - "elion-loberos"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "gurnik"
