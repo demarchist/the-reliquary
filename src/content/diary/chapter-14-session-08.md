@@ -22,6 +22,7 @@ places:
   - "shadowfell"
   - "the-evermoors"
   - "the-moonwood"
+  - "yggward"
 things:
   - "gwen"
   - "steden"

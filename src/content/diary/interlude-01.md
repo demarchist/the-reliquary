@@ -19,6 +19,7 @@ places:
   - "damara"
   - "dokkar"
   - "evermeet"
+  - "nidavellir"
   - "shou-lung"
   - "vaasa"
 factions:

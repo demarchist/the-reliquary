@@ -21,10 +21,12 @@ people:
 places:
   - "astral-plane"
   - "dokkar"
+  - "nidavellir"
   - "shadowfell"
   - "svartalfheim"
   - "the-crossroads"
   - "underdark"
+  - "yggward"
 things:
   - "eclipse"
 factions:

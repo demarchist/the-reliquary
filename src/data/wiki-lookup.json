@@ -504,6 +504,16 @@
     "title": "Book of Strahd",
     "category": "Things"
   },
+  "borborygmos": {
+    "slug": "borborygmos",
+    "title": "Borborygmos",
+    "category": "People"
+  },
+  "the bone hunter": {
+    "slug": "borborygmos",
+    "title": "Borborygmos",
+    "category": "People"
+  },
   "boris": {
     "slug": "boris",
     "title": "Boris",
@@ -2439,6 +2449,11 @@
     "title": "Nezzan",
     "category": "People"
   },
+  "nidavellir": {
+    "slug": "nidavellir",
+    "title": "Nidavellir",
+    "category": "Places"
+  },
   "o'alla": {
     "slug": "o-alla",
     "title": "O'Alla",
@@ -3853,6 +3868,11 @@
     "slug": "yeenoghu",
     "title": "Yeenoghu",
     "category": "People"
+  },
+  "yggward": {
+    "slug": "yggward",
+    "title": "Yggward",
+    "category": "Places"
   },
   "ysera": {
     "slug": "ysera",
