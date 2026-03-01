@@ -1,21 +1,27 @@
 ---
-title: Kallista
+title: Home - Kallista
 chapter: 14
+chapterTitle: Home
 session: 8
+summary: "The group destroys the Marilith and both Balors in Patches' ancestral vision, witnesses the true history of Kallista's sacrificial last stand, and Patches is named Matron Mother of House Alamreth Undonwe — the House of Starry Twilight — before the group Planeshifts home to a Barony shrouded in ominous silence."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "crisserei"
   - "doc"
   - "eilistraee"
+  - "euphoria"
   - "feanon-serinde"
   - "finn"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "kallista"
   - "lolth"
   - "selune"
   - "tarkathee-daru"
 places:
+  - "cathedral-of-twilight"
   - "dokkar"
   - "fane-of-selune"
   - "selunia"
@@ -28,265 +34,134 @@ things:
   - "steden"
 factions:
   - "drow-faction"
+  - "house-alamreth-undonwe"
   - "house-faen-tlabbar"
-  - "illithid-faction"
 ---
 
-The battle against the Balors and Marilith rages with JmJm, Patches, Steeden and Cirrus in his angelic form surrounding the great serpentine Demon and her dervish of blades.
+## The Killing Blow
 
-The group surrounds and assaults The invisible, levitating Marilith
+The battle raged around the Marilith as [[Jack Mayer-Johnson Mathews|JmJm]], [[Aliyah Faen Tlabbar|Patches]], [[Steden]], and [[Cirrus Al-Kayan|Cirrus]] in his angelic form surrounded the great serpentine demon. The invisible, levitating fiend fought with desperate fury — four swords cutting in every direction, the spellcasting pair weaving magic between strikes.
 
-The combat rages back and forth with the group hitting the demon but being struck repeatedly in turn.
+The Marilith attempted Disintegrate on [[Tarkathee Daru|Tark]]. [[Feanon Serinde|Feanon]] counterspelled it without hesitation.
 
-Marilith attempts a disintegrate on Tark but is counterspelled by Feanon
+Peeking from [[Steden]]'s saddlebags, [[Doc|Doctor Breakfast]] timed his entrance. With a leap and a stretch, he unleashed a spell that blew the ground beneath the Marilith apart in a shower of stone and earth. The demon teleported high above the battlefield, unleashed a blistering void-light attack that scorched the hilltop, then fell back into melee in a flurry of blades.
 
-Peeking out of the Saddlebags of Steeden, Doc B takes note of the fray and times his entrance perfectly.
+Feanon shielded himself in a dome of ice against the relentless assault of a Balor and pushed it back into the waiting glaive of Patches' ancestor. The other Balor was tag-teamed by [[Horatio Von Bumidere|Buumi]] and Tark — as they hammered at the demon, cracks of fire spread across its body.
 
-With a leap and a stretch Doc unleashes a powerful spell, the ground beneath the Marilith explodes in a shower of stone and earth
+Euphoria blasted the demons with psionic energies before retreating to a safer distance.
 
-The six armed fiend reacts by teleporting far above the battlefield, unleashes a blistering void-light attack that burns the whole hilltop below her and then falls back into melee with a flurry of blades
+The cracking Balor reached out and entangled Tark in her serpentine tentacles, pulling him close as the fissures ruptured. The demon exploded. Buumi brought his shield up just in time and was hurled to the ground, smouldering and screaming. Tark had wriggled free a heartbeat earlier and dived into a crack in the earth, the blast washing over him harmlessly.
 
-meanwhile, Feanon shields himself in an Ice dome from the relentless assault of a Balor and psuhes it back into the waiting Glaive of Patches ancestor
+The remaining Balor bore down on the ancient Drow woman, only to take three rapid shots to the back of the head from [[Gundren Rockseeker|Gundren]]. The demon spun and teleported behind the dwarf, assaulting him viciously. Gundren pulled out his new Sceptre of Lordly Might. One of its gemstones blazed with light and a glowing axe head materialised. He embedded it in the demon's side, and cracks began to web outward.
 
-The other Balor is tag-teamed by Buumi and Tark and as they lay into the great Demon, cracks of fire spread across its body
+Patches darted from cover — her revolver cracking, throwing sparks and smoke — then back to cover for potions before darting out again to fire on the Marilith. JmJm saw Gundren fighting alone and summoned the Arcane Hand, which slammed down and grasped the Balor.
 
-The Illithid, Euphoria blasts the demons with psionic energies before retreating to a safer distance
+The Marilith could not steal enough blood to heal through the punishment. She teleported away and called forth an Abyssal spell of terrible power, mending her wounds considerably.
 
-The cracking Balor reaches out and entangles Tark in her serpentine tentacles and pulls him in close as the cracks then rupture and explode…
+But the reprieve was brief. The group finished the cracking Balor — everyone cleared back save Gundren, who decapitated the demon with a blow from his sceptre. The Balor exploded in a fireball. Gundren let the flames wash over him and lit his cigar.
 
-Buumi brings his shield up just in time to survive the blast, but he is thrown to the ground smoldering and screaming as he is badly burned
+They turned their full attention to the Marilith.
 
-Tark managed to wriggle out of the Balor’s grasp just in time and dive into a crack in the earth (from Doc’s spell), avoiding the blast entirely
+The ancestor leapt off Buumi's shield in a flip and severed one of the demon's spellcasting arms at the elbow. As the great snake reared back in agony, Feanon pointed a finger. A green ray of Disintegration struck the Marilith.
 
-The other Balor, bears down on The ancient Drow woman but gets rapidly shot in the back of the head 3 times by Gundren
+She screamed — an agonised wail that shook the standing stones — and crumbled to dust.
 
-The Balor spins and vanishes, teleporting behind the Dwarf and assaulting him viciously
+A Drow Matron who had been floating above the battlefield, barely visible against the dark sky, screamed in fury. She summoned two Glabrezu demons, but Gundren shot her from the sky and sent [[Gwen]] to assault the fallen woman. The Matron banished Gwen with a wave of her hand and healed her own wounds.
 
-The Dwarf adjusts his tactics and pulls out his new Scepter of Lordly might.  One of its many gemstones shines with light and a glowing ax head materializes as he strikes at the Demon, embedding the blade in its side and starting a web of cracks
+*Mother! Apostate!* she shouted at the ancestor. *You and these strangers cannot defeat [[Lolth]]!*
 
-Patches then darts out of cover, Revolver cracking as she shoots the Balor repeatedly, throwing sparks and smoke before darting back into cover and chugging some potions and then doing it again to Marilith
+The glowing cleric shouted back: *You and your sisters are lost! Aura Shu Nae has lost her way — she will cast you aside the moment you are no longer useful! The Goddess we knew is gone!*
 
-JmJm sees Gundren battling alone against the Balor and pulls out a mysterious glove from his past! The Arcane Hand slams down and grasps the demon.
+The mind-controlled Glabrezu turned on its companion while Tark shadowstepped toward the Matron. She Dimension Doored away and vanished. The remaining demons were quickly dispatched.
 
-The Marilith is unable to steal enough blood with her swords to heal through the damage being dealt and teleports away as far as she can and then calls out an Abyssal spell of terrible power, Healing considerably (wish spell)
+## The True History
 
-With the Marilith temporarily retreating for a breath, the last Balor is struck repeatedly and the glowing cracks grow.
+A perfect stillness fell over the hilltop. Time stopped.
 
-Everyone backs off, save Gundren who pulls out a cigar and then decapitates the demon with a blow from his powerful new weapon.
+Crisserei, the Planetar of [[Selune]], appeared. She said this vision had gone very differently in the past. She touched the ancestor's shoulder.
 
-The Balor explodes in a fireball, Gundren lets the flames wash over him, lighting the Cigar
+The ancient woman stirred, becoming more *aware* of the group and their anachronistic presence. She smiled and thanked them for changing the dream. She had always lost this fight — until now.
 
-The group turns all their attention to The Marilith as it re-engages in a flurry of blades and spellcasting and it once again attempts to disintegrate someone, but is shut down.
+She introduced herself as Matron Mother Kallista Alamreth Undonwe, follower of [[Eilistraee]] and [[Selune]], apostate of [[Lolth]].
 
-It cuts at the wizard in revenge
+Then she showed them what had really happened. The battle rewound to the moment before Patches had materialised.
 
-Cirrus rushes over and his healing touch reinvigorates Feanon just as his vision was beginning to blur from blood loss and the Planetar flies back in to tank the Demon’s whirling blades
+Kallista stood alone.
 
-Doc B desperately casts healing spell after healing spell, closing wounds as quickly as the Marilith can cause them
+She fought valiantly — dodging masterfully, counterattacking the Balors — but when the invisible Marilith struck from behind, she was overwhelmed. The Drow Matron floated in the sky, gloating.
 
-Gundren then notes a Drow woman floating above the battlefield, hard to spot against the dark starry sky
+Slowed by burns and cuts, surrounded, Kallista was grappled by both Balors and pulled apart as the Marilith stabbed her from behind with all four swords. But with her dying scream, she turned it into a prayer. Her body collapsed inward — pulling together, then further, into a single orb of blinding white light.
 
-She summons two Spidery Glabrezu demons  and keeps on the edge of the battlefield, watching. Until Gundren shoots her from the sky and sends Gwen to assault the fallen woman
+The orb detonated.
 
-Gwen pounces, but with a wave of her hand, the Drow Matron banishes Gwen from the vision and heals her wounds
+When the group's vision cleared, Kallista was gone. Nothing remained but a single glowing Moonstone on the hilltop, just outside the now-empty dome of force. A blast pattern of flowering moon lilies covered the crest of the hill.
 
-She shouts in defiance “Mother! Apostate! You and these Strangers *cannot *defeat Lolth!”
+Her people were safe. The Matron daughter screamed, clutching burned-out eyes, and fled.
 
-She is addressing Patches’ ancient ancestor 
+Crisserei spoke gently. The blinded daughter was slain by her sisters days later — the blindness seen as disfavour from Lolth. The resulting civil war destroyed House Alamreth, save for a single daughter who forged a new house from the survivors. The house that would become [[House Faen Tlabbar]].
 
-The glowing cleric shouts back to the Matron “You and your sisters are lost! Aura Shu Nae has lost her way, she will cast you aside the moment you are no longer useful! The Goddess we knew is gone!”
+Time sped forward. The group watched the grasslands ripple in the night breeze. Then a prismatic reflection washed over the hilltop as a massive Crystal Dragon flew in, curiosity drawn by the distant flash.
 
-The fight rages and the group quickly engages the Glabrezu with the Illithid mind controlling one of them just as the other muddles Tark’s mind.
+The reflected moonlight on its scales stirred something in Tark — a feeling of longing, of childhood nostalgia before his waking memory.
 
-Marilith is looking terribly wounded 
+The dragon landed in cascading light and shifted into a small humanoid form. A halfling man bent down and plucked up the glowing Moonstone, looking around as if for the owner of a dropped trinket. Confused, he wandered the hilltop before shifting back to draconic form and flying off into the pre-dawn sky.
 
-Patches ancestor rushes in to melee, leaping off Buumi in a flip and cuts off one of Marilith’s spellcasting arms at the elbow
+## Matron Mother
 
-As the great snake demon rears back in agony, Feanon points a finger and a green ray darts out, striking Marilith
+The vision ended. The group found themselves back in the Cathedral of Twilight, facing the great mirror. Reflected in its still blackness was Kallista, watching her kin with interest.
 
-She screams an agonized wail and cringes away from the powerful spell as she is disintegrated to dust…
+Patches said she sought a blessing to break from Faen Tlabbar and found a new house free of Lolth.
 
-The Drow Matron screams in anger and then Dimension Door’s to safety as Tark shadowsteps to assault her and the group lose sight of her
+Kallista offered to bless her — Aliyah — and bestow upon her the title of Matron for their ancient and long-defunct house: Alamreth Undonwe. The House of Starry Twilight.
 
-The two remaining Glabrezu are rapidly dispatched
+Invigorated by the battle and meeting her family across the ages, Kallista said she would awaken and rejoin her people in [[Dokkar]], if her great-daughter would wait but a moment.
 
-The Drow Arcanist finishes teleporting the fleeing refugees and watches from within the dome, wide eyed and grinning to see his love survive the fight
+While Kallista stirred in the depths below, Gundren approached an empty mirror. The clerics nodded — he could watch a dreamer, if the dreamer allowed it.
 
+The dwarf touched the glass and found his vision transported. An ancient Dark Elf workshop gleamed with magical light reflecting off richly coloured marble. A Drow woman — Opheli Lu — inspected her latest handiwork. Gundren watched her across the shifting dreamscape, studying her techniques with bone and tendon of very similar materials to his own. He watched her shape, carve, bend, lacquer, layer, filigree, and infuse the bone with rare materials to achieve impossible strengths and curves.
 
-A perfect stillness falls over the battlefield and time stops
+Materials the Foundry had.
 
-they all feel a celestial presence
+Confident he had gleaned considerable knowledge, Gundren whispered silent thanks to the dreamer and withdrew.
 
-Crisserei, the Planetar of Selune appears and mentions that this went very different in the past and touches Patches ancestor on the shoulder
+Across the cathedral, the others leaned over the precipice to [[Yggward]] and the [[Shadowfell]] and watched as a gleaming soul began to walk out of the sprawl of ancient elven mausoleums. Kallista grew brighter with each step, darting and flickering, teleporting closer between graceful strides. She walked up the sheer wall of the tunnel and into the cathedral.
 
-The ancient woman begins moving again and becomes more *aware *of the party and their anachronistic presence
+Cirrus stepped forward with divine providence to oversee the ceremony. Clerics of the Twinborn Goddesses assembled at a respectful distance. Crisserei the Planetar stood nearby, bathing the area in radiant glow — save for her shadow, which was notably dark and cold.
 
-She smiles and thanks the group for changing the dream.  She has always lost this fight until now.
+JmJm looked around at the sparse audience and declared the occasion lacking in pizazz and nobility. Buumi shushed him. [[Steden]] agreed with JmJm — the company *was* sorely lacking. The Planetar scowled at the Nightmare.
 
-She introduces herself as Matron Mother Kallista Alamreth Undonwe, follower of Elistraee and Selune and apostate of Lolth.
+Kallista placed her hands on Patches' shoulders. Her fiery orange eyes matched her great-daughter's. Cirrus placed his hands on both of them, drawing side-eye from each, but the ceremony was quiet and serene.
 
-She shows the group how it really happened historically and the battle rewinds to the moment before Patches materialized.
+Kallista named Aliyah of House Alamreth Undonwe the new Matron Mother.
 
-Kallista stands alone.
+A pulse of divine power washed through the cathedral. Patches felt herself infused with *authority* — a divine mandate backed by [[Eilistraee]] herself and the Pantheon of the Moon.
 
-She fights valiantly, dodging masterfully and counterattacks the Balors, but when the Invisible Marilith assaults she is overwhelmed.
+Kallista asked if any more of her family were in Dokkar. Patches named her brother, [[Finn]]. Kallista said she would go to him and see what time had wrought.
 
-The Drow Matron floats in the sky, gloating down at her embattled mother
+## Homecoming
 
-Kallista, slowed by burns and cuts and surrounded by monstrously powerful demons, is grappled by both Balors and pulled apart as the Marilith stabs her from behind with all four swords, but with her dying scream, she turns it into a vengeful prayer and calls for Divine Intervention
+Crisserei interrupted with a polite bow. She told Cirrus he was needed at his place of power. The threat was imminent. She offered a window.
 
-Her body pulls back together and then keeps going, collapsing into a glowing white light and forming an orb of power which then detonates in a blinding flash
+Alarmed, Cirrus gathered the group. With a blessing from the Planetar, they Planeshifted home.
 
-As the group’s eyesight returns, Kallista is nowhere to be seen except for a single glowing Moonstone on the hilltop, just outside the now empty Dome of Force and Monoliths
+They arrived in the [[Fane of Selune]], all save Euphoria, who appeared in one of Feanon's containment tanks — safe, for now.
 
-Her people are safe and the Dome of Force vanishes
+Cirrus climbed to the top of his Fane and gazed across the moonlit landscape. Light gleamed off Lake [[Selunia]], illuminating the sheer sides of Feanon's tower. His gaze moved past, to [[The Moonwood]].
 
-A blast pattern of flowering moon lilies now covers the crest of the hill
+He returned to the group and urged Feanon to scry the Barony. The wizard activated his tower's ward network and swept the compass. North, east, and west — calm. Movement in [[The Evermoors]] caught his attention, but it was too distant for concern.
 
-The Drow Matron mother screams in agony, clutching her burned out eyes.
+Then Feanon paused. His attention turned back north, to the Moonwood. Its absolute silence. Not a single creature stirred within.
 
-The Matron flees, leaving the hilltop serene and empty, covered in white flowers around the elven standing stones.  No sign of the battle remains save the glowing gem.
+It was quiet. Too quiet.
 
-Crisserei smiles and rests a hand on Kallista’s shoulder, comforting the woman for reliving the traumatic memory.
+They had to rest and prepare. The group split to their different homes, nerves taut with the knowledge that something was coming.
 
-The Planetar then says Kallista’s Lolth worshiping daughter was slain by her sisters days later for being unable to cure her blindness - clearly showing disfavor from lolth
+JmJm rushed to his theatre and fired up the grand organ, beginning a powerful waltz — the names on his casting call burning in his mind. Patches slipped to her sanctum to pray. Buumi rallied the Paladins. Gundren could not rest — he *must* craft his new masterpiece. Cirrus prayed, yodelling across the calm barony.
 
-The resulting inter-house civil war left house Alamreth all but destroyed, with a single daughter forging a new house from a band of survivors, the house that would become House Faen Tlabbar.  Patches’ House.
+[[Doc]] headed to his grove. JmJm joined him later, and the druid spoke with his animals — a great host of woodland creatures, including a small herd of deer. He asked what they knew.
 
-Time in the vision then speeds up, showing several hours of the night pass.
+The animals were uneasy. Many had fled the southern edge of the Moonwood in recent days. None would venture into the Evermoors.
 
-The group watches the grasslands ripple and sway in the sped up night breeze
+Doc asked why they had left the woods.
 
-The group looks confused but the Planetar asks for patience
-
-Then, a movement in the sky catches their attention and a prismatic reflection washes over the hilltop
-
-A huge Crystal Dragon flies in, curiosity peaked by the flash of the explosion from Kallista’s last stand, seen for many leagues.
-
-The reflected light catching the scales stirs a feeling of longing in Tark, of childhood nostalgia before his waking memory
-
-The great dragon lands in a cascade of reflected moonlight and then shifts down into a small humanoid form.
-
-The halfling man bends down and plucks up the glowing Moonstone, looking around as if for the owner of a dropped trinket.
-
-Confusion clearly wrought over the halfling’s face, he wanders the hilltop, examining the battlefield to discern its secrets.
-
-Some time later, the great wyrm shifts back into draconic form and flies off into the darkness of pre-dawn…
-
-
-The vision ends and the party finds themselves back in the Cathedral of Twilight facing the great Onyx Mirror of Loss.
-
-Reflected in its still blackness is Kallista, who watches her kin with interest
-
-She asks why she was sought out and Patches says she seeks a blessing to break from Faen Tlabbar and start her own house devoid of Lolth.
-
-Kallista offers to bless Patches; Aliyah and bestow upon her the title of Matron for their ancient and long defunct house - Alamreth Undonwe.  The House of Starry Twilight.
-
-Invigorated by the battle and meeting her family in this modern age, Kallista says she will awaken and rejoin her people in Dokkar, if her Great Daughter will wait but a moment.
-
-As the group awaits Kallista, Gundren talks to a nearby cleric attending this spectacle and asks if he may use a mirror to look in on the ancient Bowcrafter he heard about in Dokkar.
-
-The clerics nod and gesture to an empty mirror.  They say that he can only watch, and then only if the dreamer allows it.
-
-Gundren touches the Mirror and finds his vision transported.
-
-
-Gundren sees an ancient Dark Elf workshop, the place gleaming with magical light reflecting off richly colored marble as a Drow woman inspects her most recent handiwork
-
-Gundren watches, inspecting her at work as the dreamscape changes with the passing of time and watching her work with bone and tendon of very similar materials to what he has.
-
-He watches her shape, carve, bend, lacquer, layer, filigree and infuse the bone with further rare materials to get the shapes and strengths she needs for her epic craft.
-
-Materials that The Foundry has.
-
-Confident that he has gleaned considerable knowledge from the vision, Gundren whispers a silent thanks to the Dreamer and ends the vision.
-
-He rejoins the group
-
-
-While Gundren was gleaning ancient and lost knowledge from the slumbering dead, the others lean over the pit to the Necropolis of Yggward and the Shadowfell and watch as a gleaming soul begins to walk out of the sprawl of ancient elven mausoleums, growing brighter with each step.
-
-The ghost darts and flickers, teleporting closer between graceful strides 
-
-She then walks up the sheer wall of the Yggward tunnel and into the Cathedral proper.
-
-The soul of Kallista joins the group in person and once again thanks them for their assistance and in awakening her to meet her kin
-
-She turns to Patches and rests two lilac-skinned hands on her Great Daughter’s shoulders and her fiery orange eyes match Patches’
-
-She begins the blessing as promised
-
-Cirrus steps forward with divine providence to oversee the Ceremony, blessing it in the name of Selune
-
-Clerics of the Twin Goddesses assemble but remain a respectful distance away, watching with quiet intent.
-
-Crisserei the Planetar stands nearby, watching and smiling, bathing the area in a radiant glow…save her too dark, cold shadow.
-
-JmJm looks around at the unfolding Ceremony and thinks the audience lacking and expresses a desire for more pizazz, class and *nobility *but is quickly shushed by Buumi to the grumbling of JmJm.
-
-Steeden agrees though; the company *is sorely lacking. *
-
-The Planetar scowls at the Nightmare, clearing sensing its disdain. 
-
-Cirrus places his hands on both Kallista and Patches, eliciting side-eye from both, but the Ceremony is quiet and serene
-
-Kallista names Aliya, now of House Alamreth Undonwe, the new Matron Mother
-
-There is a pulse of Divine power and Patches finds herself infused with *authority; s*he has a Divine Mandate and there is power there, backed by Elistraee herself and the Pantheon of the Moon.
-
-Kallista asks if any more of her family are in Dokkar and Patches names her brother; Finn.
-
-Kallista says she will head to the city to spend time with him and see what time has wrought in the wider Plane.
-
-Crisserei steps forward, interrupting with a polite bow
-
-She informs Cirrus that he is needed at his Place of Power.  It is threatened and the threat is imminent and she wishes to provide a window for the group.
-
-Alarmed that his upcoming festival may be disrupted, Cirrus quickly gathers the party and with a blessing from the Planetar, Plane Shift back home…
-
-
-They arrive in the Fane, all save the Illithid who appears in one of Feanon’s containment tanks, safe (for now)
-
-The group quickly takes stock.  They are exhausted but the Barony has no alarms or signs of issue.
-
-Cirrus goes to the top of his Fane and gazes across the moonlit landscape of the barony
-
-Light gleams off lake Selunia, illuminating the sheer sides of Feanon’s tower
-
-Cirrus scowls at it and his gaze moves past, to the Moonwood
-
-Uneasy, he returns to the group and urges Feanon to Scry the Barony
-
-The Wizard reaches out to his Tower’s complex wards and activates them, seeing through a network of magical sensors.
-
-North, East and West seem very calm
-
-Movement in the Evermoors catches his attention, but it is too far from the Barony for anything mo(o)re than that
-
-Feanon becomes uneasy as he realizes that something else was not quite right…his attention turns back to the North, to the Moonwood and its absolute silence.
-
-It’s quiet…too quiet.  Not a single creature can be heard
-
-Feanon reports this to the group.  It is calm for now
-
-They decide they must rest and prepare and split to their different abodes to prepare for whatever this *imminent *danger may be…
-
-JmJm rushes back to his theater and pipes up his Grand Organ, beginning a powerful Waltz, with the list of names written on his Casting Call.
-
-Patches slips back to her Sanctum and begins to pray to her goddess
-
-Buumi heads to rally the Paladins
-
-Gundren cannot rest, he *must* craft his new masterpiece. The Passengers demand it.
-
-Cirrus prays, yodeling across the calm barony
-
-Doc heads back to his Grove and after some time, JmJm stalks from the darkness and talks with his friend about the mysterious threat
-
-Doc entreats with some animals and gathers a great host of woodland creatures including a small herd of Deer.  Doc asks them what they know.
-
-The animals are uneasy, many have left the southern tip of the Moonwood in the last few days
-
-None venture into the Evermoor
-
-Doc asks why they left the Moonwood and they reply that they are fleeing “The bad rock that grows”...
+They were fleeing *the bad rock that grows*.

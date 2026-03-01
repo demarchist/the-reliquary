@@ -1,340 +1,143 @@
 ---
-title: Assault on the Barony
+title: Home - Assault on the Barony
 chapter: 14
+chapterTitle: Home
 session: 9
+summary: "Goblin bat-riders and warg cavalry assault the Barony at dawn while Zhentarim assassins ambush Patches in the Establishment, Cirrus infiltrates the goblin encampment in the Evermoors disguised as a warg and discovers Ancalagon the Black Dragon and a devil named Beucephelus behind the attack, and the group realises the Zhengyi curse has spawned a feral Demilich trying to break free of its demiplane prison."
 people:
   - "aliyah-faen-tlabbar"
   - "ancalagon"
+  - "beucephelus"
   - "bohd"
+  - "bolg"
   - "chani"
   - "cirrus-al-kayan"
   - "claudine"
+  - "crisserei"
   - "doc"
   - "ezmerelda"
   - "feanon-serinde"
   - "gneiss"
-  - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "pickles"
   - "ruthir"
+  - "selune"
   - "tarkathee-daru"
   - "topsy-and-turvy"
   - "vaketh"
   - "zhengyi"
 places:
   - "baldurs-gate"
-  - "blingdenstone"
   - "faerun"
   - "fane-of-selune"
-  - "keep-of-thunder-bluff"
   - "luskan"
-  - "selunia"
-  - "silverymoon"
   - "the-establishment"
+  - "the-evermoors"
+  - "thunder-bluff"
 factions:
+  - "doomstar-legion"
   - "faerun-defense-force"
-  - "svirfneblin-faction"
   - "zhentarim"
 ---
 
-Tark awakens in his Tree Fort, in the predawn light to the sounds of shouting and screaming
+## The Raid
 
-He leaps to his feet and scans the Valley, seeing dark shapes of giant bats circling the town, their undersides illuminated by flashes of hurled Alchemist's fire from their riders.
+[[Tarkathee Daru|Tark]] awoke in his treehouse to the sounds of screaming. He leapt to his feet and scanned the valley. Dark shapes of giant bats circled the town, their undersides lit by the flash of hurled alchemist's fire from their riders.
 
 Goblins.
 
-Tark calls on Vaketh and with his prosthetic arm and eyes glowing red, leaps into the night sky, flying toward the conflict.
+Tark called on [[Vaketh]]. His prosthetic arm and eyes blazed red. He leapt into the night sky and flew toward the town.
 
-Cirrus is awoken by Topsy and quickly given a report.
+[[Cirrus Al-Kayan|Cirrus]] was awoken by [[Topsy and Turvy|Topsy]] and quickly received a report through his network of acolytes. Several dozen goblin bat-riders were assaulting the town. Boulders were being hurled at the orcs from the darkness of the Evermoors by unknown assailants — likely giants. The dwarves had locked down the [[Keep of Thunder Bluff|Keep]] and were gunning down bats from the walls. The Paladins were mustering to charge.
 
-With his network of acolytes Cirrus begins to get a steady stream of information on the attack and the disposition of the enemy raid
+Cirrus summoned Crisserei in her Seraphim form. The celestial destroyer began shooting goblins from the sky with her radiant bow.
 
-The town is currently assaulted by several dozen Goblin batriders though reports quickly begin to arrive of boulders being hurled at the Orcs from the darkness of the Evermoor by unknown assailants; likely giants
+## The Assassins
 
-He gets a report that the Dwarves are locking down the Keep and gunning down Bats from the walls and the Paladins are mustering to charge to the town in support
+[[Aliyah Faen Tlabbar|Patches]] was awoken by [[Mr. Pickles|Pickles]], who warned that a group of patrons had arrived the night before and stayed in the common room rather than renting beds.
 
-He has no word of Feanon but hears of a red streak of light coming from the forest near Tark's Dojo and guesses his friend is on the way
+Patches sprinted from her sanctum through the secret tunnels and up into [[The Establishment]]. She raced through the common room. Four figures — two apparently sleeping, two rolling dice. But one of the sleepers had a clear sightline on the back doors and stiffened as Patches rushed past. One of the dice-rollers tracked her with widening eyes.
 
-Cirrus keeps the acolytes moving and the information flowing and summons Criserrei, his Planetar ally in her Seraphim form
+She spotted them spotting her spotting them.
 
-The Celestial destroyer begins shooting the Goblins from the sky with her radiant bow
+The sleeping gnome bolted upright, flipping the table as she grabbed an exquisite crossbow from underneath. The human beside her leapt from the booth pulling daggers from her boots. The two dice-players spun out in practiced unison — the human going high with a spear, the dwarf low with a flail.
 
-Patches is awoken by Mr. Pickles informing her there's some kind of attack in town. 
+Patches flipped between the four attackers and they missed.
 
-He also warns her that a group of patrons came in the night before and didn't get rooms, they stayed in the Common Room.
+Jackie, behind the bar, pulled out a Rockseeker 200 — the simple boomstick model kept for emergencies — and blew the dagger-wielder's head off. He cried out in shock at the weapon's power and proclaimed he *really liked it*.
 
-Patches sprints from her Sanctum, through her secret tunnels and up into The Establishment
+Enchanted bolts clipped Patches and embedded in the back wall. Then Pickles leaned out of his trapdoor in the wall and garroted the gnome with a wire, dragging her back into the recess.
 
-She races through the Common Room and sees the group of Patrons
+Patches hurled a smoke bomb. The two remaining assassins went back-to-back in the haze, ready to fight.
 
-Two seem to be sleeping while two others are rolling dice to pass the time, except one of the sleepers has a good view on the backroom doors and stiffens slightly as Patches rushes through them.
+## The Defence
 
-One of the dice rollers has eyes on her too and they go a little wide in recognition
+Meanwhile, [[Feanon Serinde|Feanon]] and his combat apprentices — [[Ruthir]] and his young cousin — teleported to the town centre. They found themselves in the thick of the raid and began blasting bat-riders from the sky.
 
-She spots them spot her spotting them
+The city guard had been warned the night before that *something* was coming. Bows hummed. The occasional crack of a dwarven arquebus split the air.
 
-The seemingly sleeping Gnome bolts up, flipping the table over as she grabs a huge and exquisitely crafted crossbow from underneath and the human with her leaps from the booth pulling daggers from her boots
+[[Jack Mayer-Johnson Mathews|JmJm]] rode from his theatre with a cadre of supporters — fighting goblins, putting out fires, rescuing civilians, and providing dramatic sound effects at critical moments.
 
-The two dice players spin out of their booth, swinging their weapons in practiced unison; the human going high with a spear and the dwarf low with a flail
+Tark flew above the town and spotted flashes of light at both the east and west gates. Dark figures appeared flanked by hulking forms. Green light flared from each figure — and both gates were disintegrated to dust. Dozens of goblin warg-riders poured through the holes, followed by armoured ogres and hellhounds.
 
-Patches flips between the attackers and they miss their target
+The group would be pincered.
 
-Jackie, behind the bar, pulls out a Rockseeker 200 - the simple Boomstick model kept behind the bar and unloads a blast into the face of the dagger wielder
+Tark knocked a rider from his bat, snapped the beast's wings, and rode it down to the town square to warn Feanon and JmJm.
 
-Jackie then cries out in shock at the powerful weapon and proclaims he "really likes it!"
+Feanon messaged [[Doc]], asking for rain. Moments later, clouds formed and the first drops splashed down on the burning rooftops.
 
-Enchanted bolts clip Patches and embed into the back wall
+They spotted smoke billowing from the Establishment and rushed over. Tark slammed the heavy oak doors wide, dispersing the haze. The two surviving assassins — seeing their window had closed — threw smoke bombs of their own and fled.
 
-The rapid-firing Gnome assassin is then surprised when Mr. Pickles leans out of his trapdoor in the wall and garrotes her with a wire, pulling her back with him into the recess and out of view.
+Patches slinked back into view. A corpse tumbled from Pickles' trapdoor. Another lay headless on the floor behind the bar.
 
-Patches hurls a smoke bomb to the ground and vanishes
+A quick search of the dead identified the gnome as Gibmaker Gibby — a [[Zhentarim]] assassin of renown — and the spear-wielder as Patch Cassidy, a hired killer. Someone had paid well. Patches judged the hit opportunistic and unrelated to the goblin raid.
 
-The two remaining assassins turn back to back in the smoke, ready to keep fighting
+She found Pickles in the wall, badly wounded. She pulled him out, fed him a healing potion from [[Claudine]]'s shop, and had him carted to the [[Fane of Selune|Fane]] hospital.
 
-Meanwhile in his tower, Feanon is alerted to the attack and gathers his two combat apprentices,
+The warg charge hit the town square from both sides. The raiders were met by the organised city guard, JmJm's militia, a horde of woodland creatures sent by Doc, and the core of the [[Faerûn Defense Force]].
 
-The new third; Sinya, is told to remain behind as Feanon has yet to interview the young elf lady
+Tark's prosthetic arm blazed with red energy as he punched an ogre through a nearby building. The other seven could not touch the nimble halfling. Patches vanished into the warg charge in a flurry of lightning bombs and blades. Feanon erupted a wall of ice across the other approach, stalling the western charge cold. JmJm pulled on the glove from his past and began crushing ogres with the Arcane Hand.
 
-Feanon, Ruthir, and his young cousin don their battlemage equipment and teleport to the center of town
+Crisserei's searing arrows broke the bat-riders' nerve. A triple blast from their horns signalled retreat and the flock fled south to the Evermoors. The Paladins charged into town. The wargs and ogres, now leaderless, turned and ran.
 
-They find themselves in the thick of a Goblin Raid and they waste no time beginning to blast the attackers from the dark pre-dawn skies.
+## The Infiltrator
 
-The city guard was warned the night before that *something *was coming so the guard are not caught unawares and bows hum with rapid shots
+The group gathered at The Establishment. Patches revealed her intelligence — the contract came through the Silvertongues of [[Baldur's Gate]], commissioned by a human rogue named Morik in [[Luskan]]. Two assassins had survived: Patch Cassidy and a dwarf named Irehide. The contract was still active.
 
-The occasional crack of a thundering Dwarven arquebus splits the air.
+Cirrus reported that both gates had been destroyed by powerful magic — Disintegrate — and covered by hellhounds. His friends had the town in hand. The warlock hunted the hellhounds, killed them, then True Polymorphed himself into a slain warg and ran after the fleeing raiders.
 
-Most of the noise is from shouting and coordinating within the city guard and civilian support brigades
+It was hard going through the fetid marsh, leaping from fallen trees to waterlogged islands. Eventually the ground solidified and the pack arrived at a large island in the moor topped by an ancient ruined watchtower. He heard the name: the Withered Hill.
 
-JmJm rides from his Theater with a cadre of supporters that engage the goblins and attempt to put out fires, rescue people and add dramatic sound effects at critical times (the work of foley artists)
+Several *hundred* goblinoids were assembled — hill giants, wargs, giant bats, armoured ogres. Far more than had attacked the town. Cirrus followed three goblin war-bosses past the hill to the water's edge.
 
-Tark flies in above the town and spies movement along the Trade road at the East and West gates
+There, lying in the swamp like a great crocodile, was [[Ancalagon]] — the same black dragon that had attacked patrols months before. The dragon and his forces were working with another commander — a devil named Beucephelus — and the raid had been a diversion to keep the Barony's attention south and lure defenders into the swamp.
 
-Both gates are manned by guards and engaged in fighting the flying raiders
+Cirrus shifted into the form of a devil and approached the conversation. The dragon, cautious but convinced, revealed that a Ziggurat in the north was overdue for a cataclysmic event. The wizard was supposed to be dead. Something had gone wrong.
 
-Tark spots a flash of light and then another in front of the gates as dark figures appear flanked by hulking forms
+Cirrus told the goblin leaders to come with him for a debriefing. He led them to a secluded spot, opened a Demiplane door — feeling a sickening pull on his soul as a screaming skull pressed against the portal's threshold before vanishing — and ushered the goblins inside.
 
-He cannot see who the figures are from this distance but there are flashes of green light from each and the East and West gates are disintegrated to dust
+He sealed the door and Planeshifted away.
 
-From the twilight shadows ride dozens upon dozens of Goblin Warg Riders, right through the holes in the gates
+## The Demilich
 
-The dark caped figures vanish in another display of powerful magic, leaving their Armored Ogre allies behind to charge through the gates with the Wargs
+Cirrus appeared outside The Establishment, staggering. The group rushed to him.
 
-Taking up the rear of the whole assault are two Hellhounds that stay to secure the open Gates
+He brushed off their concern but asked if anyone else had felt a strange pull on their soul. No one had. His fingertips were burned and cracking.
 
-Tark realizes his friends in the town square will be pincered
+He told them everything. At the mention of Beucephelus, Feanon perked up and found the passage in his book on the Nine Hells. Beucephelus was a Narzugon commander in the Doomstar Legion — the mercenary army of the Archdevil Mathias Doomstar, Lord of Dis.
 
-he knocks a Goblin rider from his bat and then grabs the beast, snapping its wings and rides it down in a tumble to the ground where he can see JmJm and Feanon fighting
+The group convened in full — the B-team of [[Bohd]], [[Chani]], [[Gneiss]], [[Ezmerelda]], and [[Ruthir]], alongside the core. [[Bohd]] wanted to lead a pursuit into the Evermoors with veterans, orcs, and [[Bolg]]. Feanon stopped him — whoever was behind this was deliberately keeping attention south.
 
-Tark quickly warns the Wizard and Bard about what he witnessed and asks where everyone else is
+JmJm agreed. The animals were fleeing the *northern* woods because of *the bad rock that grows*.
 
-Feanon notes the fires being spread by the bat riders and messages Doc, asking for rain
+Cirrus suffered another episode. This time the whole group saw it — reality cracked, a screaming skull pressing through the fabric of the world before vanishing.
 
-Moments later, clouds begin to form and the first drops of rain splash down
+Feanon sighed and asked Cirrus if he had checked on the chair-person.
 
-They look over and see the first floor of the Establishment filled with smoke and they rush over
+Cirrus had not.
 
-Tark shoves the door open with his powerfully glowing hand and the heavy oak doors slam wide, dispersing what was left of the fast thinning smoke
+Feanon laid it out. He had read [[Zhengyi]]'s tome. The curse was shunted to the conjured man and trapped in the demiplane. The creation consumed the victim's life force, building *something*. The Ziggurat in the north was that something's anchor. The attack had been to ensure its undisturbed completion — but the expected cataclysm had not occurred, leaving the attackers confused.
 
-The two assassins, back to back, see that their window to assassinate Patches has closed and they throw smoke bombs of their own and flee
+Only one creature matched the evidence.
 
-Patches slinks back into view
-
-A corpse falls out of Mr Pickles trapdoor in the wall - the gnome.
-
-Another corpse is on the floor, headless from the double barreled shotgun behind the bar
-
-Patches goes to Jackie and demands to know how he knew to use the shotgun, he placates her by confirming that he is just a regular human and the device was similar to a Crossbow so he guessed (correctly)
-
-The group exchanges quick words and takes stock of what is happening as patches quickly pats down the corpse
-
-Someone put a very pricey hit on her and she recognizes the gnome at least as a Zhentarim assassin of some renown.
-
-Gibmaker Gibby.  She also recognized the human spear wielder as Patch Cassidy, a hired killer
-
-Both Zhentarim
-
-Patches thinks this attack was opportunistic and not related to the Goblins and says as much
-
-Just as they turn to rush back to the town square to meet the Warg charge, Patches hears a wet cough in the walls and pokes her head inside
-
-She sees a badly wounded Mr. Pickles
-
-She pulls her trusty valet from the wall and calls over medics to get him patched up and sent to the Fane hospital
-
-She rushes into Claudine's Alchemy shop and grabs a healing potion, feeding it to Mr Pickles as he's carted away to safety
-
-Horns blow from the attacking Wargs and the stomping Ogres shake the ground
-
-The group stands in the town square as they are assaulted from both sides and above by the Goblin war party
-
-The raiders are met with the well organized city guard, JmJm's militia, a horde of woodland creatures sent by Doc and the core of the Faerun Defense Force
-
-Civilians that find themselves pressed by the attackers are quickly backed up by charging deer, or find their attackers shot by the hovering Seraphim, or deftly slain by a passing Patches, pummeled by Tark, slashed by JmJm or blasted by Feanon
-
-Tark leaps forward, his prosthetic arm blazing with red energy and punches one of the Ogres through a nearby building
-
-The other 7 bear down on the Monk but find that their heavy strikes are far too slow to hit the nimble halfing
-
-Patches rushes in against the Wargs, hurling lightning and stun bombs and vanishes into the fray in a flurry of blades 
-
-Feanon and JmJm turn to meet the other charge
-
-Two dozen Wargs and 7 Ogres rush forward, screaming battle cries that quickly change to cries of surprise and anguish as Feanon causes an Ice Wall to erupt in their path, immediately stalling the charge
-
-JmJm pulls on a mysterious glove from his past and begins crushing and hurling ogres and wargs
-
-The Seraphim continues it's thrumming assault of searing arrows and it appears that the Batriders taste for battle breaks.
-
-With a triple blast from one of their horns, the flock breaks and flees south, to the Evermoor
-
-The Paladins charge into the town
-
-The Wargs and Ogres are being slaughtered and with the horn blasts from the bat riders, they too turn and flee back out the destroyed gates before breaking south to the Evermoor, harried by the pursuing Paladins
-
-Tark, JmJm, Patches and Feanon breathe easier in town and quickly turn to assist their civilians in putting out fires and finishing off the last of the raiders
-
-Cirrus receives a report that his friends have met the charge and stopped it cold and the Paladins are charging down from the Keep
-
-He is also told that both gates were disintegrated along the Trade way and then covered by Hellhounds
-
-This piques his interest
-
-He knows his friends have the raid in hand and the Warlock heads out to investigate who may be behind this assault
-
-He ambushes the two hellhounds at the back of the retreating pack, killing them and then True Polymorphs himself into one of the nearby slain Wargs and rushes after the fleeing raiders
-
-The pack swings wide of the Orc settlement and heads south as fast as they can, deep into the Evermoor
-
-Despite his Warg-shape, it's hard going for Cirrus and he can hardly keep up through the fetid marsh, leaping from fallen tree to waterlogged island and splashing through the shallow waters
-
-Eventually though, the marshy ground solidifies somewhat and the pack arrives at a large island in the moor with an ancient ruined watchtower atop it
-
-He hears the name "The Withered Hill"
-
-Gathered around the decrepit place is a large force of Goblinoids
-
-Several hundred goblins with dozens of Hill giants, Wargs, Giant Bats and armored Ogres are assembled here, far, far more than just attacked the town
-
-The returning raiders filter back in to the main force but Cirrus spots three Goblin Booyaghs/bosses with their personal warriors head past the small hill, to the far waters edge of the island
-
-Cirrus follows as a respectable distance after being snapped at by some of the other wargs and he slinks around the long way with his tail between his legs
-
-He gets close enough to listen to the conversation and then spots *who *the Goblin leaders are talking with - a great Black Dragon laying in the water of the swamp like a great crocodile
-
-Cirrus recognizes the dragon's name spoken by the Goblins: Ancalagon
-
-The same dragon that attacked patrols in the Evermoor some months ago
-
-Cirrus discovers that the Dragon and his forces are working with another, commanded by a Devil named **Beucephelus **and that the Dragon's raid was to keep the barony's attention on the south, and potentially lure defenders out into the swamp for easy pickings
-
-Cirrus decides to take a gamble and shifts his form into that of a Devil and approaches the conversation to try and pry out some more information
-
-The Dragon is cautious but ultimately convinced that Cirrus is working for Beucephelus and asks why the Ziggurat in the north has not been completed as it is past the appointed time - The Wizard (Feanon) is not dead and has been spotted in town (much to the dragon's confusion)
-
-Cirrus answers truthfully that they do not know and that he needs the Goblin leadership to come with him for that very reason.
-
-The dragon is suspicious but ultimately agrees, not wanting to fail in their mission
-
-Cirrus walks away from the conversation with more questions and leads the Goblin Booyaghs and their bodyguards to a secluded spot at the foot of the Withered hill
-
-There he casts Demiplane and opens a door into the hill and the curious goblins follow
-
-As he opens the door, he feels a pull on his soul and pressure on his magic and sees the door in front of him twist and crack and a skull can be seen pressing against the door, but then vanishes... 
-
-Once inside, he closes the door and Planeshifts away just as one of the Booyagh's gets wise and shouts at him to stop his spellcasting
-
-He leaves the Goblins trapped in the pocket dimension
-
-The warlock appears in the center of the Barony, just outside the Establishment, looking like his normal self
-
-He feels another pull and the pressure increases and he staggers a little, heart beating faster...
-
-Meanwhile, back in town the city guard has been fully mustered and the gates quickly re-fabricated by the Dwarves (not as good as before, but Iron is Iron)
-
-Patches has spent over an hour in disguise as the homely human woman Nora, helping around the barony and investigating the band of assassins that accosted her
-
-She determines that the band filtered in one by one the day before and took up in the common room of the Establishment, not renting rooms
-
-One of the assassins (and survivors) - Patch Cassidy was bragging at a Zhent outpost in Nesme that he had picked up a contract for a "boatload of silver" to take out a Herald, though at the time the listener thought he meant a literal herald for some lord.
-
-Tracking this further, she gets a name - the contract came to the Silvertongues of Baldur's gate, but commissioned from a human Rogue named Morik, in Luskan.
-
-The contract is still active and Patch and one other, a Dwarf named **Irehide **survived
-
-She returns to her friends and reveals the intel
-
-The FDF gathers in the Establishment, including the B team of Maximus, Bohd, Chani, Gneiss, Ezmerelda, Jin and Ruthir while they receive a message from Li that she is coordinating efforts from the security of the keep
-
-The Paladins are gathering the dead to cast Gentle Repose and revive as many as they can with the hoards of Diamonds being purchased from the Deep Gnomes of Blingdenstone
-
-Bohd wants to lead a pursuit into the Evermoor with 30 veterans, 100 orcs and the two Giant allies of the Barony but Feanon stops them, pointing out that whoever is behind these attacks seems be intentionally keeping the Barony's attention South
-
-JmJm agrees and points out that the woodland creatures Doc has been speaking to are avoiding the woods to the north because of "the bad rock that grows"
-
-This convinces Feanon that the North is the true threat and he thinks about the Chair/Person trapped in Cirrus' demiplane.
-
-The FDF has their forces stand their ground and reinforce their defenses and they send Chani off to the north to scout
-
-Chani the monk speeds from the Establishment, past Cirrus as he Planeshifts to town.
-
-The group sees the Warlock appear, and stagger in pain and the group moves out of the Establishment to their friend to inquire
-
-Cirrus brushes it off, but asks if anyone else has been feeling this strange pain (no one has)
-
-Cirrus then tells the group everything he discovered
-
-At the mention of the Devil Beucephelus, Feanon perks up.  He recognizes the name and flicking through a book on the 9 Hells, finds the passage he's looking for
-
-Beucephelus is a Narzugon Commander in the Doomstar Legion, the mercenary army of the Archdevil Mathias Doomstar, lord of Dis, the 2nd layer of Hell.
-
-They have powerful foes arrayed against them, and Feanon laments their lack of coin(or souls) to pay off the mercenaries
-
-As they talk with Cirrus, Patches hears two civilians calling out, looking for their loved ones - a fairly common occurrence right now
-
-But the perceptive rogue hears the two women find one another and talk about **Bob and Chez**, their sons
-
-Apparently both had been training for the High Sun Foot Race and after the attack was thwarted, ran off to the north to do the festival race regardless of the current circumstances
-
-The group moves over to the women and after a quick exchange, scrys on the two boys and sees them running through woods to the north, a Wood Elf in pursuit
-
-Feanon recognizes the Wood Elf as an ally - Menriel Boughrunner, from the groups time in Silverymoon
-
-Feanon says the group will retrieve them shortly and questions Buumi why they would do this race to begin with
-
-It is a local religious festival with locals running to the top of the Red Hill and then cliff-diving into Lake Selunia to show their courage and vigor to the Morning Lord
-
-Cirrus laments again that he is *tired *from the morning attack and needs to rest but the group finds themselves pressed for time
-
-They send runners to the Orc town to NOT pursue into the Evermoor and Chani and Menriel are already heading north but the group decides to head north themselves to ensure the kids safe return
-
-Cirrus remembers, and says that the Dragon mentioned that the Ziggurat was primed or overdue for a cataclysmic event
-
-At that moment, Cirrus suffers another episode, but this time the whole group witnesses it.
-
-They see a shimmering in the air and reality itself seems to crack as a screaming human skull seems to try and break through the barriers of reality
-
-Everyone turns to the spellcasters and demands "what was that?"
-
-It begins to click into place for Feanon
-
-Feanon sighs and asks if Cirrus has checked on the Chair/Person
-
-Cirrus says he has not
-
-The group notes the burns, cracking flesh and marks on Cirrus' fingertips and they question the injuries, but he brushes it off
-
-Feanon read the Zhengian Tome of Creation and then shunted the curse from himself to the Chair Person and then imprisoned the person in a Demiplane
-
-(the group questions if cursing the "person" is any different than smashing a chair)
-
-The creation of the Ziggurat consumed the life force of the Chair Person, slowly turning him into...something and now that the Ziggurat is complete 
-
-The attack was to ensure its undisturbed completion
-
-...but *something *didnt happen that the attackers were expecting and now they are waiting, confused.
-
-Feanon goes over everything he has ever heard about Zhengyi and his Tomes of Creation and what they are seeing with the Demiplane
-
-Only one creature matches the information at hand
-
-There is a feral Demilich trapped in the pocket dimension and it is trying to get out…
+There was a feral Demilich trapped in the pocket dimension, and it was trying to get out.

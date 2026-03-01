@@ -7,6 +7,7 @@ people:
   - "ancalagon"
   - "bowie"
   - "cirrus-al-kayan"
+  - "crisserei"
   - "dean-sejuk"
   - "feanon-serinde"
   - "horatio-von-bumidere"
@@ -38,6 +39,7 @@ places:
 factions:
   - "amnians"
   - "bregan-daerthe"
+  - "doomstar-legion"
   - "drow-faction"
   - "netherese"
   - "the-harpers"

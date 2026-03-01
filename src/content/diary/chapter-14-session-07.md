@@ -1,10 +1,13 @@
 ---
-title: Moonlight Battle
+title: Home - Moonlight Battle
 chapter: 14
+chapterTitle: Home
 session: 7
+summary: "The group fights alongside Patches' ancient ancestor against two Drider-Balors and an invisible Marilith on a moonlit hilltop, with Gundren plummeting from the sky after Arkto is slain and Cirrus transforming into a Planetar to hold the line against the six-armed demon."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "euphoria"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -13,66 +16,57 @@ people:
   - "tarkathee-daru"
 things:
   - "arkto"
-  - "eclipse"
 factions:
   - "drow-faction"
   - "illithid-faction"
 ---
 
-Gundren appears hundreds of feet in the air, flying over the battlefield astride Arkto and begins to blast at one of the Balors, getting her attention
+## The Charge
 
-JmJm appears 90ft to one side, flanking both Greater Demons and unleashing the full might of his rings, blasting them with lightning
+[[Gundren Rockseeker|Gundren]] appeared hundreds of feet above the battlefield, flying astride [[Arkto]], and began to blast at the nearest Balor. The demon turned its burning gaze skyward.
 
-The lightning washes over the two Drider-Balors, leaving scorches but the two Demons laugh
+[[Jack Mayer-Johnson Mathews|JmJm]] materialised ninety feet to the flank, catching both Drider-Balors in a crossfire, and unleashed the full might of his rings. Lightning washed over the demons, leaving scorches across their spider-legged bodies. They laughed.
 
-The rest of the group charges the Demons and begin to strike at them in melee but the blazing heat off the Balors scorches their attackers badly
+The rest of the group charged. Blades struck demonic flesh, but the blazing heat radiating from the Balors scorched everyone who closed to melee. The creatures' purple fire licked at weapons and armour alike.
 
-Both Balors then vanish, teleporting to battle their ranged assailants in melee - one appearing in the air behind JmJm and another jumping twice to get above Gundren
+Both Balors vanished. One reappeared in the air behind JmJm. The other leapt twice to get above Gundren.
 
-The rest of the battlefield is left far behind and the group looks around for enemies
+The rest of the hilltop fell silent. The melee fighters looked around for enemies.
 
-An invisible Demon teleports behind Tark and Patches ancestor - a massive Marilith demon and it screeches an Abyssal Warcry.
+Then an invisible form teleported behind [[Tarkathee Daru|Tark]] and Patches' ancestor — a massive Marilith, six-armed and serpentine, screeching an Abyssal war cry. [[Cirrus Al-Kayan|Cirrus]] confirmed what he already knew. It was *the* Marilith — his old master.
 
-Cirrus confirms it as *The *Marilith, his old “master” and the things strikes with many arms wielding life-stealing swords cutting at all around her
+The demon struck with all her arms, life-stealing swords cutting at everything within reach.
 
-Feanon casts a spell at The demon but her third pair of arms are spellcasting and Counterspells him
+## The Duel
 
-Marilith then casts her own spell, which he Counterspells right back, eliciting an annoyed *hiss *from her
+[[Feanon Serinde|Feanon]] hurled a spell at the Marilith. Her third pair of arms — the spellcasting pair — snapped up and counterspelled him. Feanon counterspelled her own spell right back. She hissed in annoyance.
 
-Euphoria begins to blast at the Balors and Marilith with Eldritch blasts but the powerful demons seem to take little notice and the Illithid decides to remain in a supporting battlefield role and not get their attention…
+Euphoria, the Illithid, blasted at the demons with psionic energies, but the powerful fiends barely noticed. The Mind Flayer wisely retreated to a supporting role.
 
-Gundren is pressed by the Balor far above the battlefield and the thing focuses its attacks on Arkto, knowing (or hoping) the Dwarf will simply fall to his death should his mount be killed…
+Far above, the Balor pressed Gundren hard, focusing its attacks on Arkto. If the mount died, the dwarf would simply fall. Gundren fought desperately to keep the owlbear aloft as burning strikes hammered at the beast.
 
-Far across the way, JmJm traps his Balor in a Force Cage after dueling the thing for a moment and then gallops away to battle The Marilith but the Balor frees itself moments later offering only a small window for JmJm to slash at the Serpentine Demon with his Inkblade
+Across the field, JmJm trapped his Balor in a Force Cage after a vicious duel, then galloped away toward the Marilith. The cage held only moments — the Balor tore free — but the window was enough for JmJm to slash at the serpentine demon with his Inkblade.
 
-Cirrus curses at his old master and then shapeshifts, polymorphing into a glowing Planetar or light and shadow, wielding an enchanted greatsword
+Cirrus cursed at his old master, then polymorphed into a glowing Planetar of light and shadow, wielding an enchanted greatsword. He rushed the Marilith and struck.
 
-He rushes at Marilith and strikes at her
+[[Horatio Von Bumidere|Buumi]] joined the melee, his Nimbus shining with holy light. Patches' ancestor radiated moonlight from her glaive. With the Planetar and the two holy auras overlapping, the battlefield blazed with radiant light — burning the demons, strengthening the blows of their allies.
 
-Buumi joins the melee, his Nimbus shining with holy light as Patches Ancestor radiates moonlight from her blade
+## The Fall
 
-With the shining Planetar and the two holy auras, the battlefield is bathed in radiant light, burning the Demons and strengthening the blows of allies
+Far above, [[Arkto]] was slain. Gundren began to fall.
 
-Far above the battlefield, Arkto is slain and Gundren begins to fall, plummeting hundreds of feet
+The dwarf plummeted hundreds of feet, wind screaming past his armour. The Balor let out a cry of delight — then was recalled to the main battle by a shout from the Marilith. The demon teleported down to the melee.
 
-The Balor lets out a cry of delight, seeing the Mortal plummeting to his demise but is called back to the main Battle by a shout from Marilith and the Balor teleports down to the raucous melee
+The Marilith was surrounded by powerful foes, but her six arms were a blur of action and reaction — four swords stealing life, two hands weaving spells, parrying and striking in the same breath. She closed her wounds almost as fast as the group could cause them.
 
-Marilith is surrounded by powerful foes, but she’s slicing and cutting and stealing the life from the group, closing her wounds almost as fast as they can cause them.
+Patches' ancestor thrust her palm forward and called forth a prayer to [[Selune]]. A cone of radiance bathed the hilltop, burning the demons and mending her allies' wounds.
 
-The four arms with swords and the spellcasting pair are a blur of action and reaction, parrying and striking back when attacked.
+The Marilith vanished — invisible, teleporting away to catch her breath. But Cirrus in his angelic form had Truesight. He saw her and gave chase.
 
-Patches Ancestor then thrusts her palm forwards and calls forth a prayer to Selune, causing a cone of Radiance to bathe the hilltop, burning the demons and healing the group
+Just before Gundren hit the ground, his body flared with red light. He slowed, floating the last few feet to land softly behind the gleaming wall of force that protected the Drow refugees. He exhaled. Lit a cigar.
 
-Marilith vanishes, going invisible and then teleports away to catch her breath
+The two Balors re-engaged, entangling the group in melee. Their fires burned. Their lightning swords cut deep. Feanon was caught in the serpentine tentacles of one and dragged toward its burning core. Patches' ancestor rushed to free him while Buumi and Tark fought the other.
 
-Cirrus, in his angelic form has Truesight and sees her and gives chase
+Both Balors were badly wounded now — covered in radiant burns, oozing ichor that ignited the grass where it fell. They were no longer laughing.
 
-Just before Gundren hits the ground, he glows with a red aura and simply slows, floating the last few feet to land unharmed at the hilltop, behind the Gleaming Moonfire-enhanced Wall of Force protecting the Drow refugees
-
-The other two Balors entangle the rest of the group in Melee, their fires burning and their lightning swords wounding the heroes.
-
-Feanon is caught up in the serpentine tentacles of one Demon, though Patches ancestor rushes to assist him as Buumi and Tark battle the other
-
-The Balors are badly wounded, covered in radiant burns and oozing cuts, their ichor splatters to the ground, igniting small fires and burning the hilltop. They are no longer laughing. 
-
-Patches and JmJm both see the badly wounded Cirrus Planetar battling something invisible and they rush to join the fray against Marilith
+[[Aliyah Faen Tlabbar|Patches]] and JmJm both spotted the wounded Planetar battling something invisible across the field. They rushed to join the fray against the Marilith.

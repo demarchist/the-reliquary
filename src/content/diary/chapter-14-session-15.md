@@ -5,6 +5,7 @@ session: 15
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "crisserei"
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"

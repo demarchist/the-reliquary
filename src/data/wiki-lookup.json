@@ -419,6 +419,16 @@
     "title": "Beryan",
     "category": "People"
   },
+  "beucephelus": {
+    "slug": "beucephelus",
+    "title": "Beucephelus",
+    "category": "People"
+  },
+  "bucephalus": {
+    "slug": "beucephelus",
+    "title": "Beucephelus",
+    "category": "People"
+  },
   "bildaboi": {
     "slug": "bildaboi",
     "title": "Bildaboi",
@@ -604,6 +614,16 @@
     "title": "Castle Ravenloft",
     "category": "Places"
   },
+  "cathedral of twilight": {
+    "slug": "cathedral-of-twilight",
+    "title": "Cathedral of Twilight",
+    "category": "Places"
+  },
+  "twilight cathedral": {
+    "slug": "cathedral-of-twilight",
+    "title": "Cathedral of Twilight",
+    "category": "Places"
+  },
   "cercei": {
     "slug": "cercei",
     "title": "Cercei",
@@ -708,6 +728,11 @@
     "slug": "cragmaw-tribe",
     "title": "Cragmaw Tribe",
     "category": "Factions"
+  },
+  "crisserei": {
+    "slug": "crisserei",
+    "title": "Crisserei",
+    "category": "People"
   },
   "crystal tuning fork": {
     "slug": "crystal-tuning-fork",
@@ -889,6 +914,11 @@
     "title": "Donavich",
     "category": "People"
   },
+  "doomstar legion": {
+    "slug": "doomstar-legion",
+    "title": "Doomstar Legion",
+    "category": "Factions"
+  },
   "dorbo": {
     "slug": "dorbo",
     "title": "Dorbo",
@@ -1048,6 +1078,16 @@
     "slug": "ethereal-plane",
     "title": "The Ethereal Plane",
     "category": "Places"
+  },
+  "euphoria": {
+    "slug": "euphoria",
+    "title": "Euphoria",
+    "category": "People"
+  },
+  "the euphoria one feels when besting an inferior": {
+    "slug": "euphoria",
+    "title": "Euphoria",
+    "category": "People"
   },
   "evermeet": {
     "slug": "evermeet",
@@ -1599,6 +1639,21 @@
     "title": "Horrah",
     "category": "People"
   },
+  "house alamreth undonwe": {
+    "slug": "house-alamreth-undonwe",
+    "title": "House Alamreth Undonwe",
+    "category": "Factions"
+  },
+  "alamreth undonwe": {
+    "slug": "house-alamreth-undonwe",
+    "title": "House Alamreth Undonwe",
+    "category": "Factions"
+  },
+  "house of starry twilight": {
+    "slug": "house-alamreth-undonwe",
+    "title": "House Alamreth Undonwe",
+    "category": "Factions"
+  },
   "house baenre": {
     "slug": "house-baenre",
     "title": "House Baenre",
@@ -1847,6 +1902,21 @@
   "the faceless lord": {
     "slug": "juiblex",
     "title": "Juiblex",
+    "category": "People"
+  },
+  "kallista alamreth undonwe": {
+    "slug": "kallista",
+    "title": "Kallista Alamreth Undonwe",
+    "category": "People"
+  },
+  "kallista": {
+    "slug": "kallista",
+    "title": "Kallista Alamreth Undonwe",
+    "category": "People"
+  },
+  "matron mother kallista": {
+    "slug": "kallista",
+    "title": "Kallista Alamreth Undonwe",
     "category": "People"
   },
   "kalphena the wise": {

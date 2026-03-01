@@ -15,6 +15,7 @@ people:
 places:
   - "al-askar"
   - "astral-plane"
+  - "cathedral-of-twilight"
   - "dokkar"
   - "faerun"
   - "nidavellir"

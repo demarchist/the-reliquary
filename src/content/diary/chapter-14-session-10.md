@@ -1,9 +1,12 @@
 ---
-title: The Doomstar Legion
+title: Home - The Doomstar Legion
 chapter: 14
+chapterTitle: Home
 session: 10
+summary: "The group rides north to discover a massive crystalline Ziggurat in the Moonwood connected to the Shadowfell, finds Chani captured by the devil Beucephelus and his infernal legion, and launches an all-out assault on the Doomstar Legion — a choreographed cadre of musclebound devil legionnaires with thundering poleaxes and dazzling poses."
 people:
   - "aliyah-faen-tlabbar"
+  - "beucephelus"
   - "bohd"
   - "bolg"
   - "chani"
@@ -21,169 +24,83 @@ people:
   - "tarkathee-daru"
 places:
   - "ethereal-plane"
-  - "keep-of-thunder-bluff"
   - "shadowfell"
   - "the-establishment"
   - "the-moonwood"
+  - "thunder-bluff"
 things:
   - "gwen"
   - "steden"
+factions:
+  - "doomstar-legion"
 ---
 
-Gundren arrives at the Establishment and demands a report, sitting at a booth with the group as they argue about what to do next
+## The Ziggurat
 
-The group lays it out for him
+[[Gundren Rockseeker|Gundren]] arrived at [[The Establishment]] and demanded a report. The group laid out everything — the Demilich, the Ziggurat, the diversionary raid. Gundren downed a nearby pot of coffee and hopped to his feet. He sent a dwarf to the [[Keep of Thunder Bluff|Keep]] to sound the call for civilians to shelter there.
 
-Gundren downs a nearby pot of coffee and hops back to his feet.
+They would go north. Whatever was building in [[The Moonwood]] was the true threat, and the missing youths — two boys who had run off to do the High Sun footrace despite the attack — were somewhere in those woods along with [[Chani]] the monk and a Wood Elf ally named Menriel.
 
-He has one of his Dwarves go to the keep and sound the call for the civilians to shelter there.
+Standing orders were left with the defence: hold the Barony, do not pursue hit-and-run attacks. [[Bohd]], [[Miranda]], [[Ruthir]], [[Gneiss]], [[Ezmerelda]], [[Chani|Jin]], [[Surtr]], and [[Bolg]] would defer to [[Doc]] and hold the line.
 
-They go for the kids
+The group gathered their mounts and galloped north. As they rode, thunderclaps rolled through the southern Moonwood — deep, resonant, and far too regular to be natural.
 
-Whatever is to the north is the biggest threat and turning the kids back is on the way
+They slowed at the crest of Red Hill. [[Jack Mayer-Johnson Mathews|JmJm]] and Gundren, atop [[Steden]], shifted into the [[Ethereal Plane]]. What they saw made JmJm go pale.
 
-The group agrees and leaves standing orders to defend the Barony and not to pursue any hit and run attacks.
+A massive black orb hung in the ethereal sky, backlit by a halo of orange. A great undulating umbilical of dark mass descended from it into the shadowy forest below. The chill of the [[Shadowfell]] permeated everything, and dark things moved just beyond sight.
 
-Bohd, Maximus, Ruthir, Gneiss, Miranda, Chani(when she’s back), Ezmerelda, Jin, Surtr, and Bolg will defer to Doc B and act as the core of the defense
+JmJm shifted back and warned the group. Something terrible was ahead.
 
-The party gathers their mounts and gallops North with great haste.
+[[Tarkathee Daru|Tark]] wrapped shadow around himself and flew upward while [[Aliyah Faen Tlabbar|Patches]] vanished under her cloak and scouted on foot. In a wooded dale, they found it.
 
- As they ride, they hear numerous thunderclaps ahead in the Southern Moonwood
+A massive squat Ziggurat of black crystal, easily sixty feet tall, dominated a clearing in the woods. Four domes of matching crystalline darkness sat on its main level. The crystal had a depth to it — swirling with mist, lit by occasional faint pulses of orange static.
 
-They slow as they reach the peak of the Red Hill and continue cautiously
+Atop the structure stood a beautiful red-skinned man in a leather legionnaire's skirt, with rippling muscles, Roman sandals, and two curling horns rising from his forehead. He carried an ornate poleaxe.
 
-JmJm and Gundren, atop Steeden, shift into the Ethereal Plane
+In one hand, he held the bloodied, limp form of Chani by her wrist.
 
-JmJm and Gundren see a massive black orb in the sky of the Ethereal Plane backlit by a halo of Orange
+Patches crept up the steps. She could hear the breathing and shuffling of soldiers lying in wait inside the crystal domes — hiding within Tiny Hut spells. The devil casually tossed Chani's ragdoll body into one of the domes.
 
-A massive umbilical of undulating mass descends from it directly into the shadowy and indistinct forest ahead
+She retreated and reported back.
 
-All around they feel the chill of the Shadowfell and dark things move ahead just out of sight
+## The Doomstar Legion
 
-JmJm shifts back and warns the group, something terrible is ahead.
+The group had to attack. Chani was inside, likely along with the missing youths and Menriel.
 
-Tark turns invisible, wrapping shadow around him from the overcast skies and flies up into the spattering rain to try and get a better look while Patches scouts ahead with her invisibility cloak
+As they planned, Patches spotted a goblin bat-rider skimming the treetops toward the clearing. Tark told the group to back him up and shadowstepped to a nearby tree, then launched himself at the rider. He knocked the goblin from the mount, wrestled control of the giant bat, cast a minor illusion over his face, and rode the skittish creature down to the base of the Ziggurat.
 
-In a wooded dale, they spot a large clearing with a massive structure 
+The devil atop the stairs smiled — a knowing smile.
 
-Easily 60ft tall, a massive squat Ziggurat of some kind of black crystal dominates the clearing
+Everything about the creature was *wrong*. The cheekbones too high and sharp, the lips too plump, the muscles too bulging, the teeth too bright and perfect. A caricature of beauty.
 
-Four domes of matching crystalline darkness dot the main level of the thing
+He addressed *Tarkothy Daruu* by name.
 
-As the scouts watch, they see a beautiful red-skinned man in a leather legionaire’s skirt with rippling muscles and roman sandals
+Seeing that the disguise was useless, Gundren opened fire. The first shots slammed into the devil in a shower of sparks just as he introduced himself as Beucephelus of the [[Doomstar Legion]].
 
-He wields a large and ornate looking poleax
+He flexed, and each muscle group flashed to sculpted metal armour. The bullets pinged off harmlessly.
 
-His face is distinctly Hobgoblin save for the two curling horns protruding from his forehead
+The devil charged Tark and struck with the poleaxe. A thunderclap boomed across the clearing, hurling the monk back down the steps.
 
-A Devil, and he holds the bloodied and bruised form of Chani by her limp wrist
+*DOOMSTAR LEGION!* Beucephelus roared. *AAASSEEEMBLE!*
 
-She twitches, unconcious
+A dozen devils appeared at his side, identically clad in sculpted gleaming metal armour, wielding tower shields and poleaxes. They struck an infernal pose — a dazzling choreographed display of rippling abs and gleaming light that forced the group to avert their eyes.
 
-Patches moves in to get closer, beginning to ascend the steps of the Ziggurat
+Then the legion charged.
 
-She notes a depth to the crystal, swirling with mist lit by an occasional faint orange tinge of static
+[[Feanon Serinde|Feanon]] dropped a Hypnotic Pattern over the advancing formation. Several legionnaires crumpled mid-stride, mesmerised. Their companions rushed to rouse them — only to succumb to the lingering enchantment themselves.
 
-She freezes as she realizes she can hear the breathing and shuffling of several other people nearby
+[[Horatio Von Bumidere|Buumi]] dashed in on his wings. JmJm flanked wide with Steden, summoning the Arcane Hand. The Paladin made the steps of the Ziggurat, shrugging off a volley of Eldritch Blasts. Patches raced forward, dived into cover, and made her new crossbow sing.
 
-She scans around, seeing only the domes of crystal
+Four Doomstar battlemages emerged from the crystal shelters and unleashed Sickening Radiance across the battlefield. The group redirected fire at the spellcasters, driving two back immediately. The other two retreated but not before dumping Magic Missiles into [[Cirrus Al-Kayan|Cirrus]] to break his concentration.
 
-As she does this, the Devil above casually tosses the ragdoll of Chani at one of the domes and she sails inside unimpeded…
+Beucephelus called to the warlock. He had seen Cirrus's father recently, in Hell. As a Lemure. His anguish was *particularly* delightful.
 
-Focusing on the sounds within the dome, she realizes that the people she hears are soldiers lying in wait inside Tiny Hut spells, similar to what Cirrus has made in the past
+Cirrus called back, asking if the devils could be bought off. Beucephelus responded: only for six hundred and sixty-six innocent souls.
 
-She turns and sneaks back down the steps and returns to the group just as Tark does
+Tark struck at the legion commander and they engaged in a dexterous duel of lightning-fast strikes and thunderclaps. JmJm charged from the flank, and Beucephelus vanished with a boom — reappearing directly above the bard to hammer down with his poleaxe. The devil cackled. He had been visiting a number of fathers recently — JmJm's was languishing in confinement.
 
-These Devils have Chani hostage and likely the missing youths and Menriel the elf
+Tark recovered and shadowstepped to help his friend. Gundren fired shot after shot from the treeline and sent [[Gwen]] stalking in to ambush the battlemages.
 
-More concerning is the Ziggurat and what JmJm spied in the Ethereal Plane
+The devil legionnaires regrouped — shouting, teleporting into formation, striking the infernal pose again and locking shields. Feanon saw the tight grouping and dropped Deep Slumber over the cluster. Several crashed to the ground. Their companions tried to wake them and fell asleep in turn.
 
-They must attack and conquer this foe
-
-As they talk, Patches spots a low flying form over the nearby trees and points it out
-
-A Goblin Batrider is skimming the trees and heading straight for the clearing with the Ziggurat
-
-Tark turns to the group and tells them to back him up and then shadowsteps to a nearby tree and launches himself into the air at the batrider
-
-He knocks the goblin from the mount and then wrestles control of the giant bat
-
-He casts a minor illusion over his face and rides the skittish animal to the ground at the base of the Ziggurat
-
-Before Landing, Tark does the best he can to disguise himself
-
-The Devil atop the stairs smiles at him with a knowing smile 
-
-The creature looks like an adonis of a Hobgoblin, but wrong.
-
-The cheek bones are too high and sharp, the lips too plump, the muscles too bulging, teeth too bright and perfect
-
-He is a caricature of beauty
-
-Bucephalus addresses Tarkothy Daruu
-
-Seeing that the gig is up, Gundren opens fire and the group charges in
-
-The first few shots slam into the Devil in a shower of sparks just as he introduces himself as Beucephelus of the Doomstar Legion
-
-He flexes his muscular form and each section flashes to muscular sculpted metal armor and the bullets have no effect
-
-The Devil charges forth at Tark and smashes him with the poleax
-
-A Thunderclap booms as the thing strikes the monk and he is hurled back and down the steps of the Ziggurat.
-
-Bucephelus then calls “DOOMSTAR LEGION! AAAASSEEEEEEMBLE!”
-
-A dozen Devils, similarly clad in muscular sculpted gleaming metal armor appear next to their leader, arrayed in a dazzling choreographed pose of gleaming light and rippling abs, all wielding tower shields and poleaxes
-
-The group must avert their eyes or be dazzled by the infernal display of power
-
-The legion then charges forth but their charge is halted by a hypnotic pattern that appears over the battlefield.
-
-The group attacks
-
-Buumi dashes in on his wings as JmJm flanks wide with Steeden, summoning his Arcane Hand
-
-The Paladin makes the steps of the Ziggurat, shrugging off a volley of Eldritch Blasts
-
-Patches races forward and then dives into cover, taking out her new crossbow and making it sing
-
-Feanon moves forward steadily calling on defensive magics to foul anything thrown at him, just as several Thunderous Javelins are hurled at the group, each hitting with a thunderclap and hurling the target backwards 
-
-the magical Javelins then reappear in the legionnaires hands.
-
-Seeing Patches sniping from cover, Feanon hastes the rogue.
-
-Four Doomstar Battlemages step from their shelters and unleash four Sickening Radiances to bathe the battlefield in unholy light
-
-The entire party redirects their fire at the appearing spellcasters and two are driven back almost immediately, taking massive damage
-
-The other two see their comrades near death and step back into their shelters quickly, but not before unleashing a wave of magic missiles into Cirrus to break his concentration
-
-Bucephelus calls out to the Warlock, telling him that he has seen his father recently in Hell, as a Lemure.
-
-His anguish is particularly delightful
-
-Cirrus calls back seeing if they can buy off these Devils, to which Bucephelus responds “only if they have 666 innocent souls they are willing to part with”
-
-Tark strikes at the Legion commander and they engage in a dextrous duel of lightning fast strikes and resounding thunderclaps
-
-JmJm charges in from the side and Bucephelus vanishes with a boom, throwing Tark back 
-
-The Devil reappears directly above the charging Bard and strikes at him with his hammer, putting the Bard on the defensive
-
-Bucephelus cackles, saying that he’s been visiting a number of fathers recently, as he just saw JmJm’s father languishing in confinement the other day
-
-Tark recovers his feet and seeing JmJm’s defensive flourish, shadowsteps to his comrade to assist.
-
-Cirrus feels the same extra-planar pull from the Demi Lich and resists it
-
-Gundren fires shot after shot from the cover of the nearby woods and has Gwen stalk in, keeping an eye out to hit the Spellcasters as they duck in and out of cover
-
-The Devil Legionnaires shout and teleport next to one another again striking the infernal pose and covering one another with their shields 
-
-Feanon sees the grouping and unleashes a Deep Slumber over the area
-
-Several fall to the ground, asleep as their companions rush to wake them, only to find the lingering enchantment sending them back to sleep, or causing others to succumb
-
-The battle rages around the dark crystal Ziggurat, as the Devils defend the vile structure…
+The battle raged around the dark crystal Ziggurat as the devils defended the vile structure.
