@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Amaram"]
 firstAppearance: "chapter-03-session-02"
 description: "Archmage of Baldur's Gate who researches the undead mists and Orcus for the party."
+race: "Human"
+class: "Wizard"
+status: "Alive"
 ---
 
 ## Background

@@ -7,6 +7,7 @@ description: "A young cleric of Helm who served as governess to Georg von Strapp
 race: "Human"
 class: "Cleric"
 affiliation: "house-invincible"
+status: "Alive"
 ---
 
 Maria is a young cleric of Helm sent from the House Invincible in Silverymoon to serve as governess to Georg von Strapp's seven children. She has an open, sun-freckled face, chestnut hair that refuses to stay pinned, and a natural warmth that won the children's affection through charm rather than discipline. She wore the simple grey robes of her order with the sleeves rolled up past her elbows.

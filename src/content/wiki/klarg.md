@@ -5,6 +5,7 @@ aliases: []
 firstAppearance: "chapter-01-session-01"
 description: "A bugbear who ran the Cragmaw Hideout on behalf of the Black Spider."
 status: "Unknown"
+race: "Bugbear"
 ---
 
 Klarg is a bugbear who commanded the Cragmaw Hideout, a goblin-infested cave system along the Triboar Trail south of Neverwinter. He operated under the authority of the Black Spider, holding captured prisoners and stolen goods.

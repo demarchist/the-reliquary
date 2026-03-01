@@ -3,6 +3,9 @@ title: "Ella"
 category: "People"
 aliases: []
 description: "Harper agent, skilled operative, and complex figure on a journey of self-discovery and redemption."
+race: "Human"
+class: "Rogue"
+status: "Alive"
 ---
 
 Ella is a highly skilled Harper agent in her late twenties, raised and trained by the Harpers from a young age. She possesses a diverse skill set encompassing combat, espionage, and subterfuge, with a particular talent for adapting quickly to new environments and roles.

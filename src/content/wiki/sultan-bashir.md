@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Sultan Bashir", "Bashir"]
 firstAppearance: "chapter-12-session-01"
 description: "Leader of the Usurpers of Rudjek who rules the city of Iyum in Al Askar."
+race: "Human"
+status: "Alive"
 ---
 
 ## Background

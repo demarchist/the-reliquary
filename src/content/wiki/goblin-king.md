@@ -5,6 +5,8 @@ aliases: ["The Goblin King", "Goblin King"]
 firstAppearance: "chapter-04-session-02"
 description: "The tyrant ruler of Goblin Town in the Bog beneath the Tavern of Doors — a shapeshifting, mind-devouring entity trapped in a dying demiplane and desperate to escape."
 home: "goblin-town"
+race: "Goblin"
+status: "Alive"
 ---
 
 The Goblin King is less a person than a force of nature wearing a crown. He rules Goblin Town — a sprawling shanty settlement in the extradimensional Bog beneath the [[Tavern of Doors]] — with absolute and capricious authority. Everyone in his domain has been wronged by him: [[Demetrius]] has had his property stolen, [[Lorde]] was locked in the stocks, and countless others live under his thumb. He is feared, hated, and obeyed in equal measure.

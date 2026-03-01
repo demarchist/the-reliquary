@@ -4,9 +4,11 @@ category: "People"
 aliases: ["JmJm", "Jack", "The Dark Whistler"]
 firstAppearance: "chapter-01-session-01"
 description: "Half-Elf Bard, former assassin known as The Dark Whistler, and member of the Faerûn Defense Force."
+status: "Alive"
+home: "thunder-bluff"
 race: "Half-Elf"
 class: "Bard"
-affiliation: "spellforged-adventuring-company"
+affiliation: "faerun-defense-force"
 ---
 
 Jack Mayer Johnson Mathews, commonly known as JmJm or simply Jack, is a Half-Elf Bard with a flair for the dramatic and a shadowed past. He is a member of the Spellforged Adventuring Company, owner of the JMJM Theater, and — as has recently come to light — a native of the planar city of Sigil.

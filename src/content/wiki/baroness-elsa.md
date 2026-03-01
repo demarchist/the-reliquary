@@ -5,6 +5,8 @@ aliases: ["Elsa"]
 firstAppearance: "chapter-06-session-06"
 description: "A socialite from one of Silverymoon's old families who was Georg von Strapp's intended before Maria's arrival."
 race: "Human"
+status: "Alive"
+home: "silverymoon"
 ---
 
 Baroness Elsa is a socialite from one of Silverymoon's old families who courted Georg von Strapp for over a year with the patience of a woman who knew her own worth. Beautiful, sharp, and entirely unsuited to a house full of children, she noticed Georg and Maria's growing attachment before either of them acknowledged it.

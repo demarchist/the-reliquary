@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Urwens"]
 firstAppearance: "chapter-05-session-07"
 description: "An ally in Vallaki who received bodies and messages for the party."
+race: "Human"
+status: "Alive"
 ---
 
 Urwen is a wereraven and member of the Keepers of the Feather — a secret organisation of shapechangers who oppose Strahd Von Zarovich from the shadows. He operates as the Martikov family's representative in Vallaki, running the Blue Water Inn and serving as a critical ally to the party throughout their time in Barovia.

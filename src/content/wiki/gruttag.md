@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Gruttag"]
 firstAppearance: "chapter-09-session-01"
 description: "Snorbul's uncle and clan head in Blingdenstone whose son Beltran was killed in the upheaval."
+race: "Svirfneblin"
+status: "Alive"
+home: "blingdenstone"
 ---
 
 ## Background

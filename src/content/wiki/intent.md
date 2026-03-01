@@ -4,6 +4,7 @@ category: "People"
 aliases: ["Tent"]
 firstAppearance: "chapter-04-session-01"
 description: "A planeswalking entity who arrived naked and bewildered in a new humanoid body, struggling to understand basic anatomy and immediately befriended by Buumi."
+status: "Alive"
 ---
 
 Intent — shortened to Tent by the group within minutes of meeting him — is a planeswalking entity who arrived in JmJm's room via a fractal-edged portal, naked, blue-skinned, and profoundly confused. He changes bodies as he moves between planes, and this humanoid form was entirely new to him. He did not understand his anatomy, was bewildered by the concept of clothing, and discovered urination for the first time in front of a room full of adventurers.

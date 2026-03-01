@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Omar", "General Omar", "Captain Omar"]
 firstAppearance: "chapter-06-session-09"
 description: "An honourable Amnian General caught between duty and conscience, who showed the group mercy and later survived an assassination attempt by his own superiors."
+race: "Human"
+status: "Alive"
+affiliation: "amnians"
 ---
 
 General Omar is an Amnian military commander — an older man in his fifties with a huge bristly grey moustache, serious dark eyes and rich armour beneath a white turban and gold helm. He leads from horseback and carries himself with the gravity of a professional soldier who has seen too many bad decisions made by politicians.

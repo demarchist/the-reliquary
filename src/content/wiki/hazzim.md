@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Hazzim", "Hazem"]
 firstAppearance: "chapter-11-session-01"
 description: "Former cultist from Al Askar who defected from the Cult of Zalaam and becomes an ally to the party."
+race: "Human"
+status: "Alive"
 ---
 
 ## Background

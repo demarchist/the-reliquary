@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Hasrala"]
 firstAppearance: "chapter-11-session-01"
 description: "Ancient Saurian scholar and engineer whose consciousness now resides in a machina body, helping the party find coordinates home."
+race: "Saurian"
+status: "Alive"
 ---
 
 ## Background

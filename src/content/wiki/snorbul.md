@@ -4,6 +4,11 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-01-session-01"
 description: "Svirfneblin Barbarian, champion of Snorbul's Hole, and member of the Faerûn Defense Force."
+race: "Svirfneblin"
+class: "Barbarian"
+status: "Alive"
+affiliation: "faerun-defense-force"
+home: "thunder-bluff"
 ---
 
 Snorbul is a male Svirfneblin (deep gnome) Barbarian and a member of the Faerûn Defense Force. He is the owner, operator, and champion-in-residence of Snorbul's Hole, an underground fighting arena within the Barony of Thunder Bluff.

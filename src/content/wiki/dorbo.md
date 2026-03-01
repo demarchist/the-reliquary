@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Dorbo"]
 firstAppearance: "chapter-10-session-01"
 description: "Chief of the Blingdenstone Deep Gnomes in the Underdark."
+race: "Svirfneblin"
+status: "Alive"
+home: "blingdenstone"
 ---
 
 ## Background

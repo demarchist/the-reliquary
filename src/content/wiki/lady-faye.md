@@ -5,6 +5,8 @@ aliases: []
 firstAppearance: "chapter-03-session-01"
 description: "A noblewoman in Baldur's Gate who serves as Patches' benefactor and employer."
 home: "baldurs-gate"
+race: "Archfey"
+status: "Alive"
 ---
 
 Lady Faye is a noblewoman in Baldur's Gate who serves as [[Aliyah Faen Tlabbar|Patches]]' benefactor and employer. She commands a network of champions — including Patches and the Moon Elf warrior [[Zhink]] — and maintains connections throughout the city's upper society.

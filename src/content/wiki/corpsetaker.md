@@ -5,6 +5,7 @@ aliases: ["Corpsetaker", "The Corpsetaker", "Red Robed Creature"]
 firstAppearance: "chapter-07-session-18"
 description: "A powerful ancient entity possessing the body of Cercei, capable of devastating arcane magic and orchestrating coordinated attacks alongside Li Xian and Amnian operatives."
 status: "Alive"
+race: "Undead"
 ---
 
 The Corpsetaker is an ancient entity capable of possessing living bodies. It took control of Cercei — Horatio von Bumidere's adopted daughter — and commanded the assault on the Bumidere estate in Neverwinter, floating above the battlefield in red robes with orbs of fire orbiting its head. The voice was unmistakably Cercei's but strangely modulated, cold and calculating.

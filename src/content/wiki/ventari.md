@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Ventari"]
 firstAppearance: "chapter-12-session-01"
 description: "Wood elf treasure hunter seeking the Titanic Forge inside Mt. Saqar volcano."
+race: "Human"
+class: "Monk"
+status: "Dead"
 ---
 
 ## Background

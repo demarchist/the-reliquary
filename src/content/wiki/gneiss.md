@@ -4,6 +4,10 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-07-session-13"
 description: "Earth Genasi warrior and Amnian retainer wielding a lightning halberd."
+race: "Earth Genasi"
+class: "Fighter"
+status: "Alive"
+affiliation: "amnians"
 ---
 
 Gneiss is an Earth Genasi warrior who serves as a retainer and bodyguard within the Amnian diplomatic delegation. A burly, formidable fighter armed with a lightning-infused halberd, Gneiss is one of the more honorable members of the Amnian contingent, alongside the monk Chani. The party first recognized both of them as the opponents they had fought during the Amnian Coup in Silverymoon, making their reunion at the Bumidere estate an uneasy one.

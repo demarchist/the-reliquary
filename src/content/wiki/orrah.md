@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Orrah"]
 firstAppearance: "chapter-12-session-09"
 description: "Al Askar's goddess of harmony, balance, and time who appeared to Buumi in the Temple of Karthus."
+race: "Deity"
+status: "Alive"
 ---
 
 ## Description

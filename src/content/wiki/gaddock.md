@@ -6,6 +6,7 @@ firstAppearance: "chapter-06-session-01"
 description: "Tark's beloved adoptive master — a monk enslaved by Zhengyi, rescued, and then turned into a vampire by the Lich-King to become an unwitting instrument of the enemy."
 race: "Halfling"
 class: "Monk"
+status: "Alive"
 ---
 
 Gaddock is [[tark|Tark]]'s adoptive father and the man who shaped the halfling into a monk. His fate — from enslaved prisoner to undead thrall — forms one of the most devastating emotional arcs of the party's time in [[underdark|the Underdark]].

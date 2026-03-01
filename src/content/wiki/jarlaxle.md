@@ -4,6 +4,9 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-10-session-13"
 description: "Flamboyant leader of Bregan D'aerthe who negotiates with the party in Menzoberranzan."
+race: "Drow"
+class: "Rogue"
+status: "Alive"
 ---
 
 Jarlaxle is the flamboyant leader of Bregan D'aerthe, the outlaw Drow mercenary organization. Operating outside Menzoberranzan's official power structure, he maintains a network of agents and operatives including the psionicist Kimmuriel and the local leader Lo'Dan.

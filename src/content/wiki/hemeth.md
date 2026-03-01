@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Hemeths"]
 firstAppearance: "chapter-08-session-08"
 description: "Duergar merchant and barge captain who aided the party in the Underdark."
+race: "Duergar"
+status: "Alive"
 ---
 
 Hemeth is a Duergar merchant and barge captain who the party freed from Kuo-Toa captivity in exchange for transport on his vessel. Patches struck the deal, and Fey'Anon polymorphed Hemeth into a bat to facilitate his escape while the Kuo-Toa guards shrieked in alarm. His barge became the party's primary means of traversing the Darklake and the waterways leading to the Dark Iron City of Gracklstugh.

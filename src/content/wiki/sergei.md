@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Sergei"]
 firstAppearance: "chapter-05-session-03"
 description: "Strahd's younger brother, whose death catalyzed Barovia's curse."
+race: "Human"
+status: "Dead"
+home: "castle-ravenloft"
 ---
 
 Sergei Von Zarovich was the younger brother of Strahd, a noble and devout paladin of Lathander whose relationship with Tatyana became the catalyst for Barovia's eternal curse.

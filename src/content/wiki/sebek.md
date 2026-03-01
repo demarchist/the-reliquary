@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Sebek"]
 firstAppearance: "chapter-12-session-01"
 description: "Speaker of the Black Skull, an undead cultist preacher who regenerates and spreads the Cult of Zalaam's corruption."
+race: "Human"
+class: "Rogue"
+status: "Alive"
 ---
 
 ## Background

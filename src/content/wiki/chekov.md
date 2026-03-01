@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Chekov"]
 firstAppearance: "chapter-05-session-02"
 description: "Barovian child rescued from Morgantha the hag who becomes a squire to the party."
+race: "Human"
+status: "Alive"
 ---
 
 ## Background

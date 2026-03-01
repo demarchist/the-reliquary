@@ -4,6 +4,10 @@ category: "People"
 aliases: ["Shaahir", "Shaahir of Athkatla"]
 firstAppearance: "chapter-06-session-12"
 description: "An Amnian Archmage identified by his solid gold staff, who led the magical assault on Silverymoon's Palace and Senior Council."
+race: "Human"
+class: "Wizard"
+status: "Alive"
+affiliation: "amnians"
 ---
 
 Shaahir is a powerful Amnian Archmage from Athkatla, identified by his distinctive solid gold staff. He arrived in Silverymoon three days before the coup with his apprentice S'Olaa — Cyrrus's brother — and served as the primary magical asset in the Amnian invasion.

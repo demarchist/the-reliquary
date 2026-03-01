@@ -7,6 +7,8 @@ description: "Moon Elf warrior and champion of Lady Faye who joins the party wit
 race: "Moon Elf"
 class: "Fighter"
 affiliation: "lady-faye"
+status: "Alive"
+home: "thunder-bluff"
 ---
 
 Zhink is a Moon Elf warrior who serves as one of [[Lady Faye]]'s champions. He is eccentric, proud, and supernaturally quick — possessing reflexes that exceed even normal elven capabilities.

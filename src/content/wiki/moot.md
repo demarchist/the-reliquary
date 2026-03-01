@@ -4,6 +4,9 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-01-session-04"
 description: "An elderly Monk of tremendous power, accompanied by seven golden canaries, who befriends Tark."
+race: "Human"
+class: "Monk"
+status: "Alive"
 ---
 
 Moot is an elderly Monk of great power, always accompanied by a flock of seven golden canaries. Despite his advanced age, his martial abilities are formidable — he defeats Lord Penterghast in the semi-finals of the Neverwinter martial tournament.

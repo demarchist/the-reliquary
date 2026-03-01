@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Liara"]
 firstAppearance: "chapter-12-session-01"
 description: "Priestess and leader among the Usurpers of Rudjek who worships Zalaam while fighting false cults."
+race: "Human"
+class: "Cleric"
+status: "Alive"
 ---
 
 ## Background

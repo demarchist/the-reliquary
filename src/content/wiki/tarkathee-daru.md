@@ -4,9 +4,10 @@ category: "People"
 aliases: ["Tark"]
 firstAppearance: "chapter-01-session-01"
 description: "Halfling Monk, moral compass of the Faerûn Defense Force, and master of ki."
+status: "Alive"
 race: "Halfling"
 class: "Monk"
-affiliation: "spellforged-adventuring-company"
+affiliation: "faerun-defense-force"
 home: "thunder-bluff"
 ---
 

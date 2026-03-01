@@ -5,6 +5,8 @@ aliases: ["Kenshi"]
 firstAppearance: "chapter-06-session-14"
 description: "A monk from Kara-Tur who rescued Gaddock and trained Tark through dream meetings — until scrutiny in Gracksuluth revealed he had never existed at all."
 status: "Non-Existent"
+race: "Human"
+class: "Fighter"
 ---
 
 Kenshi presented himself as a powerful monk from the distant land of Kara-Tur, commanding disciples and possessing the skill — and the audacity — to assault a prison complex run by the followers of a lich. He first appeared to [[tarkathee-daru|Tark]] in dreams, visiting him at the Monastery of the Yellow Rose in a serene, familiar setting that made the contact feel safe and natural. A Sending spell reached Tark with news of [[gaddock|Gaddock]]'s rescue, and a subsequent dream meeting at the monastery confirmed the story: [[gaddock|Gaddock]] had been freed and was recovering, with Kenshi teaching him new techniques that the old monk intended to pass along to his student.

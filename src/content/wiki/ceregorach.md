@@ -4,6 +4,8 @@ category: "People"
 aliases: ["The Laughing God"]
 firstAppearance: "chapter-02-session-01"
 description: "Trickster deity of cunning and mirth."
+race: "Archfey"
+status: "Alive"
 ---
 
 Ceregorach, the Laughing God, is a trickster deity whose domain encompasses cunning, humor, and deception used for benevolent ends. Unlike malicious trickster gods, Ceregorach's jests serve a greater purpose, often humbling the proud and revealing hidden truths through laughter and misdirection. His followers tend to be entertainers, jesters, and those who use wit as their sharpest weapon.

@@ -4,6 +4,8 @@ category: "People"
 aliases: ["The Goat Prince", "Prince of Undeath", "The Great Beast"]
 firstAppearance: "chapter-01-session-05"
 description: "Demon Lord and primary cosmic antagonist who seeks the five celestial artifact shards and commands the undead mists."
+race: "Demon Lord"
+status: "Alive"
 ---
 
 Orcus is a Demon Lord known as the Prince of Undeath and the primary cosmic antagonist of the campaign. He seeks to collect five celestial artifact shards — fragments of an ancient radiant artifact that was used to defeat him in ages past.

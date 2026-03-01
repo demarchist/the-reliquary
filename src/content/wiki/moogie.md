@@ -4,6 +4,10 @@ category: "People"
 aliases: ["Moogie"]
 firstAppearance: "chapter-06-session-15"
 description: "An elderly half-elf ranger and local guide in the Barony of Thunder Bluff, accompanied by her wolfhound Charles."
+race: "Half-Elf"
+class: "Ranger"
+status: "Alive"
+home: "thunder-bluff"
 ---
 
 Moogie is a half-elf ranger who has lived in the Thunder Bluff region for longer than most of its current inhabitants can remember. She walks the roads with her wolfhound Charles, presenting herself as a frail old woman to travellers — an act she drops the moment she decides they are trustworthy.

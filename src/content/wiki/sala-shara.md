@@ -6,6 +6,9 @@ firstAppearance: "chapter-06-session-05"
 description: "One of Theodemir's acolytes, now the Keeper of the Vault of Sages in Silverymoon — a meticulous archivist who has guarded the conspiracy's secrets for decades."
 race: "Human"
 affiliation: "vault-of-sages"
+class: "Wizard"
+status: "Alive"
+home: "silverymoon"
 ---
 
 Sala Shara is the Keeper of the Vault of Sages, Silverymoon's great library and archive. A human woman of formidable memory and meticulous habits, she was one of Theodemir's five acolytes who participated in the conspiracy to entrust the Eye of Aren to the Illithid Elder Brain Nostalgia for Infinity.

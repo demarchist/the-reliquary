@@ -6,6 +6,7 @@ firstAppearance: "chapter-06-session-04"
 description: "Buumi's brother-in-law, a retired naval captain and widower raising seven children — forced to flee Silverymoon when Amnian political pressure threatened his family."
 status: "Deceased"
 race: "Human"
+affiliation: "silverymoon"
 ---
 
 Georg von Strapp is a retired captain of the Silverymoon Northern Fleet and the brother-in-law of Buumi, having married Buumi's sister Seska. After Seska's death, Georg raised their seven children alone in a villa outside Silverymoon, maintaining the household with military precision tempered by genuine warmth.

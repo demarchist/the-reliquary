@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Madame Eva", "Eva"]
 firstAppearance: "chapter-05-session-03"
 description: "Ancient Vistani fortune teller who reveals that the only escape from Barovia is to kill Strahd or get him to forgive himself."
+race: "Vistani"
+status: "Alive"
 ---
 
 ## Background

@@ -5,6 +5,8 @@ aliases: ["Rictavio"]
 firstAppearance: "chapter-05-session-08"
 description: "An elderly vampire hunter disguised as a bard named Rictavio, a key ally against Strahd."
 status: "Dead"
+race: "Human"
+class: "Monster Hunter"
 ---
 
 Van Richten is an elderly but formidable vampire hunter — one of the most experienced in the known world — operating in Barovia under the disguise of a flamboyant bard named Rictavio. Beneath the colourful persona lies a hardened killer with decades of undead-slaying expertise and a personal vendetta against the creatures of the night.

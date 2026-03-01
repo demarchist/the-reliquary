@@ -6,6 +6,8 @@ firstAppearance: "chapter-08-session-06"
 description: "Drow High Priestess of House Mizzrym who commands Velkynvelve, orchestrated the Crossroads ambush, and spent the remainder of chapter 8 in pursuit of the group across the Underdark."
 race: "Drow"
 affiliation: "House Mizzrym"
+class: "Cleric"
+home: "menzoberranzan"
 ---
 
 Ilvara Mizzrym is a High Priestess of House Mizzrym and Lolth who commands the Underdark outpost of [[velkynvelve|Velkynvelve]]. She is a meticulous, ruthless commander who fights in fine mesh armor layered with a Piwafwi cloak and a full helm shaped into the likeness of a spider — mandibles and all — a single stark-white braid the only visible evidence that there is a Drow woman beneath it. She carries a snake-headed whip, the serpents alive and coiling around her arm when at rest.

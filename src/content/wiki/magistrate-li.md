@@ -6,6 +6,8 @@ firstAppearance: "chapter-06-session-04"
 description: "A former Spellguard investigator of Shou heritage who developed the Lei Technique for psionic memory reconstruction — now the Magistrate of the Barony of Thunder Bluff."
 status: "Alive"
 affiliation: "Barony of Thunder Bluff"
+race: "Human"
+home: "thunder-bluff"
 ---
 
 ## Origins

@@ -8,6 +8,7 @@ race: "Derro"
 class: "Warlock"
 affiliation: "warlocks-of-ceregorach"
 home: "whorlstone-caverns"
+status: "Alive"
 ---
 
 Bilrigger the Savant was, by all appearances, one of the most senior Warlocks of [[warlocks-of-ceregorach|the Warlocks of Ceregorach]] — a figure of genuine intellectual weight who occupied opulent chambers in the [[whorlstone-caverns|Whorlstone Caverns]] beneath [[gracksuluth|Gracksuluth]] and commanded the loyalty of Droki, a fellow warlock who served as his messenger and guide.

@@ -4,9 +4,10 @@ category: "People"
 aliases: ["Patches", "Stitches", "Aliyah"]
 firstAppearance: "chapter-01-session-01"
 description: "Drow Rogue, proprietor of The Establishment, and member of the Faerûn Defense Force."
+status: "Alive"
 race: "Drow"
 class: "Rogue"
-affiliation: "spellforged-adventuring-company"
+affiliation: "faerun-defense-force"
 home: "the-establishment"
 ---
 

@@ -4,6 +4,10 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-09-session-14"
 description: "Deep Gnome High Priest of Blingdenstone who aided the party."
+race: "Svirfneblin"
+class: "Cleric"
+status: "Alive"
+home: "blingdenstone"
 ---
 
 Gurnik is the High Priest of Blingdenstone, a Svirfneblin cleric who commands earth elementals and leads the spiritual life of the deep gnome community. He first made contact with the party as they explored the tunnels near Blingdenstone, approaching them with an elemental escort and guiding them to meet the settlement's chief. Gurnik's priestly abilities and knowledge of the local Underdark proved essential in the party's efforts to liberate Blingdenstone from its lingering curse.

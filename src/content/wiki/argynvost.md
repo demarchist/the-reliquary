@@ -5,6 +5,7 @@ aliases: []
 firstAppearance: "chapter-04-session-09"
 description: "An ancient silver dragon long dead, whose ghostly form inhabits Argynvolsthold and seeks the return of his bones."
 status: "Dead"
+race: "Silver Dragon"
 ---
 
 Argynvost is an ancient silver dragon, long dead, whose ghostly form inhabits the ruined manor of Argynvolsthold in Barovia. He seeks to have his bones returned to his resting place, a quest that ties into the broader effort against Strahd.

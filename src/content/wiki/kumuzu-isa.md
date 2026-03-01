@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Kumuzu Isa"]
 firstAppearance: "chapter-12-session-01"
 description: "Powerful dark magic practitioner who conducted rituals in the Golden Tower basement in Iyum."
+race: "Human"
+class: "Warlock"
+status: "Alive"
 ---
 
 ## Background

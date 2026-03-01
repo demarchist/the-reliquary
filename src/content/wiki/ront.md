@@ -5,6 +5,8 @@ aliases: []
 firstAppearance: "chapter-08-session-06"
 description: "Orc warlock who escaped Velkynvelve and fell under demonic influence, becoming the vessel through which Demogorgon entered the world."
 race: "Orc"
+class: "Barbarian"
+status: "Alive"
 ---
 
 Ront is an Orc who was imprisoned at [[velkynvelve|Velkynvelve]] alongside the party during their early days in the [[underdark|Underdark]]. Sent by Gruumsh on a quest to find an object of power beneath the surface, he shared a cell with the group, and his abrasive personality made an immediate impression: when he learned [[patches|Patches]] had deserted the Drow, he spat at her feet. Yet when JmJm yelled at the Drow guards and took a crossbow bolt for it, Ront walked over and pulled him up. He liked the group's attitude — arguing and fighting rather than cowering — and that counted for something.

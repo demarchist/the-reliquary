@@ -5,6 +5,7 @@ aliases: ["Elion"]
 firstAppearance: "chapter-06-session-05"
 description: "An elven member of Theodemir's acolytes — quiet, watchful, and concealing more than he revealed."
 race: "Elf"
+status: "Alive"
 ---
 
 Elion Loberos was a young elf of striking beauty with dark hair and pale features, one of Theodemir's five acolytes who participated in the conspiracy to hide the Eye of Aren. He was the quietest of the group — watchful and reserved, rarely offering opinions during debates but observing everything with an intensity that unsettled his peers.

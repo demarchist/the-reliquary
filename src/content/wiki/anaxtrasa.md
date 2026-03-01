@@ -4,6 +4,8 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-05-session-26"
 description: "An adult blue dragon who claimed Castle Ravenloft and aids the party."
+race: "Blue Dragon (Adult)"
+status: "Alive"
 ---
 
 Anaxtrasa is an adult blue dragon who, following the party's liberation of Barovia, claimed Castle Ravenloft as her own domain after it was transported to the Anauroch desert. She typically appears as a blonde elf in a blue gown when interacting with humanoids. Anaxtrasa is the daughter of a dragon with connections to the Storm Giants, a fact she prefers to keep private, as revealed when Aurinax inadvertently mentioned it within earshot of the party.

@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Selune", "Our Lady of Silver", "Moonmaiden"]
 firstAppearance: "chapter-01-session-01"
 description: "Goddess of the moon, stars, and navigation, worshipped by the party."
+race: "Deity"
+status: "Alive"
 ---
 
 Selûné is the goddess of the moon, stars, navigation, navigators, wanderers, questers, and good-aligned lycanthropes. Known as Our Lady of Silver and the Moonmaiden, she is one of the oldest deities in the Faerûnian pantheon, having existed since the creation of the world. Her eternal conflict with her dark twin Shar has shaped much of the cosmos. Selûné's faithful are diverse, ranging from mariners to those who work by moonlight, and her clergy often provide comfort and guidance to travelers.

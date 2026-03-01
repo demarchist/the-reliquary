@@ -8,6 +8,7 @@ race: "Half-Orc"
 class: "Fighter"
 affiliation: "Bohd's Band"
 home: "Thunder Bluff"
+status: "Alive"
 ---
 
 Bohd is the captain of Bohd's Band, a mercenary company hired by Silverymoon to shore up the defences of the Barony of Thunder Bluff. A half-orc with a mane of crimson hair, red and gold armour, and a massive battleaxe, he is competent, boisterous, and full of bravado.

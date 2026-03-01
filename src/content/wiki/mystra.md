@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Lady of Mysteries"]
 firstAppearance: "chapter-01-session-01"
 description: "Goddess of magic and guardian of the Weave."
+race: "Deity"
+status: "Alive"
 ---
 
 Mystra, the Lady of Mysteries, is the goddess of magic and the guardian of the Weave, the invisible fabric of raw magic that permeates all of Toril and allows spellcasters to channel arcane power. Without Mystra's stewardship, magic itself would become wild and unpredictable, as it did during the periods when the goddess was slain. Several mortals have held the mantle of Mystra over the ages, each ascending to maintain the crucial balance of magical energy.

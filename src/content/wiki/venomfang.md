@@ -4,6 +4,8 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-01-session-02"
 description: "A young green dragon of Thundertree who is slain and rises as a Dracolich to devastate Phandalin."
+race: "Green Dragon (Young)"
+status: "Dead"
 ---
 
 Venomfang is a young green dragon who resides in the old mage's tower of Thundertree. Cunning and deceitful, he initially tricks the party and nearly kills them during their first encounter.

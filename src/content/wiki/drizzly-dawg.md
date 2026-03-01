@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Drizzly Dawg", "Captain Drizzly"]
 firstAppearance: "chapter-12-session-01"
 description: "Dashing elf pirate captain of The Revenger who aids the party in their seafaring adventures in Al Askar."
+race: "Elf"
+class: "Rogue"
+status: "Alive"
 ---
 
 ## Background

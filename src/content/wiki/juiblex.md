@@ -4,6 +4,8 @@ category: "People"
 aliases: ["The Faceless Lord"]
 firstAppearance: "chapter-08-session-06"
 description: "Demon lord of oozes and shapeless destruction."
+race: "Demon Lord"
+status: "Alive"
 ---
 
 Juiblex, the Faceless Lord, is the demon lord of oozes, slimes, and all manner of amorphous abominations. Unlike other demon lords who scheme and plot with cunning intelligence, Juiblex is a being of pure dissolution, seeking only to consume and absorb all matter into its formless bulk. Its layer of the Abyss is a festering swamp of acidic slime, and its followers are among the most deranged cultists in existence, worshipping the concept of dissolution itself.

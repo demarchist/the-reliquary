@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Izek"]
 firstAppearance: "chapter-05-session-06"
 description: "Burgomaster Vargas Vallakovich's supernaturally strong henchman who enforces order in Vallaki."
+race: "Human"
+status: "Dead"
 ---
 
 ## Background

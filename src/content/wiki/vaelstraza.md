@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Vaelstraza", "Vael"]
 firstAppearance: "chapter-06-session-09"
 description: "A young Red Dragon migrating to Gauntlgrym, encountered bathing in volcanic hot springs in the Nether Mountains."
+race: "Red Dragon (Young)"
+status: "Alive"
 ---
 
 Vaelstraza is a young Red Dragon the group encountered lounging in a volcanic hot spring deep in the winter mountains between Sundabar and Silverymoon. Confident and casually dangerous, she introduced herself as a migrant drawn westward by the call of Magaera, the Fire Primordial bound beneath Gauntlgrym.

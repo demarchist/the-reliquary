@@ -4,6 +4,9 @@ category: "People"
 aliases: ["The Oni", "The Blue Creature"]
 firstAppearance: "chapter-07-session-18"
 description: "A powerful Oni necromancer responsible for the murders of Buumi's parents and allied with the Corpsetaker."
+race: "Oni"
+class: "Necromancer"
+status: "Dead"
 ---
 
 Li Xian is a powerful Oni lord and necromancer who serves the Corpsetaker. A blue-skinned shapeshifter of immense power, he is responsible for the murders of Buumi's parents — making him a deeply personal enemy of the party.

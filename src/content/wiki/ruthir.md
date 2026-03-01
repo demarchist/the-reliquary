@@ -8,6 +8,7 @@ race: "High Elf"
 class: "Wizard"
 affiliation: "Fëanon's Tower"
 home: "Thunder Bluff"
+status: "Alive"
 ---
 
 ## Background

@@ -4,6 +4,11 @@ category: "People"
 aliases: ["Cirrus"]
 firstAppearance: "chapter-01-session-01"
 description: "Tiefling Divine Soul Sorcerer, High Priest of the Cult of Selune, and member of the Faerûn Defense Force."
+status: "Alive"
+race: "Tiefling"
+class: "Divine Soul Sorcerer"
+affiliation: "faerun-defense-force"
+home: "fane-of-selune"
 ---
 
 Cirrus Al Kayan is an unusually tall and slender Tiefling male and a Divine Soul Sorcerer who derives his magical power from his spiritual connection to Selune, the moon goddess. He is the charismatic leader of the Cult of Selune and a member of the Faerûn Defense Force.

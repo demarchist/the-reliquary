@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Harold Ophrella", "Harold"]
 firstAppearance: "chapter-06-session-16"
 description: "The ghost of High Hold's last commander, trapped in an endless loop of duty until the group released him."
+race: "Human"
+status: "Dead"
 ---
 
 Harold Ophrella was the commander of High Hold when the Orcish Horde swept through the region two years prior, destroying the castle and killing its garrison. His spirit remained bound to the ruins — a well-dressed, ghostly man leaning over a phantom desk in his shattered office, open to the night sky, the actual furniture lying broken beneath a layer of snow.

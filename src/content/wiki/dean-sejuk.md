@@ -4,6 +4,10 @@ category: "People"
 aliases: ["Dean Sejuk", "Sejuk", "Sajuuk Stomru", "Sajuuk", "The Untouched"]
 firstAppearance: "chapter-06-session-05"
 description: "Dean of the Lady's College in Silverymoon, secretly Sajuuk 'The Untouched' Stomru — one of Theodemir's acolytes who participated in the conspiracy to hide the Eye of Aren."
+race: "Human"
+class: "Wizard"
+status: "Alive"
+home: "silverymoon"
 ---
 
 ## True Identity

@@ -4,6 +4,9 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-02-session-13"
 description: "A powerful Drow Psionicist and lieutenant of Jarlaxle within Bregan D'aerthe."
+race: "Drow"
+class: "Psionicist"
+status: "Alive"
 ---
 
 Kimmuriel is a powerful Drow Psionicist who serves as a lieutenant to Jarlaxle within Bregan D'aerthe. His psionic teleportation abilities provide critical tactical advantages, including enabling the party and Lo'Dan to escape the collapsing celestial vault beneath Neverwinter's Chasm.

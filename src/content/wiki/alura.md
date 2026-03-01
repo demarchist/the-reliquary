@@ -6,6 +6,7 @@ firstAppearance: "chapter-06-session-08"
 description: "A woman rescued from an Illithid assimilation chamber during the descent into Nostalgia for Infinity's hive."
 status: "Alive"
 race: "Human"
+home: "gashaus"
 ---
 
 Alura is a young human woman rescued by the party from an assimilation pod inside Nostalgia for Infinity's hive beneath Ladypeak. She had been taken on the road near the Nether Mountains and was found unconscious, pale, and marked with the early signs of Illithid transformation — neural tendrils growing from the pod into her temples.

@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Jareem"]
 firstAppearance: "chapter-12-session-01"
 description: "Ruby Crystal Dragon in humanoid fire genasi form, originally from Oerth, whose mate Ajak was killed and corrupted into a Hollow Dragon."
+race: "Ruby Crystal Dragon"
+status: "Alive"
 ---
 
 ## Background

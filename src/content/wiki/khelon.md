@@ -6,6 +6,8 @@ firstAppearance: "chapter-06-session-07"
 description: "A retired veteran of the 3rd Special Actions Detachment — lean, angular, and tactically brilliant — who came out of retirement for one last mission against the Illithids."
 race: "Human"
 affiliation: "3rd-special-actions-detachment"
+status: "Alive"
+home: "gashaus"
 ---
 
 Khelon is a retired operator of the 3rd Special Actions Detachment, the Silverymoon military unit known as the Mindslayers. The tallest of the three veterans — lean and angular, with sharp cheekbones, pale eyes that track movement with predatory precision, and a thin scar from his left ear to his jaw. His bearing is the most obviously military, his posture parade-ground straight even while playing cards.

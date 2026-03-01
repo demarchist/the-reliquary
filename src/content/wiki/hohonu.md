@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Hohonu Hāmau"]
 firstAppearance: "chapter-13-session-03"
 description: "Ancient dragon sealed in Al Askar, worshipped by corrupted halflings."
+race: "Ancient Dragon"
+status: "Alive"
 ---
 
 Hohonu Hāmau is an ancient dragon from the earliest age of Al Askar, when the gods still walked the earth. Sealed long ago within a Greater Magic Circle and contained by an Antipathy spell along with other binding enchantments, Hohonu's prison has weakened over the centuries. Corrupted halflings worship Hohonu as a god, performing blood sacrifices at an altar built over the tar pit that marks his prison, their devotion slowly eroding the magical seals.

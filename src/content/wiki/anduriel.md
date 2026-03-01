@@ -5,6 +5,7 @@ aliases: ["The Abbot"]
 firstAppearance: "chapter-05-session-19"
 description: "A Planetar of Lathander disguised as the Abbot of Krezk, who sacrificed himself to reforge the crystal greatsword into the Ashbringer."
 status: "Dead"
+race: "Planetar"
 ---
 
 Anduriel is a Planetar — a powerful celestial servant of Lathander — who has lived for centuries in the walled village of Krezk, disguised as the Abbot of the Abbey of St. Markovia. Behind the guise of a mortal clergyman, he conceals six cream-feathered wings and softly glowing blue eyes.

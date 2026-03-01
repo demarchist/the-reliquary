@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Raylen"]
 firstAppearance: "chapter-02-session-04"
 description: "Dashing moon elf merchant from Bregan D'aerthe who operates an exotic goods store at the Neverwinter Festival."
+race: "Human"
+status: "Alive"
 ---
 
 ## Background

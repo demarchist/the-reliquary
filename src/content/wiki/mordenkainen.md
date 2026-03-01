@@ -5,6 +5,8 @@ aliases: ["Archmage of Oerth"]
 firstAppearance: "chapter-05-session-11"
 description: "A legendary archmage from Oerth who attempted to stop Strahd and whose staff became a key artifact."
 status: "Alive"
+race: "Human"
+class: "Wizard"
 ---
 
 Mordenkainen is the legendary Archmage of Oerth, one of the most powerful wizards in the multiverse. He travelled to Barovia attempting to stop Strahd Von Zarovich but was afflicted by magical insanity, leaving him diminished and wandering the wilderness until the party found him.

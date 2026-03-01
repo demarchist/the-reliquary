@@ -4,6 +4,9 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-08-session-16"
 description: "Derro warlock courier in Gracklstugh, coerced into serving the party."
+race: "Derro"
+class: "Warlock"
+status: "Alive"
 ---
 
 Droki is a Derro warlock who operated as a courier moving between the West Cleft and the Blade Bazaar in Gracklstugh. The Flameguard were actively seeking him when the party was tasked with his capture. Cirrus intercepted the smaller and weaker warlock, intimidating him into compliance and demanding a meeting with his master, Bilrigger the Savant, one of the Council of Savants that governed the Derro underbelly of the city.

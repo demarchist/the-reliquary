@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Lolthli"]
 firstAppearance: "chapter-01-session-03"
 description: "A Wood Elf Ranger with tamed wolves who joins the party and participates extensively in combat and tournaments."
+race: "Wood Elf"
+class: "Ranger"
+status: "Alive"
 ---
 
 Lothli is a Wood Elf Ranger who joins the group with her tamed wolves. She participates extensively in combat, scouting, and tournaments throughout the early chapters of the campaign.

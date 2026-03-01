@@ -5,6 +5,7 @@ aliases: ["Black Spider", "Nezznar"]
 firstAppearance: "chapter-01-session-01"
 description: "A Drow agent searching for the Spellforge in Wave Echo Cave, who manipulated Iarno and the Cragmaw goblins."
 status: "Unknown"
+race: "Drow"
 ---
 
 The Black Spider is a Drow agent who orchestrated much of the villainy surrounding Phandalin in the early days of the campaign. Operating through noble connections in Neverwinter, the Spider recruited Iarno (Glasstaff) to form the Redbrand Ruffians, sent bugbears to assist the operation, and directed the Cragmaw goblins — including the bugbear Klarg — to kidnap Gundren Rockseeker.

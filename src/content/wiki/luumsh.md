@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Luumsh"]
 firstAppearance: "chapter-06-session-15"
 description: "Pragmatic leader of an Orc tribe of Horde deserters who negotiated citizenship in the Barony of Thunder Bluff."
+race: "Orc"
+status: "Alive"
+home: "thunder-bluff"
 ---
 
 Luumsh is the leader of a tribe of Orc deserters who fled the Horde during its invasion of the region two years prior. Rather than fight to the death in a war they did not believe in, Luumsh led his people into the Evermoors, where they lost many before settling in caves beneath Thunder Bluff. The tribe prospered briefly until a spirit troll called Shadowclaw drove them to the surface, forcing them into the ruins of High Hold for the winter.

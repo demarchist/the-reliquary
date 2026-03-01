@@ -7,6 +7,8 @@ description: "Air Genasi Cleric and member of the Faerûn Defense Force."
 race: "Air Genasi"
 class: "Cleric"
 status: "Alive"
+affiliation: "faerun-defense-force"
+home: "thunder-bluff"
 ---
 
 Thorna is an Air Genasi Cleric and a member of the Faerûn Defense Force, serving alongside the other members of the council that governs the Barony of Thunder Bluff. She wields an icy hammer capable of channelling frost magic.

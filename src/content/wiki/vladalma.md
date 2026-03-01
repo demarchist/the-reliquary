@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Vladalma", "Matron Vladalma"]
 firstAppearance: "chapter-13-session-01"
 description: "Matron Mother of House Faen Tlabbar and Patches' mother, who orders assassination missions from Menzoberranzan."
+race: "Human"
+status: "Dead"
 ---
 
 ## Background

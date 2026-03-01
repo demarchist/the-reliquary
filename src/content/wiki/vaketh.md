@@ -4,6 +4,9 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-12-session-18"
 description: "Alaskarian god of Power who allied with Tark."
+race: "Human"
+class: "Fighter"
+status: "Dead"
 ---
 
 Vaketh is the god of Power in the world of Al Askar, worshipped at a domed temple perched atop a stone pillar jutting from a magma lake within the caldera of Mt. Saqar. The temple is accessed by two narrow bridges from the mainland and was originally noted by Jareem as being undefended by the Shadowfell creatures that guarded the other temples — though by the time the party arrived, it had been overrun by Howlers, Banshees, the Lonely, and ultimately a Saurian Death Lord with four Boneclaws who teleported directly from the Army of the Dead in Sharza. The party was drawn there by a prophecy from the Temple of Carthus promising Snorbul great power at Vaketh's shrine.

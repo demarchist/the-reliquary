@@ -5,6 +5,7 @@ aliases: ["Baba Lysaga"]
 firstAppearance: "chapter-05-session-03"
 description: "Powerful witch and master of Morgantha and the other hags of Barovia."
 status: "Dead"
+race: "Human"
 ---
 
 Baba Lysaga is an immensely powerful witch and high priestess of Atropos who resides in the swampy ruins of Berez — a village she herself annihilated. She serves as the master of Morgantha and the other night hags operating in Barovia, and is Rahadin's secret co-conspirator in maintaining the curse.

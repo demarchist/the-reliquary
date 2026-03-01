@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Finn Faen Tlabbar"]
 firstAppearance: "chapter-08-session-01"
 description: "Patches' son, kidnapped by the Drow and held in Menzoberranzan, driving a major quest arc."
+race: "Half-Drow"
+status: "Alive"
 ---
 
 Finn is the son of Aliyah Faen Tlabbar (Patches), kidnapped by the Drow and taken to Menzoberranzan where he is trained in wizardry and sorcery. His rescue becomes one of the driving motivations behind the party's dangerous journey into the Underdark.

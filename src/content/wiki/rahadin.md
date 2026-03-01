@@ -4,6 +4,9 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-05-session-11"
 description: "Strahd's dusk elf chamberlain and treacherous right hand."
+race: "Dusk Elf"
+class: "Fighter"
+status: "Dead"
 ---
 
 Rahadin is a dusk elf who serves as Strahd Von Zarovich's chamberlain and most trusted servant — or so it appeared for over a millennium. A figure of cold efficiency and quiet menace, he is surrounded by an aura of the screaming souls of those he has slain, a chilling reminder of his long history of violence. In truth, Rahadin is an adult silver dragon who has been manipulating events in Barovia since before the curse began.

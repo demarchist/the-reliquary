@@ -4,6 +4,10 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-01-session-01"
 description: "Ancient High Elf scholar, member of the Conclave of Silverymoon, and trusted ally of Fëanon."
+race: "High Elf"
+class: "Wizard"
+status: "Alive"
+home: "silverymoon"
 ---
 
 Elara is a High Elf scholar and member of the Conclave of Silverymoon. Though ancient, her elven heritage grants her perpetual youth. She is intelligent, curious, and compassionate — a skilled investigator with a keen eye for detail.

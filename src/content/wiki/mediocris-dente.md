@@ -5,6 +5,7 @@ aliases: ["The Tooth Fairy", "Ceregorach"]
 firstAppearance: "chapter-03-session-07"
 description: "A sinister Wild Fae Archfey — the real tooth fairy — who held Cyrrus in a degrading pact of teeth and treasure until the warlock killed it in the collapsing Bog. Also known as Ceregorach."
 status: "Dead"
+race: "Archfey"
 ---
 
 Mediocris Dente — also known as **Ceregorach** — is the creature behind the children's legend of the tooth fairy, and the reality is far uglier than the tale. A Wild Fae Archfey, winged and gaunt, its neck and body draped in necklaces of teeth, Mediocris Dente is the kind of patron that takes everything and gives just enough to keep its warlock crawling back.

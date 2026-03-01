@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Gerwan"]
 firstAppearance: "chapter-05-session-04"
 description: "Half-orc bard who joins the party to escape Barovia after spending time with the Vistani."
+race: "Half-Orc"
+class: "Bard"
+status: "Alive"
 ---
 
 ## Background

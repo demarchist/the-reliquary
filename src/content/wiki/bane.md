@@ -4,6 +4,8 @@ category: "People"
 aliases: ["The Black Hand"]
 firstAppearance: "chapter-01-session-01"
 description: "God of tyranny, fear, and hatred."
+race: "Deity"
+status: "Alive"
 ---
 
 Bane, the Black Hand, is the god of tyranny, fear, and hatred. He is one of the most feared deities in the Faerûnian pantheon, commanding absolute obedience from his followers and demanding that all kneel before his dark authority. His clergy are organized into a strict military hierarchy, and his faithful seek to subjugate all free peoples under an iron fist. Bane's symbol is a black hand with fingers outstretched, and his temples are fortified strongholds of oppression.

@@ -5,6 +5,8 @@ aliases: []
 firstAppearance: "chapter-01-session-04"
 description: "A golden canary who bonded with Tark — later revealed to be an Ancient Golden Dragon and Disciple of Bahamut, watching over the group from the beginning."
 affiliation: "bahamut"
+race: "Celestial"
+status: "Alive"
 ---
 
 Ysera is patience made manifest. She first appeared as one of [[Moot]]'s seven golden canaries — tiny, cheerful, and inexplicably drawn to [[Tarkathee Daru|Tark]]. She chose to follow the monk, perching on his shoulder and chirping happily, granting him supernatural alertness and communicating with him telepathically in quiet moments. For sessions, she was just a bird. A peculiar, affectionate little bird that no one questioned too deeply.

@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Ingrbotha"]
 firstAppearance: "chapter-07-session-02"
 description: "Elderly Giantess matriarch of the frost giant settlement on Shatterpeak mountain."
+race: "Frost Giant"
+status: "Alive"
 ---
 
 ## Background

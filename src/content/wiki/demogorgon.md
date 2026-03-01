@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Prince of Demons"]
 firstAppearance: "chapter-08-session-11"
 description: "Two-headed demon lord and Prince of Demons."
+race: "Demon Lord"
+status: "Alive"
 ---
 
 Demogorgon is the self-styled Prince of Demons, one of the most powerful demon lords in the Abyss. His most distinctive feature is his twin baboon heads, Aameul and Hethradiah, each possessing its own cunning personality and constantly scheming against the other even as they share a single body. Demogorgon commands legions of demons and his mere presence drives mortals to madness. His influence extends through cults and corrupted agents throughout the Underdark and beyond.

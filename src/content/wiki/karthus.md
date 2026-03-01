@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Karthus", "Carthus", "Karthas"]
 firstAppearance: "chapter-12-session-01"
 description: "Al Askar's god of protection and guardianship, the local equivalent of Helm from Toril."
+race: "Deity"
+status: "Alive"
 ---
 
 ## Description

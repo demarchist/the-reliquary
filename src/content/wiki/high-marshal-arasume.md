@@ -4,6 +4,10 @@ category: "People"
 aliases: ["Arasume", "High-Marshal Arasume"]
 firstAppearance: "chapter-06-session-13"
 description: "High-Marshal of Silverymoon — a High Elf warrior in seamless silver plate armour who commands the Mythal Golems and the Senior Council."
+race: "High Elf"
+class: "Fighter"
+status: "Alive"
+home: "silverymoon"
 ---
 
 High-Marshal Arasume is the supreme military commander of Silverymoon and the most powerful figure in the city's defence. A High Elf with sharp features, black iridescent hair and softly glowing green eyes — a single scar splitting her lower lip — she is rarely seen outside her extraordinary armour: seamless silver plate with no visible joints or seams, banded with mithril and adamantite in patterns reminiscent of musculature. The helmet retracts and folds into itself at her will. Eight great silver swords float in an arc above and behind her like wings, each independently targetable.

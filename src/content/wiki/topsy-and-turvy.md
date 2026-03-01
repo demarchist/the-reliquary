@@ -6,6 +6,7 @@ firstAppearance: "chapter-08-session-06"
 description: "Svirfneblin siblings who were fellow prisoners at Velkynvelve, revealed as wererats and pledged to Selûne, who went on to become administrators of the Fane."
 race: "Svirfneblin"
 affiliation: "Fane of Selûne"
+status: "Alive"
 ---
 
 Topsy and Turvy are Svirfneblin siblings — Deep Gnome twins — who were captured by Ilvara Mizzrym's Drow patrol and imprisoned at [[velkynvelve|Velkynvelve]]. Their village had been raided, and when the group arrived in the cells they found the twins quiet and watchful, with the tips of their ears docked: a mark of the prison. [[doc|Doc]] spoke with them in a dialect of Gnomish close enough to bridge the gap.

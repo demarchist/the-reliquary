@@ -4,9 +4,10 @@ category: "People"
 aliases: ["Buumi", "Horatio"]
 firstAppearance: "chapter-01-session-01"
 description: "Human Paladin, Captain of the City Guard, and member of the Faerûn Defense Force."
+status: "Alive"
 race: "Human"
 class: "Paladin"
-affiliation: "spellforged-adventuring-company"
+affiliation: "faerun-defense-force"
 home: "thunder-bluff"
 ---
 

@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Leanansidhe", "The Leanansidhe"]
 firstAppearance: "chapter-06-session-03"
 description: "A powerful Archfey in the form of a beautiful red-headed Eladrin who trades in favours and debts."
+race: "Eladrin"
+status: "Alive"
 ---
 
 The Leanansidhe is an Archfey who operates through an economy of debts and obligations. Her true form is that of a striking red-headed Eladrin, though she is a consummate shapeshifter — appearing during the Reaver cleansing ritual in Sundabar disguised as Nora, a female Dwarven cleric and Gundren's cousin.

@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Beryan the Sage"]
 firstAppearance: "chapter-08-session-28"
 description: "Sun Elf Sage of Selûné residing in Fëanon's Tower."
+race: "Sun Elf"
+status: "Alive"
+home: "feanons-tower"
 ---
 
 Beryan is a female Sun Elf and a Sage of Selûné who resides in Fëanon's Tower in the Barony of Selunia. She serves as the party's primary researcher and lorekeeper, maintaining connections with the libraries of Evermeet and possessing an extensive personal collection of tomes. Beryan has provided critical intelligence on subjects ranging from the demon lord Orcus to the goddess Auril, and her expertise in ancient texts has proven invaluable time and again.

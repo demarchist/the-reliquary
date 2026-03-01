@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Donavich"]
 firstAppearance: "chapter-05-session-03"
 description: "Priest of the church in Barovia who keeps his vampire spawn son imprisoned in the basement."
+race: "Human"
+class: "Cleric"
+status: "Alive"
 ---
 
 ## Background

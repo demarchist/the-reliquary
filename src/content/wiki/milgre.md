@@ -8,6 +8,7 @@ race: "Derro"
 class: "Warlock"
 affiliation: "orcus"
 home: "whorlstone-caverns"
+status: "Alive"
 ---
 
 Milgre is a Derro Savant — a wizard among the mad subterranean race — who has undergone vampiric transformation in service to [[orcus|Orcus]]. She operated from [[bilrigger|Bilrigger]]'s Sanctum in the [[whorlstone-caverns|Whorlstone Caverns]] beneath [[gracksuluth|Gracksuluth]], commanding a network of vampire spawn and two Warlock lieutenants, including the red-robed Rilka.

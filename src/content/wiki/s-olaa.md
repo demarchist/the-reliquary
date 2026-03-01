@@ -4,6 +4,9 @@ category: "People"
 aliases: ["S'Olaa"]
 firstAppearance: "chapter-06-session-11"
 description: "Cyrrus's brother and new head of the Al'Kayan clan, who thanked the warlock for killing their father and dismissed him as a freak."
+race: "Human"
+status: "Alive"
+affiliation: "amnians"
 ---
 
 S'Olaa is Cirrus al-Kayan's brother and the current head of the Al'Kayan clan — a position he attained after Cyrrus killed their father. A well-dressed, sharp-looking Amnian with neatly trimmed hair and a precisely cut beard, he serves as apprentice to the Archmage Shaahir and operates as an agent of Amnian interests within Silverymoon.

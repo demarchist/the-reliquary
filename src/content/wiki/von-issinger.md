@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Von Issinger"]
 firstAppearance: "chapter-06-session-12"
 description: "Silverymoon's traitorous Master of Coin who funnelled Amnian money into the Ironarm Mercenary Company."
+race: "Human"
+status: "Dead"
 ---
 
 Von Issinger is the Master of Coin of Silverymoon — a thin, hunched man who proved to be the financial lynchpin of the Amnian infiltration. His office at the Silverymoon Palace was where the paper trail converged: Amnian "gifts" flowed to Von Issinger, who laundered the money into contracts for the Ironarm Mercenary Company, bringing five hundred soldiers into the city under the guise of supplementary patrols.

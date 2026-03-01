@@ -3,10 +3,12 @@ title: "Doctor Breakfast"
 category: "People"
 aliases: ["Doc", "Doc B.", "Doc B"]
 firstAppearance: "chapter-01-session-02"
-description: "Gnome Druid, wielder of wind and storm magic, and steadfast companion of the Spellforged."
+description: "Gnome Druid, wielder of wind and storm magic, and member of the Faerûn Defense Force."
+status: "Alive"
+home: "thunder-bluff"
 race: "Gnome"
 class: "Druid"
-affiliation: "spellforged-adventuring-company"
+affiliation: "faerun-defense-force"
 ---
 
 Doctor Breakfast is a Gnome Druid and a steadfast member of the Spellforged Adventuring Company. She first appeared at the Stonehill Inn in Phandalin, initially shapeshifted into a cat-person form, and quickly became one of the group's most reliable combatants. She often operates alongside [[Jack Mayer Johnson Mathews|JmJm]], with the two of them forming the group's most consistent tactical pairing.

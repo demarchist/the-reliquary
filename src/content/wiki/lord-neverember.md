@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Neverember"]
 firstAppearance: "chapter-02-session-01"
 description: "The Lord of Neverwinter who commissions the party and founds the Spellforged Adventuring Company."
+race: "Human"
+status: "Alive"
+home: "neverwinter"
 ---
 
 Lord Dagult Neverember is the Lord of Neverwinter and Buumi's uncle. He rewards the party 2,000 gold for destroying Venomfang and commissions them to investigate the Chasm beneath the ruined section of Neverwinter.

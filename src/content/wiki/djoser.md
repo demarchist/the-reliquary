@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Djoser"]
 firstAppearance: "chapter-12-session-01"
 description: "Grand Warden of Iyum and member of the Usurpers of Rudjek who wields the Hammer of Niraz."
+race: "Human"
+class: "Fighter"
+status: "Alive"
 ---
 
 ## Background

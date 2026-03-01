@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Shuushar the Awakened"]
 firstAppearance: "chapter-08-session-06"
 description: "Pacifist kuo-toa who guided the party to the Darklake."
+race: "Kuo-Toa"
+status: "Dead"
 ---
 
 Shuushar is a kuo-toa who introduces himself to the party as a pacifist, a remarkable rarity among his violent and superstitious kind. Known as Shuushar the Awakened, he accompanies the Myconid companion Toadstool and guided the party toward the Darklake and his people's settlement at Sloobludop after their escape from Velkynvelve. Despite the chaos erupting around him, Shuushar maintained his commitment to nonviolence, preferring to stand and watch during combat encounters.

@@ -4,6 +4,8 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-12-session-21"
 description: "Goddess of Chaos in Al Askar, consumed by Vecna."
+race: "Deity"
+status: "Dead"
 ---
 
 Fawden is the goddess of Chaos in the world of Al Askar, one of the last remaining deities being slowly devoured by Vecna (operating through Zalaam). Her consumption has been the cause of the increasing wild magic and High Storms plaguing the world. As Vecna consumed more of her essence, the moon dipped lower and magical instability worsened across the land.

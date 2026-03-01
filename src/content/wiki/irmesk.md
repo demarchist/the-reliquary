@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Irmesk"]
 firstAppearance: "chapter-05-session-02"
 description: "New Burgomaster of Barovia village who took over after his father's death at Strahd's hands."
+race: "Human"
+status: "Alive"
 ---
 
 ## Background

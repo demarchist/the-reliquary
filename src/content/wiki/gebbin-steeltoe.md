@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Gebbin", "Gebbin Steeltoe"]
 firstAppearance: "chapter-06-session-01"
 description: "Dwarven patrol captain on the Rauvin River whose bridge patrol was saved by the group, earning them an escort into Sundabar."
+race: "Dwarf"
+class: "Fighter"
+status: "Alive"
 ---
 
 Gebbin Steeltoe is a Dwarven patrol captain commanding a twelve-dwarf bridge patrol along the river Rauvin near Sundabar. He was first encountered in desperate straits — his patrol holding a squat stone bridge against a horde of goblinoids, dozens of orcs, goblins, ogres and two hill giants.

@@ -6,6 +6,8 @@ firstAppearance: "chapter-06-session-07"
 description: "A retired veteran of the 3rd Special Actions Detachment — massively built and axe-wielding — who came out of retirement for one last mission against the Illithids."
 race: "Human"
 affiliation: "3rd-special-actions-detachment"
+status: "Alive"
+home: "gashaus"
 ---
 
 Halar is a retired operator of the 3rd Special Actions Detachment, the Silverymoon military unit known as the Mindslayers. Broader across the shoulders than even Garm, with a thick neck and arms that strain his shirt, he bears the permanent squint of someone who spent decades staring into darkness. His blond hair is pulled back in a warrior's knot.

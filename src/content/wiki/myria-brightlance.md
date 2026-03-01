@@ -4,6 +4,9 @@ category: "People"
 aliases: ["Myria", "Myria Brightlance"]
 firstAppearance: "chapter-02-session-08"
 description: "Elf warrior hired by Lord Neverember to guide the party into the Chasm beneath Neverwinter."
+race: "Elf"
+class: "Fighter"
+status: "Alive"
 ---
 
 ## Background

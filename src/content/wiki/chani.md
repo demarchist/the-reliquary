@@ -4,6 +4,10 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-07-session-13"
 description: "Human monk and Amnian retainer who became an ally of the party."
+race: "Human"
+class: "Monk"
+status: "Alive"
+affiliation: "amnians"
 ---
 
 Chani is a human monk who serves as a retainer and bodyguard within the Amnian diplomatic delegation, working alongside the Earth Genasi warrior Gneiss. Alert and disciplined, Chani is a skilled martial artist who fights with her fists and a quarterstaff. The party first encountered her and Gneiss as opponents during the Amnian Coup in Silverymoon before meeting them again under diplomatic circumstances at the Bumidere estate.

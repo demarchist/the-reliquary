@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Wachter", "Fiona Wachter"]
 firstAppearance: "chapter-05-session-06"
 description: "Noblewoman of Vallaki who opposes the Burgomaster."
+race: "Human"
+status: "Dead"
 ---
 
 Lady Fiona Wachter is a noblewoman of Vallaki and a practising necromancer who openly opposes Burgomaster Vargas Vallakovich. She leads a faction seeking to overthrow the Burgomaster, believing accommodation with Strahd Von Zarovich is preferable to tyranny, forced festivals, and oppression. Cunning and politically shrewd, she cultivates allies among the discontented citizens while maintaining a devil-summoning circle in her basement.

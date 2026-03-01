@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Chrysalis"]
 firstAppearance: "chapter-12-session-01"
 description: "Leader of the Oasis trading post in Al Askar."
+race: "Human"
+status: "Alive"
 ---
 
 ## Background

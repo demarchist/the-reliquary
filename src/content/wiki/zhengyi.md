@@ -4,6 +4,9 @@ category: "People"
 aliases: ["The Witch-King", "Zenghi", "Zenghi the Lich"]
 firstAppearance: "chapter-06-session-10"
 description: "Lich king of Vaasa whose return threatens the North. Also referred to as Zenghi."
+race: "Human Lich"
+class: "Wizard"
+status: "Alive"
 ---
 
 Zhengyi, the Witch-King, is a powerful lich who once ruled the desolate land of Vaasa with an iron fist, commanding armies of undead and monstrous servants. His original reign of terror was ended by a coalition of heroes, but the wizard Theodemir sacrificed his very life force to cast a spell that kept Zhengyi sealed away. For years this spell held, but a greater power has been slowly unraveling the enchantment, backing the lich's return.

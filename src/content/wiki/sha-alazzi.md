@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Sha'Alazzi"]
 firstAppearance: "chapter-02-session-01"
 description: "Powerful merchant and enchanter who operates Sha'Alazzi's Magic Emporium at the Neverwinter Festival."
+race: "Human"
+status: "Alive"
 ---
 
 ## Background

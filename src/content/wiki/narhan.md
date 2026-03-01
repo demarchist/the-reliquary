@@ -4,6 +4,8 @@ category: "People"
 aliases: ["Narhan"]
 firstAppearance: "chapter-12-session-09"
 description: "Al Askar's god of Knowledge who appeared to Feanon in the Temple of Karthus, revealing that Zalaam is an imposter."
+race: "Deity"
+status: "Alive"
 ---
 
 ## Description

@@ -4,6 +4,9 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-06-session-04"
 description: "A powerful wizard who sacrificed his life to create the Eye of Aren and bind the lich Zhengyi — his spirit enduring first within the artifact, then within Fëanon's Ring of Mind Shielding."
+race: "Human"
+class: "Wizard"
+status: "Dead"
 ---
 
 Theodemir was a powerful wizard, a senior member of the Conclave of Silverymoon, and Fëanon's mentor. An old man of weathered features, long grey beard, and simple robes, he carried a staff that hummed with barely contained power — and bore the weight of centuries of study with quiet dignity.

@@ -4,6 +4,8 @@ category: "People"
 aliases: ["The Morninglord"]
 firstAppearance: "chapter-05-session-01"
 description: "God of dawn, renewal, birth, and creativity."
+race: "Deity"
+status: "Alive"
 ---
 
 Lathander, the Morninglord, is the god of dawn, spring, birth, renewal, creativity, and youth. His faith is one of the most widely practiced in Faerûn, with temples and shrines in nearly every settlement. Lathander's clergy are optimistic and active, encouraging new beginnings and the pursuit of creative endeavors. His symbol, a stylized sunrise, is a beacon of hope across the Realms.

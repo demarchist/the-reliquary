@@ -4,6 +4,8 @@ category: "People"
 aliases: []
 firstAppearance: "chapter-12-session-03"
 description: "Vampire lord who ruled the city of Iyum in Al Askar."
+race: "Human"
+status: "Dead"
 ---
 
 Rudjek was a vampire lord, referred to as a Shaa'barid (The Cold One), who ruled the city of Iyum in Al Askar with cruel tyranny. His reign was characterized by dark magic, torture, and the exploitation of his subjects, including maintaining a personal dungeon and hunting ground beneath a great pyramid. He worked alongside a Grand Vizier who served the Cult of the Black Skull, and together they created dark magical items in the Magi Tower.

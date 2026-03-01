@@ -15,7 +15,8 @@ The Faerûn Defense Force is a council of powerful adventurers who govern the Ba
 - **Horatio Von Bumidere (Buumi)** — Human Paladin
 - **Tarkathee Daru (Tark)** — Halfling Monk
 - **Aliyah Faen Tlabbar (Patches)** — Drow Rogue
-- **Gundren Rockseeker** — Dwarf Gunslinger
+- **Gundren Rockseeker** — Mountain Dwarf Gunslinger
+- **Doctor Breakfast (Doc)** — Gnome Druid
 - **Snorbul** — Svirfneblin Barbarian
 - **Jack Mayer Johnson Mathews (JmJm)** — Half-Elf Bard
 - **Thorna** — Air Genasi Cleric

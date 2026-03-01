@@ -6,6 +6,7 @@ firstAppearance: "chapter-02-session-01"
 description: "A golden lich and child of Orcus who infiltrated the party as a charming adventurer, betrayed them for a shard of The Last Word, and ultimately besieged Baldur's Gate before being destroyed."
 status: "Dead"
 affiliation: "orcus"
+race: "Lich"
 ---
 
 Kangaxx was a liar of extraordinary talent. He first appeared as a gold-toothed adventurer — charismatic, helpful, eager to join the group's mission into the celestial vault beneath Neverwinter's Chasm. He laughed at their jokes, fought at their side, and earned their trust over the course of several dangerous sessions underground. None of them suspected what he was until it was too late.
