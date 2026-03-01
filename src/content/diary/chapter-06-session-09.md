@@ -6,6 +6,7 @@ session: 9
 summary: "Free of the Illithid hive, the group camps in the devastated crater, heals the Amnian survivors, and escapes by improvised glider — crash-landing in the mountains before stumbling upon a young Red Dragon named Vaelstraza bathing in volcanic hot springs."
 people:
   - "aliyah-faen-tlabbar"
+  - "alura"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -24,6 +25,7 @@ things:
   - "bag-of-holding"
   - "gwen"
 factions:
+  - "3rd-special-actions-detachment"
   - "amnians"
   - "illithid-faction"
 ---

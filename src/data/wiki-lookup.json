@@ -1,4 +1,24 @@
 {
+  "3rd special actions detachment": {
+    "slug": "3rd-special-actions-detachment",
+    "title": "3rd Special Actions Detachment",
+    "category": "Factions"
+  },
+  "mindslayers": {
+    "slug": "3rd-special-actions-detachment",
+    "title": "3rd Special Actions Detachment",
+    "category": "Factions"
+  },
+  "the mindslayers": {
+    "slug": "3rd-special-actions-detachment",
+    "title": "3rd Special Actions Detachment",
+    "category": "Factions"
+  },
+  "3rd sad": {
+    "slug": "3rd-special-actions-detachment",
+    "title": "3rd Special Actions Detachment",
+    "category": "Factions"
+  },
   "the abyss": {
     "slug": "abyss",
     "title": "The Abyss",
@@ -82,6 +102,11 @@
   "aliyah": {
     "slug": "aliyah-faen-tlabbar",
     "title": "Aliyah Faen Tlabbar",
+    "category": "People"
+  },
+  "alura": {
+    "slug": "alura",
+    "title": "Alura",
     "category": "People"
   },
   "amaram": {
@@ -347,6 +372,16 @@
   "the horned king": {
     "slug": "baphomet",
     "title": "Baphomet",
+    "category": "People"
+  },
+  "baroness elsa": {
+    "slug": "baroness-elsa",
+    "title": "Baroness Elsa",
+    "category": "People"
+  },
+  "elsa": {
+    "slug": "baroness-elsa",
+    "title": "Baroness Elsa",
     "category": "People"
   },
   "barovia": {
@@ -810,6 +845,21 @@
     "category": "People"
   },
   "sejuk": {
+    "slug": "dean-sejuk",
+    "title": "Dean Sejuk",
+    "category": "People"
+  },
+  "sajuuk stomru": {
+    "slug": "dean-sejuk",
+    "title": "Dean Sejuk",
+    "category": "People"
+  },
+  "sajuuk": {
+    "slug": "dean-sejuk",
+    "title": "Dean Sejuk",
+    "category": "People"
+  },
+  "the untouched": {
     "slug": "dean-sejuk",
     "title": "Dean Sejuk",
     "category": "People"
@@ -1344,6 +1394,11 @@
     "title": "Galen Marek",
     "category": "People"
   },
+  "garm": {
+    "slug": "garm",
+    "title": "Garm",
+    "category": "People"
+  },
   "gauntlgrym": {
     "slug": "gauntlgrym",
     "title": "Gauntlgrym",
@@ -1373,6 +1428,21 @@
     "slug": "gemstone-lens",
     "title": "Gemstone Lens",
     "category": "Things"
+  },
+  "georg von strapp": {
+    "slug": "georg-von-strapp",
+    "title": "Georg von Strapp",
+    "category": "People"
+  },
+  "georg": {
+    "slug": "georg-von-strapp",
+    "title": "Georg von Strapp",
+    "category": "People"
+  },
+  "captain von strapp": {
+    "slug": "georg-von-strapp",
+    "title": "Georg von Strapp",
+    "category": "People"
   },
   "gerwan": {
     "slug": "gerwan",
@@ -1522,6 +1592,11 @@
   "gzunteit": {
     "slug": "gzunteit-the-bold",
     "title": "Gzunteit the Bold",
+    "category": "People"
+  },
+  "halar": {
+    "slug": "halar",
+    "title": "Halar",
     "category": "People"
   },
   "halrak sudrin": {
@@ -2069,6 +2144,11 @@
     "title": "Kenshi",
     "category": "People"
   },
+  "khelon": {
+    "slug": "khelon",
+    "title": "Khelon",
+    "category": "People"
+  },
   "kimmuriel": {
     "slug": "kimmuriel",
     "title": "Kimmuriel",
@@ -2143,6 +2223,11 @@
     "slug": "lady-taurus",
     "title": "Lady Taurus",
     "category": "People"
+  },
+  "ladypeak": {
+    "slug": "ladypeak",
+    "title": "Ladypeak",
+    "category": "Places"
   },
   "laeral silverhand": {
     "slug": "laeral-silverhand",
@@ -2387,6 +2472,11 @@
   "officer li": {
     "slug": "magistrate-li",
     "title": "Magistrate Li",
+    "category": "People"
+  },
+  "maria": {
+    "slug": "maria",
+    "title": "Maria",
     "category": "People"
   },
   "master koh": {
@@ -2792,6 +2882,16 @@
   "rahadin": {
     "slug": "rahadin",
     "title": "Rahadin",
+    "category": "People"
+  },
+  "rama al kayan": {
+    "slug": "rama-al-kayan",
+    "title": "Rama Al Kayan",
+    "category": "People"
+  },
+  "rama": {
+    "slug": "rama-al-kayan",
+    "title": "Rama Al Kayan",
     "category": "People"
   },
   "ras alkan": {
@@ -3853,6 +3953,16 @@
     "slug": "vargas-vallakovich",
     "title": "Vargas Vallakovich",
     "category": "People"
+  },
+  "the vault of sages": {
+    "slug": "vault-of-sages",
+    "title": "The Vault of Sages",
+    "category": "Places"
+  },
+  "vault of sages": {
+    "slug": "vault-of-sages",
+    "title": "The Vault of Sages",
+    "category": "Places"
   },
   "vecna": {
     "slug": "vecna",

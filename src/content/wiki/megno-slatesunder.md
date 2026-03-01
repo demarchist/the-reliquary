@@ -6,7 +6,9 @@ firstAppearance: "chapter-06-session-03"
 description: "A Dwarven Enchanter, old friend of Fëanon, and co-creator of Buumi's prosthetic arm — equal parts scholar, artisan and adventurer."
 ---
 
-Megno Slatesunder is a Dwarven Enchanter who maintains a workshop near the Everfire in Sundabar's Undercity. An old friend of Fëanon's, he was initially apprehensive when the wizard appeared wearing an Illithid mask — a reaction that melted into genuine joy once Fëanon removed it and Megno realised his friend was free of the Mind Flayers' enthralment.
+Megno Slatesunder is a Dwarven Enchanter who maintains a workshop near the Everfire in Sundabar's Undercity. One of Theodemir's five acolytes, Megno participated in the conspiracy to entrust the Eye of Aren to the Illithid Elder Brain Nostalgia for Infinity beneath Ladypeak — a decision that haunted him for decades after the Elder Brain's betrayal shattered Fëanon's mind. During the crisis in the hive, Megno swung his hammer at the attacking Illithids and helped drag the broken Fëanon to safety.
+
+An old friend of Fëanon's, he was initially apprehensive when the wizard appeared wearing an Illithid mask — a reaction that melted into genuine joy once Fëanon removed it and Megno realised his friend was free of the Mind Flayers' enthralment.
 
 Megno is a gifted craftsman whose workshop is cluttered with half-finished prototypes, many of them admirable but imperfect attempts to replicate Gundren's artificing work — a fact that amuses both dwarves and fuels a companionable rivalry. His true talents lie in enchantment and ancient languages, particularly Old Delzoun. When the group brought him a mysterious Dwarven adventurer's journal, he attacked the translation with enthusiasm, eventually uncovering information significant enough to leave even Fëanon speechless.
 

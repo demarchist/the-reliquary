@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cercei"
   - "feanon-serinde"
+  - "georg-von-strapp"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "magistrate-li"

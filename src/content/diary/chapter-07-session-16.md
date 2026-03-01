@@ -12,6 +12,7 @@ people:
   - "demetrius"
   - "doc"
   - "feanon-serinde"
+  - "georg-von-strapp"
   - "gneiss"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"

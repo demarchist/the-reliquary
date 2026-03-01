@@ -18,9 +18,11 @@ people:
   - "theodemir"
   - "zhengyi"
 places:
+  - "ladypeak"
   - "silverymoon"
   - "sundabar"
   - "underdark"
+  - "vault-of-sages"
 things:
   - "eye-of-aren"
   - "the-last-word"

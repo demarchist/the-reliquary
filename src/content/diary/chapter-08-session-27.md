@@ -12,6 +12,7 @@ people:
   - "corpsetaker"
   - "doc"
   - "feanon-serinde"
+  - "georg-von-strapp"
   - "gundren-rockseeker"
   - "hemeth"
   - "horatio-von-bumidere"

@@ -44,6 +44,12 @@ In the same temple, he discovered golden scrolls containing High Magic rituals o
 
 In the celestial vault beneath Neverwinter, the group faced a trial that split them between a demon warband and a devil patrol. Fëanon was escorted to a Malbranche devil and, acting as though he were a servant of Asmodeus, delivered a performance convincing enough to get one of the bearded devils executed on the spot. He secured the devils' key to the next trial — a feat of deception that would have impressed even [[Aliyah Faen Tlabbar|Patches]].
 
+## The Illithid Enthrallment
+
+Fëanon's most closely guarded secret — one he himself could not fully remember for fifty years — involves his time as an acolyte of Theodemir in the Conclave of Silverymoon. When the acolytes entrusted the Eye of Aren to the Illithid Elder Brain Nostalgia for Infinity beneath Ladypeak, the Elder Brain betrayed them, attempting to consume their psychic signatures. Fëanon suffered the worst: the probe shattered his psyche, trapping a fragment of his magical essence within the psionic web.
+
+For fifty years, that fragment whispered back to him across the psychic link — a constant background noise of confusion, nightmares, and half-formed thoughts that the Conclave physicians could never explain. The experience drove him from Silverymoon and shadowed every aspect of his life. Through Lei Tan's Grell-based memory reconstruction, the truth was finally revealed. When the party infiltrated Nostalgia for Infinity's hive and Fëanon reclaimed the Eye of Aren, he also called home the lost fragment of himself — and the whispers stopped at last.
+
 ## Mentorship
 
 As the campaign has progressed, Fëanon has evolved from a solitary scholar into something approaching a mentor. He agreed — with initial reluctance — to teach Patches' son wizardry. He took the apprentice Ruthir under his wing. In a conversation with Tark about the responsibility of teaching, he acknowledged the danger of powerful mages losing touch with reality — showing a self-awareness about his own potential for corruption that his younger self might not have possessed.

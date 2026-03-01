@@ -13,6 +13,7 @@ people:
   - "doc"
   - "ernst-von-bumidere"
   - "feanon-serinde"
+  - "georg-von-strapp"
   - "gneiss"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"

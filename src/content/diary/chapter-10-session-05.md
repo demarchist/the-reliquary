@@ -45,6 +45,7 @@ places:
   - "underdark"
   - "vaasa"
 factions:
+  - "3rd-special-actions-detachment"
   - "drow-faction"
 ---
 

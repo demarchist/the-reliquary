@@ -12,6 +12,7 @@ people:
   - "esimir-von-bumidere"
   - "feanon-serinde"
   - "galen-marek"
+  - "georg-von-strapp"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "lodan"
