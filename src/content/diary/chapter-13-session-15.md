@@ -3,6 +3,7 @@ title: The Voyage Home - Finding a Gate
 chapter: 13
 chapterTitle: The Voyage Home
 session: 15
+summary: "The group destroys Alghoul hatchlings and a psychic Shadowfell creature, discovers hidden bombs throughout the Factory, fights a ferrofluid-Sourcework amalgam guarding a Saurian Colossus, and finally locates a Ringed Veil — escaping via Contingency teleport as Vecna confronts Feanon in a Time Stop."
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
@@ -10,6 +11,7 @@ people:
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
+  - "lady-in-white"
   - "vecna"
 places:
   - "barovia"
@@ -17,164 +19,96 @@ places:
   - "golden-tower"
   - "iyum"
   - "machina-factory"
+  - "shadowfell"
+things:
+  - "lodestone"
+  - "sourcework-core"
 factions:
   - "saurians"
 ---
 
-The group takes some time to recover from the explosion.
+## The Contingency
 
-They debate attacking The Lady in White, but decide against it, not knowing her purpose and not willing to take the fight into the sky.  They postpone assaulting her for now.
+The group took time to recover from the failed surgery. They debated attacking the [[Lady in White]] directly but decided against it — they did not know her full capabilities, and taking a fight into the sky above a trapped factory was unwise.
 
-They know that they are in a trap, and that the Non-detection spell from Cirrus wont hide them forever.
+They knew they were inside a trap. [[Cirrus Al-Kayan|Cirrus]]'s Nondetection would not hide them forever.
 
-Feanon decides that now is the time to try something he has been working on - The Spell Advanced Contingency.
+[[Feanon Serinde|Feanon]] decided the moment had come to deploy something he had been preparing: an Advanced Contingency. He pulled out one of the enchanted emeralds looted from [[Baba Lysaga]] in [[Barovia]] and used it to fuel a Teleport spell bound to a specific trigger. If the worst happened, the spell would fire automatically.
 
-He pulls out one of the remaining enchanted emeralds looted from Baba Lysaga in Barovia and uses it to fuel the powerful spell - casting Teleport with a contingency to save them if the criteria are met.
+With a lifeline in place, the group relaxed — slightly — and prepared to finish exploring this level before descending deeper.
 
-Feeling much more secure with a lifeline, the group relaxes a little.
+## The Incinerator
 
-They decide to finish checking out this floor of the facility before heading deeper into the factory and head out after a short rest.
+They returned to the diamond-shaped chamber with the strange crystal coating. Anticipating a trap, they inspected it thoroughly. [[Gundren Rockseeker|Gundren]] was nearly vaporised when the room's mechanism activated — the entire chamber was a trash disposal system, releasing a gas that flash-disintegrated anything non-metallic and non-magical. The crystal coating, soft to the touch, was unlike anything they had seen — a strange material that resisted the disintegration.
 
-They make it back to the large diamond shaped chamber with the strange crystal coating and begin to thoroughly inspect it, anticipating some kind of trap.
+They scavenged metal from the incinerator and recovered a magical box containing a four-sided spell-rune.
 
-They are not disappointed and Gundren is almost vaporized.
+## Clearing the Level
 
-They realize that the entire room is some kind of trash disposal system, releasing a gas which causes a flash disintegration of anything non-metal or magical
+They backtracked to the Beholder-Alghoul barracks and found the creatures' eggs. The hatchlings were dispatched quickly.
 
-The strange crystal coating over everything is soft to the touch (it is plastic) and unlike anything they have ever seen.
+Then they turned to the stairwell — the one that had drawn [[Aliyah Faen Tlabbar|Patches]] involuntarily toward it during the surgery. The dark entity within called to them, projecting psychic manipulation and waves of fear. Feanon was dropped catatonic by a psychic assault, but the others attacked the creature. As magic pinned it in place, the entity resolved into a vaguely equine shape — a [[Shadowfell]] horror. The group focused their fire and destroyed it.
 
-They scavenge a decent amount of metal from the incinerator as well as a magical box containing a 4 sided spell-rune.
+The staircase was no longer supernaturally dark. They descended — far deeper than any of the previous levels. After a hundred feet or more, they emerged into a large derelict hallway, its ceiling hanging strangely in places but shored up with recent construction.
 
-They move on from the incinerator
+## The Bombs
 
-They backtrack back to the first chamber of this level; checking the room that had the Beholder Alghouls (and finding their eggs).
+The ground showed heavy recent traffic. They followed tracks to a dead end at the back of the hall — but on closer inspection, a section of wall had been recently removed and replaced. They pulled bricks away, revealing an alcove containing something invisible.
 
-The group makes short work of the Alghoul Beholder hatchlings
+They spent time dispelling the concealment magic until the object materialised: a huge and intricate work of artifice. They studied it carefully and came to a grim conclusion. It was a very large bomb. Based on its size and the alchemy involved, Patches determined it had been supplied from the chemical storeroom above. Based on the volume of missing chemicals, this was likely one of three.
 
-The group then moves to the stairwell down to the lower levels
+They memorised the bomb's alchemical signature and pressed deeper, intent on finding the others before deciding what to do.
 
-Here they come across the strange dark entity in the stairwell and it calls to them, attempting psychic manipulation and fear projections.
+## The Foundry
 
-Feanon is dropped catatonic by a psychic assault but the others realize what is happening and attack the dark entity.
+Grand brass doors opened into a massive automated foundry. The walls and ceiling were covered in machinery — conveyors, smelters, forges, and crucibles — all configured for mass production. Braided cords of precious metals snaked from the equipment to the centre of the room, where something enormous was obscured by a twisting mass of ferrofluid.
 
-Though it is indistinct at first, as magic corrales it, the creature takes a vaguely equine shape.
+The group edged forward. The mass was an amalgam of [[Sourcework Core|Sourcework Cores]] and the same black fluid they had encountered throughout the dungeon. As it began to react to their presence, Feanon pulled out the [[Lodestone]] and opened it.
 
-With the creature identified, the group focuses their fire and the thing is summarily destroyed.
+The magnet was ripped from his hand and sucked into the mass, clicking into place inside whatever the ferrofluid was engulfing. The substance began to grow as the hidden machine powered up.
 
-The dark staircase down is no longer supernaturally ominous and the group descends.
+Cirrus moved in and touched the creature, Planeshifting a huge portion of its mass to another plane. The thing attacked. The group counterattacked, locating and destroying Sourcework Cores within the ferrofluid one by one. They clustered together under Cirrus's Nondetection — which meant every detonating core showered them with debris.
 
-They descend far farther than any of the other staircases and after a good hundred or more feet, they make it to the next level.
+The amalgam disintegrated, its dark material turning to dust and revealing the machine underneath: an ancient [[The Saurians|Saurian]] Colossus, its massive power core reignited by the Lodestone.
 
-They find a large derelict hallway, its ceiling hanging strangely in places but shored up with recent construction and repair efforts.
+Feanon retrieved the Lodestone, powering it down. He and Gundren spent the next two hours extracting the beach-ball-sized power plant. Gundren lamented that they could not take more of the Colossus, but they were already overburdened with salvage.
 
-The ground shows a great deal of recent traffic and the group follows some of the tracks to the back corner of the hall, a seeming dead end.
+They found another hidden bomb in this room, concealed behind a newly built metal wall. In one corner, Feanon recovered an obsidian crystal "tome" — a Saurian data storage device with filing and indexing systems, though it appeared empty.
 
-On closer inspection, they find a section of the wall has recently been removed and replaced and they remove some bricks, finding an alcove behind.
+## The Ringed Veil
 
-They determine that *something *is in the alcove, but it is invisible.
+The foundry's far doors bore intricate depictions of the [[Ringed Veils]] and the Saurian empire. Beyond them lay a vast hangar. Row after row of obsidian Machina covered in precious metals and glowing Sourcework gems filled the space. Empty pedestals lined the walls — docks for the stasis and cloning vats that had been relocated.
 
-The group spends their time dispelling the magic until finally, they make the thing in the alcove appear.
+And there, disassembled on the hangar floor in radial sections, lay a Ringed Veil.
 
-It is a huge and intricate work of artifice.
+The group moved through the hangar as a tight group, checking for traps. They found none. The obsidian Machina appeared to be some kind of database. Feanon connected his crystal tome as an interface and searched the system. He found the address to [[Faerûn]] — and committed it to memory along with four other addresses on the Prime Material Plane.
 
-They pore over the thing until they come to the conclusion that it is a very large bomb.
+With the way home secured, they turned to the Veil. But Patches spotted movement in the foundry behind them. They rushed to the hangar doors and heaved them shut.
 
-Based on the size and how it utilizes the alchemy, Patches determines that it was likely supplied by chemicals from the store-room above.
+## Vecna
 
-Based on the size of this bomb and the store room, this bomb is likely 1 of 3.
+Gundren examined the Ringed Veil. His first pass looked promising, but with the gate partially disassembled, he could not be certain it was safe.
 
-They get the scent of the bomb and then head deeper into this floor, intent on at least finding all the bombs and then deciding what to do about them (several theories are floated, like teleporting the bomb away).
+Then they smelled burning. The centre of the hangar's metal doors began to glow red-hot, the steel smouldering and sagging inward.
 
-They move down the hallway until they come across a grand set of Brass doors.
+The group moved into position. Each person grabbed a section of the Veil, ready to teleport. Gundren warned again that he could not guarantee the gate was safe —
 
-They open the grand set of doors and find a huge automated foundry
+And then everyone froze. Mid-action, mid-breath. All of them — except Feanon.
 
-The walls and ceiling of the place are covered in machinery and equipment and it's clear that it has seen recent use.
+The wizard looked at his companions, locked in place. He looked at the doors. The centre had slagged away entirely, revealing a gaping, molten hole. Through it, watching him, stood [[Vecna]].
 
-Braided cords of precious metals snake from the machinery to the center of the room where something massive is obscured by a twisting mass of ferro-fluid.
+A Time Stop. Feanon activated the Contingency.
 
-The group tentatively moves forward, intent on inspecting the space but not wanting to alert the strange blob in the center of the room.
+"Feanon, this is your last chance," Vecna called out. "Join me — or die."
 
-They realize that the thing is an amalgam of Sourcework cores and the same strange black “fluid” that several other things have been made of in this dungeon.
+But the wizard, his companions, and the Ringed Veil were already gone.
 
-As the mass shifts and begins to notice their presence, Feanon thinks to pull out the Lodestone and he opens it.
+## Iyum
 
-It is ripped from his hand and pulled into the mass of ferrofluid where the Lodestone “clicks” into place into something.
+They arrived in a flash of light and a thundercrack of displaced air — materialising in [[Iyum]], at the [[Golden Tower]].
 
-The Ferrofluid immediately starts to grow and react as whatever it was engulfing is turned on.
+Patches led the group at a sprint to a southwest-facing balcony. A few minutes later, a shockwave rolled across the desert, shaking the city and pushing the clouds apart.
 
-The thing is feeding on something powerful the group can't see.
+The group looked at one another. The blast they had just felt was the Lady in White's bombs — the [[Machina Factory]], and everything inside it, reduced to nothing.
 
-Cirrus moves in and touches the creature, Planeshifting a huge amount of its mass to another Plane.
-
-The thing immediately reacts, attacking the group.
-
-They counterattack, finding Sourcework cores within the ferrofluid and destroying them.
-
-The group gathers around the abomination so that Cirrus’ Nondetection covers them. This means that every core that's destroyed, blows up and showers the group with debris causing some minor injuries.
-
-Before long, the amalgam of ferrofluid and Sourcework cores is destroyed and the strange dark material turns to dust revealing a huge Machina underneath.
-
-Laying in the center of the Sourcework forge is an ancient Saurian Colossus, its massive Sourcework Power Core having been re-ignited by the Lodestone.
-
-Feanon retrieves the Lodestone, powering down the energy core.
-
-Gundren and Feanon spend the next two hours working to remove the Sourcework Core and after some delicate operations, they manage to separate the Beach-ball sized power-plant from the intricate machinery.
-
-Gundren laments that they cannot take more of the Colossus but alas, they are nearly overburdened with the salvage gathered from the place.
-
-They look around the Foundry, inspecting it.
-
-They discover another grand set of doors leading to yet another large chamber, as well as molds, smelters, forges, conveyors and crucibles all automated to produce machina parts.
-
-It appears that the current configuration is to mass produce Power Cores and Gate pieces.
-
-They find another alcove and another invisible bomb in this room, hidden behind a newly constructed metal wall.
-
-In one corner, Feanon finds an Obsidian Crystal “tome”.  It operates like a small library complete with filing and ordering systems, but appears to be empty.
-
-He takes it with him and the group turns their attention toward the large set of doors to the next chamber.
-
-They open the intricate metal doors, showing a depiction of the Ringed Veil and Saurian empire.
-
-Inside this room, they see a vast hangar with row after row of intricate looking obsidian machina covered in arrays of precious metals and glowing sourcework gems.
-
-Around the room are dozens of pedestals that look like something large was once attached - Feanon realizes these are the docks for the Stasis and Cloning vats moved from the place.
-
-And across the hangar, disassembled on the floor into radii, is a Ringed Veil
-
-The group cautiously moves through the hangar as a clump, investigating and checking for traps.
-
-They find no traps, but determine the Obsidian Machina to be some kind of database.
-
-The group is all on edge.  Why haven't the bombs gone off? What is the Lady in White waiting for?
-
-Feanon connects the crystal from the previous room as an interface and after a short search, finds the Address to Faerun in the system and commits it to memory along with 4 other addresses on the Prime Material Plane.
-
-With the address home secured, they turn their attention to the Ringed Veil.
-
-Patches spots some movement in the previous chamber and warns the group.
-
-They rush to the main door and heave it closed, unwilling to take any chances with whatever may have slipped in behind them.
-
-Gundren moves in to begin looking the Veil over.  He does a first pass and everything looks ok, though with the gate partially disassembled he can't be sure.
-
-The group smells burning and they look to the metal doors of the Hangar and note the center beginning to grow red hot and smolder.
-
-The group moves into position, each person grabbing a piece of the gate to prepare to teleport, not wanting to wait for whatever is coming through the door.
-
-Gundren reiterates that he can't be sure the Veil is safe and Feanon turns to talk with him, but notes that all of his companions are frozen mid action.
-
-Feanon looks to the doors and sees that the center has slagged away, revealing a gaping, molten hole.
-
-On the other side of the door, Feanon sees Vecna watching him.
-
-Realizing that he is in a Time Stop, Feanon activates his contingency.
-
-Vecna calls out “Feanon, this is your last chance.  Join me or Die!”.  But the Wizard, his companions, and the Ringed Veil are gone…
-
-The group arrives with a flash of light and thundercrack of displaced air to Iyum and the Golden Tower.
-
-Patches leads the group in a rush out to a Southwest facing balcony.  A few minutes later, the shockwave of a blast reaches Iyum, causing the city to tremble and the clouds to be pushed away.
-
-The group looks to one another in awe, sure that the shockwave they just felt was the blast from the bombs in the Machina Factory…
+They had made it out with seconds to spare.

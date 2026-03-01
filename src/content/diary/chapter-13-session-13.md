@@ -3,138 +3,72 @@ title: The Voyage Home - The Machina Factory
 chapter: 13
 chapterTitle: The Voyage Home
 session: 13
+summary: "The group interrogates captured Mezzoloths, watches the silver man explode from a Sourcework Core, recovers a Lodestone from a hidden puzzle box, and discovers the Lady in White's cloning laboratory — using the Lodestone to bypass a ferrofluid trap and push deeper into the Factory."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "lady-in-white"
+  - "talley"
 places:
   - "machina-factory"
   - "shadowfell"
+things:
+  - "lodestone"
+  - "saurian-firelance"
+  - "sourcework-core"
+factions:
+  - "saurians"
 ---
 
-The group slays the Alghoul, though with great effort.
+## The Cafeteria
 
-The Machina core of the thing detonates on its death, disintegrating what was left of the body.
+The Alghoul's Machina core detonated on death, disintegrating the remains. The group took stock of the room — a derelict cafeteria, tables and chairs splintered and scattered. The nearby kitchen was arrayed mid-cook, but everything had long since spoiled.
 
-The group relaxes a little and takes stock of the room.
+A gouged and scratched metal door led to an adjoining pantry. They bypassed the lock easily and found a group of Mezzoloth fiends inside — four of them engaged in a gambling game, with a fifth working on a titanium lockbox in the back. [[Feanon Serinde|Feanon]] incapacitated them with a spell, and the group bound them for interrogation.
 
-It appears to be a derelict cafeteria, with splintered tables and chairs seemingly scattered by the Alghoul.
+The Mezzoloths confirmed what the group suspected: the [[Lady in White]] controlled this facility. She and her forces had pulled out a few days prior. These Mezzoloths were the last to leave but had decided to loot the place instead — only to run afoul of the Alghoul and barricade themselves in the pantry.
 
-The nearby kitchen in arrayed mid-cook, however everything is decrepit and moldy, the food long spoiled.
+This was indeed the [[Machina Factory]].
 
-A nearby metal door is badly gouged and scratched by the Abomination and the group moved to investigate.
+The group left the fiends tied up, took the titanium lockbox, and jammed the door behind them.
 
-They find the door locked, but easily bypassed.
+## The Silver Man
 
-The door opens, reveling a group of Mezzoloth fiends engaged in a gambling game, with one in the back working on a Titanium Lockbox.
+Back in the cafeteria, the silver man had begun to suffer severe chest pains. The group watched in alarm as he fell to his knees, clutching his sternum.
 
-The group instantly incapacitates them with a spell and they then tie them up for interrogation.
+Having seen several Machina detonate recently, [[Cirrus Al-Kayan|Cirrus]] reacted instantly — containing the man in a globe of Force. Moments later, the silver man exploded. Blinding light filled the sphere, but the containment held. When the light faded, nothing remained.
 
-Looking back at the kitchen, Feanon determines its setup works as a shrine to these fiends, providing sustenance to them.
+The group turned to [[Talley]], the other survivor, who stared at the empty globe in terror. They examined her as thoroughly as they could. As far as they could tell, she was stable — for now.
 
-They discover that "The Lady in White" controls this facility and that her and her forces pulled out a few days ago.
+## The Lockbox
 
-These Mezzoloths were the last to pull out, but thought to loot the place instead, running afoul of the Alghoul and were forced to take shelter in this pantry.
+[[Feanon Serinde|Feanon]] cracked the titanium lockbox the Mezzoloths had been working on. Inside he found a smaller puzzlebox and a Scroll of Cloning. He opened the puzzlebox to reveal an immensely powerful magnet — a [[Lodestone]].
 
-The Mezzoloths confirm that this is indeed the Machina factory.
+Meanwhile, the group checked the other exits from the cafeteria. A door led to a prison. Inside, they found the remains of another subject who had clearly detonated — a [[Sourcework Core]] fragment embedded in the wall, a shard of titanium driven into the ceiling. Whatever the Lady in White was doing here, it was volatile.
 
-The group then leaves them tied up, take the Titanium Lockbox (which Feanon quickly deciphers) and jam the door so it wont easily open again.
+## The Lady's Study
 
-Back in the ruined Cafeteria, the Silver man appears to be suffering from severe chest pain.
+Returning to the cafeteria, they discovered a hidden door. Behind it lay an arcanist's study — the Lady in White's private quarters. The chamber connected back to the main foyer, with a small spiral staircase leading up to the gun emplacement overlooking the entrance.
 
-They watch in horror as the man falls to his knees, clutching his chest.
+[[Gundren Rockseeker|Gundren]] went up and began taking detailed schematics of the [[Saurian Firelance|Firelance]] turret while the others ransacked the study. They found a book of anatomical notes detailing the Lady's work: fusing Machina with humanoid subjects, and more recently, beginning the same process with [[Shadowfell]] monsters.
 
-Having seen several Machina explode recently, Cirrus contains the man in a globe of Force.
+Gundren, meanwhile, had found a second secret — a concealed room within the study, unlocked by pressing a specific brick. Inside stood two exquisitely crafted cloning vats. One contained the corpse of a young woman of Al Askarian descent. Even Feanon was impressed by the craftsmanship.
 
-Moments later, the Silver man explodes, filling the chamber with blinding light, but otherwise causing no damage due to the globe of force.
+They concluded that the Alghoul from the cafeteria may have escaped from one of these vats, and that the corpse might be a clone of the Lady herself. They examined the body until they found what they were looking for: a cubic inch of flesh beneath the armpit that differed subtly from the rest. Feanon cut it out — a scrying focus.
 
-The group looks to Talley, the other survivor of this place, who looks terrified at the prospect of exploding.
+## The Lower Levels
 
-The group looks her over, and as far as they can tell, she's fine.
+Gundren spent the next several hours dismantling and storing the cloning vat components, trading Feanon the Sourcework Core they had recovered earlier as payment. Everyone rested while [[Horatio Von Bumidere|Buumi]] stood guard.
 
-With nothing more to do, the group presses on.
+Near the end of the break, an armoured Shadowfell creature pushed open the front door and wandered in. Gundren sprinted to the Firelance turret and blew it apart with visible glee.
 
-They check the other door from the Cafeteria, finding a prison.
+Heading south from the foyer, the group found a hallway leading to a large chamber filled with metal cabinets, each fitted with a grid of crystal keypads. They cracked as many locks as they could, recovering potions, ancient Firelances, and a newly constructed Flesh Golem powered by a Sourcework Core. Feanon carefully extracted the Core and stashed it.
 
-Inside they find the remains of someone else that had clearly detonated.
+Further down the hallway, they entered a large chamber with a metal mesh floor. As they approached, black tendrils shot from the floor to attack. The group fell back and checked one final door — a chemical storage warehouse filled with Sourcestones and alchemical supplies. [[Aliyah Faen Tlabbar|Patches]] restocked her bomb-making materials and noted that a great deal of chemicals had been removed recently. The group exchanged glances. Missing chemicals meant bombs.
 
-Feanon finds a fragment of a Sourcework core embedded in the wall and Patches finds a fragment of Titanium in the ceiling from the same detonation.
+They returned to the tendril chamber. The attacks resumed, but Feanon realised the metal floor was an illusion — the surface was covered in ferrofluid. He pulled out the Lodestone and opened it. The powerful magnet repelled the black liquid, clearing a path.
 
-Whatever The Lady in White is doing here, it seems to be quite volatile.
-
-Feanon manges to crack the Lockbox the Mezzoloth had and finds a smaller puzzlebox inside as well as a Scroll of Cloning (identified later).
-
-Feanon cracks the smaller Titanium puzzlebox, revealing an immensely powerful magnet - a Lodestone.
-
-Back in the Cafeteria, they give the chamber another thorough look and discover a hidden door.
-
-Behind it is an arcanist's study and they believe it belongs to The Lady in White.
-
-They investigate the chamber, finding that it connects back to the main chamber and a small set of stairs spirals up to the gun emplacement watching the door.
-
-Gundren heads up there and begins taking detailed schematics of the weapon while the others ransack the study
-
-They find a book of anatomical notes, detailing the Lady's work in fusing Machina with humanoids, and that she is beginning to do the same with Shadowfell monsters.
-
-Finding nothing else, they push on, returning to the main Foyer.
-
-They take the south door, opening the metal portal and heading down a long stone hallway.
-
-They find a large chamber filled with metal cabinets of varying sizes, all with a grid of crystal buttons on the front.
-
-They determine the crystal to be keypads and work on cracking as many of the locks as they can.
-
-They find numerous potions, ancient firelances and a newly constructed Flesh Golem run off of a Sourcework Core.
-
-They very carefully remove the Core and Feanon stashes it.
-
-Heading further, they find the long hallway continues and they follow it until they enter a large chamber with a metal mesh floor.
-
-As they get near, a number of black tendrils/spike shoot out to attack and the group falls back to the Locker room.
-
-There is one more door to check and they want to investigate it before dealing with whatever made the black tendrils.
-
-They check the last door and find a Chemical storage warehouse filled with Sourcestones and alchemical supplies.
-
-Patches fills all of her bomb supplies and as she does, realizes that there was a great deal more chemicals here until recently.
-
-The group knows this is a trap and the missing chemicals makes them think "bomb"
-
-They return to the chamber with the black tendrils, which once again shoot out of the floor to attack.
-
-They realize the metal floor is an illusion and instead is simply covered in some kind of black Ferrofluid.
-
-Feanon realizes what he's dealing with and takes out the Lodestone which repulses the black liquid.
-
-He marches across the chamber to the hexagonal inset on the far wall and inserts the Lodestone.
-
-A solid metal floor slides out from the walls, covering the Ferrofluid and opening a door to a set of stairs that lead deeper into the factory…
-
-
-Before they head deeper, they realize they have left Gundren back at the weapon emplacement and return to get him.
-
-Back in the Lady's Study, they find Gundren fascinated by the back wall of the place
-
-He pushes on a brick and the secret room, within the secret room, unlocks.
-
-Inside, he finds two exquisitely made cloning vats.
-
-One contains the corpse of a deceased young woman of Alaskarian descent.
-
-The vats are so finely crafted that even Feanon is impressed.
-
-It seems that the Alghoul from the nearby cafeteria may have broken free of one of these vats.  In which case, The Lady is cloning Alghouls…
-
-They figure that the corpse of the young woman may be a clone of The Lady.  They look over the body until they find what they are looking for - a cubic inch of flesh that looks different from the rest under the armpit.
-
-Feanon cuts it out to scry on The Lady later.
-
-Gundren spends the next several hours dismantling and storing the parts of the Cloning vats in exchange for the Sourcework core that Feanon found.
-
-Everyone takes a much needed break while Buumi stands on guard.
-
-Near the end of the rest, he spots an Armored Shadowfell creature push open the front door and wander in.
-
-Gundren, done with the cloning vat, rushes up to the gun and uses it to blow the thing apart (he does so with glee).
+He marched across the chamber and inserted the Lodestone into a hexagonal inset on the far wall. A solid metal floor slid out from the walls, covering the ferrofluid, and a door opened to stairs leading deeper into the Factory.

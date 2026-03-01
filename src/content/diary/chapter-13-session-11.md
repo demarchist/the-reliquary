@@ -3,6 +3,7 @@ title: The Voyage Home - The Tunnel
 chapter: 13
 chapterTitle: The Voyage Home
 session: 11
+summary: "Hohonu haunts the party's sleep, a tidal wave of insects forces them into a Wall of Force dome, and the group discovers a buried Saurian transport train — fighting through a Kraken and a Machina-infused Mimic to reach underground tunnels leading toward the Factory."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -23,98 +24,50 @@ factions:
   - "saurians"
 ---
 
-The next morning, the group packs their camp and continues their trek toward the Machina factory
+## The Ancient Battlefield
 
-They discover that Tark slept terribly, as Hohonu assaulted him with foul nightmares
+The next morning, the group discovered that [[Tarkathee Daru|Tark]] had slept terribly. [[Hohonu]] had assaulted him with foul nightmares throughout the night — the Death Wyrm still reaching for them from his prison. [[Feanon Serinde|Feanon]] cast Mind Blank on the monk, severing Hohonu's ability to send Dream spells. Tark looked relieved, if exhausted.
 
-Feanon casts Mind Blank on Tark so that Hohonu can no longer send him Dream spells and Tark looks relieved, if tired.
+They set off across the ancient battlefield they had camped beside. Detritus and the corroded hulks of [[The Saurians|Saurian]] war machines littered the expanse. Feanon quickly determined that the area was riddled with magical instabilities — remnants of the cataclysm that had ended the Saurian civilisation — and did his best to guide the group through.
 
-They find themselves setting off for the day on the edge of an ancient battlefield with detritus and ancient machina corpses visible across the expanse.
+It was not enough. [[Cirrus Al-Kayan|Cirrus]] stepped on a buried mine. [[Aliyah Faen Tlabbar|Patches]] attempted to disarm it, but the device detonated, injuring them both. As they pressed on, several ancient automatons rose from the wreckage and gave chase, trailing fields of wild magic. The group outpaced them — until a particularly massive Machina began to stir. Feanon was forced to cast a spell to suppress it, triggering a wild-magic reaction that threw him from his feet. When the wizard recovered, he found himself oddly revitalised.
 
-Feanon determines that the area is riddled with magical instabilities and does his best to lead the group through the dangerous place
+They rushed onward, putting the battlefield behind them.
 
-Cirrus steps on an ancient mine and though Patches attempts to disarm it, the bomb goes off, injuring her and Cirrus.
+## The Swarm
 
-As they move through, several ancient automatons rise to give chase, but the group outpaces them and avoids the wild-magic created by them
+Hours into the day's march, Patches called a halt. She had heard something. Then everyone heard it — a strange rushing sound, growing louder. The trees and undergrowth began to sway and thrash.
 
-Just as they are leaving the area though, a particularly large and ancient Machina begins to rise and Feanon is forced to cast a spell which causes a Wild-magic reaction
+A tidal wave of insects erupted from the jungle, devouring everything in its path.
 
-The blast throws him from his feet and when the wizard recovers, he finds himself revitalized (lvl 8 spell slot regained).
+The group sprinted to Cirrus, who erected a domed Wall of Force just as the swarm crashed over them. The insects blotted out the sun, the dome vibrating with the cacophony of a billion clicking mandibles. The only person outside the dome was [[Jack Mayer Johnson Mathews|JmJm]], who had mounted [[Steden]] and fled into the [[Ethereal Plane]]. From there, he watched the swarm pour over the landscape and noted patches of [[Shadowfell]] energy in the distance.
 
-They rush on, putting distance between themselves and the ancient battlefield and head further into Thueba Swamp.
+The insects moved on. Cirrus dropped the dome. Everyone inside was shaken but unharmed.
 
-They put several hours into the hike, avoiding the deep swamp and keeping to the dry(ish) land.
+They reiterated, with feeling, how much they loathed this world.
 
-Eventually, though, Patches hears something and calls a halt
+## The Machina Worm
 
-Then everyone else begins to hear the strange “rushing” sound and they notice the nearby trees and underbrush swaying and moving
+The swarm had stripped the area of all vegetation, leaving nothing but bare dirt — and in doing so, revealed something buried beneath: a massive brass Machina, seemingly composed of cylinders fifty feet in length, joined together in a chain. A Saurian transport train, embedded in the earth.
 
-A veritable tidal wave of insects comes pouring out of the jungle, devouring all in its path.
+The group forced open a long-corroded door and found passenger compartments within. The decayed remains of [[The Saurians|Saurians]] and elves lay inside, thrown to the front of each carriage as though by a sudden, violent stop. They looted what valuables remained and pushed deeper, draining water from the flooded lower cars as they descended underground.
 
-The group rushes next to Cirrus, who enacts a domed wall of force just as the things swarm over it, blotting out the sun and causing a cacophony of clicks and chittering within the dome of Force.
+At the bottom of the flooded section, a massive tentacled creature erupted from the dark water. The group fought it with bombs and magic, suspecting it to be some variety of Kraken. The thing lashed them with flickering arcs of lightning before Cirrus banished it. They rushed past, draining the next section and pushing deeper until they reached the "head" of the train.
 
-The only person not in the dome is JmJm, who is riding Steeden and flees into the Ethereal Plane.
+They forced open a final door and spilled out into an ancient, derelict tunnel far beneath [[Thueba Swamp]].
 
-He watches the horde of insects from the safety of another Plane and scans the area
+## The Transport Station
 
-He notes patches of Shadowfell energies in the distance
+Not wanting to linger for the Kraken's return, the group pressed forward into the dark, dank tunnels — Patches and [[Snorbul]] leading. They determined that these bored passages were part of a larger Saurian transportation network. If the [[Machina Factory]] was of Saurian construction, these tunnels might lead straight to it.
 
-The insects finally move on
+They walked for hours. The tunnel was mostly intact, though flooded in places with several feet of stagnant water. Nothing disturbed them.
 
-Cirrus drops the dome of Force, everyone who had taken shelter is fine, if rattled.
+Eventually, they spotted an opening ahead — a station for the ancient network. They approached cautiously, and several of the group began to hallucinate. Illusions flickered at the edges of their vision. Fear gripped them without cause. Something resided in the ruins, but nothing attacked.
 
-They reiterate how much they loathe this world
+Living Saurians appeared, descending into the station to address the group. Tark, shielded by his Mind Blank, was unaffected by the deception. Cirrus cast the same protection on himself. Together, they saw through the lies.
 
-JmJm rejoins them, commenting on the nearby shadowfell energies.
+[[Horatio Von Bumidere|Buumi]] moved forward, his divine senses cutting through the illusions. What he found was a massive Mimic — infused with Machina technology and broadcasting hallucinations across the entire station.
 
-The group surveys the devastation of the insect swarm: The whole area has been stripped of all vegetation, leaving bare dirt
+The group fought it. Feanon hit the creature with multiple Disintegrations, peeling away its deceptive layers. They eventually spotted a pulsing, Machina-wreathed gemstone at its core and smashed it. A violent torrent of energy washed outward, melting the surrounding stone and killing the abomination.
 
-This has also revealed a large Brass Machina, seemingly made of cylinders 50ft in length and joined together.
-
-The Machina “worm” is embedded into the ground and the group manages to find a long corroded door and force it open.
-
-They discover that it had passenger compartments and find long decayed corpses of Saurians and Elves inside, thrown to the front of the carriage as if by a sudden stop.
-
-They loot the bodies of valuables and decide to try and delve deeper into the strange Machina
-
-They drain the water from the underground carriage cars and push deeper, going underground 
-
-Just as they reach the bottom of the flooded cars, a massive tentacled monster erupts, attempting to consume the party.
-
-They battle the thing, blasting it with bombs and magic, but it responds with flickering lightning.
-
-They suspect it to be some sort of Kraken
-
-Cirrus Banishes it and the group rushes past, draining another section of train cars and pushing even deeper into the Machina Worm, before finally reaching the “head”
-
-They force open another door and spill out into an ancient, derelict tunnel far beneath the Swamp.
-
-Not wanting to hang around for the Kraken to re-appear, the group heads forward into the dark and dank tunnels - Patches and Snorbul leading.
-
-They determine that these ancient Saurian tunnels must be a part of a larger transportation network, and if the factory they are heading to is of Saurian make, they suspect the tunnel to lead straight there.
-
-The group walks for hours, the bored tunnel being mostly intact, though very wet, with several feet of stagnant water at times.
-
-No creatures meet the group in the tunnel
-
-Eventually though, they spot an opening up ahead -  a station for this transportation network.
-
-They approach cautiously and are vexed as several of them begin to hallucinate and see illusions or become frightened.
-
-Indeed, the group attempts to push forwards carefully and know that *something *resides in the ancient Saurian ruins, but nothing attacks them
-
-In fact, they see living Sarians come down into the ruins and address the group, seemingly waiting for the party to show themselves.
-
-Tark with his mind blank, is unaffected, and Cirrus casts the same spell on himself
-
-They do not fall for the things deceptions
-
-Buumi moves forwards, and with his divine sense, finally makes out the creature assailing them
-
-A massive Mimic of some kind, infused with Machina and causing wide-spread hallucinations and illusions.
-
-The group battles the thing, with Feanon hitting it with numerous disintegrations.
-
-Eventually, they spot a pulsing Machina wreathed gemstone at its core, and they smash it, causing a violent torrent of energies to wash out, melting the very stone and finally killing the strange creature.
-
-The group, tired from the battle, take a moment to recuperate before pushing onwards and out of the ruined transport station, hoping to find the Saurian Machina Factory nearby.
+Tired from the battle, they took a moment to recover before pushing on through the ruined station, hoping the [[Machina Factory]] was close.

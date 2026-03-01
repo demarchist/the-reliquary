@@ -13,6 +13,7 @@ people:
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "jareem"
+  - "lady-in-white"
   - "selune"
   - "snorbul"
   - "tarkathee-daru"

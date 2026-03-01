@@ -1939,6 +1939,16 @@
     "title": "Lady Faye",
     "category": "People"
   },
+  "the lady in white": {
+    "slug": "lady-in-white",
+    "title": "The Lady in White",
+    "category": "People"
+  },
+  "lady in white": {
+    "slug": "lady-in-white",
+    "title": "The Lady in White",
+    "category": "People"
+  },
   "lady taurus": {
     "slug": "lady-taurus",
     "title": "Lady Taurus",
@@ -2033,6 +2043,11 @@
     "slug": "lodan",
     "title": "Lo'Dan",
     "category": "People"
+  },
+  "lodestone": {
+    "slug": "lodestone",
+    "title": "Lodestone",
+    "category": "Things"
   },
   "lolth": {
     "slug": "lolth",
@@ -2889,6 +2904,21 @@
     "title": "Snorbul's Hole",
     "category": "Places"
   },
+  "sourcework core": {
+    "slug": "sourcework-core",
+    "title": "Sourcework Core",
+    "category": "Things"
+  },
+  "sourcework cores": {
+    "slug": "sourcework-core",
+    "title": "Sourcework Core",
+    "category": "Things"
+  },
+  "sourcework power core": {
+    "slug": "sourcework-core",
+    "title": "Sourcework Core",
+    "category": "Things"
+  },
   "spellforge": {
     "slug": "spellforge",
     "title": "Spellforge",
@@ -3038,6 +3068,11 @@
     "slug": "svirfneblin-faction",
     "title": "The Svirfneblin",
     "category": "Factions"
+  },
+  "talley": {
+    "slug": "talley",
+    "title": "Talley",
+    "category": "People"
   },
   "talon": {
     "slug": "talon",

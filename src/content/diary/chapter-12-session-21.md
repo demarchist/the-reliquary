@@ -17,6 +17,7 @@ people:
   - "jack-mayer-johnson-mathews"
   - "jareem"
   - "karthus"
+  - "lady-in-white"
   - "liara"
   - "lolth"
   - "mordenkainen"

@@ -3,12 +3,14 @@ title: The Voyage Home - Entering the Factory
 chapter: 13
 chapterTitle: The Voyage Home
 session: 12
+summary: "The group discovers two amnesiac survivors near the Machina Factory, fights through a Firelance turret and a Machina-fused Alghoul, and enters the facility — learning that the mysterious Lady in White has recently pulled her forces out."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "lady-in-white"
   - "tarkathee-daru"
   - "vecna"
 places:
@@ -21,88 +23,44 @@ factions:
   - "saurians"
 ---
 
-The group is tired and the subterranean ruins of this place seem as good as any to take a rest.
+## The Survivors
 
-Cirrus, Buumi and Feanon begin to set up camp while Tark, Patches and JmJm head up the ancient stairs to scout the ruins above (and make sure its safe).
+The subterranean ruins seemed as good a place as any to rest. [[Cirrus Al-Kayan|Cirrus]], [[Horatio Von Bumidere|Buumi]], and [[Feanon Serinde|Feanon]] set up camp while [[Tarkathee Daru|Tark]], [[Aliyah Faen Tlabbar|Patches]], and [[Jack Mayer Johnson Mathews|JmJm]] climbed the ancient stairs to scout the ruins above.
 
-The scouts ascend hundreds of feet before finding themselves at an overgrown set of crystal bars leading to a large entry-chamber.
+The scouts ascended hundreds of feet before reaching an overgrown set of crystal bars blocking a large entry chamber. Sunlight streamed through an open archway beyond. Tark and Patches teleported past the bars, leaving JmJm behind.
 
-They are blocked from going farther, but see sunlight streaming in from an open archway.
+In the overgrown foyer, they found two figures. One was a man of average height and powerful build, his skin made of shining silver. The other was an exceedingly tall, athletic woman wearing tribal furs who shimmered and vanished from sight.
 
-Tark and Patches teleport through, leaving JmJm at the bars
+Contact was made — though JmJm took a rock to the face from the startled silver man. After apologies, conversation revealed that neither stranger had any memories before the last few days. The group brought them back to camp.
 
-Beyond the foyer archway, they can see Thueba Swamp and a massive stone structure.
+At camp, Feanon caught [[Vecna]] watching them and moved to stand beside Cirrus, taking advantage of his Nondetection aura. Buumi cooked for everyone, finally producing something that Cirrus actually liked. The group concluded that the two strangers had likely escaped from the nearby [[Machina Factory]] as some kind of experiment. They had no way of knowing if the newcomers were safe, but chose to watch them quietly and treat them as they would anyone else.
 
-In the overgrown foyer itself, they see two figures
+## The Grand Edifice
 
-One seems to be a man of average height with a powerful build, but his skin is seemingly made of shining silver.
+The next morning, they ascended the stairs and exited through the foyer. Before them stood a grand [[The Saurians|Saurian]] edifice sinking into the mire — a once-magnificent structure slowly being reclaimed by [[Thueba Swamp]]. Extreme corruption blanketed the area, and recent signs of movement and wreckage marked the grounds.
 
-The other is an exceedingly tall and athletic woman wearing tribal furs who shimmers and disappears from view.
+Inside, they found the remains of many vats and holding tanks. Feanon noted their similarity to cloning vats, though he suspected they were for stasis. The newcomers recognised the tanks — they had recently been inside ones just like them, until a storm shattered the glass and they fled into the nearby ruins.
 
-The scouts make contact with the strangers, though JmJm takes a rock to the face from the Silver man (who was surprised)
+One vat remained intact, and within it slumbered a mutated [[Shadowfell]] creature. The number of broken vats around it made the implication clear. They did not disturb it.
 
-They apologize for the intrusion and after some talking, determine that these two strangers have no memories before the last few days and decide to take them back to the camp
+## The Front Door
 
-They return to camp with the strangers
+The main entrance to the Factory proper was a grand metal door, untouched by the corruption saturating everything around it. The silver man wrenched it open with considerable effort — it swung on oiled hinges — and the moment it cleared the frame, a hurricane of [[Saurian Firelance|Firelance]] fire erupted from within.
 
-Back at camp, Feanon sees Vecna watching them, and moves over to Cirrus to take advantage of his non-detection
+The group rushed through the chokepoint. A gatling Firelance turret mounted on a statue twenty feet above the chamber floor poured an unending stream of fire into the foyer. They spotted a gunner behind the weapon. As they moved, a choking, burning fog filled the entryway.
 
-Buumi cooks for everyone including Cirrus (who finally likes something he has made)
+Tark and the silver man reached the turret and threw the creature from the gunner's seat. A Mezzoloth fiend — one of the Yugoloth mercenaries they had been warned about. The silver man crushed its head before it hit the ground.
 
-The group talks about the newcomers and decide they have likely escaped from the nearby machina factory as some kind of experiment.
+Annoyed at losing a potential source of intelligence but not dwelling on it, the group entered the foyer and pulled the door shut behind them.
 
-They have no idea if they are *safe* but decide to watch them but otherwise treat them as they would anyone else.
+## The Alghoul
 
-They rest safely that night and awake the next day intent on investigating the Machina factory nearby.
+The two newcomers still could not remember much about their captivity — only that something had been done to them, and that their chests ached from the exertion of battle.
 
-They leave the subterranean ruins, ascending the stairs and exiting through the overgrown foyer.
+As the group debated their next move, Patches scouted a nearby tunnel and spotted a chamber ahead. When she returned to report, a blast of concussive force knocked her to the ground. Something in the tunnel had struck her — but she could not see it.
 
-Before them, they see a grand edifice sinking into the mire of the swamp - a once magnificent saurian structure
+They advanced cautiously, finding a derelict room at the end of a short hallway. A sparse webbing of corruption covered the walls. Two Alghoul eggs sat in the corner.
 
-They move in, noting the extreme corruption around the place, as well as the recent signs of movement and wreckage.
+As they moved to destroy the eggs, the mother revealed itself from hiding. This Alghoul was different from any they had encountered before — Machina and metal were twisted into its physique, and it could unleash concussive blasts of force. Feanon disintegrated its legs while the others smashed the eggs. The beast was ferocious even maimed, but with the eggs dealt with, the group rallied and tore it apart.
 
-They move in cautiously and see the remains of many vats and holding tanks.
-
-Feanon notes their similarities to Cloning vats, but thinks they may be for Stasis.
-
-The newcomers say they recognize the tanks, they were recently in some themselves until a storm shattered them, and they fled into the nearby ruins.
-
-They find an intact vat, within which slumbers a mutated Shadowfell creature, one they well know the hostility of.
-
-They see the number of other broken vats and decide not to linger in the open.
-
-They do not disturb the creature and move their attention to the main door to the Machina factory, a grand metal door, untouched by the corruption all around. 
-
-The Silver man moves in and opens the door with considerable effort, but it opens on oiled hinges
-
-The group moves in quickly to get through the door and out of the corruption, but the moment the door swings open, something moves within the chamber and a hurricane of Firelance shots erupts from within
-
-The group rushes in, through the choke point and out of the corruption and they see a weapon setup in a statue, twenty feet from the ground overlooking the chamber.
-
-The gatling Firelance turret spews forth an unending stream of fire, but the group notes a gunner behind it.  As they do, the foyer becomes obscured by a choking, burning fog.
-
-Tark and the Silver man manage to get to the turret and toss the creature from the gunners seat
-
-They recognize a Mezzoloth Fiend, but the Silver man crushes its head as it falls to the ground, killing it.
-
-Annoyed at losing a prisoner to talk to, but not sweating it too much, the group enters the foyer of the Machina factory and shuts the door enough to be secure.
-
-They take stock of their options.
-
-The two newcomers still cannot remember much about their time here, only that something was done to them, and their chests hurt from exerting themselves in battle…
-
-As they are deciding where to go, Patches scouts a nearby tunnel, spotting a chamber ahead, but when she returns to tell the group, she is attacked by a blast of concussive force and knocked to the ground.
-
-There was *something *that attacked her from the tunnel, but she couldn't see it.
-
-The group moves forward cautiously, finding a derelict room at the other end of a short hallway
-
-Inside the room is a sparse webbing of corruption and concerningly they find two Alghoul eggs.
-
-As they move in to destroy the eggs, the mother Alghoul reveals itself from hiding and attacks the group
-
-It looks *wrong *compared to other Alghouls they have seen, this one having Machina and metal twisted into its physique and it seems able to let loose concussive blasts of force (the thing that attacked Patches).
-
-Feanon disintegrates its legs as the others focus on smashing the eggs, but the beast is strong and not easily slain.
-
-With the threat of the eggs gone, the group rallies and turns to focus all their efforts on destroying the Alghoul abomination!
+The [[Lady in White]]'s experiments, it seemed, went well beyond cloning vats.
