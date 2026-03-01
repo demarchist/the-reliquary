@@ -17,6 +17,7 @@ people:
   - "lady-faye"
   - "lemerlais"
   - "lolth"
+  - "magistrate-li"
   - "moradin"
   - "orcus"
   - "pickles"

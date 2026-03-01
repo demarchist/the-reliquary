@@ -19,8 +19,8 @@ people:
   - "jack-mayer-johnson-mathews"
   - "jarlaxle"
   - "lathander"
-  - "li-xian"
   - "lodan"
+  - "magistrate-li"
   - "pickles"
   - "ruthir"
   - "snorbul"
@@ -67,7 +67,7 @@ Wounded, bloody, and exhausted, most of them shuffled into [[The Establishment]]
 
 The smoke-filled room was packed with Svirfneblin traders from [[Blingdenstone]], enjoying a raucous game. [[Aliyah Faen Tlabbar|Patches]] told them to leave. Recognising the war-weary drow, they scooped up their winnings and scattered — leaving a generous ruby as a gift for their gracious host.
 
-[[Mr. Pickles|Pickles]] was dispatched to alert Magistrate [[Li Xian]] of the group's return. [[Tarkathee Daru|Tark]] gave the goblin a bone knife from Al Askar as thanks, which Pickles accepted while poking curiously at the monk's missing hand. [[Horatio Von Bumidere|Buumi]] dug through his pack and produced the prosthetic [[Gundren Rockseeker|Gundren]] had crafted — oversized for a halfling, but functional.
+[[Mr. Pickles|Pickles]] was dispatched to alert [[Magistrate Li]] of the group's return. [[Tarkathee Daru|Tark]] gave the goblin a bone knife from Al Askar as thanks, which Pickles accepted while poking curiously at the monk's missing hand. [[Horatio Von Bumidere|Buumi]] dug through his pack and produced the prosthetic [[Gundren Rockseeker|Gundren]] had crafted — oversized for a halfling, but functional.
 
 [[Claudine]] arrived and worked with [[Doc|Doctor Breakfast]] to stabilise Snorbul. The battered gnome woke, still missing limbs, but alive. Food and drink arrived courtesy of a new bartender — a human named Jackie, who mentioned the Barony was experiencing a culinary boom from the influx of refugees and exotic meats brought in from the Evermoors by [[Bolg]] and the orcs. Giant Eel pie, courtesy of Ivan the baker, proved surprisingly good.
 
@@ -75,7 +75,7 @@ Outside, JmJm stormed from his throne to the theatre's front doors and flung the
 
 ## The Briefing
 
-Magistrate [[Li Xian]] descended into the gambling den — a place she had never set foot — and delivered her report with a polite cough at the permanent haze of smoke.
+[[Magistrate Li]] descended into the gambling den — a place she had never set foot — and delivered her report with a polite cough at the permanent haze of smoke.
 
 Four months. That was how long the group had been gone.
 
@@ -121,7 +121,7 @@ The next morning, Patches arrived at Buumi's door with a proposition. She needed
 
 Buumi was deeply hungover and profoundly startled. He thanked her and asked if he could think about it when he was in a proper state of mind.
 
-Meanwhile, Tark walked through the forest toward his dojo. [[Li Xian]] had mentioned that someone was teaching *Tark Kwon Do* there, which meant they were either very good or very foolish.
+Meanwhile, Tark walked through the forest toward his dojo. [[Magistrate Li|Li]] had mentioned that someone was teaching *Tark Kwon Do* there, which meant they were either very good or very foolish.
 
 A flash of light blinded him. A small blonde woman appeared beside him and punched him in the face. As he hit the ground, a blue dragonborn dropped from the trees above. Tark threw Darkness over all of them and fought blind — stunning the dragonborn and trading blows with the woman until both attackers called a halt.
 

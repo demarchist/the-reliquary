@@ -4,6 +4,8 @@ category: "Things"
 aliases: []
 firstAppearance: "chapter-04-session-03"
 description: "Gundren's mechanical lion companion and mount."
+image: "/images/gwen.png"
+imageAlt: "Gwen, a mechanical lion crafted from interlocking steel and brass plates with ornate engravings"
 ---
 
 Gwen is a mechanical lion belonging to Gundren Rockseeker, one of the party's most reliable companions and mounts. Crafted through artifice and enchantment, the lion serves as both a combat asset and a means of transportation, capable of carrying riders and hauling equipment across difficult terrain. Gwen has been with the party since their early adventures in the Bog and has proven invaluable in countless engagements.

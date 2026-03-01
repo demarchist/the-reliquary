@@ -16,6 +16,7 @@ people:
   - "gurnik"
   - "horatio-von-bumidere"
   - "juiblex"
+  - "magistrate-li"
   - "mordenkainen"
   - "mystra"
   - "pickles"
