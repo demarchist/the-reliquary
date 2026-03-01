@@ -20,6 +20,7 @@ people:
 places:
   - "al-askar"
   - "barovia"
+  - "helioglabulus"
   - "neverwinter"
   - "oerth"
 things:

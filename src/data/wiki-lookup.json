@@ -1544,6 +1544,16 @@
     "title": "Helga Stoneheart",
     "category": "People"
   },
+  "helioglabulus": {
+    "slug": "helioglabulus",
+    "title": "Helioglabulus",
+    "category": "Places"
+  },
+  "helios": {
+    "slug": "helioglabulus",
+    "title": "Helioglabulus",
+    "category": "Places"
+  },
   "helm's hold": {
     "slug": "helms-hold",
     "title": "Helm's Hold",
@@ -1793,6 +1803,16 @@
     "slug": "ironarm-mercenary-company",
     "title": "Ironarm Mercenary Company",
     "category": "Factions"
+  },
+  "ishta": {
+    "slug": "ishta",
+    "title": "Ishta",
+    "category": "People"
+  },
+  "ishta faen tlabbar": {
+    "slug": "ishta",
+    "title": "Ishta",
+    "category": "People"
   },
   "ivy mansion": {
     "slug": "ivy-mansion",
