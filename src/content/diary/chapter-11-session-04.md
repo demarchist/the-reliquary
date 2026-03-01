@@ -17,6 +17,7 @@ people:
 places:
   - "underdark"
 things:
+  - "ringed-veils"
   - "the-last-word"
 factions:
   - "duergar-faction"

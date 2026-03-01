@@ -3,7 +3,9 @@ title: The Voyage Home - Into the Depths
 chapter: 13
 chapterTitle: The Voyage Home
 session: 17
+summary: "Cirrus dreams of Fawden's imminent death — four days remain — and the group Wind Walks thousands of miles to the Obsidian Order's hidden camp near the Sea of Silt, where the ancient shaman Umu reads Patches's cursed blood and assigns the ranger Ahmahd to guide them into the depths."
 people:
+  - "ahmahd"
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "doc"
@@ -16,180 +18,93 @@ people:
   - "sultan-bashir"
   - "tarkathee-daru"
   - "thorna"
+  - "umu"
   - "vecna"
 places:
+  - "al-askar"
   - "faerun"
+  - "font-of-fawden"
   - "golden-tower"
+  - "iyum"
+  - "sea-of-silt"
   - "the-labyrinth"
+things:
+  - "ringed-veils"
 factions:
   - "drow-faction"
   - "obsidian-order"
 ---
 
-Cirrus has a fitful night’s sleep
+## The Dream
 
-He dreams of the same Dark Shore as before, with the endless coils of the eel Zalaam, swallowing Fawden.  
+[[Cirrus Al-Kayan|Cirrus]] slept badly.
 
-This time however, the howls of pain are an agony to Cirrus, and it rends at his mind.
+The dream came again — the dark shore, the endless coils of the eel [[Vecna|Zalaam]] constricting around [[Fawden]], the goddess screaming as she was devoured piece by piece. But this time, the agony was not distant. It tore through Cirrus's mind, shredding at his sanity, until a flash of imagery broke the nightmare: his mother's face, imparted by the dying goddess for reasons Cirrus did not understand.
 
-There’s a flash of imagery and Cirrus awakes, beading with sweat.
+And with it, knowledge. They had four days.
 
-He saw an image of his mother, imparted by Fawden for some reason
+He woke drenched in sweat and rushed to the Gate Room, where [[Gundren Rockseeker|Gundren]] was just finishing the final diagnostic. The dwarf looked hollow-eyed and exhausted — he had been working through the night. Cirrus berated him for the delay, the urgency making his temper sharp, and the commotion drew the rest of the group.
 
-And the knowledge - they have 4 days until Vecna consumes Fawden.
+They gathered around the disassembled [[Ringed Veils|Ringed Veil]]. [[Aliyah Faen Tlabbar|Patches]], Gundren, and [[Feanon Serinde|Feanon]] made a final pass with [[Hasrala]], triple-checking every component. Feanon assembled the gate with Telekinesis for the inspection, then disassembled it back into radial sections for transport.
 
-Cirrus rushes to where Gundren has set up debugging the gate and finds the Dwarf just wrapping up - he’s on the last check, but completely exhausted.
+The gate was clean. It would work.
 
-As Cirrus berates Gundren for slacking (and feeling the time crunch), manages to attract the rest of the group
+## Preparations
 
-They all gather and discuss their next steps while Patches, Gundren and Feanon scour the gate, triple checking it for issues with Hasrala.
+[[Doc|Doctor Breakfast]] arrived from his private chambers, and the group greeted the small druid with genuine warmth. Doc had been working with [[Sultan Bashir|Bashir]] to restore the natural world around [[Iyum]] — every farm within a day's ride was bursting with new growth. When they asked if he could Wind Walk them thousands of miles to the southwest, Doc agreed without hesitation.
 
-Feanon assembles the gate with Telekinesis for the check, and then disassembles it into Radii for transport.
+[[Jareem]] appeared to speak with [[Tarkathee Daru|Tark]] privately. The dragon pressed a small ruby scale into the monk's palm — a token that other Crystal Dragons would recognise as a mark of friendship. It could cast Sending once per day. He also gave the group a crystal dagger — a credential his agents in the [[Obsidian Order]] would accept as proof of his patronage.
 
-It looks good.
+Jareem wished them luck, and left.
 
-Doc B arrives from his private chambers and the group greets the small Druid happily
+## The Sea of Silt
 
-Doc has been assisting Bashir in rebalancing the natural world around the city.  As a result, all of the farms are bursting with growth.
+Doc gathered the group in the main chamber of the [[Golden Tower]]. With a swirling vortex of wind, they dissolved into mist and surged across the continent.
 
-They ask if the Gnome would be able to Wind Walk them far to the South West and Doc agrees heartily.
+They flew for hours. The barren expanse of Al Askar unrolled beneath them — mountain and plain, badland and swamp — until the terrain gave way to the gleaming dunes of the [[Sea of Silt]] on the far southern coast.
 
-While this is happening, Jareem comes to the chamber to meet with Tark and pulls the Halfling aside.
+As they descended, a Khonsfa beetle shook itself from the sand, three figures strapped to its saddle: a Thri-kreen driver and two elves in full desert gear. The group reconstituted on the shimmering dunes, not thirty feet away.
 
-He gifts a small Ruby Scale to the Monk and says that others of his kind (Crystal Dragons) may sense it, and seek him out as friend.  If he needs to talk to Jareem, the Scale can cast a Sending once per day.
+The elves pulled down their sun-goggles and stared. Whatever they had expected, it was not a spell that had not been cast in this world for a thousand years. Tark presented the crystal dagger. The elves examined it, accepted it, and beckoned the group to follow.
 
-He also gives the group a crystal dagger, one his agents in the Obsidian Order will recognize as a token from him.
+The Khonsfa could only carry four or five at a time. The beetle vibrated through the sand, burrowing downward. Cirrus lost his grip and had to Mold Earth his way to the bottom, but the group reassembled in a network of artificial caverns — twisting, rootlike basalt grown rather than carved.
 
-Jareem wishes the group luck and then leaves.
+A massive Thri-kreen warrior stood guard at the entrance. Easily fifteen feet tall, its chitinous plates were inlaid with glowing Sourcestones, and it resembled nothing so much as an engorged praying mantis wrought in living armour. Tark could hear its song of welcome.
 
-The group gathers themselves and prepares to Wind Walk far to the South West, to rendezvous with the Obsidian Order Elves fighting against Vecna, at their camp near the temple of Fawden.
+## Umu
 
-Doc gathers everyone in the main chamber of the Golden Tower, and with a swirling vortex of winds, the group rushes across the land
+The elven camp was arranged in a ring around a central great hall, with dwelling tents lining an outer corridor. Two dozen elves watched the newcomers with guarded curiosity. Patches drew the most stares.
 
-They travel many thousands of miles in only a few short hours - The barren and desolate landscape of Al’Askar stretching before them as they rush across mountain, plain, badland and swamp, to the far southern sea of silt.
+Tark broke the ice by approaching the nearest neighbours. Food was shared — Jilli, a spicy paste of grub-innards, and sweet Khonsfa nectar. [[Thorna]] attempted a spell and triggered a wild magic surge. A nearby elven caster counterspelled the eruption and admonished her sharply. The dark looks that followed made it clear that reckless magic was not tolerated here.
 
-As they approach the area Doc was told about, they see a Khonsfa beetle shake itself out of the sand dunes, three figures attached to it.
+The elves directed them to the great hall, and to [[Umu]].
 
-As the wind, they descend and reconstitute on the gleaming sand dunes of the Sea of Silt.
+She sat at the centre of the chamber, surrounded by grizzled veterans, the oldest elf any of them had ever seen. Her eyes found Doc first, and she went very still.
 
-Not thirty feet away, the massive Khonsfa stands with a Thri-kreen driver and two Elves in full desert gear watch the group wordlessly.
+Nine hundred years, she said quietly. Nine hundred years since she had seen a Druid.
 
-Recovering from the trip quickly, they approach the elves. (having a slight kerfuffle over the dagger Jareem gave to them as a sign of trust).
+Tears welled in her ancient eyes. She moved to excuse herself, but Tark asked if it was allergies.
 
-The elves pull down their sun-goggles and look at the group - having just arrived via a spell not cast in this world for a thousand years.
+Umu barked out a laugh, caught off guard, and sat back down. She was not a druid herself, she explained — she was a Shaman, trained under the last Druid before he was murdered.
 
-With the dagger presented, the Elves have proof who the group is and they are invited into the camp.
+She turned her attention to Patches. She took the drow's hands, inspecting them with clinical interest, remarking that in many ways Patches appeared to be kin — save the purple skin. Then Umu recoiled, hissing. An ancient curse lay in her blood.
 
-They must take the Khonsfa down beneath the sands, but it can only take four or five people at a time, so the group goes in two trips.
+Patches recounted what she knew — the tale of the final Crown War, of [[Lolth]] betraying the Lord of the Elves, of the demon blood that was forced into the veins of the drow as punishment. Umu listened in grim silence. She said there might be a way to cleanse the curse, but it would require altering Patches's tattoo — the one she had received as a mark of betrothal, though she had not understood its meaning at the time. The new tattoo would be infused with the old magic. Patches agreed immediately.
 
-The first group goes.
+The conversation turned to [[Thorna|Thorna's]] past. Umu conducted a brief spirit-walking ritual and returned with an answer: Thorna's destiny lay in the frigid north of Faerûn. And she was not alone — she was one of two.
 
-They grasp the leather on the saddle and the beetle vibrates through the sand.
+Finally, Cirrus pressed the matter. They needed to reach the [[Font of Fawden]], and quickly. He took Umu aside and laid out the urgency. The shaman listened, and agreed. If they could truly deprive [[Vecna]] of Fawden's power, the Obsidian Order would offer the group magical tattoos as thanks.
 
-Cirrus cannot hold on and has to Mold Earth his way down, until he rejoins the group
+She called forward a single ranger to guide them — [[Ahmahd]], a young elven woman in reconnaissance gear who materialised from the shadows at Umu's gesture.
 
-They find themselves in a set of artificial underground caverns seemingly grown from twisting, rootlike basalt.
+## Descent
 
-The Khonsfa returns topside and ferries the rest of the group down beneath the sands.
+They gathered their things and followed Ahmahd to the far end of the encampment, where a single tunnel led downward. The passage wound through a defensive labyrinth of traps and twists, past another Thri-kreen sentinel, and through a final gauntlet of concealed defences.
 
-In the cool, dark cavern they see a huge chitinous form in an alcove, guarding the entrance to this complex - a massive Thri-kreen warrior with swirling chitin-plate and glowing inset sourcestones.  It’s huge, easily fifteen feet tall and akin to an engorged preying Mantis.
+Ahmahd moved quickly. She did not speak.
 
-Tark can hear its song of welcome
+Just as they cleared the last of the Obsidian Order's fortifications, they came upon a sprung trap. A freshly crushed forearm lay in the mechanism — simian, heavily muscled, pale, and matted with coarse hair.
 
-They enter the Elven camp
+Ahmahd pulled down her veil and grimaced.
 
-They find the Elven camp to be arranged in a circle around a central chamber - a great hall.
-
-The outer ring of the camp acts as a “street” with all the dwelling tents set up within.
-
-The group is shown to a dwelling where they can stash anything they may want and take a break.
-
-They look around - they are being stared at by a good two dozen elves.
-
-Patches in particular is getting a lot of curious looks.
-
-Tark heads to their neighbors to break the ice and the group follows his lead.
-
-They chat with the nearby elves, eating a meal of Jilli (spicy Grub guts) and Khonsfa nectar
-
-Thorna tries to cast a spell and causes a wild magic surge. A nearby Elven spellcaster counterspells the surge and admonishes Thorna
-
-They get a lot of dark looks
-
-Thorna complains about getting a drink
-
-They are shown (somewhat exasperatedly) how to drink from the catchpockets of the tents.
-
-Feanon looks around for spellbooks and sees none, but notes a great many arcane focuses and component pouches.
-
-Not wizards, but definitely spellcasters
-
-They inquire with the elves who they should talk to and are directed to the Great Hall to talk with Umu.
-
-The group finishes their meals and then head to the central chamber
-
-Inside they find another two dozen elves, drinking, discussing and generally (reservedly) carousing.
-
-In the center, around the glowing embers of a fire, are a number of grizzled looking elves, all attending an ancient looking crone.
-
-The oldest elf any of them have seen, Umu takes note of them and beckons them over.
-
-She introduces herself and mentions that it has been 900 years since she has seen a Druid, and locks eyes with Doc B.
-
-The ancient elf begins to tear up and moves to excuse herself
-
-Tark asks if its allergies?
-
-Umu barks out a laugh and moves to sit back down, apologizing for her shock
-
-She is not a druid herself, but a Shaman.  She trained under the last Druid before he was murdered.
-
-Thorna asks Umu if she can sense anything about her past.
-
-Umu has no idea, but says she will ask the spirits
-
-The group begins to talk and it becomes clear that Umu is most interested in Patches.
-
-She takes the Dark elf’s hands and inspects them, remarking that in many ways, she appears to be kin, save the purple skin.
-
-Umu hisses and recoils, remarking that an ancient curse lies in her blood and she asks Patches of the history of her people.
-
-Patches does her best to recount the tale of the final Crown War - of Lolth(Aurushnee-something) betraying the Lord of the Elves (Corelly-something) and cursing the blood of the Drow with the blood of a Demon.
-
-Umu remarks that there might be a way to cleanse the curse, but it would require changing Patches tattoo of betrothal (she did not know what it meant when she got the tattoo).
-
-The new tattoo would be infused with magic.
-
-Patches thinks this a great idea
-
-Umu is disheartened by patches account of the Crown War and grows quiet, pondering.
-
-Cirrus has had enough stalling and prompts the Elves - they seek to go deeper, to the Temple of Fawden, and they could use a guide.
-
-Umu is taken aside by Cirrus and convinced of the need of the journey.
-
-Umu even says that if they can indeed deprive Vecna of Fawden, her tribe will offer them magical tattoos as thanks.
-
-A single elven ranger will lead them into the Subterranean Depths - Ms. Ahmahd (red)
-
-She gestures and an elven maiden in recon gear appears out of the shadows.
-
-Thorna asks about her history, and Umu steps aside to conduct a ritual to ask the spirits.
-
-When she returns, she tells Thorna the answers to her questions.
-
-Her destiny lies in the frigid north of Faerun.  And she is not alone.  She is one of two.
-
-The group gathers themselves and their things and with no time to waste, follow Ahmahd to the far end of the encampment, and a single tunnel leading down.
-
-The tunnel moves through a defensive labyrinth of traps and twists, past another Thri-kreen warrior and then through another small gauntlet of defenses.
-
-Ahmahd is moving quickly.
-
-Just as the group is clearing the twisting, grown caverns of The Obsidian Order, they note a sprung trap.
-
-They peer through the dark and note a freshly crushed simian forearm.  Heavily muscled, pale, and hairy.
-
-Ahmahd pulls down her veil and grimaces.  
-
-She whispers:  “Nasnas”.
+*Nasnas*, she whispered.

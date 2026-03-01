@@ -16,6 +16,7 @@ places:
   - "neverwinter"
   - "sharza"
 things:
+  - "ringed-veils"
   - "saurian-firelance"
   - "the-last-word"
 factions:

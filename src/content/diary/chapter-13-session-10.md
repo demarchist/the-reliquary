@@ -18,11 +18,13 @@ people:
 places:
   - "barovia"
   - "ethereal-plane"
+  - "font-of-fawden"
   - "machina-factory"
   - "thueba-swamp"
 things:
   - "arkto"
   - "bag-of-holding"
+  - "ringed-veils"
 factions:
   - "obsidian-order"
 ---

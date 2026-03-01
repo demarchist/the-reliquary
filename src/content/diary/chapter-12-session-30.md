@@ -16,6 +16,7 @@ people:
   - "tarkathee-daru"
   - "vecna"
 places:
+  - "font-of-fawden"
   - "golden-tower"
   - "machina-factory"
   - "sharza"

@@ -23,6 +23,7 @@ things:
   - "arkto"
   - "delzoun-instant-fortress"
   - "piwafwi"
+  - "ringed-veils"
   - "saurian-firelance"
 factions:
   - "cult-of-zalaam"

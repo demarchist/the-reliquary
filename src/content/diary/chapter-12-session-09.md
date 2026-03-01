@@ -22,6 +22,7 @@ places:
   - "ethereal-plane"
   - "faerun"
   - "feywild"
+  - "font-of-fawden"
   - "serinde-isle"
   - "shadowfell"
 things:

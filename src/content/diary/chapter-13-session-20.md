@@ -3,6 +3,7 @@ title: The Voyage Home - The Font
 chapter: 13
 chapterTitle: The Voyage Home
 session: 20
+summary: "The group assembles the Ringed Veil beneath Fawden's dying avatar and begins the ritual with The Last Word, but Vecna arrives, realises the artifact changes everything, and tears open a gate to Sharza — unleashing an army of undead Saurians upon the Font."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -17,171 +18,115 @@ people:
   - "tarkathee-daru"
   - "thorna"
   - "vecna"
+  - "wahid"
 places:
+  - "font-of-fawden"
+  - "iyum"
   - "machina-factory"
   - "sharza"
 things:
   - "bag-of-holding"
   - "eclipse"
+  - "ringed-veils"
+  - "sapphire-circuits"
   - "saurian-firelance"
   - "the-last-word"
 factions:
   - "saurians"
 ---
 
-The group settles in to rest, summoning the mansion while the camping group does their best to hide and conceal themselves
+## The Wahid
 
-They hear some commotion out in the cavern and Patches investigates, finding a small group of the reptilian giant Wahid
+The group settled in to rest. Feanon summoned his Mansion while the camping contingent concealed themselves among the coral and mineral formations of the cavern.
 
-As she moves around the area, she notes the biggest (standing on guard for the others) sniff the air and turn around, scanning the cavern
+[[Aliyah Faen Tlabbar|Patches]] went to investigate movement in the outer passages and found a small group of [[Wahid]] — massive reptilian giants — moving through the cave. The largest stood guard while the others foraged, sniffing the air and scanning the cavern with keen, intelligent eyes. Patches tossed a piece of coral down a side tunnel to distract it. The giant glanced at the sound but was not fooled, resuming its slow, methodical surveillance.
 
-She notes their keen senses and tries to distract it by tossing a nearby piece of broken coral down a side tunnel
+She warned the group, and they agreed to leave the Wahid alone. Stealth was the better path.
 
-It distracts them momentarily but as she moves back to the group to warn them, she notes the big Wahid scanning the cavern again, apparently not fooled
+[[Tarkathee Daru|Tark]] built a blind of broken coral and living flora, camouflaging himself so thoroughly that even Patches struggled to locate him. They settled in for the night.
 
-Patches returns to Tark and warns him and the rest of the group and they debate doing something about the giant reptilians
+Hours into his watch, Tark was startled to see one of the enormous reptilians phase through a nearby wall — stepping through solid rock as if it were no more than a curtain. The creature stood motionless, simply watching the cavern. For hours.
 
-They decide to leave them be, relying on stealth
+Tark did not move.
 
-Tark builds a makeshift blind and coats himself in coral and flora so well that even Patches has a hard time seeing him and they settle in for the “night”
+The Wahid eventually phased back into the stone. Tark remained still. Sure enough, the thing's head emerged from the floor nearby, watching for another hour before disappearing again.
 
-After several uneventful hours, Tark is keeping watch and is startled to see one of the huge reptilians phasing through a nearby wall as if the very rock was no more than an illusion.
+It did not return. Tark woke Patches, warned her, and slept.
 
-He stays perfectly still, watching
+## The Font
 
-And the Wahid does the same, simply watching the area. For hours.
+The next morning, the group reconvened and moved out. They followed the flow of the sacred waters upstream, through the teeming cavern, to a small tunnel in the back ceiling — a fissure festooned with an incredible ecosystem and humming with concentrated magic. [[Gundren Rockseeker|Gundren]] filled a waterskin with the font water and captured a bead of it with Dust of Dryness.
 
-It eventually leaves, phasing back into the rock
+[[Cirrus Al-Kayan|Cirrus]] was impatient, but the group sent [[Snorbul]] ahead to scout. He did not return. After a tense wait, they decided to follow together — better as a group than trickling in one by one.
 
-Tark does not move
+They climbed the fissure, water flowing across their boots, the smooth limestone illuminated by the bioluminescence of Fawden-empowered coral. Time stretched. The ascent felt like an eternity — until the crevasse gave way, and they crawled into a cavern over a hundred feet across.
 
-Sure enough, the things head phases out of the floor nearby and it continues to watch for another hour, before phasing back into the stone
+The living avatar of a goddess hung at its heart.
 
-It does not reappear
+[[Fawden]] was a tree — alien, inverted, its roots spreading up into the ceiling while its branches reached down in a swirling mass. Water dripped from its body in a steady rhythm, falling into a massive basin of solid stone: wide, shallow, and filled with eerily still water broken only by the rhythmic drip from above. Purple light radiated from every surface. Small motes of energy drifted through the too-still air, dissolving to water where they landed. The smell of ozone and ammonia tinged the air. The entire place hummed with potent, ancient magic.
 
-Tark “wakes” Patches and warns her and then rests himself.
+They found Snorbul at the water's edge, entranced. He snapped out of it easily and asked how long he had been there. Honestly, none of them knew.
 
-The rest of the night is uneventful and the group reconvenes in the morning once the mansion spell ends.
+## The Ritual
 
-They move out as a large, loud group and the local wildlife flees from the strange and alien sounds of foreign humanoids
+Cirrus moved to the pool beneath Fawden and plucked something from the water — a pearl of divine power that only he could see. He turned to the group and began to give instructions.
 
-The party investigates the area, determining the flow of the waters (Gundren even grabbing a water-skin of the holy font water and a Dust of Dryness bead of it)
+They assembled the [[Ringed Veils|Ringed Veil]], moving the radial sections into the water beneath the avatar, ensuring the ring of the portal encircled the tree-like structure above. Then they carefully removed [[The Last Word]] from the [[Bag of Holding|bag of holding]], using magic to position the artifact without touching it.
 
-Before long, they are trekking through the cavern, following the flowing water to its source - a small tunnel in the back ceiling, the area festooned with an incredible ecosystem and teeming with magic
+Cirrus began the ritual.
 
-Cirrus is impatient but the group sends Snorbul first to check out the magical tunnel
+Hours passed. [[Doc|Doctor Breakfast]], Gundren, [[Feanon Serinde|Feanon]], and Cirrus channelled energies in concert, building an intricate webwork of fractal spells that spiralled outward from The Last Word and into the body of the Veil. The others inspected the gate for excess heat or malfunctions, prayed, or simply kept watch. [[Jack Mayer-Johnson Mathews|JmJm]] struck up an inspiring tune and waded through the shallows, circling the ritual as a reserve in case someone had to drop out.
 
-He does not come back and before long the group decides to all head in
+The energy built. The Last Word blazed like a tiny star. The runes along the Veil's length glowed brighter with each passing hour, the gate vibrating so powerfully that the pool roiled. Arcs of energy discharged from the artifact and smashed into the inner ring of the Veil. A curtain of distortion rose from the ring's interior, extending in a cylinder to the ceiling and fully encasing the avatar of Fawden. Great swirling fractals of power twisted and spiralled through the arcane motions of the ritual.
 
-Better together than trickling in one at a time
+Then — heat. Too much heat, radiating from a panel on one of the outer radii. They found it: a red-hot section concealing a [[Sapphire Circuits|Sapphire Circuit]] they had missed during the debugging in [[Iyum]].
 
-“*As you move through the crevasse you feel a steady incline in the tunnel.  Water flows across your boots and drips from the walls, making the ascent  difficult.  The cave is lit brightly with the bioluminescence of the Fawden empowered coral, which illuminates the smooth limestone oddly and the climb begins to take on an otherworldly feel.  Time stretches and feels like an eternity, only for the crevasse to suddenly give way. You crawl into a cavern, over a hundred feet in diameter with the living Avatar of a goddess at its heart suspended above a glowing pool. The cavernous expanse of living stone is illuminated by a purple aura of otherworldly energy. Small motes of glowing light drift through the too-still air, alighting on the rock before dissolving to water. Fawden sits at the center of the chamber; an alien tree spreading its roots up into the ceiling as its branches reach down, in a swirling mass.  Water drips from the body of it in a steady rhythm, falling into a massive basin of solid stone.  Wide and shallow and filled with eerily still water, broken only by the rhythmic drip from the Font.  The entire area makes your hair stand on end and your teeth hurt.  The smell of Ozone and Ammonia tinge the air.  The place hums with potent magics.”
-*
+[[Thorna]] hit it with a Ray of Frost, cooling the panel enough for Gundren to devise a fix. They took the braided cord of precious metals recovered from the [[Machina Factory]], engraved with arcane runes, and used it to bridge the circuit — bypassing the sabotage entirely and freezing it into place. The ritual continued.
 
-They find Snorbul at the waters edge, entranced by the Avatar of Fawden
+A violent burst of energy burned Gundren badly. He staggered back, and JmJm stepped in seamlessly to continue the channelling while [[Horatio Von Bumidere|Buumi]] healed the dwarf.
 
-He snaps out of it easily and he asks how long he has been here and honestly, they don't really know
+The power continued to build. Steam rose from the font in ever-growing quantities. Molten light began to coat the body of Fawden. The ground shook. Cirrus knew — minutes remained. The goddess was dying.
 
-Cirrus pushes forward to the pool beneath Fawden, plucking a pearl of divine power from its waters (which only he can see) and then begins to instruct the group on setting up the ritual
+The gate had not activated. There was no portal — the ritual spell suspended the activation, holding the Veil in readiness until the moment of Fawden's death. But a connection had been made. Cirrus cried out in pain that turned to joy as liquid metal filled his eyes — his bond to [[Selune]] strengthening across the planes. Mercury flowed from Patches's forearm and the gracefully curving blade of [[Eclipse]] appeared unbidden in her hand.
 
-They assemble the Ringed Veil and move it into the water beneath Fawden, ensuring that the ring of the Portal encircles the tree-like structure above it
+## Vecna
 
-They then carefully remove The Last Word from the bag of holding, careful not to touch it and move it into position with magic.
+A laugh echoed through the chamber.
 
-Cirrus then begins the ritual
+A dark form coalesced at the edge of the cavern, away from the light of the Font — a humanoid figure robed in shrouds of purple and black, floating above the stone. A single eye of purple fire blazed from the shadow.
 
-Hours go by with Doc, Gundren, Feanon and Cirrus all actively channeling energies and building the intricate webwork of fractal spells
+[[Vecna]] had come to investigate, drawn by the ritual in its final moments.
 
-The others are not entirely sure what they can do to assist, so they begin to inspect the gate, checking for excess heat or malfunctions, or simply praying.
+He did not realise they had The Last Word. He mocked them — *futile, lacking, when she dies I will devour your souls where you stand* — watching the ritual with the casual contempt of a god addressing insects.
 
-JmJm strikes up an inspiring tune and begins to wade through the shallows, circling and watching the ritual as backup in case someone has to drop out.
+Then he saw it. The heart of the ritual. The Last Word, blazing at its centre — a more powerful piece than anything in his own arsenal. And this changed *everything*.
 
-Hours go by and the ritual builds
+He had miscalculated.
 
-*“The ritual continues and the energy builds ever greater.  The Word hovers in the center of the chamber; Ringed Veil laying on its side in the font of power. The artifact blazes with light, radiating like a tiny star.  The runes along the length of the Veil glow ever brighter and the gate is vibrating so powerfully that the pool of water is roiling. *
+With a thunderclap, Vecna's form collapsed into a vortex of white and black flame. An impossibly deep note resonated through the cavern, pressing against their eyes and ears. The fiery form blazed, streaked backward, and smashed through the back wall of the chamber.
 
-*The acrid smell of ozone permeates the air as energy discharges in great arcs from The Word to smash into the inner ring of the Veil.  A curtain of distortion emanates from the inner ring along its interior and extends in a cylinder up to the ceiling of the cavern, fully encasing the Avatar of Fawden. Great swirling patterns and designs, fractals of power and alignment twist and change, spiraling through the arcane motions of the ritual.*
+The rock screamed. A ragged hole of white-black flames devoured the stone, expanding rapidly. Through the blaze, a gate opened — and they could see what lay beyond.
 
-* As the chanting of the ritual and the flow of energy being shepherded continues to build into the capacitor, it begins to take on a rhythm.  The ebb and flow of the power hitting the barrier of the Veil is like a great tide crashing upon the rocks. With each flow of the tide, it becomes harder and harder to shepherd. Heat begins to radiate from the gate as the massive energies its channeling begin to build. It is time. The ritual begins to turn the energies spilling from the gate and direct it.  There is only one place for it to go: Fawden.”
-*
+## Sharza
 
-“*You corral the power and continue its flow, building to the inevitable crescendo. *
+The dead metropolis of [[Sharza]] stretched through the widening portal. Ancient Saurian ruins covered in silt and corruption, great statues of emperors lining a vast thoroughfare, their majesty tainted by a millennium of darkness. Five hundred feet away, the foot of a massive structure. The sky roiled with purple lightning, striking the flanks of a gargantuan edifice — the Great Pyramid. Around its peak, winged forms wheeled and turned toward the newly formed gate.
 
-*Feanon begins inputting the address into the gate.  He waits, inputting each coordinate as the tide falls with the ebb of the ritual. As he waits for the right moment, his finger shaking, he inputs the final symbol. *
+A titanic face began to form in the storm above the pyramid — skeletal, vast, with a single glowing eye that focused down upon the cavern. The pressure of that gaze fell upon them all.
 
-*	Cirrus, lets out an exclamation of pain, the scream turning to joy as liquid metal fills his eyes as his connection to Selune is strengthened.  Mercury flows from Patches forearm and the gracefully curving blade of Eclipse appears in her hand.*
+The city came alive. Rank after rank of skeletal [[The Saurians|Saurians]] formed into phalanxes of ancient shields and [[Saurian Firelance|Firelances]]. A mass of ghouls surged forward. Wraiths and spirits dove for the gateway. Larger things rose in the dark expanse of the city behind them.
 
-*	The gate has not activated, there is no portal as the ritual spell suspends the activation to coincide with the killing of Fawden.  But a connection has been made.*
+A storm of Firelance shots erupted from every monument and structure along the thoroughfare — dozens firing from the steps of the pyramid itself. The fusillade lacked accuracy but compensated with sheer fury, showering the cavern with sparks and fire.
 
-*The power of the Word rips at the ritual veil, throwing a cascade of colors and lights across the barrier.  The energy seeks an outlet and the barriers of the spell press against your mind and tax your body.”
-*
+A pulse of energy erupted from the Font. Fawden exerted what little will she had left, throwing a mirage-like barrier across Vecna's gate. The Firelance shots smashed against it in a furious shower of sparks. But the gate continued to grow, and the city of the dead was called to arms.
 
-A lot of heat is coming from the gate, too much to be normal and the technicians find a red-hot panel on one of the outer gates.  
+Spirits and shades, skeletons and zombies, ghouls and winged beasts crashed against Fawden's barrier in a tide of undeath. The Firelance shots arced higher to clear the crush of soldiers at the threshold. Dark forms moved through the press — stronger forces being marshalled. Empowered by their god's will, they pressed forward, and the barrier began to falter.
 
-They missed a Sapphire circuit!
+The group moved to defend the gate. They threw up a wall of ice to funnel the physical enemies as a Saurian Mummy Lord — glittering with gold, glowing with Sourcestones — approached Fawden's barrier with a retinue of saurian mummies.
 
-Thorna takes her Icy Hammer and hits it with a ray of frost, cooling it enough for Gundren to suggest a fix
+The Mummy Lord raised a desiccated hand. The barrier broke. A vanguard of skeletons, wraiths, and spirits poured into the cavern.
 
-They take out the braided cord of precious metals they retrieved from the machina factory, engraved with arcane runes and they use it to bridge the circuit and freeze it into place, bypassing it and the ritual continues
+They met the group in a clash and were slaughtered — the wraiths proving the most troublesome. Dozens fell.
 
-A particularly violent burst of energy burns Gundren badly and he has to step back, JmJm stepping in to continue the ritual while Buumi heals his friend.
+Untold thousands remained beyond the gate.
 
-
-*“The power continues to build and steam rises from the font in ever growing quantities. The ritual continues and energy begins to coalesce and rise like molten metal, beginning to coat the body of Fawden with pure light.  The physical body shudders and the ground shakes.*
-
-*Cirrus knows that mere minutes remain, the goddess is dying.*
-
-*As you hold your hands aloft, channeling the great power of the gate, they begin to sting.*
-
-*  The energies of the cosmic tide contained within the ring smash against the barrier, releasing energy with each pulse”*
-
-A laugh echoes through the chamber, and you all see a dark form coalesce at the edge of the cavern, away from the light of the Font.  A humanoid figure, robed in dark shrouds of purple and black, floats a few feet off the floor against the dark stone wall, obscure.  A single glaring eye of purple blazes from the shadow and the voice echoes through the chamber, laughter in its words.
-
-Vecna has come to investigate, having felt the ritual in its final moments.
-
-Not realizing the group has The Word, he mocks them for their attempt to “save” Fawden
-
-"This is futile, you lack the power!  You are lacking!  When she *dies *I will devour your souls as you stand in this place.  Feanon, so sad, but you had your chance. You..."
-
-Vecna stops gloating 
-
-having been watching the ritual he realizes the heart of the Ritual is The Last Word and a more powerful piece than he has.  And this changes *everything. He has miscalculated.*
-
-*With a thunderclap, the figure swirls in on itself in a vortex of violent flame.*
-
-*The ground shakes and an impossibly deep note resonates through the cavern putting pressure on your eyes and ears.  The fiery form of Vecna blazes with white and black flame and then streaks backwards, smashing into...and through the back wall of the cavern.*
-
-*The energy leaves a growing, ragged hole of white-black flames devouring the very rock.  Through the blaze as it rapidly expands, a Gate has opened and you can see through to the other side.*
-
-The group rushes toward the portal, unsure of its nature or where it leads, but they know it cannot be good.
-
-The ritual at this point needs no more shepherding, it only needs time to finish executing.
-
-Vecna’s Gate continues to grow…
-
-*The dark expanse of the dead metropolis of Sharza stretches on through the portal, the view ever widening.  The limited visibility shows a plaza of ancient and ruined stonework, covered in silt and corruption, great statues of ancient saurian emperors line the thoroughfare, their majesty tainted by a  millennium of darkness. 500ft away is the foot of a massive structure.  The sky roils and dark clouds are illuminated by flashes of purple lightning striking the sides of the gargantuan edifice.*
-
-*Tark recognizes the massive expanse of the Great Pyramid.  An obsidian mountain. Around its peak, great winged forms can be seen wheeling, and turning toward the newly formed gate as a titanic rumbling emanates from the storm above.  A massive skeletal face begins to form in the storm, with a single glowing eye that focuses down on you. You feel the pressure of that gaze as all its will turns toward the widening Gateway.  The city is lit by flashes of lightning and a wailing howl begins to rise like a gale.  Figures can be seen turning toward you; a legion of undead through the shifting storm-lit sands.  *
-
-*The horde surges forwards, hearing their master’s call as rank after rank of skeletal Saurians form up into a phalanx of ancient shields and firelances, a mass of ghouls surge forward. Wraiths and spirits flit through the sky and dive for the gateway as larger things can be seen rising in the dark expanse of the city.*
-
-*Flashes of light erupt from the monuments and structures lining the thoroughfare.  A storm of Firelance shots from every wielder within range, including dozens on the footsteps of the pyramid.*
-
-*The fusillade of shots lacks in accuracy but makes up for it in sheer fury as sparks and fire shower the cavern in a cone from the gateway.*
-
-*A pulse of energy erupts from the Font as Fawden exerts what little will she has left to secure her allies.  A mirage-like barrier before Vecna’s Gate and the Firelance shots begin to smash into it in a furious shower of sparks. But the gate continues to grow, and the city of the dead is called to arms!*
-
-*You see spirits and shades, skeletons and zombies, ghouls and great winged beasts rush toward the portal and smash against the barrier of Fawden.  The firelance shots aim higher to avoid the crush of foot soldiers, but they cannot get through.  Dark forms move through the press of undead as stronger forces are marshaled.  They approach the barrier, and infused with the Dark will of their god, push forwards to cross it…
-*
-
-The group quickly moves to defend the Gate (creating a wall of ice to funnel the physical enemies) as a Saurian Mummy Lord, glittering with gold and glowing with Sourcestones approaches Fawden’s barrier with a retinue of saurian mummies.
-
-Empowered by Vecna, the long-dead lord raises a desiccated hand and the barrier falters, allowing a vanguard of skeletons, wraiths and spirits to pour in
-
-The vanguard meets the group in a clash and are slaughtered (the wraiths proving the most troublesome).
-
-They killed dozens
-
-Untold thousands remain beyond the Gate 
-
-The Mummy Lord and his Retinue charge forwards, another vanguard of fodder leading the way before them…
+The Mummy Lord and his retinue charged forward, another wave of fodder leading the way.

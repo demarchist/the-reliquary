@@ -28,6 +28,7 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
+  - "ringed-veils"
 factions:
   - "saurians"
 ---

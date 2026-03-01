@@ -39,6 +39,7 @@ places:
   - "vaasa"
 things:
   - "hammer-of-niraz"
+  - "ringed-veils"
   - "the-last-word"
   - "titanic-forge"
 factions:

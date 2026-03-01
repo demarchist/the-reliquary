@@ -18,6 +18,7 @@ people:
   - "tarkathee-daru"
 places:
   - "al-askar"
+  - "font-of-fawden"
   - "iyum"
   - "temple-of-carthus"
 ---

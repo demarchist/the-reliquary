@@ -15,6 +15,7 @@ people:
   - "tarkathee-daru"
 places:
   - "faerun"
+  - "font-of-fawden"
   - "shadowfell"
   - "temple-of-carthus"
 factions:

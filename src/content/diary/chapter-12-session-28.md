@@ -23,6 +23,7 @@ places:
   - "iyum"
 things:
   - "efreeti-bottle"
+  - "ringed-veils"
   - "tavern-of-doors"
   - "the-last-word"
   - "tome-of-al-azif"

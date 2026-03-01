@@ -17,6 +17,7 @@ places:
   - "shadowfell"
   - "sharza"
 things:
+  - "ringed-veils"
   - "the-last-word"
 factions:
   - "cult-of-zalaam"

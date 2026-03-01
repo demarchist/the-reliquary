@@ -27,6 +27,8 @@ places:
   - "selunia"
   - "the-crossroads"
   - "underdark"
+things:
+  - "ringed-veils"
 factions:
   - "drow-faction"
   - "duergar-faction"

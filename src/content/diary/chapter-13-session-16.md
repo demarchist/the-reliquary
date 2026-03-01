@@ -3,13 +3,16 @@ title: The Voyage Home - Back in Iyum
 chapter: 13
 chapterTitle: The Voyage Home
 session: 16
+summary: "The group returns to the Golden Tower with the disassembled Ringed Veil, discovers Sapphire Circuits sabotaging the gate, enlists Hasrala to help debug it, hires mercenaries in Iyum, and Cirrus reveals his plan to kill Fawden and bring Selune into the world."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
+  - "coho"
   - "djoser"
   - "doc"
   - "fawden"
   - "feanon-serinde"
+  - "gon"
   - "gundren-rockseeker"
   - "hasrala"
   - "horatio-von-bumidere"
@@ -21,231 +24,94 @@ people:
   - "tarkathee-daru"
   - "vecna"
 places:
+  - "al-askar"
   - "feanons-tower"
+  - "font-of-fawden"
   - "golden-tower"
+  - "iyum"
   - "machina-factory"
+things:
+  - "ringed-veils"
+  - "sapphire-circuits"
+  - "the-last-word"
 factions:
   - "saurians"
 ---
 
-The group returns to the Gate Room of the Golden Tower 
+## The Gate Room
 
-There lies the disassembled Ringed Veil from the Machina Factory 
+The group materialised in the Gate Room of the [[Golden Tower]] with a thundercrack of displaced air, the disassembled sections of the [[Ringed Veils|Ringed Veil]] from the [[Machina Factory]] clattering to the stone floor around them.
 
-Gundren and Feanon immediately move to investigate the gate and begin to check all of its inner workings.
+[[Gundren Rockseeker|Gundren]] and [[Feanon Serinde|Feanon]] set to work immediately, spreading the radial sections across the chamber and beginning a systematic inspection of every circuit, housing, and arcane conduit. Something about the gate's workings felt wrong — a subtle dissonance neither could articulate — until Gundren spotted it. A great number of circuits had been transmuted from their original metal and crystal into pure sapphire.
 
-*Something *about the gate’s workings seems wrong, but neither can put their finger on it, until they notice a great number of pure-sapphire circuits.  
+The [[Sapphire Circuits]] were beautiful, almost elegant — but they were not supposed to be there. Whether they were a recent addition or some ancient corruption, neither engineer could determine. They pressed on, confident that something was amiss but unable to pinpoint the exact danger.
 
-Metal transmuted into gemstone it seems, and possibly a new addition?
+[[Cirrus Al-Kayan|Cirrus]] arrived to check their progress and immediately began playing project manager, offering encouragement that no one had requested.
 
-Odd, but also the group has not had enough experience to know for sure if the Sapphire Circuits are bad.
+## Jareem's Tower
 
-They continue their inspection, confident that something is wrong, but unable to pinpoint something.
+Several of the group — those without arcane talents to contribute — decided to head into the city. As they made for the stairs, [[Jareem]] arrived on the Gate Room floor from his lair below, having sensed their arrival minutes earlier.
 
-Cirrus begins to berate them and play “manager”.
+He greeted them warmly enough, but welcomed them to *his* tower.
 
-He “helps”
+The possessive pronoun hung in the air. The group exchanged glances. For a dragon they had rescued from certain death, Jareem had developed a remarkably proprietary attitude. He glanced at the disassembled gate and grumbled about the risks of hasty action, warning them not to rush into anything foolish.
 
-Several of the group decide to head into the city, as they are useless with the arcane.
+The group bit their tongues. Jareem was a Crystal Dragon with a new lair. Territorial instincts were to be expected. They settled in, and Jareem — satisfied that his dominion had been acknowledged — returned to his meditations below.
 
-Jareem arrives on the Gate-Room floor of the tower with the throne and dais, having sensed the group enter the tower a few minutes ago.
+## The Saurian on the Bridge
 
-He greets them and welcomes them to *his *tower
+[[Aliyah Faen Tlabbar|Patches]] had been working from memory. Her time with [[Hasrala]] — the ancient Saurian spirit inhabiting a Machina body — had given her some knowledge of the Veils' inner workings. She sketched what she remembered and handed the diagrams to Feanon before inspecting one of the radial sections herself.
 
-He is wearing the Turban of Control
+She asked how many Sapphire Circuits Gundren and Feanon had counted in this section.
 
-But hearing “*his” *tower, rubs the group the wrong way
+Five, they said.
 
-Jareem looks to the disassembled gate and grumbles about risks, warning the group not to be hasty and take unnecessary chances.
+She told them she now saw none.
 
-The group thinks that for a Dragon they had to rescue from certain death, he’s dishing out a lot of unwanted advice…
+The two engineers rushed over. The circuits had vanished — replaced by ordinary-looking metal, crystal, and arcane housings. As they watched, a small flash of light rippled through the mechanism and another circuit changed before their eyes. Feanon reached out with his arcane senses. The signature was strikingly similar to an Instant Summons — someone, or something, was swapping the components remotely.
 
-Still though, they settle down and Jareem goes on to say that he and Doc B have been working in the City with Bashir
+Confident now that the Sapphire Circuits were sabotage, Feanon began Counterspelling every transformation he detected while Patches and Gundren worked to dispel and replace the corrupted circuits already in place. It was going to take hours.
 
-Seeing the group is busy dealing with the Ringed Veil, he returns to his meditations in his Lair below.
+The city-bound contingent — [[Tarkathee Daru|Tark]], [[Horatio Von Bumidere|Buumi]], Patches, and [[Jack Mayer-Johnson Mathews|JmJm]] — left them to their work and headed for the bridge.
 
-The group thinks his behavior a bit…abrasive compared to before, but it is pointed out that he is a Dragon, with a new lair.  It’s Instinct and we shouldn't take it too personally.
+As the great brass doors swung open, Patches spotted a hooded figure pulling itself over the stone railing of the bridge four hundred feet above the city. The figure slipped toward the closing doors. Patches spun, seized it, and pressed a dagger to its throat.
 
-Patches wishes to go to the city with the others, but having recently spent a lot of time with **Hasrala **the Saurian spirit in the Machina body, she has some knowledge of the workings of the Veils.
+There was a clink of metal.
 
-She spends some time sketching what she remembered of the Gate technology and then hands it to Feanon and looks inside one of the Radii.
+Beneath the hood, the Machina face of Hasrala stared back at her.
 
-She asks Feanon and Gundren how many of the Sapphire Circuits were in here
+They brought the Saurian inside, past the pairs of city guards stationed every fifty feet along the bridge, and up to the Gate Room. Hasrala confirmed their suspicions — the Sapphire Circuits were abnormal, and the replacements left behind were subtly different from the originals. The sabotage was sophisticated enough that even he could not determine its exact purpose. Gundren and Hasrala began stripping every piece of salvage from the Machina Factory, hunting for corrupted components.
 
-5 they say.
+## The City Below
 
-She says she now sees none
+The remaining group headed into [[Iyum]]. Servants met them on the bridge with platters of food and drink — a gracious escort that led them directly to [[Sultan Bashir]], who stepped from the shade at the far end and thanked the group for coming to see *him*.
 
-Gundren and Feanon rush over to check, and indeed, there are no Sapphire Circuits
+The group groaned inwardly.
 
-Racing back along the debugging path, Gundren sees a number of the Sapphire circuits gone - replaced with regular looking metal, crystal and arcane housings.
+Bashir brought them up to speed. [[Djoser]] and the Wardens had secured the Spelljammer and were fortifying it. [[Doc|Doctor Breakfast]] had been working in the city, and the farms were producing more food than anyone could remember. The plague was under control. Bashir asked — diplomatically — if the group would remain in the palace and avoid the city proper.
 
-Then, before his eyes, there's a small flash and one of the circuits changes.
+They thanked him, provided a supply list, and then ignored his request entirely, descending the great palace stair into the city below.
 
-He points it out to Feanon, who tries to get an arcane sense of what just happened.
+Dressed in local clothing and without Cirrus's conspicuous presence, they blended better than on their previous visit. But whispers of *outlanders* still followed them through the noble and artisan districts. In the upper quarters, they heard grumbling — Bashir's food distribution was upsetting the city's power balance, bypassing the nobility to feed the poor directly. The nobles were not pleased.
 
-It is strikingly similar magic to that of an *Instant Summons *spell.
+They passed the great Pyramid of [[Rudjek]]. The air grew noticeably colder near the dark edifice — an evil stain on the city that no change of government had been able to cleanse.
 
-As they watch, another circuit changes
+In the dockside taverns, the group chose their establishment the old-fashioned way: they watched someone get bodily thrown from one and walked in without a word. JmJm's performance was so extraordinary that the house bard abandoned his own set to accompany the gnome, and JmJm's meal was on the house.
 
-They don't know what to do…should they stop this change, is this change normal? 
+[[Tarkathee Daru|Tark]] scanned the crowd and spotted a capable-looking group of mercenaries. He and JmJm made introductions. The band was led by a barbarian named [[Coho]], but it was his lieutenant [[Gon]] who caught Tark's interest. When Tark offered them work, the mercenaries blanched — they assumed it meant entering the Pyramid of Rudjek — but after careful persuasion, they agreed. Coho would come to the [[Golden Tower]] for supplies. Gon would take his squad to establish a beachhead in Rudjek's dungeon.
 
-They just don’t know…
+## The Plan
 
-Meanwhile, the rest of the group - Tark, Buumi, Patches and JmJm leave the Tower to head into the city.
+Back at the tower, the group convened. The gate debugging would take time. There was a larger question to address.
 
-As they move through the Hallway of Fulmination, the great Brass doors of the tower swing in silently, revealing the windswept bridge leading from the Golden Tower, to the Palace of the city.
+Cirrus laid out his proposal. [[Fawden]], the goddess of Chaos, was dying — [[Vecna|Zalaam]] was devouring her. If the dark god succeeded, he would absorb her full divine power. Cirrus's plan was to deny him that prize: reach the Font of Fawden, perform a ritual with the [[Ringed Veils|Ringed Veil]] and [[The Last Word]], and channel Fawden's dying energy to [[Selune]] instead. Fawden would be destroyed, but her power would flow to a goddess of the moon rather than to Vecna.
 
-The brown expanse of the city sprawls beneath, in the shadow of the Palace Complex.
+Tark was uneasy. He wanted to leave this world — they had a gate, they had the address. Why not simply go?
 
-Starting fifty feet away, and then spaced every fifty feet, are pairs of guards.
+Cirrus made the case. If Vecna consumed Fawden unchallenged, the power he gained would be catastrophic — not just for Al Askar, but for every world connected to the Veil network. This was their one chance to deny him.
 
-The group looks at one another, a little unsure what the guards may entail
+The group agreed.
 
-As they move forwards to investigate, a figure pulls itself over the nearby stone railing of the bridge and moves to slip inside the Golden Tower as the doors begin to close
+That evening, Cirrus visited Feanon's chamber and revealed the full scope of the ritual — a working to bring [[Selune]] bodily into this world. The wizard listened, considered, and agreed to help.
 
-Patches spins and grabs the figure, pulling it to a stop and whipping out a dagger
-
-She places it against the hooded figure’s throat and there is a clink of metal
-
-Looking under the hood, she sees the Machina face of **Hasrala the Saurian**
-
-The group gathers around, questioning the Machina Saurian they have not seen in weeks
-
-The nearby City Guard head across the bridge to investigate the commotion as a figure appearing on a bridge 400ft above the city is…concerning
-
-They placate the guards and ask that Bashir come to see them.
-
-The guards say that they will relay the message, but the Sultan will be summoning *them*
-
-The group laughs and turns to lead Hasrala into the Golden Tower
-
-They take the Saurian up to the Gate and the rest of the group
-
-Gundren and Feanon have Hasrala look at the gate.
-
-He confirms that the Sapphire circuits are abnormal and that when replaced, the circuit is different than it should be.
-
-The change is so subtle though, that he cannot be sure what or why it is being changed
-
-Confident that this is abnormal and should be stopped, Feanon begins to Counterspell any other Circuit change while the rest of the group works on dispelling the sapphire circuits.
-
-Gundren meanwhile works with Hasrala to go through all the scrap they hauled out of the Machina factory and begins to strip the parts and replace any and all Sapphire Circuits or changed circuits that they can find.
-
-Its going to take *hours*
-
-The city-expedition group leaves them to their work and heads back out of the tower.
-
-Along the bridge, the guards have been joined by servants carrying platters of food and drink.
-
-Enticed, the group moves forward, partaking of the gifts and being led across the bridge by them
-
-At the far end of the bridge, Bashir steps out of the shade, smiling, and thanks the group for coming to see him.
-
-(tabletalk) *the group groans*
-
-They talk and Bashir tells them what’s been happening about the city.
-
-Djoser and the Wardens have secured the Spelljammer and are fortifying it
-
-Doc has been assisting around the city, which now has bountiful food being handed out to the citizens
-
-The Plague is under control and diminished
-
-The group thanks Bashir and moves to begin their descent to the city proper and Bashir interrupts them
-
-He asks if the group would remain in the Palace for the time being and that anything they need can be brought to them.
-
-Patches provides a list of what she needs for her Alchemy and Buumi puts in a request for supplies.
-
-Bashir agrees
-
-The group then ignores his request to stay out of the city and they descend the great palace stair to the Noble District and Artisan District below.
-
-Bashir looks a little unhappy, but does not stop them.
-
-Dressed in local clothing, and without Cirrus, The Outlanders blend in much better than their last visit.  Even so, some heads do turn and they hear the whispers of “outlanders”
-
-As they move through the districts, heading for a good Tavern on the Docks, they hear other whispers and murmurings in the Upper-class areas.
-
-There seems to be quite a bit of grumbling about Bashir giving out so much food to the poors
-
-This seems to be upsetting the power balance in the city
-
-The group moves past the great Pyramid of Rudjek, an evil stain on the city.  It is noticibly colder near the edifice.
-
-As the group transitions to the poorer sections of the city, they begin to notice Wardens handing out bread and other food to the masses and everyone they pass seems to be holding some kind of food
-
-No one is going hungry it seems, and the people here seem thrilled about it
-
-Making it to the docks, the group looks around and finds dozens of taverns that may fit their needs.
-
-They cant decide until they see someone get bodily thrown from one and they all pick that tavern without a word.
-
-As Tark passes a sailor carrying a fine coil of rope, Take buys it from the man - handing him many times what the rope is worth.
-
-It’s a *fine *coil though
-
-The group enters their Tavern of Choice - a nameless place it seems though with a large sign depicting a Centipede monster eating someone
-
-As they enter, all eyes turn to the group and a few whispers of “outlanders” go through the place.
-
-The bard in the corner of the tavern resumes playing quickly and the place resumes its normal cadence
-
-The group sits at a nearby table and they begin to order some drinks and food
-
-JmJm tries to Mage hand the Bard’s Lute, but the Bard snatches it back
-
-Things are tense for a moment, but JmJm just begins his performance and the Bard assumes that it was an attempt to get him to play along.
-
-JmJm is *amazing *so the Bard decides to do just that, and begins to accompany JmJm
-
-He does such a good job that JmJm’s food and drink is free and the aspiring Bard in the corner gets some good tips
-
-Tark scans the room and spots a group of mercenaries that look capable.
-
-He and JmJm approach the group and before long everyone is talking
-
-The group is led by the Barbarian **Coho, but his underling Gon is most intriguing**
-
-Tark offers them a job and at first the group is adamant they wouldnt dare enter the Pyramid of Rudjek and refuse
-
-But after some talking and persuading, they manage to change their minds 
-
-They are hired by Tark to secure the Pyramid of Rudjek using Outlander Weapons and items.
-
-**Coho **will come back to the Barony to get supplies and Gon will take his group to secure a beachhead in the dungeon of Rudjek.
-
-Satisfied, Tark and his friends return to their table to finish their dinners, before leaving the Tavern and returning to The Golden Tower.
-
-On the way, they see more food and many of the city Wardens.
-
-Patches then tells the group she overheard in the Tavern that Bashir is bypassing the nobles with this food and getting favor with the peasants at the expense of the nobles.
-
-The group briefly wonders if Jareem is fattening up the city, but no, its just Bashir taking care of his people….they think…
-
-They purchase some Khonsfa saddles for their beetles back at the Tower.
-
-They are pricey, but the group manages to get a 2 for 1 deal from JmJm’s Silver Tongue
-
-But no one has any money on them except for Patches, who sighs and pays the man.
-
-The group makes it back to the tower without incident where they discuss their immediate plans
-
-Cirrus re-iterates his proposed plan of killing Fawden and depriving Vecna of her power
-
-There’s some extra discussion about motivation where some things are NOT said
-
-They decide to take the Gate to the Font of Fawden to kill her.
-
-Tark is unsure and wants to just leave, but Cirrus makes a compelling case for depriving Zalaam/Vecna of her power as letting him take it would be really, really bad.
-
-Cirrus visits Feanon’s chamber and tells him the full plan - bringing Selune into this world.
-
-The Wizard agrees to help
-
-Cirrus moves out onto the Balcony and begins to yodle his prayer, which is answered by many other voices throughout the city.
-
-One by one, he out-yodles them, until only his voice remains.  
-
-He persists until he can yodle no more…
+Cirrus stepped onto the balcony and began to pray. His voice rose in a long, carrying call that echoed across the city. Other voices answered from minarets and rooftops — the faithful of Iyum, calling back. One by one, Cirrus outlasted them, his voice persisting until only his remained, ringing alone across the darkened city until he could sing no more.

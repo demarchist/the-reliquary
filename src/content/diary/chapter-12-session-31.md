@@ -20,6 +20,7 @@ places:
   - "machina-factory"
   - "thueba-swamp"
 things:
+  - "ringed-veils"
   - "tome-of-al-azif"
 factions:
   - "cult-of-zalaam"

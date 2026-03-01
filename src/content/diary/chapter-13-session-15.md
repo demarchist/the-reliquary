@@ -22,6 +22,7 @@ places:
   - "shadowfell"
 things:
   - "lodestone"
+  - "ringed-veils"
   - "sourcework-core"
 factions:
   - "saurians"

@@ -19,6 +19,11 @@
     "title": "Agatha",
     "category": "People"
   },
+  "ahmahd": {
+    "slug": "ahmahd",
+    "title": "Ahmahd",
+    "category": "People"
+  },
   "'āina pulu": {
     "slug": "aina-pulu",
     "title": "'Āina Pulu",
@@ -654,6 +659,11 @@
     "title": "Claudine",
     "category": "People"
   },
+  "coho": {
+    "slug": "coho",
+    "title": "Coho",
+    "category": "People"
+  },
   "corpsetaker": {
     "slug": "corpsetaker",
     "title": "Corpsetaker",
@@ -813,6 +823,16 @@
     "slug": "derro-faction",
     "title": "The Derro",
     "category": "Factions"
+  },
+  "disphotic forest": {
+    "slug": "disphotic-forest",
+    "title": "Disphotic Forest",
+    "category": "Places"
+  },
+  "the disphotic forest": {
+    "slug": "disphotic-forest",
+    "title": "Disphotic Forest",
+    "category": "Places"
   },
   "djoser": {
     "slug": "djoser",
@@ -1184,6 +1204,21 @@
     "title": "Flaming Fist",
     "category": "Factions"
   },
+  "font of fawden": {
+    "slug": "font-of-fawden",
+    "title": "Font of Fawden",
+    "category": "Places"
+  },
+  "the font": {
+    "slug": "font-of-fawden",
+    "title": "Font of Fawden",
+    "category": "Places"
+  },
+  "font of power": {
+    "slug": "font-of-fawden",
+    "title": "Font of Fawden",
+    "category": "Places"
+  },
   "foxy crazy": {
     "slug": "foxy-crazy",
     "title": "Foxy Crazy",
@@ -1278,6 +1313,11 @@
     "slug": "golden-tower",
     "title": "Golden Tower",
     "category": "Places"
+  },
+  "gon": {
+    "slug": "gon",
+    "title": "Gon",
+    "category": "People"
   },
   "gowain": {
     "slug": "gowain",
@@ -2619,6 +2659,11 @@
     "title": "The Ringed Veils",
     "category": "Things"
   },
+  "ringed veil": {
+    "slug": "ringed-veils",
+    "title": "The Ringed Veils",
+    "category": "Things"
+  },
   "rockseeker manufactory": {
     "slug": "rockseeker-manufactory",
     "title": "Rockseeker Manufactory",
@@ -2684,6 +2729,16 @@
     "title": "Sanctum of Krasus",
     "category": "Places"
   },
+  "sapphire circuits": {
+    "slug": "sapphire-circuits",
+    "title": "Sapphire Circuits",
+    "category": "Things"
+  },
+  "sapphire circuit": {
+    "slug": "sapphire-circuits",
+    "title": "Sapphire Circuits",
+    "category": "Things"
+  },
   "saurian firelance": {
     "slug": "saurian-firelance",
     "title": "Saurian Firelance",
@@ -2717,6 +2772,16 @@
   "caravan city": {
     "slug": "scornubel",
     "title": "Scornubel",
+    "category": "Places"
+  },
+  "sea of silt": {
+    "slug": "sea-of-silt",
+    "title": "Sea of Silt",
+    "category": "Places"
+  },
+  "the sea of silt": {
+    "slug": "sea-of-silt",
+    "title": "Sea of Silt",
     "category": "Places"
   },
   "sebek": {
@@ -3409,6 +3474,11 @@
     "title": "Tser Pool",
     "category": "Places"
   },
+  "umu": {
+    "slug": "umu",
+    "title": "Umu",
+    "category": "People"
+  },
   "the underdark": {
     "slug": "underdark",
     "title": "The Underdark",
@@ -3652,6 +3722,16 @@
   "fiona wachter": {
     "slug": "wachter",
     "title": "Lady Wachter",
+    "category": "People"
+  },
+  "wahid": {
+    "slug": "wahid",
+    "title": "Wahid",
+    "category": "People"
+  },
+  "the wahid": {
+    "slug": "wahid",
+    "title": "Wahid",
     "category": "People"
   },
   "the warlocks of ceregorach": {
