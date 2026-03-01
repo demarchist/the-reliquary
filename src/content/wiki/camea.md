@@ -3,9 +3,16 @@ title: "Camea"
 category: "People"
 aliases: []
 firstAppearance: "chapter-13-session-03"
-description: "Halfling shaman and guide who aided the party in Al Askar."
+description: "Halfling shaman of the old ways who guided the party through Thueba Swamp and helped them thwart Hohonu's awakening."
+race: "Halfling"
+status: "Alive"
+home: "aina-pulu"
 ---
 
-Camea is a halfling shaman from Al Askar who served as the party's guide through the dangerous wilderness of that world. Knowledgeable about the local geography, she led the group across the Great River to Aina Pulu and helped them navigate the ruins and swamplands. Her people have been suffering under the influence of the dark entity Hohonu, whose corrupted worshippers have brought violence and chaos to the halfling communities.
+Camea is a halfling shaman from 'Āina Pulu in Thueba Swamp, a practitioner of the old ways in a community torn apart by the worship of the Death Wyrm Hohonu. While the Abyss Walkers — led by her brother Ruru — seized control of the village and performed blood sacrifices to free the imprisoned dragon, Camea and her followers were forced into exile and secrecy.
 
-Camea proved her courage by accompanying the party into the ruins where Hohonu's followers gathered, even posing as a captor presenting the disguised Patches and Tark as prisoners to infiltrate the enemy. During the battle against Hohonu's forces, Camea was killed when her soul was pulled toward the Death Wyrm's vortex, but Tark managed to grab her soul in the Ethereal Plane and store it in a waterskin. The party revived her with a diamond, and a shaken Camea later negotiated on behalf of her people, maintaining contact with the group through magic.
+She joined the party as their guide through the swamp, teaching Buumi to cook local foods and leading them across the Great River and through the mists surrounding Aina Pulu. When the time came to infiltrate the village, Camea posed as a loyal daughter returning with prisoners for sacrifice — bluffing past Ruru and the corrupted warparty at the docks to reach the sacrificial tar pits.
+
+During the battle at the tar pits, Camea's father — the Grand Shaman — threw her from the crater's rim. She survived the fall but was killed by the Shaman's Circle of Death. Her soul spiralled into Hohonu's vortex in the Ethereal Plane, but Tark leapt from Steden and dove after it, seizing the bright light of her essence and sealing it in a waterskin. The party revived her with a diamond once the battle was won.
+
+Shaken by her death and return, Camea chose not to reclaim Aina Pulu by force — Ruru still held the village, and a fight would cost too many lives. Her goal of preventing Hohonu's freedom had been achieved. She parted ways with the group at the edge of the mists, promising to stay in contact through magic, and disappeared into the swamp to rejoin her exiled followers and decide their future — whether to remain in Thueba Swamp or accept the party's offer of sanctuary at the Golden Tower.
