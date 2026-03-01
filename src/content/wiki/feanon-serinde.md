@@ -13,13 +13,25 @@ image: "/images/feanon-serinde.png"
 imageAlt: "Portrait of Fëanon Sërindë"
 ---
 
-Fëanon Sërindë is a High Elf Wizard, a founding member of the [[Faerûn Defense Force]], and governor of the Barony of Thunder Bluff. He resides within an enormous tower built into the rocky prominence of Sërindë Isle, in the middle of Lake Seluna, where he maintains a community of arcane practitioners and a basement vault of dangerous artifacts he calls the Reliquary. He is a scholar of formidable intellect, a collector of forbidden knowledge, and — increasingly — a man forced to reckon with the limits of intellect alone.
+Fëanon Sërindë is a High Elf Wizard born in [[Leuthilspar]] on the isle of [[Evermeet]], a founding member of the [[Faerûn Defense Force]], and governor of the Barony of Thunder Bluff. He resides within an enormous tower built into the rocky prominence of Sërindë Isle, in the middle of Lake Seluna, where he maintains a community of arcane practitioners and a basement vault of dangerous artifacts he calls the Reliquary. He is a scholar of formidable intellect, a collector of forbidden knowledge, and — increasingly — a man forced to reckon with the limits of intellect alone.
 
 His life divides cleanly at a single event: the night, fifty years before the campaign begins, when an Illithid Elder Brain shattered his mind. Everything before that night was promise. Everything after has been recovery — from the decades of unexplained whispers, through the campaign that finally revealed their source, to the hard-won silence that followed.
 
 ## Appearance
 
 Fëanon has fine, symmetrical facial features and stands five feet eleven inches tall with a slender, elegant build. His long, flowing hair is almost bluish-white in color, framing his face beautifully. His wide-set green eyes are striking and captivating, and his copper-colored skin gives him a warm, exotic appearance. He has no facial hair, and his overall bearing is one of refinement and sophistication — a truly commanding figure wherever he goes.
+
+## Evermeet and the Crossing
+
+Fëanon was born in [[Leuthilspar]], the capital of [[Evermeet]], in the year 1250 DR. He grew up inside the certainty of the Seldarine's protection — not as a matter of faith but as observable reality. Divine wards shielded the island from scrying, invasion, and the entropy that gnawed at the rest of the world. The gods were not distant promises on Evermeet; they were architecture. Within that architecture, the young elf showed extraordinary aptitude for the arcane, and his talents drew the attention of scholars who arranged what they expected to be a temporary exchange.
+
+Around 1370 DR, Fëanon was sent to the Lady's College in [[Silverymoon]] on a formal scholarly exchange between Evermeet's academies and the mainland institutions. The transition was jarring. Leuthilspar's crystalline perfection gave way to a sprawling, multi-racial city where humans, dwarves, and elves argued over shared lecture halls and half the library was in languages he had never encountered. He adapted — he was brilliant enough to adapt to anything — but the implicit promise that he would return home remained unspoken between him and the colleagues he left behind.
+
+In 1385 DR, [[Mystra]] died and the Weave unravelled. What the histories call the Spellplague, Fëanon experienced as an afternoon when everything he understood about magic became unreliable and the wards on Evermeet — supposedly eternal, maintained by gods who supposedly cared — failed. The island was pulled into the Feywild. Contact was severed. The scholarly exchange became an exile, and the implicit promise to return became a door that no longer existed. He was a hundred and thirty-five years old, standing in a foreign city, watching the foundations of his world dissolve. He did not pray. He went to the library.
+
+What followed was decades of reinvention. Fëanon threw himself into empirical arcane study — magic stripped of divine assumption, rebuilt from first principles. Silverymoon became his anchor, and in its academies he found [[Theodemir]], the great archwizard whose mentorship would define the next century of his life. Their bond was forged in the wreckage of certainty: two scholars who believed that understanding, not worship, was the only reliable foundation.
+
+It was in Theodemir's circle that Fëanon first encountered the [[Conclave of Silverymoon]], and the work that would shatter him in an entirely different way.
 
 ## The Conclave and the Whispers
 
@@ -31,7 +43,7 @@ For fifty years, that lost fragment whispered back to him across the psychic lin
 
 ## Philosophy
 
-Fëanon views reliance on divine intervention as a form of intellectual dependency — a crutch that prevents people from achieving their full potential. This is not abstract theory. He watched Theodemir sacrifice himself while the gods did nothing. He spent fifty years with a shattered mind while clerics and priests failed to diagnose what any competent psionicist might have found. His secularism was forged in disappointment.
+Fëanon views reliance on divine intervention as a form of intellectual dependency — a crutch that prevents people from achieving their full potential. This is not abstract theory. The foundations were laid before the Conclave, before Theodemir — when the Seldarine's wards on Evermeet, supposedly eternal, broke in an afternoon and stranded him a world away from home. He watched Theodemir sacrifice himself while the gods did nothing. He spent fifty years with a shattered mind while clerics and priests failed to diagnose what any competent psionicist might have found. His secularism was forged not from a single event, but from a lifetime of watching divine promises fail.
 
 In practice, this manifests as a relentless empiricism. When the group debated whether they were truly trapped in Barovia, Fëanon rode directly into the mist to test the boundary himself. He returned having wandered a featureless void for what felt like a hundred years while only seconds passed for everyone else. He came back disheveled and haunted, but he came back with an answer.
 

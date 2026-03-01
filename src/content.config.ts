@@ -45,4 +45,18 @@ const chapters = defineCollection({
   }),
 });
 
-export const collections = { diary, wiki, chapters };
+const history = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/history' }),
+  schema: z.object({
+    title: z.string(),
+    year: z.number(),
+    summary: z.string(),
+    people: z.array(z.string()).optional(),
+    places: z.array(z.string()).optional(),
+    things: z.array(z.string()).optional(),
+    factions: z.array(z.string()).optional(),
+    events: z.array(z.string()).optional(),
+  }),
+});
+
+export const collections = { diary, wiki, chapters, history };

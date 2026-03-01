@@ -10,6 +10,9 @@ allDiary.sort((a, b) => {
 
 const allWiki = await getCollection('wiki');
 
+const allHistory = await getCollection('history');
+allHistory.sort((a, b) => a.data.year - b.data.year);
+
 // --- Build data maps ---
 
 // Debut map: which session each wiki entity first appears in
@@ -49,6 +52,19 @@ for (const d of allDiary) {
   }
 }
 
+// Add history entries to entitySessions (prefixed with "history:" to distinguish)
+for (const h of allHistory) {
+  const historyId = 'history:' + h.id;
+  for (const key of categoryKeys) {
+    const slugs = h.data[key];
+    if (!slugs) continue;
+    for (const slug of slugs) {
+      if (!entitySessions[slug]) entitySessions[slug] = [];
+      entitySessions[slug].push(historyId);
+    }
+  }
+}
+
 // entityMeta: display info for each entity
 const entityMeta: Record<string, { title: string; category: string; description?: string }> = {};
 for (const w of allWiki) {
@@ -79,8 +95,37 @@ for (const d of allDiary) {
   sessionEntitiesGrouped.set(d.id, grouped);
 }
 
+// historyEntitiesGrouped: same as sessionEntitiesGrouped but for history entries
+const historyEntitiesGrouped: Map<string, Map<string, EntityInfo[]>> = new Map();
+for (const h of allHistory) {
+  const grouped: Map<string, EntityInfo[]> = new Map();
+  for (const key of categoryKeys) {
+    const slugs = h.data[key];
+    if (!slugs) continue;
+    const cat = keyToCategory[key];
+    const list: EntityInfo[] = [];
+    for (const slug of slugs) {
+      const meta = entityMeta[slug];
+      if (!meta) continue;
+      list.push({ slug, title: meta.title, category: cat, debut: false });
+    }
+    if (list.length > 0) {
+      list.sort((a, b) => a.title.localeCompare(b.title));
+      grouped.set(cat, list);
+    }
+  }
+  historyEntitiesGrouped.set(h.id, grouped);
+}
+
+// History metadata for JS (id -> { title, year })
+const historyMeta: Record<string, { title: string; year: number }> = {};
+for (const h of allHistory) {
+  historyMeta[h.id] = { title: h.data.title, year: h.data.year };
+}
+
 const entitySessionsJSON = JSON.stringify(entitySessions);
 const entityMetaJSON = JSON.stringify(entityMeta);
+const historyMetaJSON = JSON.stringify(historyMeta);
 
 // Group diary by chapter
 const chapters: Map<number, typeof allDiary> = new Map();
@@ -136,6 +181,116 @@ function densityTier(total: number): string {
   <div class="tl-layout">
     <!-- Main timeline -->
     <div class="tl-main">
+      {/* Prologue: pre-campaign history */}
+      <section id="prologue" class="tl-chapter tl-chapter--prologue" data-chapter="prologue">
+        <div class="chapter-header chapter-header--prologue">
+          <span class="chapter-number">Prologue</span>
+          <span class="chapter-title">Before the Campaign</span>
+        </div>
+
+        <div class="tl-spine tl-spine--prologue">
+          {allHistory.map((entry) => {
+            const historyId = 'history:' + entry.id;
+            const grouped = historyEntitiesGrouped.get(entry.id) || new Map();
+
+            const allSlugs = [
+              ...(entry.data.people || []),
+              ...(entry.data.places || []),
+              ...(entry.data.things || []),
+              ...(entry.data.factions || []),
+              ...(entry.data.events || []),
+            ];
+
+            const pCount = entry.data.people?.length || 0;
+            const plCount = entry.data.places?.length || 0;
+            const tCount = entry.data.things?.length || 0;
+            const fCount = entry.data.factions?.length || 0;
+            const total = pCount + plCount + tCount + fCount;
+
+            return (
+              <div
+                class={`tl-node tl-node--history tl-node--density-${densityTier(total)}`}
+                data-session={historyId}
+                data-entities={allSlugs.join(',')}
+              >
+                <div class="tl-node-dot tl-node-dot--history"></div>
+                <div class="tl-node-content">
+                  <div class="tl-node-header">
+                    <span class="tl-node-label tl-node-label--dr font-mono">{entry.data.year} DR</span>
+                    <span class="tl-node-title tl-node-title--history">{entry.data.title}</span>
+                    {total > 0 && (
+                      <button class="tl-node-toggle" type="button" data-expand={historyId} aria-label="Expand details" title="Show all entities">
+                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                      </button>
+                    )}
+                  </div>
+
+                  {entry.data.summary && (
+                    <p class="tl-history-summary">{entry.data.summary}</p>
+                  )}
+
+                  {total > 0 && (
+                    <div class="tl-density" title={`${pCount} people, ${plCount} places, ${tCount} things, ${fCount} factions`}>
+                      {pCount > 0 && <div class="tl-density-seg tl-density-seg--people" style={`flex:${pCount}`}></div>}
+                      {plCount > 0 && <div class="tl-density-seg tl-density-seg--places" style={`flex:${plCount}`}></div>}
+                      {tCount > 0 && <div class="tl-density-seg tl-density-seg--things" style={`flex:${tCount}`}></div>}
+                      {fCount > 0 && <div class="tl-density-seg tl-density-seg--factions" style={`flex:${fCount}`}></div>}
+                    </div>
+                  )}
+
+                  {/* Entity chips */}
+                  {allSlugs.length > 0 && (
+                    <div class="tl-debuts">
+                      {allSlugs.map((slug) => {
+                        const meta = entityMeta[slug];
+                        if (!meta) return null;
+                        return (
+                          <button
+                            class={`tl-chip tl-chip--${catCss[meta.category]}`}
+                            data-entity={slug}
+                            type="button"
+                            title={meta.title}
+                          >
+                            {meta.title}
+                          </button>
+                        );
+                      })}
+                    </div>
+                  )}
+
+                  {/* Expandable detail panel */}
+                  <div class="tl-detail" data-detail={historyId} hidden>
+                    <div class="tl-detail-entities">
+                      {(['People', 'Places', 'Things', 'Factions'] as const).map(cat => {
+                        const entities = grouped.get(cat);
+                        if (!entities) return null;
+                        return (
+                          <div class={`tl-detail-group tl-detail-group--${catCss[cat]}`}>
+                            <span class="tl-detail-cat-label">{cat}</span>
+                            <div class="tl-detail-chips">
+                              {entities.map(e => (
+                                <button
+                                  class={`tl-chip tl-chip--${catCss[cat]}`}
+                                  data-entity={e.slug}
+                                  type="button"
+                                  title={e.title}
+                                >
+                                  {e.title}
+                                </button>
+                              ))}
+                            </div>
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </section>
+
       {[...chapters.entries()].map(([chapterNum, entries]) => (
         <section id={`chapter-${chapterNum}`} class="tl-chapter" data-chapter={chapterNum}>
           <div class="chapter-header">
@@ -287,6 +442,12 @@ function densityTier(total: number): string {
       <div id="tl-sidebar-nav">
         <h2 class="tl-sidebar-heading">Chapters</h2>
         <ul class="tl-chapter-list">
+          <li>
+            <a href="#prologue" class="tl-chapter-link tl-chapter-link--prologue" data-chapter-link="prologue">
+              <span class="tl-chapter-num tl-chapter-num--prologue">&#9670;</span>
+              <span class="tl-chapter-name">Prologue</span>
+            </a>
+          </li>
           {[...chapters.entries()].map(([chapterNum, entries]) => {
             const sessionCount = entries.length;
             const maxSessions = Math.max(...[...chapters.values()].map(e => e.length));
@@ -618,6 +779,71 @@ function densityTier(total: number): string {
     font-size: 0.75rem;
     color: var(--color-ink-300);
     margin-left: auto;
+  }
+
+  /* ===== Prologue ===== */
+  .chapter-header--prologue {
+    border-bottom-color: var(--color-parchment-400);
+  }
+
+  .chapter-header--prologue .chapter-number {
+    color: var(--color-ink-500);
+    font-style: italic;
+  }
+
+  .chapter-header--prologue .chapter-title {
+    color: var(--color-ink-500);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1rem;
+  }
+
+  .tl-spine--prologue::before {
+    background: var(--color-parchment-400);
+    opacity: 0.6;
+  }
+
+  .tl-node--history {
+    opacity: 0.85;
+  }
+
+  .tl-node--history:hover {
+    opacity: 1;
+  }
+
+  .tl-node-dot--history {
+    border-style: dashed;
+  }
+
+  .tl-node-label--dr {
+    color: var(--color-ink-500);
+    font-weight: 600;
+    font-size: 0.75rem;
+  }
+
+  .tl-node-title--history {
+    font-family: var(--font-serif);
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--color-ink-700);
+    line-height: 1.3;
+    font-style: italic;
+  }
+
+  .tl-history-summary {
+    font-size: 0.8125rem;
+    color: var(--color-ink-400);
+    line-height: 1.5;
+    margin: 0.125rem 0 0.25rem;
+  }
+
+  .tl-chapter-link--prologue {
+    font-style: italic;
+  }
+
+  .tl-chapter-num--prologue {
+    font-size: 0.625rem;
+    text-align: center;
   }
 
   /* ===== Spine ===== */
@@ -1012,10 +1238,11 @@ function densityTier(total: number): string {
   }
 </style>
 
-<script is:inline define:vars={{ entitySessionsJSON, entityMetaJSON, base }}>
+<script is:inline define:vars={{ entitySessionsJSON, entityMetaJSON, historyMetaJSON, base }}>
   document.addEventListener('DOMContentLoaded', () => {
     const entitySessions = JSON.parse(entitySessionsJSON);
     const entityMeta = JSON.parse(entityMetaJSON);
+    const historyMeta = JSON.parse(historyMetaJSON);
     const body = document.body;
     const nodes = document.querySelectorAll('.tl-node');
     const chapters = document.querySelectorAll('.tl-chapter');
@@ -1119,7 +1346,12 @@ function densityTier(total: number): string {
       catEl.textContent = meta.category;
       catEl.dataset.cat = meta.category;
       document.getElementById('tl-entity-desc').textContent = meta.description || '';
-      document.getElementById('tl-entity-sessions').textContent = 'Appears in ' + sessions.length + ' session' + (sessions.length !== 1 ? 's' : '');
+      var historyCount = sessions.filter(function(s) { return s.startsWith('history:'); }).length;
+      var sessionCount = sessions.length - historyCount;
+      var countParts = [];
+      if (historyCount > 0) countParts.push(historyCount + ' prologue entr' + (historyCount !== 1 ? 'ies' : 'y'));
+      if (sessionCount > 0) countParts.push(sessionCount + ' session' + (sessionCount !== 1 ? 's' : ''));
+      document.getElementById('tl-entity-sessions').textContent = 'Appears in ' + countParts.join(' and ');
 
       // Session list in sidebar
       var listEl = document.getElementById('tl-entity-session-list');
@@ -1127,12 +1359,21 @@ function densityTier(total: number): string {
       sessions.forEach(function(sid) {
         var node = document.querySelector('[data-session="' + sid + '"]');
         if (!node) return;
-        var title = node.querySelector('.tl-node-title');
-        var label = node.querySelector('.tl-node-label');
         var a = document.createElement('a');
         a.className = 'tl-entity-session-link';
+
+        // History entries use DR year labels; diary entries use Ch/S labels
+        if (sid.startsWith('history:')) {
+          var hid = sid.replace('history:', '');
+          var hm = historyMeta[hid];
+          a.textContent = (hm ? hm.year + ' DR' : '') + ' ' + (hm ? hm.title : hid);
+        } else {
+          var title = node.querySelector('.tl-node-title');
+          var label = node.querySelector('.tl-node-label');
+          a.textContent = (label ? label.textContent : '') + ' ' + (title ? title.textContent : sid);
+        }
+
         a.href = '#' + sid;
-        a.textContent = (label ? label.textContent : '') + ' ' + (title ? title.textContent : sid);
         a.addEventListener('click', function(e) {
           e.preventDefault();
           node.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -1151,7 +1392,7 @@ function densityTier(total: number): string {
         bsCat.textContent = meta.category;
         bsCat.dataset.cat = meta.category;
         document.getElementById('tl-bs-desc').textContent = meta.description || '';
-        document.getElementById('tl-bs-sessions').textContent = 'Appears in ' + sessions.length + ' session' + (sessions.length !== 1 ? 's' : '');
+        document.getElementById('tl-bs-sessions').textContent = 'Appears in ' + countParts.join(' and ');
         document.getElementById('tl-bs-link').href = base + '/wiki/' + slug + '/';
       }
     }
