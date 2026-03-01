@@ -1,7 +1,9 @@
 ---
-title: Aftermath
+title: Home - Aftermath
 chapter: 14
+chapterTitle: Home
 session: 13
+summary: "In the battle's aftermath, Patches becomes a Harper double agent, Mordenkainen reveals a second Ziggurat was destroyed beneath Sundabar, JmJm is visited by his ghostly ancestor Xrykalos, Cirrus gains divine awareness of threats within the Barony, and interrogation of captured goblins confirms that Ancalagon serves Zhengyi while the Amnians supplied the Doomstar Legion."
 people:
   - "aliyah-faen-tlabbar"
   - "ancalagon"
@@ -21,284 +23,100 @@ people:
   - "surtr"
   - "tarkathee-daru"
   - "theodemir"
-  - "vaketh"
   - "vecna"
   - "zhengyi"
 places:
+  - "al-askar"
   - "amn"
   - "astral-plane"
+  - "baldurs-gate"
   - "fane-of-selune"
-  - "feanons-tower"
   - "keep-of-thunder-bluff"
   - "luskan"
   - "oerth"
   - "silverymoon"
   - "sundabar"
   - "the-establishment"
+  - "thunder-bluff"
   - "vaasa"
 factions:
   - "amnians"
   - "bregan-daerthe"
   - "doomstar-legion"
   - "drow-faction"
-  - "netherese"
   - "the-harpers"
   - "warlocks-of-ceregorach"
   - "zhentarim"
 ---
 
-As the adrenaline from the battle fades, the group gathers in the Keep courtyard
+## The Harper
 
-Troops are sent out to clear the dead, pick up any surviving attackers as prisoners and sent into town to secure the rest of the Barony
+As the adrenaline faded, the group gathered in the [[Keep of Thunder Bluff|Keep]] courtyard. Troops were sent to clear the dead and take prisoners. The Dwarven gun crews worked with [[Surtr]] to swap out spent barrels in case the dragon returned. Smouldering wand-barrels piled up, scorching a patch of grass.
 
-The Dwarven gun crews begin to work with Surtr to swap out spent barrels just in case the Dragon is foolish enough to return
+The all-clear horn sounded. Civilians filtered out of the Keep tunnels and back to their homes. The heroes scattered to their respective lairs to rest.
 
-the smouldering delzoun “wands” begins to burn a patch of grass as they pile up
+[[Aliyah Faen Tlabbar|Patches]] returned to [[The Establishment]] and sent for Lady Aldencroft. The woman arrived looking haggard — she had clearly fought that day. In her office, Patches laid it out plainly: [[The Harpers]] needed her, and Patches was uniquely positioned as a double agent with intimate knowledge of the [[Zhentarim]]. Lady Aldencroft reluctantly agreed, exchanging a Harper badge for intelligence on the Zhent Silvertongues of [[Baldur's Gate]] and [[Luskan]].
 
-With the all-clear horn blown down in the town, the civilians begin to filter out of the keep and the tunnels below and back to their homes
+They traded a few more barbs and thinly veiled insults before parting.
 
-Patches hails down a nearby guard to have Lady Aldencroft sent to her office in the Establishment
+## The Archwizard
 
-Each of the heroes head to their respective lair to rest and recuperate while the B-Team maintains guard over the Barony.
+[[Feanon Serinde|Feanon]] returned to [[Feanon's Tower|his tower]] to find a young elven woman — Sinya Maya — attending the front desk. She had not yet passed his security tests, which annoyed him. Sheepishly, she told him three people had teleported in and were being attended by [[Theodemir]].
 
-It is early afternoon and the stormy sky begins to break showing warm sunlight and blue skies.
+Feanon took the elevator up. As the older wizard departed, they shared memories, and Feanon was instantly caught up: [[Mordenkainen]], [[Megno Slatesunder|Megno]], and [[Dean Sejuk|Sejuk]] were here.
 
-Cirrus returns to his Fane, incensed at the attack and already beginning to formulate a speech to turn it in his favor.
+A dark Ziggurat — nearly identical to the one the group had just destroyed — had been killed beneath [[Sundabar]] by Mordenkainen and the Delzoun Emperor. That Ziggurat had been grown from the life force of Megno's apprentice, Molly, who was now dead.
 
-As he walks, he receives a Sending from someone in Silverymoon.
+Megno was beside himself. He wished to join Feanon's tower and help research the Ziggurats and [[Zhengyi]]. Feanon accepted him as his Sage.
 
-They are aware of the attack, it was not the only one that day and they are sending help though the attack was foiled.
+Sejuk departed to meet with Baron Cirrus, remarking that he still had not forgiven Feanon for blowing up his house.
 
-Cirrus holes up in his sanctum to rest and awaits the envoy from Silverymoon
+Mordenkainen dove into specifics. On [[Oerth]], he was battling a cabal of Liches bringing monsters through trans-dimensional portals — creatures that were nearly invisible, bled acid, and reproduced by planting eggs in victims. Feanon recognised the description of Alghouls but said nothing.
 
-Patches returns to the Establishment and waits for Lady Aldencroft, watching the front door from her private balcony
+The archwizard examined the broken Phylactery — black Sourcestone and Prismeum — and remarked that Prismeum was so rare as to be mythical. Feanon shared what he knew of Sourcestone, careful to omit mention of [[Vecna]].
 
-The lady arrives, looking haggard, she clearly fought that day
+As the conversation wound down, Mordenkainen gestured at Feanon's ice staff. It was past time, he said, for Feanon to craft his own epic staff and join the other Archwizards of the Circle of [[Mystra]] in the [[Astral Plane|Astral Sea]]. Admittance to *the Rock* required an invitation and a self-crafted Archwizard's staff.
 
-She is led to Patches office where they have a face to face meeting
+Feanon said he would use Prismeum. Mordenkainen was impressed.
 
-Patches lays it out - The Harpers need her and Patches is a perfect double agent for the Harpers with her knowledge of the Zhentarim
+## The Ghost King
 
-Lady Aldencroft reluctantly agrees to give Patches a Harper badge in exchange for information on the Zhent Silvertongues of Baldur’s Gate and Luskan.
+[[Jack Mayer-Johnson Mathews|JmJm]] returned to his theatre, summoned his thespians for *lessons*, and worked on his masterpiece before collapsing into rest.
 
-They trade a few more barbs and thinly veiled insults before Lady Aldencroft takes her leave and Patches retires to her sanctum.
+He woke in a cold sweat. A pale witchlight illuminated an alcove and a ghostly figure phased through the wall — an old elf with regal bearing and a striking physical resemblance to JmJm.
 
-Tark, empowered by Vaketh, flies north to meditate on Zhengyi’s assault
+The ghost sighed and proclaimed the line doomed.
 
-Feanon returns to his Tower, leaving his apprentices to help secure the keep.
+This was Xrykalos, JmJm's great-great-grandfather on his mother's side. He had come to answer the prayers of his great-granddaughter — JmJm's mother — who prayed for [[Bowie|Bowie's]] safe return. To assist, three ghostly cousins would accompany JmJm and lend their power in the most dire circumstances.
 
-As he arrives in the foyer, he notes the new apprentice: The young elven woman, Sinya Maya, attending the Front Desk.
+JmJm was elated. He and his ghost band headed into the Barony to celebrate while Xrykalos remained behind, brooding about his descendant's lack of seriousness.
 
-This annoys him as she has yet to pass his security tests.
+[[Cirrus Al-Kayan|Cirrus]] communed with [[Crisserei]], his celestial ally. The Planetar offered a gift: divine awareness of hostile creatures within the Barony. Thousands of silvery eyes festooned the [[Fane of Selune|Fane]], granting a danger sense. Cirrus immediately detected several enemies — some clustered at Feanon's tower, one on the road to town. He remembered a newcomer: an Asian bowyer who had arrived while the group was in Al Askar.
 
-She notes him enter, and his annoyance and sheepishly tells him that three people have just teleported into the tower and are being attended to by Theodemir 
+## The Interrogation
 
-Feanon takes his elevator up and messages Theodemir to take his leave.
+Night fell. The Barony celebrated its victory under a full moon.
 
-As the older wizard leaves the meeting, they share memories and Feanon is instantly caught up on the goings on
+[[Horatio Von Bumidere|Buumi]] lay unconscious in a booth at The Establishment after being poisoned by Patches for trying to kiss her. She was training him to resist Drow poisons, she explained, if they were to court properly.
 
-Mordenkainen, Megno and Sejuk (Arcanist of Silverymoon) are here.
+Cirrus spotted Mordenkainen and Sejuk enjoying street food and could not resist the opportunity to rally his people. He ascended the announcement stage and delivered a rousing speech blaming [[Amn]] for the day's attack, successfully stoking the crowd. Then he announced enemies in their midst and gestured for the bowyer to be arrested.
 
-A dark ziggurat, almost identical to the one the group just destroyed was killed beneath Sundabar by Mordenkainen and the Delzoun Emperor and his personal guard.
+The man tried to run. The group apprehended him instantly. He spat on Cirrus and snarled: *The [[Warlocks of Ceregorach]] will all die!* Then he bit down on something. His head exploded.
 
-The Ziggurat beneath Sundabar was grown from the life force of Megno’s apprentice; Molly, who is now dead with the Phylactery of the Ziggurat being destroyed.
+Cirrus wasted no time — prestidigitation for the crowd, the body to the Fane. He ended his speech with the dramatic death, seemingly taking credit. The story of how Cirrus killed the man by making his head explode spread through town.
 
-Feanon enters the room and the conversation continues as if he had been there the whole time
+In JmJm's theatre, Cirrus opened his demiplane door. The goblin prisoners had arranged themselves in a circle facing outward. *He's back! GET IM!* They rushed the door. Cirrus dropped them with a wave of hypnotic energy. Mordenkainen restrained them with a wall of force.
 
-Megno is beside himself, feeling that he failed his apprentice.  
+One by one, the goblins were questioned. Most spat curses and Patches ended them. Finally, the last — a boss named Gurk, lying in a pool of his comrades' blood — cracked.
 
-He wishes to join Feanon in his tower and help to research these ziggurats and Zhengyi.
+[[Ancalagon]] was a vassal of [[Zhengyi]]'s power structure, not the Amnians. The [[Amnians]] had supplied the [[Doomstar Legion]]. Ancalagon had been *retasked* to the Barony by the Amnians. Their goal was the birth of the Ziggurat, followed by a pincer attack — but the feral creature had not cooperated. The dragon answered to a dragon above himself and had received his fancy new Hollow Armour from that superior.
 
-Feanon accepts him as his Sage.
+Gurk was sent to spy on Ancalagon in exchange for his life.
 
-Sejuk takes his leave, wanting to meet with Baron Cirrus.  He remarks that he still has not forgiven Feanon for blowing up his house.
+The group left the blood-drenched demiplane. Mordenkainen would return to [[Oerth]] to continue his fight. Sejuk would inform the [[Silverymoon]] Council that the Amnians and Zhengyi were creating Ziggurats across the North. Feanon scried on the four Ziggurats Sejuk had reported — two eluded him, but two were travelling, their cracked Sourcestone slabs dragging themselves forward on fleshy arms through wreathing storms full of Oni.
 
-Mordenkainen then dives into the specifics of his own visit - he has many questions he was hoping Feanon could answer.
+Patches found [[Tarkathee Daru|Tark]] on the roof of JmJm's theatre, a travelling pack beside him. She sat down next to him. She had talked to the others. They would all go.
 
-On Oerth, Mordy has been battling a cabal of Liches bringing in monsters and magics through trans-dimensional portals. 
+As she left the Establishment, she found a sealed envelope past the tunnel door — the wax seal of [[Bregan D'Aerthe]]. Inside: a black coin with a woman's head in relief, and a note — *For Luck*. [[Jarlaxle]].
 
-Strange monsters and corruption are being brought through. Monsters that are almost invisible, with acid blood and reproduce by planting eggs in victims. Feanon recognizes he is talking about Alghouls but says nothing.
-
-Mordy gestures at the broken Phylactery of the Ziggurat, made of black Sourcestone and Prismeum, remarking that he has never seen black crystal like this, and Prismeum is so rare as to be mythical
-
-The Black Sourcestone is covered in runes, but due to the damaged nature, nothing could be gleaned from them.
-
-Feanon shares what information he has on Sourcestone, careful to omit mention of Vecna
-
-The Prismeum is still a mystery, but based on the grafted abomination at the heart of the Ziggurat, Mordy suspects that nothing short of ancient Netherese magics could twist something so vile.
-
-As the conversation winds down - each question ending in mystery - Mordy motions at Feanons Ice staff.
-
-The archwizard remarks that its past time Feanon crafts his own epic staff so that he can join the other Archwizards of The Circle of Mystra in the Astral Sea.
-
-Admittance to “The Rock” is only allowed once a wizard has been invited and crafted their Archwizard’s staff.
-
-Feanon says he will utilize prismeum to make his and Mordenkainen is impressed.
-
-The Archwizard then takes his leave to stay at Patches establishment
-
-Feanon begins to rest.
-
-JmJm broodingly strides back to his Theater, ravens cawing and following
-
-Once there, he begins to play the Organ atop the stage, summoning his band of Thespians.
-
-Once they all arrive, JmJm begins his “lessons” to them and then continues to work on his new masterpiece before getting some much needed rest.
-
-They all take a much needed long rest and night falls on the barony without incident.  
-
-The inhabitants begin to celebrate their victory and offer praises to Selune.
-
-Patches leaves her sanctum to meet up with everyone that evening.  As she leaves she spots a sealed envelope just past the tunnel door, sealed with the wax seal of Bregan D'aerthe
-
-Wearing gloves, she carefully opens the envelope and finds a black coin within with the relief of a woman's head on one side and the other is too scratched up to tell. 
-
-A note inside reads “For Luck” - Jarlaxle.
-
-JmJm awakes with a cold sweat and gooseflesh
-
-He extricates himself from the orgy pile of sleeping people and moves off the “sleeping” dais.
-
-A pale witchlight illuminates a nearby alcove and then a ghostly figure phases through the wall.
-
-It is an old looking elf with regal bearing and a striking physical similarity to JmJm
-
-The old king sighs and looking over JmJm, proclaims his line doomed
-
-The ghost is JmJm’s great great grandfather on his mother’s side; Xrykalos
-
-He says he has come to answer the prayers of his Great Grandaughter - JmJm’s mother
-
-She prays for Bowie’s (JmJm’s father) safe return
-
-Xrykalos’ restless shade has come to implore JmJm to find his father.
-
-To assist, three ghostly “cousins” of JmJm have also come and will assist the bard in his performance in the most dire of circumstances.
-
-JmJm is elated and he and his ghost band head into the Barony (with the ghosts possessing a few Thespians) to celebrate while Xrykalos remains behind, brooding about JmJm’s lack of seriousness.
-
-Cirrus communes with his Celestial ally; Crisserei
-
-They discuss how to best protect the barony from attacks like the one it suffered this day
-
-The planetar offers a celestial gift of awareness and Cirrus accepts and finds that he can immediately detect any hostile creature within the barony.  He does not know who they are, but he can tell where they are.
-
-Thousands of silvery eyes festoon the Fane, granting this danger sense.
-
-Cirrus immediately becomes aware of several enemies of his within the Barony.
-
-Several are all at Feanon’s tower, clouding Cirrus’ ability to discern who it may be.
-
-One however is on the road to town and Cirrus remembers a newcomer to the barony, an asian man and purveyor of bows who appeared while the group was in Al’Askar
-
-Cirrus continues to compose a speech for the evening's festivities…
-
-The sun sets and a full moon rises
-
-The Barony begins to celebrate their victory
-
-The group gathers in the center of town, several of them at The Establishment
-
-Buumi is unconscious in a booth after being poisoned by Patches for trying to kiss her
-
-She’s working on getting him trained to resist Drow Poisons if they are to court properly
-
-The town center is bustling and Cirrus cannot pass up such an opportunity to rally his people
-
-He spots Mordenkainen and Sejuk in the crowd enjoying some street food
-
-He marches up to the stage in the center of town (used for announcements) and ascends the stairs to address his people
-
-Cirrus makes a rousing speech, blaming Amn for the day’s attack and successfully stoking the populace against the Amnian nation
-
-Cirrus then announces that enemies are in their midst (sensing the Boweyer in the crowd) and gestures for the man to be arrested.
-
-The man tries to make a break for it but is quickly apprehended by the powerful group
-
-Cirrus approaches the man, who spits on him and with a cold rage, says “The Warlocks of Ceregorach will all die!!”
-
-The man then bites down on something and his head explodes in a shower of red
-
-People in the crowd scream and several throw up. 
-
-Cirrus wastes no time beginning to have people cleaned via prestidigitation and has the body taken to the Fane.
-
-He may still get some answers from a headless corpse, but it sure makes it more difficult
-
-He ends his speech with the dramatic death, seemingly taking credit for smiting the man and the festivities continue
-
-The story of how Cirrus killed the man by making his head explode spreads through town.
-
-Its been a crazy day and there’s still much mystery surrounding the days events
-
-Cirrus has another batch of prisoners to interrogate and JmJm offers his theater as the location to do it
-
-They insist Sejuk and Mordenkainen join them in interrogating the Goblin commanders of Ancalagon’s forces
-
-In the Theater, Cirrus opens the door to his Demi plane and is greeted by a sight
-
-The Goblins have sat in a circle in the center of the room, facing out and have been waiting for Cirrus to return
-
-The moment the door opens, one yells “He’s back! GET IM!”
-
-Goblin Bosses rush the door, Spellcasters release their spells…
-
-But Cirrus is faster and a wave of Hypnotic energy rolls over them
-
-The Goblin Booyagh’s try and counterspell it, but their magic is nothing compared to Cirrus’
-
-The group enters the Demiplane to question the stunned Goblins and they arrange each flat on their back in the strangely non-descript room
-
-Mordenkainen then restrains them with a Wall of Force, stopping them from getting up
-
-Each goblin is then shaken from its stupor and questioned, one at a time. 
-
-Most spit curses and refuse to betray their master so Patches ends them
-
-They manage to piece together some of the events until finally the last of the Goblins, lying in a pool of its comrades blood, cracks and cooperates
-
-A Boss named Gurk.
-
-Ancalagon is a vassal of Zhengyi’s power structure, not the Amnians
-
-The Amnians got the Doomstar Legion involved
-
-Ancalagon met with the Amnians and was “re-tasked” to come to the Barony
-
-Their goal was the birth of the Ziggurat to then pincer the Barony between two forces, it did not go as planned (due to it lacking any kind of intelligence)
-
-Ancalagon answers to a Dragon above himself, Gurk does not know his name, only that Ancalagon got his fancy new armor from him
-
-Gurk will go and spy on Ancalagon for the group (he promised this under pain of death, but we will see)
-
-The group has Gurk taken to Feanon’s tower for processing
-
-They then leave the blood-drenched demiplane to discuss next steps in the real world
-
-Mordenkainen will return to Oerth to continue to battle the Lich Cabal and their other-worldly assistance (he could really use the groups information on Alghouls and Vecna, feanon did not tell him and no one else has enough context to bring it up)
-
-Sejuk will return to Silverymoon and inform the Council that the Amnians and Zhengyi are arrayed against them and creating these Ziggurats
-
-Feanon then decides to try scrying on the four Ziggurats Sejuk reported
-
-He has no luck with two, but the others he manages to catch glimpses of
-
-Both are travelling, the Sourcestone slabs cracked with fleshy arms and tendrils dragging itself forward
-
-Both are wreathed in storms (control weather), limiting visibility
-
-The storms have Oni in them, likely as guardians
-
-He caught a glimpse of a massive body of water to the south
-
-Patches spots Tark on the roof of JmJm’s theater
-
-She climbs up to her friend
-
-The monk is sitting on the roof, watching the group discuss their plans.  He has a travelling pack next to him
-
-Patches notes it and reassures her friend; She will go with him East to deal with Zhengyi and she has talked with the others.
-
-They will all go.
-
-In the morning, the group heads East to deal with the Witch King of Vaasa.
+In the morning, the group would head east to deal with the Witch King of [[Vaasa]].

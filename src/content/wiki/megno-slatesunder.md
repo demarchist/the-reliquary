@@ -13,3 +13,7 @@ Megno is a gifted craftsman whose workshop is cluttered with half-finished proto
 His most remarkable collaboration was the prosthetic arm for Buumi. Working alongside Fëanon and Gundren over the course of a month in his Sundabar workshop, the three created a metal cap and brace that generates a glowing hand of energy upon command — restoring to the paladin something of what Barovia had taken.
 
 Megno fought bravely during the Battle for Silverymoon, leading the Sundabarian Dwarven delegation from the front with sheets of flame and defensive magic. His experience during the invasion strengthened his belief in the treaty between Silverymoon and the dwarves, and he volunteered to attend the Council of Helm's Hold personally. He has a human apprentice named Molly, a gangly teenage girl whose skills he vouches for despite appearances.
+
+## Loss and New Purpose
+
+A Zhengyi Ziggurat beneath Sundabar was grown from the life force of Megno's apprentice Molly, killing her. Mordenkainen and the Delzoun Emperor destroyed the structure, but the loss devastated Megno. Wracked with guilt and seeking answers, he joined Feanon's Tower as its Sage, dedicating himself to researching the Ziggurats and Zhengyi's methods.

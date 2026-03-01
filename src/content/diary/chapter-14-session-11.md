@@ -1,9 +1,13 @@
 ---
-title: Ziggurat
+title: Home - Ziggurat
 chapter: 14
+chapterTitle: Home
 session: 11
+summary: "Beucephelus reveals his true Pit Fiend form and rips the Demilich from its demiplane prison, the Doomstar Legion teleports away laughing, Tark is trapped inside the Demilich's soul void, and JmJm's Earthquake buries the Ziggurat — only for a Grafted monstrosity of flesh and crystal to begin crawling from the rubble."
 people:
   - "aliyah-faen-tlabbar"
+  - "beucephelus"
+  - "chani"
   - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
@@ -12,107 +16,75 @@ people:
   - "tarkathee-daru"
 places:
   - "shadowfell"
+  - "the-evermoors"
 things:
   - "steden"
 factions:
   - "doomstar-legion"
 ---
 
-The group continues their assault on the Doomstar Legion, hammering the steps of the Ziggurat and the shield-wall formation of Devils
+## The Pit Fiend
 
-JmJm and Tark duel Bucephelus
+The group hammered the steps of the Ziggurat, pressing the [[Doomstar Legion]]'s shield wall while [[Jack Mayer-Johnson Mathews|JmJm]] and [[Tarkathee Daru|Tark]] duelled Beucephelus. The Doomstar battlemages stepped from cover again, but [[Aliyah Faen Tlabbar|Patches]] was ready — three quarrels punched into one before he could finish casting. The other dashed forward and attempted Disintegrate on [[Feanon Serinde|Feanon]], who counterspelled it without looking up.
 
-The Doomstar Battlemages step out of cover once more but Patches was ready, immediately putting three quarrels into the chest of one
+[[Cirrus Al-Kayan|Cirrus]] felt another pull on his soul. Nearby, the air shimmered and cracked as the Demilich tried to push through the planar boundary. The screaming skull flickered into view for an instant.
 
-The other however, dashes forward to attempt to disintegrate Feanon but he easily counterspells
+Beucephelus's head snapped around. His eyes lit with sudden revelation.
 
-Cirrus feels another pull and nearby the air ripples and shimmers as the Demilich tries to push through the planar boundaries
+The devil Thunderstepped away — taking a solid hit from Tark before the blast hurled both the monk and JmJm backward — and reappeared where the skull had been. He roared a prayer to Mathias Doomstar.
 
-Bucephelus’ head swings around and he stares at the screaming skull and his eyes light up with revelation
+An ice storm slammed into the legionnaires on the Ziggurat, dropping several. [[Gundren Rockseeker|Gundren]], Cirrus, Feanon, and Patches poured fire into the thinning formation.
 
-The Devil Thundersteps, receiving a solid hit from Tark in response before the blast throws JmJm and Tark backward
+Patches leapt into their ranks. A flash of moonlight — Steelwind Strike — and she cut Beucephelus's throat.
 
-Bucephelus appears next to where the skull had just been and with a roar he asks for power from Morathis Doomstar
+The great devil staggered and dropped to one knee. Then he erupted with power. His Hobgoblin form twisted and grew, muscle and bone cracking and reforming. A Pit Fiend took his true shape.
 
-The Legionnaires on the Ziggurat get slammed by an Ice storm and several go down as Gundren, Cirrus, Feanon and Patches continue their barrage
+His hands blazed with infernal power. He reached *through* the planes and cast Demiplane — not to open his own, but to crack open Cirrus's. He ripped the Demilich free.
 
-Bucephelus shouts a command to the remaining Battlemage 
+Beucephelus staggered back from the undead monster and formed up with his remaining squad in a shield wall. The tiny skull floated in the air for a moment, scanning the battlefield.
 
-Patches leaps into the thinning formation of Devils and with a flash of moonlight, hits them with a Steelwind Strike, cutting Bucephelus’ throat.
+It screamed.
 
-The great Devil staggers back and down to one knee before erupting with power
+Fleshy tendrils erupted from the crystal surface of the Ziggurat, grabbing the skull and pulling it back toward the structure. Everyone nearby doubled over as their life force was sapped by the shrieking undead.
 
-His Hobgoblin form twists and grows 
+Beucephelus burst out laughing. He turned to the group, saluted, and wished them good luck.
 
-The Pit Fiend takes his true form
+The battlemage used a scroll of Teleport. The Doomstar Legion vanished — legionnaires, corpses, and all.
 
+## The Demilich
 
-The Devil’s hands blaze with infernal power and he reaches *through *the planes casting Demiplane and ripping the Demilich from Cirrus’ pocket plane.
+The screaming skull strained against the flesh tendrils, desperately trying to get closer to the group to feed on their souls. Gundren immediately began blasting the tendrils, severing them one after another, but more lashed out to replace each one.
 
-Bucephelus staggers back from the undead monster, forming up with his squad into a shield wall
+The Demilich's dead gaze fell over Tark. There was a pulse of necrotic energy, and the monk vanished.
 
-The tiny skull floats there for a moment scanning the battlefield
+JmJm galloped forward on [[Steden]], circuiting the Ziggurat to scoop up the unconscious hostages — Chani, the youths, Menriel — and carried them to safety.
 
-It then Screams and fleshy tendrils lash out from the crystal surface of the Ziggurat, grabbing and pulling the skull back toward the structure
+Feanon called on his most potent magic and Wished for Feeblemind to afflict the skull. The massive psychic assault washed over the feral undead without effect. Feanon cursed.
 
-everyone nearby doubles over in pain as their life essence is sapped by the screaming Demilich
+Tark found himself in an endless void, lit only by the red glow of his prosthetic arm. He could see a faint shimmering dome around him. The moment he noticed it, the darkness lashed at him — sinking cold claws into his essence, sapping his strength. He screamed. His voice echoed through the endless plane of shadow.
 
-Bucephelus bursts out laughing then turns to the group, saluting and wishing them good luck.
+The group assaulted the Demilich with everything they had, but it was incredibly resistant, shrugging off spell and steel alike while continuing to feed on their life force — and on Tark, trapped within.
 
-The Battlemage uses a scroll of Teleport and the Legionnaires are gone, including the corpses.
+Inside the void, Tark fought back against the devouring darkness. His arm blazed with power. He launched himself at the shimmering dome he could barely see and smashed through. Warmth flooded back as he reappeared in the material world.
 
-The screaming skull remains, straining against the flesh tendrils as it desperately tries to get closer to the group to feed on their souls
+## The Earthquake
 
-Gundren immediately starts blasting at the Tendrils, severing them quickly, but more of the fleshy ropes lash out and grab at the Skull
+JmJm reared on Steden. With a shout and a cawing of ravens, he called forth a wave of power.
 
-The undead gaze falls over Tark and there’s pulse of necrotic energies and the Monk vanishes
+The earth began to quake. Trees toppled. Great fissures split open beneath the Ziggurat.
 
-JmJm gallops forward on Steeden, doing a circuit of the Ziggurat, scooping up the unconscious hostages and carrying them to safety.
+The group retreated as the ground gave way. The structure buckled and cracked, revealing flesh beneath the stone. The whole thing fell. A tendril snatched the Demilich and pulled it down into the destruction.
 
-Feanon calls upon his most potent magic, attempting to shut the Demilich down quickly and Wishes for a Feeblemind to afflict it
+A great deluge of earth and rock heaped upon the ruins and continued for several minutes, leaving nothing but a dusty crater of smashed stone and shattered trees.
 
-The massive psychic assault simply washes over the feral undead monster, having little to no effect
+The group gathered nearby, breathing hard. The hostages were easily stabilised. The storm [[Doc]] had called earlier to douse the fires rolled overhead, thunder rumbling.
 
-Feanon curses
+Then they heard shifting stone from within the pit.
 
-Tark finds himself in an endless void lit only by the red of his glowing prosthetic arm
+A scream erupted from the crater — like the shriek of some titanic banshee — and echoed across the Barony for miles.
 
-He can see a faint shimmering dome around him in the red light
+To the south, an answering roar rose from the Evermoors. The black dragon was coming.
 
-Just as he notes this, the Darkness lashes at him, sinking cold claws into his very essence and sapping his strength
+The group rushed to the edge and looked down. The smashed Ziggurat lay below like a gargantuan crushed snail — panes and blocks of shattered crystal revealing raw flesh underneath. Thousands of arms, tendrils, and many-jointed legs had erupted from the structure's body.
 
-He yells in pain, his voice echoing in the endless plane of shadow…
-
-The group assaults the Demilich but finds it to be incredibly resistant to everything they throw at it and it keeps feeding on their life force - and the life force of Tark
-
-The fleshy tendrils keep getting blasted and severed, but the Ziggurat sends out more and more, slowly but surely pulling the floating skull back toward the mass of the structure
-
-Inside the Void, Tark battles at the devouring darkness and notes the shimmering in the nearby shadow. 
-
-His arm blazes with power and he launches himself at the shimmering dome he can just barely see and smashes through, reappearing in the material world as warmth returns to him
-
-JmJm rears on Steeden and with a shout and cawing from a flock of ravens, calls forth a massive wave of power.
-
-The earth begins to quake and trees fall as great fissures open up beneath the Ziggurat
-
-The group quickly retreats, backing off from the powerful Earthquake as the ground gives way beneath 
-
-the structure buckles and cracks, showing flesh below the stone
-
-The whole thing falls and the Demilich is pulled back and down by a tendril, vanishing into the destruction 
-
-A great deluge of earth and rock heaps upon the fallen structure and continues for several minutes leaving nothing but a dusty crater of smashed stone and trees
-
-The group gathers nearby, breathing heavily with exertion and attend to the rescued hostages
-
-All are easily stabilized and they take a short rest
-
-The storm called by Doc earlier that day to put out the fires in town roils above, thunder rumbling ominously
-
-They hear shifting stone and earth from within the pit of the earthquake and a scream erupts from the pit like the shriek of some titanic banshee and echoes across the Barony for miles
-
-To the south, an answering roar goes up from the Evermoor and the Black Dragon waiting there
-
-The group rush to the edge of the pit and look down to see the smashed form of the Ziggurat like a gargantuan crushed snail; panes and blocks of shattered crystal revealing flesh underneath and thousands of arms, tendrils and many-jointed legs have erupted from the structures flesh
-
-it slowly pulls itself from the wreckage of the earthquake…
+It was slowly pulling itself from the wreckage.

@@ -20,3 +20,7 @@ Mordenkainen's contributions were decisive. He cast Mind Blank on Patches to pro
 ## Personality
 
 Mordenkainen is imperious and impatient — he reduced JmJm's animated bookcase without hesitation when it could not fit through a door, and cast spells with a casual mastery that reminded the group they were in the presence of a living legend. His relationship with Stick is one of fond exasperation; the sentient staff is flirtatious, excitable, and announces its movements with telepathic sound effects. After the battle, Mordenkainen slumped to the floor, said he needed to sleep for a month, and departed to Oerth — promising to replace the lost sending stone and stay in contact about the larger cosmic threats.
+
+## The Ziggurats
+
+Mordenkainen returned to Faerûn after destroying a dark Ziggurat beneath Sundabar alongside the Delzoun Emperor. He visited Feanon's Tower to compare notes — the Sundabar Ziggurat had been grown from the life force of Megno's apprentice Molly. On Oerth, he was battling a cabal of Liches bringing trans-dimensional monsters through portals. He examined the Barony Ziggurat's broken Phylactery — black Sourcestone and mythically rare Prismeum — and invited Feanon to craft an Archwizard's staff and join the Circle of Mystra on the Rock in the Astral Sea.

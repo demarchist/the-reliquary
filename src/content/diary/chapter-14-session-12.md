@@ -1,7 +1,9 @@
 ---
-title: The Grafted (anniversary game)
+title: Home - The Grafted
 chapter: 14
+chapterTitle: Home
 session: 12
+summary: "The group frees the Aldjinn to regain their spent magic, Planeshifts to the Shadowfell to destroy the Grafted abomination — a fused Storm Giant, White Dragon, Demilich, and Atropal connected to Atropos — slays the Corpsetaker, shatters the Phylactery, and races home to defend the Keep of Thunder Bluff against Ancalagon the Void and his goblinoid army in an epic siege."
 people:
   - "aldjinn"
   - "aliyah-faen-tlabbar"
@@ -25,310 +27,106 @@ people:
   - "vecna"
   - "zhengyi"
 places:
+  - "al-askar"
   - "faerun"
   - "feanons-tower"
   - "keep-of-thunder-bluff"
   - "shadowfell"
-  - "snorbuls-hole"
+  - "the-evermoors"
   - "thunder-bluff"
 things:
   - "bag-of-holding"
   - "the-reaver"
   - "thundercannon"
   - "well-of-many-worlds"
-factions:
-  - "netherese"
-  - "svirfneblin-faction"
 ---
 
-Snorbul and Thorna arrive, having seen the plume of dust and smoke from the Barony proper
+## The Flint Knife
 
-Snorbul appears to be healed of his dismemberment - the limbs replaced by roots and stone
+[[Snorbul]] and [[Thorna]] arrived, having seen the plume of dust and smoke from the Barony. The gnome's severed limbs had been replaced — roots and stone where flesh had been. But there was no time for questions. The shifting stone from the crater demanded attention.
 
-The others begin to question the gnome, but the shifting stone from the massive creature in the hole gets their attention
+[[Tarkathee Daru|Tark]] felt a pull at his hip. A faint heartbeat, coming from within his [[Bag of Holding]]. He reached in and found the flint knife he had taken from [[Li Xian]] after slaying the Oni — the knife that had killed his parents.
 
-The group looks down into the crater and watch as the smashed ziggurat slowly begins to crawl from the crevasse with a thousand arms and tentacles
+He told the group what he felt. The will of [[Zhengyi]] was close. [[Horatio Von Bumidere|Buumi]] offered to smite the cursed blade. [[Feanon Serinde|Feanon]] picked it up and felt transplanar power thrumming within — enough, perhaps, to cut through to the [[Shadowfell]]. [[Aliyah Faen Tlabbar|Patches]] recognised the blade as something akin to her old cursed weapon, Stabby.
 
-They quickly discuss their options, estimating far less than an hour before the Dragon gets to the Barony from the Evermoor
+With the atropal creature below feeding their insight, prayers to the gods, and the arcane knowledge of the group, they knew: the bulk of the entity resided in the Shadowfell. They had to fight it there. But their magic was spent.
 
-As they talk, Tark feels a pull from his hip; A faint heartbeat.
+[[Jack Mayer-Johnson Mathews|JmJm]] stepped forward. He proposed freeing the [[Aldjinn]] they had rescued from Al Askar — the one still trapped within its crystal slab.
 
-He focuses on it and realizes something is calling to him from within his Bag of Holding.
+Reluctantly, the group agreed. JmJm called to the Aldjinn. After brisk negotiation, [[Cirrus Al-Kayan|Cirrus]] opened his [[Well of Many Worlds]] to Hades — a plane matching the spirit's alignment — and the ancient being was freed into it. Happy simply to be out of its prison, the Aldjinn revitalised the spellcasters before departing. The last they saw of it was the horned, serpentine, rune-covered creature addressing a pack of nearby mephits and proclaiming itself their new god.
 
-He opens it an looks inside and see the Flint knife he took from Li Xian when he slew the Oni
+Cirrus closed the portal. Revitalised, the group Planeshifted to the Shadowfell.
 
-The knife that killed his parents
+## The Shadowfell
 
-He removes the knife from his pouch and tells the group what he feels
+The necrotic cold gnawed immediately at their life force. Buumi enacted an Aura of Life to counteract it.
 
-He feels the will of Zhengyi nearby, wondering if the Red Robed entity (Corpsetaker) may somehow be within the blade…
+Below them, in the earthquake's crevasse, the Ziggurat's true nature was revealed. A gargantuan mound of flesh, limbs, and tendrils, with a massive umbilical cord reaching into the dark sky — connected to the distant image of [[Atropos]], the planetoid wreathed in its fiery orange halo.
 
-Buumi offers to smash and smite the knife, feeling the evil emanating from it
+The flesh of the structure pulsed and undulated. At its centre, several distinct creatures were fused together into a single abomination: a Storm Giant, a White Dragon, the Demilich, and an Atropal — all grafted into one entity.
 
-Feanon picks up the knife and feels the transplanar power within it and wonders if he could maybe cut his way into the Shadowfell with it
+Not fifty feet away, around the rim of the crevasse, stood three figures staring down at the monstrosity. Two huge many-armed creatures and a ghostly floating form the group recognised.
 
-Patches recognizes the blade as something akin to her old cursed weapon; Stabby
+The [[Corpsetaker]].
 
-With the atropal creature below providing insight, prayers to the gods and the arcane knowledge of the group, they know they must go to the Shadowfell to truly fight this thing; where the bulk of the entity resides
+Focused on the feral abomination, the Corpsetaker and its grafted Oni minions did not notice the group. Patches heard the ghost cast a Sending: *It has no mind. It is feral. What should I do?*
 
-But they have no means to get there, their power is spent.
+The group did not wait for a reply.
 
-JmJm steps forward with an idea
+They attacked. Half went for the Corpsetaker while the rest turned on the Ziggurat. The grafted Oni — beings fused with other creatures and bound within porcelain masks — fell quickly. Snorbul's new blade, taken from the Deathlord of [[Vecna]], burned through flesh and severed limbs with ease. [[Thorna]] called down lightning blast after blast, burning the Atropal flesh away.
 
-He proposes that they free the Aldjinn they rescued from Al’askar, the one trapped within the slab of crystal
+The Corpsetaker fared no better, pummelled apart by Tark and his divine prosthetic. The flint knife fell silent — no more heartbeat — but he could feel the direction of its owner. The Corpsetaker's essence fled east, to its waiting phylactery.
 
-They group is hesitant, they do not wish to unleash a greater evil upon the world just to stop this thing
+The group turned their full attention to the Grafted. The Storm Giant hurled lightning. The Dragon breathed sheets of ice. Thousands of fleshy arms swung and clawed. The thing birthed a deluge of wyrmling-shaped abominations from its atropal flesh, but they were destroyed before reaching anyone.
 
-They talk it over and eventually decide upon a plan.
+Feanon Disintegrated the umbilical connecting the creature to Atropos. The Demilich became visible, moving through the sea of twisted flesh. Its eyes flashed and it consumed one of the group, trapping them inside its pocket-plane stomach. Then another. But the group overwhelmed the skull, and it shattered. Both captives were deposited back into the Shadowfell.
 
-JmJm brings forth the crystal and calls to the Aldjinn
+The entire Ziggurat began to shake. The grafted Giant and Dragon wailed in agony. Thousands of screaming mouths appeared across the flesh, and the umbilical began to regrow.
 
- After a brisque negotiation, Cirrus pulls out his Well of Many worlds and opens a portal to Hades for the Aldjinn to be freed into
+Patches spotted it first — a small black orb moving within the flesh near the centre. She called it out and loosed a volley of enchanted bolts, throwing sparks. Feanon recognised it: the Phylactery.
 
-The Aldjinn, happy simply to be freed of its prison and into a plane that matches its own alignment, adheres to the deal and revitalizes the magic users (though not completely)
+They unleashed everything. The orb shrugged off most attacks, but under unrelenting assault, it cracked and shattered. The wailing ceased. The Dragon and Giant atop the Ziggurat fell limp. The umbilical turned to ash. The gargantuan mound began to slump and rot.
 
-The last they see of the ancient Al’Askarian spirit is the horned, serpentine, fiery, rune-covered looking creature addressing a pack of nearby mephits and proclaiming itself their new god
+A cursory inspection of the fragments revealed a black Sourcestone shell engraved with runes, with a small chunk of Prismeum at its core. Sourcestone was somehow reaching [[Faerûn]] from Al Askar.
 
-Cirrus picks up the Portal, closing it
+Thorna called upon her divine power and opened a gate home.
 
-Revitalized by the powerful entity, the group turns their attention back to the approaching Ziggurat 
+## The Siege
 
-They plane shift to the Shadowfell.
+Warmth rushed back on the Material Plane. The flesh of the Ziggurat was already rotting and crumbling into the crevasse.
 
-The necrotic cold of the place immediately begins to gnaw at their life force and Buumi enacts an Aura of life to counteract it
+The group raced south toward the Barony. [[Ancalagon]] was visible in the distance — the black dragon flying over the Evermoors toward the [[Keep of Thunder Bluff|Keep]], flanked by a cloud of goblin bat-riders.
 
-Below the group, in the Earthquake caused crevasse, a fleshy monstrosity can be seen where the Ziggurat would be, its true nature revealed fully in this dark world
+Patches and [[Gundren Rockseeker|Gundren]] both noticed the dragon was wearing a framework of metal armour embedded with dark gemstones. They recognised the artifice: Hollow Armour — the same design that had cursed and enthralled [[Jareem]]'s mate in Al Askar.
 
-The Gargantuan thing is a mound of flesh, limbs and tendrils with a huge umbilical cord reaching into the sky to the far image of Atropos in the sky, the dark planetoid wreathed in an orange fiery halo
+Ancalagon roared that his second assault would far surpass his first. Then he vanished, turning invisible.
 
-The flesh of the ziggurat pulses and undulates and several distinct creatures can be seen at the center, grafted together into an abomination
+The Keep was ready. Dwarven arquebus crews and archers lined the walls. [[Bohd]] commanded the gate, backed by veterans, Paladins, and [[Bolg]] the mountain giant. Delzoun fire cannons sat atop each major tower, rotating wand-barrels already spinning.
 
-A Storm Giant, White Dragon, Demilich and Atropal are all conjoined into the massive entity that presents itself as the Ziggurat in the material world.
+The ground forces hit the Barony wall first — goblins scaling, taking crossbow bolts and [[Thundercannon]] shots. The portcullis slammed behind the group as they entered the Keep.
 
-Not fifty feet away from the group around the edge of the crevasse in the dark realm are three figures looking down upon the fleshy monster.
+At the river, a tribe of hill giants and ogres waded across toward the orc village. The orcs leapt from cover with a roar, unleashing javelins and arrows, forcing the giants to fight in the rushing water where they were cut down one by one — at tremendous cost.
 
-Two huge many-armed monstrosities and a ghostly floating figure they recognize.
+Tark's prosthetic blazed red. He leapt into the sky, tearing through bat-riders, snapping limbs and leaping from bat to bat. Feanon dropped Deep Slumber into the flock's path — another dozen tumbled to their deaths in their sleep. Cirrus raised a wall of force and dozens more smashed into it.
 
+The dragon appeared, bypassing the spells, and breathed a line of acid across the spellcasters, melting flesh and stone. The gun crews opened fire. Lines of energy blazed across the sky — and struck a shield. The Hollow Armour's gems shone brightly, absorbing the punishment.
 
-The servant of Zhengyi; the ghostly Corpsetaker
+Ancalagon dived at the Keep roof with tooth and claw. Cirrus tried to shield the spellcasters with a dome of force — the dragon counterspelled it. [[Surtr]] the fire giant began climbing the Keep wall.
 
+On the outer wall, Patches directed her teams — boiling oil, her own firebombs — and spotted a Doomstar Devastator hiding in the assault pack. She shot its mount from under it. Gundren unloaded his Thundercannon into the devil's arcane shield. Then Gundren hurled a grey bead. The bead erupted into a tidal wave of water that slammed the attackers flat. As they struggled up, peppered by shots, firebombs and boiling oil rained down.
 
-Focused on the Atropal abomination, the Grafted monsters and Corpsetaker do not notice the group
+The Devastator Thunderstepped to the wall and Disintegrated a section of stone. A second devil — a Doomstar Legionnaire — teleported in to support it. Gundren and Patches focused on the spellcaster. Gundren threaded a shot past the legionnaire's shield and took the devil mage's head off. The remaining legionnaire smashed both of them from the wall with his thunderous hammer before Patches cut his throat.
 
-Patches hears the ghostly form cast a sending spell and then speak
+On the Keep roof, Buumi blew an Iron Horn Gundren had tossed him. A ghostly longship descended from the storm clouds, oars moving, crewed by spectral berserkers. They vaulted over the side and assaulted the shocked dragon.
 
-It says “It has no mind, it is feral.  What should I do?”
+But Ancalagon's Hollow Armour thunderclapped, cracking the stone roof and staggering the ghosts. The tower guns poured fire into the shielded dragon. Seeing Surtr gain the rooftop, Ancalagon dived from the Keep and swept down the bluff.
 
-The group does not let the moment pass and do not wait for a response and the group quickly attacks Corpsetaker and its two minions, taking them by surprise
+Tark leapt onto the dragon's back. Ancalagon rolled, buffeting the monk with armoured wings, and knocked him unconscious. Tark fell sixty feet to the rocky cliff below.
 
-The trio was not expecting to be accosted in the Shadowfell and the group proves to be far more mighty than the last time they crossed paths
+The dragon wheeled, unable to resist, and cast Magic Missiles at the unconscious monk. Feanon counterspelled. Cirrus leapt from the battlements, farstep to his friend, and healed him with [[Selune]]'s light. Tark blinked blood-encrusted eyes open just as the dragon breathed acid on them both.
 
-Half go for Corpsetaker while the rest go for the Ziggurat
+At the river, the tower guns that could not track the dragon turned on the hill giants. The river ran red. The orcs loosed a *WAAAAAAGH* that echoed across the Evermoors.
 
-The group quickly slays the two many-armed monstrosities: Oni that have been grafted with other beings to increase their power and bound within porcelain masks (which the group shatters)
+Ancalagon screamed in fury. His assault was broken. The group arrayed themselves on the battlements — and the ancient dragon wheeled and fled, vanishing into invisibility.
 
-Their power was nothing compared to Snorbul’s new blade, taken from the Deathlord of Vecna, its edge burning through flesh and severing limbs with ease.
-
-Thorna calls down lightning blast after blast on the Ziggurat, burning the Atropal flesh away
-
-Corpsetaker fares no better than its grafted Oni minions and is pummeled apart by Tark and his Veketh empowered arm
-
-The Flint blade no longer has a heartbeat, but can feel the presence and direction of its owner
-
-Corpsetaker’s essence flees to the far east, to its waiting phylactery.
-
-The group turns to the Grafted monstrosity,and focus on he amalgam of Giant, Dragon and dead flesh
-
-The thing births forth a deluge of wyrmling-shaped abominations made from writhing atropal but the things are quickly destroyed before they can get near anyone
-
-The Storm giant of the Grafted hurls blasts of lightning at the group while the grafted Dragon breathes sheets of ice and the many fleshy arms of the ziggurat hurl boulders and swipe with foul claws.
-
-As the Umbilical of the Atropal is finally burned away by a Disintegrate from Feanon, the Demilich becomes visible, moving amongst the sea of twisted flesh.
-
-Its eyes flash and it teleports one of the group into its pocket plane “stomach” to be digested
-
-The group see the Demilich and focus their fire just as it scoops up another of the group, “consuming” them
-
-The Demilich however, is overwhelmed and the skull shatters
-
-The two group members in the pocket plane find themselves deposited back into the shadowfell.
-
-The entire Ziggurat begins to shake and the grafted Storm Giant and Dragon wail in agony
-
-Thousands of screaming mouths appear over the flesh of the entity and the Atropal Umbilical can be seen beginning to grow back down from the sky
-
-Patches spots it first - a small black orb moving amongst the flesh of the Ziggurat near the center
-
-She points it out and looses a volley of enchanted bolts from her new crossbow, scoring a hit and throwing a shower of sparks
-
-Feanon realizes that they have found the Phylactery of this *thing *and calls it out* *and they unleash everything they have into the Phylactery
-
-Many strikes have no effect as the powerful orb shrugs off all but the most intense blows
-
-Under the unrelenting assault of the group though, the Orb is shattered and the Phylactery destroyed
-
-The wailing ceases and the massive grafted Dragon and Storm Giant atop the ziggurat of flesh fall limp and dead and the Umbilical turns to ash in the dark sky
-
-The gargantuan mound begins to slump and turn grey and rotten and the group backs away with the fragments of the Phylactery in hand.
-
-They all gather around the life aura of Buumi, shielding themselves against the necrotic darkness of the Plane
-
-A cursory inspection reveals a Black Sourcestone shell engraved with runes with a small chunk of Prismeum in the core.
-
-Sourcestone is somehow making it from Al’Askar to Faerun
-
-The group knows of only two sources of Prismeum: Netherese Mythals and a long lost Svirfneblin/Selunite ceremony that only they know of.
-
-They have no time to dwell on this mystery with an ancient Dragon and its servants bearing down on their keep.
-
-Thorna calls upon her divine power and opens a gate back to the material plane and the group leaves the Shadowfell…
-
-**Part 2**
-
-Warmth rushes back to them on the Material plane
-
-the flesh of the ziggurat is rotting fast and crumbling back into the crevasse
-
-The group rushes from the Red Hill back to the Barony, racing to get to the keep before Ancalagon gets there
-
-They can see the Black Dragon flying over the Evermoor toward their castle, it is not alone and a cloud of indistinct forms can be seen flying with him
-
-The group call upon their mounts just as they get to the base of the hill and then gallop across the farmland and past the outlying settlements
-
-As they make the main settlement, they come across a group of their own outriders
-
-The guards say they are conducting one last sweep for civilians - everyone is sheltering in the keep proper
-
-With no civilians to shepherd, they continue on through town and to the switchback road leading up to the Keep’s gate.
-
-Just as they begin the ascent, the ground forces of Ancalagon reach the Barony wall and quickly scale it
-
-The first Goblin gets a Crossbow Bolt for its trouble and the next a Thundercannon shot, but they keep coming and the group retreats to their keep atop Thunder Bluff.
-
-The portcullis slams down behind them as they enter and they see their full guard arrayed for defense with Bohd at its head, his Wyvern nowhere in sight
-
-Dwarven arquebus wielders and archers are on the wall and the veteran melee and Bolg the mountain giant hold the gate
-
-On each major tower, a Delzoun Fire Cannon is manned by a team and each begins to track the approaching dragon, the rotating wand-barrels beginning to spin
-
-Down below, on the edge of the Evermoor a tribe of Hill Giants and Ogres strides forth into the river, crossing it quickly to get to the far bank where the Orc village is
-
-The Orcs leap from cover, roaring challenges and unleashing volleys of javelins and arrows into the giants.
-
-The massive creatures cannot resist the challenge and become embroiled in a battle to get out of the rushing river but the Orcs hold them there, forcing them to stay in the difficult terrain where they are cut down one by one, but at tremendous cost.
-
-
-In the keep, Surtr the fire Giant waits in the Courtyard for where he’s needed while the paladins and clerics of Helm and Selune rush around ensuring their medical supplies are ready to be doled out
-
-The great Dragon swoops over the last stretch of the Evermoor surrounded by a cloud of Goblin Batriders creating a moving shield to protect him
-
-Patches and Gundren both note that the Dragon is wearing a framework of metal armor, embedded with dark gemstones.  They recognize the artifice: Hollow Armor
-
-The same design of armor that Jareem’s mate was cursed and enthralled with in Al’Askar by Vecna…
-
-Ancalagon roars, shouting that his second assault will far far better than his first conflict with the group and the dragon vanishes, turning invisible
-
-Down in the town, the ground forces of the Dragon gather at the road to the keep and begin to charge up the switchbacks, quickly tiring of the back and forth and climbing straight up
-
-The group arrays themselves to defend their keep, with Patches and Gundren taking the main wall overlooking the Gate and everyone else taking to the top of the Keep proper to repel the Dragon
-
-Tarks prosthetic glows red and he leaps into the air, taking the fight to the Batriders, breaking limbs and leaping from bat to bat, leaving them tumbling to the ground in his wake
-
-Feanon unleashes a Deep Slumber in the flocks path, causing another dozen to tumble to their deaths, fast asleep
-
-Cirrus unleashes a wall of force and dozens more smash into the invisible and unyielding wall
-
-The dragon becomes visible again, having seen his fodder get caught and goes around, bypassing the spells and breathes a line of acid into the spellcasters melting flesh and stone
-
-The gun crews see their target and open up on the Dragon and lines of fire blaze across the sky and smash into a shield surrounding Ancalagon
-
-The gems of his armor shine brightly, the Hollow Armor taking the damage rather than his flesh
-
-The dragon then dives, lunging at the spellcasters with tooth and claw
-
-Cirrus tries to shield them with a Dome of Force but is counterspelled by the powerful dragon
-
-
-On the wall, Patches gives orders to the nearby teams, having them boil oil and prepare bombs she hands out
-
-She spots a single figure in the midst of the assaulting pack doing its best to hide and she shoots its mount from under it
-
-The Doomstar Devastator falls to the ground and rolls to his feet just as Gundren unloads his Tundercannon into it, the shells exploding on the arcane shield of the Devil
-
-A volley of crossbow bolts and other shots hammer down into the pack, many hitting the shield of the Devil
-
-Gundren preps a surprise of his own and just as the Goblins, Ogres and Wargs make the last switchback, he hurls out a small grey bead.
-
-The bead hits and erupts into a tidal wave of water, slamming the attackers to the ground and damn near drowning the lot
-
-As the water cascades down the hill, the Goblins and Ogres struggle to their feet, peppered by shots from the wall, only to have firebombs and boiling oil hurled down onto their heads, killing all the Wargs and Goblins and horribly wounding the surviving armored ogres
-
-The Doomstar devastator Thundersteps from his dead fodder to the wall near Gundren and unleashes a Disintegrate at the Dwarf, who hurls himself prone to avoid the beam, obliterating a section of wall instead.
-
-All the nearby allied forces turn their weapons on the Devil and Patches rushes in to slay the enemy wizard, only to be stopped by a teleporting second Devil
-
- a Doomstar Legionnaire backs up the Devastator on the wall
-
-The keep’s veterans rush in with shields and pikes to press the devils, but the Devils are otherworldly and immensely strong
-
-Gundren and Patches focus on the spellcaster and Gundren makes a shot past the legionnaires shield, taking the head from the Devil mage.
-
-The new devilish arrival clashes with Patches and Gundren, smashing both from the wall with his thunderous hammer while laughing about “Beucy” getting a new smile from Patches
-
-A roar from the keep roof gets everyone’s attention and they see the Dragon assaulting the spellcasters, Gundren tosses an Iron Horn to Buumi and tells the Paladin to get up to the spellcasters and blow it
-
-Surtr strides over to the Keep wall and begins to climb up to face the dragon
-
-Buumi rushes to the roof with his wings just in time to see Feanon tossed aside like a ragdoll and the bloody forms of Cirrus and Tark on the ground
-
-Buumi blows the Iron Horn
-
-A ghostly Longship descends from the cloudy sky, oars moving and crewed by over two dozen ghostly berzerkers
-
-As the ship coasts by the Dragon, dozens of spectral warriors vault over the side of the ship and assault the shocked Dragon
-
-Buumi makes it to Tark, healing the bloody warrior just as Cirrus crawls over to the unconscious form of Feanon and heals him
-
-The dragon is immediately put on the defensive by the sheer number of attackers and it rears up on its hind legs, its Hollow Armor letting out a dinful thunderclap that cracks the stone of the roof and staggers the ghosts
-
-The tower guns let loose another fusillade into the shielded dragon and Ancalagon, seeing Surtr gain the roof, dives from the Keep and swoops down the bluff, using the Keep walls to shield himself from all but one of the Dwarven guns
-
-Tark leaps in pursuit, falling on to the back of the Dragon and striking it
-
-Ancalagon rolls, buffeting the Monk with his armored wings and knocking him out
-
-The monk falls limp to the rocky cliff some sixty feet below…
-
-
-Gundren, flat on his back in the courtyard from where he was thrown by the Doomstar Legionnaire, unloads his Thundercannon into the Devil just as the tower guns take aim and unleash a torrent of fire into him
-
-The Devil roars in glee as the scorching rays do nothing to him but the roar cuts off as Patches makes the wall and dashes past, cutting his throat
-
-On command from Captain Bohd, the castle gates open and the Veterans, Paladins and Bolg storm forth into the bloodied and reeling Ogres and Goblin foot soldiers 
-
-Gundren and Patches both then rush to the keep to help against the dragon
-
-
-Cirrus and Feanon limp to the edge of the keep and look down at the bloody body of Tark amongst the rocks
-
-The dragon turns in mid-air, unable to resist and cackles with glee and reaches forth a clawed hand, sending out magic missiles to slay the unconscious Monk
-
-Feanon counterspells the cruel attack and the dragon screams a frustrated curse, acid bubbling in its throat
-
-Cirrus leaps from the battlement, farstepping to his unconscious ally and calling upon the healing light of Selune to bring him back from the brink of death.
-
-Tark blinks blood encrusted eyes open, just in time for the great dragon to unleash an acid breath attack on him and Cirrus
-
-They take cover amongst the rocks but are badly burned, Tark falls unconscious again
-
-Down at the river bank, the Giants morale breaks as the Tower Guns that cannot hit the dragon turns on the brutes and unleashes a volley.
-
-The river runs red with Ogre, Orc and Hill giant blood and more of the Giants are cut down as they flee, their massive bulk splashing into the red waters.
-
-The Orcs let loose a“Waaaaaagh!” warcry that echoes across the Evermoor
-
-Ancalagon screams in anger and denial seeing his assault completely stopped 
-
-Just as the group arrays themselves against the Ancient Black Dragon, he wheels in the air and races away as fast as he can, vanishing into invisibility moments later
-
-A calm falls over the Barony, broken only by the occasional dying scream of a Goblin, Giant, Ogre or Warg…
+A calm fell over the Barony, broken only by the occasional dying scream of a goblin.
