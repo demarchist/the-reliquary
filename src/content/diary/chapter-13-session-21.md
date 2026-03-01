@@ -3,6 +3,7 @@ title: The Voyage Home - Vecna Attacks
 chapter: 13
 chapterTitle: The Voyage Home
 session: 21
+summary: "The group defends the ritual against Vecna's undead legions from Sharza — battling a Mummy Lord, a Death Lord with Boneclaws, Death Knights on undead Rocs, the Lady in White, and a Lich — as three gods intervene: Vaketh restores Tark's severed hand, Karthus armours Jareem, and Horrah freezes time for Cirrus to complete the ritual and destroy Fawden, flinging the group to Yggdrasil before a careless wish brings them home."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -11,8 +12,10 @@ people:
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "horrah"
   - "jack-mayer-johnson-mathews"
   - "jareem"
+  - "karthus"
   - "lady-in-white"
   - "selune"
   - "snorbul"
@@ -22,6 +25,7 @@ people:
   - "vecna"
 places:
   - "astral-plane"
+  - "faerun"
   - "feanons-tower"
   - "sharza"
   - "the-establishment"
@@ -30,281 +34,166 @@ things:
   - "saurian-firelance"
   - "steden"
 factions:
+  - "faerun-defense-force"
   - "saurians"
 ---
 
-The first wave of Undead fodder mindlessly pushes through the shield and is chewed apart by Doc B’s insect Swarm as they bring firelances to bear.
+## The First Wave
 
-As Fawden’s barrier falters from the charging Mummies, a barrage of poorly aimed Firelance shots sail through, hitting friendly targets and the Ice walls creating the chokepoint being held by Snorbul and Tark
+The first wave of undead surged through [[Fawden|Fawden's]] faltering barrier — mindless fodder that [[Doc|Doctor Breakfast]]'s insect swarm chewed apart as they emerged. [[Saurian Firelance|Firelance]] shots sailed through the widening gaps, poorly aimed but devastating, striking the ice walls that formed the chokepoint held by [[Snorbul]] and [[Tarkathee Daru|Tark]].
 
-The Mummies trudge through the Swarm, covered in the magical insects, but they persist only to be knocked back into the spell by a Thunderwave from JmJm galloping past on Steden.
+Behind the barrier, a Saurian Mummy Lord and its retinue of mummies trudged through the swarm, the magical insects coating their ancient wrappings but failing to slow them. [[Jack Mayer-Johnson Mathews|JmJm]] galloped past on [[Steden]] and smashed a Thunderwave into the mummies, hurling them back into the spell. [[Thorna]] called lightning down upon the charging dead, and on the far side of the barrier, the storm above [[Sharza]] intensified in answer.
 
-Thorna calls down a blast of Lightning on the charging undead and the Storm on the other side of the barrier intensifies
+The Mummy Lord exploded into a whirlwind of sand and blitzed past every defence, materialising beside the ritual circle to strike at [[Cirrus Al-Kayan|Cirrus]]. Its glittering khopesh carved into the warlock with a cursed edge. Cirrus cried out and leapt back, black wings spreading as he put distance between himself and the ancient king.
 
-The bard blazes on by, Wraiths in pursuit  
+[[Gundren Rockseeker|Gundren]] threw a small shining metal cube to the ground. The [[Delzoun Instant Fortress]] erupted thirty feet into the air — a gleaming tower of adamantine, planted in the heart of their defence. The spellcasters rushed for cover, but flitting shades and wraiths that had slipped through the swarm accosted them at the entrance.
 
-The Mummy Lord explodes into a whirlwind of Sand and blitzes past the defenses to strike at Cirrus by the Ritual.
+[[Horatio Von Bumidere|Buumi]] raised his warhammer skyward. A flash of golden light blazed outward as his Holy Nimbus ignited, burning away every shadow and ghostly apparition within reach. The surviving wraiths were cut down in moments — Snorbul's axe, Thorna's lightning, JmJm's inkblade, and Tark's fists, each finding their mark.
 
-The ancient Saurian’s glittering Khopesh strikes the Warlock with its cursed edge and Cirrus lets out a cry of pain before leaping back and up, his black wings flapping to distance himself from the Mummy Lord
+## The Mummy Lord
 
-Gundren throws a small shining metal cube to the ground nearby and his Instant Fortress erupts thirty feet into the air, creating a gleaming tower of Adamantine.
+[[Aliyah Faen Tlabbar|Patches]] rushed the Mummy Lord. She struck with a zephyr strike that staggered the ancient Saurian — and it responded with a Blasphemous Word, the dark utterance fuelled by [[Vecna|Vecna's]] power. The curse stunned both Patches and [[Feanon Serinde|Feanon]] where they stood.
 
-The spellcasters and Gundren rush to take cover in the Tower but are accosted by flitting shades and Wraiths that manage to survive the initial onslaught.
+The Mummy Lord turned its blade on the helpless pair. The others converged to protect them. Patches broke the stun long enough to drink a potion of speed, and then the group tore the creature apart — enchanted blades and called lightning reducing the gilded horror to dust.
 
-Buumi raises his warhammer into the air and with a Flash of light and shout, activates his Holy Nimbus which burns away all nearby shadows and ghostly apparitions.
+Buumi flew to Cirrus and cleansed him of the Mummy Lord's curse, then dove back to the breach as another wave of undead pressed toward the barrier.
 
-The Wraiths are quickly slain by Snorbul’s axe, Thornas lightning, JmJm’s deft Inkblade and Tark’s rapid blows.  
+## The Death Lord
 
-Patches rushes the Mummy Lord and in a blaze of speed, attacks the creature with a zephyr strike, staggering it
+On the far side of Fawden's shield, a flash of purple light heralded new arrivals. The Death Lord — a towering Saurian commander — and his Boneclaws teleported to the battlefield. The storm above the Great Pyramid rumbled, and silhouetted against the lightning, great winged shapes began their dive toward the widening gate.
 
-It lets out a Blasphemous word, the dark uttering fueled by Vecna, and stuns Feanon and Patches.
+[[Vecna]] whispered into their minds — vile curses that gnawed at their thoughts, sapping their speed and focus.
 
-The mummy Lord turns its blade upon its stunned victims, but the others in the group rush to assist their comrades
+Tark saw the Death Lord raise a great Sourcework sword. The Boneclaws surged around the Saurian like a cloak of dark armour and bone, and the blade erupted with crackling energy. Tark dropped a Darkness spell at the gateway just as the barrier faltered and another wave of undead charged through into the killing zone.
 
-Patches breaks out of the Stun long enough to drink a potion of speed
+Blind Firelance shots ripped through the darkness, shattering sections of the ice wall and forcing Feanon to reinforce it. More shots sparked off the adamantine tower. A few shades slipped through the insect swarm and darkness, but were killed quickly.
 
-The Saurian Mummy Lord is then hacked apart by enchanted blades and blasted by called Lightning from Thorna.
+Then the Death Lord appeared — leaping through the Darkness, shadowstepping instantaneously behind the group and the tower. The swirling mass of bone and shadow scaled the fortress in a heartbeat and fell upon Gundren atop it. The Sourcework blade bit deep, and then the Death Lord unleashed an explosion of negative energy that lashed every member of the group and broke Doc's concentration on the swarm.
 
-Buumi flies up to Cirrus and cleanses him of the Mummy Lord’s Curse before diving back down to hold the breach as another wave of Undead make for Fawden’s barrier.
+The ancient Saurian shadowstepped again — to Tark. Old debts to settle. The burning blade swept in, and the two locked into a desperate duel.
 
-On the other side of the shield, the group sees a flash of purple light as the Death Lord and his Boneclaws teleport to the battlefield.
+## The Death Knights
 
-The storm rumbles above the City of the Dead and flashes of lightning illuminate the great black Pyramid at its heart - great shapes can be seen flying, silhouetted against the storm.
+The gateway widened. Feanon recast his wall of ice, crushing a wave of charging skeletons and ghouls as they emerged from the darkness. Moments later, a monstrous undead Roc smashed through a section of the wall in a sprawl of bone and feathers — one of the winged shapes that had been diving from above.
 
-The storm rumbles and the shadows seem as if a great face looms down from the thunderclouds. Vecna whispers curses into the group’s ears, causing psychic damage and sapping their speed.
+Its rider landed on armoured feet, skidding across the stone. The serpentine Saurian Death Knight raised its sword and hurled a Hellfire Orb into the heart of the group.
 
- The Great winged creatures high above the battlefield begin their dive toward the open and growing gateway.
+Fire and necrotic energy devoured stone and flesh alike. Gundren turned his shots from the Death Lord to the new threat. Patches rushed the Death Knight, unwilling to let it go uncontested. Buumi saw the ice wall crumbling and threw himself toward the embattled Death Lord to help Tark and Snorbul hold the line. Thorna hammered another blast of lightning into the approaching hordes.
 
-Tark sees the Death Lord hold a great Sourcework sword above his head just as the Boneclaws rush and swirl around him like a cloak of dark armor and bone and the edge of the sword erupts with burning, crackling energy.
+Cirrus watched the battle dissolving into chaos. This was taking too long. The ritual was close — so close. He approached the circle.
 
-The Deathlord rushes the Barrier with incredible speed and Tark drops a Darkness spell at gateway just as the barrier falters and another wave of undead charge through into the meatgrinder.
+A coating of molten light now covered Fawden entirely. The great tree-like avatar was shuddering, dissolving. Cirrus turned all his will to accelerating the ritual, channelling the incredible power with his bare hands. The energy burned into Fawden — and then a blast of pure feedback hurled Cirrus backward. His skin smoked. He was not sure how much more his body could endure.
 
-Blind firelance shots rip through the Darkness, slamming into the Ice Wall which shatters several sections forcing Feanon to reinforce the barrier
+A second undead Roc crashed through the wall, bringing another Death Knight. Patches finished the first — exploding into a whirlwind of enchanted strikes that staggered and felled the armoured Saurian — and JmJm charged across the battlefield on Steden, his inkblade singing. He pulled on a mysterious glove from his past and an Arcane Hand materialised, smashing into the second Death Knight.
 
-Many more shots begin to spark and flash as they glance off the Adamantine tower
+Patches sprinted across the arena, slaying everything in her path as she fought to stem the tide.
 
-A few shades manage to get past the Insect Swarm and Darkness, but are quickly killed.
+## Vaketh
 
-The Death Lord suddenly appears, leaping through the Darkness and shadowstepping instantly behind the group and the Adamantine Tower.
+Tark's Darkness spell collapsed as the Death Lord's blade slashed across his forearm, breaking his concentration. The gateway was visible again — piles of bone scattered before it, the press of undead no less intense.
 
-The swirling mass of bone and shadow, wielding the glowing Greatsword rushes the tower, scaling the exterior in a heartbeat and pressing Gundren atop it.
+With a rapid flurry and perfect riposte, the Death Lord's burning blade swept across and took Tark's left hand off at the elbow.
 
-The Deathlord slashes Gundren with the greatsword and then unleashes an explosion of Negative energy, causing pain to the entire group and causing Doc B’s concentration to falter.
+The monk was knocked away. Healing spells from Doc washed over him, pulling him back from unconsciousness. He looked down at the cauterised stump, and a howl of pain tore from his throat — which turned to surprise as a voice, deep and resonant, asked to help him.
 
-The ancient Saurian then turns and shadowsteps to Tark, looking to settle a previous score with the Monk and lays into him with the sweeping, burning blade.
+Tark accepted.
 
-The gateway widens further and Feanon recasts his ice wall to compensate, blasting apart a wave of charging skeletons and Ghouls as they emerge from Tark’s Darkness.
+With a thunderclap, the limb regrew out of crimson energy. [[Vaketh]], god of Power, lent his divine intervention to his champion.
 
-Moments later with a thundercrack of noise a monstrous undead bird smashes through a section of the wall, clearly one of the creatures that had been in a flying dive to the gateway
+Tark rushed back to the fray with his god-hand and smashed into the Death Lord, each strike landing with a thunderclap. One by one, the Boneclaws that made the Death Lord invulnerable were shattered, leaving the ancient Saurian staggering.
 
-It tumbles in a sprawl of bone and feathers
+## The Lady in White
 
-It’s rider however lands on his metal-armored feet, skidding across the stone
+A figure appeared above the battlefield — robed in white, floating.
 
-The serpentine Death Knight raises its sword above its head and with a slash, hurls a Hellfire Orb to detonate in the heart of the group.
+With a flash of fire, the [[Lady in White]] launched scorching bolts into the spellcasters' backs. The group turned on her instantly, triggering a cascade of defensive spells as she Misty Stepped away. A furious exchange of spells and counterspells erupted — and then the group surrounded her. Her highly modified body was no match for the crushing power of their enchanted arsenal.
 
-Fire and necrotic energy eats at them and the tower and Gundren turns his shots from the Death Lord dueling against Tark and Snorbul, to the newly arrived Death Knight.
+She screamed. The banshee-like wail ate at their life-force.
 
-Patches rushes the Death Knight, unwilling to let the powerful foe go uncontested.
+Her form twisted and grew. Where a lithe figure had stood, a gargantuan giant of inky blackness now towered — a Nightstalker, exuding an aura of death that sapped the strength of all around it.
 
-Buumi sees the Ice Wall with a massive hole and the “hot gates” quickly crumbling and turns toward the embattled Death Lord and joins the fray 
+Cirrus saw the transformation and called to [[Selune]] for an answer. Through the burgeoning portal, a Seraphim blazed into existence — a celestial of moonlight and burning weapons that fell upon the Nightstalker with divine fury.
 
-Thorna lets loose another blast of lightning into the approaching hordes of Undead.
+## Jareem
 
-Cirrus sees the battle quickly turning to chaos, this is taking too long.  He’s too close to fail now and he approaches the ritual circle
+Something massive pushed through what remained of Fawden's shield, and another wave of undead established a beachhead, unleashing a volley of Firelance shots into the tower and the group. Gundren hurled one ruby from his helmet, then another, then another — walls of fire erupting from each, incinerating wave after wave of undead.
 
-A coating of what looks like Molten metal now completely covers Fawden and the great anemone-like growth is shuddering and beginning to dissolve.
+But through the conflagration charged a massive form of animated armour — a dragon skeleton wreathed in black fire. The Hollow Dragon, animated by the twisted soul of [[Jareem|Jareem's]] long-dead mate, charged the group as the two undead Rocs recovered their feet.
 
-Cirrus turns all his will to speeding the ritual and helps to guide the incredible power
+Tark held up the gleaming ruby crystal scale Jareem had given him, and cried out for help.
 
-It burns into Fawden, speeding the process, but Cirrus is thrown back moments later, by a blast of pure energy
+He was answered by more than an ancient dragon.
 
-He shouts in pain and his skin smokes.  He’s not sure how much feedback like that his body can take and realizes that even that blast has *wounded *him.
+An orange portal of light tore open, and [[Jareem]] charged through — his beautiful ruby-crystal hide completely hidden beneath a swirling carapace of full divine armour, encasing him in orange light. [[Karthus]], god of Protection, had intervened.
 
-The battle rages and another massive undead Roc smashes through the Ice Wall, bringing with it another armored Saurian Death Knight.
+Nigh invulnerable, Jareem met the Hollow Dragon and a titanic struggle ensued — crystal and bone, light and shadow, husband and the desecrated corpse of his wife, locked in combat above the burning Font.
 
-Patches duels the first Death Knight and with a flash of moonlight, explodes into a whirlwind of enchanted strikes, staggering and wounding the Death Knight badly
+## The Lich
 
-JmJm rushes across the battlefield atop Steden, dodging shades and Wraiths and bringing his Inkblade to bear. 
+Gundren's firewalls fell one by one — dispelled by dark magic. Three figures appeared, levitating above the heads of the marching legions. The lead figure was scarred, pale, and bloody-faced, resplendent in dark robes, carrying a staff of metal bone. He raised a hand wreathed in dark energy to Fawden's barrier.
 
-The first Death Knight falls beneath their blades.
+It collapsed beneath his touch.
 
-The Bard pulls on a mysterious glove from his past and an Arcane hand materializes on the battlefield.
+The tidal wave of undead surged forward. Gundren hurled another firewall gem. The front ranks were incinerated, as was the oncoming Lich — who simply pushed through the flames.
 
-Patches rushes across the arena, slaying all in her path as she tries desperately to control the onslaught of the Undead hordes as Thorna continues to call lightning blast after blast.
+Gundren poured shots into the thing. JmJm charged it and commanded his Arcane Hand to assault. They hit the Lich just as it unleashed a Disintegration spell into the [[Delzoun Instant Fortress]].
 
-From the darkness, another volley of blind-fired Firelance shots flash out, hitting randomly
+In a flash of light, the entire north face of the tower was gone. Every nearby Firelance swivelled to blast the exposed interior.
 
-Tark’s Darkness spell drops as the Death Lord slashes into the monk, dropping his concentration.
+The Lady in White was smashed out of her Nightstalker form by the Seraphim and felled — releasing one last banshee wail before her broken body hit the stone. Machina implants across her corpse began to glow.
 
-The gate can be seen again and piles of bones can be seen scattered in front of it.
+Tark and Snorbul faced down the Death Lord — now brutally damaged. The ancient Saurian lunged in one final assault and laid into Snorbul. Two deft cuts dismembered the gnome and cast him aside. Snorbul rolled to the ground screaming — in rage, not surrender.
 
-The press of the Undead hordes is no less intense and indeed, a huge gleaming form can be seen rapidly approaching the gate.
+## The Gods Intervene
 
-With a rapid flurry and perfect riposte, the Death Lord’s burning blade swipes across, taking Tark’s left hand off at the elbow and then knocks the dismembered monk away
+The battlefield was chaos. The tower was failing, forcing the spellcasters to evacuate as Firelance shots pounded the ruins. Jareem, clad in Karthus's divine armour, battled his dead mate to a standstill. Two monstrous Rocs and a Death Knight charged into melee, hellfire building on the knight's blade. The Lich and two lesser wizards advanced above waves of undead. Beyond the gate, hulking undead Storm Giants wielded great cannons of Saurian technology.
 
-Tark falls to the ground even as healing spells wash over him from Doc and he blinks away unconsciousness
+Snorbul crawled back to the fray. With Tark's god-hand and the Seraphim of Selune, they struck the Death Lord together — shattering the last of his Boneclaws and burning the ancient Saurian lord to dust.
 
-He looks down at his cauterized stump and howls in pain and then surprise as a voice asks to help him.
+Cirrus looked to the ritual. Seconds remained. He looked out at the unending onslaught. Vecna whispered curses into his mind, pain and torment clawing at his thoughts.
 
-Tark accepts.
+Feanon Counterspelled a strike from the Lich. The Lich pointed at Tark and uttered a Power Word Kill. The monk turned, alive — Doc's healing had kept him just above the threshold. JmJm smashed the Lich to the ground beneath the Arcane Hand, but it began to rise moments later. Two wizards moved to dispel the Hand and Counterspell any reprisal.
 
-with a thunderclap, the limb regrows out of crimson energy.
+Two more Rocs with Death Knight riders were diving toward the gate. The undead Storm Giants were moments away.
 
-Vaketh, god of Power lends his divine Intervention to Tark.
+Doc turned to summon a Tidal Wave. The last firewall flickered and died.
 
-The monk rushes back to the melee with his god-hand and proceeds to smash the Death Lord, each strike landing with a thunderclap of power.
+[[Thorna]] threw her hand into the air, hammer held high, and called upon the gods to intervene.
 
-One by one, the Boneclaws surrounding and making the Death Lord invulnerable are destroyed, leaving the Saurian Lord staggered.
+Nothing happened.
 
-A figure appears, robed in white and floating above the battleground
+Then everything stopped.
 
-With a flash of fire, she launches scorching bolts at the unsuspecting casters.
+Time froze — all of it, everywhere, except for the group themselves. A golden light pierced the storm clouds above Vecna's pyramid. [[Horrah]], goddess of Time, had answered Thorna's prayer.
 
-The Lady in White is quickly set upon by the group, triggering a wave of defensive spells from her as she misty steps away to safety
+Feanon recognised the magic instantly and stopped his companions from lashing out at the frozen enemies — a single attack would shatter the fragile spell. He explained the rules, and the group gathered to heal and prepare for a final stand.
 
-A flurry of spells and counterspells leaves the group with their attention turned away from the Death Lord and his Knights and focusing on the new threat of The Lady.
+All except Cirrus.
 
-The Lady is surrounded and her highly modified body is no match for the crushing power of the enchanted arsenal wielded by the group
+## The End of Fawden
 
-She screams in pain and the banshee like wail eats at the groups life-force
+The warlock turned to the ritual one last time. No matter the cost. He reached toward the glowing ring of light that now engulfed the entire interior of the [[Ringed Veils|Veil]].
 
-Her form then twists and grows, changing as she casts an immense spell upon herself
+Pain flared in his hands, then went numb.
 
-Where once stood a lithe and small female form, now towers a gargantuan giant of inky blackness.  It exudes an aura of death that saps the strength of all around it.
+He willed the spell to end, pushing against the ritual with every ounce of his considerable power.
 
-Cirrus sees the massive Nightstalker and calls to Selune for a similarly powerful ally to assist them, summoning his Seraphim through the burgeoning portal.
+[[Fawden]] was destroyed in a flash of light that engulfed everything.
 
-The celestial appears in a flash of moonlight and with a deadly array of burning weapons, assaults The Lady in White
+Silence.
 
-Something large pushes its way through Fawden’s shield, allowing another wave of fodder inside that unleashes a volley of Firelance shots into the Tower and nearby party.
+The group blinked, their vision clearing. They were floating — not in water, not in air, but as if adrift in the Astral Sea. Ossein debris, detritus, and scattered pieces of treasure from the battle drifted nearby.
 
-Gundren sees the huge wave of enemies finally establishing a beachhead and hurls a Ruby from his helmet, then another, and another as wave after wave of undead is destroyed by Walls of fire that erupt from the thrown rubies.
+They looked around and found themselves suspended within a gloriously colourful rainbow nebula. Stars gleamed and shone among a million crystalline branches of a massive tree-like structure that wound itself through the cosmos, its branches reaching and stretching to every star.
 
-Charging through the conflagration though, is the massive form of “animated” armor looking like Ruby Dragon.
+Cirrus looked upon it in awe. He knew exactly what it was — Yggdrasil, the World Tree.
 
-Blazing with black fire, the Hollow Dragon - animated by the twisted Soul of Jareem’s Mate - charges the group just as the two Undead Roc’s recover their feet.
+The air hummed with residual power from the ritual. How had they been brought here? Where was *here*, truly?
 
-Seeing a veritable onslaught of giant creatures charging them, Tark holds up the gleaming Ruby crystal scale given to him by Jareem.
+These questions formed on many lips, but one voice — echoing with universe-altering power — simply said: *I really wish we were home right now.*
 
-Tark cries out for help!
+The light changed. Gravity reasserted itself. The group crashed down into the town square of their Barony, twenty feet from [[The Establishment]].
 
-He is answered by more than an ancient Dragon.
+Cirrus fell to his knees, weeping — he had been so close to his Lady's domain, so close to [[Selune]], and now dragged away by a careless wish.
 
-Erupting from an Orange portal of light, Jareem charges his long dead Mate.
-
-The beautiful ruby crystals of Jareem’s hide are completely hidden by the swirling carapace of full armor, encasing him in Orange light.
-
-Carthas, god of Protection and Order intervenes
-
-Nigh invulnerable, Jareem meets the Hollow Dragon and a titanic struggle ensues.
-
-Patches is swiped at by the Rocs and forced to evade and counterattack
-
-Firelance shots make it through the Walls of Fire and detonate against the now badly scored and marred Adamantine tower
-
-The first Firewall goes down, dispelled
-
-Then the second, then the third and a trio of dark levitating figures appear above the heads of the marching legions of Undead.
-
-The lead figure; with a scarred, pale and bloody face,  resplendent in dark robes with a staff made of metal bone. He raises a dark hand wreathed in energies to Fawden’s barrier.
-
-It collapses beneath his touch and the tidal wave of Undead surge forward - Just as Gundren hurls another Firewall gem
-
-The front rows are blasted, as is the oncoming Lich which simply pushes through the flame.
-
-Gundren lets out a volley of shots into the thing just as JmJm charges it and commands his Arcane Hand to assault.
-
-They smash into the Lich just as he lets loose a Disintegration spell into the Instant Fortress
-
-In a flash of light, the entire north side of the tower is gone.
-
-The nearby undead all swivel their firelances to blast the now exposed interior
-
-Nearby, The Lady is smashed out of her Nightstalker form and then felled, releasing one last Banshee wail
-
-Tark and Snorbul face down the Death Lord - now brutally damaged
-
-The Death Lord lunges in one last assault, laying into Snorbul
-
-With two deft cuts, Snorbul is dismembered and cast aside where he rolls to the ground screaming - in rage.
-
-The group looks around at the carnage.
-
-The tower is failing and taking more and more shots, forcing the spellcasters to evacuate
-
-Jareem, empowered by Carthas, battles his long dead mate to a standstill
-
-The Lady in White is downed, but machina implants begin to glow
-
-Two monstrous Rocs and a Death Knight charge into melee, fire and energy beginning to wreathe the Death Knights sword as he prepares a Hellfire Orb. 
-
-Two wizards of some power and the Lich who penned Vecna’s Dark Tome move above waves of Undead minions
-
-Beyond the Gate, Giant forms can be seen nearing the barrier, hulking and undead  Storm Giants wielding great cannons of Saurian technology
-
-Snorbul crawls back to the fray and with Tark’s god-hand and the Seraphim of Selune, they smite and finally slay the Death Lord, shattering its armor of swirling Boneclaws one final time and burning the Undead Lord to dust.
-
-Cirrus looks to the ritual and discerns that there’s mere seconds from the ritual being complete but his gaze pans out to the unending onslaught of the Undead armies.
-
-Vecna whispers vile curses into his mind, causing pain and torment
-
-Feanon Counterspells a strike from the nearby Lich, who then utters a word of power, pointing at Tark.
-
-The invigorated Monk turns and is unaffected by the attack. A Power Word Kill he survives from Doc B’s healing.
-
-JmJm then smashes the Lich to the ground under his Arcane Hand, but the Lich starts to rise again moments later
-
-The two nearby Wizards move forward to dispel the Arcane Hand and Counterspell any reprisal
-
-Two more Rocs with Death Knight riders can be seen beginning their dive toward the Gate and the Undead Storm Giants are moments away.
-
-Doc B turns, about to summon a Tidal Wave to keep back the Undead army as the last Firewall wavers and fades
-
-Thorna throws her hand into the air, holding her hammer high to the sky and calls forth to the gods to intervene!
-
-At first nothing happens…then, the group realizes that all time seems to be frozen except themselves…
-
-A golden light shines through the Storm clouds above Vecna’s pyramid.
-
-Horrah, goddess of time has intervened at Thorna’s call.
-
-Feanon recognizes the Timestop magic and quickly stops his allies from striking out and shattering the fragile spell. He informs them of the rules of the Timestop and they gather to heal and revitalize, preparing for a final defense.
-
-All save for Cirrus
-
-He once more turns to the Ritual, certain now that no matter the cost, he will end it here and now.
-
-He reaches forth toward the glowing ring of light, now fully engulfing the entire interior of the Veil.
-
-There’s a flash of pain in his hands which quickly goes numb.
-
-He wills the spell to end and pushes against the ritual with all his considerable magical might.
-
-Fawden is destroyed in a flash of light that engulfs everything.
-
-…
-
-The group blinks, their eyes working once more and they find themselves floating, as if in the Astral Sea.
-
-Ossein debris, detritus and a few pieces of treasure from the battle float nearby
-
-They look around, coming to their senses and see that they are floating among a gloriously colorful rainbow nebula
-
-Stars gleam and shine among a million crystalline branches of a massive treelike structure winding itself through the nebula,
-
-Its branches reach and stretch to every star.
-
-Cirrus looks upon it in awe, knowing exactly what it is - Yggdrasil, the World Tree.
-
-The group feels strange in this place and the air hums with residual power from the ritual.
-
-How were they brought here? And Where is “here” really?
-
-These questions begin to form on many lips but one voice, echoing with universe altering power simply says “I really wish we were home right now!”
-
-The light instantly changes and gravity reasserts itself and the group finds themselves in the Town Square of their Barony, twenty feet away from The Establishment.
-
-Cirrus falls to his knees, weeping having been so close to his Lady’s Domain and now been brought here by a careless *wish*
-
-Exhausted, confused and wounded, many of them hobble into Patches establishment for a much needed drink as a crowd begins to form and news of the FDFs return begins to spread…
+Exhausted, confused, and wounded, they hobbled into Patches's tavern for a much-needed drink as a crowd began to form and news of the Faerûn Defense Force's return spread through the streets.

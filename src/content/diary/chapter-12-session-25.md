@@ -11,6 +11,7 @@ people:
   - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
+  - "horrah"
   - "jack-mayer-johnson-mathews"
   - "jareem"
   - "karthus"

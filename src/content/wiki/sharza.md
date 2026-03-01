@@ -8,8 +8,10 @@ description: "Dead city containing a Last Word Fragment and the Black Pyramid of
 
 ## Description
 
-Sharza, known as the City of the Dead, is an ancient ruined city in Al Askar. At its heart stands the Black Pyramid of Barzak, which houses a fragment of the Last Word. The city is guarded by Ajak, Jareem's mate who was killed and transformed into a Hollow Dragon.
+Sharza, known as the City of the Dead, is an ancient ruined city in Al Askar. A dark metropolis of ruined Saurian stonework, covered in silt and corruption, with great statues of ancient emperors lining vast thoroughfares. At its heart stands the Black Pyramid of Barzak — an obsidian mountain around whose peak great winged forms wheel beneath a sky of roiling purple lightning. The city is guarded by Ajak, Jareem's mate who was killed and transformed into a Hollow Dragon.
 
 ## Significance
 
-Sharza is a critical destination for the party, as they must retrieve the Last Word Fragment from within the Black Pyramid. The presence of the Hollow Dragon Ajak and other undead guardians makes the city one of the most dangerous locations they encounter in Al Askar.
+Sharza houses a fragment of the Last Word within the Black Pyramid and serves as the seat of Vecna's power in Al Askar. The city contains a vast army of undead — legions of skeletal Saurians armed with Firelances and ancient shields, masses of ghouls, wraiths, spirits, a Death Lord with Boneclaws, Death Knights mounted on undead Rocs, a Lich, and undead Storm Giants wielding great cannons of Saurian technology.
+
+During the ritual at the Font of Fawden, Vecna tore open a gate directly from Sharza into the Font's cavern, unleashing this army upon the party. Rank after rank of undead poured through the widening portal as the city's Firelances laid down a storm of covering fire from the steps of the Great Pyramid itself.
