@@ -25,6 +25,7 @@ places:
   - "vault-of-sages"
 things:
   - "eye-of-aren"
+  - "ring-of-mind-shielding"
   - "the-last-word"
 factions:
   - "amnians"

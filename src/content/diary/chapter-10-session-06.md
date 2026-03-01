@@ -37,6 +37,7 @@ places:
 things:
   - "eye-of-aren"
   - "piwafwi"
+  - "ring-of-mind-shielding"
   - "the-last-word"
   - "well-of-many-worlds"
 factions:

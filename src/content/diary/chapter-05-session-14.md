@@ -30,6 +30,7 @@ places:
 things:
   - "artifact-shard"
   - "holy-symbol-of-ravenkind"
+  - "ring-of-mind-shielding"
   - "tome-of-strahd"
 ---
 

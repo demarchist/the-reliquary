@@ -26,3 +26,17 @@ Theodemir's last decision — made moments before his death — was to endorse F
 The party infiltrated the hive and reclaimed the Eye of Aren, freeing Theodemir's spirit — still bound within the artifact. His spirit was later transferred into Fëanon's ring of mind shielding after the party expelled an Atropal fragment that had been corrupting it. From within the ring, Theodemir continued to guide and teach his star pupil, imparting knowledge of time and space magic that allowed Fëanon to develop new spells.
 
 Theodemir warned that the spell restraining Zhengyi had been failing for a year as a greater power worked to unravel it, giving him only nineteen hours before the enchantment collapsed entirely. Despite the urgency, Theodemir used his remaining time to share crucial magical knowledge with Fëanon, including insights that led to the creation of the spell Manipulate Mass. His spirit is slowly degrading within the ring, with months before it becomes critical, though he slumbers more as the degradation progresses.
+
+## The Clone Body
+
+When [[Fëanon Sërindë|Fëanon]] consulted a vision of the Future regarding his cloning project, the vision revealed an unexpected possibility: the clone body could be given to Theodemir, though one side effect remained deliberately obscured — non-lethal, but inevitable.
+
+Fëanon chose to proceed. He forged a psionic link between the [[Ring of Mind Shielding]] and the clone, and Theodemir's soul flowed through the connection. The clone's eyes twitched — and after decades as a disembodied spirit, the old wizard had a body again.
+
+Adaptation was slow. In his first days, Theodemir ate soup with shaking hands that could barely grip the spoon. His mind was as sharp as ever, but his casting was severely diminished — a master wizard relearning the most basic coordination between thought and gesture. Over weeks he recovered enough to function, though he never regained anything close to his former power.
+
+Since the body was Fëanon's clone, Theodemir looked exactly like his student. With the cloning program a tightly held secret, this created an unintended opportunity: Theodemir managed [[Fëanon's Tower|the tower]] and greeted visitors in Fëanon's absence, and no one was the wiser. It was a deception that amused the old wizard far more than it should have — decades of gravitas put to use impersonating the student he had once scolded for recklessness.
+
+The clone body eventually gave out — the obscured side effect the vision had warned of. Theodemir's spirit returned to the Ring of Mind Shielding, diminished further by the experience.
+
+In a final conversation at the tower, Theodemir asked Fëanon for a proper replacement body — not another clone of his student. He wanted his own form back, or something close to it. Fëanon scoffed at the idea that anyone would willingly surrender a body for the purpose, but admitted that getting his old master back to full strength would be excellent for the tower's operations. The question of how — or whether — remains unresolved.

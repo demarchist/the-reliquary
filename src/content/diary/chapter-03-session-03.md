@@ -12,6 +12,8 @@ people:
   - "lady-faye"
   - "tarkathee-daru"
   - "zhink"
+things:
+  - "ring-of-mind-shielding"
 factions:
   - "flaming-fist"
   - "the-brotherhood"

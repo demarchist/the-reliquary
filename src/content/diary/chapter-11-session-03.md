@@ -28,6 +28,7 @@ places:
   - "the-crossroads"
   - "underdark"
 things:
+  - "ring-of-mind-shielding"
   - "ringed-veils"
 factions:
   - "drow-faction"

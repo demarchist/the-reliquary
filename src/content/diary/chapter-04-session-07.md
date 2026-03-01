@@ -13,6 +13,7 @@ places:
   - "the-labyrinth"
 things:
   - "piwafwi"
+  - "ring-of-mind-shielding"
 ---
 
 The group waited at the labyrinth wall, unsure of what to do next. Patches felt something wrong and caught movement near a pool of bog water. She donned her Piwafwi and crept over to investigate. A small, angry old man — deformed, with an enormous red cap and iron shoes — burst from behind the foliage. More Redcaps erupted around the party from every direction, stabbing with barbed hooks and dragging people across the ground.

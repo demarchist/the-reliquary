@@ -24,6 +24,7 @@ places:
 things:
   - "bag-of-holding"
   - "gwen"
+  - "ring-of-mind-shielding"
   - "the-last-word"
   - "thundercannon"
 factions:

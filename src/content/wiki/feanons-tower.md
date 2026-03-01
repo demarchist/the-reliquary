@@ -26,3 +26,15 @@ The ground floor is entirely dedicated to a grand Entrance Hall — a circular s
 ## Security
 
 Rather than guards and physical barriers, the tower is protected by a complex network of Antipathy and Sympathy enchantments keyed to color-coded visitor badges. Unauthorized visitors find themselves unknowingly guided away from restricted areas, while authorized personnel are drawn toward their intended destinations. The result is a tower that appears entirely unsecured — an illusion that conceals defenses far more effective than any physical security.
+
+## Residents
+
+The tower is a working arcane community, not merely a private residence. Its inhabitants reflect [[Fëanon Sërindë|Fëanon]]'s ambition to build something larger than himself — though he would never phrase it that way.
+
+- **[[Theodemir]]** — Fëanon's former master, whose spirit resides in the [[Ring of Mind Shielding]]. During the period when he inhabited a clone body, Theodemir managed the tower in Fëanon's absence — and since the clone was Fëanon's own, visitors never realized the archmage they were speaking to was someone else entirely.
+- **[[Megno Slatesunder]]** — the Tower's Sage, a fellow acolyte of Theodemir's Conclave. Megno conducts research into the Ziggurats and [[Zhengyi]]'s lingering influence.
+- **Mordenkainen** — the archmage of Greyhawk, conducting research within the tower's upper floors.
+- **Ruthir** — Fëanon's apprentice, a young wizard learning under exacting standards.
+- **Giuseppe** — the tower's original front desk attendant, later succeeded by **Sinya Maya**.
+
+The atmosphere is scholarly and purposeful. Wizards, sorcerers, and other arcanists study under Fëanon's guidance, and the tower hums with quiet industry — the sound of a dozen research projects advancing simultaneously behind closed doors.

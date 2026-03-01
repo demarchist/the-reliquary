@@ -35,6 +35,7 @@ things:
   - "deck-of-illusions"
   - "eclipse"
   - "gwen"
+  - "ring-of-mind-shielding"
 factions:
   - "amnians"
   - "illithid-faction"
