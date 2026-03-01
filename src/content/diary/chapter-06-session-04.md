@@ -7,6 +7,7 @@ summary: "The group settles into Silverymoon — Buumi reconnects with his broth
 people:
   - "aliyah-faen-tlabbar"
   - "cercei"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "georg-von-strapp"
   - "gundren-rockseeker"
@@ -17,12 +18,11 @@ places:
   - "faerun"
   - "silverymoon"
   - "sundabar"
-things:
-  - "lei-technique"
+  - "underdark"
 factions:
   - "conclave-of-silverymoon"
+  - "faerun-defense-force"
   - "illithid-faction"
-  - "spellforged-adventuring-company"
   - "spellguard"
 ---
 
@@ -32,7 +32,7 @@ The group crossed into Silverymoon proper the following morning, passing through
 
 Buumi stopped in the middle of the street, staring. He had not been here in years.
 
-The group wandered the Market Ward, taking in the Winter Solstice preparations. Merchants strung garlands of evergreen and silver ribbon between lampposts while children chased each other through the powdery streets. Fëanon paused at a bookseller's cart, running gloved fingers along leather spines, and bought three volumes without looking at the prices. Cyrrus examined a display of holy symbols at a shrine-stall dedicated to a dozen different gods, frowning at the absence of Selûne. Tark, drawn by the sound of sparring, vanished down a side street and found a small martial academy where two students were practising staff forms in the cold. He watched for several minutes before the instructor noticed him and invited him in. Tark declined — with visible reluctance — and caught up with the others.
+The group wandered the Market Ward, taking in the Winter Solstice preparations. Merchants strung garlands of evergreen and silver ribbon between lampposts while children chased each other through the powdery streets. Fëanon paused at a bookseller's cart, running gloved fingers along leather spines, and bought three volumes without looking at the prices. Cirrus examined a display of holy symbols at a shrine-stall dedicated to a dozen different gods, frowning at the absence of Selûne. Tark, drawn by the sound of sparring, vanished down a side street and found a small martial academy where two students were practising staff forms in the cold. He watched for several minutes before the instructor noticed him and invited him in. Tark declined — with visible reluctance — and caught up with the others.
 
 Patches lingered at the back of the group, cataloguing exits, blind corners and rooftop access points with the unconscious precision of someone who had been hunted before. Cercei walked beside her father, one hand on his cloak, the other clutching a meat pastry bought from a street vendor. She kept staring at the towers.
 
@@ -72,15 +72,17 @@ Fëanon spent the rest of the morning in the Conclave's library, pulling texts o
 
 ## The Spellguard Officer
 
-That evening, the group reconvened at the inn. Buumi had spent the day at Georg's estate. Tark had found the martial academy again and spent the afternoon sparring with its students, winning admirers. Cyrrus had discovered a shrine to Selûne tucked into a side street near the Moonbridge and spent hours in communion. Patches and Gundren had gone shopping — Gundren returning with components and Patches with information about the local underworld that she did not elaborate on.
+That evening, the group reconvened at the inn. Buumi had spent the day at Georg's estate. Tark had found the martial academy again and spent the afternoon sparring with its students, winning admirers. Cirrus had discovered a shrine to Selûne tucked into a side street near the Moonbridge and spent hours in communion. Patches and Gundren had gone shopping — Gundren returning with components and Patches with information about the local underworld that she did not elaborate on.
 
 Fëanon retired early and entered his reverie upstairs. The others sat in the common room, talking over drinks, when the inn's front door opened and a young woman stepped inside.
 
-She was Shou — from the far east of Faerûn — small-framed and sharp-featured, with black hair pulled into a tight bun and dark, intelligent eyes that swept the room with practised efficiency. She wore the grey cloak of the [[Spellguard]] over practical travelling clothes, and a short sword hung at her hip. In her arms she carried a leather satchel that she held with the care of someone transporting volatile materials.
+She was Shou — from the far east of Faerûn — small-framed and sharp-featured, with black hair pulled into a tight bun and dark, intelligent eyes that swept the room with the practised efficiency of someone cataloguing threats. She wore the grey cloak of the [[Spellguard]] over practical travelling clothes, and a short sword hung at her hip. In her arms she carried a leather satchel that she held with the care of someone transporting volatile materials.
 
-She approached the group's table without hesitation. "You are the Spellforged Company," she said. It was not a question. "My name is Lei Tan. I am a junior investigator with the Spellguard's Arcane Crimes Division." She paused, glancing toward the stairs. "I need to speak with the wizard Fëanon Sërindë. Specifically, I need his help."
+She approached the group's table without hesitation. "You are the [[Faerûn Defense Force]]," she said. It was not a question. "My name is Lei Tan. I am a junior investigator with the Spellguard's Arcane Crimes Division." She let the title settle, watching their reactions. "I need to speak with the wizard Fëanon Sërindë. Specifically — I need him to answer for something."
 
-Buumi asked what kind of help. Lei Tan looked at each of them in turn, as if weighing how much to share. Then she sat down, set the satchel on the table with exaggerated care, and began to explain.
+The word *answer* landed hard. Buumi shifted in his seat. Tark's hand moved fractionally closer to his staff.
+
+Lei Tan looked at each of them in turn — not weighing how much to share, but deciding how much leverage to apply. Then she sat down, set the satchel on the table with exaggerated care, and began to explain.
 
 Three months ago, a Spellguard patrol had intercepted an Illithid drone on the outskirts of the city — unusual, as the creatures rarely ventured this close to a Mythal-protected settlement. The drone had been subdued and examined. Among the biological material recovered were several corrupted memory strands — psionic engrams extracted from humanoid brains and woven into the Illithid's neural tissue.
 
@@ -88,21 +90,23 @@ Three months ago, a Spellguard patrol had intercepted an Illithid drone on the o
 
 She opened her satchel and removed a sealed glass vial containing what appeared to be a strand of gossamer thread suspended in a pale blue fluid. It pulsed faintly, as though breathing.
 
-"I have identified four fingerprints on these strands. Three belong to current or former members of the Conclave. The fourth belongs to your wizard." She looked at the stairs again. "Fëanon Sërindë's psychic signature is woven into these memories. Whatever the Illithids took from these mages, he was part of it."
+"I have identified four fingerprints on these strands. Three belong to current or former members of the Conclave. The fourth belongs to your wizard." She looked toward the stairs, then back. "Fëanon Sërindë's psychic signature is woven into these memories. Whatever the Illithids took from these mages, he was part of it."
 
 Tark leaned forward. "You think Fëanon was working with the Mind Flayers?"
 
-Lei Tan shook her head. "I think several Conclave mages encountered an Illithid colony decades ago and kept it secret. I think memories were exchanged — willingly or not. And I think whatever happened has been covered up ever since." She hesitated. "My superiors believe I am overzealous. They have assigned me a single domesticated Grell and told me to write a report. But I believe this is larger than they understand."
+"I think several Conclave mages had sustained psychic contact with an Illithid colony decades ago and concealed it from the Spellguard." Her voice was level, almost pleasant. "Whether that contact was willing or coerced is what I intend to determine. Trafficking with Illithids carries severe penalties in Silverymoon, as I'm sure you appreciate."
 
-She explained her method. She had developed a technique — the [[Lei Technique]] — using the domesticated Grell's psychic receptors to reconstruct fragmented memories. The process required a living mind attuned to the memories' origin to serve as a simulation arbiter — an anchor point for the reconstruction. Without one, the fragments remained incoherent noise.
+She let the silence stretch for exactly the right amount of time, then continued.
+
+She had developed a method — her own, not standard Spellguard procedure — using a domesticated Grell's psychic receptors to reconstruct fragmented memories. She had acquired the creature herself from a collapsed Underdark tunnel and raised it in her laboratory over several years, training it to serve as a living conduit between psionic engrams and humanoid minds. Her superiors considered the work eccentric. Lei Tan did not appear to care what her superiors considered. The process required a living mind attuned to the memories' origin to serve as a simulation arbiter — an anchor point for the reconstruction. Without one, the fragments remained incoherent noise.
 
 "Fëanon's psychic fingerprint is on these strands," she said. "If he agrees to serve as the arbiter — entering a state of deep reverie while the Grell processes the memories — I can reconstruct what happened. The rest of you would each host one strand, experiencing the recovered memories from the perspective of whoever originally lived them."
 
 Patches asked what the risks were.
 
-"Discomfort," Lei Tan said. "Disorientation. The memories are old and corrupted — you will experience gaps, distortions. The Grell is domesticated but not tame. And your wizard will be unconscious throughout." She paused. "But if this works, we will know the truth."
+"Discomfort," Lei Tan said. "Disorientation. The memories are old and corrupted — you will experience gaps, distortions. The Grell is domesticated but not tame. And your wizard will be unconscious throughout." She paused. "But if this works, I will have my answers. You will have yours."
 
-The group exchanged glances. Buumi looked toward the stairs where Fëanon slept. "We'll talk to him in the morning."
+The group exchanged glances. Buumi looked toward the stairs where Fëanon had retired for the evening. "We'll talk to him in the morning."
 
 ## The Agreement
 
@@ -110,7 +114,7 @@ Fëanon took the news with less surprise than the others expected. He studied th
 
 "I know what this is," he said quietly.
 
-He asked Lei Tan a series of technical questions about the Grell, the reconstruction process, and the limits of her technique. She answered each one precisely, and Fëanon's estimation of the young investigator rose visibly. She was thorough, meticulous, and — he could tell — driven by genuine curiosity rather than ambition.
+He asked Lei Tan a series of technical questions about the Grell, the reconstruction process, and the limits of her method. She answered each one precisely, matching his rigour without yielding ground. Fëanon's estimation of the young investigator shifted — she was thorough, meticulous, and clearly brilliant. She was also, he could tell, entirely prepared to pursue this with or without his cooperation.
 
 He agreed. The group would undergo the simulation the following day, at Lei Tan's workspace in the Spellguard offices.
 

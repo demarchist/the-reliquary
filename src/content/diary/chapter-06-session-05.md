@@ -6,12 +6,15 @@ session: 5
 summary: "Lei Tan's Grell-based memory reconstruction plunges the group into the recovered memories of Theodemir's acolytes — revealing a decades-old conspiracy to entrust a dangerous artifact to an Illithid Elder Brain, and the catastrophic betrayal that shattered Fëanon's mind and bound him to fifty years of whispers."
 people:
   - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
+  - "dean-sejuk"
   - "elion-loberos"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "magistrate-li"
   - "megno-slatesunder"
+  - "orcus"
   - "orla-pyntle"
   - "sala-shara"
   - "tarkathee-daru"
@@ -20,7 +23,6 @@ people:
 places:
   - "ladypeak"
   - "silverymoon"
-  - "sundabar"
   - "underdark"
   - "vault-of-sages"
 things:
@@ -28,7 +30,6 @@ things:
   - "ring-of-mind-shielding"
   - "the-last-word"
 factions:
-  - "amnians"
   - "conclave-of-silverymoon"
   - "illithid-faction"
   - "nostalgia-for-infinity"
@@ -41,81 +42,87 @@ Lei Tan's workspace occupied a basement room beneath the Spellguard offices — 
 
 Inside the tank, the Grell floated.
 
-It was an aberration — a bulbous, brain-like mass trailing ten barbed tentacles, each tipped with a paralytic stinger. Its single eye was milky and unfocused. The creature drifted in its tank with the aimless patience of a domesticated animal, occasionally pressing a tentacle against the glass as though testing the barrier from habit rather than intent.
+It was an aberration in the fullest sense — a bulbous, brain-like mass of glistening tissue trailing ten barbed tentacles, each tipped with a paralytic stinger capable of dropping a grown man in seconds. Its single eye tracked them as they entered, milky but not unfocused — watchful, measuring, with the patience of a predator that had learned to wait. The tentacles drifted in the suspension fluid like the limbs of something dreaming of prey, and occasionally one pressed against the glass with a soft, wet sound, testing the barrier with what looked less like habit and more like hope.
 
-"Her name is Mei," Lei Tan said, noting the group's expressions. "She was recovered as a juvenile from a collapsed Underdark tunnel. The Spellguard raised her. She is quite docile." As if to demonstrate, Lei Tan tapped the glass and the Grell pressed its eye against her hand.
+"Her name is Mei," Lei Tan said, noting the group's expressions. "I recovered her as a juvenile from a collapsed Underdark tunnel and raised her myself. She is domesticated." She tapped the glass and the Grell pressed its eye against her hand. A tentacle coiled against the surface beside it, the stinger leaving a faint smear of venom on the glass. "Domesticated is not the same as safe. But she is reliable."
 
 Patches stood as far from the tank as the room allowed.
 
-Lei Tan explained the procedure. Each member of the group would lie in the copper basin and hold one of the corrupted memory strands against their temple. Mei would extend her tentacles through the tubes and establish a psychic link between the strand and the host's mind. The memories would play out as a shared hallucination — vivid, immersive, and experienced from the perspective of whoever had originally lived them.
+Lei Tan explained the procedure. Each member of the group would lie in the copper basin and hold one of the corrupted memory strands against their temple. Mei would extend her tentacles through the tubes and establish a psychic link between the strand and the host's mind — a process that required the stingers to make direct contact with the skin of the neck and temples. The venom, Lei Tan explained matter-of-factly, would be diluted by the tubes to sub-paralytic levels. The memories would play out as a shared hallucination — vivid, immersive, and experienced from the perspective of whoever had originally lived them.
 
 Fëanon would serve as the arbiter. His psychic attunement to the strands would anchor the reconstruction, allowing Mei to stitch the fragmented memories into a coherent sequence. He would lie in a separate alcove, deep in reverie, his consciousness serving as a bridge between the Grell and the group.
 
 "You will not be yourselves," Lei Tan warned. "You will think, feel and react as the people in these memories. You will know what they knew and feel what they felt. When the simulation ends, you will remember everything — but it will feel like a dream, fading at the edges."
 
-The group exchanged glances. Cyrrus asked if there was any chance the Grell would try to eat them. Lei Tan considered this seriously and said no.
+The group exchanged glances. Cirrus asked if there was any chance the Grell would try to eat them. Lei Tan considered this with the seriousness it deserved. "She has not eaten anyone yet," she said. "I would not call that a guarantee."
 
-Fëanon lay down in the alcove without a word. He closed his eyes and within seconds his breathing slowed to the barely perceptible rhythm of deep Elven reverie. Lei Tan attached a strand to his temple and nodded. The others climbed into the basin, each clutching a memory strand. Mei's tentacles snaked through the tubes and pressed gently against their skin.
+Fëanon lay down in the alcove without a word. He closed his eyes and within seconds his breathing slowed to the barely perceptible rhythm of deep Elven reverie. Lei Tan attached a strand to his temple and nodded. The others climbed into the basin, each clutching a memory strand. Mei's tentacles snaked through the tubes and pressed against their skin — cold, slick, faintly pulsing with a rhythm that was not their own. The stingers found the hollows behind their ears and pricked. Warmth flooded through them, then numbness, then something else entirely.
 
 The room dissolved.
 
 ## The Acolytes
 
-They stood in a circular chamber of polished stone, warm firelight flickering across shelved walls crammed with scrolls. The room smelled of old parchment and candlewax. Snow fell past the tall windows. It was the Conclave's private library — decades ago, before the shelves had been thinned and the funding cut.
+They stood in a circular chamber of polished stone, warm firelight flickering across shelved walls crammed with scrolls. The room smelled of old parchment and candlewax. Snow fell past the tall windows. It was the [[Conclave of Silverymoon|Conclave]]'s private library — decades ago, before the shelves had been thinned and the funding cut.
 
-Five figures stood around a table. The group knew them instantly, because they were them — or rather, the people whose memories they inhabited.
+Six figures stood around a table. The group knew five of them from the inside, because they were them — or rather, the people whose memories they inhabited.
 
-Buumi was [[Sala Shara]] — a young human woman with ink-stained hands and an expression of permanent concentration. She was the most meticulous of the group, a compulsive note-taker, and she radiated the quiet authority of someone who remembered everything.
-
-Cyrrus was [[Orla Pyntle]] — a gnome barely three feet tall, standing on a chair to see over the table, her wild copper hair escaping from a dozen pins. She fidgeted constantly but her eyes were razor-sharp.
+Patches was [[Orla Pyntle]] — a gnome barely three feet tall, standing on a chair to see over the table, her wild copper hair escaping from a dozen pins. She fidgeted constantly but her eyes were razor-sharp. Patches could feel the gnome's mind racing beneath her own — cataloguing, calculating, worrying.
 
 Tark was [[Elion Loberos]] — a young elf of striking beauty with dark hair and pale features, quiet and watchful. Something about him felt concealed, as though the memory itself was holding back.
 
-Patches was a younger Fëanon — taller than the others, his copper skin unlined, his green eyes bright with an earnest intensity that the present-day wizard had long since tempered with caution. This Fëanon was idealistic. Patches could feel it like heat from a forge.
+Gundren was [[Sala Shara]] — a young human woman with ink-stained hands and an expression of permanent concentration. She was the most meticulous of the group, a compulsive note-taker, and she radiated the quiet authority of someone who remembered everything.
 
-Gundren was [[Megno Slatesunder|Megno]] — younger, his beard shorter, his hands already calloused from enchantment work. He kept glancing at the young Fëanon with something between admiration and concern.
+Buumi was [[Dean Sejuk|Sajuuk Stomru]] — a broad-shouldered half-orc with heavy brows and deliberate movements, who spoke rarely but listened to everything. His loyalty to the others was bone-deep and uncomplicated. He carried grief like a physical weight.
 
-And at the head of the table stood a sixth figure whom none of them inhabited but all of them recognised: [[Theodemir]].
+Cirrus was [[Megno Slatesunder|Megno]] — younger, his beard shorter, his hands already calloused from enchantment work. He kept glancing at the sixth figure with something between admiration and concern.
 
-He was an old man — human, weathered, with a long grey beard and eyes that held the weight of centuries of study. His robes were simple but his staff hummed with barely contained power. He looked at his students — his acolytes — and the expression on his face was one of devastating finality.
+The sixth figure was [[Fëanon Sërindë]] — and none of them inhabited him. They saw him only as the others had seen him: tall, his copper skin unlined, his green eyes bright with an earnest intensity that the present-day wizard had long since tempered with caution. This Fëanon was idealistic. It radiated from him like heat from a forge. He stood at the table's edge, animated, arguing his case with the reckless confidence of someone who had not yet learned what that confidence would cost.
+
+They were alone. [[Theodemir]] was already dead.
+
+## The Eye of Aren
+
+The memories reached back, and the group understood — with the terrible intimacy of lived experience — what had brought these six to this room.
+
+During the acolytes' years at the Lady's College, the mages of the [[Conclave of Silverymoon]] had made mental contact with a malign will drifting in the Elemental Chaos. The Conclave's great minds studied the phenomenon for months, probing its nature with increasing alarm. What they found was the dispersed consciousness of [[Zhengyi]] the Witch-King — once a Red Wizard of Thay, who had become an enormously powerful lich with the patronage of Orcus. When Orcus was banished and Zhengyi's armies defeated, the lich was believed destroyed. He was not. His consciousness had merely dissolved into the chaotic energies of the Negative Energy Plane, where it had been slowly re-forming for centuries.
+
+The Conclave's observations revealed that Zhengyi's mind was on the brink of reaching critical mass — and that a re-awakened Witch-King represented an existential threat to the realm.
+
+The mages, led by [[Theodemir]], resolved to create a powerful artifact that could pierce planar boundaries and subdue Zhengyi's re-forming will, preventing it from ever regaining consciousness. They poured through the archives of the [[Vault of Sages]] in search of a suitable substrate — something powerful enough to anchor a spell of that magnitude across planes. They discovered an account of an item from antiquity that had been used for something similar, and found the relic itself still buried in the Vault's deepest stacks.
+
+Unknown to them, the relic was a shard of [[The Last Word]] — an artifact of incalculable and volatile power. The account made no mention of this. They failed to take proper precautions.
+
+The ritual succeeded. The [[Eye of Aren]] was forged, its psionic field reaching across the planes to envelop Zhengyi's consciousness in an enforced slumber. But the shard's unbound power unleashed forces that threatened to devastate the city. Theodemir — the old wizard, the mentor, the man who had taught them everything — made a choice. He poured his life force into the Eye to contain the cataclysm. The acolytes watched in horror and grief as their master dissolved before their eyes, until nothing remained but the blazing artifact and a [[Ring of Mind Shielding]] that clattered to the floor where he had stood.
+
+Grief-stricken, the acolytes named the artifact the Eye of Aren, in Theodemir's honour. With the Eye in place, Zhengyi's mind would continue to consolidate — but he would remain unconscious so long as the artifact persisted.
 
 ## The Debate
 
-The memories clarified. The group understood, with the certainty of lived experience, what had brought these six to this room.
+The memory lurched forward. Weeks had passed, and the grief had curdled into something worse.
 
-Theodemir had created the [[Eye of Aren]] — a crystalline artifact of immense psionic power, constructed around a shard of the artifact known as [[The Last Word]]. The Eye had been designed for a single purpose: to amplify and sustain the binding spell that kept the lich Zhengyi the Witch-King imprisoned in his tomb. Theodemir had poured his life force into the casting. The spell was holding — but the old wizard was dying. His body could not sustain the drain much longer.
+The question of where to keep the Eye, and who should guard it, had consumed the [[Conclave of Silverymoon|Conclave]]. And the Conclave was tearing itself apart.
 
-The acolytes had gathered because Theodemir was about to make the sacrifice permanent. He would complete the binding, pour the last of himself into the Eye, and die. The artifact would sustain the spell indefinitely — but only if it was kept safe from those who would use it to free Zhengyi.
+Three factions had emerged. The first demanded that the Conclave invest significant resources into safeguarding the Eye within [[Silverymoon]] — permanent wards, dedicated guards, institutional commitment. The second argued that the risk was too great, that housing such an artifact would bring the forces of darkness down on the city, and that the Eye should be sent far away. The third — the faction that made the students sick to watch — saw the Eye as a political tool, a source of leverage that could be wielded to expand the Conclave's influence in the region.
 
-The debate was about where to hide it.
+The acolytes stood in this room and watched their mentor's sacrifice being picked apart by politicians. Sala took meticulous notes on the proceedings and grew quieter with each passing day. Orla muttered calculations about the Eye's structural integrity under her breath, worrying at the problem like a wound. Megno's fists clenched during council sessions. Sajuuk said nothing, but the set of his jaw spoke volumes.
 
-Sala argued for the [[Vault of Sages]] — Silverymoon's great library, where it could be sealed in the deepest archive under permanent guard. Orla disagreed — too many people knew about the Vault, and the Amnians had already begun establishing trade offices in the city. Megno suggested Sundabar's Undercity, near the Everfire. Elion said nothing, watching with those concealed eyes.
+Fëanon was furious. The group could see it from the outside now — the idealism curdling into something harder, the brilliant mind that had always outpaced his caution beginning to spin toward a dangerous conclusion.
 
-The younger Fëanon — Patches could feel his reasoning as though it were her own — proposed something radical. There was a colony of Illithids beneath the western Nether Mountains, in the caverns below a place called [[Ladypeak]]. An Elder Brain called [[Nostalgia for Infinity]] led a collective that had been stranded on the Prime Material Plane for centuries, their nautiloid buried too deep to extract. The Illithids were not hostile — they were isolated, desperate, and willing to negotiate.
+## The Conspiracy
 
-If the Eye were entrusted to Nostalgia for Infinity, the Elder Brain's natural psionic field would amplify the artifact's power a hundredfold. No one would think to look for it in an Illithid hive. And the Mind Flayers would have a powerful incentive to protect it — the Eye's energy could sustain their colony for generations.
+The memory shifted again. The acolytes sat in this same library, but the fire had burned low and the door was locked. This was no longer a debate. It was a plot.
 
-The room erupted. Sala was appalled. Orla called it insane. Megno looked at his friend as though he had grown a second head.
+Fëanon had proposed the plan. The Conclave had been waging a long, protracted campaign against a powerful Illithid collective in the region — [[Nostalgia for Infinity]], an ancient hive entombed beneath the western Nether Mountains, near [[Ladypeak]]. Despite decades of effort, the Conclave had never managed more than containment. Many of the acolytes had fought the collective over the years and held a begrudging respect for their long-time enemy.
 
-But Theodemir listened. And after a long silence, the old wizard nodded.
+Fëanon's argument was coldly logical. The Conclave's leadership could not be trusted to guarantee the Eye's preservation. Political maneuvering would either diminish it, endanger it, or weaponise it. But Nostalgia for Infinity's drive for self-preservation was absolute. If Zhengyi returned, the Mind Flayers would be enslaved or destroyed along with everything else. The collective had every reason to keep the Eye intact and functioning.
 
-"The boy is right," he said. "There is no vault deep enough, no guard strong enough. Only something the world fears to approach will keep this safe."
+A Faustian bargain: turn the Eye over to Nostalgia for Infinity, who would harbour it at the heart of their hive where no one would think to look and no one would dare to retrieve it. As an added incentive — and to protect themselves from the inevitable investigation — the acolytes would willingly surrender their memories of the conspiracy to the collective. Nostalgia would extract the knowledge of what they had done, weaving it into the hive's psionic web. When the [[Spellguard]] came asking questions, the acolytes would have nothing to hide, because there would be nothing left to find.
 
-The debate continued for hours, but Theodemir's approval settled the matter. One by one, the acolytes relented — Sala last, and only after extracting a promise that the arrangement would be reviewed every decade. Elion, who had remained silent throughout, simply inclined his head.
+The room erupted. Sala was appalled. Orla called it insane. Megno looked at his friend as though he had grown a second head. Sajuuk said nothing, watching with those heavy brows, weighing the cost against the alternative.
 
-The decision was made. They would journey to the hive beneath Ladypeak and entrust the Eye of Aren to Nostalgia for Infinity.
+But one by one, watching the Conclave's infighting consume the thing their mentor had died to create, they relented. Sala last — and only after extracting a promise that they would find a way to monitor the arrangement from a distance. Elion, who had remained silent throughout, simply inclined his head.
 
-## The Sacrifice
-
-The memory lurched forward. Days had passed. The group stood in Theodemir's private chamber as the old wizard completed his preparations. The Eye of Aren sat on a velvet cloth — a fist-sized crystal that pulsed with soft amber light, its surface etched with patterns that seemed to shift when viewed from different angles.
-
-Theodemir spoke to each of his acolytes in turn. Private words, quiet and measured. When he reached the younger Fëanon, the old man placed both hands on the elf's shoulders and looked into his eyes for a long time.
-
-"You are the finest mind I have taught," Theodemir said. "Do not let that make you careless."
-
-Then he placed his hands on the Eye and began to cast. The light in the room intensified until it was blinding. Theodemir's body sagged, thinned, became translucent — his life force draining into the crystal in visible streams of gold. The acolytes watched in horror and grief as their master dissolved before their eyes, until nothing remained but the Eye, now blazing with inner light, and a ring of mind shielding that clattered to the floor where the old man had stood.
-
-Sala picked up the ring with trembling hands. Fëanon took the Eye, wrapping it carefully. No one spoke. They left the chamber and began the journey to the mountains.
+The acolytes stole the Eye of Aren under cover of darkness and began the journey to the mountains.
 
 ## The Hive
 
@@ -125,7 +132,7 @@ Then the hive opened before them and the memories snapped back into terrible cla
 
 The nautiloid was enormous — a bio-organic vessel buried in the mountain's roots, its hull fused with the surrounding stone. Bioluminescent fluid coursed through veins in the walls, casting everything in shades of pale blue and sickly green. The tunnels were warm and wet, the air thick with a coppery tang that caught in the throat. Organic membranes pulsed between chambers like breathing walls. The floor was uneven, ridged, alive.
 
-They passed through assimilation chambers — vast caverns lined with pods of translucent membrane, each containing a humanoid figure in various stages of transformation. Some were clearly dead. Others twitched. The younger Fëanon forced himself to look away. Sala catalogued everything with grim precision. Orla muttered calculations under her breath. Megno gripped his hammer and said nothing.
+They passed through assimilation chambers — vast caverns lined with pods of translucent membrane, each containing a humanoid figure in various stages of transformation. Some were clearly dead. Others twitched. Fëanon forced himself to look away. Sala catalogued everything with grim precision. Orla muttered calculations under her breath. Megno gripped his hammer and said nothing.
 
 Deeper in, they entered the dome.
 
@@ -133,25 +140,31 @@ It was a cavern the size of a cathedral, the ceiling lost in darkness. In the ce
 
 And the dome above was not darkness — it was space. Stars wheeled slowly overhead, nebulae drifted in colours that had no names, and the faint suggestion of other worlds hung at the edges of perception. Whether it was an illusion or a window to somewhere else, none of them could say.
 
-Nostalgia for Infinity spoke. Not with sound — with thought. The voice was ancient, patient, and desperately lonely. It had been here for three thousand years, buried beneath rock, unable to reach the stars it remembered. It accepted the bargain. The Eye would amplify its reach. In return, it would protect the artifact and sustain the spell that bound Zhengyi.
+Nostalgia for Infinity spoke. Not with sound — with thought. The voice was ancient, patient, and desperately lonely. It had been here for three thousand years, buried beneath rock, unable to reach the stars it remembered. It accepted the bargain. The Eye would amplify its psionic field. In return, it would protect the artifact. And in return for the acolytes' silence, it would take their memories of this night and weave them into its web, leaving no trace for the Spellguard to find.
 
-The younger Fëanon stepped forward and placed the Eye of Aren on the psychic web. The Elder Brain enveloped it, drew it inward, and the dome blazed with light. Every Illithid in the chamber shuddered. Nostalgia's presence swelled, filling the cavern, pressing against their minds with an almost physical weight.
+Fëanon stepped forward and placed the Eye of Aren on the psychic web. The Elder Brain enveloped it, drew it inward, and the dome blazed with light. Every Illithid in the chamber shuddered. Nostalgia's presence swelled, filling the cavern, pressing against their minds with an almost physical weight.
+
+Then the extraction began. One by one, Nostalgia's drones pressed their tentacles against the acolytes' temples and drew the conspiracy out of them: the debates, the plotting, the theft, the journey. The sensation was intimate and nauseating — like having fingers reach inside the skull and pluck at the strings of who you were. The memories came loose in bright, painful strips. Sala wept silently. Megno's jaw clenched so hard his teeth cracked. Orla passed out. Sajuuk endured it with his eyes open.
+
+Fëanon was last. He knelt before the web, his face pale but steady, and the Elder Brain's probe descended.
 
 ## The Betrayal
 
 Something was wrong.
 
-The psychic pressure did not recede. It grew. The younger Fëanon staggered, clutching his head. Sala screamed. The Illithids turned as one toward the acolytes, their tentacles reaching.
+The psychic probe did not withdraw. It deepened. Fëanon staggered to his feet, clutching his head. The extraction was supposed to be targeted — the conspiracy memories and nothing more. But Nostalgia for Infinity had spent three thousand years starving, and the psychic fingerprints of six trained mages were rich with magical knowledge, decades of study and training encoded in their neural pathways. The Elder Brain was not going to let a feast walk away.
 
-Nostalgia for Infinity had accepted the Eye — but it wanted more. The psychic fingerprints of the acolytes were rich with magical knowledge, decades of study and training encoded in their neural pathways. The Elder Brain had spent three millennia starving. It was not going to let a feast walk away.
+The dome erupted. Sala screamed. The Illithids turned as one toward the acolytes, their tentacles reaching. Megno swung his hammer at the nearest Mind Flayer and was flung across the chamber by a telekinetic blast. Sajuuk planted himself between the advancing creatures and the others, absorbing impacts with his body. Orla — barely conscious — scrabbled backward across the organic floor.
 
-The memories fragmented violently. Patches experienced flashes through Fëanon's eyes — tentacles wrapping around his skull, a white-hot lance of pain behind his eyes, the sensation of being pulled apart thought by thought. Megno swinging his hammer at an Illithid and being flung across the chamber. Sala dragging Orla toward the exit. Elion — moving with a speed and grace that did not match his mild manner — cutting down two Mind Flayers with blades that materialised from nowhere.
+From within their hosts' perspectives, the group watched what happened to Fëanon from the outside — and it was worse than being inside would have been.
 
-The younger Fëanon was lifted from the ground by invisible hands. The Elder Brain's probe drove into his mind like a spike, tearing through memories, consuming knowledge, reaching for the deepest structures of his consciousness. He screamed — a sound that transcended the physical and rippled through the psychic web like a crack through glass.
+He was lifted from the ground by invisible hands, his body rigid, his mouth open in a scream that transcended the physical and rippled through the psychic web like a crack through glass. The Elder Brain's probe drove into his mind like a spike. From outside, they could see what those inside could not: the light leaving his eyes, his body convulsing, something fundamental being torn loose from the architecture of his consciousness.
 
-Something inside him broke.
+Elion — moving with a speed and grace that did not match his mild manner — cut down two Mind Flayers with blades that materialised from nowhere. He reached Fëanon, caught the elf as the invisible hands released him, and dragged him toward the exit. Megno found his feet and swung a path clear. Sajuuk carried Orla. Sala grabbed the fallen and ran.
 
-Not his body. His mind. The probe hit something it could not digest — the core of his magical identity, the fundamental architecture of who he was — and the impact shattered it. His psychic self split. A fragment — the part of him that held his purest magical essence — tore free and fled, escaping through the psychic web like a spark through a circuit. The rest of him went dark.
+They fought their way out of the hive. Behind them, the dome's light pulsed once, twice, and went dark.
+
+Fëanon's eyes were open. But no one was home.
 
 The simulation crashed.
 
@@ -161,9 +174,11 @@ The group jerked awake in the copper basin, gasping, drenched in sweat. Mei had 
 
 Fëanon was still unconscious in the alcove. His breathing was rapid and shallow, his eyes moving beneath their lids.
 
-The group sat in stunned silence, the weight of what they had experienced settling over them like snowfall. Buumi — who had been Sala — could still feel the ink stains on hands that were not his. Cyrrus — who had been Orla — kept reaching for a chair that was not there. Tark said nothing, staring at his hands as though seeing someone else's.
+The group sat in stunned silence, the weight of what they had experienced settling over them like snowfall. Gundren — who had been Sala — could still feel the ink stains on hands that were not his. Patches — who had been Orla — kept reaching for a chair that was not there. Tark said nothing, staring at his hands as though seeing someone else's.
 
-Patches was shaking. She had felt Fëanon's mind break. She had been inside it when it happened.
+Buumi was shaking. He had been Sajuuk — had stood between the Mind Flayers and the others, absorbing blows meant for people he loved. The phantom impacts still echoed in his bones.
+
+Cirrus sat very still. He had been Megno. He could still feel the hammer in his hands.
 
 Lei Tan worked quickly, cross-referencing notes with the fragments the group reported. She was pale but composed, her pen scratching rapidly across a journal. After an hour of questions — patient, precise, relentless — she sat back and stared at the wall.
 
@@ -171,7 +186,7 @@ Lei Tan worked quickly, cross-referencing notes with the fragments the group rep
 
 She looked at the unconscious Fëanon.
 
-"The Elder Brain took more than the Eye. It tried to consume him. The process was interrupted — his friends rescued him — but the damage was done. His psyche was shattered. Part of his magical essence escaped through the psychic web and has been drifting in the psionic aether ever since." She paused. "That is why the Illithids' psychic fingerprint has been on him for fifty years. He was never enthralled in the traditional sense. He was broken. And the fragments of his mind that Nostalgia for Infinity kept have been whispering back to him across the psychic link ever since."
+"The Elder Brain took more than the bargain allowed. It tried to consume him. The others rescued him — but the damage was done. His psyche was shattered. Part of his magical essence was torn loose and assimilated into Nostalgia for Infinity's collective consciousness." She paused. "That is why the Illithids' psychic fingerprint has been on him for fifty years. He was never enthralled in the traditional sense. He was broken. And the fragment of his mind that Nostalgia absorbed has been whispering back to him across the psionic link ever since."
 
 Fëanon's eyes opened. He stared at the ceiling of the basement, his face wet with tears, and said nothing for a very long time.
 
@@ -179,9 +194,9 @@ Fëanon's eyes opened. He stared at the ceiling of the basement, his face wet wi
 
 Later — after Buumi had carried Fëanon upstairs and the group had gathered in a private room at the inn — the wizard spoke.
 
-He remembered now. Not everything — the memories were fragmentary, corrupted by the Grell's limitations and fifty years of psychic damage — but enough. He remembered Theodemir's sacrifice. He remembered the Eye. He remembered the hive and the betrayal and the feeling of his mind being torn apart.
+He remembered now. Not everything — the memories were fragmentary, corrupted by the Grell's limitations and fifty years of psychic damage — but enough. He remembered Theodemir's sacrifice. He remembered the Eye. He remembered the conspiracy, the hive, the betrayal, and the feeling of his mind being torn apart.
 
-"The others got me out," he said. His voice was hoarse. "Sala and Megno and Elion. They fought through the hive and dragged me to the surface. But I was not the same. The whispers started that night and never stopped. The Conclave physicians could not explain them. The Spellguard investigated and found nothing. Eventually I left Silverymoon because I could not bear the noise."
+"The others got me out," he said. His voice was hoarse. "Sala and Megno and Elion and Sajuuk. They fought through the hive and dragged me to the surface. But I was not the same. The whispers started that night and never stopped. The Conclave physicians could not explain them. The Spellguard investigated the Eye's disappearance and found nothing — because there was nothing left to find. Eventually I left Silverymoon because I could not bear the noise."
 
 He looked at the vial containing the memory strand, still sitting on the table where Lei Tan had left it.
 
