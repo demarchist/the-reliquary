@@ -98,13 +98,17 @@ Tark leaned forward. "You think Fëanon was working with the Mind Flayers?"
 
 She let the silence stretch for exactly the right amount of time, then continued.
 
-She had developed a method — her own, not standard Spellguard procedure — using a domesticated Grell's psychic receptors to reconstruct fragmented memories. She had acquired the creature herself from a collapsed Underdark tunnel and raised it in her laboratory over several years, training it to serve as a living conduit between psionic engrams and humanoid minds. Her superiors considered the work eccentric. Lei Tan did not appear to care what her superiors considered. The process required a living mind attuned to the memories' origin to serve as a simulation arbiter — an anchor point for the reconstruction. Without one, the fragments remained incoherent noise.
+The strands had been examined by Spellguard analysts, she said. Their assessment: too degraded for evidentiary use. Decades of corruption and exposure to Illithid neurobiology had reduced the engrams to incoherent noise. Standard psionic reconstruction had failed. The official recommendation was to log the evidence and deprioritise the case — the psychic fingerprints belonged to Conclave members, the political entanglements were delicate, and the strands were, in the analysts' professional opinion, worthless.
+
+Lei Tan did not share that opinion. She had developed a method of her own — using a domesticated Grell's psychic receptors to reconstruct fragmented memories. She had acquired the creature herself from a collapsed Underdark tunnel and raised it in her laboratory over several years, training it to serve as a living conduit between psionic engrams and humanoid minds. The process required a living mind attuned to the memories' origin to serve as a simulation arbiter — an anchor point for the reconstruction. Without one, the fragments remained noise. But with one, she believed she could reconstruct the full sequence of events encoded in the strands.
 
 "Fëanon's psychic fingerprint is on these strands," she said. "If he agrees to serve as the arbiter — entering a state of deep reverie while the Grell processes the memories — I can reconstruct what happened. The rest of you would each host one strand, experiencing the recovered memories from the perspective of whoever originally lived them."
 
 Patches asked what the risks were.
 
 "Discomfort," Lei Tan said. "Disorientation. The memories are old and corrupted — you will experience gaps, distortions. The Grell is domesticated but not tame. And your wizard will be unconscious throughout." She paused. "But if this works, I will have my answers. You will have yours."
+
+She did not mention a team. She did not mention a supervisor. She spoke only of herself — *my* laboratory, *my* creature, *my* method — and the group, caught in the gravity of her conviction, did not think to ask why a junior investigator with the Spellguard's Arcane Crimes Division was conducting her case alone, at night, in a common room.
 
 The group exchanged glances. Buumi looked toward the stairs where Fëanon had retired for the evening. "We'll talk to him in the morning."
 
@@ -114,8 +118,16 @@ Fëanon took the news with less surprise than the others expected. He studied th
 
 "I know what this is," he said quietly.
 
-He asked Lei Tan a series of technical questions about the Grell, the reconstruction process, and the limits of her method. She answered each one precisely, matching his rigour without yielding ground. Fëanon's estimation of the young investigator shifted — she was thorough, meticulous, and clearly brilliant. She was also, he could tell, entirely prepared to pursue this with or without his cooperation.
+He asked Lei Tan a series of technical questions about the Grell, the reconstruction process, and the limits of her method. She answered each one precisely, matching his rigour without yielding ground. Then he asked a question the others had not thought to ask.
 
-He agreed. The group would undergo the simulation the following day, at Lei Tan's workspace in the Spellguard offices.
+"How many people in the Spellguard know you are here tonight?"
+
+Lei Tan held his gaze. "The people who need to know."
+
+It was not an answer. Fëanon studied her for a long moment — the grey cloak worn with the self-consciousness of someone still earning its weight, the satchel full of evidence her own division had written off, the basement laboratory that no one had authorised. He understood, with the pattern-recognition of someone who had spent centuries navigating institutional politics, exactly what he was looking at: a brilliant young officer running an investigation that no longer officially existed, leveraging whatever she could to get the answers that the people above her did not want found.
+
+He looked at the memory strand again. It pulsed in his hand.
+
+He agreed. The group would undergo the simulation the following day, at Lei Tan's workspace beneath the Spellguard offices.
 
 As she left, Lei Tan turned at the door. "Officer Li," she said. "That is what my colleagues call me. In case you need to find me." She nodded once and disappeared into the evening snow.
