@@ -1,7 +1,5 @@
 ---
 title: The Amber Tornado
-chapter: 15
-chapterTitle: Interludes
 session: 3
 people:
   - "ares"

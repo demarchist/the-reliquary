@@ -8,6 +8,9 @@ allDiary.sort((a, b) => {
   return a.data.session - b.data.session;
 });
 
+const allInterludes = await getCollection('interludes');
+allInterludes.sort((a, b) => a.data.session - b.data.session);
+
 const allWiki = await getCollection('wiki');
 
 const allHistory = await getCollection('history');
@@ -37,11 +40,11 @@ for (const [, arr] of sessionDebuts) {
   arr.sort((a, b) => (catOrder[a.category as keyof typeof catOrder] ?? 9) - (catOrder[b.category as keyof typeof catOrder] ?? 9) || a.title.localeCompare(b.title));
 }
 
-// entitySessions: which sessions each entity appears in (from diary frontmatter)
+// entitySessions: which sessions each entity appears in (from diary + interlude frontmatter)
 const categoryKeys = ['people', 'places', 'things', 'factions', 'events'] as const;
 const keyToCategory: Record<string, string> = { people: 'People', places: 'Places', things: 'Things', factions: 'Factions', events: 'Events' };
 const entitySessions: Record<string, string[]> = {};
-for (const d of allDiary) {
+for (const d of [...allDiary, ...allInterludes]) {
   for (const key of categoryKeys) {
     const slugs = d.data[key];
     if (!slugs) continue;
@@ -75,7 +78,7 @@ for (const w of allWiki) {
 // Used in the expandable detail panel
 interface EntityInfo { slug: string; title: string; category: string; debut: boolean; }
 const sessionEntitiesGrouped: Map<string, Map<string, EntityInfo[]>> = new Map();
-for (const d of allDiary) {
+for (const d of [...allDiary, ...allInterludes]) {
   const grouped: Map<string, EntityInfo[]> = new Map();
   for (const key of categoryKeys) {
     const slugs = d.data[key];
@@ -292,6 +295,145 @@ function densityTier(total: number): string {
       </section>
 
       {[...chapters.entries()].map(([chapterNum, entries]) => (
+        <>
+        {chapterNum === 15 && allInterludes.length > 0 && (
+          <section id="interludes" class="tl-chapter tl-chapter--interludes" data-chapter="interludes">
+            <div class="chapter-header chapter-header--interludes">
+              <span class="chapter-number chapter-number--interludes">&#9670;</span>
+              <span class="chapter-title">Interludes</span>
+              <span class="chapter-count">{allInterludes.length} sessions</span>
+            </div>
+            <div class="tl-spine tl-spine--interludes">
+              {allInterludes.map((entry) => {
+                const sessionId = entry.id;
+                const debuts = sessionDebuts.get(sessionId) || [];
+                const nonEventDebuts = debuts.filter(d => d.category !== 'Events');
+                const eventDebuts = debuts.filter(d => d.category === 'Events');
+                const grouped = sessionEntitiesGrouped.get(sessionId) || new Map();
+
+                const pCount = entry.data.people?.length || 0;
+                const plCount = entry.data.places?.length || 0;
+                const tCount = entry.data.things?.length || 0;
+                const fCount = entry.data.factions?.length || 0;
+                const total = pCount + plCount + tCount + fCount;
+
+                const allSlugs = [
+                  ...(entry.data.people || []),
+                  ...(entry.data.places || []),
+                  ...(entry.data.things || []),
+                  ...(entry.data.factions || []),
+                  ...(entry.data.events || []),
+                ];
+
+                return (
+                  <>
+                    {eventDebuts.map((ev) => (
+                      <div class="tl-milestone">
+                        <div class="tl-milestone-inner">
+                          <span class="tl-milestone-label font-mono">Int./{entry.data.session}</span>
+                          <a href={`${base}/wiki/${ev.slug}/`} class="tl-milestone-title">{ev.title}</a>
+                          {entityMeta[ev.slug]?.description && (
+                            <p class="tl-milestone-desc">{entityMeta[ev.slug].description}</p>
+                          )}
+                        </div>
+                      </div>
+                    ))}
+
+                    <div
+                      class={`tl-node tl-node--density-${densityTier(total)}`}
+                      data-session={sessionId}
+                      data-entities={allSlugs.join(',')}
+                    >
+                      <div class="tl-node-dot tl-node-dot--interlude"></div>
+                      <div class="tl-node-content">
+                        <div class="tl-node-header">
+                          <span class="tl-node-label font-mono">Int./{entry.data.session}</span>
+                          <a href={`${base}/diary/${sessionId}/`} class="tl-node-title">{entry.data.title}</a>
+                          {total > 0 && (
+                            <button class="tl-node-toggle" type="button" data-expand={sessionId} aria-label="Expand session details" title="Show all entities">
+                              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                          )}
+                        </div>
+
+                        {total > 0 && (
+                          <div class="tl-density" title={`${pCount} people, ${plCount} places, ${tCount} things, ${fCount} factions`}>
+                            {pCount > 0 && <div class="tl-density-seg tl-density-seg--people" style={`flex:${pCount}`}></div>}
+                            {plCount > 0 && <div class="tl-density-seg tl-density-seg--places" style={`flex:${plCount}`}></div>}
+                            {tCount > 0 && <div class="tl-density-seg tl-density-seg--things" style={`flex:${tCount}`}></div>}
+                            {fCount > 0 && <div class="tl-density-seg tl-density-seg--factions" style={`flex:${fCount}`}></div>}
+                          </div>
+                        )}
+
+                        {nonEventDebuts.length > 0 && (
+                          <div class="tl-debuts">
+                            <span class="tl-debuts-label">Debuts</span>
+                            {nonEventDebuts.slice(0, 4).map((d) => (
+                              <button
+                                class={`tl-chip tl-chip--${catCss[d.category]} tl-chip--debut`}
+                                data-entity={d.slug}
+                                type="button"
+                                title={`${d.title} — first appearance`}
+                              >
+                                <span class="tl-chip-star">&#10038;</span>{d.title}
+                              </button>
+                            ))}
+                            {nonEventDebuts.length > 4 && (
+                              <button class="tl-chip tl-chip--overflow" type="button" data-overflow={sessionId}>
+                                +{nonEventDebuts.length - 4} more
+                              </button>
+                            )}
+                            {nonEventDebuts.length > 4 && nonEventDebuts.slice(4).map((d) => (
+                              <button
+                                class={`tl-chip tl-chip--${catCss[d.category]} tl-chip--debut tl-chip--hidden`}
+                                data-entity={d.slug}
+                                data-overflow-item={sessionId}
+                                type="button"
+                                title={`${d.title} — first appearance`}
+                              >
+                                <span class="tl-chip-star">&#10038;</span>{d.title}
+                              </button>
+                            ))}
+                          </div>
+                        )}
+
+                        <div class="tl-detail" data-detail={sessionId} hidden>
+                          {entry.data.summary && (
+                            <p class="tl-detail-summary">{entry.data.summary}</p>
+                          )}
+                          <div class="tl-detail-entities">
+                            {(['People', 'Places', 'Things', 'Factions'] as const).map(cat => {
+                              const entities = grouped.get(cat);
+                              if (!entities) return null;
+                              return (
+                                <div class={`tl-detail-group tl-detail-group--${catCss[cat]}`}>
+                                  <span class="tl-detail-cat-label">{cat}</span>
+                                  <div class="tl-detail-chips">
+                                    {entities.map(e => (
+                                      <button
+                                        class={`tl-chip tl-chip--${catCss[cat]}${e.debut ? ' tl-chip--debut' : ''}`}
+                                        data-entity={e.slug}
+                                        type="button"
+                                        title={e.debut ? `${e.title} — first appearance` : e.title}
+                                      >
+                                        {e.debut && <span class="tl-chip-star">&#10038;</span>}{e.title}
+                                      </button>
+                                    ))}
+                                  </div>
+                                </div>
+                              );
+                            })}
+                          </div>
+                          <a href={`${base}/diary/${sessionId}/`} class="tl-detail-link">Read full entry &rarr;</a>
+                        </div>
+                      </div>
+                    </div>
+                  </>
+                );
+              })}
+            </div>
+          </section>
+        )}
         <section id={`chapter-${chapterNum}`} class="tl-chapter" data-chapter={chapterNum}>
           <div class="chapter-header">
             <span class="chapter-number">Chapter {chapterNum}</span>
@@ -434,6 +576,7 @@ function densityTier(total: number): string {
             })}
           </div>
         </section>
+        </>
       ))}
     </div>
 
@@ -453,13 +596,23 @@ function densityTier(total: number): string {
             const maxSessions = Math.max(...[...chapters.values()].map(e => e.length));
             const barWidth = Math.round((sessionCount / maxSessions) * 100);
             return (
-              <li>
-                <a href={`#chapter-${chapterNum}`} class="tl-chapter-link" data-chapter-link={chapterNum}>
-                  <span class="tl-chapter-num">{chapterNum}.</span>
-                  <span class="tl-chapter-name">{chapterTitle(entries)}</span>
-                  <span class="tl-chapter-bar" style={`width:${barWidth}%`}></span>
-                </a>
-              </li>
+              <>
+                {chapterNum === 15 && allInterludes.length > 0 && (
+                  <li>
+                    <a href="#interludes" class="tl-chapter-link tl-chapter-link--interludes" data-chapter-link="interludes">
+                      <span class="tl-chapter-num tl-chapter-num--interludes">&#9670;</span>
+                      <span class="tl-chapter-name">Interludes</span>
+                    </a>
+                  </li>
+                )}
+                <li>
+                  <a href={`#chapter-${chapterNum}`} class="tl-chapter-link" data-chapter-link={chapterNum}>
+                    <span class="tl-chapter-num">{chapterNum}.</span>
+                    <span class="tl-chapter-name">{chapterTitle(entries)}</span>
+                    <span class="tl-chapter-bar" style={`width:${barWidth}%`}></span>
+                  </a>
+                </li>
+              </>
             );
           })}
         </ul>
@@ -842,6 +995,43 @@ function densityTier(total: number): string {
   }
 
   .tl-chapter-num--prologue {
+    font-size: 0.625rem;
+    text-align: center;
+  }
+
+  /* ===== Interludes ===== */
+  .chapter-header--interludes {
+    border-bottom-color: var(--color-parchment-400);
+  }
+
+  .chapter-header--interludes .chapter-number--interludes {
+    color: var(--color-ink-400);
+    font-size: 0.625rem;
+    font-style: italic;
+  }
+
+  .chapter-header--interludes .chapter-title {
+    color: var(--color-ink-500);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1rem;
+  }
+
+  .tl-spine--interludes::before {
+    background: var(--color-parchment-400);
+    opacity: 0.6;
+  }
+
+  .tl-node-dot--interlude {
+    background: var(--color-parchment-500, var(--color-ink-400));
+    opacity: 0.7;
+  }
+
+  .tl-chapter-link--interludes {
+    font-style: italic;
+  }
+
+  .tl-chapter-num--interludes {
     font-size: 0.625rem;
     text-align: center;
   }

@@ -5,6 +5,9 @@ import { getCollection } from 'astro:content';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const allEntries = await getCollection('diary');
+const allInterludes = await getCollection('interludes');
+allInterludes.sort((a, b) => a.data.session - b.data.session);
+
 const allChapterMeta = await getCollection('chapters');
 const chapterSummaries = new Map(allChapterMeta.map(c => [c.data.chapter, c.data.summary]));
 
@@ -36,15 +39,28 @@ const hasOutline = chapters.size > 0;
           <h2 class="font-serif text-sm font-semibold text-ink-700 mb-3">Chapters</h2>
           <ul class="space-y-1.5 border-l border-parchment-300">
             {[...chapters.entries()].map(([chapterNum, chapter]) => (
-              <li>
-                <a
-                  href={`#chapter-${chapterNum}`}
-                  class="outline-link block pl-3 text-xs leading-snug text-ink-500 no-underline hover:text-accent-600 transition-colors border-l-2 border-transparent -ml-px"
-                  data-slug={`chapter-${chapterNum}`}
-                >
-                  Ch. {chapterNum}{chapter.title ? `: ${chapter.title}` : ''}
-                </a>
-              </li>
+              <>
+                <li>
+                  <a
+                    href={`#chapter-${chapterNum}`}
+                    class="outline-link block pl-3 text-xs leading-snug text-ink-500 no-underline hover:text-accent-600 transition-colors border-l-2 border-transparent -ml-px"
+                    data-slug={`chapter-${chapterNum}`}
+                  >
+                    Ch. {chapterNum}{chapter.title ? `: ${chapter.title}` : ''}
+                  </a>
+                </li>
+                {chapterNum === 14 && allInterludes.length > 0 && (
+                  <li>
+                    <a
+                      href="#interludes"
+                      class="outline-link block pl-3 text-xs leading-snug text-ink-500 no-underline hover:text-accent-600 transition-colors border-l-2 border-transparent -ml-px italic"
+                      data-slug="interludes"
+                    >
+                      Interludes
+                    </a>
+                  </li>
+                )}
+              </>
             ))}
           </ul>
         </nav>
@@ -82,26 +98,45 @@ const hasOutline = chapters.size > 0;
   ) : (
     <div class="space-y-8">
       {[...chapters.entries()].map(([chapterNum, chapter]) => (
-        <section>
-          <h2 id={`chapter-${chapterNum}`} class="font-serif text-xl font-semibold text-ink-800 mb-3 pb-2 border-b border-parchment-200">
-            Chapter {chapterNum}{chapter.title ? `: ${chapter.title}` : ''}
-          </h2>
-          {chapterSummaries.has(chapterNum) && (
-            <p class="text-sm text-ink-500 italic mb-4 leading-relaxed">{chapterSummaries.get(chapterNum)}</p>
+        <>
+          <section>
+            <h2 id={`chapter-${chapterNum}`} class="font-serif text-xl font-semibold text-ink-800 mb-3 pb-2 border-b border-parchment-200">
+              Chapter {chapterNum}{chapter.title ? `: ${chapter.title}` : ''}
+            </h2>
+            {chapterSummaries.has(chapterNum) && (
+              <p class="text-sm text-ink-500 italic mb-4 leading-relaxed">{chapterSummaries.get(chapterNum)}</p>
+            )}
+            <div>
+              {chapter.entries.map(entry => (
+                <DiaryEntry
+                  title={entry.data.title}
+                  chapter={entry.data.chapter}
+                  chapterTitle={entry.data.chapterTitle}
+                  session={entry.data.session}
+                  summary={entry.data.summary}
+                  slug={entry.id}
+                />
+              ))}
+            </div>
+          </section>
+          {chapterNum === 14 && allInterludes.length > 0 && (
+            <section>
+              <h2 id="interludes" class="font-serif text-xl font-semibold text-ink-800 mb-3 pb-2 border-b border-parchment-200 italic">
+                Interludes
+              </h2>
+              <div>
+                {allInterludes.map(entry => (
+                  <DiaryEntry
+                    title={entry.data.title}
+                    session={entry.data.session}
+                    summary={entry.data.summary}
+                    slug={entry.id}
+                  />
+                ))}
+              </div>
+            </section>
           )}
-          <div>
-            {chapter.entries.map(entry => (
-              <DiaryEntry
-                title={entry.data.title}
-                chapter={entry.data.chapter}
-                chapterTitle={entry.data.chapterTitle}
-                session={entry.data.session}
-                summary={entry.data.summary}
-                slug={entry.id}
-              />
-            ))}
-          </div>
-        </section>
+        </>
       ))}
     </div>
   )}

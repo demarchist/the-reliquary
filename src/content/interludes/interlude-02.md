@@ -1,7 +1,5 @@
 ---
 title: The Bell of Death
-chapter: 15
-chapterTitle: Interludes
 session: 2
 people:
   - "ares"

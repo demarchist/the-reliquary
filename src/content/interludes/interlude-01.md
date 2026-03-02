@@ -1,7 +1,5 @@
 ---
 title: The Dragonflight
-chapter: 15
-chapterTitle: Interludes
 session: 1
 people:
   - "aurelian"

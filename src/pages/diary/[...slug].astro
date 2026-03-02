@@ -4,27 +4,61 @@ import { getCollection, render } from 'astro:content';
 import { categoryColors } from '../../utils/category-colors';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('diary');
-  return entries.map(entry => ({
-    params: { slug: entry.id },
-    props: { entry },
-  }));
+  const diaryEntries = await getCollection('diary');
+  const interludeEntries = await getCollection('interludes');
+  return [
+    ...diaryEntries.map(entry => ({
+      params: { slug: entry.id },
+      props: { entry, isInterlude: false },
+    })),
+    ...interludeEntries.map(entry => ({
+      params: { slug: entry.id },
+      props: { entry, isInterlude: true },
+    })),
+  ];
 }
 
-const { entry } = Astro.props;
+const { entry, isInterlude } = Astro.props;
 const { Content, headings } = await render(entry);
 const h2Headings = headings.filter(h => h.depth === 2);
 
-// Get prev/next entries for navigation
-const allEntries = await getCollection('diary');
-allEntries.sort((a, b) => {
+// Build a merged, ordered list of all entries for prev/next navigation.
+// Order: diary entries sorted by chapter/session, with interludes inserted after
+// the last chapter-14 entry.
+const allDiary = await getCollection('diary');
+allDiary.sort((a, b) => {
   if (a.data.chapter !== b.data.chapter) return a.data.chapter - b.data.chapter;
   return a.data.session - b.data.session;
 });
+const allInterludes = await getCollection('interludes');
+allInterludes.sort((a, b) => a.data.session - b.data.session);
 
-const currentIndex = allEntries.findIndex(e => e.id === entry.id);
-const prev = currentIndex > 0 ? allEntries[currentIndex - 1] : null;
-const next = currentIndex < allEntries.length - 1 ? allEntries[currentIndex + 1] : null;
+type NavEntry = { id: string; title: string };
+const ordered: NavEntry[] = [];
+let interludesInserted = false;
+for (const e of allDiary) {
+  ordered.push({ id: e.id, title: e.data.title });
+  if (!interludesInserted && e.data.chapter === 14) {
+    // Check if this is the last ch.14 entry
+    const nextDiary = allDiary[allDiary.indexOf(e) + 1];
+    if (!nextDiary || nextDiary.data.chapter !== 14) {
+      for (const il of allInterludes) {
+        ordered.push({ id: il.id, title: il.data.title });
+      }
+      interludesInserted = true;
+    }
+  }
+}
+// If no ch.14 exists yet, append interludes at the end
+if (!interludesInserted) {
+  for (const il of allInterludes) {
+    ordered.push({ id: il.id, title: il.data.title });
+  }
+}
+
+const currentIndex = ordered.findIndex(e => e.id === entry.id);
+const prev = currentIndex > 0 ? ordered[currentIndex - 1] : null;
+const next = currentIndex < ordered.length - 1 ? ordered[currentIndex + 1] : null;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 // Load wiki entries for entity sidebar lookups
@@ -42,6 +76,15 @@ const entitySections = [
 
 const hasEntities = entitySections.length > 0;
 const hasOutline = h2Headings.length > 0;
+
+// Build the header label
+let headerLabel: string;
+if (isInterlude) {
+  headerLabel = `Interlude ${entry.data.session}`;
+} else {
+  const d = entry.data as { chapter: number; chapterTitle?: string; session: number };
+  headerLabel = `Chapter ${d.chapter}${d.chapterTitle ? `: ${d.chapterTitle}` : ''} · Session ${d.session}`;
+}
 ---
 
 <BaseLayout title={entry.data.title} extraWide={hasOutline && hasEntities}>
@@ -82,8 +125,8 @@ const hasOutline = h2Headings.length > 0;
       <!-- Main Content -->
       <div>
         <header class="mb-8">
-          <div class="text-sm text-ink-400 mb-1 font-mono" data-pagefind-meta={`chapter:Chapter ${entry.data.chapter}`}>
-            Chapter {entry.data.chapter}{entry.data.chapterTitle ? `: ${entry.data.chapterTitle}` : ''} &middot; Session {entry.data.session}
+          <div class="text-sm text-ink-400 mb-1 font-mono" data-pagefind-meta={isInterlude ? 'chapter:Interludes' : `chapter:Chapter ${(entry.data as any).chapter}`}>
+            {headerLabel}
           </div>
           <h1 class="font-serif text-3xl font-bold text-ink-900" data-pagefind-meta="title">{entry.data.title}</h1>
           {entry.data.summary && (
@@ -98,12 +141,12 @@ const hasOutline = h2Headings.length > 0;
         <nav class="flex justify-between mt-12 pt-6 border-t border-parchment-200 text-sm">
           {prev ? (
             <a href={`${base}/diary/${prev.id}/`} class="text-ink-500 hover:text-accent-600 no-underline">
-              &larr; {prev.data.title}
+              &larr; {prev.title}
             </a>
           ) : <span />}
           {next ? (
             <a href={`${base}/diary/${next.id}/`} class="text-ink-500 hover:text-accent-600 no-underline">
-              {next.data.title} &rarr;
+              {next.title} &rarr;
             </a>
           ) : <span />}
         </nav>

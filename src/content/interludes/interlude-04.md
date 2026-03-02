@@ -1,7 +1,5 @@
 ---
 title: The Eye of the Storm
-chapter: 15
-chapterTitle: Interludes
 session: 4
 people:
   - "ares"
