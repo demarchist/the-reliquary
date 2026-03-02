@@ -150,43 +150,77 @@ Fëanon was last. He knelt before the web, his face pale but steady, and the Eld
 
 ## The Betrayal
 
-Something was wrong.
+The extraction was complete. The conspiracy memories had been drawn out — every debate, every plan, every step of the theft — and woven into the Elder Brain's psionic web. The acolytes stood in the dome, dazed and diminished, the raw places in their minds still aching where the knowledge had been pulled free. The deal was done. They could leave.
 
-The psychic probe did not withdraw. It deepened. Fëanon staggered to his feet, clutching his head. The extraction was supposed to be targeted — the conspiracy memories and nothing more. But Nostalgia for Infinity had spent three thousand years starving, and the psychic fingerprints of six trained mages were rich with magical knowledge, decades of study and training encoded in their neural pathways. The Elder Brain was not going to let a feast walk away.
+Nostalgia for Infinity did not let them leave.
 
-The dome erupted. Sala screamed. The Illithids turned as one toward the acolytes, their tentacles reaching. Megno swung his hammer at the nearest Mind Flayer and was flung across the chamber by a telekinetic blast. Sajuuk planted himself between the advancing creatures and the others, absorbing impacts with his body. Orla — barely conscious — scrabbled backward across the organic floor.
+The psychic pressure in the dome surged. The Illithids, who had stood motionless throughout the extraction, turned as one toward the acolytes — not grasping but herding, with the coordinated precision of a colony that had been doing this for millennia. Three thousand years of starvation, and six trained mages had just opened their minds willingly. The Elder Brain wanted more than memories. It wanted *them*.
 
-From within their hosts' perspectives, the group watched what happened to Fëanon from the outside — and it was worse than being inside would have been.
+Megno swung his hammer at the nearest Mind Flayer and was flung across the chamber by a telekinetic blast. Sajuuk planted himself between the advancing creatures and the others. Sala screamed.
 
-He was lifted from the ground by invisible hands, his body rigid, his mouth open in a scream that transcended the physical and rippled through the psychic web like a crack through glass. The Elder Brain's probe drove into his mind like a spike. From outside, they could see what those inside could not: the light leaving his eyes, his body convulsing, something fundamental being torn loose from the architecture of his consciousness.
+From within their hosts' perspectives, the group watched what happened next from five different angles — and every angle was wrong.
 
-Elion — moving with a speed and grace that did not match his mild manner — cut down two Mind Flayers with blades that materialised from nowhere. He reached Fëanon, caught the elf as the invisible hands released him, and dragged him toward the exit. Megno found his feet and swung a path clear. Sajuuk carried Orla. Sala grabbed the fallen and ran.
+The Illithids separated Fëanon from the group with surgical efficiency. Three Mind Flayers closed around him while the rest drove the other acolytes backward toward the tunnel. Fëanon fought — arcane energy crackling between his fingers — but a fourth Illithid pressed its tentacles against his skull and the light went out of his eyes. His body went limp. They carried him deeper into the hive.
 
-They fought their way out of the hive. Behind them, the dome's light pulsed once, twice, and went dark.
+Elion — moving with a speed and grace that did not match his mild manner — cut a path toward Fëanon with blades that materialised from nowhere. He almost reached him. A telekinetic wall slammed him into the cavern floor. By the time Megno dragged him upright, the Illithids had sealed the passage with a membrane of organic matter that hardened in seconds.
 
-Fëanon's eyes were open. But no one was home.
+Fëanon was gone.
+
+Sala made the call. They could not reach him. They could barely reach the exit. They ran.
+
+The memories of the other acolytes ended there — in the blinding terror of the escape, the mountain wind on their faces, the knowledge that they had left one of their own behind.
+
+## The Flesh Recycler
+
+The simulation should have ended. The acolytes' memories — the strands the party inhabited — contained nothing beyond the escape. But the Grell's psychic link was anchored through Fëanon, and as the other memories faded, something else bled through. Not a coherent memory. A wound.
+
+The party experienced what came next in fragments — shattered, recursive, nauseating — as though seeing through a mirror that had been broken and reassembled wrong. They were inside Fëanon's mind now, or what remained of it.
+
+The assimilation chamber. Pods of translucent membrane lining the walls — the same ones they had passed on the way in — except now Fëanon was inside one. He was conscious. Barely. Pinned by tentacles that had wormed beneath his skin, threading his nervous system with filaments of alien tissue. The enthrallment process. Routine for the hive. A humanoid mind cracked open, its contents siphoned, its identity overwritten with the collective's imperatives until nothing remained but a puppet wired to the Elder Brain's will.
+
+But Fëanon's mind would not crack cleanly.
+
+The enthrallment hit something it could not overwrite — the core of his magical identity, the fundamental architecture that made him what he was. The two structures collided like tectonic plates. What should have been a routine assimilation became a catastrophic failure. His psyche did not break in two. It shattered — into a dozen fragments, a hundred, each carrying a shard of memory or impulse or identity, none large enough to constitute a self.
+
+The collective withdrew. The filaments retracted. A drooling shell was not worth the resources to maintain. Drones carried what remained of Fëanon Sërindë to the flesh recycler — a vast, peristaltic chamber deep in the nautiloid's bowels, a stomach for the hive's biological waste. They deposited him on the warm, ridged floor among the remains of failed experiments and discarded husks. They left.
+
+The simulation fractured into chaos.
+
+The party experienced it as a kaleidoscope of competing perspectives — each fragment of Fëanon's shattered mind seizing fleeting control, perceiving the world through a different lens before being overwhelmed by the next. Terror. Rage. The taste of acid and organic decay. A hand that was his but did not obey him. The sensation of the recycler's walls contracting, enzymatic fluid rising around him. Fragments of spellcraft surfacing and dissolving. The sound of his own breathing, alien and mechanical. A name he could not remember.
+
+Then something shifted.
+
+Deep within the wreckage of his psyche, one fragment — larger, brighter, older than the rest — began to absorb the others. Not his personality. Not his memories. His magic. The aspect of him that was purest arcane energy, the part that had been woven into his being since before birth, too fundamental to shatter cleanly. It drew the other fragments toward itself like gravity, not reassembling Fëanon but replacing him — a white-hot lattice of raw power that had no name, no ego, no fear.
+
+His eyes opened. They blazed with light that had no colour.
+
+The flesh recycler's walls split. Arcane force erupted outward in a shockwave that liquefied organic tissue for thirty feet in every direction. The thing that was not Fëanon rose — levitating, wreathed in discharging energy, its movements inhuman and precise. It did not think. It navigated. Membrane walls burst apart as it passed through them. Illithid drones that approached too closely seized and collapsed, their nervous systems overloaded by proximity alone. Deeper structures of the nautiloid ruptured and bled bioluminescent fluid across the stone.
+
+The hive screamed. Not with sound — with thought. Nostalgia for Infinity recoiled from the thing burning through its body, unable to establish psychic contact with a consciousness that no longer existed in any graspable form.
+
+The aspect walked out of the mountain.
+
+Then it flickered. Dimmed. The lattice began to dissolve. On a frozen ridge somewhere in the Nether Mountains, a body collapsed into the snow — breathing, alive, empty. His eyes were open. No one was home.
 
 The simulation crashed.
 
 ## Waking
 
-The group jerked awake in the copper basin, gasping, drenched in sweat. Mei had retracted her tentacles and was pressing herself against the far side of her tank, her single eye wide with distress. Lei Tan was on her knees beside the basin, checking pulses with shaking hands.
+The group jerked awake in the copper basin. Several of them screamed. Mei had retracted her tentacles and was pressed against the far side of her tank, her single eye wide with distress, every tentacle coiled tight against her body. Lei Tan was on her knees beside the basin, her face grey.
 
-Fëanon was still unconscious in the alcove. His breathing was rapid and shallow, his eyes moving beneath their lids.
+Fëanon was still in the alcove. His breathing was rapid and shallow, his body rigid, his eyes moving beneath their lids in patterns that did not resemble reverie.
 
-The group sat in stunned silence, the weight of what they had experienced settling over them like snowfall. Gundren — who had been Sala — could still feel the ink stains on hands that were not his. Patches — who had been Orla — kept reaching for a chair that was not there. Tark said nothing, staring at his hands as though seeing someone else's.
+Patches vomited over the side of the basin. She had felt the recycler's walls contracting. She could still feel them.
 
-Buumi was shaking. He had been Sajuuk — had stood between the Mind Flayers and the others, absorbing blows meant for people he loved. The phantom impacts still echoed in his bones.
+The group sat in stunned silence. Gundren — who had been Sala — could still feel the ink stains on hands that were not his, and the weight of the decision to run. Tark said nothing, staring at his hands as though seeing someone else's. Buumi was shaking. He had been Sajuuk — had stood between the Mind Flayers and the others, absorbing blows meant for people he loved. Cirrus sat very still. He had been Megno. He could still feel the hammer in his hands, and the moment it wasn't enough.
 
-Cirrus sat very still. He had been Megno. He could still feel the hammer in his hands.
-
-Lei Tan worked quickly, cross-referencing notes with the fragments the group reported. She was pale but composed, her pen scratching rapidly across a journal. After an hour of questions — patient, precise, relentless — she sat back and stared at the wall.
+Lei Tan worked quickly, cross-referencing notes with the fragments the group reported. She was pale but composed — or performing composure, which amounted to the same thing. Her pen scratched rapidly across a journal. After an hour of questions — patient, precise, relentless — she sat back and stared at the wall.
 
 "It was not brain trafficking," she said quietly. "It was a conspiracy to protect the realm."
 
-She looked at the unconscious Fëanon.
+She looked at Fëanon.
 
-"The Elder Brain took more than the bargain allowed. It tried to consume him. The others rescued him — but the damage was done. His psyche was shattered. Part of his magical essence was torn loose and assimilated into Nostalgia for Infinity's collective consciousness." She paused. "That is why the Illithids' psychic fingerprint has been on him for fifty years. He was never enthralled in the traditional sense. He was broken. And the fragment of his mind that Nostalgia absorbed has been whispering back to him across the psionic link ever since."
+"The Elder Brain tried to enthrall him. The process failed — his mind was incompatible. The enthrallment shattered his psyche and the collective discarded him as waste." She paused. "What escaped the hive was not Fëanon. It was something else — a magical aspect of his consciousness that burned its way out when nothing human remained to stop it. The psychic link to the Elder Brain was forged during the enthrallment attempt and never severed. He has been hearing Nostalgia for Infinity's stray thoughts — commingled with every mind in the collective — for fifty years."
 
 Fëanon's eyes opened. He stared at the ceiling of the basement, his face wet with tears, and said nothing for a very long time.
 
@@ -194,13 +228,19 @@ Fëanon's eyes opened. He stared at the ceiling of the basement, his face wet wi
 
 Later — after Buumi had carried Fëanon upstairs and the group had gathered in a private room at the inn — the wizard spoke.
 
-He remembered now. Not everything — the memories were fragmentary, corrupted by the Grell's limitations and fifty years of psychic damage — but enough. He remembered Theodemir's sacrifice. He remembered the Eye. He remembered the conspiracy, the hive, the betrayal, and the feeling of his mind being torn apart.
+He remembered now. Not everything — the memories were fragmentary, corrupted by the Grell's limitations and fifty years of psychic damage — but enough. He remembered Theodemir's sacrifice. He remembered the Eye. He remembered the conspiracy, the hive, the betrayal.
 
-"The others got me out," he said. His voice was hoarse. "Sala and Megno and Elion and Sajuuk. They fought through the hive and dragged me to the surface. But I was not the same. The whispers started that night and never stopped. The Conclave physicians could not explain them. The Spellguard investigated the Eye's disappearance and found nothing — because there was nothing left to find. Eventually I left Silverymoon because I could not bear the noise."
+And he remembered what came after.
+
+"They took me," he said. His voice was hoarse. "The others got out — they made the right call, there was nothing they could have done. But I was —" He stopped. Started again. "There was a chamber. The process. And then nothing. And then everything at once."
+
+He was quiet for a long time.
+
+"I do not know how I escaped. Not fully. Something inside me — something that was not *me* — took over. I have fragments. Light. Pain. The mountain." He looked at his hands. "Then I was in Silverymoon and they told me I had been gone for two days. The whispers started that night and never stopped. The Conclave physicians could not explain them. The Spellguard investigated the Eye's disappearance and found nothing — because there was nothing left to find in any of us. Eventually I left Silverymoon because I could not bear the noise."
 
 He looked at the vial containing the memory strand, still sitting on the table where Lei Tan had left it.
 
-"Fifty years," he said. "I have spent fifty years with a piece of my mind trapped inside an Illithid Elder Brain. And every whisper — every nightmare, every moment of confusion — was that fragment trying to come home."
+"Fifty years," he said. "I have spent fifty years with my mind fused to an Illithid Elder Brain. And every whisper — every nightmare, every moment of reverie — has been the collective's thoughts bleeding through a link that should not exist."
 
 The room was silent.
 
