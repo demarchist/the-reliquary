@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 5
+title: The Planet Born Dead
 chapter: 7
 chapterTitle: The Sanctum
 session: 5

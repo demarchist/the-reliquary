@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 2
+title: Shatterpeak
 chapter: 7
 chapterTitle: The Sanctum
 session: 2

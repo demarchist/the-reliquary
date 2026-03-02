@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 6
+title: The Fiendish Tide
 chapter: 7
 chapterTitle: The Sanctum
 session: 6

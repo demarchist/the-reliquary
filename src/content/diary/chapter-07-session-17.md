@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 17
+title: The Unmasking
 chapter: 7
 chapterTitle: The Sanctum
 session: 17

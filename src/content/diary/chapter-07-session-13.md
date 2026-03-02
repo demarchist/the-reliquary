@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 13
+title: The Drop Box
 chapter: 7
 chapterTitle: The Sanctum
 session: 13

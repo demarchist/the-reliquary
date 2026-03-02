@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 18
+title: Corpsetaker
 chapter: 7
 chapterTitle: The Sanctum
 session: 18

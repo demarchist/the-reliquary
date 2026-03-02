@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 8
+title: The Red Belt
 chapter: 7
 chapterTitle: The Sanctum
 session: 8

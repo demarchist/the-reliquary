@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 12
+title: The Silent Virtue
 chapter: 7
 chapterTitle: The Sanctum
 session: 12

@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 19
+title: The Cost
 chapter: 7
 chapterTitle: The Sanctum
 session: 19

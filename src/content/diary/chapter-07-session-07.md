@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 7
+title: The Detonation
 chapter: 7
 chapterTitle: The Sanctum
 session: 7

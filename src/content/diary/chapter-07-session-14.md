@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 14
+title: The Trials of the Crusader
 chapter: 7
 chapterTitle: The Sanctum
 session: 14

@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 15
+title: Hellfire
 chapter: 7
 chapterTitle: The Sanctum
 session: 15

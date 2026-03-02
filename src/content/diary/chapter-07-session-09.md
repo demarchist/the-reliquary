@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 9
+title: The Fallen Tower
 chapter: 7
 chapterTitle: The Sanctum
 session: 9

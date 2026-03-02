@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 3
+title: The Dampening Field
 chapter: 7
 chapterTitle: The Sanctum
 session: 3

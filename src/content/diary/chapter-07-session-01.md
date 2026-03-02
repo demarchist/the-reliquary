@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 1
+title: The Frozen Lake
 chapter: 7
 chapterTitle: The Sanctum
 session: 1

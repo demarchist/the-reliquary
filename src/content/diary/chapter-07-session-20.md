@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 20
+title: The War Begins
 chapter: 7
 chapterTitle: The Sanctum
 session: 20

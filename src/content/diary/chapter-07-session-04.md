@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 4
+title: Ghosts and Golems
 chapter: 7
 chapterTitle: The Sanctum
 session: 4

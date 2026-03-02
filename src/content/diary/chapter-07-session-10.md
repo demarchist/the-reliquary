@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 10
+title: The Bearded Lass
 chapter: 7
 chapterTitle: The Sanctum
 session: 10

@@ -1,5 +1,5 @@
 ---
-title: The Sanctum - Session 11
+title: The Bumidere Estate
 chapter: 7
 chapterTitle: The Sanctum
 session: 11
