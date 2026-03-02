@@ -31,7 +31,7 @@ Rather than guards and physical barriers, the tower is protected by a complex ne
 
 The tower is a working arcane community, not merely a private residence. Its inhabitants reflect [[Fëanon Sërindë|Fëanon]]'s ambition to build something larger than himself — though he would never phrase it that way.
 
-- **[[Theodemir]]** — Fëanon's former master, whose spirit resides in the [[Ring of Mind Shielding]]. During the period when he inhabited a clone body, Theodemir managed the tower in Fëanon's absence — and since the clone was Fëanon's own, visitors never realized the archmage they were speaking to was someone else entirely.
+- **[[Theodemir]]** — Fëanon's former master, currently inhabiting a clone body. Since the clone is Fëanon's own, visitors have never realized the archmage they speak with in Fëanon's absence is someone else entirely. His spirit formerly resided in the [[Ring of Mind Shielding]] before the transfer.
 - **[[Megno Slatesunder]]** — the Tower's Sage, a fellow acolyte of Theodemir's Conclave. Megno conducts research into the Ziggurats and [[Zhengyi]]'s lingering influence.
 - **Mordenkainen** — the archmage of Greyhawk, conducting research within the tower's upper floors.
 - **Ruthir** — Fëanon's apprentice, a young wizard learning under exacting standards.

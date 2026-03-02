@@ -30,10 +30,6 @@ When Fëanon's cloning project produced a viable body, he forged a psionic link 
 
 During the party's journey beyond their own world, a dying World Tree's soul cried out in its final moments. Fëanon offered the ring as a liferaft — a vessel to preserve whatever fragment of the ancient consciousness could be saved. A piece of the World Tree's essence took refuge within the band, carried back to Fëanon's world in a ring that had already housed an unknown spirit, a dark god's fragment, and an archwizard's soul.
 
-### The Return
-
-The clone body Theodemir inhabited eventually failed, and his spirit returned to the ring. The World Tree fragment's current status within the ring — whether it coexists with Theodemir or has since faded — remains unclear.
-
 ## Current State
 
-The ring currently houses Theodemir's slowly degrading spirit. The old archwizard slumbers more with each passing month, present less, his voice growing quieter. Theodemir has requested a proper replacement body — not another clone of his student — but whether that is possible remains an open question. For now, the ring endures as it always has: a small, plain band carrying far more than its size would suggest.
+With Theodemir's soul now housed in the clone body, the ring stands empty of its longest-tenanted occupant — though whether the World Tree fragment still lingers within the band, or has since faded, remains unclear. The ring continues to shield Fëanon's mind from detection and intrusion. What it carries now, if anything, is an open question. For now, it endures as it always has: a small, plain band carrying far more than its size would suggest.

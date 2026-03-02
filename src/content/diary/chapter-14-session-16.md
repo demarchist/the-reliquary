@@ -53,7 +53,7 @@ As he left the lab, a message caught his eye on the crystal data slate taken fro
 
 The last person Feanon had spoken with through that tablet was [[Lady in White|the Lady in White]] — one of [[Vecna]]'s most powerful mages. As far as he knew, she was dead.
 
-A mystery for later. He found [[Theodemir]] waiting in the conservatory. The old archwizard — trapped in his Ring of Mind Shielding — requested a proper replacement body, not another clone of Feanon. Feanon scoffed at the idea that anyone would give up a body, but admitted that getting Theodemir back to full strength would be excellent for the tower.
+A mystery for later. He found [[Theodemir]] waiting in the conservatory. The old archwizard — still inhabiting the clone body, wearing Fëanon's face — spoke of wanting his own form restored, not another of his student's clones. Now that immediate death was no longer a pressing concern, he had begun to think seriously about the matter. Feanon scoffed at the idea that anyone would willingly give up a body for the purpose, but admitted that getting Theodemir back to full strength would be excellent for the tower.
 
 He looked in on [[Mordenkainen]], [[Megno Slatesunder|Megno]], [[Beryan]], and the apprentices engaged in research, decided to leave them be, and scried on the rest of the group in [[Luskan]].
 

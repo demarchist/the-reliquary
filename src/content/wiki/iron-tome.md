@@ -16,7 +16,7 @@ The Iron Tome came into Fëanon's possession in Gracklstugh, in the Underdark. U
 
 ## Capabilities
 
-The Iron Tome serves as Fëanon's primary spellbook and arcane research companion. Working in concert with Theodemir's spirit — who resides in the [[Ring of Mind Shielding]] but speaks *through* the Tome as his voice and working interface — it assists with spell development and magical analysis. It has aided in the creation of new spells, including distortion magic and modifications to existing enchantments. The Tome also acts defensively, attempting to shore up its wielder's mental defenses when threatened — as when an Aboleth's psionic assault overwhelmed both the Tome and Theodemir simultaneously.
+The Iron Tome serves as Fëanon's primary spellbook and arcane research companion. Working in concert with Theodemir — who spent years as a disembodied spirit using the Tome as his voice and working interface before transferring into a clone body — it assists with spell development and magical analysis. It has aided in the creation of new spells, including distortion magic and modifications to existing enchantments. The Tome also acts defensively, attempting to shore up its wielder's mental defenses when threatened — as when an Aboleth's psionic assault overwhelmed both the Tome and Theodemir simultaneously.
 
 ## Notable Events
 

@@ -3,7 +3,7 @@ title: "Theodemir"
 category: "People"
 aliases: []
 firstAppearance: "chapter-06-session-04"
-description: "A powerful wizard who sacrificed his life to create the Eye of Aren and bind the lich Zhengyi — his spirit enduring first within the artifact, then within Fëanon's Ring of Mind Shielding."
+description: "A powerful wizard who sacrificed his life to create the Eye of Aren and bind the lich Zhengyi — his spirit enduring first within the artifact, then within Fëanon's Ring of Mind Shielding, and now within a clone body."
 race: "Human"
 class: "Wizard"
 status: "Dead"
@@ -37,6 +37,6 @@ Adaptation was slow. In his first days, Theodemir ate soup with shaking hands th
 
 Since the body was Fëanon's clone, Theodemir looked exactly like his student. With the cloning program a tightly held secret, this created an unintended opportunity: Theodemir managed [[Fëanon's Tower|the tower]] and greeted visitors in Fëanon's absence, and no one was the wiser. It was a deception that amused the old wizard far more than it should have — decades of gravitas put to use impersonating the student he had once scolded for recklessness.
 
-The clone body eventually gave out — the obscured side effect the vision had warned of. Theodemir's spirit returned to the Ring of Mind Shielding, diminished further by the experience.
+The clone body's longevity remains an open question — the vision had warned of a side effect, obscured but inevitable. For now, the body holds. Theodemir walks, thinks, and manages the tower in his student's form, and no one who visits is the wiser.
 
-In a final conversation at the tower, Theodemir asked Fëanon for a proper replacement body — not another clone of his student. He wanted his own form back, or something close to it. Fëanon scoffed at the idea that anyone would willingly surrender a body for the purpose, but admitted that getting his old master back to full strength would be excellent for the tower's operations. The question of how — or whether — remains unresolved.
+Now that the most immediate dangers have passed, Theodemir has begun to speak of wanting his own form restored — not another of his student's clones, but something closer to his original self. Fëanon scoffed at the idea that anyone would willingly surrender a body for the purpose, but admitted that getting his old master back to full strength would be excellent for the tower's operations. The question of how — or whether — remains unresolved.
