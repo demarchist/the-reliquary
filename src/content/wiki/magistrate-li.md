@@ -16,11 +16,9 @@ Magistrate Li was born Lei Tan, a woman of Shou heritage from the far east of Fa
 
 ## The Grell Case
 
-Lei Tan's defining investigation began when a Spellguard patrol intercepted an Illithid drone on the outskirts of Silverymoon carrying corrupted memory strands — psionic engrams bearing the psychic fingerprints of former Conclave students, including Fëanon Sërindë. Her superiors dismissed her theory of a conspiracy, assigning her a single domesticated Grell and telling her to write a report.
+Lei Tan's defining investigation began when a Spellguard patrol intercepted an Illithid drone on the outskirts of Silverymoon carrying corrupted memory strands — psionic engrams bearing the psychic fingerprints of former Conclave students, including Fëanon Sërindë. Spellguard analysts assessed the strands as too degraded for evidentiary use, and the case was deprioritised.
 
-Undeterred, Lei Tan developed the Lei Technique — a Grell-based memory reconstruction method using the domesticated Grell named Mei as a biological interface. She approached the Spellforged Company at their inn and persuaded them to undergo the simulation, with Fëanon serving as the psychic arbiter. The procedure revealed the truth: not brain trafficking, as she had initially suspected, but a decades-old conspiracy by Theodemir's acolytes to protect the realm by hiding the Eye of Aren within an Illithid hive.
-
-Her office was later ransacked — the Grell case files taken, blood drops found behind her desk — during the Amnian infiltration of Silverymoon.
+Lei Tan disagreed. She acquired a juvenile Grell from a collapsed Underdark tunnel and raised it over several years, training the creature as a biological interface for psionic memory reconstruction. Working alone and without authorisation, she developed a method of using the Grell — named Mei — to stitch fragmented memory strands into coherent sequences. She approached the Faerûn Defense Force at their inn and persuaded them to undergo the simulation, with Fëanon serving as the psychic arbiter. The procedure revealed the truth: not brain trafficking, as she had initially suspected, but a decades-old conspiracy by Theodemir's acolytes to protect the realm by hiding the Eye of Aren within an Illithid hive.
 
 ## Magistrate of Thunder Bluff
 

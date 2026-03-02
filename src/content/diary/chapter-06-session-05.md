@@ -27,7 +27,6 @@ places:
   - "vault-of-sages"
 things:
   - "eye-of-aren"
-  - "ring-of-mind-shielding"
   - "the-last-word"
 factions:
   - "conclave-of-silverymoon"
@@ -92,7 +91,7 @@ The mages, led by [[Theodemir]], resolved to create a powerful artifact that cou
 
 Unknown to them, the relic was a shard of [[The Last Word]] — an artifact of incalculable and volatile power. The account made no mention of this. They failed to take proper precautions.
 
-The ritual succeeded. The [[Eye of Aren]] was forged, its psionic field reaching across the planes to envelop Zhengyi's consciousness in an enforced slumber. But the shard's unbound power unleashed forces that threatened to devastate the city. Theodemir — the old wizard, the mentor, the man who had taught them everything — made a choice. He poured his life force into the Eye to contain the cataclysm. The acolytes watched in horror and grief as their master dissolved before their eyes, until nothing remained but the blazing artifact and a [[Ring of Mind Shielding]] that clattered to the floor where he had stood.
+The ritual succeeded. The [[Eye of Aren]] was forged, its psionic field reaching across the planes to envelop Zhengyi's consciousness in an enforced slumber. But the shard's unbound power unleashed forces that threatened to devastate the city. Theodemir — the old wizard, the mentor, the man who had taught them everything — made a choice. He poured his life force into the Eye to contain the cataclysm. The acolytes watched in horror and grief as their master dissolved before their eyes, until nothing remained but the blazing artifact hovering where he had stood.
 
 Grief-stricken, the acolytes named the artifact the Eye of Aren, in Theodemir's honour. With the Eye in place, Zhengyi's mind would continue to consolidate — but he would remain unconscious so long as the artifact persisted.
 

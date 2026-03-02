@@ -10,7 +10,7 @@ status: "Alive"
 home: "sundabar"
 ---
 
-Megno Slatesunder is a Dwarven Enchanter who maintains a workshop near the Everfire in Sundabar's Undercity. One of Theodemir's five acolytes, Megno participated in the conspiracy to entrust the Eye of Aren to the Illithid Elder Brain Nostalgia for Infinity beneath Ladypeak — a decision that haunted him for decades after the Elder Brain's betrayal shattered Fëanon's mind. During the crisis in the hive, Megno swung his hammer at the attacking Illithids and helped drag the broken Fëanon to safety.
+Megno Slatesunder is a Dwarven Enchanter who maintains a workshop near the Everfire in Sundabar's Undercity. One of Theodemir's six acolytes, Megno participated in the conspiracy to entrust the Eye of Aren to the Illithid Elder Brain Nostalgia for Infinity beneath Ladypeak — a decision that haunted him for decades after the Elder Brain's betrayal shattered Fëanon's mind. During the crisis in the hive, Megno swung his hammer at the attacking Illithids and was flung across the chamber by a telekinetic blast. The acolytes could not reach Fëanon. Sala made the call to run, and they fled the hive without him.
 
 An old friend of Fëanon's, he was initially apprehensive when the wizard appeared wearing an Illithid mask — a reaction that melted into genuine joy once Fëanon removed it and Megno realised his friend was free of the Mind Flayers' enthralment.
 

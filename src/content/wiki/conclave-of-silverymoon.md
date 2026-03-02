@@ -16,7 +16,7 @@ The Conclave occupies a wing of the Lady's College, with offices, seminar rooms,
 
 ## The Conspiracy of the Acolytes
 
-The Conclave's most closely guarded secret involves the wizard Theodemir and his circle of acolytes — Fëanon Sërindë, Sala Shara, Orla Pyntle, Megno Slatesunder, and Elion Loberos — who conspired to hide the Eye of Aren within an Illithid hive beneath Ladypeak. The decision was Theodemir's last act of leadership, made in the belief that no conventional vault could keep the artifact safe. The conspiracy was never exposed to the wider Conclave membership.
+The Conclave's most closely guarded secret involves Theodemir's six acolytes — Fëanon Sërindë, Sala Shara, Orla Pyntle, Megno Slatesunder, Sajuuk Stomru, and Elion Loberos — who, after Theodemir's death, conspired to steal the Eye of Aren and hide it within an Illithid hive beneath Ladypeak. The decision was made as the Conclave's political infighting threatened to diminish, endanger, or weaponise their mentor's sacrifice. The conspiracy was never exposed to the wider Conclave membership.
 
 ## Decline
 

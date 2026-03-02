@@ -16,7 +16,7 @@ Theodemir designed the Eye to amplify and sustain the enormous magical effort re
 
 ## The Conspiracy
 
-After Theodemir's death, his acolytes debated where to hide the Eye. The young Fëanon Sërindë proposed entrusting it to Nostalgia for Infinity — an Illithid Elder Brain whose psionic field would amplify the Eye's power a hundredfold. Theodemir himself endorsed the plan with his final decision. The acolytes journeyed to the hive beneath Ladypeak and placed the Eye in the Elder Brain's psychic web, where it remained for decades.
+After Theodemir's death, the Conclave tore itself apart over the Eye's fate. The young Fëanon Sërindë proposed entrusting it to Nostalgia for Infinity — an Illithid Elder Brain beneath Ladypeak whose psionic field would amplify the Eye's power a hundredfold. The other acolytes resisted but eventually relented. They stole the Eye, delivered it to the hive, and surrendered their memories of the conspiracy in exchange. The Eye remained in the Elder Brain's psychic web for decades.
 
 ## Recovery
 

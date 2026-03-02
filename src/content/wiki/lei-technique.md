@@ -1,12 +1,12 @@
 ---
-title: "The Lei Technique"
+title: "Grell Memory Reconstruction"
 category: "Things"
-aliases: ["Lei Technique", "Grell Technique"]
+aliases: ["Lei Technique", "Grell Technique", "Grell Memory Reconstruction"]
 firstAppearance: "chapter-06-session-04"
-description: "A Grell-based memory reconstruction method developed by Spellguard investigator Lei Tan for recovering and experiencing fragmented psionic memories."
+description: "A method of psionic memory reconstruction developed by Lei Tan, using a domesticated Grell as a biological interface to recover and experience fragmented psionic memories."
 ---
 
-The Lei Technique is a method of psionic memory reconstruction developed by Lei Tan, a junior investigator in the Spellguard's Arcane Crimes Division. The technique uses a domesticated Grell — an aberration with natural psychic receptors — as a biological interface to stitch together corrupted memory strands recovered from Illithid drones.
+Grell memory reconstruction is a method of psionic memory recovery developed by [[Magistrate Li|Lei Tan]], a junior investigator in the Spellguard's Arcane Crimes Division. The technique uses a domesticated Grell — an aberration with natural psychic receptors — as a biological interface to stitch together corrupted memory strands recovered from Illithid drones.
 
 ## Method
 
@@ -20,4 +20,4 @@ The technique is imperfect. Memories are old and corrupted, resulting in gaps, d
 
 ## Application
 
-Lei Tan used the technique to reconstruct decades-old memories recovered from a captured Illithid drone, revealing the conspiracy of Theodemir's acolytes and the true nature of Fëanon's enthrallment by Nostalgia for Infinity. The Grell used in the procedure — a juvenile named Mei — was raised by the Spellguard after being recovered from a collapsed Underdark tunnel.
+Lei Tan used the technique to reconstruct decades-old memories recovered from a captured Illithid drone, revealing the conspiracy of Theodemir's acolytes and the true nature of Fëanon's enthrallment by [[Nostalgia for Infinity]]. The Grell used in the procedure — a juvenile named Mei — was recovered from a collapsed Underdark tunnel and raised by Lei Tan herself over several years.

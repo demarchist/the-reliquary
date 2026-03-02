@@ -13,13 +13,13 @@ Theodemir was a powerful wizard, a senior member of the Conclave of Silverymoon,
 
 ## The Eye of Aren
 
-Theodemir created the Eye of Aren — a crystalline psionic artifact built around a shard of The Last Word — as the keystone of the binding spell imprisoning the lich Zhengyi the Witch-King. The casting demanded more than magic: it required the caster's life force. Theodemir trained five acolytes — Fëanon Sërindë, Sala Shara, Orla Pyntle, Megno Slatesunder, and Elion Loberos — and entrusted them with the artifact's fate.
+Theodemir created the Eye of Aren — a crystalline psionic artifact built around a shard of The Last Word — as the keystone of the binding spell imprisoning the lich Zhengyi the Witch-King. The casting demanded more than magic: it required the caster's life force. Theodemir trained six acolytes — Fëanon Sërindë, Sala Shara, Orla Pyntle, Megno Slatesunder, Sajuuk Stomru, and Elion Loberos — and entrusted them with the artifact's fate.
 
 In his final act, Theodemir poured the last of himself into the Eye, his body dissolving before his students as streams of golden energy drained into the crystal. His spirit was preserved within the artifact, bound to the shard of The Last Word at its core. Before the sacrifice, he spoke privately to each acolyte. To Fëanon, he said: "You are the finest mind I have taught. Do not let that make you careless."
 
 ## The Conspiracy
 
-Theodemir's last decision — made moments before his death — was to endorse Fëanon's radical plan to hide the Eye within the hive of Nostalgia for Infinity, an Illithid Elder Brain beneath Ladypeak. "The boy is right," he told his acolytes. "There is no vault deep enough, no guard strong enough. Only something the world fears to approach will keep this safe." His spirit remained bound within the Eye for decades as the Elder Brain used the artifact to amplify its psionic reach.
+After Theodemir's death, his acolytes were left holding the Eye with no master to guide them. When the Conclave tore itself apart over the artifact's fate, Fëanon — the youngest and most reckless — proposed entrusting it to Nostalgia for Infinity, an Illithid Elder Brain beneath Ladypeak, reasoning that a hive mind with no interest in surface politics was the safest vault imaginable. The other acolytes resisted, but one by one they relented. They stole the Eye and delivered it to the hive, surrendering their memories of the conspiracy in exchange for the Elder Brain's silence. Theodemir's spirit remained bound within the Eye for decades as the Elder Brain used the artifact to amplify its psionic reach.
 
 ## Recovery and the Ring
 

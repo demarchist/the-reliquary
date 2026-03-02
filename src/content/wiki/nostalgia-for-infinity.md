@@ -22,7 +22,7 @@ The dome was a cathedral-sized cavern where the Elder Brain floated in a web of 
 
 Decades before the campaign's events, the wizard Theodemir and his acolytes from the Conclave of Silverymoon entrusted the Eye of Aren — an artifact sustaining the binding spell over the lich Zhengyi — to Nostalgia for Infinity. The reasoning was sound: the Elder Brain's psionic field would amplify the Eye's power a hundredfold, and no one would think to search an Illithid hive for such a thing.
 
-Nostalgia accepted the bargain but betrayed the acolytes. After absorbing the Eye, the Elder Brain attempted to consume the psychic signatures of the visiting mages. Fëanon Sërindë suffered the worst — the probe shattered his psyche, trapping fragments of his magical essence within the psionic web and leaving him plagued by whispers for fifty years.
+Nostalgia honoured the bargain — extracting the acolytes' memories of the conspiracy as agreed — then betrayed them. The Elder Brain attempted to keep all six mages for enthrallment, herding them with coordinated precision while separating Fëanon Sërindë from the group. The other acolytes fought free and fled. Fëanon was taken to an assimilation chamber for routine enthrallment, but his mind proved uniquely incompatible — the process collided with the fundamental architecture of his magical identity and both structures shattered. The collective discarded the drooling shell into its flesh recycler. What remained of Fëanon — a raw, primal magical aspect with no identity or fear — burned its way out of the hive alone. The psychic link forged during the botched enthrallment was never severed, leaving Fëanon plagued by the collective's stray thoughts for fifty years.
 
 ## The Escape
 
