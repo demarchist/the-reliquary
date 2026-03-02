@@ -11,7 +11,7 @@ Peytr is a towering vampire barbarian and one of the most dangerous members of S
 
 ## Appearance and Nature
 
-Even among vampires, Peytr is physically imposing — a giant of a man with the deep booming voice of a seasoned warrior. He wields a massive obsidian-headed axe that is paradoxically light in his hands, capable of being thrown with devastating accuracy and magically recalled. The axe proved to be heavily cursed, and after Peytr's destruction the group disposed of it by feeding it to Cyrrus's bag of devouring, casting it adrift in the Astral Plane.
+Even among vampires, Peytr is physically imposing — a giant of a man with the deep booming voice of a seasoned warrior. He wields a massive obsidian-headed axe that is paradoxically light in his hands, capable of being thrown with devastating accuracy and magically recalled. The axe proved to be heavily cursed, and after Peytr's destruction the group disposed of it by feeding it to Cirrus's bag of devouring, casting it adrift in the Astral Plane.
 
 ## The Hunt
 

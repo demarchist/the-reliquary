@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "bahamut"
   - "cercei"
+  - "cirrus-al-kayan"
   - "eilistraee"
   - "feanon-serinde"
   - "gundren-rockseeker"
@@ -40,9 +41,9 @@ factions:
 
 ## Splitting the Spoils
 
-The group gathered upstairs in their rooms at the Hopping Hair, staring at their accumulated wealth. Cyrrus looked up from his improvised ledger and simply proclaimed, "We are rich." Cercei immediately strolled over to the sacks of coin and demanded that nobody spend her treasure. The group shared incredulous looks and Buumi stepped in, eventually convincing the little dragon that spending gold on equipment would help them accumulate even more — which mollified the hatchling. Having reduced their load considerably, they split the gold between their two bags of holding, Fëanon taking one and Tark the other.
+The group gathered upstairs in their rooms at the Hopping Hair, staring at their accumulated wealth. Cirrus looked up from his improvised ledger and simply proclaimed, "We are rich." Cercei immediately strolled over to the sacks of coin and demanded that nobody spend her treasure. The group shared incredulous looks and Buumi stepped in, eventually convincing the little dragon that spending gold on equipment would help them accumulate even more — which mollified the hatchling. Having reduced their load considerably, they split the gold between their two bags of holding, Fëanon taking one and Tark the other.
 
-The idea of shopping came up and the party scattered. Gundren, Fëanon and Buumi would head to the Everfire forges. Cyrrus and Patches would look for an alchemist. The group asked Tark what he planned to do for the day. He answered with a single word: exploring. Cercei was left on her pile of coins with Aurora and Kitty for company.
+The idea of shopping came up and the party scattered. Gundren, Fëanon and Buumi would head to the Everfire forges. Cirrus and Patches would look for an alchemist. The group asked Tark what he planned to do for the day. He answered with a single word: exploring. Cercei was left on her pile of coins with Aurora and Kitty for company.
 
 ## The Gate Fortress
 
@@ -64,21 +65,21 @@ After exchanging pleasantries, Buumi got to the point: could a prosthetic arm be
 
 ## The Alchemist
 
-Cyrrus and Patches took it upon themselves to resupply healing potions. Disguised — Cyrrus as a dwarf with a beautifully braided beard, Patches as her usual moon-elf — they wandered to the Artificing Terrace, an out-of-the-way district thick with cloying smoke, smog and the sounds of experiments going wrong. They found a modest establishment run by a spectacularly rude gnome alchemist. After haggling unsuccessfully, they left several thousand gold poorer but carrying a handful of powerful potions.
+Cirrus and Patches took it upon themselves to resupply healing potions. Disguised — Cirrus as a dwarf with a beautifully braided beard, Patches as her usual moon-elf — they wandered to the Artificing Terrace, an out-of-the-way district thick with cloying smoke, smog and the sounds of experiments going wrong. They found a modest establishment run by a spectacularly rude gnome alchemist. After haggling unsuccessfully, they left several thousand gold poorer but carrying a handful of powerful potions.
 
-Not content to have been both gouged and insulted, they called over two guards and spun a tale of illicit goods and watered-down potions, pointing at the shop. The guards — who had heard complaints about the gnome's attitude before — marched in to have a chat, only to find the proprietor had vanished. Meanwhile, Patches slipped into a side alley, climbed to the second storey and broke into the alchemist's bedroom. She spotted a small lockbox beneath the bedside table and pocketed it just as she heard the gnome re-enter through a back door, swearing he had forgotten something, right as the guards called out for him. Patches dove out the window, landed in a graceful crouch, and strolled out to Cyrrus. They turned and walked briskly away, leaving the gnome to his troubles.
+Not content to have been both gouged and insulted, they called over two guards and spun a tale of illicit goods and watered-down potions, pointing at the shop. The guards — who had heard complaints about the gnome's attitude before — marched in to have a chat, only to find the proprietor had vanished. Meanwhile, Patches slipped into a side alley, climbed to the second storey and broke into the alchemist's bedroom. She spotted a small lockbox beneath the bedside table and pocketed it just as she heard the gnome re-enter through a back door, swearing he had forgotten something, right as the guards called out for him. Patches dove out the window, landed in a graceful crouch, and strolled out to Cirrus. They turned and walked briskly away, leaving the gnome to his troubles.
 
-The pair headed to the surface so Patches could visit Abalaba again. Cyrrus, fascinated by the underworld, tagged along. At the Sloppy Sahuagin they found the back room empty and Abalaba's office open. Patches fenced the lockbox in exchange for more poisons. Neither of them could crack the gnomish lock, so Patches stuffed the keyhole with a blackpowder charge and simply blew it open. Cyrrus rushed in thinking there was trouble but was quickly put at ease. They left with their goods and headed back to the Hopping Hair.
+The pair headed to the surface so Patches could visit Abalaba again. Cirrus, fascinated by the underworld, tagged along. At the Sloppy Sahuagin they found the back room empty and Abalaba's office open. Patches fenced the lockbox in exchange for more poisons. Neither of them could crack the gnomish lock, so Patches stuffed the keyhole with a blackpowder charge and simply blew it open. Cirrus rushed in thinking there was trouble but was quickly put at ease. They left with their goods and headed back to the Hopping Hair.
 
 ## Reunited
 
 Back at the inn, the group reconvened — Tark arriving with two guards in tow who wished to confirm his story. The others vouched for him and the guards departed satisfied. The barkeep, however, had overheard the tale of the infiltration and was less amused. Once the whole story came out, the Dwarf told Tark bluntly that this was the farthest east gate and the network would not take him to his imprisoned master. He berated the monk for his escapade and returned to pouring drinks.
 
-The group took a few hours' rest before Patches called them together. Knowing the cycle of the moon, Cyrrus already understood what was coming and swore to assist any way he could. Patches explained her need: to cleanse herself of the cursed weapon she bore. Every one of them agreed without hesitation.
+The group took a few hours' rest before Patches called them together. Knowing the cycle of the moon, Cirrus already understood what was coming and swore to assist any way he could. Patches explained her need: to cleanse herself of the cursed weapon she bore. Every one of them agreed without hesitation.
 
 ## The Cleansing Ritual
 
-The group headed to the surface, to the ruined cathedrals and the hallowed ground within. Four shattered temples surrounded the old plaza — and Buumi strode without hesitation to the ruined Temple of Helm. Inside the skeletal remains of the cathedral, the white stone altar still stood intact. Patches set up her ritual there, the full moon beaming down and glittering off the gemstones arranged before her. Cyrrus lit incense and began a rite of his own to further hallow the ground. The rest of the group took up positions around the altar and waited.
+The group headed to the surface, to the ruined cathedrals and the hallowed ground within. Four shattered temples surrounded the old plaza — and Buumi strode without hesitation to the ruined Temple of Helm. Inside the skeletal remains of the cathedral, the white stone altar still stood intact. Patches set up her ritual there, the full moon beaming down and glittering off the gemstones arranged before her. Cirrus lit incense and began a rite of his own to further hallow the ground. The rest of the group took up positions around the altar and waited.
 
 Patches began, smashing each gemstone atop the cursed dagger with an enchanted mallet, reciting an oath to Eilistraee. As the last hag's tooth shattered upon the blade, the Reaver itself shattered — an explosion of mist and frost radiated from the altar, coating everything in opaque whiteness. When it cleared, a black carapace caught the moonlight atop the altar. A Drider stood there, bearing Patches' face.
 
@@ -92,9 +93,9 @@ Nora asked if there was anything more she could do, and the group grew suspiciou
 
 Over the altar, the shards of the Reaver melted into a pool of mercury that slowly shaped itself into a levitating disk of liquid metal. Patches was drawn to it. As she approached, the disk rose, casting light across the ruined cathedral and bathing her in its glow. Her hair lengthened, her form became more lithe, and she levitated to meet the disk. She reached into the liquid metal — up to her shoulder — and drew out a glittering obsidian blade that solidified in her grip. Her very skin and eyes shone with a rich lustre as she floated gently back to the ground, now bound to Eilistraee through her new weapon.
 
-As the blade finished forming, a single drop of mercury struck the altar and burst into blue flame. Cyrrus looked into the fire and knew what he must do. He gathered the remains of the tooth fairy and every tooth he carried and cast them in.
+As the blade finished forming, a single drop of mercury struck the altar and burst into blue flame. Cirrus looked into the fire and knew what he must do. He gathered the remains of the tooth fairy and every tooth he carried and cast them in.
 
-The flame shot across the intervening space and lanced into his eyes. The warlock screamed and collapsed, blinded, his flesh-and-blood eyes burned away and replaced by chrome orbs. The group rushed to their friend and discovered the damage was permanent. Despondent and shaken, they returned to the tavern — Patches now bonded to a goodly goddess, and Cyrrus seemingly punished for his past transgressions.
+The flame shot across the intervening space and lanced into his eyes. The warlock screamed and collapsed, blinded, his flesh-and-blood eyes burned away and replaced by chrome orbs. The group rushed to their friend and discovered the damage was permanent. Despondent and shaken, they returned to the tavern — Patches now bonded to a goodly goddess, and Cirrus seemingly punished for his past transgressions.
 
 ## A Month in Sundabar
 
@@ -102,7 +103,7 @@ The group remained in Sundabar for the next month. Buumi, Fëanon and Gundren sp
 
 Tark trained in the military wards and drew quite a following, becoming a regular fixture as training dwarves lined up to try their hand against the halfling in the ring. Patches made trips to the Uppercity to practise with her revolver and explore the power of her new weapon in private contemplation. Cercei followed her father around, trained with Patches, and otherwise slept and ate her way through the month.
 
-Cyrrus spent the entire time locked in his room. Everyone tried to console him — Patches even stopped by to offer to smoke with him — but all were turned away. Eventually the month drew to a close and the full moon rose again. That night, the warlock was visited by visions: a halfling pulling teeth from a corpse in Neverwinter, a red-robed mage transmuting a heart into a cascade of teeth in Thay, an Elven samurai having retainers rip teeth from fallen warriors in the far east, and a Derro collecting teeth on the edge of an Underdark battlefield. Cyrrus woke knowing that he must find these other warlocks of Cerregorach and convert or kill them. Blinking his metallic eyes, he found he could see again — not in colour, but in starlight.
+Cirrus spent the entire time locked in his room. Everyone tried to console him — Patches even stopped by to offer to smoke with him — but all were turned away. Eventually the month drew to a close and the full moon rose again. That night, the warlock was visited by visions: a halfling pulling teeth from a corpse in Neverwinter, a red-robed mage transmuting a heart into a cascade of teeth in Thay, an Elven samurai having retainers rip teeth from fallen warriors in the far east, and a Derro collecting teeth on the edge of an Underdark battlefield. Cirrus woke knowing that he must find these other warlocks of Cerregorach and convert or kill them. Blinking his metallic eyes, he found he could see again — not in colour, but in starlight.
 
 He descended for the first time in weeks to a chorus of enthusiastic greetings. The group marvelled at his new sight, and he reluctantly agreed that the test was only beginning.
 

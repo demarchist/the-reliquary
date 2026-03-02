@@ -6,6 +6,7 @@ session: 12
 summary: "The group ascends Mt. Ghakis through yetis, a polar worm, and a nesting Roc to reach the Amber Temple — an ancient prison of dark powers. Inside, they battle flameskulls, discover a scale model of Castle Ravenloft, and Patches steals Mordenkainen's sentient Staff of the Archmagi from under the nose of an Arcanaloth guardian."
 people:
   - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
@@ -37,7 +38,7 @@ Gundren set to work with his artificing tools, cutting and sewing furs into four
 
 The wagon pushed higher. Kasimir warned them about the mountain's dangers. Snow deepened, wind howled, and the temperature plummeted. Even through the cold-weather gear, the biting cold sapped their strength. Patches, her Underdark heritage offering no protection against extreme cold, began to shiver uncontrollably. They reached a gatehouse — walls extending up and down the mountainside, a white stone tower beyond, and a wall of green fire crackling in the archway. Fëanon identified the two bird-like statues atop the wall as petrified Vrocks, warded to attack if anyone bypassed the gate. He dispelled the fire and the group passed through on foot.
 
-In the frozen tower beyond, they found a teleportation circle — Fëanon copied the coordinates. Past an old stone bridge and an illusory dark horseman, the snow became too deep for the wagon. They left the tigers in its shelter and continued on foot, blasting and melting a path through drifts. Yetis lurked in ambush ahead — Tark wrapped the group in shadow and they prestidigitated a disturbance down the mountainside, drawing the beasts away. Then the ground shook and a gargantuan armoured worm erupted from the snow — a polar worm, its glittering eyes sweeping the air. Cyrrus conjured a spectral mount and sent it careening down the slope. The beast screeched and gave chase. The group ran.
+In the frozen tower beyond, they found a teleportation circle — Fëanon copied the coordinates. Past an old stone bridge and an illusory dark horseman, the snow became too deep for the wagon. They left the tigers in its shelter and continued on foot, blasting and melting a path through drifts. Yetis lurked in ambush ahead — Tark wrapped the group in shadow and they prestidigitated a disturbance down the mountainside, drawing the beasts away. Then the ground shook and a gargantuan armoured worm erupted from the snow — a polar worm, its glittering eyes sweeping the air. Cirrus conjured a spectral mount and sent it careening down the slope. The beast screeched and gave chase. The group ran.
 
 The facade of the Amber Temple materialised through the swirling snow — fifty feet high, six alcoves holding twenty-foot amber statues of faceless hooded figures in prayer. Between the innermost statues, a staircase descended into darkness. Atop the facade, a titanic black eagle shuffled on its perch — a Roc, its hundred-foot wingspan ruffling in the wind. Tark renewed his stealth magic and they crept to the entrance, choosing a fissure in the rock rather than the front stairs.
 
@@ -63,7 +64,7 @@ Fëanon practically salivated. He recognised it immediately: a Staff of the Arch
 
 ## The Feast of Ghosts
 
-The group took the staircase between the alchemy lab and the architect's room. Cyrrus, walking ahead impatiently, stepped on a pressure plate at the bottom. A steel spike shot from the wall and impaled him through the side, pinning him to the stone. Gasping, blood oozing, he told Tark where his healing potion was and to use it when he passed out. Tark struck the spear, bending it but not breaking it — the jolt knocked Cyrrus unconscious. Gundren pushed past with a hacksaw and cut through the trap. They pulled the spear free, fed Cyrrus the potion, and watched the wound scab shut.
+The group took the staircase between the alchemy lab and the architect's room. Cirrus, walking ahead impatiently, stepped on a pressure plate at the bottom. A steel spike shot from the wall and impaled him through the side, pinning him to the stone. Gasping, blood oozing, he told Tark where his healing potion was and to use it when he passed out. Tark struck the spear, bending it but not breaking it — the jolt knocked Cirrus unconscious. Gundren pushed past with a hacksaw and cut through the trap. They pulled the spear free, fed Cirrus the potion, and watched the wound scab shut.
 
 The lower level was a vast amber-glazed hall with a vaulted ceiling, its walls lined with alabaster statues of wizards' familiars — cats, frogs, hawks, owls, ravens. Many had fallen and shattered.
 

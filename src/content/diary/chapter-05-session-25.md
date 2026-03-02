@@ -42,15 +42,15 @@ The castle shook. More chunks cracked free and began floating in the teleportati
 
 Rahadin shifted and breathed a cone of paralysing gas. Tark screamed a warning. Everyone held their breath or dove aside. The gas dissipated without claiming a single victim. The dragon let out a growl of frustration.
 
-Ezmerelda launched a lightning bolt at the shadow — the blast disintegrated nearby soulless, burned away most of the Atropal's essence, and struck Rahadin, obliterating his shield and stunning the dragon. Cyrrus drew on the spirit of Argynvost for healing, downed a potion, and slammed two eldritch blasts into the dragon's skull before ducking into cover. Stick grabbed a massive slab of rock with telekinesis and slammed it onto Rahadin's back. Danica shot one of the vampire thralls from above.
+Ezmerelda launched a lightning bolt at the shadow — the blast disintegrated nearby soulless, burned away most of the Atropal's essence, and struck Rahadin, obliterating his shield and stunning the dragon. Cirrus drew on the spirit of Argynvost for healing, downed a potion, and slammed two eldritch blasts into the dragon's skull before ducking into cover. Stick grabbed a massive slab of rock with telekinesis and slammed it onto Rahadin's back. Danica shot one of the vampire thralls from above.
 
 Tark bounced off a piece of floating rubble, leapt at the stunned dragon, and unleashed a flurry of blows — some glancing off scales, others cracking bone. The wereraven archers peppered Rahadin from cover.
 
-Rahadin's shadow aura regenerated from the soulless rushing past. He rose and turned his full fury on Buumi, knocking the paladin unconscious with a storm of claw and tail. "I will kill anyone I knock down," the dragon promised. JmJm exploded into the Goblin King form. The vampire thralls cut into Cyrrus from behind, hurting the warlock badly.
+Rahadin's shadow aura regenerated from the soulless rushing past. He rose and turned his full fury on Buumi, knocking the paladin unconscious with a storm of claw and tail. "I will kill anyone I knock down," the dragon promised. JmJm exploded into the Goblin King form. The vampire thralls cut into Cirrus from behind, hurting the warlock badly.
 
 JmJm did a goblin jig, slapped Buumi across the face, and screamed at the paladin to get up — healing magic surging through the blow. Buumi gasped and started to rise. Rahadin spun a full three-sixty with his tail. Tark dove on top of Buumi, pushing him clear but taking the hit himself. JmJm dodged.
 
-Cyrrus accepted that he was going to die. He muttered a prayer, teleported sixty feet into the air above the battlefield, and began falling — firing eldritch blasts at the dragon. The Atropal rose again at Buumi's feet, feeding on the paladin's life force and regenerating Rahadin's shield. Gibra rushed forward with a scroll from Tark and cast mass cure wounds — healing Buumi, Cyrrus, JmJm, Gundren, Ezmerelda, and herself. Rahadin roared in fury.
+Cirrus accepted that he was going to die. He muttered a prayer, teleported sixty feet into the air above the battlefield, and began falling — firing eldritch blasts at the dragon. The Atropal rose again at Buumi's feet, feeding on the paladin's life force and regenerating Rahadin's shield. Gibra rushed forward with a scroll from Tark and cast mass cure wounds — healing Buumi, Cirrus, JmJm, Gundren, Ezmerelda, and herself. Rahadin roared in fury.
 
 Tark cursed the dragon, promising retribution, and shadowstepped above the Atropal to smash it from a piece of rubble. The shadow drained life from Buumi, Tark, and JmJm, rejuvenating itself. Rahadin bit at the distracted JmJm — the bard ducked aside, teeth tearing flesh but not snapping shut. The dragon prepared shadow flame.
 
@@ -68,7 +68,7 @@ Rahadin saw JmJm fall and slammed a massive claw down, crushing the bard — han
 
 Patches hurled her last fireball earring, detonating it on the edge of the blast to clip Rahadin's head and wings. She called on her luck blade, grabbed a wingtip, and launched herself onto his haunches, fastening a climbing anchor into place.
 
-Fëanon rushed to the fallen Cyrrus and stabilised the hypothermic warlock with fire magic. Rahadin, frenzied, spun and breathed icy death at Tark, Cyrrus, Fëanon, and JmJm's corpse. Tark screamed a warning. They took what cover they could. Fëanon barely shielded himself. Everyone else dropped unconscious. JmJm — already broken — was frozen solid. Dead.
+Fëanon rushed to the fallen Cirrus and stabilised the hypothermic warlock with fire magic. Rahadin, frenzied, spun and breathed icy death at Tark, Cirrus, Fëanon, and JmJm's corpse. Tark screamed a warning. They took what cover they could. Fëanon barely shielded himself. Everyone else dropped unconscious. JmJm — already broken — was frozen solid. Dead.
 
 Strahd ripped Rahadin's throat out. Blood fountained across the marble floor. The dragon gurgled a roar, dying but still on his feet.
 
@@ -84,7 +84,7 @@ A flash of light and a shockwave ripped through the castle. When they rose, star
 
 Buumi knelt before JmJm's frozen body and began to pray. After long moments, he laid his hands on the corpse. Golden light covered the body as it thawed. JmJm sat up gasping, remarked on what a rush that was, and flopped back to the floor. He crawled to Waldo's body and tried to raise the dead man — but sensed peace. Waldo would not return.
 
-The halos around Patches and Cyrrus dimmed as the spirits of Argynvost and Anduriel completed their purpose and departed. Fëanon examined the floating castle fragments and thought their levitation might be permanent. He was too exhausted to be sure.
+The halos around Patches and Cirrus dimmed as the spirits of Argynvost and Anduriel completed their purpose and departed. Fëanon examined the floating castle fragments and thought their levitation might be permanent. He was too exhausted to be sure.
 
 Every Barovian suddenly cocked their head as if hearing a voice. Lathander offered each a choice: live a mortal life, or accept his embrace and be taken to rest.
 
@@ -94,9 +94,9 @@ Patches rushed to the chapel to loot the vampire brides' jewellery, the old corp
 
 Tark lounged in a sunbeam — the first true sunlight in weeks. Buumi saw JmJm alive and flopped onto the ground, exhausted. Tark sat beside him, took a drink from Buumi's flask, and they high-fived. Tark asked what to do about Strahd. Buumi thought the truth had made him no longer a threat.
 
-Every thrall strode into sunbeams and burst into flame. Strahd was shaking with effort. He turned and began walking into the light. Behind him, a breeze wafted through and Ireena crumbled to dust, accepting Lathander's call. Tears streaming, Strahd reached the front of the castle and sat down on the steps. Cyrrus followed to ensure he died.
+Every thrall strode into sunbeams and burst into flame. Strahd was shaking with effort. He turned and began walking into the light. Behind him, a breeze wafted through and Ireena crumbled to dust, accepting Lathander's call. Tears streaming, Strahd reached the front of the castle and sat down on the steps. Cirrus followed to ensure he died.
 
-Strahd looked at him. Cyrrus said Selûne would welcome him. Strahd doubted any celestial would have him after all he had done — but hoped Lathander would forgive him. The shadow aura burned away and Strahd was disintegrated by the rising sun, a massive vortex of shadow exploding from his remains before that too was consumed. All that was left was a pile of ash and items.
+Strahd looked at him. Cirrus said Selûne would welcome him. Strahd doubted any celestial would have him after all he had done — but hoped Lathander would forgive him. The shadow aura burned away and Strahd was disintegrated by the rising sun, a massive vortex of shadow exploding from his remains before that too was consumed. All that was left was a pile of ash and items.
 
 ## Aftermath
 

@@ -18,7 +18,7 @@ She is a master of deception, projecting a programmed illusion of breathtaking b
 
 ## The Conspiracy
 
-The group identified Lysaga as Rahadin's co-conspirator through a prophetic dream and later confirmed it by using a crystal communication orb found in Rahadin's office in Castle Ravenloft. Cyrrus impersonated Rahadin's voice on the orb and extracted confirmation of their plot. During the final battle, Rahadin referred to Lysaga as his "beloved" — a detail that both horrified and amused the party.
+The group identified Lysaga as Rahadin's co-conspirator through a prophetic dream and later confirmed it by using a crystal communication orb found in Rahadin's office in Castle Ravenloft. Cirrus impersonated Rahadin's voice on the orb and extracted confirmation of their plot. During the final battle, Rahadin referred to Lysaga as his "beloved" — a detail that both horrified and amused the party.
 
 ## Death
 

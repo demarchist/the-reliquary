@@ -12,7 +12,7 @@ Ireena is a striking young woman living in the village of Barovia who bears an u
 
 ## Character
 
-Ireena carries herself with a quiet strength that belies her circumstances. She accepted the overwhelming truth of her identity — that she was Tatyana reborn, that she had been murdered dozens of times across more than a millennium — with a stoic composure that earned the group's respect. When Fëanon dove into her mind to unlock her past-life memories using Sergei's crystal sword, the trauma of dozens of deaths nearly destroyed her. Fëanon and Cyrrus worked frantically to stabilise her, and she emerged damaged, furious, but herself.
+Ireena carries herself with a quiet strength that belies her circumstances. She accepted the overwhelming truth of her identity — that she was Tatyana reborn, that she had been murdered dozens of times across more than a millennium — with a stoic composure that earned the group's respect. When Fëanon dove into her mind to unlock her past-life memories using Sergei's crystal sword, the trauma of dozens of deaths nearly destroyed her. Fëanon and Cirrus worked frantically to stabilise her, and she emerged damaged, furious, but herself.
 
 She is not a passive figure. At the dinner with Strahd, she fought alongside the group when the vampires lost control. She charged skeletons with daggers in the bone-decorated dining hall. During the final assault on Castle Ravenloft, she was smuggled into the castle in a bag of holding, emerged to fight Strahd's vampire brides with a spear and sabre, and personally presented Sergei's journal to Strahd in the chapel — pushing through waves of artifact energy that could have killed her to reach the husband she had loved in a former life.
 

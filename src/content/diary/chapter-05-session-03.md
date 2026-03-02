@@ -7,6 +7,7 @@ summary: "The group buries the Burgomaster, feeds a corrupt priest to his own va
 people:
   - "aliyah-faen-tlabbar"
   - "chekov"
+  - "cirrus-al-kayan"
   - "donavich"
   - "feanon-serinde"
   - "gowain"
@@ -31,7 +32,7 @@ The group entered the graveyard through a small side gate and chased off a pack 
 
 A scream from inside the church shattered the moment. Donavich's face went pale. Under pressure from the group, the trembling priest confessed: his son, turned into a vampire spawn during Mordenkainen's failed assault on the castle, was locked in the church basement. The shoes, clothes, and gnawed bones scattered across the cellar floor told the rest of the story — Donavich had been feeding townsfolk to his child.
 
-Cyrrus marched upstairs, grabbed the priest by the collar, and threw him down to his son. The group withdrew their light and let the vampire feed. Now lucid from the fresh blood, the spawn spoke with them briefly, confirming he was a thrall of Strahd. He said the wrong thing and lunged at Patches, who shoved a light grenade into his face. The group drove him back to his coffin and staked him. The vampire dust was collected for alchemy.
+Cirrus marched upstairs, grabbed the priest by the collar, and threw him down to his son. The group withdrew their light and let the vampire feed. Now lucid from the fresh blood, the spawn spoke with them briefly, confirming he was a thrall of Strahd. He said the wrong thing and lunged at Patches, who shoved a light grenade into his face. The group drove him back to his coffin and staked him. The vampire dust was collected for alchemy.
 
 Buumi dragged the corrupted priest's remains into the graveyard and tossed them into an open grave. Ireena and young Chekov stood in horrified silence, the boy turning violently sick. After a brief explanation that satisfied no one, Ireena told the group she would meet them at the edge of town in the morning and took her leave.
 
@@ -39,13 +40,13 @@ Buumi dragged the corrupted priest's remains into the graveyard and tossed them 
 
 The group headed for the local inn but was drawn off course by sobbing from a nearby building. Next to the general store — where they did some quick shopping — they found a woman named Mary weeping over a doll in such hysterics that something clearly was not right.
 
-Investigation revealed four Meenlocks lurking in the building. Cyrrus reacted badly — the tooth-fairy minions of his patron had all been Meenlocks, and the sight brought on a full panic attack. Patches and the others talked him through it, and Cyrrus agreed to face his fears. With Patches covering the windows, the group stormed the room. Two Meenlocks fled; two died. Cyrrus felt measurably better for having confronted the source of his terror.
+Investigation revealed four Meenlocks lurking in the building. Cirrus reacted badly — the tooth-fairy minions of his patron had all been Meenlocks, and the sight brought on a full panic attack. Patches and the others talked him through it, and Cirrus agreed to face his fears. With Patches covering the windows, the group stormed the room. Two Meenlocks fled; two died. Cirrus felt measurably better for having confronted the source of his terror.
 
 Mary, no longer incoherent, explained that her teenage daughter Gertruda had escaped from the house a few days ago. Mary had been imprisoning the girl out of suffocating fear that something terrible would happen to her. The group noted the doll's tag: *"Is no fun!? Is NO Blinsky!"*
 
 ## Madame Eva
 
-At the inn, over a much-needed meal, Cyrrus delivered an impassioned speech about staying neutral and finding a way out of Barovia without getting slaughtered. The Vistani patrons agreed that Strahd was misunderstood and pointed out several locations on the group's map. Rumours reached them of an ancient temple on the slopes of Mt. Ghakis built to imprison dark powers, a hoard belonging to a silver dragon, and the camp of the Vistani fortune-teller Madame Eva.
+At the inn, over a much-needed meal, Cirrus delivered an impassioned speech about staying neutral and finding a way out of Barovia without getting slaughtered. The Vistani patrons agreed that Strahd was misunderstood and pointed out several locations on the group's map. Rumours reached them of an ancient temple on the slopes of Mt. Ghakis built to imprison dark powers, a hoard belonging to a silver dragon, and the camp of the Vistani fortune-teller Madame Eva.
 
 The night brought restless sleep — nightmares and distant howling. Patches woke to find a note nailed to her door. Over breakfast, she showed it to the group: a message from Gowain, promising to hunt them down and retrieve his hat.
 

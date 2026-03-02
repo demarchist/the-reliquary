@@ -3,8 +3,9 @@ title: The Bog - The Wall of Hands
 chapter: 4
 chapterTitle: The Bog
 session: 3
-summary: "Tark reverts from worm form mid-flight above the dragon's tower, Cyrrus ransacks the dragon's lair and gets bitten, the Black Dragon gifts Buumi a purple egg before departing, and the group shelters in a giant skull — where Tark discovers a tunnel of living hands."
+summary: "Tark reverts from worm form mid-flight above the dragon's tower, Cirrus ransacks the dragon's lair and gets bitten, the Black Dragon gifts Buumi a purple egg before departing, and the group shelters in a giant skull — where Tark discovers a tunnel of living hands."
 people:
+  - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"
@@ -27,10 +28,10 @@ Gundren's suspicion of the marching myconids proved well-founded when they turne
 
 ## The Dragon's Gift
 
-While Buumi was otherwise occupied, Cyrrus had been ransacking the dragon's lair. The Black Dragon finished with Buumi, moved into her chambers, and came face to face with the thief. She was not amused. Cyrrus was bitten by a Black Dragon and dimension-doored to safety in a blind panic, materialising next to Zhink — who had been exploring a massive skull filled with glowing mushrooms. Zhink, ever helpful, ripped one of the skull's enormous teeth free as a gift for Cyrrus and his patron. Fëanon arrived and attempted to make a healing poultice from the surrounding mushrooms, but only succeeded in poisoning Cyrrus further, giving him catastrophic diarrhea.
+While Buumi was otherwise occupied, Cirrus had been ransacking the dragon's lair. The Black Dragon finished with Buumi, moved into her chambers, and came face to face with the thief. She was not amused. Cirrus was bitten by a Black Dragon and dimension-doored to safety in a blind panic, materialising next to Zhink — who had been exploring a massive skull filled with glowing mushrooms. Zhink, ever helpful, ripped one of the skull's enormous teeth free as a gift for Cirrus and his patron. Fëanon arrived and attempted to make a healing poultice from the surrounding mushrooms, but only succeeded in poisoning Cirrus further, giving him catastrophic diarrhea.
 
 Back at the tower, the dragon's anger cooled quickly. She returned to Buumi and presented him with a deep purple egg before flying away, taking all the moss — which had been disguised goblins the entire time — with her. Buumi stared at the egg in horror, realising what it meant. He kept it.
 
 ## The Skull and the Tunnel
 
-The group regrouped at the giant skull to rest. Tark, unable to resist investigating the dark hole at the back of the skull, jumped down into it and was immediately seized by hands covering the tunnel walls. Cyrrus, still suffering stomach trouble, was positioned directly above. The results were deeply unfortunate for Tark. Crying out in disgust, Tark struggled against the grasping hands and heard other voices expressing their own revulsion — the wall of hands was forming faces, and they were not happy either.
+The group regrouped at the giant skull to rest. Tark, unable to resist investigating the dark hole at the back of the skull, jumped down into it and was immediately seized by hands covering the tunnel walls. Cirrus, still suffering stomach trouble, was positioned directly above. The results were deeply unfortunate for Tark. Crying out in disgust, Tark struggled against the grasping hands and heard other voices expressing their own revulsion — the wall of hands was forming faces, and they were not happy either.

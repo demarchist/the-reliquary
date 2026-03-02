@@ -7,6 +7,7 @@ summary: "The group descends through haunted corridors and trapped staircases to
 people:
   - "aliyah-faen-tlabbar"
   - "baba-lysaga"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "ireena"
@@ -36,7 +37,7 @@ Buumi turned the spectres in the next room with holy power, pushing them back lo
 
 She dropped the orb. She recognised the voice — the second speaker from the prophetic dream, the one who had plotted with Rahadin to kill Ireena.
 
-Cyrrus disguised himself as Rahadin and picked up the orb. In a perfect imitation, he reported that the adventurers were more formidable than expected and they might need another way out. The voice — Baba Lysaga — reminded him there was no other way; the shard of the Last Word was their only exit. They ended the communication. Now the group knew both conspirators by name.
+Cirrus disguised himself as Rahadin and picked up the orb. In a perfect imitation, he reported that the adventurers were more formidable than expected and they might need another way out. The voice — Baba Lysaga — reminded him there was no other way; the shard of the Last Word was their only exit. They ended the communication. Now the group knew both conspirators by name.
 
 Fëanon contacted Mordenkainen with the news. The Archmage relayed new passages from the Tome of Strahd — entries revealing Strahd as a just and thoughtful king who loved his wife Tatyana and worried about his brother Sergei. Rahadin appeared throughout as a trusted counsellor. The two missing pages fell between Strahd's trip to the Amber Temple with Rahadin and a subsequent year-long diplomatic journey. The final entry described Strahd's return home to find his wife strangely sick and his brother and chamberlain both acting oddly.
 
@@ -50,21 +51,21 @@ A blade trap nearly took Patches' face off on the secret stair — she and Tark 
 
 They reached the catacomb antechamber: a vast room with a huge brazier, a massive hourglass suspended above it, and coloured gemstones around its rim. A plaque read: *"Cast a stone into the fire: Violet leads to mountain spire. Orange to the castle's peak. Red if lore is what you seek. Green to where the coffins hide. Indigo to the master's bride. Blue to ancient magic's womb. Yellow to the master's tomb."*
 
-Through the southern doors, Cyrrus's owl scouted a flooded torture chamber, centuries abandoned, and dungeon cells beyond — their ceilings coated in deadly yellow mould. The owl spotted treasure beneath the water, a glowing blade, and in the farthest cell, a large bald man shivering against the bars. In another cell: the body of Van Richten. The owl brushed the mouldy ceiling on its return pass and died in a puff of feathers.
+Through the southern doors, Cirrus's owl scouted a flooded torture chamber, centuries abandoned, and dungeon cells beyond — their ceilings coated in deadly yellow mould. The owl spotted treasure beneath the water, a glowing blade, and in the farthest cell, a large bald man shivering against the bars. In another cell: the body of Van Richten. The owl brushed the mouldy ceiling on its return pass and died in a puff of feathers.
 
-Tark flew in on his staff's power, freed the prisoner — Emil, a werewolf pack leader loyal to Strahd. Fëanon probed his mind and found the truth: Emil would do anything to return to his master's good graces. With spells and persuasion, Fëanon and Cyrrus convinced the werewolf that Baba Lysaga had betrayed Strahd. Emil took a coloured gem, cast it into the brazier's fire, and vanished in a flash of light — heading to attack Lysaga with his pack.
+Tark flew in on his staff's power, freed the prisoner — Emil, a werewolf pack leader loyal to Strahd. Fëanon probed his mind and found the truth: Emil would do anything to return to his master's good graces. With spells and persuasion, Fëanon and Cirrus convinced the werewolf that Baba Lysaga had betrayed Strahd. Emil took a coloured gem, cast it into the brazier's fire, and vanished in a flash of light — heading to attack Lysaga with his pack.
 
 Tark flew to Van Richten's cell. The vampire hunter was dead — two puncture wounds on his neck. Then Van Richten's eyes snapped open, fangs gleaming, skin pallid. He recognised Tark and begged to be killed. Tark gripped his holy staff and impaled the old man through the heart, then sawed through his neck with a knife until the head came free and crumbled to dust.
 
-Tark flew back, despondent. He told the group there was nothing else of worth. The group was silent. Then Cyrrus mentioned the treasure. Unseen servants ferried back several thousand gold in coins and a small ornate blade — a Luck Blade, capable of influencing fortune and granting wishes. Patches' eyes went wide as she scooped it up.
+Tark flew back, despondent. He told the group there was nothing else of worth. The group was silent. Then Cirrus mentioned the treasure. Unseen servants ferried back several thousand gold in coins and a small ornate blade — a Luck Blade, capable of influencing fortune and granting wishes. Patches' eyes went wide as she scooped it up.
 
 ## Sergei's Tomb
 
 The catacombs were vast and dark — dozens of stone crypts, three large mausoleums, and a ceiling that writhed with bats. Tark scouted by air and found the white marble mausoleum with silver portcullis that had to be Sergei's tomb. On the way, they discovered a crypt whose floor had been hewed away into a dark chasm. Tark descended and found tunnels packed with hibernating vampire spawn — dead adventurers and barbarian warriors by the hundreds. The implications of Strahd reaching the mortal world with this army were staggering.
 
-In Sergei's hallowed tomb, Buumi touched the marble slab and it dematerialised, revealing the perfectly preserved body in fine noble clothing. Ireena stumbled forward, mouth agape — she recognised him. She found his journal and handed it to Fëanon. At the corpse's feet lay ornate black leather armour trimmed in iridescent raven feathers — the Armour of the Ravenlord. Cyrrus identified its power and donned it immediately. Buumi found the platinum greatsword hilt with a ruby pommel — the match for the crystal blade.
+In Sergei's hallowed tomb, Buumi touched the marble slab and it dematerialised, revealing the perfectly preserved body in fine noble clothing. Ireena stumbled forward, mouth agape — she recognised him. She found his journal and handed it to Fëanon. At the corpse's feet lay ornate black leather armour trimmed in iridescent raven feathers — the Armour of the Ravenlord. Cirrus identified its power and donned it immediately. Buumi found the platinum greatsword hilt with a ruby pommel — the match for the crystal blade.
 
-On the way out, Buumi was drawn to a nearby crypt containing a three-faced plate helm that called to him. He replaced his own helmet and felt the minor enchantment settle over his vision. Fëanon found the crypt of Khazan and pocketed an unfinished Demilich Phylactery — a bejewelled skull with opal eyes, amber teeth, and gold-plated bone. When Cyrrus spoke the name "Khazan" aloud, a polished silver staff capped with a large diamond materialised above the coffin. He seized it and lightning cascaded through the chamber — a Staff of Power.
+On the way out, Buumi was drawn to a nearby crypt containing a three-faced plate helm that called to him. He replaced his own helmet and felt the minor enchantment settle over his vision. Fëanon found the crypt of Khazan and pocketed an unfinished Demilich Phylactery — a bejewelled skull with opal eyes, amber teeth, and gold-plated bone. When Cirrus spoke the name "Khazan" aloud, a polished silver staff capped with a large diamond materialised above the coffin. He seized it and lightning cascaded through the chamber — a Staff of Power.
 
 ## The Library
 

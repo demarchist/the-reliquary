@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "atropos"
   - "azoo-the-archer"
+  - "cirrus-al-kayan"
   - "ezmerelda"
   - "feanon-serinde"
   - "gowain"
@@ -37,7 +38,7 @@ factions:
 
 ## Morning in Vallaki
 
-The group sat around their table in the Bluewater Inn, still processing Urwen's revelation. Tark spoke up first, asking if the wife was a "bird person" and making flapping motions with his arms. Urwen urged them to keep their voices down, glancing around the deserted common room. Cyrrus mimicked the flapping. Urwen sighed. Eventually the group confirmed that his entire bloodline were wereravens. Urwen mentioned offhandedly that the undead cat Tark had brought back had stopped moving and he had buried it out back.
+The group sat around their table in the Bluewater Inn, still processing Urwen's revelation. Tark spoke up first, asking if the wife was a "bird person" and making flapping motions with his arms. Urwen urged them to keep their voices down, glancing around the deserted common room. Cirrus mimicked the flapping. Urwen sighed. Eventually the group confirmed that his entire bloodline were wereravens. Urwen mentioned offhandedly that the undead cat Tark had brought back had stopped moving and he had buried it out back.
 
 A commotion erupted from the stables — children shrieking, a lion's roar. Chekhov and the Martikov boys came tearing into the common room with Aurora hot on their heels, the six-hundred-pound tiger scattering tables and chairs. The children laughed as the great cat pounced about before rolling onto her back for belly rubs. Urwen, initially furious, softened — laughter was not a common thing in Barovia.
 
@@ -49,9 +50,9 @@ The group divided up their potions and scrolls, took stock of their supplies, dr
 
 The next morning they split up. Buumi went to speak with the priest about the missing bones of St. Andral. Fëanon stayed behind to inscribe spells. Gundren and Tark headed to Blinsky's toy shop — Tark to check on the clockwork JmJm figure he had ordered, Gundren to repair the damaged Gwen. An excited Blinsky and the ever-fiery dwarf set to work while Tark watched, grew bored, grabbed three cheese-and-gravy pastries, and left — eating messily on the way.
 
-Patches and Cyrrus headed to the square to await Ireena, having sent Mr. Pickles to fetch her. While they waited they noted the impaled head of Lydia Vallakovich, the former Baroness, on a spike. They agreed they had done enough by getting her out of the manor — if she could not escape after that, it was her own failing. Ravens pecked at the head's eyes.
+Patches and Cirrus headed to the square to await Ireena, having sent Mr. Pickles to fetch her. While they waited they noted the impaled head of Lydia Vallakovich, the former Baroness, on a spike. They agreed they had done enough by getting her out of the manor — if she could not escape after that, it was her own failing. Ravens pecked at the head's eyes.
 
-Mr. Pickles returned with unexpected news: Ireena was taking luncheon with Lady Wachter at the Wachterhaus. Fearing for Ireena's safety, Patches and Cyrrus went immediately.
+Mr. Pickles returned with unexpected news: Ireena was taking luncheon with Lady Wachter at the Wachterhaus. Fearing for Ireena's safety, Patches and Cirrus went immediately.
 
 At the inn, Fëanon finished his inscribing as Van Richten entered in his Rictavio disguise. Despite the earlier charm attempt, the mention of Ezmerelda thawed the vampire hunter's hostility. Fëanon convinced him that his apprentice would follow him regardless and it would be safer to let her accompany him. Van Richten agreed and departed west toward his tower.
 
@@ -61,7 +62,7 @@ Patches used her bracers to reach the second floor while Tark — arriving with 
 
 Upstairs, Patches found the corpse of Sir Wachter lying in a four-poster bed surrounded by family portraits, then moved to the library where she found nothing but eight grumpy cats. She opened a window and freed them.
 
-Below, Cyrrus and Tark took seats at Lady Wachter's dining table without being asked and began undermining her in front of Ireena — reinforcing Ireena's candidacy as Burgomaster while Tark helped himself to pheasant. The tension broke when Cyrrus prestidigitated a long, loud fart to come from Lady Wachter. Ireena snorted. Lady Wachter went rigid with fury, dispelled the noise with a wave of her hand, and magically commanded Cyrrus to leave. Feeling the spell slide off his mind, Cyrrus collected the others and departed. Ireena declined Lady Wachter's dinner invitation and left as well.
+Below, Cirrus and Tark took seats at Lady Wachter's dining table without being asked and began undermining her in front of Ireena — reinforcing Ireena's candidacy as Burgomaster while Tark helped himself to pheasant. The tension broke when Cirrus prestidigitated a long, loud fart to come from Lady Wachter. Ireena snorted. Lady Wachter went rigid with fury, dispelled the noise with a wave of her hand, and magically commanded Cirrus to leave. Feeling the spell slide off his mind, Cirrus collected the others and departed. Ireena declined Lady Wachter's dinner invitation and left as well.
 
 Back at the inn, Buumi reported that the bones of St. Andral — which hallowed the temple grounds — were believed stolen, with a young lad named Milijov as the prime suspect. The group dismissed it as a lesser concern and sent Chekhov and Mr. Pickles to investigate as the boy's first real quest. Chekhov panicked and refused until given a supreme healing potion to bolster his courage. Dagger in one hand and potion in the other, he set out with Mr. Pickles in tow.
 
@@ -91,13 +92,13 @@ On the rooftops, Patches — her Drow heritage rendering her invisible even to v
 
 On the ground, Beerna downed a potion of growth and charged Buumi, swelling to enormous size with every stride. The two traded thunderous blows — Buumi's glowing hammer deflected by the gargantuan greatsword, his shield holding against crushing strikes. Gundren swivelled his thundercannon and poured lightning-imbued shot into the giant vampire. Gwen leapt at Beerna with flashing claws but was held at bay by the massive blade.
 
-Fëanon and Cyrrus struck at Gowain's mind with spells, succeeding in stunning Growland and knocking both invisible shadow monks into visibility — but Gowain shrugged everything off. Tark reached for his elemental ring and called a wall of fire to encircle Gowain. Growland leapt back, burning. Fëanon tangled the ground between the fire and the group with magical thorns.
+Fëanon and Cirrus struck at Gowain's mind with spells, succeeding in stunning Growland and knocking both invisible shadow monks into visibility — but Gowain shrugged everything off. Tark reached for his elemental ring and called a wall of fire to encircle Gowain. Growland leapt back, burning. Fëanon tangled the ground between the fire and the group with magical thorns.
 
 Then an invisible mage blindsided them with a cone of cold. Fëanon's jade frog familiar dropped frozen to the ground. The group scrambled to find the source — some unseen caster cackling with glee. Fëanon gathered a fireball, but the instant he released it, a counterspell unravelled his magic. The same maddening cackle. Growling through his mask, Fëanon regathered the energy and launched a brilliant line of combustion into the sky, immolating Gowain and his shadow monks. The monks burned badly. Gowain, cowering inside his spell-wrought leather duster, fell relatively unharmed and teleported to Buumi.
 
-Beerna scooped Buumi up in her massive arms and bit into his shoulder, draining his life force in a crushing embrace. Tark shadowstepped along a building wall above the cowering civilians, caught two longbow shots from the Eladrin ranger mid-air, and launched them back at her. Cyrrus, seeing an opportunity and caring nothing for the bystanders, summoned a massive sickening radiance. Unearthly green light suffused the entire street. The vampires wailed. The civilians screamed. Tark and Buumi gasped in pain as the light scorched friend and foe alike.
+Beerna scooped Buumi up in her massive arms and bit into his shoulder, draining his life force in a crushing embrace. Tark shadowstepped along a building wall above the cowering civilians, caught two longbow shots from the Eladrin ranger mid-air, and launched them back at her. Cirrus, seeing an opportunity and caring nothing for the bystanders, summoned a massive sickening radiance. Unearthly green light suffused the entire street. The vampires wailed. The civilians screamed. Tark and Buumi gasped in pain as the light scorched friend and foe alike.
 
-Buumi's mind flashed to the Barovian patrol — the first battle in the valley. Now he knew Cyrrus had been responsible for that disaster too.
+Buumi's mind flashed to the Barovian patrol — the first battle in the valley. Now he knew Cirrus had been responsible for that disaster too.
 
 ## Turning the Tide
 
@@ -105,9 +106,9 @@ Patches threw a lightning grenade at Beerna's feet. The blast stunned both the g
 
 Gowain shattered a charm, dispelling the sickening radiance with a burst of anti-magic. He and the ranger closed on Tark with a shadow monk, overwhelming the halfling with sheer volume of strikes. Tark dodged and blocked brilliantly but the numbers told — hit after hit drove him to his knees and then to the ground. Cackling in ecstasy, Gowain reached for his hat on the unconscious monk's head.
 
-Across the battlefield, Growland shadowstepped to flank the group and was destroyed unceremoniously by a concentrated barrage of spells and gunfire. Buumi's hammer rocketed around cover to pummel Balthazar, the invisible vampire gnome mage, now revealed by the green light. Cyrrus channelled a spell through his owl familiar, swelling it to monstrous size — a Tyrannosaurus Rex that crashed through a rooftop and smashed through the building wall beside the Eladrin ranger. She looked up, red eyes wide, as the jaws descended and snapped her in half. Her body dissolved to mist.
+Across the battlefield, Growland shadowstepped to flank the group and was destroyed unceremoniously by a concentrated barrage of spells and gunfire. Buumi's hammer rocketed around cover to pummel Balthazar, the invisible vampire gnome mage, now revealed by the green light. Cirrus channelled a spell through his owl familiar, swelling it to monstrous size — a Tyrannosaurus Rex that crashed through a rooftop and smashed through the building wall beside the Eladrin ranger. She looked up, red eyes wide, as the jaws descended and snapped her in half. Her body dissolved to mist.
 
-Gowain shadowstepped to Cyrrus and hammered him with his enchanted kusarigama, breaking the warlock's concentration. The owl shrank back to normal and fled. Patches rushed the revealed Balthazar, driving her cursed blade through the gnome vampire. His soul was consumed — no mist rose from the corpse.
+Gowain shadowstepped to Cirrus and hammered him with his enchanted kusarigama, breaking the warlock's concentration. The owl shrank back to normal and fled. Patches rushed the revealed Balthazar, driving her cursed blade through the gnome vampire. His soul was consumed — no mist rose from the corpse.
 
 Then the church went up in flames. A dwarven vampire cleric — Kenga — burst through the doors, surveyed the carnage, and began chanting to his dark god, Atropos. Gowain retreated to receive healing.
 

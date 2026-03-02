@@ -5,6 +5,7 @@ chapterTitle: The Bog
 session: 8
 summary: "The freed Nixie turns hostile and mind-controls the boars, the group rests in a celestial crystal grove, then finds JmJm in chains — and the Goblin King descends as a cyclone of crows, summoning waves of goblins and awakening a gnarled tree to battle."
 people:
+  - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
   - "goblin-king"
@@ -16,7 +17,7 @@ places:
   - "the-labyrinth"
 ---
 
-The fairy freed from the crystal was no grateful captive. The Nixie attacked immediately, seizing control of the giant boars' minds and turning them against the group. Buumi grabbed the nearby wagon and shoved it into one boar's path — unwilling to damage its own cart, the creature was forced to charge the long way around and bowled Fëanon off his feet. Cyrrus, thinking fast, banished the Nixie from the plane entirely. The boars were freed.
+The fairy freed from the crystal was no grateful captive. The Nixie attacked immediately, seizing control of the giant boars' minds and turning them against the group. Buumi grabbed the nearby wagon and shoved it into one boar's path — unwilling to damage its own cart, the creature was forced to charge the long way around and bowled Fëanon off his feet. Cirrus, thinking fast, banished the Nixie from the plane entirely. The boars were freed.
 
 ## The Crystal Grove
 
@@ -28,7 +29,7 @@ Pressing deeper into the labyrinth, the group came to a shallow stream running a
 
 A cyclone of crows formed overhead, spiralling toward the tree and merging into a single figure: the Goblin King, perched in the branches and grinning. He would not release JmJm willingly. With a gesture, goblin minions swarmed from every direction.
 
-Buumi, Zhink, and Cyrrus charged straight for JmJm while the rest held the line. They smashed his chains apart, and the moment JmJm was free, a cat sitting on a nearby wall morphed into his harp. He caught it and struck up a tune.
+Buumi, Zhink, and Cirrus charged straight for JmJm while the rest held the line. They smashed his chains apart, and the moment JmJm was free, a cat sitting on a nearby wall morphed into his harp. He caught it and struck up a tune.
 
 ## The Battle Begins
 

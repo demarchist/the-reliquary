@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "anduriel"
   - "argynvost"
+  - "cirrus-al-kayan"
   - "ezmerelda"
   - "feanon-serinde"
   - "ireena"
@@ -50,7 +51,7 @@ Fëanon sat Ireena at the table with Sergei's crystal sword in both hands. He pl
 
 He worked backward through each death and resurrection — dozens of them stretching back more than a millennium. Each time, Rahadin was the killer. Monsters, accidents, blades in the dark — all orchestrated by the chamberlain to prevent Tatyana's soul from ever reaching Strahd. The very first death was the simplest: Rahadin had thrown her from the highest tower of Ravenloft without a word. She died confused, murdered by a man she had considered a dear friend.
 
-Ireena's mind began shutting down under the trauma. Fëanon and Cyrrus worked frantically to insulate her with calming magic and charms. After many minutes, she stabilised — damaged, furious, but herself. She confirmed Rahadin as her murderer across the centuries.
+Ireena's mind began shutting down under the trauma. Fëanon and Cirrus worked frantically to insulate her with calming magic and charms. After many minutes, she stabilised — damaged, furious, but herself. She confirmed Rahadin as her murderer across the centuries.
 
 ## Krezk and the Planetar
 
@@ -72,9 +73,9 @@ He relented. He presented his chest and told Tark to impale him.
 
 Tark drove the blade through the angel and glowing cracks spread across Anduriel's form as his essence began flowing into the sword. Energy and wind buffeted them both. The process was agonisingly slow.
 
-The Wild Hunt attacked. Waves of mounted skeletons and vampire warriors descended, backed by two vampire champions and Peytr in his bat form. Fëanon split the cavalry charge with a summoned cloudkill. Patches hurled holy-water-rigged flashbombs that disintegrated spectral steeds and sent vampires crashing to the ground. Cyrrus laid down sickening radiance.
+The Wild Hunt attacked. Waves of mounted skeletons and vampire warriors descended, backed by two vampire champions and Peytr in his bat form. Fëanon split the cavalry charge with a summoned cloudkill. Patches hurled holy-water-rigged flashbombs that disintegrated spectral steeds and sent vampires crashing to the ground. Cirrus laid down sickening radiance.
 
-The second wave charged around the barriers. More flashbombs from Patches, more fireballs from Fëanon. One vampire champion was dazed by a hypnotic pattern. Peytr hurled his axe into Fëanon, dropping the elf, then archers finished the job with a volley — but Cyrrus healed him back to consciousness with celestial magic.
+The second wave charged around the barriers. More flashbombs from Patches, more fireballs from Fëanon. One vampire champion was dazed by a hypnotic pattern. Peytr hurled his axe into Fëanon, dropping the elf, then archers finished the job with a volley — but Cirrus healed him back to consciousness with celestial magic.
 
 More waves came. Patches ducked under charging horses, slew mounts, and stabbed riders from behind. Fëanon cast blur and used the flesh golem as cover.
 
@@ -84,7 +85,7 @@ The beacon of Argynvostholt streaked across the valley and poured into the sword
 
 Tark swung the blazing greatsword and charged Peytr. Every vampire flinched from the approaching radiance, their flesh bubbling. Tark slashed the barbarian and shadowstepped to a wounded vampire nearby, cutting it in half. The vampire detonated in a flash of sunlight — which ignited the next undead, which ignited the next.
 
-A chain reaction of sunbursts ripped through the charging army and up into the night sky. Hundreds of undead were destroyed in seconds. Peytr was knocked from bat form by the cascading detonations. The surviving champion writhed under blistering skin until Cyrrus put him down. Tark heard a voice in his mind: *"Leave nothing but ash in your wake."*
+A chain reaction of sunbursts ripped through the charging army and up into the night sky. Hundreds of undead were destroyed in seconds. Peytr was knocked from bat form by the cascading detonations. The surviving champion writhed under blistering skin until Cirrus put him down. Tark heard a voice in his mind: *"Leave nothing but ash in your wake."*
 
 Patches rushed Peytr, trading blows with the huge barbarian while Tark shadowstepped using the harsh shadows cast by the Ashbringer's own radiance. A final strike sent Peytr detonating in a sunburst that rippled outward, destroying every remaining undead in range.
 

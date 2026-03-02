@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "baroness-elsa"
   - "cercei"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "georg-von-strapp"
   - "horatio-von-bumidere"
@@ -48,7 +49,7 @@ Cercei, who had been examining the piano with intense interest, looked at Maria,
 
 Over dinner, Georg spoke about what had been troubling him.
 
-Amnian influence in Silverymoon had been growing for months. A merchant lord named [[Rama Al Kayan]] — a distant relation of Cyrrus's family, the group noted with discomfort — had established a trade mission in the city and was funding infrastructure projects throughout the region. Roads, bridges, granaries. Generous terms. No obvious strings.
+Amnian influence in Silverymoon had been growing for months. A merchant lord named [[Rama Al Kayan]] — a distant relation of Cirrus's family, the group noted with discomfort — had established a trade mission in the city and was funding infrastructure projects throughout the region. Roads, bridges, granaries. Generous terms. No obvious strings.
 
 "Except for the flags," Georg said.
 
@@ -64,7 +65,7 @@ Georg shook his head. "He calls them merchants. Trade guards. Infrastructure wor
 
 A week later, Georg hosted a gathering at the villa — old friends, fellow officers, and members of Silverymoon's civic establishment. The house was transformed with candles, greenery and music. Georg's oldest daughter played the violin while Maria sang — a clear, unaffected alto that silenced the room. Buumi sat in the corner watching his brother-in-law's face as Georg listened to Maria's voice, and saw something he recognised.
 
-Cyrrus, never one to miss a social opportunity, charmed a cluster of Silverymoon merchants with tales of the group's exploits — heavily embellished and starring himself. Tark found a quiet corner and was approached by an old soldier who recognised a fighter's hands and spent the evening exchanging stories. Patches circulated the room, collecting information with the ease of someone who could be anyone.
+Cirrus, never one to miss a social opportunity, charmed a cluster of Silverymoon merchants with tales of the group's exploits — heavily embellished and starring himself. Tark found a quiet corner and was approached by an old soldier who recognised a fighter's hands and spent the evening exchanging stories. Patches circulated the room, collecting information with the ease of someone who could be anyone.
 
 The evening took a sharp turn when [[Rama Al Kayan]] arrived uninvited.
 
@@ -94,7 +95,7 @@ After two weeks, Maria came back. She arrived at the front door in the rain, her
 
 Elsa came to the villa that afternoon. She and Georg spoke privately in the study for an hour. When the door opened, both were composed. Elsa kissed Georg on the cheek, nodded to Maria, and left. She did not return.
 
-Georg and Maria married quietly, with Buumi as witness and the seven children filling the front pew of a small chapel near the villa. Cyrrus officiated — claiming dubious but enthusiastic authority — and even Fëanon attended, sitting in the back row with his arms crossed and the faintest suggestion of a smile.
+Georg and Maria married quietly, with Buumi as witness and the seven children filling the front pew of a small chapel near the villa. Cirrus officiated — claiming dubious but enthusiastic authority — and even Fëanon attended, sitting in the back row with his arms crossed and the faintest suggestion of a smile.
 
 ## The Message
 
@@ -110,15 +111,15 @@ Georg set the letter on the table and looked at Buumi. "Now will you help me lea
 
 ## The Assassination
 
-The group had been watching Rama Al Kayan for weeks. Cyrrus, who understood Amnian politics better than anyone, had identified the merchant lord as the linchpin of the operation in Silverymoon — remove him and the infrastructure of influence would take months to rebuild.
+The group had been watching Rama Al Kayan for weeks. Cirrus, who understood Amnian politics better than anyone, had identified the merchant lord as the linchpin of the operation in Silverymoon — remove him and the infrastructure of influence would take months to rebuild.
 
-Patches made the suggestion. Cyrrus considered it. Fëanon said nothing, which was as close to approval as the wizard ever gave.
+Patches made the suggestion. Cirrus considered it. Fëanon said nothing, which was as close to approval as the wizard ever gave.
 
-It happened on a cold evening outside the Amnian trade offices. Rama was leaving a dinner engagement, flanked by his usual guards, when Cyrrus stepped out of a side street and intercepted him. The warlock engaged Rama in conversation — something about trade tariffs — drawing the merchant lord's attention while the guards shifted to cover the obvious threat.
+It happened on a cold evening outside the Amnian trade offices. Rama was leaving a dinner engagement, flanked by his usual guards, when Cirrus stepped out of a side street and intercepted him. The warlock engaged Rama in conversation — something about trade tariffs — drawing the merchant lord's attention while the guards shifted to cover the obvious threat.
 
 Nobody saw Patches. She came from above — a shadow against the roofline — and dropped behind the rearmost guard without a sound. By the time Rama turned at the noise, it was already done. A single precise cut, surgical and silent. The merchant lord's eyes went wide, his hand reaching for a throat that was no longer intact. He collapsed into the snow.
 
-Cyrrus caught the body and lowered it to the ground. Patches vanished. The guards stood frozen for three heartbeats before the first one shouted. By then, Cyrrus was already gone — a bamf of displaced air and he was two streets away, walking calmly through the evening crowds.
+Cirrus caught the body and lowered it to the ground. Patches vanished. The guards stood frozen for three heartbeats before the first one shouted. By then, Cirrus was already gone — a bamf of displaced air and he was two streets away, walking calmly through the evening crowds.
 
 ## Retaliation
 
@@ -142,11 +143,11 @@ At dusk, the family walked to the Market Square. The festival was already in ful
 
 Georg and his children took the stage for their performance. Maria stood with them, the youngest on her hip, and together they played a folk arrangement that drew applause and tears from the crowd. Georg played the guitar while the children sang in harmony — seven voices, from the teenager's clear soprano to the four-year-old's tuneless enthusiasm. Maria's voice carried above them all.
 
-Backstage, Buumi watched the exits. Tark perched on a rooftop overlooking the square. Fëanon sat at a café table near the western gate, ostensibly reading, his fingers resting on his staff beneath the table. Cyrrus mingled with the crowd, ready to create a distraction. Patches was nowhere to be seen, which meant she was everywhere.
+Backstage, Buumi watched the exits. Tark perched on a rooftop overlooking the square. Fëanon sat at a café table near the western gate, ostensibly reading, his fingers resting on his staff beneath the table. Cirrus mingled with the crowd, ready to create a distraction. Patches was nowhere to be seen, which meant she was everywhere.
 
 The performance ended to a standing ovation. Georg bowed, gathered his children, and walked toward the western edge of the square. An Amnian patrol stepped into his path — two soldiers, checking papers.
 
-Cyrrus detonated a series of minor illusions at the eastern end of the square — fireworks, coloured smoke, the sound of a fight. The crowd surged. The patrol turned. Georg and his family slipped between the bodies and through the western gate without breaking stride.
+Cirrus detonated a series of minor illusions at the eastern end of the square — fireworks, coloured smoke, the sound of a fight. The crowd surged. The patrol turned. Georg and his family slipped between the bodies and through the western gate without breaking stride.
 
 At the stables, horses were saddled and waiting. Georg lifted each child onto a horse, mounted the last one himself, and turned to Buumi.
 

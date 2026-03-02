@@ -15,4 +15,4 @@ The cursed weapon required specific gemstones, a full moon, hallowed ground, and
 
 The ritual conjured a Drider bearing Patches' face — a manifestation of her greatest fear — that spawned swarming spiders with every wound it took. Only after Patches drove a blade through the doppelgänger's heart did the manifestation crumble. The Reaver's remains melted into liquid mercury atop the altar and reformed as Eclipse, Patches' new weapon and bond to Eilistraee.
 
-A final drop of mercury struck the altar and burst into blue flame. Cyrrus cast the remains of his tooth fairy collection into the fire, which lanced into his eyes and burned them away — leaving him blind, his eyes replaced with chrome orbs that would later grant him sight in starlight.
+A final drop of mercury struck the altar and burst into blue flame. Cirrus cast the remains of his tooth fairy collection into the fire, which lanced into his eyes and burned them away — leaving him blind, his eyes replaced with chrome orbs that would later grant him sight in starlight.

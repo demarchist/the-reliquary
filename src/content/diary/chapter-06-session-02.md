@@ -7,6 +7,7 @@ summary: "The group enters Sundabar's rebuilt Undercity as guests of a grateful 
 people:
   - "aliyah-faen-tlabbar"
   - "cercei"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gebbin-steeltoe"
   - "gundren-rockseeker"
@@ -29,7 +30,7 @@ factions:
 
 The Dwarven patrol pushed forward to greet their saviours, taking in the sight of the group as the adrenaline of battle faded. Gundren immediately drew the majority of his kinsmen, who crowded around to ogle his equipment. Gebbin Steeltoe, the patrol captain, fell into easy conversation with his fellow dwarf, naturally assuming him to be the party's leader. The wagon arrived at the bridge shortly after — Cercei and the Rockseeker brothers in tow — with Patches trotting up astride Kitty and Mr. Pickles pulling his cowl low, trying to look inconspicuous behind her.
 
-Cyrrus tended to the newly revived dwarves, bringing both back to consciousness with blessings from Selûne. Buumi rose wearily from his own efforts and stumbled over to Aurora, hauling himself into the saddle. Gebbin turned to one of his officers and had the all-clear sounded on the patrol horn, then ordered his troops to prepare an escort. They would take the group into the city and treat them to a feast at the Hopping Hair, the military tavern in the Undercity. Before departing, the dwarves butchered the dead hill giant with practised efficiency — Gebbin proclaimed that nothing tasted better, as it was essentially a sixteen-hundred-pound pig. The patrol finally managed to settle their excitement over inspecting their heroic saviours, and the column turned to cross the bridge into Sundabar.
+Cirrus tended to the newly revived dwarves, bringing both back to consciousness with blessings from Selûne. Buumi rose wearily from his own efforts and stumbled over to Aurora, hauling himself into the saddle. Gebbin turned to one of his officers and had the all-clear sounded on the patrol horn, then ordered his troops to prepare an escort. They would take the group into the city and treat them to a feast at the Hopping Hair, the military tavern in the Undercity. Before departing, the dwarves butchered the dead hill giant with practised efficiency — Gebbin proclaimed that nothing tasted better, as it was essentially a sixteen-hundred-pound pig. The patrol finally managed to settle their excitement over inspecting their heroic saviours, and the column turned to cross the bridge into Sundabar.
 
 ## The Walls of Sundabar
 
@@ -57,7 +58,7 @@ Inside, fifty rambunctious dwarves were already deep into their cups. The common
 
 Tark and Cercei ate ravenously. Patches ate her fill quickly and retired to a back table where a handful of seedier-looking dwarves were smoking opium from a hookah, joining them for a time. Everything was happy and calm — until Tark noticed a fighting ring in the back and stumbled into it, half-drunk.
 
-A cheer went up. A dwarf lumbered out to challenge him and the two exchanged a flurry of blows, both taking wicked hits, but Tark grabbed the dwarf by his beard, hoisted him off the ground and slammed him back down, knocking him out cold. The tavern erupted. Coin changed hands and the betting pool was on. Buumi headed over to check on his friend and found himself in the ring opposite the halfling. Cheers went up and Buumi shrugged, smiling, and they began their bout. Buumi hit like a truck, but Tark struck four times for every swing — with one hand tied behind his back to even things out. Seeing things turning against the monk, Cyrrus and Fëanon conspired: the warlock cast a spell to muddle Buumi's mind, having bet on Tark to win. After a final exchange, Tark remained standing and Buumi was laid flat, though it was desperately close. The monk retired from the ring to thunderous applause and hauled his friend up for more ale.
+A cheer went up. A dwarf lumbered out to challenge him and the two exchanged a flurry of blows, both taking wicked hits, but Tark grabbed the dwarf by his beard, hoisted him off the ground and slammed him back down, knocking him out cold. The tavern erupted. Coin changed hands and the betting pool was on. Buumi headed over to check on his friend and found himself in the ring opposite the halfling. Cheers went up and Buumi shrugged, smiling, and they began their bout. Buumi hit like a truck, but Tark struck four times for every swing — with one hand tied behind his back to even things out. Seeing things turning against the monk, Cirrus and Fëanon conspired: the warlock cast a spell to muddle Buumi's mind, having bet on Tark to win. After a final exchange, Tark remained standing and Buumi was laid flat, though it was desperately close. The monk retired from the ring to thunderous applause and hauled his friend up for more ale.
 
 ## The Sloppy Sahuagin
 
@@ -69,7 +70,7 @@ Abalaba sold Patches her Source Stones, mentioning that many were enjoying the p
 
 ## Ravenloft's Bounty
 
-Patches returned to the Undercity and found the group deep in conversation with a cluster of Dwarven craftsmen who had heard that a powerful band of adventurers had entered the city and come to trade. Cyrrus negotiated with the lot, whittling down the competition until four dwarves remained, each paying several hundred gold for the privilege of perusing the group's wares the following day.
+Patches returned to the Undercity and found the group deep in conversation with a cluster of Dwarven craftsmen who had heard that a powerful band of adventurers had entered the city and come to trade. Cirrus negotiated with the lot, whittling down the competition until four dwarves remained, each paying several hundred gold for the privilege of perusing the group's wares the following day.
 
 The group retired for the evening, renting rooms in the Hopping Hair. Everyone slept soundly save for Buumi, who woke in the middle of the night drenched in sweat from nightmares of Barovia and found no more rest.
 
@@ -77,4 +78,4 @@ The next morning, Patches rose early and made her way to the Everfire — the he
 
 Patches found an industrious forge and showed the smith her revolver, asking for bullets. The dwarf was astounded at the mechanical device and offered to make the ammunition for free in exchange for a schematic. Patches obliged, and the forgemaster implored her not to show the weapon to anyone else. She tested the new bullets, creating an almighty ruckus, but between the forgemaster's word and her own persuasive skills the guards were convinced it was merely an experiment.
 
-Returning to the tavern, Patches found the common room transformed into a marketplace. Dwarven craftsmen filed out laden with goods while Cyrrus sat behind a large ledger, tracking inventory and gold. The excess treasure hauled from Ravenloft was finding eager buyers. Up in their rooms, the group looked upon their piles of newfound wealth and the possibilities it represented.
+Returning to the tavern, Patches found the common room transformed into a marketplace. Dwarven craftsmen filed out laden with goods while Cirrus sat behind a large ledger, tracking inventory and gold. The excess treasure hauled from Ravenloft was finding eager buyers. Up in their rooms, the group looked upon their piles of newfound wealth and the possibilities it represented.

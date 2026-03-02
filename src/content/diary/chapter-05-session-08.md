@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "atropos"
   - "boris"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "ireena"
@@ -88,7 +89,7 @@ The group awoke and compared notes. Whoever these two were, they had expected Ka
 
 The group had overslept. It was already mid-morning, and Urwen's wife informed them that everyone was in the town centre for the Festival of the Blazing Sun. They told Chekhov and Mr. Pickles to stay behind and rushed to the square.
 
-A large crowd had gathered before the stage. Atop it stood a wicker effigy of a sun with empty shackles on its front, ready for a prisoner. Vargas was attempting to rouse the crowd in the damp rain. The group moved fast. Cyrrus ignited the effigy prematurely with a cantrip. Buumi pushed through the crowd toward the stage. Tark teleported directly beside Vargas, startling him. Fëanon prepared a charm spell. Cyrrus created an illusion of a pair of buttocks where the Burgomaster's face should be, complete with prestidigitated flatulence whenever the man spoke.
+A large crowd had gathered before the stage. Atop it stood a wicker effigy of a sun with empty shackles on its front, ready for a prisoner. Vargas was attempting to rouse the crowd in the damp rain. The group moved fast. Cirrus ignited the effigy prematurely with a cantrip. Buumi pushed through the crowd toward the stage. Tark teleported directly beside Vargas, startling him. Fëanon prepared a charm spell. Cirrus created an illusion of a pair of buttocks where the Burgomaster's face should be, complete with prestidigitated flatulence whenever the man spoke.
 
 The crowd dissolved into giggles. Vargas, losing his audience, drew his rapier and threatened Tark. His personal guard closed in. Then a full laugh broke from the crowd and everything went silent. Vargas pulled out a hand mirror, saw the illusion, and dismissed it with his family signet ring. Furious and humiliated, he pointed at the man who had laughed — Boris, the guard captain — and ordered him dragged onto the stage.
 
@@ -96,13 +97,13 @@ Fëanon released his charm. Vargas became suddenly amicable toward the group, bu
 
 ## The Fall of Vargas
 
-The group followed. Two guards at the manor doors took one look at Cyrrus — who had transformed himself into the image of a fiery demon — Buumi radiating holy light, and Fëanon whispering doubt into their minds, and fled. The group smashed down the front door.
+The group followed. Two guards at the manor doors took one look at Cirrus — who had transformed himself into the image of a fiery demon — Buumi radiating holy light, and Fëanon whispering doubt into their minds, and fled. The group smashed down the front door.
 
 Patches went around back and scaled to the second floor, entering through the bathroom where she found the Baroness Lydia. She talked the woman into fleeing and lowered her safely to the ground with her spider bracers. Then she circled to the library hallway and set a satchel charge and two traps.
 
-The group came up the main stairs. Tark sprinted ahead and drew two musket shots — one going wide, one deflected by the monk's ki-infused hands. Cyrrus rounded the corner in his fiery disguise while Fëanon unleashed a hypnotic blast that dropped every guard but one. Tark and Cyrrus dispatched the last the old-fashioned way.
+The group came up the main stairs. Tark sprinted ahead and drew two musket shots — one going wide, one deflected by the monk's ki-infused hands. Cirrus rounded the corner in his fiery disguise while Fëanon unleashed a hypnotic blast that dropped every guard but one. Tark and Cirrus dispatched the last the old-fashioned way.
 
-Vargas had barricaded himself in the library with twelve loaded flintlocks. Cyrrus blasted through the wall with eldritch energy. Buumi kicked in the door. Patches detonated the satchel charge behind the Baron. The triple breach sent Vargas and his arsenal flying. He managed one shot into Buumi before a spell paralysed him from the neck down. Patches stepped up behind the helpless man and drove her blade into his back, preparing to finish it — but the group called her off, satisfied the threat was ended.
+Vargas had barricaded himself in the library with twelve loaded flintlocks. Cirrus blasted through the wall with eldritch energy. Buumi kicked in the door. Patches detonated the satchel charge behind the Baron. The triple breach sent Vargas and his arsenal flying. He managed one shot into Buumi before a spell paralysed him from the neck down. Patches stepped up behind the helpless man and drove her blade into his back, preparing to finish it — but the group called her off, satisfied the threat was ended.
 
 They dragged Vargas out the front door to a crowd already gathered in the street. A few voices called for a lynching, quickly silenced by the group. The crowd agreed on exile. Vargas was hauled to the east gate and thrown into the mud, the gate slamming behind him.
 
@@ -112,6 +113,6 @@ Eager to leave the politics behind, the group returned to the inn for their moun
 
 They rode west out of Vallaki, past the path to the Vistani camp, through the Svalich woods, and arrived at Argynvostholt by midday. The fortified manor was enormous — four storeys, each twenty feet high, its east side heavily damaged and partially collapsed. A magnificent silver-plated dragon statue stood before the entrance.
 
-Tark felt drawn to the statue. He stood beneath it, focusing on Ysera's scale, and felt the urge to dig. The rest of the group watched in confusion as their friend began clawing at the earth until Cyrrus shaped the ground away, instantly excavating an old wooden chest. Inside lay an ornate platinum amulet shaped like a stylised sun, a huge ruby set into its face. The holy power radiating from it was unmistakable.
+Tark felt drawn to the statue. He stood beneath it, focusing on Ysera's scale, and felt the urge to dig. The rest of the group watched in confusion as their friend began clawing at the earth until Cirrus shaped the ground away, instantly excavating an old wooden chest. Inside lay an ornate platinum amulet shaped like a stylised sun, a huge ruby set into its face. The holy power radiating from it was unmistakable.
 
 Recalling the words of Madame Eva, the group realised they had found one of the artifacts they needed to escape Barovia — the Holy Symbol of Ravenkind.

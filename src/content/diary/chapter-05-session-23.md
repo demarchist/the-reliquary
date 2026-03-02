@@ -37,7 +37,7 @@ He saw Patches crouched behind furniture, hiding from the red dragon. The future
 
 Gundren loaded a special shell, took aim at the red dragon, and adjusted at the last instant — hitting it squarely in the eye. The beast staggered, molten lava dribbling from its snout. Fëanon summoned a massive disembodied tentacle in Rahadin's path. The Dusk Elf leapt and somersaulted over it, drawing his bejewelled scimitar — greenish poison glistening on the blade. He slashed the construct and hurled two daggers, hitting Urwen in the gut through a seam in his armour and catching Waldo in the neck.
 
-Buumi blessed himself, Fëanon, and JmJm. The bard flourished his cutlass and cast greater invisibility on Tark, who vanished. Cyrrus paralysed the red dragon with a comet of crackling energy. Invisible, Tark leapt onto its head. No one could see the monk's strikes, but they heard the resounding cracks as Bahamut's staff shattered scales and split a horn. Tark landed, drank a potion of growth, and the animated bookcase waddled past the now-giant invisible monk to crush the stunned dragon beneath its shelves. Gwen followed with a flurry of magic missiles from her tail.
+Buumi blessed himself, Fëanon, and JmJm. The bard flourished his cutlass and cast greater invisibility on Tark, who vanished. Cirrus paralysed the red dragon with a comet of crackling energy. Invisible, Tark leapt onto its head. No one could see the monk's strikes, but they heard the resounding cracks as Bahamut's staff shattered scales and split a horn. Tark landed, drank a potion of growth, and the animated bookcase waddled past the now-giant invisible monk to crush the stunned dragon beneath its shelves. Gwen followed with a flurry of magic missiles from her tail.
 
 ## The Darkness
 
@@ -55,9 +55,9 @@ Lady Wachter marched through the front doors with her skeleton warriors, silhoue
 
 Fëanon pointed at the castle's main doors and a streak of fire tore through the approaching skeletons, his fireball reducing them to ash and reddening Lady Wachter's skin. She screamed in rage and sent another wave of skeletons along with a cloudkill that enveloped JmJm.
 
-The bard stumbled backward out of the gas, coughing, saw the white dragon facing away, and attacked — drawing bloody lines in its flank as his inkblade created a cloud of obscuring ash. Tark shadowstepped in, cracking scales. Buumi drank a potion of growth, grabbed one of the dragon's horns with his remaining hand, and twisted its head painfully to the side. Cyrrus's owl swooped down from the staircase and was polymorphed mid-flight into a Tyrannosaurus Rex that cracked the marble floor on impact and bit at the restrained dragon. Gwen leapt at its hind legs. Fëanon hurled fire. Surrounded and frenzied, the white dragon threw Buumi off and fled into a side hallway, hovering to catch its breath.
+The bard stumbled backward out of the gas, coughing, saw the white dragon facing away, and attacked — drawing bloody lines in its flank as his inkblade created a cloud of obscuring ash. Tark shadowstepped in, cracking scales. Buumi drank a potion of growth, grabbed one of the dragon's horns with his remaining hand, and twisted its head painfully to the side. Cirrus's owl swooped down from the staircase and was polymorphed mid-flight into a Tyrannosaurus Rex that cracked the marble floor on impact and bit at the restrained dragon. Gwen leapt at its hind legs. Fëanon hurled fire. Surrounded and frenzied, the white dragon threw Buumi off and fled into a side hallway, hovering to catch its breath.
 
-The T-Rex leapt at Rahadin and tried to snatch him up. The Dusk Elf danced aside, slashed its jaw, and misty-stepped away. Recognising the spell's weakness, he hurled a dagger at Cyrrus — the hit broke concentration and the T-Rex reverted to an owl in a tumble of limbs. A second dagger killed the owl in a puff of feathers.
+The T-Rex leapt at Rahadin and tried to snatch him up. The Dusk Elf danced aside, slashed its jaw, and misty-stepped away. Recognising the spell's weakness, he hurled a dagger at Cirrus — the hit broke concentration and the T-Rex reverted to an owl in a tumble of limbs. A second dagger killed the owl in a puff of feathers.
 
 ## The Chapel Doors
 
@@ -65,7 +65,7 @@ Patches grew impatient. She lined up a heavy crossbow bolt at the warping hinges
 
 Lady Wachter summoned a Bigby construct of her own. The skeletal warriors closed on JmJm, who parried masterfully. Buumi, still gigantic, unsheathed Ashbringer and slammed it down on a skeleton — the sunburst burned the others away. Gwen pounced on a zombie ogre and began shredding it.
 
-On the stairs, Cyrrus froze the front ranks of soulless with howling cold from his staff. Gundren lobbed alchemist's fire into the grease-coated crowd behind them. Across the hall, Tark shadowstepped above the hovering white dragon and knocked it from the air. Vampires rushed from a nearby tower and one grappled the invisible monk, biting into his neck. Tark shadowstepped free and chased the fleeing dragon, landing on its head and killing it with a final staff blow, riding the corpse to the ground.
+On the stairs, Cirrus froze the front ranks of soulless with howling cold from his staff. Gundren lobbed alchemist's fire into the grease-coated crowd behind them. Across the hall, Tark shadowstepped above the hovering white dragon and knocked it from the air. Vampires rushed from a nearby tower and one grappled the invisible monk, biting into his neck. Tark shadowstepped free and chased the fleeing dragon, landing on its head and killing it with a final staff blow, riding the corpse to the ground.
 
 Cirrus dispelled Lady Wachter's hand construct in a wave of chaotic energy. The necromancer began frothing at the mouth, screaming as every spell failed and her minions crumbled.
 

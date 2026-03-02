@@ -6,6 +6,7 @@ session: 13
 summary: "The group discovers arcane bombs planted in the city wall, Patches infiltrates the Palace to interrogate the traitorous Master of Coin, and at dawn a thousand-strong Amnian army marches through the gates — sparking a desperate battle in the Plaza of the Watchers that ends only when the High Marshal and the Mythal Golems arrive."
 people:
   - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "high-marshal-arasume"
@@ -37,7 +38,7 @@ factions:
 
 ## The Western Wall
 
-The group left the House Invincible and headed into the cold winter night. By quarter to eleven, the festival crowds had thinned to couples and young adults lingering in the streets. Cyrrus sent his owl overhead while Patches scaled a nearby rooftop to shadow the party from above.
+The group left the House Invincible and headed into the cold winter night. By quarter to eleven, the festival crowds had thinned to couples and young adults lingering in the streets. Cirrus sent his owl overhead while Patches scaled a nearby rooftop to shadow the party from above.
 
 On the way, several of them noticed a Spellguard officer walking briskly ahead. Patches spotted a cloaked figure shadowing the man from a rooftop and began tailing the tail. Below, Tark introduced himself to the officer — a reluctant man named Bendleberg, delivering orders to the western gate. Against his wishes, the group fell into step beside him.
 
@@ -45,7 +46,7 @@ At the construction site near midnight, Bendleberg veered off toward the Ironarm
 
 The Ironarms grew impatient and had Tark escorted off the premises. Patches trailed at a distance, reading the stolen correspondence. All orders were being distributed to Ironarm groups and originated from Von Issinger at the Silverymoon Palace. She also found references to College wardstones still being in place and being sought by agents named Elias and Octavio. On the way out, she and Tark disarmed Tark's escort and threw his sword nearby, which Patches then took.
 
-Meanwhile, Cyrrus used thaumaturgy and prestidigitation to create confusion among the guards — until an attached mage dispelled the cantrips and called him out. Fëanon and Cyrrus tag-teamed the poor wizard, browbeating him and the guards into bewilderment long enough for Gundren to finish inspecting the wall and make a discovery.
+Meanwhile, Cirrus used thaumaturgy and prestidigitation to create confusion among the guards — until an attached mage dispelled the cantrips and called him out. Fëanon and Cirrus tag-teamed the poor wizard, browbeating him and the guards into bewilderment long enough for Gundren to finish inspecting the wall and make a discovery.
 
 Atop the wall, spaced every six metres, were iron octagonal rods covered in runes. The group determined them to be arcane bombs — kinetic batteries with an unknown activation method. They removed every one they could find and hurled them over the wall into the empty snowfield. The Ironarms were aghast. Knights in Silver stationed at the nearby city gate came to investigate.
 
@@ -69,7 +70,7 @@ Patches left via the front door — one more shady figure coming and going — a
 
 The group woke in the pre-dawn light, checked their gear, ate breakfast and headed into the cold winter morning. Thelm had already left for a council meeting with the Amnian leaders. They made for the western wall.
 
-The gate was well guarded — Knights in Silver and Spellguard milling about — but standing wide open. Patches and Buumi lifted a manhole cover and the rogue dropped into the sewers. Meanwhile, Fëanon, Gundren and Cyrrus tried to convince the guards to close the gate. The guards seemed oddly unperturbed.
+The gate was well guarded — Knights in Silver and Spellguard milling about — but standing wide open. Patches and Buumi lifted a manhole cover and the rogue dropped into the sewers. Meanwhile, Fëanon, Gundren and Cirrus tried to convince the guards to close the gate. The guards seemed oddly unperturbed.
 
 Tark shadowstepped to the top of the gate and looked out over the snowy plains. A column of soldiers and wagons approached — at least a thousand strong. At their head rode General Omar and a robed figure. The soldiers were fabulously equipped in ornate scale mail and furs, carrying shields, spears, swords and shortbows. For every ten soldiers, an eleventh wore the garb of a warrior-priest, holding a staff topped with an octagonal iron head. Mages marched among the ranks.
 
@@ -77,19 +78,19 @@ Tark leapt down on the outside of the wall. The nearby Ironarm mercenaries moved
 
 In the sewers, Patches found nothing save a few dead giant spiders. She set a satchel charge on a tripwire as insurance and returned to the surface just as the Amnians approached the main gate.
 
-Cyrrus threw up a Wall of Force across the gate opening. The robed figure at the head of the column called a halt, pointed at the invisible barrier and hissed out a spell. A lance of ruby energy shattered the wall. Troops began entering the city. Patches pulled out her Deck of Illusions and spun a card into the oncoming soldiers. A hill giant appeared, roaring. The invading force broke into defensive formations, creating a ruckus that drew panicking civilians who spread the alarm through the city.
+Cirrus threw up a Wall of Force across the gate opening. The robed figure at the head of the column called a halt, pointed at the invisible barrier and hissed out a spell. A lance of ruby energy shattered the wall. Troops began entering the city. Patches pulled out her Deck of Illusions and spun a card into the oncoming soldiers. A hill giant appeared, roaring. The invading force broke into defensive formations, creating a ruckus that drew panicking civilians who spread the alarm through the city.
 
 ## The March
 
 The Amnian mages destroyed the illusion and the army resumed its march toward the Merchant Quarter and the House Invincible. The group did not sit idle during the distraction.
 
-Patches rode Kitty with Mr. Pickles toward the merchant quarter to find Tibbets and get the word out. Fëanon and Cyrrus summoned spectral steeds and raced to the Palace to inform the Senior Council. Buumi and Tark took Aurora to the Amnian Embassy to find Cyrrus's brother S'Olaa. Gundren and Gwen tailed the Amnian column through the Elven Quarter.
+Patches rode Kitty with Mr. Pickles toward the merchant quarter to find Tibbets and get the word out. Fëanon and Cirrus summoned spectral steeds and raced to the Palace to inform the Senior Council. Buumi and Tark took Aurora to the Amnian Embassy to find Cirrus's brother S'Olaa. Gundren and Gwen tailed the Amnian column through the Elven Quarter.
 
 Growing tired of tiptoeing, Gundren gave instructions to Gwen and ducked into an alley. The mechanical lion charged past the Amnian rear and aimed her lightning blast down the length of a column — only for a counterspell to snuff the bolt. Gwen leapt to a rooftop under a hail of arrows, taking several hits but escaping to rejoin Gundren. They both headed for the Plaza of the Watchers.
 
 At the embassy, Tark shadowstepped into the building using the last shadows of dawn. He found nothing in the office, punched through a wall and startled a maid, who told him S'Olaa had left for the Palace with his master. He escaped through a window and rejoined Buumi.
 
-At the Palace, Fëanon and Cyrrus were stopped at the council chamber doors — a closed session was in progress and the doors required a 'Mythal Key' to open. The ground shook with muffled explosions from within. The guards could not open the doors. A thought from Theodemir's spirit reminded Fëanon of the Archmage brooch Patches had recovered from the bone pile beneath the Illithid hive. He held the silvery emblem up and unlocked the wards — but a Wall of Force still blocked the doors from the other side. The nearest alternative access to the city defences was the Plaza of the Watchers. They rushed there with half the guard.
+At the Palace, Fëanon and Cirrus were stopped at the council chamber doors — a closed session was in progress and the doors required a 'Mythal Key' to open. The ground shook with muffled explosions from within. The guards could not open the doors. A thought from Theodemir's spirit reminded Fëanon of the Archmage brooch Patches had recovered from the bone pile beneath the Illithid hive. He held the silvery emblem up and unlocked the wards — but a Wall of Force still blocked the doors from the other side. The nearest alternative access to the city defences was the Plaza of the Watchers. They rushed there with half the guard.
 
 As he left, Fëanon received a message from Megno: the Dwarven delegation had arrived early — forty dwarves, half in session with the Council and Amnians, the rest already at the Plaza. He warned Megno of the impending attack, but the enchanter and his people were already caught in the crowd.
 
@@ -107,7 +108,7 @@ The Amnians took up defensive positions across from the gathered civilians. Pala
 
 Fëanon rushed forward, conjuring a heavy fog around the Golem to give the group cover. An Amnian strike team charged to secure it — four plate-clad veterans led by a huge warrior with a lightning-crackling halberd and a gap-toothed grin, backed by a scowling Half-Orc war-priest, a navy-robed mage with a flesh golem, and an unarmoured blonde monk who sprinted ahead of them all.
 
-Cyrrus and Gundren opened fire from the steps of the House Invincible, forcing the mage onto the defensive. Buumi, Patches, Mr. Pickles and Gwen intercepted the monk, the golem and two veterans. Fëanon activated the Mythal using the Archmage brooch and began retreating toward the steps, launching a fireball into the Amnian champions. An assassin slipped from the crowd and struck him — then vanished. Fëanon staggered but held, and when the assassin emerged again he was ready with a shield spell that sent sparks flying.
+Cirrus and Gundren opened fire from the steps of the House Invincible, forcing the mage onto the defensive. Buumi, Patches, Mr. Pickles and Gwen intercepted the monk, the golem and two veterans. Fëanon activated the Mythal using the Archmage brooch and began retreating toward the steps, launching a fireball into the Amnian champions. An assassin slipped from the crowd and struck him — then vanished. Fëanon staggered but held, and when the assassin emerged again he was ready with a shield spell that sent sparks flying.
 
 Gundren downed one veteran with his thundercannon, then crushed a ruby from his helmet and summoned a wall of fire to split the Amnian champions from their army. The wall cut the monk and flesh golem off from the mage and war-priest. His triumph was brief — two halfling archers on a wagon peppered him with arrows that dissolved into smoke.
 

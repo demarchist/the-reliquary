@@ -21,7 +21,7 @@ Georg fell in love with Maria, a young cleric of Helm sent from the House Invinc
 
 ## Flight from Silverymoon
 
-When Rama Al Kayan issued a veiled conscription notice demanding Georg join the Amnian Civic Militia, Georg accepted Buumi's help to escape. The group orchestrated an escape during the Midwinter Folk Festival — Georg and his family performing in the ensemble competition before slipping through the western gate under cover of Cyrrus's diversionary illusions. Georg took his family and fled into the countryside.
+When Rama Al Kayan issued a veiled conscription notice demanding Georg join the Amnian Civic Militia, Georg accepted Buumi's help to escape. The group orchestrated an escape during the Midwinter Folk Festival — Georg and his family performing in the ensemble competition before slipping through the western gate under cover of Cirrus's diversionary illusions. Georg took his family and fled into the countryside.
 
 ## Fate
 

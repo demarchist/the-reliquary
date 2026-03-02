@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "argynvost"
   - "atropos"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -39,7 +40,7 @@ factions:
 
 ## The Amber Hall
 
-Cyrrus leaned against the wall, pale and bloodstained, as the group descended into the lower level of the Amber Temple. A vast hall stretched before them, coated in glittering amber, its alcoves lined with alabaster familiar statues. Patches went first, methodically disabling pressure plates along the floor and a trapped door. Tark wandered to the amber-glazed hallway connecting to the main chamber and stared at his reflection — only to realise it was not mimicking his movements. It was screaming at him to flee.
+Cirrus leaned against the wall, pale and bloodstained, as the group descended into the lower level of the Amber Temple. A vast hall stretched before them, coated in glittering amber, its alcoves lined with alabaster familiar statues. Patches went first, methodically disabling pressure plates along the floor and a trapped door. Tark wandered to the amber-glazed hallway connecting to the main chamber and stared at his reflection — only to realise it was not mimicking his movements. It was screaming at him to flee.
 
 The group raided the familiar statues — each one trapped, each trap outsmarted — and stowed them in the bag of holding. The hall branched into ruined bedrooms, an angry poltergeist that threw furniture at them until they retreated, and three amber vault chambers. Two were sealed behind massive slabs. The third stood open. Fëanon sensed four curious minds within and went to investigate.
 
@@ -53,7 +54,7 @@ The group stood in a rough-hewn barrow. A necromancer in the sigil of Zhengyi wo
 
 Another flash. Absolute darkness, then the gleam of obsidian archways, dark gems, and marble statues of elven women. Every surface was carved with spider and web designs, a magnificent onyx statue of Lolth framed by ornate columns. A young Patches — Aliyah — knelt at the feet of a Drow high priestess. More priestesses emerged from the shadows, pulling snake-headed whips from their hips. They beat her. They berated her. The eldest leaned in and whispered: she would join them, or die. The real Patches turned away.
 
-A flash. An opulent human birthing chamber. The midwife looked up in horror — the baby was a grey Tiefling. The nobleman killed the servants, threw the devilspawn at his weeping wife, and demanded she kill it. Flash forward: the child alive, raised as a peasant, his mother secretly supporting him. Flash: an adolescent Cyrrus, grifting on the streets, caught and thrown in jail. His mother visited him — was followed — and her husband had her killed, framing Cyrrus for the murder. He sat cradling her body in his cell, praying to anyone. A great toothy smile erupted in the shadows, larger than anything human, and promised that help had arrived.
+A flash. An opulent human birthing chamber. The midwife looked up in horror — the baby was a grey Tiefling. The nobleman killed the servants, threw the devilspawn at his weeping wife, and demanded she kill it. Flash forward: the child alive, raised as a peasant, his mother secretly supporting him. Flash: an adolescent Cirrus, grifting on the streets, caught and thrown in jail. His mother visited him — was followed — and her husband had her killed, framing Cirrus for the murder. He sat cradling her body in his cell, praying to anyone. A great toothy smile erupted in the shadows, larger than anything human, and promised that help had arrived.
 
 A flash. A magnificent elven city drenched in silver light — white and green marble, soft music, graceful Eladrin. An earthquake shattered it. The sun went dark. Meteors of blue flame streaked across the sky. Elves fell dead by the score. A child — Fëanon — knelt crying as the world collapsed around him. Flash forward: an older Fëanon stepping uncertainly off a boat onto a snowy dock, Baldur's Gate looming behind him. He pulled his hood up to hide his Eladrin features and set his jaw against the cold.
 
@@ -77,15 +78,15 @@ Fëanon was drawn to the amber shards. He placed his hand on one and was offered
 
 An agonised scream echoed down the hall. Kasimir became visible, dark energy coursing over his body, and fell dead — killed by a Finger of Death spell. His corpse lurched up as a zombie and clawed at Tark. Gundren blew its head off with his thundercannon.
 
-Tark took one side of the corridor to the foyer, Buumi the other. Patches climbed to the ceiling. Fëanon used his new scrying power to locate Exethanter — still floating around his dusty chambers. He lured the lich out and negotiated a temporary truce with the Arcanaloth. Exethanter was senile, barely coherent, drifting in and out of lucidity. Fëanon reached for the scroll of Greater Restoration — then saw the streak of grey in Tark's beard and hesitated. Cyrrus snatched the scroll from his hand and cast it on the lich.
+Tark took one side of the corridor to the foyer, Buumi the other. Patches climbed to the ceiling. Fëanon used his new scrying power to locate Exethanter — still floating around his dusty chambers. He lured the lich out and negotiated a temporary truce with the Arcanaloth. Exethanter was senile, barely coherent, drifting in and out of lucidity. Fëanon reached for the scroll of Greater Restoration — then saw the streak of grey in Tark's beard and hesitated. Cirrus snatched the scroll from his hand and cast it on the lich.
 
-Exethanter twitched, then stopped. He turned around with a massive rictus grin, rushed down to Cyrrus, and thanked him profusely for restoring his mind. Stick warned the group not to trust the lich. They didn't — but they accepted his offer of a tour.
+Exethanter twitched, then stopped. He turned around with a massive rictus grin, rushed down to Cirrus, and thanked him profusely for restoring his mind. Stick warned the group not to trust the lich. They didn't — but they accepted his offer of a tour.
 
 ## The Temple's Treasures
 
 Exethanter stood down the defences and showed the group the treasure vault — amber doors melting away at a gesture, golden light flooding the foyer. Piles of gold, gems, and art littered a vast chamber. He offered a single item from the vault, or knowledge from the library, in exchange for accepting gifts from the dark powers imprisoned in the amber.
 
-Cyrrus approached a crystal offered by the lich and saw a fiery titan rising from a world aflame. Remembering the Tooth Fairy and the terror of enslavement, he stumbled back, shaking his head. Exethanter offered consolation and a single item from the vault regardless. Cyrrus found it: a small crescent-moon blue-bladed sickle with a black glass hilt and moonstone pommel. His connection to his patron strengthened the moment he touched it.
+Cirrus approached a crystal offered by the lich and saw a fiery titan rising from a world aflame. Remembering the Tooth Fairy and the terror of enslavement, he stumbled back, shaking his head. Exethanter offered consolation and a single item from the vault regardless. Cirrus found it: a small crescent-moon blue-bladed sickle with a black glass hilt and moonstone pommel. His connection to his patron strengthened the moment he touched it.
 
 Up in the library, Fëanon stood paralysed by indecision before thousands of spellbooks. He found one in Draconic and a magical writing desk materialised. He began transcribing two spells of staggering power: Wish and Power Word: Kill.
 
@@ -99,4 +100,4 @@ The group teleported to the frozen watchtower of Tsolenka Pass and raced down th
 
 They crossed Lake Zarovich by rowboat in the dead of night. Halfway across, they passed a man fishing with a drowned girl as bait. Tark snapped his neck. Buumi revived him under a Zone of Truth — the man confessed to murder. Buumi held him underwater, relented when the group objected, and they left him in a sinking boat. Massive tentacles dragged him under moments later. The group rowed faster.
 
-On the slopes of Mt. Baratok, they fought a Genoskwa — a ten-foot simian monstrosity that turned invisible, counterspelled their magic, and shrugged off gunfire. Only Cyrrus's hypnotic pattern brought it down long enough for the group to surround it, and Buumi's thrown hammer finished the creature. Exhausted, hurt, and running out of time before their appointment with Strahd, they pressed up the mountainside into the snow, led by Stick toward the Archmage of Oerth.
+On the slopes of Mt. Baratok, they fought a Genoskwa — a ten-foot simian monstrosity that turned invisible, counterspelled their magic, and shrugged off gunfire. Only Cirrus's hypnotic pattern brought it down long enough for the group to surround it, and Buumi's thrown hammer finished the creature. Exhausted, hurt, and running out of time before their appointment with Strahd, they pressed up the mountainside into the snow, led by Stick toward the Archmage of Oerth.

@@ -3,10 +3,11 @@ title: Into the Lion's Den
 chapter: 5
 chapterTitle: Barovia
 session: 22
-summary: "The group infiltrates Castle Ravenloft through a bat cavern in the Pillarstone — Patches free-climbing while Cyrrus carries the others as a giant raven through the lightning curtain. After scaling a black pool, navigating giant spiders, and squeezing into the catacombs, they use the teleportation brazier to reach Strahd's study and bring in their full force. Fëanon scries Rahadin standing guard while Strahd channels the Last Word in the chapel."
+summary: "The group infiltrates Castle Ravenloft through a bat cavern in the Pillarstone — Patches free-climbing while Cirrus carries the others as a giant raven through the lightning curtain. After scaling a black pool, navigating giant spiders, and squeezing into the catacombs, they use the teleportation brazier to reach Strahd's study and bring in their full force. Fëanon scries Rahadin standing guard while Strahd channels the Last Word in the chapel."
 people:
   - "aliyah-faen-tlabbar"
   - "argynvost"
+  - "cirrus-al-kayan"
   - "ezmerelda"
   - "feanon-serinde"
   - "gundren-rockseeker"
@@ -39,7 +40,7 @@ factions:
 
 The group split into two teams. Mordenkainen, Stick, JmJm, Buumi, Ireena, Ezmerelda, Waldo the guardsman from Krezk, and the non-combatants would teleport in once the main party had infiltrated the castle — homing on Mordenkainen's sending stone. JmJm stood from his corner, Steven's putrefying corpse at his feet, and declared he wanted in on the final battle. Buumi pointed out that he could not climb the Pillarstone with one arm and agreed to wait with the second team.
 
-Stick teleported the infiltration group — Patches, Cyrrus, Fëanon, Tark, Gundren, Gwen, and six wereravens — to a misty field outside Barovia Village. Stick wished the group luck, especially Patches, whose response to his flirting was immediate and final. With a sigh, the sentient staff teleported back to Mordenkainen.
+Stick teleported the infiltration group — Patches, Cirrus, Fëanon, Tark, Gundren, Gwen, and six wereravens — to a misty field outside Barovia Village. Stick wished the group luck, especially Patches, whose response to his flirting was immediate and final. With a sigh, the sentient staff teleported back to Mordenkainen.
 
 ## The Ruined Village
 
@@ -53,15 +54,15 @@ They crossed deserted farms and entered the Svalich woods. The wereravens scoute
 
 The Pillarstone rose above them. A blistering curtain of lightning and a thousand-foot cliff stood between them and the cavern entrance. Patches studied the pattern of the bolts, timed her moment, and leapt through unscathed. She donned her climbing kit and began her free-climb, quickly finding her rhythm on the mossy, icy stones and ascending at a prodigious rate.
 
-Cyrrus called upon his armour and transformed into a giant raven. Tark hugged the huge bird, then climbed onto its back and wrapped them both in shadow. Gwen went into the bag of holding — the mechanical lion did not need to breathe. Cyrrus picked up Fëanon and Gundren in his talons and dove through the lightning curtain with singed feathers. The wereravens followed, several taking painful hits but recovering. The massive raven circled the Pillarstone under concealment, rising swiftly to the cavern opening.
+Cirrus called upon his armour and transformed into a giant raven. Tark hugged the huge bird, then climbed onto its back and wrapped them both in shadow. Gwen went into the bag of holding — the mechanical lion did not need to breathe. Cirrus picked up Fëanon and Gundren in his talons and dove through the lightning curtain with singed feathers. The wereravens followed, several taking painful hits but recovering. The massive raven circled the Pillarstone under concealment, rising swiftly to the cavern opening.
 
-A massive bat-like creature swooped from the swirling mass above and shrieked — but failed to spot the obscured group as Cyrrus slipped into the guano-covered cavern. He deposited his cargo and looked down for Patches. After many minutes he spotted movement in a flash of light — the Drow, scaling the cliffside with ease. She looked up, saw the giant raven, sagged in her harness, and beckoned. Cyrrus dove. Patches detached her anchor and let herself fall — scooped up gently in his talons.
+A massive bat-like creature swooped from the swirling mass above and shrieked — but failed to spot the obscured group as Cirrus slipped into the guano-covered cavern. He deposited his cargo and looked down for Patches. After many minutes he spotted movement in a flash of light — the Drow, scaling the cliffside with ease. She looked up, saw the giant raven, sagged in her harness, and beckoned. Cirrus dove. Patches detached her anchor and let herself fall — scooped up gently in his talons.
 
 ## The Black Pool
 
 The deepening cavern was claustrophobic and dark. Patches led, the passage intimately familiar to her Underdark instincts. The tunnel ended in a small chamber: a stone chimney rising fifty feet above a still, black pool of fetid water. The place screamed predator.
 
-Tark shadowstepped to the tunnel above and looked down at Patches — who stared back incredulously, holding the rope he was supposed to secure. He shadowstepped back, grabbed it, and realised he had no idea how to use a climbing anchor. Patches sighed, showed him, and sent him back up. The rope was set. Gundren climbed easily. Fëanon slipped — Cyrrus brushed his shoulder with levitation and the weightless wizard hand-walked up without effort. Cyrrus himself slipped next. Patches shot a securing web and Fëanon froze the pool solid in the same instant. The tension bled away and Cyrrus was hauled to the top. Gwen leapt up with ease, her mithril claws finding easy purchase.
+Tark shadowstepped to the tunnel above and looked down at Patches — who stared back incredulously, holding the rope he was supposed to secure. He shadowstepped back, grabbed it, and realised he had no idea how to use a climbing anchor. Patches sighed, showed him, and sent him back up. The rope was set. Gundren climbed easily. Fëanon slipped — Cirrus brushed his shoulder with levitation and the weightless wizard hand-walked up without effort. Cirrus himself slipped next. Patches shot a securing web and Fëanon froze the pool solid in the same instant. The tension bled away and Cirrus was hauled to the top. Gwen leapt up with ease, her mithril claws finding easy purchase.
 
 ## The Catacombs
 
@@ -73,7 +74,7 @@ At the top of the chasm, Patches found a hole in a man-made stone wall — the c
 
 The study was deserted, the hearth burning low. Fëanon contacted Mordenkainen — thirty minutes before the castle left. He cast the sending stone into the centre of the room. A sharp crack echoed and the beautiful oak table was crushed to splinters as everyone from Argynvost's sanctum appeared. Mordenkainen immediately raised a tiny hut for the non-combatants. The children, the mayor of Krezk, and the surviving villager climbed inside. Waldo refused, gripping his weapons — he would rather die on his feet. Chekhov asked Patches if he could fight too, but she told him to stay and protect the others. He and Mr. Pickles joined the children with Kitty and Aurora waiting just outside.
 
-The group took stock: JmJm, Buumi, Cyrrus, Fëanon, Tark, Gundren, Gwen, Ireena, Ezmerelda, Mordenkainen, Stick, Waldo, Urwen, Danica, Herti, Gibra, Derik, and Kurt. Buumi now wielded the Ashbringer, returning Tark to his beloved staff. Ireena looked around the chamber, remembering it from a life long ago. Her gaze settled on her portrait above the fireplace — she recalled sitting for the painter as Tatyana. Her expression turned stony as she drew her sabre.
+The group took stock: JmJm, Buumi, Cirrus, Fëanon, Tark, Gundren, Gwen, Ireena, Ezmerelda, Mordenkainen, Stick, Waldo, Urwen, Danica, Herti, Gibra, Derik, and Kurt. Buumi now wielded the Ashbringer, returning Tark to his beloved staff. Ireena looked around the chamber, remembering it from a life long ago. Her gaze settled on her portrait above the fireplace — she recalled sitting for the painter as Tatyana. Her expression turned stony as she drew her sabre.
 
 ## The Scrying
 

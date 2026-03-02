@@ -6,6 +6,7 @@ session: 1
 summary: "The group arrives at a misty crossroads after defeating Kangaxx, discovers they are trapped in the demiplane of Barovia, and fights through a violent clash between barbarians and pistoliers before reaching the outskirts of the cursed valley."
 people:
   - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
@@ -58,6 +59,6 @@ They returned to the road at speed.
 
 About two miles from the village, the crack of flintlock weapons echoed through the trees. Rounding a bend, they found hulking, hide-clad barbarians and a shaman locked in battle with a squad of mounted Barovian pistoliers, a ghostly winged woman presiding over the carnage from above. Not knowing which side to favour, they charmed and questioned the shaman — the barbarians were here to die in glorious combat, adorning themselves with grisly trophies. JmJm split the battlefield with a massive illusory chasm. Buumi rode in atop Aurora and hurled a javelin at the shaman, only to miss and skewer one of the riders instead. The group entangled, sickened, and blasted both sides in quick succession. In seconds, everyone was dead or dying.
 
-Buumi and Tark looked on in confusion at the pile of corpses, unsure what had just happened. Cyrrus calmly walked to one of the fallen riders and revived him with a touch of lunar light. The man's wounds sealed and he gasped back to life — then drew a knife with crazed eyes and attacked. Patches stepped behind him and put him down. Her cursed dagger fed on his soul, turning him to ash.
+Buumi and Tark looked on in confusion at the pile of corpses, unsure what had just happened. Cirrus calmly walked to one of the fallen riders and revived him with a touch of lunar light. The man's wounds sealed and he gasped back to life — then drew a knife with crazed eyes and attacked. Patches stepped behind him and put him down. Her cursed dagger fed on his soul, turning him to ash.
 
 The group stood among the remains of the ill-fated battle, scavenging what they could: two working flintlocks, a fine sabre, halfplate, hide armour, and assorted weapons. The valley of Barovia had greeted them with blood. Somehow, none of them were surprised.

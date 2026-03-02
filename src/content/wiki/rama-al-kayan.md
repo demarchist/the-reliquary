@@ -13,4 +13,4 @@ Rama Al Kayan was an Amnian merchant lord and a distant relation of the Al Kayan
 
 Rama funded infrastructure projects throughout the region — roads, bridges, granaries — on generous terms, while requiring Amnian flags to be flown on public buildings and private estates as a condition of investment. He confronted Georg von Strapp at a social gathering over the absence of Amnian flags on the captain's estate, and later issued a veiled conscription notice demanding Georg join the Amnian Civic Militia.
 
-Rama was assassinated by Patches outside the Amnian trade offices, with Cyrrus providing the distraction. His death triggered a retaliatory crackdown by his second-in-command Hafeez, but the removal of the merchant lord disrupted the Amnian infrastructure of influence in Silverymoon for months.
+Rama was assassinated by Patches outside the Amnian trade offices, with Cirrus providing the distraction. His death triggered a retaliatory crackdown by his second-in-command Hafeez, but the removal of the merchant lord disrupted the Amnian infrastructure of influence in Silverymoon for months.

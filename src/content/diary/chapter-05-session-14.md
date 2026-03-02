@@ -9,6 +9,7 @@ people:
   - "argynvost"
   - "atropos"
   - "bahamut"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -38,9 +39,9 @@ things:
 
 The group pushed up the slopes of Mt. Baratok in deepening snow, battered from the Genoskwa and running on fumes. The tall pines gave way to rocky alpine moss, the snowline only a few hundred metres ahead, blanketed in thick roiling cloud. Stick assured them the Archmage was close — *"Not far now!"* — though the sentient staff's sense of distance proved unreliable. Patches complained bitterly about the cold. The group entered the storm.
 
-They dug and blasted their way through the drifts — Buumi using his shield as a shovel, Tark's elemental ring melting snow, Fëanon's firebolts carving channels, Cyrrus's eldritch blasts knocking banks aside. Minutes turned into another hour. Then Gundren called a halt. Through the howling wind, a huge elk stood fifty feet ahead. Stick squeaked with excitement.
+They dug and blasted their way through the drifts — Buumi using his shield as a shovel, Tark's elemental ring melting snow, Fëanon's firebolts carving channels, Cirrus's eldritch blasts knocking banks aside. Minutes turned into another hour. Then Gundren called a halt. Through the howling wind, a huge elk stood fifty feet ahead. Stick squeaked with excitement.
 
-The elk became a man. A brilliant lightning bolt detonated among the group, blowing a crater in the snow. Fëanon, Cyrrus, and Gundren dropped instantly, unconscious and smoking. The storm seemed to halt itself around the battle, the air clearing to reveal a middle-aged bald man with a stark black goatee threaded with silver, standing atop a boulder in tattered robes, hands crackling with arcane energy.
+The elk became a man. A brilliant lightning bolt detonated among the group, blowing a crater in the snow. Fëanon, Cirrus, and Gundren dropped instantly, unconscious and smoking. The storm seemed to halt itself around the battle, the air clearing to reveal a middle-aged bald man with a stark black goatee threaded with silver, standing atop a boulder in tattered robes, hands crackling with arcane energy.
 
 *"YOUR MASTER CAN NEVER BREAK MY SPIRIT!"*
 
@@ -72,6 +73,6 @@ The doors swung open to a beautifully furnished room, filled with the court of C
 
 Strahd greeted them cordially and asked them to join him. Ireena sat on his right — perfectly healthy. Fëanon reached her telepathically and found her relieved but terrified. On Strahd's left sat the massive bare-chested barbarian vampire they had seen go after Van Richten, a heavy bear pelt across his shoulders, a bone crown on his brow, and a deep red stain around his mouth.
 
-Patches lingered outside, climbing the stairs to the landing before turning back from what she suspected were stone golems, then hovered at the edge of the dining hall. Cyrrus, JmJm, and Fëanon approached Strahd directly. Buumi, Tark, and Gundren took seats at the table to mingle with whatever horrors awaited them.
+Patches lingered outside, climbing the stairs to the landing before turning back from what she suspected were stone golems, then hovered at the edge of the dining hall. Cirrus, JmJm, and Fëanon approached Strahd directly. Buumi, Tark, and Gundren took seats at the table to mingle with whatever horrors awaited them.
 
 The dinner at Ravenloft had begun.

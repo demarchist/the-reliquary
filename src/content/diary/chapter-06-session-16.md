@@ -6,6 +6,7 @@ session: 16
 summary: "The group destroys the spirit troll Shadowclaw in the caverns beneath Thunder Bluff, lays the ghost of High Hold's last commander to rest, and reunites in Sundabar where Megno reveals a breakthrough in the ancient Dwarven journal."
 people:
   - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "harold-ophrella"
@@ -44,27 +45,27 @@ Patches thanked her, paid, and left to case the Southern Clan Vault. Over the fo
 
 ## The Descent
 
-Over at the Barony, four young orc warriors met the group at the gates of High Hold and led them to a stone stairway cut into the southern edge of the bluff — a narrow, two-foot-wide path descending the cliff face. The stair was treacherous under snow. The cats tried to descend but Mr. Pickles was nearly pitched from Kitty's back. Cyrrus slipped and was caught by the collar. An orc lost his footing and was saved by Moogie's quick thinking with her longbow.
+Over at the Barony, four young orc warriors met the group at the gates of High Hold and led them to a stone stairway cut into the southern edge of the bluff — a narrow, two-foot-wide path descending the cliff face. The stair was treacherous under snow. The cats tried to descend but Mr. Pickles was nearly pitched from Kitty's back. Cirrus slipped and was caught by the collar. An orc lost his footing and was saved by Moogie's quick thinking with her longbow.
 
-Fed up, Cyrrus began casting Mould Earth — widening the stair to five feet, clearing snow and creating even steps. The orcs were flabbergasted and began whispering that the group had been sent by Gruumsh.
+Fed up, Cirrus began casting Mould Earth — widening the stair to five feet, clearing snow and creating even steps. The orcs were flabbergasted and began whispering that the group had been sent by Gruumsh.
 
-At the river, a series of caves opened at the base of the cliff. A stiff breeze carrying a supernatural chill flowed from within. Fëanon felt necromancy on the unnatural air. Cyrrus and Tark both sensed evil. Two dead wolves lay just inside — brutally torn apart.
+At the river, a series of caves opened at the base of the cliff. A stiff breeze carrying a supernatural chill flowed from within. Fëanon felt necromancy on the unnatural air. Cirrus and Tark both sensed evil. Two dead wolves lay just inside — brutally torn apart.
 
-Tark and Cyrrus advanced into the cavern, telling the orcs to hold back. Deep inside, the dust lay thick and undisturbed. Tark caught a glimpse of something — a huge, blue-glowing, ethereal troll at the back of the cavern that vanished in a swirl of mist.
+Tark and Cirrus advanced into the cavern, telling the orcs to hold back. Deep inside, the dust lay thick and undisturbed. Tark caught a glimpse of something — a huge, blue-glowing, ethereal troll at the back of the cavern that vanished in a swirl of mist.
 
-Cyrrus looked up from examining a wolf corpse just as the massive spirit troll burst from the rock pillar in front of him, raking him with ghostly claws that ravaged his psyche and left him stunned. The creature dove back into the stone before anyone could react.
+Cirrus looked up from examining a wolf corpse just as the massive spirit troll burst from the rock pillar in front of him, raking him with ghostly claws that ravaged his psyche and left him stunned. The creature dove back into the stone before anyone could react.
 
 Everyone readied themselves. Shadowclaw erupted from the ceiling above Tark. Fëanon caught it with a stunning spell — but caught Tark as well. The monk shook free. Mr. Pickles fired both flintlocks, but the bullets passed clean through the ethereal form. Orc cadavers shambled from behind rock mounds — zombies drawn by the commotion.
 
-The orcs rushed the undead. Tark laid into Shadowclaw with a flurry of blows, but the troll fled through another rock formation and attacked Fëanon and Moogie on the far side. Cyrrus recovered and obliterated a zombie with Eldritch Blasts that sent it thirty feet into the wall. Mr. Pickles and the cats worked through the remaining undead, flanking and tearing each one apart.
+The orcs rushed the undead. Tark laid into Shadowclaw with a flurry of blows, but the troll fled through another rock formation and attacked Fëanon and Moogie on the far side. Cirrus recovered and obliterated a zombie with Eldritch Blasts that sent it thirty feet into the wall. Mr. Pickles and the cats worked through the remaining undead, flanking and tearing each one apart.
 
-Fëanon summoned a massive Arcane Hand to fight the spirit troll. Cyrrus slammed his staff down and a net of electrical energy sprang into being around Shadowclaw, paralysing the creature. Tark shadowstepped in and the orcs surrounded it, their silver-encrusted axes finally biting into its essence. The troll broke free with an echoing bellow, downed one of the orcs and turned to flee. Cyrrus healed the orc's fatal wounds while Fëanon sent the Arcane Hand after the creature. It caught Shadowclaw by the legs as the troll leapt for an exit tunnel and dragged it back. Tark shadowstepped above and brought both fists down in a falling blow. The spirit troll exploded in a blast of blue smoke and a ghostly scream.
+Fëanon summoned a massive Arcane Hand to fight the spirit troll. Cirrus slammed his staff down and a net of electrical energy sprang into being around Shadowclaw, paralysing the creature. Tark shadowstepped in and the orcs surrounded it, their silver-encrusted axes finally biting into its essence. The troll broke free with an echoing bellow, downed one of the orcs and turned to flee. Cirrus healed the orc's fatal wounds while Fëanon sent the Arcane Hand after the creature. It caught Shadowclaw by the legs as the troll leapt for an exit tunnel and dragged it back. Tark shadowstepped above and brought both fists down in a falling blow. The spirit troll exploded in a blast of blue smoke and a ghostly scream.
 
 ## Story Time
 
 The orcs waited, tense and uncertain, until a full minute passed and they erupted in cheers. The group searched the cave and found nothing but the remains of the old camp and dead orcs. Two tunnels led deeper into darkness — Moogie mentioned she had explored a few thousand feet back and turned around when it entered the Upper-Dark. The group decided to have Gundren seal the tunnels when he arrived.
 
-Back at High Hold, the congregation of orcs waited to see who would return. When everyone did, whoops and cheers went up and the party was welcomed with open arms. Bowls of Keek's Ankheg stew were handed out around a great cauldron. Over the hearty meal, Tark, Cyrrus, Fëanon and Mr. Pickles told the orcs — and Moogie — their tale, with Tark acting out the best parts. The orcs were convinced the group had been sent by their gods. Mr. Pickles remarked that they had not even met the most powerful one, referring to Patches.
+Back at High Hold, the congregation of orcs waited to see who would return. When everyone did, whoops and cheers went up and the party was welcomed with open arms. Bowls of Keek's Ankheg stew were handed out around a great cauldron. Over the hearty meal, Tark, Cirrus, Fëanon and Mr. Pickles told the orcs — and Moogie — their tale, with Tark acting out the best parts. The orcs were convinced the group had been sent by their gods. Mr. Pickles remarked that they had not even met the most powerful one, referring to Patches.
 
 Luumsh declared that the tribe would settle in Old Kossenberg and use the Evermoor for battle practice. He would gather other like-minded tribes for the great war Tark said was coming. Moogie had never heard a tale like theirs and was suitably impressed.
 
@@ -74,7 +75,7 @@ As the sun began to set, the orcs grew uncomfortable and filed into the barracks
 
 The trio headed toward the far wall, where an ethereal spectre stood gazing out over the Evermoor. Near the ruined main keep, another spectre stood guard at the entrance. They spoke to it in terms it understood — mentioning the impending orc invasion and that they were from Silverymoon to assist. The spectral guard led them into the ruins, over rubble and through collapsed corridors, to what remained of an office open to the night sky.
 
-A well-dressed, ghostly man leaned over a phantom desk, the actual shattered furniture lying beneath a layer of snow. Harold Ophrella, the last commander of High Hold, did not entirely understand at first — alternating between inattention and confusion, on the verge of a violent break. After several careful minutes, Cyrrus managed to get through: they were from Silverymoon, they were taking over, and his people were to evacuate to safety.
+A well-dressed, ghostly man leaned over a phantom desk, the actual shattered furniture lying beneath a layer of snow. Harold Ophrella, the last commander of High Hold, did not entirely understand at first — alternating between inattention and confusion, on the verge of a violent break. After several careful minutes, Cirrus managed to get through: they were from Silverymoon, they were taking over, and his people were to evacuate to safety.
 
 Harold sighed with relief. The ghost evaporated and the spectres passed on with him.
 

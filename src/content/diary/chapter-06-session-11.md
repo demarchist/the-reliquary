@@ -6,6 +6,7 @@ session: 11
 summary: "The group kills the Oni in a desperate blizzard chase to save a stolen baby, learns that Zhengyi's imprisonment is failing, and arrives in Silverymoon to discover the city is being quietly invaded by disguised Amnian soldiers during the Winter Solstice festival."
 people:
   - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -35,7 +36,7 @@ factions:
 
 ## Killing the Oni
 
-Tark and Cyrrus flanked the Oni in the driving snow. Neero hurled the baby at Tark, forcing the monk to leap and catch the child — plunging beneath the snow crust in the process. The demon spun on Cyrrus and attacked in a flurry of deadly slashes, carving up the already battered warlock.
+Tark and Cirrus flanked the Oni in the driving snow. Neero hurled the baby at Tark, forcing the monk to leap and catch the child — plunging beneath the snow crust in the process. The demon spun on Cirrus and attacked in a flurry of deadly slashes, carving up the already battered warlock.
 
 Back at the farmhouse, Patches swore when her telescope showed nothing but white. She rushed through the bedroom, stabbing a sleeping half-ogre in the head as she passed, and found Buumi smashing the skull of another with a flash of divine light before fumbling for a diamond to revive the dead farmer. Downstairs, Fëanon rushed from the house in time to see Gwen and the war-tigers sprint out of the barn. He concentrated, tore a rift to the Plane of Fire and summoned a fiery Azer with instructions to find and slay the Oni.
 
@@ -43,13 +44,13 @@ In the kitchen, Mr. Pickles and Gundren faced two more half-ogres. Gundren blast
 
 Upstairs, Buumi pressed a diamond to Ned's chest and prayed. The farmer gasped awake, the axe wound scabbing over. Lyra woke in a panic, seized her bow, and demanded to know what was happening. Buumi gave her the essentials: Neero was a demon, he had stolen their baby and fled into the blizzard. Lyra charged from the room.
 
-Out in the storm, Tark created a compacted pocket of snow, wrapped the baby in a winter cloak and prayed the insulation would hold. He leapt from beneath the surface, shadowstepped toward the Oni — and saw Cyrrus fall from the sky, his belly opened by one massive slash. The Azer tunnelled toward the fight like a fiery mole beneath the snow.
+Out in the storm, Tark created a compacted pocket of snow, wrapped the baby in a winter cloak and prayed the insulation would hold. He leapt from beneath the surface, shadowstepped toward the Oni — and saw Cirrus fall from the sky, his belly opened by one massive slash. The Azer tunnelled toward the fight like a fiery mole beneath the snow.
 
-Tark and Neero exchanged blow after blow. For every hit the monk landed, the Oni took two — but its wounds were healing faster than Tark could inflict them, and the extending katana was whittling the halfling down cut by cut. Tark summoned a globe of darkness on the sword to buy time. The Azer burst into the sphere, flanking the demon with its fiery hammer. Confused by the heat, Neero turned on the newcomer, giving Tark the opening to disengage and rush to Cyrrus's side.
+Tark and Neero exchanged blow after blow. For every hit the monk landed, the Oni took two — but its wounds were healing faster than Tark could inflict them, and the extending katana was whittling the halfling down cut by cut. Tark summoned a globe of darkness on the sword to buy time. The Azer burst into the sphere, flanking the demon with its fiery hammer. Confused by the heat, Neero turned on the newcomer, giving Tark the opening to disengage and rush to Cirrus's side.
 
 In a compacted, blood-stained hole of snow, Tark found his friend pale and barely breathing. Crying, he searched his pack and pulled out a scroll of Mass Cure Wounds. He began reading, felt the magic build around him — and slip away. Without the arcane knowledge to focus it, the ink dissolved from the page. The scroll was destroyed. Tark grabbed his dying friend.
 
-Patches leapt from her war-tiger into the snow beside them, pulled a potion from her belt and poured it down Cyrrus's throat. The warlock gasped and his eyes fluttered open. Tark let out a cry of joy and shadowstepped back into the globe of darkness.
+Patches leapt from her war-tiger into the snow beside them, pulled a potion from her belt and poured it down Cirrus's throat. The warlock gasped and his eyes fluttered open. Tark let out a cry of joy and shadowstepped back into the globe of darkness.
 
 Fëanon rode Aurora forward and threw the tiger at the Oni. The demon hurled the mount aside, but Fëanon stayed mounted and wheeled back around. The group surrounded the creature. Neero knew he was finished. He turned to gas.
 
@@ -85,21 +86,21 @@ Deeper in the city, the rest of the group pushed through the press of Winter Sol
 
 Fëanon grabbed a nearby urchin, pressed coin and candy into his hand and sent him running with a note to Maximus Maximus at the House Invincible. Patches caught up and confirmed what she had seen at the gate, corroborating the suspicion.
 
-Cyrrus decided to probe the Amnian embassy directly. He headed off, with Patches shadowing at a distance. Near the embassy, he cast an illusion to appear as an Amnian captain — but two plain-clothes soldiers witnessed the switch and began tailing him. Patches noted them and hung back further.
+Cirrus decided to probe the Amnian embassy directly. He headed off, with Patches shadowing at a distance. Near the embassy, he cast an illusion to appear as an Amnian captain — but two plain-clothes soldiers witnessed the switch and began tailing him. Patches noted them and hung back further.
 
-Cyrrus marched up to the Amnian guards and demanded to be taken to whoever was in charge, claiming he had returned from the Illithid colony with vital intelligence. The soldiers were sceptical but eventually relented and escorted him to the embassy gates. There, a guard pulled out a monocle and saw through the illusion. Cyrrus reacted instantly, casting Mass Suggestion on every guard in the area. All but one fell under his sway and — dropping the failed illusion — he was escorted inside under heavy guard.
+Cirrus marched up to the Amnian guards and demanded to be taken to whoever was in charge, claiming he had returned from the Illithid colony with vital intelligence. The soldiers were sceptical but eventually relented and escorted him to the embassy gates. There, a guard pulled out a monocle and saw through the illusion. Cirrus reacted instantly, casting Mass Suggestion on every guard in the area. All but one fell under his sway and — dropping the failed illusion — he was escorted inside under heavy guard.
 
-From a nearby rooftop, Patches watched Cyrrus disappear into the building. Twenty feet away on the same roof, a figure in white clothing lay prone, covering the embassy with a heavy crossbow fitted with a telescopic sight identical to her own.
+From a nearby rooftop, Patches watched Cirrus disappear into the building. Twenty feet away on the same roof, a figure in white clothing lay prone, covering the embassy with a heavy crossbow fitted with a telescopic sight identical to her own.
 
-Inside, a captain halted Cyrrus and sent word up. A well-dressed Amnian watched from the second-storey foyer — middle-aged, fit, neatly trimmed hair and a precisely cut beard. After several minutes, a guard returned with the answer: Shaahir was debriefing Abdul and Cyrrus was to be sent away. Guards appeared from every hallway and door, making it clear the warlock should leave.
+Inside, a captain halted Cirrus and sent word up. A well-dressed Amnian watched from the second-storey foyer — middle-aged, fit, neatly trimmed hair and a precisely cut beard. After several minutes, a guard returned with the answer: Shaahir was debriefing Abdul and Cirrus was to be sent away. Guards appeared from every hallway and door, making it clear the warlock should leave.
 
-Just as Cyrrus turned, the sharp-looking man descended the stairs. He introduced himself as S'Olaa — Cyrrus's brother and now head of the Al'Kayan clan. In a conspiratorial whisper, S'Olaa thanked Cyrrus for killing their father; he had been waiting years to take over the family. He remarked that he had no desire to know another brother, much less a freak Tiefling, and dismissed Cyrrus with a confident smirk.
+Just as Cirrus turned, the sharp-looking man descended the stairs. He introduced himself as S'Olaa — Cirrus's brother and now head of the Al'Kayan clan. In a conspiratorial whisper, S'Olaa thanked Cirrus for killing their father; he had been waiting years to take over the family. He remarked that he had no desire to know another brother, much less a freak Tiefling, and dismissed Cirrus with a confident smirk.
 
-Patches saw Cyrrus leave and met him once they were out of sight. She noted the two plain-clothes soldiers breaking off their tail. They exchanged information and made for the Lady's College, Cyrrus bamfing through the city with Far Step while Patches sprinted to keep up.
+Patches saw Cirrus leave and met him once they were out of sight. She noted the two plain-clothes soldiers breaking off their tail. They exchanged information and made for the Lady's College, Cirrus bamfing through the city with Far Step while Patches sprinted to keep up.
 
 ## The Dean's Estate
 
-At the college, the rest of the group found the campus largely deserted — a group of students were betting on animated snowman fights in the quad. The students informed them that the college was closed for the holiday and the Dean would be at home, though most had no idea where he lived. One young elf mentioned the Estate District. Tark sprinted off. Fëanon pressed until he had a rough description of the estate and followed, leaving Buumi and Gundren behind to wait for Patches and Cyrrus.
+At the college, the rest of the group found the campus largely deserted — a group of students were betting on animated snowman fights in the quad. The students informed them that the college was closed for the holiday and the Dean would be at home, though most had no idea where he lived. One young elf mentioned the Estate District. Tark sprinted off. Fëanon pressed until he had a rough description of the estate and followed, leaving Buumi and Gundren behind to wait for Patches and Cirrus.
 
 Fëanon caught the anxious monk and directed him to a large gated estate with a City Guard standing watch. They explained the situation — a matter of life and death — but the guard had his orders and would not let anyone inside. Tark tried to shadowstep over the ornate fence and bounced off an invisible barrier. The guard lowered his halberd and told them to leave. When they refused, he called for backup. Two more City Guards arrived. Tark tried a second time, higher, and hit the wall again.
 

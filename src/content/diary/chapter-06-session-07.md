@@ -6,6 +6,7 @@ session: 7
 summary: "Research at the Vault of Sages pinpoints the Illithid hive beneath Ladypeak, and a chance encounter with the retired veterans of the 3rd Special Actions Detachment — the legendary 'Mindslayers' — provides the weapons, tactics and grizzled expertise the group needs to infiltrate Nostalgia for Infinity's lair."
 people:
   - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
   - "elion-loberos"
   - "feanon-serinde"
   - "garm"
@@ -50,7 +51,7 @@ The group spent three days in the Vault. Fëanon and Sala worked side by side, c
 
 Gundren proved invaluable. His Dwarven understanding of subterranean geology allowed him to narrow the search area from hundreds of square miles to a handful of likely sites. He sat with Sala for hours, sketching cross-sections and arguing about water table depths with the enthusiasm of a dwarf who had found someone who understood rock.
 
-Cyrrus contributed by dream-spelling Lei Tan each night, extracting additional details from the investigator's notes. Lei Tan — still shaken by the ransacking of her office and the disappearance of the Grell case files — was cooperative but cautious. She confirmed that the drone had been intercepted on the western approach to the city, which aligned with a trajectory from the Nether Mountains.
+Cirrus contributed by dream-spelling Lei Tan each night, extracting additional details from the investigator's notes. Lei Tan — still shaken by the ransacking of her office and the disappearance of the Grell case files — was cooperative but cautious. She confirmed that the drone had been intercepted on the western approach to the city, which aligned with a trajectory from the Nether Mountains.
 
 By the third day, Sala had it. She spread a large map across the reading table and placed her finger on a mountain.
 
@@ -116,7 +117,7 @@ Halar hefted a psychic disruption grenade with one hand, tossed it in the air an
 
 Gundren was immediately fascinated by the engineering. He picked up a helmet, turned it over, and began asking Halar technical questions with the intensity of a dwarf who had found a new obsession. Halar, who had never met an artificer before, was equally fascinated by Gwen.
 
-Tark examined the grenades with professional interest and slipped three into his belt. Patches studied the bubble devices and pocketed two without asking. Cyrrus held one of the helmets and felt the crystal resonate against his psionic sensitivity — it hummed at a frequency that made his chrome eyes vibrate.
+Tark examined the grenades with professional interest and slipped three into his belt. Patches studied the bubble devices and pocketed two without asking. Cirrus held one of the helmets and felt the crystal resonate against his psionic sensitivity — it hummed at a frequency that made his chrome eyes vibrate.
 
 ## The Plan
 
@@ -134,7 +135,7 @@ Fëanon considered this. "You want me to concentrate on maintaining a psychic li
 
 "Yes," Khelon said. "Can you do it?"
 
-Fëanon looked at the table. Then he looked at the group — at Buumi, Tark, Patches, Cyrrus, Gundren. The people who had pulled him out of Barovia, crossed the desert, fought through the mountains.
+Fëanon looked at the table. Then he looked at the group — at Buumi, Tark, Patches, Cirrus, Gundren. The people who had pulled him out of Barovia, crossed the desert, fought through the mountains.
 
 "Yes," he said.
 
@@ -144,7 +145,7 @@ The Mindslayers drilled the group for two days on mental discipline techniques �
 
 Patches needed the least instruction. She already moved like a ghost and thought in patterns that were difficult to read. Khelon told her she would have made an excellent Mindslayer. She told him she did not work well with authority. He said that was also a Mindslayer trait.
 
-Cyrrus posed a unique problem — his psionic sensitivity made him both an asset and a liability. His ability to detect psychic emanations would be invaluable for navigation, but his own psychic signature blazed like a bonfire. Khelon fitted him with one of the crystal helmets, which dampened his output to a manageable level. Cyrrus complained that it muffled his connection to Selûne. Khelon told him the alternative was having his brain eaten.
+Cirrus posed a unique problem — his psionic sensitivity made him both an asset and a liability. His ability to detect psychic emanations would be invaluable for navigation, but his own psychic signature blazed like a bonfire. Khelon fitted him with one of the crystal helmets, which dampened his output to a manageable level. Cirrus complained that it muffled his connection to Selûne. Khelon told him the alternative was having his brain eaten.
 
 On the morning of the third day, the group assembled in the veterans' hall with packs loaded and weapons checked. The Mindslayers stood with them — armoured, armed, and looking twenty years younger. Garm had shaved. Halar had polished his axe until it reflected the morning light. Khelon had donned his old unit insignia — a silver fist crushing a tentacle.
 

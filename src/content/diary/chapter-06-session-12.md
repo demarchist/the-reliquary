@@ -6,6 +6,7 @@ session: 12
 summary: "The group learns of the Ironarm Mercenary Company's infiltration, Patches robs a gem store using Eclipse, and the artefact fragments are combined in a catastrophic explosion that levels Dean Sejuk's manor — all as the clock ticks toward an Amnian dawn offensive."
 people:
   - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
   - "dean-sejuk"
   - "feanon-serinde"
   - "gaddock"
@@ -52,7 +53,7 @@ Tibbets beckoned her over with a forced air of composure. As she sat, the trio o
 
 Chaunce, the son of Von Issinger — the Silverymoon Master of Coin — revealed that his father had approved the contracts. The Ironarms had been brought in five hundred strong to patrol the city, the sewers and a specific section of the wall undergoing repairs. The contracts were filed in Von Issinger's office at the Silverymoon Palace. Patches strongly suspected Amn was footing the bill.
 
-Link, the quietest of the three, finally spoke. A student at one of the mage colleges, she had seen an Amnian Archmage and his apprentice enter the city three days prior. She could not get a good look at the Archmage, but his solid gold staff was distinctive — Shaahir of Athkatla. Her description of the apprentice, unknown to Patches, matched Cyrrus's brother S'Olaa.
+Link, the quietest of the three, finally spoke. A student at one of the mage colleges, she had seen an Amnian Archmage and his apprentice enter the city three days prior. She could not get a good look at the Archmage, but his solid gold staff was distinctive — Shaahir of Athkatla. Her description of the apprentice, unknown to Patches, matched Cirrus's brother S'Olaa.
 
 Patches noted nearby patrons leaning in to listen to Tibbets' less-than-quiet whispering. She leaned across the table, pulled a dagger and warned the kids that the game they were playing was deadly — that the information they had just given could get people killed. The eavesdroppers turned hastily back to their drinks. Patches slammed the knife into the table to drive the point home and Tibbets and his crew fled the Golden Oak.
 
@@ -64,7 +65,7 @@ Tark and Fëanon waited with bated breath as the city guard knocked on the manor
 
 Fëanon greeted Vernon, whom he had not seen in decades, and the two were let inside. Sejuk was enjoying a post-meal nap and would be awake in thirty minutes. The group persuaded Vernon to wake him immediately.
 
-The Dean entered his sitting room and greeted his old friend with the same stiff guardedness that had always characterised their relationship — until Fëanon responded with warmth and Sejuk realised his colleague had been freed from the Illithid enthrallment. Years of guilt melted away. Back at the Lady's College, Cyrrus bamfed into the quad and found Buumi trying to sing under a tree while Gundren picked his nose. They heard from Patches via rockie talkie that she was following a lead and decided to head to the manor, arriving shortly after.
+The Dean entered his sitting room and greeted his old friend with the same stiff guardedness that had always characterised their relationship — until Fëanon responded with warmth and Sejuk realised his colleague had been freed from the Illithid enthrallment. Years of guilt melted away. Back at the Lady's College, Cirrus bamfed into the quad and found Buumi trying to sing under a tree while Gundren picked his nose. They heard from Patches via rockie talkie that she was following a lead and decided to head to the manor, arriving shortly after.
 
 Tark could contain himself no longer. He grabbed the artefact in the bag for a moment and the world froze. His consciousness hurtled across the miles — over the barren tundra of his homeland, past the Half-Orc city of Palishuk in its winter snow, toward the Great Glacier. In its face was carved Castle Perilous, the citadel of Zhengyi. Through dark, glittering hallways and into a vaulted audience hall, Tark saw a throne of frost-covered iron. In its seat, ash gathered steadily. A flash of white and he saw a rune-covered iron skeleton with opal eyes — Zhengyi, like Kangaxx before him, one of Orcus' children. Another flash and Orcus himself sat upon a throne of skulls, the goat-skulled, bat-winged monstrosity pushing Zhengyi back into the world through sheer divine might.
 
@@ -72,7 +73,7 @@ Tark snapped out of the vision and ducked. Buumi sailed overhead, wrenched towar
 
 The group grilled Sejuk on the nature of the artefact and the spell Theodemir had used. They quickly learned that the original enchantment had taken many days to enact and could not be replicated — especially without Theodemir. Fëanon mentioned he might have saved his master's spirit in his ring of mind shielding. Sejuk was astonished. It was still dire news. The group debated whether Zhengyi would arrive in Silverymoon itself and whether the Amnians, the Oni and the Lich were all connected — part of some coordinated midnight strike. Sejuk remarked that the Amnians were being pushed back legally and that the growing alliance with the dwarves gave Silverymoon the excuse it needed to expel them. This only confirmed the group's suspicion that the Amnians would move before they could be ejected.
 
-They took to the streets in pairs to find Amnian soldiers — and found none. At half past nine on the night of the Solstice festival, the absence was itself a warning. Patches arrived and the group reconvened inside. Cyrrus and Tark enacted a dream spell so the monk could contact his old master Gabbock. The frail prisoner was still alive. Tark swore he would help him and warned him of Zhengyi's return.
+They took to the streets in pairs to find Amnian soldiers — and found none. At half past nine on the night of the Solstice festival, the absence was itself a warning. Patches arrived and the group reconvened inside. Cirrus and Tark enacted a dream spell so the monk could contact his old master Gabbock. The frail prisoner was still alive. Tark swore he would help him and warned him of Zhengyi's return.
 
 Satisfied that the Lich was not materialising in Silverymoon, the group asked Sejuk for contacts in Damara who might be warned. The Dean believed he could reach a friend of a friend and went upstairs to write. The group sent Vernon out for mulled wine and chestnuts.
 
@@ -82,7 +83,7 @@ In the sitting room, Fëanon said it was time to find out why the two shards of 
 
 The shard on the floor shot across the room and slammed into the one in Tark's hand. A deafening roar and a flash of white light. The house shook and everyone dove for cover. Tark was blown through a wall and embedded in another, his body smoking and covered in horrible burns. Arcs of plasma ripped through walls, floors and ceilings as if they were paper. Then, as suddenly as it had started, it ended. The artefact dropped to the floor with a heavy thud — the once solid gold cube now bisected by a straight rectangular streak of obsidian.
 
-Fëanon mage-handed it into his bag of holding. The group hobbled to their feet. Cyrrus rushed to Tark, praying to Selûne and regenerating his wounds. The house groaned and began to shift. They grabbed their things, one another and the injured Sejuk, and fled the crumbling manor into the snowy street where Mr. Pickles waited with the mounts and Gwen. The house collapsed behind them.
+Fëanon mage-handed it into his bag of holding. The group hobbled to their feet. Cirrus rushed to Tark, praying to Selûne and regenerating his wounds. The house groaned and began to shift. They grabbed their things, one another and the injured Sejuk, and fled the crumbling manor into the snowy street where Mr. Pickles waited with the mounts and Gwen. The house collapsed behind them.
 
 Hurt, confused and furious, Sejuk informed them he was done with the group and stormed off to stay with family. Buumi began a prayer of healing while Tark wrapped shadows around them. Guards rushed to the scene as they slipped away.
 

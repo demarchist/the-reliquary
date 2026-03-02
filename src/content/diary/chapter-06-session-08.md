@@ -7,6 +7,7 @@ summary: "The group and the Mindslayers infiltrate Nostalgia for Infinity's hive
 people:
   - "aliyah-faen-tlabbar"
   - "alura"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "garm"
   - "gundren-rockseeker"
@@ -66,7 +67,7 @@ Fëanon flinched. Each disruption to the web cost him — maintaining the camouf
 
 ## The Gauntlet
 
-Deeper in the nautiloid, the defences intensified. Acid sprayed from concealed pores in the walls — a biological security system triggered by pressure. Halar caught a burst across his armour and the metal began to smoke. Buumi hauled him back and Cyrrus neutralised the acid with a blast of sacred flame.
+Deeper in the nautiloid, the defences intensified. Acid sprayed from concealed pores in the walls — a biological security system triggered by pressure. Halar caught a burst across his armour and the metal began to smoke. Buumi hauled him back and Cirrus neutralised the acid with a blast of sacred flame.
 
 A corridor contracted around them without warning — the organic walls squeezing inward with crushing force. Garm braced the walls apart with his bare hands, veins standing out on his neck, while the group scrambled through. Tark shadowstepped past the constriction and pulled Gundren free as Gwen forced her mechanical body through behind them.
 
@@ -98,7 +99,7 @@ They reached the Elder Brain's chamber through a service duct that Khelon rememb
 
 It was exactly as the simulation had shown. The cathedral-sized cavern. The web of psionic energy crackling between organic pylons. The cosmos overhead — wheeling stars, shifting nebulae, the suggestion of worlds beyond reach. And at the centre, floating in its web, the Elder Brain.
 
-Nostalgia for Infinity was enormous — thirty feet across, a pulsating mass of grey-pink tissue laced with glowing veins. Its surface rippled with thoughts from a dozen minds, and the psychic pressure radiating from it was like standing next to a furnace. Even with the crystal helmets, several of the group staggered. Cyrrus sank to one knee, his chrome eyes flickering.
+Nostalgia for Infinity was enormous — thirty feet across, a pulsating mass of grey-pink tissue laced with glowing veins. Its surface rippled with thoughts from a dozen minds, and the psychic pressure radiating from it was like standing next to a furnace. Even with the crystal helmets, several of the group staggered. Cirrus sank to one knee, his chrome eyes flickering.
 
 Dozens of Illithids stood motionless around the chamber, their minds joined to the collective. At the base of the Elder Brain's web, nestled in the psionic lattice, the Eye of Aren pulsed with amber light — visibly brighter than in the simulation, swollen with decades of accumulated psionic energy.
 
@@ -114,7 +115,7 @@ Garm looked at Halar and Khelon. The three old soldiers clasped forearms. Then t
 
 The diversionary assault was devastating. Garm hurled three psychic disruption grenades into the Illithid ranks simultaneously — the detonations cascading through the dome in overlapping waves of psionic static. Illithids convulsed, their telepathic links severed, tentacles thrashing. Halar charged into the chaos with his axe, bellowing a war cry that echoed off the vaulted ceiling. Khelon dropped to one knee and began putting crossbow bolts into every drone that moved.
 
-Tark shadowstepped from the ledge to the chamber floor, landing in the shadow of a psionic pylon, and began systematically disabling Illithids with precise strikes. Patches descended the wall like a spider and flanked the drones from the opposite side, her obsidian blade leaving trails of moonlight. Cyrrus floated above, raining sacred flame and psychic blasts. Buumi stayed with Fëanon, shielding the wizard as he descended toward the web. Gundren mounted Gwen and the mechanical lion leapt from the ledge, cannon blazing.
+Tark shadowstepped from the ledge to the chamber floor, landing in the shadow of a psionic pylon, and began systematically disabling Illithids with precise strikes. Patches descended the wall like a spider and flanked the drones from the opposite side, her obsidian blade leaving trails of moonlight. Cirrus floated above, raining sacred flame and psychic blasts. Buumi stayed with Fëanon, shielding the wizard as he descended toward the web. Gundren mounted Gwen and the mechanical lion leapt from the ledge, cannon blazing.
 
 Fëanon walked toward the Elder Brain.
 
@@ -162,11 +163,11 @@ A section of tunnel collapsed ahead of them. Tark shadowstepped through the debr
 
 The secondary passage opened onto a large chamber — a cargo hold of some kind, its ceiling twenty feet high and buckling. At the far end, a section of hull had torn away, revealing raw mountainside and a rush of freezing air.
 
-"There!" Cyrrus pointed. "We go through there!"
+"There!" Cirrus pointed. "We go through there!"
 
 The ship heaved. The floor tilted thirty degrees. Equipment, debris and bodies slid toward the tear in the hull. Outside, the mountain was disintegrating — huge slabs of rock falling away as the nautiloid's bulk forced its way upward through the earth like a creature being born.
 
-Tark grabbed Alura and leapt. Patches followed. Garm threw Gundren — armour, Gwen and all — through the gap and then dove after him. Halar and Khelon went together, the two old soldiers jumping in tandem. Cyrrus floated through on a flight spell, catching Buumi's outstretched hand as the paladin launched himself toward the opening.
+Tark grabbed Alura and leapt. Patches followed. Garm threw Gundren — armour, Gwen and all — through the gap and then dove after him. Halar and Khelon went together, the two old soldiers jumping in tandem. Cirrus floated through on a flight spell, catching Buumi's outstretched hand as the paladin launched himself toward the opening.
 
 Fëanon was last. He stood at the edge of the tear, the nautiloid rising around him, the Elder Brain's psychic scream still reverberating through the structure. Through the gap he could see the sky — grey clouds, falling snow, the broken peak of Ladypeak crumbling as the ship tore free.
 

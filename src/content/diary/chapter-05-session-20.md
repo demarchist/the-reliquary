@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "atropos"
   - "baba-lysaga"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
@@ -36,9 +37,9 @@ things:
 
 ## Ash and Aftermath
 
-Grey-black ash drifted from the sky, settling thick across the abbey and the walled village below. Patches slumped against the courtyard well, bleeding from several wounds and rubbing her stinging eyes, careful not to look at Tark or the blazing greatsword in his hands. Cyrrus and Fëanon exchanged a telepathic glance and set about sorting the aftermath — Cyrrus tending wounds while Fëanon flipped to his teleportation circle.
+Grey-black ash drifted from the sky, settling thick across the abbey and the walled village below. Patches slumped against the courtyard well, bleeding from several wounds and rubbing her stinging eyes, careful not to look at Tark or the blazing greatsword in his hands. Cirrus and Fëanon exchanged a telepathic glance and set about sorting the aftermath — Cirrus tending wounds while Fëanon flipped to his teleportation circle.
 
-The mists swirled and Gundren stepped through with Gwen at his side, confusion lasting only a moment before the magic of Barovia filled the gaps. Seeing Peytr's obsidian axe on the ground, the dwarf examined it with his tools and snapped his reference book shut with a sigh. Heavily cursed. He donned welding gloves, picked it up, and the group fed it to Cyrrus's bag of devouring — casting the artifact adrift in the Astral Plane.
+The mists swirled and Gundren stepped through with Gwen at his side, confusion lasting only a moment before the magic of Barovia filled the gaps. Seeing Peytr's obsidian axe on the ground, the dwarf examined it with his tools and snapped his reference book shut with a sigh. Heavily cursed. He donned welding gloves, picked it up, and the group fed it to Cirrus's bag of devouring — casting the artifact adrift in the Astral Plane.
 
 Tark walked to the courtyard's edge and looked down the hundred-and-fifty-foot cliff. Several score villagers stood below with their arms raised, cheering for the people who had destroyed the Wild Hunt. Tark held Ashbringer aloft, its light refracting through the crystal blade, and proclaimed that Barovia's salvation was at hand. The crowd roared.
 
@@ -48,7 +49,7 @@ A rumble drew Patches and Fëanon to the overlook. Across the valley, a massive 
 
 Tark looked down. More than half the villagers had stopped cheering and were staring toward the castle. Then all hell broke loose.
 
-Wives struck husbands. Children attacked parents. In a flash of understanding, Tark realised that the hollows — the soulless denizens of Barovia — had turned on those with souls, commanded to slay every living person in the valley. Screams rose from below and Tark turned a pleading gaze on his friends. Fëanon was mid-inscription. Patches was still badly wounded. Cyrrus told him plainly that in their current state they could not save the town.
+Wives struck husbands. Children attacked parents. In a flash of understanding, Tark realised that the hollows — the soulless denizens of Barovia — had turned on those with souls, commanded to slay every living person in the valley. Screams rose from below and Tark turned a pleading gaze on his friends. Fëanon was mid-inscription. Patches was still badly wounded. Cirrus told him plainly that in their current state they could not save the town.
 
 Tark found the answer unacceptable. He asked how long before the teleportation circle was ready. Three minutes. "Then I will be back in three minutes," Tark said, and leapt off the cliff.
 
@@ -82,11 +83,11 @@ Kenga, the dwarven cleric, stepped forward and greeted them. He and his fellows 
 
 Tark hefted Ashbringer and nodded. A globe of darkness dropped over the monk and the vampires spread out to engage.
 
-Tark activated his blindfold's magic and saw through the blackness. He shadowstepped behind Kenga and unleashed a flurry of strikes. The vampire battlemaster Growland managed to parry one blow meant for the dwarf. Lelrin, the vampire ranger, loosed a stream of arrows at the group. Cyrrus turned invisible and splashed through the swamp toward her. Buumi and Gwen rushed Growland with hammer and claw as Gundren and Fëanon poured fire into the melee.
+Tark activated his blindfold's magic and saw through the blackness. He shadowstepped behind Kenga and unleashed a flurry of strikes. The vampire battlemaster Growland managed to parry one blow meant for the dwarf. Lelrin, the vampire ranger, loosed a stream of arrows at the group. Cirrus turned invisible and splashed through the swamp toward her. Buumi and Gwen rushed Growland with hammer and claw as Gundren and Fëanon poured fire into the melee.
 
 Tark hit Kenga half a dozen times. The vampire dwarf fell to his knees. Just before the killing blow, Tark heard him whispering a prayer to Moradin — hoping to see his kin soon. One swift strike took the head. The darkness vanished and Kenga crumbled to ash.
 
-Beerna, the vampire barbarian, roared for her fallen comrade and waded into Tark with greatsword strikes that wounded him badly. Tark battered her with Ashbringer until she cast aside her sword, swept the halfling into a crushing bear hug, and sank her fangs into his neck. Growland fell quickly to Gwen, Gundren, Fëanon, and Buumi — his spirit escaping as his body crumbled. Cyrrus, stung by several arrows, managed to close on Lelrin and slipped his bag of devouring over her head. The bag bit down and began to devour her. Tark broke free of Beerna with a shadowstep and struck her with the crystal greatsword. She detonated in a sunburst that set Lelrin ablaze as well.
+Beerna, the vampire barbarian, roared for her fallen comrade and waded into Tark with greatsword strikes that wounded him badly. Tark battered her with Ashbringer until she cast aside her sword, swept the halfling into a crushing bear hug, and sank her fangs into his neck. Growland fell quickly to Gwen, Gundren, Fëanon, and Buumi — his spirit escaping as his body crumbled. Cirrus, stung by several arrows, managed to close on Lelrin and slipped his bag of devouring over her head. The bag bit down and began to devour her. Tark broke free of Beerna with a shadowstep and struck her with the crystal greatsword. She detonated in a sunburst that set Lelrin ablaze as well.
 
 The group caught their breath. Tark reached out to the spirit of his sword and found it satisfied — truly destroying the vampires had freed them from enslavement. Buumi rested a hand on Tark's shoulder, raised his visor, and smiled down at his friend. They had done a good deed. Tark wrapped Ashbringer in its silk cover and handed it to Buumi for safekeeping, taking up the Staff of the Dragon King once more.
 
@@ -98,11 +99,11 @@ Tark sneaked to the hut and the crucified hag without incident. He called up to 
 
 The interior was small — no more than twenty feet square, filled with crumbling furniture. In the centre stood a beautiful baby crib holding a cherubic infant boy, clashing grotesquely with the body parts, bones, and grisly trophies covering every surface. Against one wall, a breathtaking young woman bathed in a tub of blood. Tark was caught staring. The woman turned her head and smiled. He ducked below the sill. A chuckle came from within, and Baba Lysaga called him by name, inviting him inside.
 
-Tark knocked. She invited him again. He stepped through the door and found the woman robed and standing beside the crib, fawning over the child. Cyrrus climbed up to observe through the window. Buumi and Fëanon approached from the far side, noting blurred shapes moving to surround them.
+Tark knocked. She invited him again. He stepped through the door and found the woman robed and standing beside the crib, fawning over the child. Cirrus climbed up to observe through the window. Buumi and Fëanon approached from the far side, noting blurred shapes moving to surround them.
 
-Looking upon Lysaga, Cyrrus found himself unable to believe she could be a threat — forming strong feelings of protectiveness and trust. Fëanon touched his mind to ask what he saw and received emphatic reassurances that the witch was harmless. Inside, Tark examined the baby more closely and noticed Lysaga's fingers clipping through it — an illusion. She spoke of it as Strahd, her child, praising what the man had become. Tark summoned light and shadow to create a duplicate of the illusory baby, placing it in the crib beside the first. Lysaga's face turned to stone.
+Looking upon Lysaga, Cirrus found himself unable to believe she could be a threat — forming strong feelings of protectiveness and trust. Fëanon touched his mind to ask what he saw and received emphatic reassurances that the witch was harmless. Inside, Tark examined the baby more closely and noticed Lysaga's fingers clipping through it — an illusion. She spoke of it as Strahd, her child, praising what the man had become. Tark summoned light and shadow to create a duplicate of the illusory baby, placing it in the crib beside the first. Lysaga's face turned to stone.
 
-The group closed in. Patches reached the window opposite Cyrrus. Buumi climbed to the warlock's position — and as his protective auras washed over Cyrrus, the glamour shattered. Cyrrus immediately told Fëanon to disregard every good word he had said and warned the group that the witch was actively charming them. Buumi looked around the swamp uneasily. They had been drawn into a central, exposed position.
+The group closed in. Patches reached the window opposite Cirrus. Buumi climbed to the warlock's position — and as his protective auras washed over Cirrus, the glamour shattered. Cirrus immediately told Fëanon to disregard every good word he had said and warned the group that the witch was actively charming them. Buumi looked around the swamp uneasily. They had been drawn into a central, exposed position.
 
 Inside, Tark stated their purpose: for her crimes against the people of Barovia and the corruption of Strahd, Baba Lysaga would not be leaving the valley. The witch scoffed. She would grind their bones to flour and use their flesh for stew. Do your worst, she said — and vanished. The illusion had fulfilled its purpose.
 
@@ -110,17 +111,17 @@ High above the hut, floating atop a disembodied giant skull, the true Baba Lysag
 
 ## The Battle of Berez
 
-Lysaga gestured with a bony claw and hurled a finger of death at Cyrrus. Fëanon stepped forward, raised his staff in both hands, and deflected the spell in a flash of sickly green light — the necrotic energy careening into the swamp. Patches rushed forward and flung a throwing knife into the hag's side, the poison paralysing Lysaga for an instant. Long enough for Patches to web up to the skull and slam her dagger deep into the witch's flank. Lysaga shrieked, batted Patches from the platform, and circled thirty feet above the group.
+Lysaga gestured with a bony claw and hurled a finger of death at Cirrus. Fëanon stepped forward, raised his staff in both hands, and deflected the spell in a flash of sickly green light — the necrotic energy careening into the swamp. Patches rushed forward and flung a throwing knife into the hag's side, the poison paralysing Lysaga for an instant. Long enough for Patches to web up to the skull and slam her dagger deep into the witch's flank. Lysaga shrieked, batted Patches from the platform, and circled thirty feet above the group.
 
-She struck Fëanon with a blast of cold that encrusted his arm in ice. He shattered it with his staff, mitigating the worst. Howls went up around the perimeter — blurred shapes sprinting through the mist — just as a boulder sailed through the air and clipped Buumi. The massive form of the Genoskwa flickered into view for an instant before stepping behind a tree and vanishing. Cyrrus swore, remembering that the creature's corpse had simply disappeared after their last fight, and loosed eldritch blasts at the circling Lysaga as she summoned swarms of biting insects to harass Buumi and Tark.
+She struck Fëanon with a blast of cold that encrusted his arm in ice. He shattered it with his staff, mitigating the worst. Howls went up around the perimeter — blurred shapes sprinting through the mist — just as a boulder sailed through the air and clipped Buumi. The massive form of the Genoskwa flickered into view for an instant before stepping behind a tree and vanishing. Cirrus swore, remembering that the creature's corpse had simply disappeared after their last fight, and loosed eldritch blasts at the circling Lysaga as she summoned swarms of biting insects to harass Buumi and Tark.
 
 With another wave of her staff, Lysaga raised several dead werewolves as zombies. The blurred shapes from the town's edge rushed in and resolved into aberrant druids — twisted amalgamations of animal parts. One lunged at Patches as she landed gracefully from her fall. She dodged and counterattacked viciously. Two more druids clambered onto the animated hut, one ripping bits of wood from the stump to spawn a swarm of twig-blights. On the crucifix, Ophelia pulsed with energy, turned ethereal, and sank beneath the mud.
 
-Lysaga hurled a fireball. Again Fëanon raised his staff, smashing the fiery orb from the air in a shower of sparks and embers. The witch screamed in rage and blasted Cyrrus with cold. Noting Fëanon breathing heavily from the effort of repeated counterspells, Cyrrus struck his Staff of Power against the wood of the hut. The diamond tip flashed with azure light and a shimmering globe of invulnerability encased him, Buumi, Tark, and Fëanon.
+Lysaga hurled a fireball. Again Fëanon raised his staff, smashing the fiery orb from the air in a shower of sparks and embers. The witch screamed in rage and blasted Cirrus with cold. Noting Fëanon breathing heavily from the effort of repeated counterspells, Cirrus struck his Staff of Power against the wood of the hut. The diamond tip flashed with azure light and a shimmering globe of invulnerability encased him, Buumi, Tark, and Fëanon.
 
 Patches kicked her druid's legs out and rushed for the hut but slipped on the mossy roots and fell into the mud. She made a disgusted sound, regained her footing, whirled on the recovering druid, and shot it in the face with her flintlock pistol. Its head exploded. Gundren charged in with Gwen — and a boulder from the Genoskwa smashed into the dwarf, knocking him senseless. The beast's concealing magic flickered, betrayed by the water rippling beneath its feet.
 
-Buumi and Tark engaged a fourth druid through swarms of biting insects. A set of slashing claws reached through the window for Fëanon but missed. Ophelia rose through the floor beneath Cyrrus and whispered enchanted words of sleep into his ear — not knowing that his pact with Shar made him incapable of sleep. Cyrrus turned to the night hag, entirely unfazed, and cocked an eyebrow. Ophelia recoiled in shock.
+Buumi and Tark engaged a fourth druid through swarms of biting insects. A set of slashing claws reached through the window for Fëanon but missed. Ophelia rose through the floor beneath Cirrus and whispered enchanted words of sleep into his ear — not knowing that his pact with Shar made him incapable of sleep. Cirrus turned to the night hag, entirely unfazed, and cocked an eyebrow. Ophelia recoiled in shock.
 
 Gundren hauled himself from the water, bleeding and swearing, loaded birdshot into his thundercannon, and shredded two insect swarms. Freed, Tark closed on Baba Lysaga. She had circled to put the hut between herself and the group. Tark shadowstepped to the crucifix, launched himself in a mighty leap, and smashed into the floating skull with Ashbringer — cleaving it in two. Lysaga fell screaming from her perch as Tark sailed past on his momentum.
 

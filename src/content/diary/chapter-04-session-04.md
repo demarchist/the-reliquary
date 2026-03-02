@@ -5,6 +5,7 @@ chapterTitle: The Bog
 session: 4
 summary: "The group escapes the tunnel of hands by answering a riddle, Tark tames a racing snail, Doctor Breakfast befriends a giant turtle, and the Bog's curse twists each of them — Buumi grows a hunched spine, Fëanon sprouts a tentacle, and Doctor Breakfast shrinks to the size of her horse."
 people:
+  - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
   - "horatio-von-bumidere"
@@ -19,7 +20,7 @@ Tark struggled against the grasping hands but could not break free — the wall 
 
 ## The Riddle
 
-Cyrrus, still flying from an earlier spell, dove down to catch Tark just as he tore free and began to fall. Suddenly the wall asked a riddle about hands. The group answered correctly, and the wall was so consumed with laughter that it forgot to attack. With the threat ended, Buumi set up a shrine to Helm and prayed over his dragon egg, drafting Zhink — his unofficial squire — to pray alongside him. Cyrrus caught Tark and spotted an exit at the tunnel's bottom, flying down to find a massive crystal geode with a single chest on a crystal island. The chest was a mimic. Cyrrus dimension-doored back to the top.
+Cirrus, still flying from an earlier spell, dove down to catch Tark just as he tore free and began to fall. Suddenly the wall asked a riddle about hands. The group answered correctly, and the wall was so consumed with laughter that it forgot to attack. With the threat ended, Buumi set up a shrine to Helm and prayed over his dragon egg, drafting Zhink — his unofficial squire — to pray alongside him. Cirrus caught Tark and spotted an exit at the tunnel's bottom, flying down to find a massive crystal geode with a single chest on a crystal island. The chest was a mimic. Cirrus dimension-doored back to the top.
 
 ## The Racing Snail
 

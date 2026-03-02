@@ -5,6 +5,7 @@ chapterTitle: The Bog
 session: 6
 summary: "The group gathers allies at the Goblin Town inn — Demetrius the Malk, an enormous elf barbarian, trapped tiefling twins, and Kazoo — rallies the goblins into a war party, kills a bridge troll, and reaches the labyrinth wall to wait for the riddle's answer at sundown."
 people:
+  - "cirrus-al-kayan"
   - "demetrius"
   - "doc"
   - "feanon-serinde"
@@ -20,7 +21,7 @@ places:
   - "the-labyrinth"
 ---
 
-The mushroom inn was packed with goblins of every description. The group split up to work the room. Doctor Breakfast noticed Demetrius — the massive Malk from the tea party — serving drinks behind the bar and went to chat with him. Buumi followed, not trusting this hive of scum and villainy. Fëanon spotted an enormous elf barbarian across the room, bigger than any elf he had ever seen, and went to investigate. Cyrrus found a pair of tiefling twins smoking hookah and sidled over.
+The mushroom inn was packed with goblins of every description. The group split up to work the room. Doctor Breakfast noticed Demetrius — the massive Malk from the tea party — serving drinks behind the bar and went to chat with him. Buumi followed, not trusting this hive of scum and villainy. Fëanon spotted an enormous elf barbarian across the room, bigger than any elf he had ever seen, and went to investigate. Cirrus found a pair of tiefling twins smoking hookah and sidled over.
 
 ## Gathering Allies
 
@@ -36,7 +37,7 @@ The next morning, everyone departed together — the group, their goblin allies,
 
 On the bridge to the labyrinth, Buumi spotted a gnarled little creature ahead — a knobby old man with an enormous red cap. He recognised a Redcap, one of the murder-loving Dark Fae, and called out a warning. The creature vanished, and a massive troll climbed from beneath the bridge to block their path.
 
-The goblin allies scattered in terror. Buumi charged astride Borealis, gouging the troll's face and landing a divine smite. The creature roared and swatted him back. Doctor Breakfast scored it with her flame blade, searing its flesh and preventing regeneration. Fëanon ensnared it with hypnotic power long enough for the group to surround it. Buumi drove an empowered two-handed swing into its midsection and Cyrrus blasted its head apart with a point-blank eldritch blast. Buumi set the remains alight to ensure it stayed dead while their allies looked on, visibly impressed.
+The goblin allies scattered in terror. Buumi charged astride Borealis, gouging the troll's face and landing a divine smite. The creature roared and swatted him back. Doctor Breakfast scored it with her flame blade, searing its flesh and preventing regeneration. Fëanon ensnared it with hypnotic power long enough for the group to surround it. Buumi drove an empowered two-handed swing into its midsection and Cirrus blasted its head apart with a point-blank eldritch blast. Buumi set the remains alight to ensure it stayed dead while their allies looked on, visibly impressed.
 
 ## The Labyrinth Wall
 

@@ -3,10 +3,11 @@ title: The Bog - The Collapsing World
 chapter: 4
 chapterTitle: The Bog
 session: 10
-summary: "The Goblin King grows to titan size and the demiplane begins to collapse, Cyrrus kills his patron Mediocris Dente in a rage, the group escapes the Bog — and upon returning to Baldur’s Gate, Archmage Amaram reveals the artifact Kangaxx sought is a shard of The Last Word before the city comes under siege."
+summary: "The Goblin King grows to titan size and the demiplane begins to collapse, Cirrus kills his patron Mediocris Dente in a rage, the group escapes the Bog — and upon returning to Baldur’s Gate, Archmage Amaram reveals the artifact Kangaxx sought is a shard of The Last Word before the city comes under siege."
 people:
   - "aliyah-faen-tlabbar"
   - "amaram"
+  - "cirrus-al-kayan"
   - "doc"
   - "feanon-serinde"
   - "foxy-crazy"
@@ -38,7 +39,7 @@ A vicious blow knocked the Goblin King from his shoes — and the demiplane brok
 
 Doctor Breakfast was swept away in a tidal wave of panicking goblins. The drider-goblins leaped out for one last attack, but the group ignored them and fled. Zhink was flung from Buumi’s shield to the top of a wall and leaped onto his chocobo. Buumi prayed to Helm for guidance and received a single command: *flee this realm. The plane is collapsing.*
 
-Cyrrus looked up and saw a winged creature emerge from a portal — gaunt and hideous, its neck and body draped in necklaces of teeth. Mediocris Dente, the Tooth Fairy, his patron. Something snapped in Cyrrus. He went into a frenzy, crushing two goblins underfoot and hurling rocks at the creature. Buumi summoned Aurora and rode to his aid with Fëanon. Together they brought the Tooth Fairy down — Cyrrus, still in ape form, smashed its head flat with a giant amethyst. The pact was broken. Cyrrus was free.
+Cirrus looked up and saw a winged creature emerge from a portal — gaunt and hideous, its neck and body draped in necklaces of teeth. Mediocris Dente, the Tooth Fairy, his patron. Something snapped in Cirrus. He went into a frenzy, crushing two goblins underfoot and hurling rocks at the creature. Buumi summoned Aurora and rode to his aid with Fëanon. Together they brought the Tooth Fairy down — Cirrus, still in ape form, smashed its head flat with a giant amethyst. The pact was broken. Cirrus was free.
 
 JmJm reached the Goblin King’s magical slippers and pulled them on. Whatever relief they granted, he did not explain — he communicated something to Fëanon and fled toward Goblin Town.
 
@@ -46,7 +47,7 @@ JmJm reached the Goblin King’s magical slippers and pulled them on. Whatever r
 
 The group scooped up their wormed companions and a small goblin worm named Glenn, and ran. The titan of the Goblin King obliterated everything behind them. In Goblin Town, a massive staircase climbed straight into the sky toward an open door. The group sprinted up the steps as the Goblin King destroyed them from below.
 
-They burst through the door into Foxy Crazy’s tower, stairs leading up to the Tavern of Doors. Their mounts and allies from the Bog were already there — fading, turning insubstantial as they recovered from prolonged exposure to the collapsing demiplane. Three chests had been saved: a dancing hammer that Buumi claimed, ioun stones distributed among the group, bracers of defence for Cyrrus, and several hundred gold.
+They burst through the door into Foxy Crazy’s tower, stairs leading up to the Tavern of Doors. Their mounts and allies from the Bog were already there — fading, turning insubstantial as they recovered from prolonged exposure to the collapsing demiplane. Three chests had been saved: a dancing hammer that Buumi claimed, ioun stones distributed among the group, bracers of defence for Cirrus, and several hundred gold.
 
 Exhausted beyond measure, the group collapsed into their beds. Gundren was dumped unceremoniously in JmJm’s room. Tark was laid in the bunk he shared with Buumi. They slept for eight hours straight.
 

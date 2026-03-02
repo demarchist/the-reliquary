@@ -7,6 +7,7 @@ summary: "The battle for St. Andral's Feast concludes with the arrival of Strahd
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
@@ -44,7 +45,7 @@ factions:
 
 The street was choked with corpses. Patches faced three shambling zombies — dodging and parrying, taking only superficial hits, though the Reaver's constant drain on her life force was making her look alarmingly pale. Across the way, Gundren lay unconscious and bleeding against a crate. Buumi started toward him but Gowain shadowstepped into his path and delivered a stunning blow to the paladin's head, sending him staggering to one knee, his helmet askew. Gowain laughed.
 
-Fëanon hasted Patches and ducked behind a building. Cyrrus cast a globe of darkness on his owl to obscure himself. By the blazing church, Gwen clawed futilely at the vampire dwarf Kenga, whose heavy plate turned every strike. Tark shadowstepped to Kenga and smashed his enormous nose flat — it immediately began reforming.
+Fëanon hasted Patches and ducked behind a building. Cirrus cast a globe of darkness on his owl to obscure himself. By the blazing church, Gwen clawed futilely at the vampire dwarf Kenga, whose heavy plate turned every strike. Tark shadowstepped to Kenga and smashed his enormous nose flat — it immediately began reforming.
 
 Patches used her web bracer to zip to a rooftop, searching for Arrigal. She leapt over the edge — and heard the displacement of air on soft cloth. The Vistani assassin hung in the sky, supported by dark mist, crossbow levelled at her face. *"For my wife!"* he snarled. The bolt came fast. Patches cut it from the air and retaliated with a thrown knife that slipped beneath his armour and buried itself in his belly. Then the poison took hold. Arrigal screamed — red veins crawling across his skin, bleeding from eyes and ears — and tried desperately to reload. He missed. The spasms threw off his aim. Barely conscious, he turned to flee — and Fëanon's lingering psychic agony caught up to him. He dropped sixty feet to the ground, unconscious.
 
@@ -82,7 +83,7 @@ Patches rifled through Gowain's dust pile, tried on his spell-wrought duster, de
 
 Rahadin addressed the group. Ireena would be cared for — his word as Chamberlain that she would not be harmed nor turned for at least forty-eight hours. At that time, a carriage would arrive wherever they were in the valley and bring them to Castle Ravenloft for dinner with his master, to discuss their "entrapment." He disappeared in a surge of shadow.
 
-Buumi turned on Cyrrus immediately, grabbing him by his shirt and hoisting him overhead. He accused Cyrrus of the Barovian patrol — the friendly fire that had haunted him since their first day. He pointed at Fëanon and accused him of murdering Victor. Fëanon shrugged. Buumi, exasperated, pointed at Patches and declared that the Drow appeared to be the most moral of the group after Tark and himself. Patches put her hand on Buumi's arm, looked into his eyes, and said quietly: *"Let it go."* He dropped Cyrrus. The warlock, guilty and defeated, promised to do better.
+Buumi turned on Cirrus immediately, grabbing him by his shirt and hoisting him overhead. He accused Cirrus of the Barovian patrol — the friendly fire that had haunted him since their first day. He pointed at Fëanon and accused him of murdering Victor. Fëanon shrugged. Buumi, exasperated, pointed at Patches and declared that the Drow appeared to be the most moral of the group after Tark and himself. Patches put her hand on Buumi's arm, looked into his eyes, and said quietly: *"Let it go."* He dropped Cirrus. The warlock, guilty and defeated, promised to do better.
 
 At the Bluewater Inn, they found scattered furniture, deep scratches on the walls, and Aurora licking several wounds. Urwen's wife lay on the bar, blood oozing from a torn throat. The wine casks had been a trick — vampires hidden inside, and Urwen had unknowingly brought one into his own home. He and Aurora had killed it, but not before his wife fell.
 
@@ -92,11 +93,11 @@ Buumi placed his hand on the dead woman's head and prayed. Behind Urwen, still o
 
 Fëanon searched the battlefield for Lady Wachter and found no sign of her. He warned the guards that a necromancer might capitalise on the dead.
 
-Chekhov and Mr. Pickles had found the stolen bones of St. Andral. The coffin-maker Henrik had paid a boy named Milivoj to steal them, then killed the boy to silence him — they found the child's body by the smell. The group marched to the coffin-maker's shop the next morning. Fëanon blasted the door off its hinges. Henrik was frantically packing a travel bag and bolted for the back exit. Patches webbed him to the wall. Under Buumi's Zone of Truth, the man confessed everything — Gowain had forced him to build the barrels that smuggled the vampires into Vallaki, and Lady Wachter had planned the attack with Gowain, though Henrik did not know her exact role. Buumi drew his blade to execute him. Cyrrus was faster — an eldritch blast formed inside the man's skull and detonated.
+Chekhov and Mr. Pickles had found the stolen bones of St. Andral. The coffin-maker Henrik had paid a boy named Milivoj to steal them, then killed the boy to silence him — they found the child's body by the smell. The group marched to the coffin-maker's shop the next morning. Fëanon blasted the door off its hinges. Henrik was frantically packing a travel bag and bolted for the back exit. Patches webbed him to the wall. Under Buumi's Zone of Truth, the man confessed everything — Gowain had forced him to build the barrels that smuggled the vampires into Vallaki, and Lady Wachter had planned the attack with Gowain, though Henrik did not know her exact role. Buumi drew his blade to execute him. Cirrus was faster — an eldritch blast formed inside the man's skull and detonated.
 
 Tark screamed that they had just killed a defenceless man. Buumi told his friend, quietly and with evident pain, about the rule of law and the greater good — Henrik was a murderer and a traitor. But he was not happy about what had to be done.
 
-Before they left Vallaki, Cyrrus stopped the group. He told them that he had originally joined them to steal their teeth for his patron — and that the group would have been killed in the process. They shrugged it off, having killed the Tooth Fairy themselves. But Cyrrus mentioned another name: Marilith. Those with knowledge of the lower planes stared at him. A Greater Demon. As penance, he offered each of them a promise. Patches asked that he disguise himself on her command. Tark got a promise they would spar someday. Buumi made him swear to save every innocent he could.
+Before they left Vallaki, Cirrus stopped the group. He told them that he had originally joined them to steal their teeth for his patron — and that the group would have been killed in the process. They shrugged it off, having killed the Tooth Fairy themselves. But Cirrus mentioned another name: Marilith. Those with knowledge of the lower planes stared at him. A Greater Demon. As penance, he offered each of them a promise. Patches asked that he disguise himself on her command. Tark got a promise they would spar someday. Buumi made him swear to save every innocent he could.
 
 ## The Road to the Temple
 

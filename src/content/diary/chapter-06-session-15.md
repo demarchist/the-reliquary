@@ -3,9 +3,10 @@ title: The Barony of Thunder Bluff
 chapter: 6
 chapterTitle: Silverymoon
 session: 15
-summary: "The group splits — Patches and Buumi deposit a fortune in the Sundabar Clan Vaults while Cyrrus, Fëanon and Tark travel to their newly awarded Barony, meeting a ranger named Moogie, negotiating with a tribe of Orc deserters at the ruined High Hold, and discovering an Underdark-connected cavern system haunted by something called Shadowclaw."
+summary: "The group splits — Patches and Buumi deposit a fortune in the Sundabar Clan Vaults while Cirrus, Fëanon and Tark travel to their newly awarded Barony, meeting a ranger named Moogie, negotiating with a tribe of Orc deserters at the ruined High Hold, and discovering an Underdark-connected cavern system haunted by something called Shadowclaw."
 people:
   - "aliyah-faen-tlabbar"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
@@ -35,7 +36,7 @@ At the teleportation chamber — a hemispherical marble room with a silver ring 
 
 Outside the city, Fëanon found flat ground, inscribed his circle and activated it. The air warped within the runes, stretching light and space into a tiny black dot. Buumi looked apprehensive and was promptly shoved in by the others. Patches and Gundren — with Gwen on her floating disc — followed. Megno had taken his own teleport earlier to get a head start on the Dwarven journal.
 
-The remaining group — Fëanon, Cyrrus and Tark, with Aurora, Kitty and Mr. Pickles (now given the first name Dill) — mounted up and headed north-west along the snowy Tradeway.
+The remaining group — Fëanon, Cirrus and Tark, with Aurora, Kitty and Mr. Pickles (now given the first name Dill) — mounted up and headed north-west along the snowy Tradeway.
 
 ## The Sundabar Vaults
 
@@ -53,9 +54,9 @@ Leaving the bank, Patches remarked that she could not infiltrate this vault — 
 
 ## The Road to Thunder Bluff
 
-Cyrrus, Fëanon, Tark, Dill Pickles and the cats headed north-west along the snowy Tradeway. The first day passed without incident — rolling plains and hills glittering under a clear winter sky, the occasional copse of trees rising from the white landscape. At sunset, Cyrrus read an incantation from his new scroll and a perfectly hemispherical white dome appeared. Inside, plush rugs covered the ground and the walls were translucent from within. The temperature was pleasant. They settled in with rations — though Fëanon summoned an Azer to forage tubers, the fiery dwarf returned empty-handed. The cats played in the snow outside before everyone slept.
+Cirrus, Fëanon, Tark, Dill Pickles and the cats headed north-west along the snowy Tradeway. The first day passed without incident — rolling plains and hills glittering under a clear winter sky, the occasional copse of trees rising from the white landscape. At sunset, Cirrus read an incantation from his new scroll and a perfectly hemispherical white dome appeared. Inside, plush rugs covered the ground and the walls were translucent from within. The temperature was pleasant. They settled in with rations — though Fëanon summoned an Azer to forage tubers, the fiery dwarf returned empty-handed. The cats played in the snow outside before everyone slept.
 
-The next morning, Fëanon was the only one to leave the dome before the spell expired, dumping the night's snow accumulation on those still inside. The second day grew woodier and hillier. That afternoon, a massive chitinous form burst from the snow and knocked Fëanon from his mount. Two more Ankheg beetles ambushed the party. Tark cracked one's carapace with precise strikes, the cats flanked and tore into the third while Mr. Pickles fired his flintlocks, and Cyrrus splattered the last with Eldritch Blasts. They collected valuable chitin and beetle meat for dinner.
+The next morning, Fëanon was the only one to leave the dome before the spell expired, dumping the night's snow accumulation on those still inside. The second day grew woodier and hillier. That afternoon, a massive chitinous form burst from the snow and knocked Fëanon from his mount. Two more Ankheg beetles ambushed the party. Tark cracked one's carapace with precise strikes, the cats flanked and tore into the third while Mr. Pickles fired his flintlocks, and Cirrus splattered the last with Eldritch Blasts. They collected valuable chitin and beetle meat for dinner.
 
 On the third morning, the group descended into a slight valley — the river Rauvin to the south, the Moonwood rising on the hills to the north. To the west rose Thunder Bluff itself, a thousand-foot cliff overlooking the river, the thunder of rapids echoing off its sides. Beyond it, the grey expanse of the Evermoor stretched across the horizon.
 
@@ -73,7 +74,7 @@ Moogie led them up the switchback road to the ruined front gates. They spied mov
 
 A tribe of orcs had moved in — deserters from the Horde who had fled the war and hidden in the Evermoors, losing many before settling in caves beneath the bluff. After the war ended they prospered for a time, until undead mists began a year ago. One night, a mighty spirit troll they named Shadowclaw found their caves and drove them out. The tribe had retreated to the ruins for winter, wounded and haunted, barely surviving.
 
-The group entered the ruins and gained enough trust for Cyrrus to speak with their leader, Luumsh. When the orc feared he was being ousted, the group made the opposite clear: they were looking for citizens — people to live in the barony, work the land, and in exchange receive safety and prosperity.
+The group entered the ruins and gained enough trust for Cirrus to speak with their leader, Luumsh. When the orc feared he was being ousted, the group made the opposite clear: they were looking for citizens — people to live in the barony, work the land, and in exchange receive safety and prosperity.
 
 Luumsh consulted his fellows, including a little old lady-orc named Keek, the shaman of Luthic, who had already begun cooking with the leftover Ankheg meat. After deliberation, the tribe put forth a proposition: prove your strength by removing Shadowclaw from the caverns. The group agreed, offering the orcs the settlement of Old Kossenberg when the deed was done. The orcs accepted.
 

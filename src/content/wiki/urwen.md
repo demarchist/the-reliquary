@@ -18,4 +18,4 @@ Urwen revealed his true nature as a wereraven to the group, transforming between
 
 Urwen fought in the grand hall of Castle Ravenloft against Rahadin. He dispelled the dragon's globe of darkness with a cutting gesture, took poisoned daggers in the gut, healed himself with a prayer to Lathander, and continued fighting despite grievous wounds. After dispelling the darkness and retreating to cover, Rahadin plunged his blade into the injured Waldo and followed with a spinning dagger into the back of Urwen's head. The wereraven fell dead.
 
-His death devastated Danica, who fought on with grief-fuelled fury — sinking daggers into Rahadin's back in a screaming assault. After the battle, Danica donned the Armour of the Ravenlord that Cyrrus returned to her, scooped up Urwen's body, and flew away as a giant raven with her children on her back.
+His death devastated Danica, who fought on with grief-fuelled fury — sinking daggers into Rahadin's back in a screaming assault. After the battle, Danica donned the Armour of the Ravenlord that Cirrus returned to her, scooped up Urwen's body, and flew away as a giant raven with her children on her back.

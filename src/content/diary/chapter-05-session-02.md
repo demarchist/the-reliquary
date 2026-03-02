@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "baba-lysaga"
   - "chekov"
+  - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gowain"
   - "gundren-rockseeker"
@@ -38,13 +39,13 @@ The fog began to burn off and the village resolved into dark shapes through the 
 
 ## Morgantha's Pastries
 
-Cold mist, light rain, and a moaning wind tormented the group through the empty fields. The occasional scarecrow loomed out of the murk. At the outskirts, they spotted a woman standing near the edge of town with a basket and a young child's hand in hers. Patches donned her old-lady disguise and Cyrrus altered his appearance into a hulking Vistani bass player. The effort at subtlety was undermined somewhat by the burly dwarf with a cannon, the elf in a squid-faced mask riding a ghostly steed, and the paladin in full plate atop a war tiger. The woman took one look and fled into town carrying her child.
+Cold mist, light rain, and a moaning wind tormented the group through the empty fields. The occasional scarecrow loomed out of the murk. At the outskirts, they spotted a woman standing near the edge of town with a basket and a young child's hand in hers. Patches donned her old-lady disguise and Cirrus altered his appearance into a hulking Vistani bass player. The effort at subtlety was undermined somewhat by the burly dwarf with a cannon, the elf in a squid-faced mask riding a ghostly steed, and the paladin in full plate atop a war tiger. The woman took one look and fled into town carrying her child.
 
 The streets were deserted. Many houses stood empty, their windows smashed from frames, deep claw-scores gouged into the wood. Dark rooms yawned beyond. Sobbing and wailing drifted from the far side of town. Buumi prayed to Helm and confirmed what they all suspected — many of the abandoned buildings harboured undead.
 
 The squeak of a rusty wheel cut through the silence. Far up a street, an old woman in a colourful red shawl was pushing a cart of pastries. She stopped at a house, knocked, exchanged a few words with the occupant, handed over a pastry, and received a boy in return. The child was ejected into the old woman's waiting arms, and she continued down the street toward the group.
 
-Morgantha, as she introduced herself, was friendly enough. The group grew suspicious and investigated her wares. They discovered the truth in stages: the old lady was a hag, the pastries were made from human flesh, and the child she had just received was destined to become her next batch of filling. Cyrrus ate a single bite before the revelation and collapsed unconscious, dreaming of a wonderful, impossibly beautiful place.
+Morgantha, as she introduced herself, was friendly enough. The group grew suspicious and investigated her wares. They discovered the truth in stages: the old lady was a hag, the pastries were made from human flesh, and the child she had just received was destined to become her next batch of filling. Cirrus ate a single bite before the revelation and collapsed unconscious, dreaming of a wonderful, impossibly beautiful place.
 
 Before the group could attack and free the child, Fëanon seized Morgantha and teleported her away, asking to be taken to her master — Baba Lysaga. The hag refused but said she would be watching and would consider it, then melted into the ground with a spell. Fëanon returned to a flustered group now in custody of a Barovian child named Chekov. The boy, having just learned he was sold to a hag to be baked into pastries, was understandably hysterical. He clung to Patches — still disguised as a kindly grandmother — and Buumi decided to train the lad as his squire.
 
@@ -62,7 +63,7 @@ As the funeral procession made its way downhill, a panicked guardsman came runni
 
 They found a tall, gangly man in a leather duster and a wolf-skin wide-brimmed hat. His eyes were milky white, and he held a sickle blade to the girl's throat, attached to a long chain. Gowain had no interest in negotiation. He magically froze Ireena and Irmesk in place, slit the girl's throat with a laugh, and attacked.
 
-The battle was vicious. Gowain teleported constantly — striking hard, vanishing, reappearing somewhere unexpected. Two invisible shadow monks flanked and protected him, their presence only revealed when they struck. Tark managed to stabilise the dying girl and Cyrrus healed her wound with Selune's light. Fëanon hammered at Gowain's mind but found it nearly impenetrable. Cyrrus, badly hurt and desperate, polymorphed his owl familiar into a Tyrannosaurus Rex — the first one anyone in Barovia had ever seen, or indeed knew existed.
+The battle was vicious. Gowain teleported constantly — striking hard, vanishing, reappearing somewhere unexpected. Two invisible shadow monks flanked and protected him, their presence only revealed when they struck. Tark managed to stabilise the dying girl and Cirrus healed her wound with Selune's light. Fëanon hammered at Gowain's mind but found it nearly impenetrable. Cirrus, badly hurt and desperate, polymorphed his owl familiar into a Tyrannosaurus Rex — the first one anyone in Barovia had ever seen, or indeed knew existed.
 
 Darkness spells, faerie fire, a well-thrown Molotov, and relentless melee attacks brought one shadow monk down and left Gowain and the other in dire straits. Tark, using his truesight, spotted a powerful ring on Gowain's finger and mid-fight attempted to steal it. Just as the ring slipped free, Gowain teleported away, abandoning the battle and his surviving monk — who was quickly destroyed. In the confusion, Gowain left his hat behind. Tark picked it up and plopped it on his head with a grin.
 

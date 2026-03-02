@@ -7,6 +7,7 @@ summary: "The group fights a running battle up the towers of Castle Ravenloft �
 people:
   - "aliyah-faen-tlabbar"
   - "argynvost"
+  - "cirrus-al-kayan"
   - "ezmerelda"
   - "feanon-serinde"
   - "goblin-king"
@@ -42,11 +43,11 @@ factions:
 
 ## The Tower
 
-Patches hurled a smoke bomb down the corridor as Peytr and his entourage ascended the far stairs. Cyrrus cracked his new Staff of Power against the stone floor and a shimmering wall of force materialised between them and the pursuit. The group piled into the tower and began climbing — Patches leading, marking traps she could not stop to disarm, Buumi and Gundren guarding the rear. The crystal heart pulsed above them, shaking the tower with each beat.
+Patches hurled a smoke bomb down the corridor as Peytr and his entourage ascended the far stairs. Cirrus cracked his new Staff of Power against the stone floor and a shimmering wall of force materialised between them and the pursuit. The group piled into the tower and began climbing — Patches leading, marking traps she could not stop to disarm, Buumi and Gundren guarding the rear. The crystal heart pulsed above them, shaking the tower with each beat.
 
 Buumi and Gwen lost their footing. Patches shot a web down to catch the paladin. Fëanon conjured a wall of ice beneath the sliding clockwork lion. Tark grabbed Gwen's mechanical tail and hauled her back to safety.
 
-Below, Peytr seeped through the wall of force as mist and began his ascent. Cyrrus sent a lightning bolt down the stairwell — it rebounded off the barrier and devastated the corridor, destroying one shadow hound. Fëanon froze the two vampire champions in place with a mental assault, but Peytr charged through. Gundren greased the steps. Cyrrus shaped the wall into a slide that pitched the vampire into freefall. Peytr threw his obsidian axe into the group — catching Fëanon, Steven, and JmJm — then transformed into a bat to arrest his fall.
+Below, Peytr seeped through the wall of force as mist and began his ascent. Cirrus sent a lightning bolt down the stairwell — it rebounded off the barrier and devastated the corridor, destroying one shadow hound. Fëanon froze the two vampire champions in place with a mental assault, but Peytr charged through. Gundren greased the steps. Cirrus shaped the wall into a slide that pitched the vampire into freefall. Peytr threw his obsidian axe into the group — catching Fëanon, Steven, and JmJm — then transformed into a bat to arrest his fall.
 
 Above, skeleton warriors shot down at Patches and Ireena. Tark shadowstepped from group to group, attacking and pitching them off the stairs. The crystal heart beat again, shaking the entire tower.
 
@@ -60,13 +61,13 @@ Below, Buumi turned the undead with Helm's power. Peytr recoiled. The group reun
 
 Rahadin appeared on the far tower, framed by the storm. He told the group they had reached the end of the road: hand over Ireena, the Holy Symbol, and the artifact, or die.
 
-Cyrrus began casting flight on everyone. Rahadin locked eyes with Patches and spoke into her mind: *"Now."* The trigger for the Geas that Buumi had already lifted. Patches smirked. Rahadin's confusion twisted to rage. He screamed *"LENANSHIDHE!"*
+Cirrus began casting flight on everyone. Rahadin locked eyes with Patches and spoke into her mind: *"Now."* The trigger for the Geas that Buumi had already lifted. Patches smirked. Rahadin's confusion twisted to rage. He screamed *"LENANSHIDHE!"*
 
 Patches' eyes went pitch black. Her hair turned blood red, floating as though underwater. She wailed and charged Ireena, the Reaver forming in her hand. The group tackled her. Tark restrained her with martial arts, activated his staff's flight, and carried the possessed Drow into the storm. Fëanon paralysed JmJm — still in Goblin King form and enraged by Steven's death — scooped him up, and flew.
 
 Buumi fumbled for the invisible Ireena — JmJm had hidden her — and found her hand. Rahadin charged, scimitar drawn. Peytr emerged from the tower behind them. Buumi lifted off, Ireena in one hand, the Holy Symbol in the other, summoning sunlight.
 
-As he turned to flee, Peytr hurled his axe. It struck the Holy Symbol of Ravenkind and the artifact detonated in a blinding explosion. Ireena became visible and fell. Buumi drifted unconscious. His crumpled shield — containing the fragment of the Last Word — tumbled into the darkness. Cyrrus dove as a giant raven, catching Buumi and then Ireena. Fëanon freed JmJm from paralysis to snatch the falling shield from the air — intercepting it moments before Strahd's dimension door could claim it.
+As he turned to flee, Peytr hurled his axe. It struck the Holy Symbol of Ravenkind and the artifact detonated in a blinding explosion. Ireena became visible and fell. Buumi drifted unconscious. His crumpled shield — containing the fragment of the Last Word — tumbled into the darkness. Cirrus dove as a giant raven, catching Buumi and then Ireena. Fëanon freed JmJm from paralysis to snatch the falling shield from the air — intercepting it moments before Strahd's dimension door could claim it.
 
 In Tark's arms, the possession ended and Patches went limp. Gundren and Gwen faded into the mist.
 
@@ -74,7 +75,7 @@ In Tark's arms, the possession ended and Patches went limp. Gundren and Gwen fad
 
 The group flew through arrows and ballista bolts, the storm robbing the shots of accuracy. Through the rain, they spotted their wagon driven by Ezmerelda, Mr. Pickles, and Chekhov, flanked by the war tigers and a bedraggled Urwen. They landed and the wagon turned. Behind them, Castle Ravenloft erupted — hunting horns, spectral horsemen, shadow hounds, millions of bats pouring from every tower.
 
-Ireena tended Buumi in the back — his left arm was missing from the elbow down and he was peppered with shrapnel. Fëanon began inscribing a teleportation circle as the wagon careened down the mountainside. Chekhov and Mr. Pickles fired crossbow bolts at the horde. Cyrrus created illusory wagons at every fork to split the pursuit. Tark and Patches fought off any vampires that got through. Urwen transformed between raven and human mid-flight to loose arrows. The dragon skull's rune flashed a destination into Fëanon's mind — Argynvostholt.
+Ireena tended Buumi in the back — his left arm was missing from the elbow down and he was peppered with shrapnel. Fëanon began inscribing a teleportation circle as the wagon careened down the mountainside. Chekhov and Mr. Pickles fired crossbow bolts at the horde. Cirrus created illusory wagons at every fork to split the pursuit. Tark and Patches fought off any vampires that got through. Urwen transformed between raven and human mid-flight to loose arrows. The dragon skull's rune flashed a destination into Fëanon's mind — Argynvostholt.
 
 As the last pursuers closed, the group dove through the portal. The wagon lost control and plunged off the mountainside behind them.
 
@@ -84,7 +85,7 @@ They emerged before the ruins of Argynvostholt with the horde banking toward the
 
 The portal closed behind them. They stood in Argynvost's private sanctum — a vast hidden chamber with mahogany columns, marble ceilings, bookshelves, and non-detection wards on every wall. A teleportation circle was the only way in or out. A third of the room was occupied by a massive pile of treasure.
 
-Ireena deposited Buumi in a plush bed. JmJm slumped against the far wall, laid Steven's remains before him, and wept. Patches and Cyrrus found the treasure — art, thousands of coins, minor magic items, and a set of black leather armour with a herringbone pattern outlined in mithril strips and runes.
+Ireena deposited Buumi in a plush bed. JmJm slumped against the far wall, laid Steven's remains before him, and wept. Patches and Cirrus found the treasure — art, thousands of coins, minor magic items, and a set of black leather armour with a herringbone pattern outlined in mithril strips and runes.
 
 Mordenkainen read the final entry of the Tome of Strahd:
 
