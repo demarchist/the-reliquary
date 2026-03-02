@@ -51,7 +51,7 @@ The group spent three days in the Vault. Fëanon and Sala worked side by side, c
 
 Gundren proved invaluable. His Dwarven understanding of subterranean geology allowed him to narrow the search area from hundreds of square miles to a handful of likely sites. He sat with Sala for hours, sketching cross-sections and arguing about water table depths with the enthusiasm of a dwarf who had found someone who understood rock.
 
-Cirrus contributed by dream-spelling Lei Tan each night, extracting additional details from the investigator's notes. Lei Tan — still shaken by the ransacking of her office and the disappearance of the Grell case files — was cooperative but cautious. She confirmed that the drone had been intercepted on the western approach to the city, which aligned with a trajectory from the Nether Mountains.
+[[Magistrate Li|Lei Tan]] confirmed that the drone had been intercepted on the western approach to the city, which aligned with a trajectory from the Nether Mountains.
 
 By the third day, Sala had it. She spread a large map across the reading table and placed her finger on a mountain.
 
