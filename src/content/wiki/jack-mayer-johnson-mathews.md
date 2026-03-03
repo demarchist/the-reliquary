@@ -11,46 +11,66 @@ class: "Bard"
 affiliation: "faerun-defense-force"
 ---
 
-Jack Mayer Johnson Mathews, commonly known as JmJm or simply Jack, is a Half-Elf Bard with a flair for the dramatic and a shadowed past. He is a member of the Spellforged Adventuring Company, owner of the JMJM Theater, and — as has recently come to light — a native of the planar city of Sigil.
+Jack Mayer Johnson Mathews — JmJm, Jack, The Dark Whistler — is a Half-Elf Bard and a founding member of the Faerûn Defense Force. He is a native of Sigil, the City of Doors. He is the finest performer most of his companions have ever seen. He is, or was, a professional assassin. These facts are not in conflict. They are the same mechanism pointed in different directions, and understanding that is the key to understanding him.
 
 ## Appearance
 
-Standing at five feet ten inches, Jack possesses thin, angular features accentuated by sharp cheekbones and a perpetually expressive face. His style is as bold as his personality — short, spiky hair dyed in a spectrum of vibrant colors, colorful suits, dramatic costumes, flamboyant hats, flowing scarves, and elaborate turbans. His room in the [[Tavern of Doors]] reflects the same excess: opulent and ridiculous to the extreme, with a four-poster curtained bed and a back door that opens onto a magical portal.
+JmJm stands at five feet ten with thin, angular features, sharp cheekbones, and a face that never stops moving. His hair is short and spiky and dyed in whatever colours suit the occasion. His wardrobe runs to colourful suits, dramatic hats, elaborate turbans, flowing scarves, and a shapeshifting cloak of crow feathers stitched to doppelganger skin — with a collar of green dragon scales and a ruby-set adamantite clasp — that does exactly what its construction implies. His room in the [[Tavern of Doors]] matches: four-poster bed, absurd opulence, and a back door that opens onto a portal to unknown planes. Everything about him signals excess, which is intentional. If you are watching the excess, you are not watching his hands.
 
 ## The Performer
 
-On stage, Jack is a master of his craft — a charismatic performer whose dynamic, energetic presence captivates audiences across Faerûn. His greatest triumph came at the Neverwinter Refounding Festival, where the entire group worked in perfect harmony to stage a performance the likes of which few had ever seen. Stage lights dimmed as a gout of flame announced his arrival. He winked into view center stage, mounted a spectral steed engulfed in faerie fire as petals rained upon the crowd, and performed against a backdrop of standing stones, fireworks, smoking bottles, and erupting lightning bolts. He charmed his rival [[Lorde]] into joining him on the spectral mount, and the two galloped off together — the audience in raptures — only for Lorde to break free of the enchantment mid-kiss and tumble from the horse. JmJm refused her challenge to a bard-off, shouting that he'd see her in Baldur's Gate.
+On stage, JmJm is genuinely extraordinary. His greatest performance came at the Neverwinter Refounding Festival: stage lights dimmed, a gout of flame announced him, he winked into view centre stage and mounted a spectral steed engulfed in faerie fire while petals rained on the crowd. Standing stones, fireworks, smoking bottles, and lightning erupted behind him. He charmed his rival [[Lorde]] into joining him mid-show, the two of them galloping together until she broke free of the enchantment, tumbled from the horse, and he walked away shouting he'd see her in [[Baldur's Gate]] — the audience in raptures the entire time.
+
+It would be easy to call this his true self. It is one of his true selves.
 
 ## The Dark Whistler
 
-Before joining the Spellforged, Jack was infamous as The Dark Whistler — a ruthless assassin whose reputation was built on cold efficiency, brutal tactics, and the chilling whistle that accompanied each kill. This persona was a manifestation of Jack's trauma-induced dissociative disorder, a coping mechanism that allowed him to mentally transform horrors into surreal stage performances. Blood became ribbons, death scenes were choreographed dances, and the terror of victims was drowned out by imagined applause.
+Before the campaign, JmJm was an assassin. Not incidentally or reluctantly — he was very good at it, good enough to earn a name and a reputation built on cold efficiency and brutal tactics. The chilling whistle that accompanied each kill was his signature.
 
-A fateful encounter with a target's family shattered this illusion, forcing Jack to confront the consequences of his actions and sending him on a long journey of self-discovery and redemption. Despite his efforts, The Dark Whistler lingers as a shadowy presence in his mind — a constant reminder of the violence that once defined him.
+His mind learned to survive what he was doing through a mechanism of elegant dissociation: blood became ribbons, death scenes were choreographed dances, the terror of victims dissolved into imagined applause. He transmuted horror into spectacle as a coping strategy, and it worked until it didn't. A fateful encounter with a target's family broke the mechanism — the illusion failed and reality flooded in. He stopped.
 
-## Charm and Manipulation
+But stopping is not healing, and leaving is not resolution. The Dark Whistler did not die when JmJm chose a different life. The current entry in his mind reads: *armistice, not redemption.* He carries the assassin the way a skilled surgeon carries a scalpel — as a tool he has not put down, only chosen not to use. Most of the time.
 
-JmJm's bardic magic is most potent in the realm of enchantment. He charmed four goblins in the Cragmaw eating hall into turning on their fellows with savage enthusiasm, tearing a goblin limb from limb. He charmed a bearded devil into swinging at its own companion. During the martial tournament, he cast under-the-radar spells from the stands — afflicting knight Verith with a madness spell that caused him to throw his sword away and charge Tark bare-handed, handing Tark the victory. His charm magic operates at the boundary between performance and manipulation, and he wields it with cheerful ruthlessness.
+## The Seam
 
-## Gold and Greed
+The place to understand JmJm is where the performer and the assassin meet — which is almost everywhere.
 
-Gold is JmJm's truest motivator. He paused mid-dungeon to lick a gold ore vein in Wave Echo Cave. He immediately agreed to Lo'Dan's dangerous mission into the Chasm the instant a sack of gold was placed on the table. He attempted to steal a dead dwarf's beard at a grave — stopped only by a furious Buumi. He has shown "signs of insanity, compulsively biting down on a gold coin" after traumatic magical experiences. His greed is not malicious but deeply instinctive, as though gold exerts a gravitational pull on him that he cannot resist.
+His bardic enchantment magic is most potent and most casually deployed in the territory of control. He charmed four goblins in Cragmaw into turning on their fellows with savage enthusiasm, tearing one limb from limb. He charmed a bearded devil into swinging at its own companion. During the Neverwinter tournament he cast under-the-radar spells from the stands, afflicting a knight with madness that made him throw his sword away and charge Tark bare-handed. He does this with cheerful ruthlessness, which is exactly how an assassin does things: identify the weakness, apply the technique, maintain composure.
 
-## The Rivalry with Lorde
+He once verbally abused a druid who asked him for help, in a manner so targeted and efficient that the man left in a huff. His persistent flirtation with Chani, the Amnian monk who became an ally, was not warmth — Gneiss, her companion, called it creepy. Gneiss was not wrong. JmJm was running the same technique on Chani that he runs on everyone: find the angle, work it, make her lean toward him. That it came with a smile and a compliment doesn't make it different from what the Dark Whistler used to do.
 
-JmJm's most persistent antagonist is [[Lorde]] — a small, attractive bard accompanied by Gronk, her hulking barbarian backup singer. Their rivalry is both professional and personal. Lorde verbally dismantled JmJm upon their first meeting at the Keep of Thunder Bluff and challenged him to the festival stage. JmJm answered with the legendary performance that charmed her mid-show. Later, the group discovered Lorde imprisoned in Goblin Town — she was a Harper agent sent to prevent the Goblin King from consuming JmJm's mind and using his body to access the prime material plane. Their rivalry sits atop a complicated web of grudging respect and unresolved tension.
+The gold obsession lives in this seam too. He paused mid-dungeon to lick a gold ore vein in Wave Echo Cave. He immediately agreed to a dangerous mission into the Chasm the moment a sack of gold appeared. He tried to steal golden clasps from a dead dwarf's beard at a graveside — stopped only by a furious Buumi. After traumatic magical experiences, he has been observed compulsively biting down on a gold coin as if the physical certainty of it steadies him. This is not greed in the ordinary sense. It is closer to compulsion, or resonance — something in his nature that responds to gold the way a compass responds to north. What exactly that is has not been explained.
 
-## The Sigil Connection
+## Sigil
 
-JmJm is a native of Sigil, the City of Doors — a fact that emerged during the Goblin King crisis. The Goblin King had been attempting to consume JmJm's mind and take over his body to escape into the prime material plane. This planar origin may explain his strange relationship with reality: he has disappeared into mist during battles in Barovia, reappearing later with no explanation. His room in the Tavern of Doors contains a portal to unknown planes. The full implications of his Sigil heritage remain unclear, but they suggest depths to JmJm that even his companions do not fully understand.
+JmJm is a native of Sigil, the City of Doors — a planar city of impossible angles and constant thresholds, where the laws of the Material Plane do not fully apply. This origin emerged during the Goblin King crisis, in which a planar entity had been attempting to consume his mind and use his body as a vessel to escape onto the prime material plane. The attempt worked because JmJm's body was already a doorway of sorts — already liminal in ways that made him useful.
+
+The evidence is in the record. In Barovia, mid-combat, he faded into mist and vanished without explanation or choice — Barovia took him the way it took others, but he came back differently. Later, at [[Mordenkainen]]'s sanctum, a pocket plane sealed inside a mountain, a companion noticed partway through their stay that JmJm was simply present. No one had seen him arrive. When pressed, the group found their memories of him blurring, trying to slip away, as if the surrounding demiplane was attempting to erase the evidence of his arrival. The Tavern of Doors itself — which Sharess gave him and which grows according to his needs, generating rooms and forges and stables of astral goblins as required — may be less a pocket dimension than a portal that he is permanently attached to. If the Tavern is a door, and he is its owner, the question of whether he is also a door is not obviously absurd.
+
+He does not discuss Sigil. It is simply where he is from, the way other people are from towns. But it means he has always experienced the boundary between here and elsewhere as thinner than most.
 
 ## The Tavern of Doors
 
-JmJm received the [[Tavern of Doors]] from Sharess, goddess of hedonism, after she appeared in his room one night. The magical door opens from anywhere into a pocket dimension that has grown steadily throughout the campaign — adding rooms, a forge, and even a stable of astral goblins. It serves as the group's mobile base, escape route, and home between adventures.
+Sharess, goddess of hedonism, appeared in his room one night, found him insolent, and gifted him the [[Tavern of Doors]] anyway — a magical extradimensional tavern accessible through a lacquered door he carries with him. It has grown steadily: rooms that appear suited to whoever needs them, a forge, a kitchen, a stable of astral goblins, a goblin butler named Steven. JmJm's own room is opulent to the point of self-parody. The back door opens onto a portal whose destination no one has confirmed.
 
-## The Shapeshifting Cloak
+It functions as the group's mobile base, escape hatch, and home between adventures. It is also unmistakably his — the Tavern extends his will in the same way that the shapeshifting cloak does, or the charm magic does. He makes things his own and then they grow to fit him.
 
-One of JmJm's prized possessions is a custom-crafted cloak: a mantle of crow feathers stitched to doppelganger skin and dyed with goblin blood, with a collar of green dragon scales fastened by a ruby-encrusted adamantite clasp. Beneath hangs a midnight blue silk cloak with mithril flecks and a cat fur hem. The garment grants disguise magic and a bonus to defense — as flamboyant in function as it is in form.
+## Doc
 
-## The JMJM Theater
+[[Doctor Breakfast|Doc]] is the one relationship in which the technique is not running. They hit it off at the Stonehill Inn in Phandalin with an immediacy that neither of them seemed to have planned, and the shorthand between them — half words, coordinated spells, the retreats together into the Tavern between encounters — has not diminished across fourteen chapters.
 
-Jack owns, operates, and stars at the Jack Mayer Johnson Mathews Theater (The JMJMT), an elaborate venue featuring a technologically advanced stage designed by [[Gundren Rockseeker]].
+When Doc was trapped under a 9th-level Dream spell on Al Askar and could not be woken, JmJm and Buumi prayed together until their combined entreaty broke through. JmJm does not pray as a habit. He did it because it was the method available and Doc needed it. The distinction is small but real: with Doc, he reaches for what is needed rather than what works.
+
+Doc is the anchor. Whatever JmJm is becoming, Doc is the reason there is still something to anchor.
+
+## Lorde
+
+[[Lorde]] verbally dismantled JmJm upon their first meeting at the Keep of Thunder Bluff and challenged him to the festival stage. He answered with the legendary performance, charmed her mid-show, and left her sprawled on the stage as the audience cheered. Later they discovered she had been imprisoned in Goblin Town — a Harper agent sent to prevent the Goblin King from consuming his mind. She had been watching him, which means she already knew what he was and placed herself between him and something worse.
+
+Their rivalry sits on top of a complicated structure of grudging respect and unresolved tension. She is one of the few people he has met who is genuinely difficult to run the technique on — she sees it coming. He finds this appealing. She finds him infuriating. They are probably not done.
+
+## The Glove and the Inkblade
+
+At the Font of Fawden, fighting through Vecna's undead legions with the fate of a goddess in the balance, JmJm rode into the press on his Nightmare steed with his inkblade singing in his hand. When a second Death Knight appeared and the line threatened to break, he pulled on a glove from his past — something he had carried since before anyone knew him — and an Arcane Hand materialized and smashed the creature into the ground.
+
+The inkblade is his weapon. It sings because that is what his weapons do. The glove is older and its origin has not been explained. He keeps it. He reached for it in the worst moment of the campaign so far without hesitation, which means he has always known it was there and always trusted it would work. Whatever it is — Sigil relic, assassin's tool, planar artifact — it is part of who he actually is, not the character he performs. And the fact that it came out in that moment, unremarked, while everything burned around him, is probably worth watching.
