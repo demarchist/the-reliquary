@@ -1,6 +1,8 @@
 ---
 title: The Bell of Death
+interlude: 1
 session: 2
+summary: "Overrunning Oni guards at Themberchaud's lair, the Dragonflight learns the Ancient Red was taken by a Red Greatwyrm named Vulkan under Zhengyi's orders. Inside they find the lair being ransacked by ashen White Dragons under an enthralled Ancient Red called Ares — a tense standoff ends in retreat. As they regroup, the Bell of Death tolls from within the storm building on the northern horizon."
 people:
   - "ares"
   - "gzunteit-the-bold"

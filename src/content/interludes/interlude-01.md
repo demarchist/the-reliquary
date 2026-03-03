@@ -1,6 +1,8 @@
 ---
 title: The Dragonflight
+interlude: 1
 session: 1
+summary: "Following a divine compulsion west from their hidden empire, eight dragons of Shou Lung fly across jungles, deserts, and the coast — raiding, exploring, and reshaping the land in their wake. They arrive at Bloodstone City and the Great Tree of Bahamut, where the Ancient Gold Protanther assigns each dragon an attendant and sends them north when Themberchaud's volcano erupts without warning."
 people:
   - "aurelian"
   - "azoo-the-archer"

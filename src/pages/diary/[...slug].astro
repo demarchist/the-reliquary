@@ -23,36 +23,69 @@ const { Content, headings } = await render(entry);
 const h2Headings = headings.filter(h => h.depth === 2);
 
 // Build a merged, ordered list of all entries for prev/next navigation.
-// Order: diary entries sorted by chapter/session, with interludes inserted after
-// the last chapter-14 entry.
+// Diary entries sorted by chapter/session; interlude groups inserted after the
+// last entry of the chapter specified by each group's afterChapter field.
 const allDiary = await getCollection('diary');
 allDiary.sort((a, b) => {
   if (a.data.chapter !== b.data.chapter) return a.data.chapter - b.data.chapter;
   return a.data.session - b.data.session;
 });
 const allInterludes = await getCollection('interludes');
-allInterludes.sort((a, b) => a.data.session - b.data.session);
+const allInterludeGroupsMeta = await getCollection('interludeGroups');
+allInterludeGroupsMeta.sort((a, b) => a.data.interlude - b.data.interlude);
+
+// Map afterChapter → sorted interlude group metadata
+const interludeGroupsByAfterChapter = new Map<number, typeof allInterludeGroupsMeta>();
+for (const g of allInterludeGroupsMeta) {
+  const ch = g.data.afterChapter;
+  if (!interludeGroupsByAfterChapter.has(ch)) {
+    interludeGroupsByAfterChapter.set(ch, []);
+  }
+  interludeGroupsByAfterChapter.get(ch)!.push(g);
+}
+
+// Map interlude number → sessions sorted by session number
+const interludeSessionsByGroup = new Map<number, typeof allInterludes>();
+for (const il of allInterludes) {
+  const n = il.data.interlude;
+  if (!interludeSessionsByGroup.has(n)) {
+    interludeSessionsByGroup.set(n, []);
+  }
+  interludeSessionsByGroup.get(n)!.push(il);
+}
+for (const sessions of interludeSessionsByGroup.values()) {
+  sessions.sort((a, b) => a.data.session - b.data.session);
+}
+
+// Map interlude number → group title (for headerLabel)
+const interludeGroupTitleByNum = new Map(allInterludeGroupsMeta.map(g => [g.data.interlude, g.data.title]));
 
 type NavEntry = { id: string; title: string };
 const ordered: NavEntry[] = [];
-let interludesInserted = false;
+const chaptersInsertedAfter = new Set<number>();
 for (const e of allDiary) {
   ordered.push({ id: e.id, title: e.data.title });
-  if (!interludesInserted && e.data.chapter === 14) {
-    // Check if this is the last ch.14 entry
-    const nextDiary = allDiary[allDiary.indexOf(e) + 1];
-    if (!nextDiary || nextDiary.data.chapter !== 14) {
-      for (const il of allInterludes) {
+  const nextDiary = allDiary[allDiary.indexOf(e) + 1];
+  const isLastOfChapter = !nextDiary || nextDiary.data.chapter !== e.data.chapter;
+  if (isLastOfChapter && !chaptersInsertedAfter.has(e.data.chapter)) {
+    const groups = interludeGroupsByAfterChapter.get(e.data.chapter) ?? [];
+    for (const g of groups) {
+      const sessions = interludeSessionsByGroup.get(g.data.interlude) ?? [];
+      for (const il of sessions) {
         ordered.push({ id: il.id, title: il.data.title });
       }
-      interludesInserted = true;
     }
+    chaptersInsertedAfter.add(e.data.chapter);
   }
 }
-// If no ch.14 exists yet, append interludes at the end
-if (!interludesInserted) {
-  for (const il of allInterludes) {
-    ordered.push({ id: il.id, title: il.data.title });
+// Append any interlude groups whose afterChapter has no diary entries
+for (const g of allInterludeGroupsMeta) {
+  if (!chaptersInsertedAfter.has(g.data.afterChapter)) {
+    const sessions = interludeSessionsByGroup.get(g.data.interlude) ?? [];
+    for (const il of sessions) {
+      ordered.push({ id: il.id, title: il.data.title });
+    }
+    chaptersInsertedAfter.add(g.data.afterChapter);
   }
 }
 
@@ -80,7 +113,11 @@ const hasOutline = h2Headings.length > 0;
 // Build the header label
 let headerLabel: string;
 if (isInterlude) {
-  headerLabel = `Interlude ${entry.data.session}`;
+  const il = entry.data as { interlude: number; session: number };
+  const groupTitle = interludeGroupTitleByNum.get(il.interlude);
+  headerLabel = groupTitle
+    ? `Interlude: ${groupTitle} · Session ${il.session}`
+    : `Interlude ${il.session}`;
 } else {
   const d = entry.data as { chapter: number; chapterTitle?: string; session: number };
   headerLabel = `Chapter ${d.chapter}${d.chapterTitle ? `: ${d.chapterTitle}` : ''} · Session ${d.session}`;

@@ -49,6 +49,7 @@ const interludes = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/interludes' }),
   schema: z.object({
     title: z.string(),
+    interlude: z.number(),
     session: z.number(),
     summary: z.string().optional(),
     people: z.array(z.string()).optional(),
@@ -56,6 +57,16 @@ const interludes = defineCollection({
     things: z.array(z.string()).optional(),
     factions: z.array(z.string()).optional(),
     events: z.array(z.string()).optional(),
+  }),
+});
+
+const interludeGroups = defineCollection({
+  loader: glob({ pattern: '*.md', base: './src/content/interlude-groups' }),
+  schema: z.object({
+    interlude: z.number(),
+    afterChapter: z.number(),
+    title: z.string(),
+    summary: z.string(),
   }),
 });
 
@@ -73,4 +84,4 @@ const history = defineCollection({
   }),
 });
 
-export const collections = { diary, wiki, chapters, history, interludes };
+export const collections = { diary, wiki, chapters, history, interludes, interludeGroups };

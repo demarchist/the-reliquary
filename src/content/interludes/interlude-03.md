@@ -1,6 +1,8 @@
 ---
 title: The Amber Tornado
+interlude: 1
 session: 3
+summary: "Plunging into the storm, the Dragonflight tears through Ares's White Dragon rearguard and Efreeti bodyguard before catching the Ancient Red himself — only to find him encased in ethereal armor that deflects every blow. Eight dragons harry him at once until a wave of poison shatters the shield, but Ares escapes through a Dimension Door and taunts them deeper toward the Amber Tornado."
 people:
   - "ares"
   - "vakuun-the-dreadblade"

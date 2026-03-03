@@ -3,14 +3,19 @@ interface Props {
   title: string;
   chapter?: number;
   chapterTitle?: string;
+  interlude?: number;
   session: number;
   summary?: string;
   slug: string;
 }
 
-const { title, chapter, chapterTitle, session, summary, slug } = Astro.props;
+const { title, chapter, chapterTitle, interlude, session, summary, slug } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const label = chapter !== undefined ? `Ch.${chapter} / S${session}` : `Int. ${session}`;
+const label = chapter !== undefined
+  ? `Ch.${chapter} / S${session}`
+  : interlude !== undefined
+    ? `Int.${interlude} / S${session}`
+    : `Int. ${session}`;
 ---
 
 <a href={`${base}/diary/${slug}/`} class="block no-underline group">
