@@ -81,4 +81,6 @@ By the time the group returned from their long absence, the war had come home. A
 
 ## Tark's Treehouse
 
-Tark lives alone in an elaborate treehouse deep in the forests of [[Thunder Bluff]] — a whimsical, multi-level structure cobbled together from repurposed materials, reflecting his creative and resourceful nature.
+Tark lives alone in an elaborate treehouse deep in the forests of [[Thunder Bluff]]. The structure is built around an enormous ancient oak at the center of a clearing — half-up the massive trunk, an elaborate network of rope bridges, platforms, and rooms woven together in a chaotic jumble. The treehouse appears to defy gravity, dangling precariously from the upper branches; what appears haphazard from the outside is, on closer inspection, a haphazard assemblage of wooden platforms, rope bridges, and what appear to be repurposed boat hulls, all lashed together with practiced resourcefulness.
+
+Inside, crude furnishings coexist with crops of ferns sprouting from knotholes, and motes of pollen drift lazily in angled shafts of sunlight. The structure sways with the treetops, somehow at once precarious and reassuring. Individual rooms are accessible via rope bridges, each one tidy, small, and practical. Tark's meditation room occupies a prominent position; a separate guest room sits near the top of the tree, with a circular window overlooking verdant, unspoiled wilderness in every direction.
