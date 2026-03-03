@@ -82,7 +82,7 @@ const hasOutline = chapters.size > 0;
                       class="outline-link block pl-3 text-xs leading-snug text-ink-500 no-underline hover:text-accent-600 transition-colors border-l-2 border-transparent -ml-px italic"
                       data-slug={`interlude-${g.data.interlude}`}
                     >
-                      Interludes: {g.data.title}
+                      Interlude: {g.data.title}
                     </a>
                   </li>
                 ))}
@@ -148,7 +148,7 @@ const hasOutline = chapters.size > 0;
           {(interludeGroupsByAfterChapter.get(chapterNum) ?? []).map(g => (
             <section>
               <h2 id={`interlude-${g.data.interlude}`} class="font-serif text-xl font-semibold text-ink-800 mb-3 pb-2 border-b border-parchment-200 italic">
-                Interludes: {g.data.title}
+                Interlude: {g.data.title}
               </h2>
               <p class="text-sm text-ink-500 italic mb-4 leading-relaxed">{g.data.summary}</p>
               <div>

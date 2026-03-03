@@ -11,11 +11,11 @@ affiliation: "faerun-defense-force"
 home: "thunder-bluff"
 ---
 
-Tarkathee Daru, known simply as Tark, is a male Halfling Monk and a founding member of the Spellforged Adventuring Company. He is widely regarded as the group's moral compass and peacekeeper — a warrior of extraordinary discipline whose warmth and optimism belie a life marked by loss and hard-won wisdom.
+Tarkathee Daru, known simply as Tark, is a male Halfling Monk and a founding member of the Faerûn Defense Force. He is widely regarded as the group's moral compass and peacekeeper — a warrior of extraordinary discipline whose warmth and optimism belie a life marked by loss and hard-won wisdom.
 
 ## Appearance
 
-Tark stands between three and four feet tall with a well-defined, muscular, athletic build that belies his small stature. He has a boyishly handsome face with a perpetually tousled mohawk, tan, weather-worn skin, and — since his encounter with the dragon [[Venomfang]] — an enchanted blindfold over his left eye. His bearing is unassuming until he moves, at which point the coiled precision of a lifetime of monastic training becomes immediately apparent.
+Tark stands between three and four feet tall with a well-defined, muscular, athletic build that belies his small stature. He has a boyishly handsome face with a perpetually tousled mohawk, tan, weather-worn skin, and — since his encounter with the dragon [[Venomfang]] — an enchanted blindfold over his left eye. His left arm ends in a white-wood prosthetic hand, crafted from [[Moot]]'s staff and infused with divine energy; in combat, it glows a deep crimson as [[Vaketh]]'s power courses through it. His bearing is unassuming until he moves, at which point the coiled precision of a lifetime of monastic training becomes immediately apparent.
 
 ## Personality
 
@@ -39,7 +39,7 @@ His stunning strikes are feared by enemies of all sizes. Against [[Kangaxx]]'s g
 
 Tark's relationship with [[Moot]] — a legendary monk and tournament champion — is one of the defining threads of his story. Moot recognized something in Tark early on, telling him that "study and perseverance would reveal all secrets." He gifted Tark the golden canary Ysera, who took an immediate liking to the halfling and became his constant companion. Ysera sharpens Tark's senses, granting him an alertness he cannot achieve alone, and communicates with him telepathically in moments of crisis — during the battle aboard the storm-tossed ship, she flew into the tempest with a flurry of chirps and a single word in his mind: *Survive.*
 
-Moot later gifted Tark his personal staff after the cult attack at the Refounding Festival — a tremendous honor that Tark received with open wonder. The staff became his signature weapon, granting flight and devastating striking power.
+Moot later gifted Tark his personal staff after the cult attack at the Refounding Festival — a tremendous honor that Tark received with open wonder. The staff became his signature weapon, granting flight and devastating striking power. After Tark lost his left hand to a Death Lord's burning blade, the staff's purpose deepened: working with the nascent god [[Vaketh]] and the focus of [[Bahamut]], Tark reshaped the white wood itself into a prosthetic arm — threads of reddish metal winding through the masterwork, a wooden hand grown to fit the wound. What had been Moot's gift of strength became, literally, part of Tark.
 
 ## Tournament Champion
 
@@ -55,9 +55,29 @@ When Kangaxx revealed himself as a servant of Orcus and unleashed demons in the 
 
 In the dread domain of Barovia, Tark confronted horrors that tested even his optimism. He came face to face with his own corpse — crucified, chemically melted — hanging in the cursed forest. The sight struck him with intense paranoia, a feeling of being watched that lingered long after. Yet he also found a golden dragonscale in the mists and, meditating on it, felt a powerful conviction that it was meant for him — that it was important in ways he could not yet articulate.
 
+## The Kenshi Betrayal
+
+Over many months, Tark corresponded with [[Kenshi]] — a revered figure from his monastic past — in a series of vivid dreams. The conversations were warm and unhurried, covering the group's travels, their goals, the dangers they faced. Tark trusted them completely.
+
+In the Underdark, a message from [[Gaddock]] confirmed what he already feared: Kenshi had never existed. The figure was a construct of [[Zhengyi]], deployed since the winter solstice — the same night Zhengyi had returned — to keep the group under surveillance. Every detail Tark had shared across those dream meetings had gone directly to the enemy. The group sat together in the deep dark and reconstructed every conversation, every piece of intelligence they had given away without knowing it.
+
+Tark's grief over Gaddock and the betrayal found its limit in the bathroom walls. When the group regrouped, Gaddock's message in the dream had been plain: he could not be saved. Not like this. The only path that led to any kind of salvation ran through Zhengyi and his masters. *Tark needed to beat them. That was the only way.*
+
+## The Lost Hand
+
+At the Font of Fawden, defending a ritual against [[Zhengyi|Vecna's]] undead legions from Sharza, Tark held the chokepoint alongside [[Snorbul]] against a Death Lord and his Boneclaw guard. The ancient Saurian's burning blade swept in and took Tark's left hand off at the elbow.
+
+[[Vaketh]] — the nascent god of Power, whose ruby dragonscale Tark had carried since Al Askar — intervened. With a thunderclap, the limb regrew out of crimson energy. Tark rushed back to the fray with his god-hand and shattered the Death Lord's Boneclaws one by one, breaking his invulnerability and burning the ancient Saurian to dust.
+
+The divine intervention was temporary. Back in the Barony, Tark transformed the loss into something permanent: with [[Vaketh]]'s power and the focus of [[Bahamut]], he reshaped [[Moot]]'s white-wood staff around his wounded arm, weaving threads of reddish metal through the grain until a wooden hand grew to fit the wound. The prosthetic glows deep red in combat. It does not tire.
+
 ## Vendetta Against Zhengyi
 
-Tark carries a personal vendetta against [[Zhengyi]], the Witch-King, who destroyed Tark's homeland and killed his family and mentor. This deep wound drives a thirst for revenge that contrasts sharply with his otherwise peaceful nature — a reminder that even the group's moral compass has limits to his forgiveness.
+Tark carries a personal vendetta against [[Zhengyi]], the Witch-King, who destroyed his homeland and ordered the death of his family. The instrument was the Oni [[Li Xian]] — a shapeshifter who carried a wicked flint knife and operated in Zhengyi's service throughout the North. Tark learned the truth in a dream: the face of the Oni who had killed his family was the same face that had hunted the group at the Sanctum of Krasus. He woke shaking and told the group everything, tears falling.
+
+In the Underdark, after Gravenhollow showed the party visions of past, present, and future, they struck: Planeshifting into Corpsetaker's camp and killing Li Xian in a devastating surprise attack — for Tark and Buumi's families both. The flint knife passed to the group. It resonated with Zhengyi's presence, a subtle heartbeat that grew louder the closer the Witch-King's operations came.
+
+By the time the group returned from their long absence, the war had come home. After the Barony was secured, a final Planeshift carried Tark east to Helioglabulus, the capital of [[Damara]] — his homeland, seen for the first time in seven years. Standing on the Damaran Steppe with the mountain range on the horizon, he felt cold. The flint knife thrummed in the [[Bag of Holding]], pulling him north.
 
 ## Tark's Treehouse
 
