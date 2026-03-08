@@ -20,7 +20,7 @@ places:
   - "tser-pool"
   - "vallaki"
 things:
-  - "book-of-strahd"
+  - "tome-of-strahd"
   - "gwen"
   - "thundercannon"
 factions:

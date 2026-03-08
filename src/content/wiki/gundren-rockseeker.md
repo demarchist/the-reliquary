@@ -23,7 +23,7 @@ Gundren has a gruff, no-nonsense demeanor and a rough-and-tumble attitude toward
 
 ## Combat
 
-In battle, Gundren fights with an enormous magical cannon, lobbing exploding shells and grapeshot at enemies. He is always accompanied by Guinevere, his astoundingly sophisticated clockwork lion — his magnum opus as an Artificer and the envy of Artificers the world over.
+In battle, Gundren fights with an enormous magical cannon, lobbing exploding shells and grapeshot at enemies. He is always accompanied by [[gwen|Guinevere]], his astoundingly sophisticated clockwork lion — his magnum opus as an Artificer and the envy of Artificers the world over.
 
 ## The Modron Connection
 

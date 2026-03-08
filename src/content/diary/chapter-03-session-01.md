@@ -18,7 +18,7 @@ places:
   - "baldurs-gate"
   - "ethereal-plane"
 things:
-  - "guinevere"
+  - "gwen"
   - "tavern-of-doors"
 ---
 

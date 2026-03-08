@@ -2,18 +2,21 @@
 title: "Holy Symbol of Ravenkind"
 category: "Things"
 aliases: ["Holy Symbol of Ravenkind"]
-firstAppearance: "chapter-05-session-03"
-description: "Sacred artifact in Barovia used to fight against Strahd and undead forces."
+firstAppearance: "chapter-05-session-08"
+status: "Destroyed"
+description: "A platinum sun amulet with a great ruby at its centre, unearthed beneath the dragon statue at Argynvostholt — one of the prophesied artifacts needed to defeat Strahd."
 ---
 
-## Description
+The Holy Symbol of Ravenkind is an ornate platinum amulet shaped like a stylised sun with a huge ruby set into its face, radiating unmistakable holy power. It was one of the key artifacts identified by [[madame-eva|Madame Eva]]'s tarokka reading as essential to the party's quest to confront [[strahd-von-zarovich|Strahd von Zarovich]].
 
-The Holy Symbol of Ravenkind is a sacred artifact connected to the forces of good within Barovia. It is one of the key items prophesied to aid in the defeat of Count Strahd von Zarovich.
+## Discovery
 
-## Properties
+[[tarkathee-daru|Tark]] felt drawn to the silver-plated dragon statue at [[argynvostholt|Argynvostholt]]. Focusing on Ysera's scale, he felt the urge to dig. [[cirrus-al-kayan|Cirrus]] shaped the earth away, excavating an old wooden chest containing the Symbol. [[horatio-von-bumidere|Buumi]] claimed it and wore it into every battle that followed.
 
-The symbol channels radiant energy effective against undead, making it an essential weapon in the fight against Strahd's vampiric forces. Madame Eva's tarokka reading identifies it as one of the artifacts the party must seek.
+## Use Against the Undead
 
-## History
+The Symbol channelled radiant sunlight devastating to vampires and undead. Buumi used it repeatedly throughout the party's time in [[barovia|Barovia]] — driving back [[strahd-von-zarovich|Strahd]] himself when the vampire lord ambushed them in the catacombs of [[castle-ravenloft|Castle Ravenloft]], its blazing sunlight burning him even through his own shield of darkness. It also served as a beacon of trust — Buumi raised the Symbol to prove the party's good intentions when they found the amnesiac [[mordenkainen|Mordenkainen]] wandering the snowy wilderness, its holy light enough to stay the archmage's hand.
 
-The Holy Symbol has been passed down through Barovia's history, safeguarded by those who resist Strahd's tyranny and await the day champions arise to challenge the vampire lord.
+## Destruction
+
+During the final confrontation at Castle Ravenloft, [[rahadin|Rahadin]] demanded the party surrender Ireena, the Holy Symbol, and the artifact. When they refused and Buumi flew from the rain-swept bridge with [[ireena|Ireena]] in one hand and the Symbol in the other, the vampire Peytr hurled his axe. It struck the Holy Symbol of Ravenkind and the artifact detonated in a blinding explosion — knocking Buumi unconscious and sending Ireena tumbling from his grasp.

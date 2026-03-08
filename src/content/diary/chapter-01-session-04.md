@@ -7,6 +7,7 @@ summary: "The party raids Cragmaw Castle to recover Gundren's artificer gear, tr
 people:
   - "agatha"
   - "aliyah-faen-tlabbar"
+  - "atropos"
   - "doc"
   - "feanon-serinde"
   - "gundren-rockseeker"

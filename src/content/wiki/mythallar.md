@@ -3,17 +3,17 @@ title: "Mythallar"
 category: "Things"
 aliases: ["Mythallar", "The Mythallar"]
 firstAppearance: "chapter-07-session-05"
-description: "Incomplete ancient Netherese device designed for creating floating cities, found in the Sanctum of Krasus."
+description: "An incomplete Netherese device of immense power, a nested latticework of platinum and gold polyhedra with a Prismeum core, found in the Sanctum of Krasus."
 ---
 
-## Description
+The Mythallar is an ancient Netherese device discovered in the Sanctum of Krasus within Shatterpeak mountain. It takes the form of a latticework of geometric shapes — beginning with an icosahedron lattice of rune-etched platinum and nesting down through successive polyhedra to a tetrahedron lattice of gold, with a marble of refined Prismeum glimmering at its core.
 
-The Mythallar is an ancient Netherese magical device of immense power, originally designed to create and sustain the floating cities for which the Netherese Empire was renowned. The specimen found in the Sanctum of Krasus is incomplete.
+## Discovery
 
-## Properties
+[[gundren-rockseeker|Gundren]] found the device atop a ruined desk in a desolate arcane laboratory, its once-magnificent equipment corroded by time. When he picked it up, an ethereal scream echoed through the chamber and the Allip Tantalisia phased through the wall, her insane babbling reaching into the minds of Gundren and [[tarkathee-daru|Tark]], briefly turning them against [[feanon-serinde|Fëanon]].
 
-Even in its incomplete state, the Mythallar represents one of the most powerful magical artifacts the party encounters. It channels and amplifies magical energy on a massive scale, with applications far beyond its original purpose.
+After the battle, Megno Slatesunder identified the device from a diagram in a book as a "Mythallar." Neither Megno nor Fëanon had heard the term, but [[cirrus-al-kayan|Cirrus]] had — from childhood stories told by his tiefling foster mother in [[amn|Amn]], tales of the ancient empire of Netheril and how they floated their great cities among the clouds using these arcane devices.
 
-## History
+## Research
 
-Discovered within the Sanctum of Krasus inside Shatterpeak mountain, the Mythallar becomes one of the party's most significant finds, with potential applications in their ongoing battles against world-threatening forces.
+Fëanon later determined that the Mythallar was not damaged but simply unfinished. Completing it would require additional power and more Prismeum — a rare material of extraordinary magical potential.

@@ -15,6 +15,7 @@ people:
   - "georg-von-strapp"
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
+  - "li-xian"
   - "lodan"
   - "mordenkainen"
   - "sera-von-bumidere"

@@ -259,6 +259,11 @@
     "title": "Atropos",
     "category": "People"
   },
+  "the planet born dead": {
+    "slug": "atropos",
+    "title": "Atropos",
+    "category": "People"
+  },
   "attack on neverwinter": {
     "slug": "attack-on-neverwinter",
     "title": "Attack on Neverwinter",
@@ -538,16 +543,6 @@
     "slug": "bolg",
     "title": "Bolg",
     "category": "People"
-  },
-  "book of strahd": {
-    "slug": "book-of-strahd",
-    "title": "Book of Strahd",
-    "category": "Things"
-  },
-  "strahd's journal": {
-    "slug": "book-of-strahd",
-    "title": "Book of Strahd",
-    "category": "Things"
   },
   "borborygmos": {
     "slug": "borborygmos",
@@ -1559,11 +1554,6 @@
     "title": "Gruttag",
     "category": "People"
   },
-  "guinevere": {
-    "slug": "guinevere",
-    "title": "Guinevere",
-    "category": "Things"
-  },
   "gundren rockseeker": {
     "slug": "gundren-rockseeker",
     "title": "Gundren Rockseeker",
@@ -1579,9 +1569,14 @@
     "title": "Gurnik",
     "category": "People"
   },
+  "guinevere": {
+    "slug": "gwen",
+    "title": "Guinevere",
+    "category": "Things"
+  },
   "gwen": {
     "slug": "gwen",
-    "title": "Gwen",
+    "title": "Guinevere",
     "category": "Things"
   },
   "gzunteit the bold": {
@@ -1984,6 +1979,11 @@
     "title": "Jade Frog",
     "category": "Things"
   },
+  "slippy": {
+    "slug": "jade-frog",
+    "title": "Jade Frog",
+    "category": "Things"
+  },
   "jadger": {
     "slug": "jadger",
     "title": "Jadger",
@@ -2125,6 +2125,11 @@
     "category": "Places"
   },
   "the keep": {
+    "slug": "keep-of-thunder-bluff",
+    "title": "The Keep of Thunder Bluff",
+    "category": "Places"
+  },
+  "herald's keep": {
     "slug": "keep-of-thunder-bluff",
     "title": "The Keep of Thunder Bluff",
     "category": "Places"
@@ -2300,6 +2305,11 @@
     "category": "People"
   },
   "the blue creature": {
+    "slug": "li-xian",
+    "title": "Li Xian",
+    "category": "People"
+  },
+  "mr. shon": {
     "slug": "li-xian",
     "title": "Li Xian",
     "category": "People"
@@ -3770,6 +3780,16 @@
     "category": "Things"
   },
   "tome of strahd": {
+    "slug": "tome-of-strahd",
+    "title": "Tome of Strahd",
+    "category": "Things"
+  },
+  "book of strahd": {
+    "slug": "tome-of-strahd",
+    "title": "Tome of Strahd",
+    "category": "Things"
+  },
+  "strahd's journal": {
     "slug": "tome-of-strahd",
     "title": "Tome of Strahd",
     "category": "Things"

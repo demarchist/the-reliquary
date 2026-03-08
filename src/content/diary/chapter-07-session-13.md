@@ -20,6 +20,7 @@ people:
   - "javen-tarkimos"
   - "kurt-von-bumidere"
   - "lady-faye"
+  - "li-xian"
   - "moot"
   - "mordenkainen"
   - "petey-greene"
