@@ -18,6 +18,7 @@ people:
   - "ruru"
   - "snorbul"
   - "tarkathee-daru"
+  - "vecna"
   - "willow-aldencroft"
 places:
   - "aina-pulu"

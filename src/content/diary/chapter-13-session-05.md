@@ -13,6 +13,7 @@ people:
   - "hohonu"
   - "horatio-von-bumidere"
   - "tarkathee-daru"
+  - "vecna"
 places:
   - "feywild"
 factions:

@@ -14,6 +14,7 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "vaketh"
+  - "vecna"
 places:
   - "ras-alkan"
   - "shadowfell"

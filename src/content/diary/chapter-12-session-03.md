@@ -16,6 +16,7 @@ people:
   - "selune"
   - "snorbul"
   - "tarkathee-daru"
+  - "vecna"
 places:
   - "al-askar"
   - "faerun"

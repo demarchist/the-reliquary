@@ -18,6 +18,7 @@ people:
   - "nalkara"
   - "snorbul"
   - "thorna"
+  - "vecna"
   - "velka"
   - "veygar"
 places:

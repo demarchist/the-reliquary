@@ -15,6 +15,7 @@ people:
   - "raveel"
   - "snorbul"
   - "tarkathee-daru"
+  - "vecna"
 places:
   - "al-askar"
   - "faerun"

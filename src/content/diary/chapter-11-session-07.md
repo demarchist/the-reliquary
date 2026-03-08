@@ -11,6 +11,7 @@ people:
   - "hazzim"
   - "horatio-von-bumidere"
   - "raveel"
+  - "vecna"
 places:
   - "al-askar"
   - "neverwinter"

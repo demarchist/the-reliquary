@@ -14,6 +14,7 @@ people:
   - "rudjek"
   - "snorbul"
   - "tarkathee-daru"
+  - "vecna"
 places:
   - "al-askar"
   - "iyum"

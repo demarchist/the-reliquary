@@ -13,6 +13,7 @@ people:
   - "horatio-von-bumidere"
   - "snorbul"
   - "tarkathee-daru"
+  - "vecna"
 places:
   - "al-askar"
 things:

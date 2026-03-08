@@ -12,6 +12,7 @@ people:
   - "lady-taurus"
   - "liara"
   - "snorbul"
+  - "vecna"
 places:
   - "al-askar"
   - "feywild"

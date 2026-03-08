@@ -18,6 +18,7 @@ people:
   - "sultan-bashir"
   - "vaketh"
   - "val-tengu"
+  - "vecna"
 places:
   - "al-askar"
   - "faerun"

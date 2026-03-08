@@ -10,6 +10,7 @@ people:
   - "hasrala"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "vecna"
 places:
   - "al-askar"
   - "faerun"

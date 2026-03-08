@@ -12,6 +12,7 @@ people:
   - "hazzim"
   - "horatio-von-bumidere"
   - "tarkathee-daru"
+  - "vecna"
 places:
   - "al-askar"
   - "faerun"

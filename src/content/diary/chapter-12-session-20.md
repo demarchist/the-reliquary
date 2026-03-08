@@ -14,6 +14,7 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "thorna"
+  - "vecna"
 things:
   - "saurian-firelance"
 factions:

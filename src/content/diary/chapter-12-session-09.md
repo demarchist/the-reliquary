@@ -17,6 +17,7 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "theodemir"
+  - "vecna"
   - "zhengyi"
 places:
   - "ethereal-plane"

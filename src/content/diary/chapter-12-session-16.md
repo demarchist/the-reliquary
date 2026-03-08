@@ -17,6 +17,7 @@ people:
   - "snorbul"
   - "tarkathee-daru"
   - "thorna"
+  - "vecna"
 places:
   - "amn"
   - "iyum"
