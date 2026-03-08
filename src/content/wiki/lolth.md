@@ -18,6 +18,10 @@ Lolth's influence dominates the great Drow capital, where her priestesses comman
 
 Lolth cursed [[blingdenstone|Blingdenstone]] through the Stone Priestess — a Medusa Drow wreathed in red lightning who had once served the Spider Queen before her transformation. [[eilistraee|Eilistraee]] confirmed the curse's nature when Patches communed at Gurnik's shrine. The party destroyed the Stone Priestess and lifted the curse, Patches decapitating the petrified priestess on Eilistraee's command — the Dark Maiden's daughter undoing the Spider Queen's work.
 
+## Patches and the Spider Queen
+
+[[aliyah-faen-tlabbar|Patches]]' relationship with Lolth is deeply personal and terrifying. She confided to the group that she was afraid of death — not of dying itself, but of what came after: her apostate soul would be delivered directly to Lolth for eternal torture in the [[abyss|Abyss]]. A Wish spell to bring her son [[finn|Finn]] to safety would draw Lolth's divine interference. Despite this, Patches routinely weaponised her Drow heritage — bluffing a demon warband as a priestess of Lolth to secure passage, and later disguising herself as a buxom Lolth priestess convincingly enough to unnerve the [[svirfneblin-faction|Svirfneblin]] at [[blingdenstone|Blingdenstone]]. Her service to [[eilistraee|Eilistraee]] was the opposite of Lolth's tyranny: redemption instead of subjugation, and the hope of saving herself and Finn from eternal damnation.
+
 ## The Demon Lords
 
 When [[demogorgon|Demogorgon]] was cast from [[gracksuluth|Gracksuluth]] into the Abyss, the Demon Lord's last coherent thought raged at Lolth: *How DARE she cast him from his own domain. But no matter — it must have cost her dearly. Perhaps even the fragment of the Weave she stole so long ago.* The Spider Queen's machinations extended beyond her drow — she manipulated demon lords and cosmic forces alike.

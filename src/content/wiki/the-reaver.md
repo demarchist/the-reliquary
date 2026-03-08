@@ -7,7 +7,11 @@ description: "A cursed rusted shortsword of Orcus that psychically attacked its 
 status: "Destroyed"
 ---
 
-The Reaver is a rusted shortsword found on an altar to Orcus in a nightmarish hag den. It psychically attacks anyone who handles it, feeds on souls and life force, and became bound to Patches after she claimed it — earning the nickname "Stabby" for its tendency to lash out at the unwary.
+The Reaver is a rusted shortsword found on an altar to [[orcus|Orcus]] in a nightmarish hag den beneath [[phandalin|Phandalin]]. It psychically attacks anyone who handles it, feeds on souls and life force, and became bound to [[aliyah-faen-tlabbar|Patches]] after she claimed it — earning the nickname "Stabby" for its tendency to lash out at the unwary.
+
+## The Hunger
+
+While Patches carried the Reaver, its hunger gnawed constantly at her soul. The blade demanded to feed, and Patches was forced to sacrifice one of the [[tavern-of-doors|Tavern of Doors]]' goblins to sate it — a disappearance [[jack-mayer-johnson-mathews|JmJm]] noticed the next morning but could not explain. In combat, the Reaver proved devastatingly effective against fiends and undead: Patches buried it in a chain devil's flank and let the cursed blade drain its life force until the creature dissolved to dust. The weapon was as dangerous to its wielder as to its enemies — a fragment of [[orcus|Orcus]]'s power that whispered darker and darker promises the longer it was held.
 
 ## The Cleansing
 
