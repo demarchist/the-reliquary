@@ -1,6 +1,6 @@
 ---
 title: The Eye of the Storm
-interlude: 1
+interlude: 2
 session: 4
 summary: "Breaking through a tornado-wall, the Dragonflight destroys a Shadowfell-tethered Ziggurat and burrows beneath the tundra to ambush from below — surfacing into the full scale of Zhengyi's operation. Two dragons are dominated, Themberchaud remains captive, and the Witch King commands overwhelming forces from a castle of black ice. The Dragonflight flees with a stolen Orb of Dragonkind, pressed into their hands by Tiamat in exchange for a Gold Dragon's fading strength."
 people:

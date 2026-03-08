@@ -6,6 +6,7 @@ session: 1
 summary: "The group spends a quiet night on a Damaran farm while Tark destroys the Flint Dagger of Li Xian in a spectacular explosion, drawing a mysterious planar traveler named Cassian and his celestial Pegasus out of the night sky — they recruit him over a campfire feast, ride to the fortress city of Helios, and discover that the Sunsword they once brought back from Barovia has been stolen from the Cathedral of Lathander."
 people:
   - "aliyah-faen-tlabbar"
+  - "cassian"
   - "cirrus-al-kayan"
   - "feanon-serinde"
   - "gaddock"

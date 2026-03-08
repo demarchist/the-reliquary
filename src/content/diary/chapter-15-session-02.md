@@ -1,10 +1,11 @@
 ---
-title: "Bloodstone - Thieves Cant"
+title: Bloodstone - Thieves Cant
 chapter: 15
 chapterTitle: Bloodstone
 session: 2
 summary: "The group follows Thieves' Cant signs into the city's criminal underworld, working upward from a street-level guild den to the upmarket establishment Rising Sun — where, after Fëanon discovers a victim whose memories have been devoured whole, Patches meets the guild boss Mister Luko and agrees to steal House Muskov's Seal in exchange for intelligence on Lord Aimu and the Sunsword."
 people:
+  - "aliyah-faen-tlabbar"
   - "cassian"
   - "cirrus-al-kayan"
   - "feanon-serinde"
@@ -12,14 +13,17 @@ people:
   - "gundren-rockseeker"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
-  - "patches"
+  - "lathander"
   - "tarkathee-daru"
 places:
+  - "al-askar"
+  - "feanons-tower"
   - "helioglabulus"
+  - "the-establishment"
 things:
-  - "sunsword"
+  - "iron-tome"
 factions:
-  - "crimson-dawn-knights"
+  - "illithid-faction"
   - "red-wizards-of-thay"
 ---
 

@@ -634,6 +634,11 @@
     "title": "Carrowill",
     "category": "People"
   },
+  "cassian": {
+    "slug": "cassian",
+    "title": "Cassian",
+    "category": "People"
+  },
   "castle ravenloft": {
     "slug": "castle-ravenloft",
     "title": "Castle Ravenloft",
@@ -1569,6 +1574,11 @@
     "title": "Gurnik",
     "category": "People"
   },
+  "gustavo": {
+    "slug": "gustavo",
+    "title": "Gustavo",
+    "category": "People"
+  },
   "guinevere": {
     "slug": "gwen",
     "title": "Guinevere",
@@ -2499,6 +2509,26 @@
     "title": "Master Koh",
     "category": "People"
   },
+  "mcas mythalmar": {
+    "slug": "mcas-mythalmar",
+    "title": "MCAS Mythalmar",
+    "category": "Places"
+  },
+  "mythalmar": {
+    "slug": "mcas-mythalmar",
+    "title": "MCAS Mythalmar",
+    "category": "Places"
+  },
+  "mythalmar combat arcane station": {
+    "slug": "mcas-mythalmar",
+    "title": "MCAS Mythalmar",
+    "category": "Places"
+  },
+  "air station mythalmar": {
+    "slug": "mcas-mythalmar",
+    "title": "MCAS Mythalmar",
+    "category": "Places"
+  },
   "mediocris dente": {
     "slug": "mediocris-dente",
     "title": "Mediocris Dente",
@@ -2884,6 +2914,16 @@
     "title": "Piwafwi",
     "category": "Things"
   },
+  "project starfall": {
+    "slug": "project-starfall",
+    "title": "Project STARFALL",
+    "category": "Events"
+  },
+  "starfall": {
+    "slug": "project-starfall",
+    "title": "Project STARFALL",
+    "category": "Events"
+  },
   "protanther": {
     "slug": "protanther",
     "title": "Protanther",
@@ -2893,6 +2933,21 @@
     "slug": "psi-shara",
     "title": "Psi'Shara",
     "category": "Factions"
+  },
+  "r-14 thunderchaser": {
+    "slug": "r-14-thunderchaser",
+    "title": "R-14 Thunderchaser",
+    "category": "Things"
+  },
+  "r-14": {
+    "slug": "r-14-thunderchaser",
+    "title": "R-14 Thunderchaser",
+    "category": "Things"
+  },
+  "thunderchaser": {
+    "slug": "r-14-thunderchaser",
+    "title": "R-14 Thunderchaser",
+    "category": "Things"
   },
   "rahadin": {
     "slug": "rahadin",
@@ -3138,6 +3193,11 @@
     "slug": "sebek",
     "title": "Sebek",
     "category": "People"
+  },
+  "selgaunt": {
+    "slug": "selgaunt",
+    "title": "Selgaunt",
+    "category": "Places"
   },
   "selûné": {
     "slug": "selune",
@@ -4063,6 +4123,21 @@
     "slug": "vizerion-devir",
     "title": "Vizerion DeVir",
     "category": "People"
+  },
+  "vk-31 frostbite": {
+    "slug": "vk-31-frostbite",
+    "title": "VK-31 Frostbite",
+    "category": "Things"
+  },
+  "vk-31": {
+    "slug": "vk-31-frostbite",
+    "title": "VK-31 Frostbite",
+    "category": "Things"
+  },
+  "frostbite": {
+    "slug": "vk-31-frostbite",
+    "title": "VK-31 Frostbite",
+    "category": "Things"
   },
   "vladalma": {
     "slug": "vladalma",

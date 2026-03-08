@@ -37,7 +37,6 @@ things:
   - "arkto"
   - "bag-of-holding"
   - "eclipse"
-  - "ring-of-mind-shielding"
 factions:
   - "drow-faction"
   - "faerun-defense-force"

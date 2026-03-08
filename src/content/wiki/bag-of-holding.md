@@ -22,6 +22,6 @@ A wet bag is unreliable and somewhat dangerous to use. The oscillating membrane 
 
 Once the curing process completes and the planar boundary fully stabilizes, the dampness ceases. The bag becomes **dry** and safe to use — the membrane locked in place, the sweating stopped, the pocket dimension firmly anchored. An artificer need only run a hand along the fabric to know whether a bag is ready; if the telltale slickness of astral condensate is still present, the bag goes back on the rack. Most reputable dealers will not sell a wet bag, though adventurers in a hurry have been known to buy them at a discount and simply wait.
 
-## Usage by the Spellforged
+## Usage by the FDF
 
-The Spellforged have made extensive use of Bags of Holding throughout their adventures, employing them for everything from standard equipment storage to creative tactical applications. Tark used one to transport Ront through a flooded tunnel, and the bags have served as impromptu storage for rescued prisoners, valuable artifacts, and the enormous quantities of treasure the party has accumulated over their campaigns.
+The [[faerun-defense-force|Faerûn Defense Force]] have made extensive use of Bags of Holding throughout their adventures, employing them for everything from standard equipment storage to creative tactical applications. [[tarkathee-daru|Tark]] used one to transport Ront through a flooded tunnel, and the bags have served as impromptu storage for rescued prisoners, valuable artifacts, and the enormous quantities of treasure the party has accumulated over their campaigns.
