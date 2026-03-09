@@ -51,6 +51,7 @@ places:
   - "neverwinter"
   - "phandalin"
   - "sanctum-of-krasus"
+  - "shade-enclave"
   - "shadowfell"
   - "sundabar"
   - "the-crossroads"
@@ -99,7 +100,7 @@ Whispers grew as the omissions became obvious. Two camps formed: the Amnians, Te
 
 Mordenkainen reported that scrying the [[Thayan Drop Box]]'s chain of custody revealed only middlemen. The Oni hair hit a barrier of non-detection. [[Delly Griplim]] confirmed this was standard countermeasure.
 
-Fëanon spoke with the woman in the blue gown — [[lady-avelyere|Lady Avelyere]] of Netheril. She recognised his robes as Netherese and was displeased to see an outsider wearing them. They discussed the resurgent empire. Fëanon was disappointed to learn Shade Enclave had devolved from meritocracy to aristocracy in the [[Shadowfell]].
+Fëanon spoke with the woman in the blue gown — [[lady-avelyere|Lady Avelyere]] of Netheril. She recognised his robes as Netherese and was displeased to see an outsider wearing them. They discussed the resurgent empire. Fëanon was disappointed to learn [[shade-enclave|Shade Enclave]] had devolved from meritocracy to aristocracy in the [[Shadowfell]].
 
 Patches found [[Lady Faye]] with [[Lemerlais]] on the outskirts. Lemerlais reported that the south had been far less affected by the Mists — the undead were disparate, easily dispatched. The Mists had been focused on the north, on [[Neverwinter]].
 

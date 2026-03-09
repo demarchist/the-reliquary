@@ -33,6 +33,7 @@ places:
   - "gravenhollow"
   - "menzoberranzan"
   - "moondancer-village"
+  - "shade-enclave"
   - "silverymoon"
   - "sundabar"
   - "the-crossroads"
@@ -124,4 +125,4 @@ He took measurements with calipers, called his brothers over for material estima
 
 [[aliyah-faen-tlabbar|Patches]] spent the day upgrading her bombs, then went to check on the Orcs across the river — no one had visited them recently. Taking [[pickles|Mr. Pickles]] as a translator and changing her skin tone to that of a Moon Elf, she headed in alone. The settlement had changed dramatically: a Dwarf-made bridge now spanned the river, and across it stood dozens of yurts and a palisade wall of sharpened logs against the Evermoor. The Orcs seemed to be doing well — their aggression directed outward into the Moors rather than at the local humans. She tried to speak with the leader of a warrior group heading out into the mist, but he was not interested in talking to an elf he didn't know, even one quick enough to dodge him. He chuckled and walked away. [[aliyah-faen-tlabbar|Patches]] shrugged and headed back.
 
-[[feanon-serinde|Fey]] spent the day drafting letters — ingredients and custom materials for his research, and an invitation to [[lady-avelyere|Lady Avelyere]] of Shade Enclave, the Netherese Arcanist. The [[iron-tome|Iron Tome]] and [[theodemir|Theodemir]] were checking his calculations. He was confident the spell would be ready to cast soon.
+[[feanon-serinde|Fey]] spent the day drafting letters — ingredients and custom materials for his research, and an invitation to [[lady-avelyere|Lady Avelyere]] of [[shade-enclave|Shade Enclave]], the Netherese Arcanist. The [[iron-tome|Iron Tome]] and [[theodemir|Theodemir]] were checking his calculations. He was confident the spell would be ready to cast soon.

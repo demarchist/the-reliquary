@@ -32,6 +32,7 @@ places:
   - "menzoberranzan"
   - "scornubel"
   - "selunia"
+  - "shade-enclave"
   - "svartalfheim"
   - "the-establishment"
   - "the-labyrinth"
@@ -93,7 +94,7 @@ Later, she toured [[feanons-tower|Feanon's Tower]] and was genuinely impressed b
 
 [[cirrus-al-kayan|Cirrus]] had drinks with [[lady-avelyere|Lady Avelyere]] and rubbed it in [[feanon-serinde|Feanon's]] face.
 
-[[tarkathee-daru|Tark]] sparred with one of the Shadowmonk bodyguards and defeated the man easily. He learned that the [[netherese|Netherese]] maintained at least one monastery and was invited to Shade Enclave near Myth Drannor to see the Way of the Pointed Step and meet Master Jorell — a vampire who supposedly never needed to feed.
+[[tarkathee-daru|Tark]] sparred with one of the Shadowmonk bodyguards and defeated the man easily. He learned that the [[netherese|Netherese]] maintained at least one monastery and was invited to [[shade-enclave|Shade Enclave]] near Myth Drannor to see the Way of the Pointed Step and meet Master Jorell — a vampire who supposedly never needed to feed.
 
 [[aliyah-faen-tlabbar|Patches]] met with [[lady-faye|Lady Faye]] and negotiated her release from the [[zhentarim|Zhentarim]]. [[lady-faye|Lady Faye]] was eager for outside allies and agreed — with [[aliyah-faen-tlabbar|Patches]] swearing friendship and partnership in future endeavours. Lady Faye also noted that her husband, Lord Huffelbram, was dying of gout and similar ailments, and insinuated that she might be expediting matters. She mentioned good trade relations between her own house and [[bregan-daerthe|Bregan D'Aerthe]].
 
