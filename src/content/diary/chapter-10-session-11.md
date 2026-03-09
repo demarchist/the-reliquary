@@ -8,6 +8,7 @@ people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
   - "feanon-serinde"
+  - "lady-avelyere"
   - "tarkathee-daru"
   - "vizerion-devir"
   - "zuggtmoy"
@@ -24,7 +25,7 @@ factions:
   - "netherese"
 ---
 
-Five days until Lady Avelyere of the [[netherese|Netherese]] arrived. Three weeks until the ball in [[silverymoon|Silverymoon]].
+Five days until [[lady-avelyere|Lady Avelyere]] of the [[netherese|Netherese]] arrived. Three weeks until the ball in [[silverymoon|Silverymoon]].
 
 [[feanon-serinde|Feanon]] spent the entire night working with his cabal of mages to excise the necromantic undercurrent from [[vizerion-devir|Vizerion's]] ritual spell. The work was sloppy, but it got the job done — the soul-harvesting component was stripped out while preserving the Demon Lord summoning.
 

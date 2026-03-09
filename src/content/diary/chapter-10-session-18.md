@@ -13,6 +13,7 @@ people:
   - "horatio-von-bumidere"
   - "jarlaxle"
   - "kimmuriel"
+  - "lady-avelyere"
   - "lolth"
   - "magistrate-delroy"
   - "selune"
@@ -68,7 +69,7 @@ The [[bregan-daerthe|Bregan D'Aerthe]] [[drow-faction|Drow]], having shed their 
 
 With the psionicist gone, [[aliyah-faen-tlabbar|Patches]] turned to the group and offered to answer any and all questions — honestly, as a show of good faith. They asked about Tiago, about [[finn|Finn]], about her feelings for [[horatio-von-bumidere|Buumi]]. She answered them all.
 
-Afterward, she took [[finn|Finn]] on a tour of the [[selunia|Barony]], showing him the towers and the surrounds. [[tarkathee-daru|Tark]] headed north alone. [[feanon-serinde|Feanon]] returned to his tower to prepare for the arrival of Lady Avelyere and to begin work on another clone. [[cirrus-al-kayan|Cirrus]] headed to his Fane with [[finn|Finn]] and [[aliyah-faen-tlabbar|Patches]] to tend to the newly arrived refugees, speaking to each before retiring to his inner sanctum.
+Afterward, she took [[finn|Finn]] on a tour of the [[selunia|Barony]], showing him the towers and the surrounds. [[tarkathee-daru|Tark]] headed north alone. [[feanon-serinde|Feanon]] returned to his tower to prepare for the arrival of [[lady-avelyere|Lady Avelyere]] and to begin work on another clone. [[cirrus-al-kayan|Cirrus]] headed to his Fane with [[finn|Finn]] and [[aliyah-faen-tlabbar|Patches]] to tend to the newly arrived refugees, speaking to each before retiring to his inner sanctum.
 
 [[finn|Finn]] expressed concern about his safety from [[vladalma|Valdalma]]. [[aliyah-faen-tlabbar|Patches]] asked [[cirrus-al-kayan|Cirrus]] if he could take them to [[svartalfheim|Svartalfheim]]. He agreed — after he had rested.
 

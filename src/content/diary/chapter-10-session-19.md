@@ -3,7 +3,7 @@ title: Beyond the Veil - Time at Home
 chapter: 10
 chapterTitle: Beyond the Veil
 session: 19
-summary: "The group spent several days in Dokkar before returning to find the Barony grappling with Slaad tadpoles gestating inside freed slaves. After curing the infected and hunting the spawned Blue Slaad, the group turned to preparations — Gundren investigated leads on the Efreeti Chain at Scornubel, Feanon hosted Lady Avelyere of the Netherese, and the debutante ball was ruined by a coordinated theft. Patches spied on Buumi's potential betrothed, Willow Aldencroft, and found the woman suspiciously capable."
+summary: "The group spent several days in Dokkar before returning to find the Barony grappling with Slaad tadpoles gestating inside freed slaves. After curing the infected and hunting the spawned Blue Slaad, the group turned to preparations — Gundren investigated leads on the Efreeti Chain at Scornubel, Feanon hosted [[lady-avelyere|Lady Avelyere]] of the Netherese, and the debutante ball was ruined by a coordinated theft. Patches spied on Buumi's potential betrothed, Willow Aldencroft, and found the woman suspiciously capable."
 people:
   - "aliyah-faen-tlabbar"
   - "anaxtrasa"
@@ -15,6 +15,7 @@ people:
   - "hemeth"
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
+  - "lady-avelyere"
   - "lady-faye"
   - "magistrate-delroy"
   - "snorbul"
@@ -76,7 +77,7 @@ With the last of the fallout from [[menzoberranzan|Menzoberranzan]] dealt with, 
 
 [[gundren-rockseeker|Gundren]] caught up on his information network and identified several promising leads. He settled on pursuing the Efreeti Chain at the siege of [[scornubel|Scornubel]], where a Dwarven captain on the front lines had put out a call for experts to deal with the Efreeti his troops were facing.
 
-[[feanon-serinde|Feanon]] conducted experiments on the dead Slaad, completed another Distortion spell, and prepared for the visit of Lady Avelyere of the [[netherese|Netherese]].
+[[feanon-serinde|Feanon]] conducted experiments on the dead Slaad, completed another Distortion spell, and prepared for the visit of [[lady-avelyere|Lady Avelyere]] of the [[netherese|Netherese]].
 
 [[aliyah-faen-tlabbar|Patches]] had her Aurora cloak fitted for the ball, managed the arriving nobles, and met with [[veygar|Veygar]]. The [[duergar-faction|Duergar]] proposed merging crews under [[aliyah-faen-tlabbar|Patches']] leadership, with himself as her second. She was lukewarm — more open to a subcontracting arrangement. He said he would think about it.
 
@@ -84,13 +85,13 @@ With the last of the fallout from [[menzoberranzan|Menzoberranzan]] dealt with, 
 
 [[tarkathee-daru|Tark]] was consumed entirely by snail training — working with Stripes, his beloved gastropod.
 
-## Lady Avelyere and the Ball
+## [[lady-avelyere|Lady Avelyere]] and the Ball
 
-Nobles and members of high society arrived over the following days — [[lady-faye|Lady Faye]], Lady Avelyere, [[anaxtrasa|Anaxtrasa]], and more. Lady Avelyere arrived in an ornate black carriage flanked by two Shadowmonk bodyguards. [[feanon-serinde|Feanon]] met her in the town square with his entire mage enclave, intentionally arriving before [[cirrus-al-kayan|Cirrus]]. She surveyed his looted [[netherese|Netherese]] artefacts with displeasure and retired to her rooms.
+Nobles and members of high society arrived over the following days — [[lady-faye|Lady Faye]], [[lady-avelyere|Lady Avelyere]], [[anaxtrasa|Anaxtrasa]], and more. [[lady-avelyere|Lady Avelyere]] arrived in an ornate black carriage flanked by two Shadowmonk bodyguards. [[feanon-serinde|Feanon]] met her in the town square with his entire mage enclave, intentionally arriving before [[cirrus-al-kayan|Cirrus]]. She surveyed his looted [[netherese|Netherese]] artefacts with displeasure and retired to her rooms.
 
 Later, she toured [[feanons-tower|Feanon's Tower]] and was genuinely impressed by his operation. Over the course of their conversations, she reiterated the [[netherese|Netherese]] drive to reclaim their lost cultural artefacts and expressed interest in acquiring the [[iron-tome|Iron Tome]] and [[feanon-serinde|Feanon's]] robes. He declined. She proposed a contract — the artefacts to be returned upon his natural death. He said he would consider it. They did agree that [[netherese|Netherese]] nobles would patronise the [[selunia|Barony's]] establishment and auction house, and that her Coven would personally acquire any other [[netherese|Netherese]] artefacts the group obtained. [[feanon-serinde|Feanon]] carefully steered their discussions toward [[mythallar|Mythallars]], taking care not to reveal that he possessed one in an unfinished state.
 
-[[cirrus-al-kayan|Cirrus]] had drinks with Lady Avelyere and rubbed it in [[feanon-serinde|Feanon's]] face.
+[[cirrus-al-kayan|Cirrus]] had drinks with [[lady-avelyere|Lady Avelyere]] and rubbed it in [[feanon-serinde|Feanon's]] face.
 
 [[tarkathee-daru|Tark]] sparred with one of the Shadowmonk bodyguards and defeated the man easily. He learned that the [[netherese|Netherese]] maintained at least one monastery and was invited to Shade Enclave near Myth Drannor to see the Way of the Pointed Step and meet Master Jorell — a vampire who supposedly never needed to feed.
 

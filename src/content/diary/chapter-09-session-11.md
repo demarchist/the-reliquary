@@ -14,6 +14,7 @@ people:
   - "feanon-serinde"
   - "gruttag"
   - "gundren-rockseeker"
+  - "lady-avelyere"
   - "lady-faye"
   - "lemerlais"
   - "lolth"
@@ -119,7 +120,7 @@ The group reconvened in the evening and finalized their approach. Rather than tr
 
 At dinner they found Magistrate Li eating with Elira in Over the Moon and told her the plan. Li acknowledged it and mentioned that [[silverymoon|Silverymoon]] had been informed of the Aboleth incursion; in response, a mercenary band called Bohd's Band had been contracted to reinforce the barony's defenses. She placed a crimson envelope sealed with black wax on the table — from the Netherese — and went back to her dinner.
 
-That evening, [[feanon-serinde|Fey]] read it. Lady Avelyere of Shade Enclave would be visiting in two weeks to tour the barony and discuss arcane matters.
+That evening, [[feanon-serinde|Fey]] read it. [[lady-avelyere|Lady Avelyere]] of Shade Enclave would be visiting in two weeks to tour the barony and discuss arcane matters.
 
 ---
 

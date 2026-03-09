@@ -14,7 +14,7 @@ The Shadowfell is a dark, twisted reflection of the Material Plane, a realm of s
 
 ## Shade Enclave
 
-The [[netherese|Netherese]] floating city of Shade Enclave survived for centuries within the Shadowfell after the fall of Netheril. [[feanon-serinde|Fëanon]] spoke with Lady Avelyere of Netheril at the Council of Helm's Hold, who recognised his robes as Netherese. He was disappointed to learn that the enclave had devolved from meritocracy to aristocracy during its long exile in the Plane of Shadow.
+The [[netherese|Netherese]] floating city of Shade Enclave survived for centuries within the Shadowfell after the fall of Netheril. [[feanon-serinde|Fëanon]] spoke with [[lady-avelyere|Lady Avelyere]] of Netheril at the Council of Helm's Hold, who recognised his robes as Netherese. He was disappointed to learn that the enclave had devolved from meritocracy to aristocracy during its long exile in the Plane of Shadow.
 
 ## The Underdark Bleed
 
