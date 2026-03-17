@@ -14,15 +14,21 @@ people:
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "lathander"
+  - "lord-aimu"
+  - "mister-luko"
   - "tarkathee-daru"
 places:
   - "al-askar"
   - "feanons-tower"
   - "helioglabulus"
+  - "rising-sun"
   - "the-establishment"
 things:
   - "iron-tome"
+  - "sunsword"
 factions:
+  - "crimson-dawn-knights"
+  - "house-muskov"
   - "illithid-faction"
   - "red-wizards-of-thay"
 ---

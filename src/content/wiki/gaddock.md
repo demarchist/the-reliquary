@@ -35,6 +35,12 @@ Gaddock confirmed everything. He had died in Zhengyi's prison. He had been raise
 
 Even in undeath, Gaddock retained the qualities that made him a great master: patience, clarity, and an unflinching willingness to tell Tark hard truths. He had refused to let Tark rush to his aid when he was merely a prisoner. He refused again when he was a vampire, with even higher stakes. His final counsel — *stay away; beat Zhengyi; that is the only way* — was the act of a man who still put his student's purpose above his own salvation.
 
+## House Muskov
+
+When the group infiltrated [[house-muskov|House Muskov]] in [[helioglabulus|Helios]], they learned that a pale monk was guarding the upper floors. A survivor of [[mister-luko|Mister Luko]]'s previous heist team described the figure: bald, with tattered monk's robes hanging from a powerful frame, pale skin, a black bushy beard threaded with grey, bloodshot red eyes, and a staff of black crystal. The monk had killed the team's wizard with a touch of the staff — a flash of green light that turned him to dust — and smashed the survivor through the floor. Throughout the encounter, the pale monk had seemed sad and borderline expressionless, going through the motions of violence with a kind of distant sorrow.
+
+The group recognised the description immediately. Gaddock — transformed, armed with an unknown weapon, and stationed in a noble house for reasons not yet clear. The news was intended for [[tarkathee-daru|Tark]], who had not been present at [[house-muskov|House Muskov]] that morning.
+
 ## Role in the Story
 
 Gaddock's transformation represents [[zhengyi|Zhengyi]]'s cruelty at its most calculated. The Lich-King did not merely take a hostage; he converted one of Tark's most trusted relationships into a surveillance network, turning a father figure into an unwitting informant. The revelation shattered Tark's composure — he locked himself in a bathroom and demolished it while the party waited outside — and redefined his relationship to Zhengyi from obligation to something far more personal.

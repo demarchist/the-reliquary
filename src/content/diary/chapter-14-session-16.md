@@ -38,6 +38,7 @@ things:
   - "bag-of-holding"
   - "eclipse"
 factions:
+  - "crimson-dawn-knights"
   - "drow-faction"
   - "faerun-defense-force"
   - "house-faen-tlabbar"

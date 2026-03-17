@@ -579,6 +579,21 @@
     "title": "Bregan D'aerthe",
     "category": "Factions"
   },
+  "brusso muskov": {
+    "slug": "brusso-muskov",
+    "title": "Brusso Muskov",
+    "category": "People"
+  },
+  "lord brusso": {
+    "slug": "brusso-muskov",
+    "title": "Brusso Muskov",
+    "category": "People"
+  },
+  "lord muskov": {
+    "slug": "brusso-muskov",
+    "title": "Brusso Muskov",
+    "category": "People"
+  },
   "bytopia": {
     "slug": "bytopia",
     "title": "Bytopia",
@@ -784,6 +799,21 @@
     "title": "Cragmaw Tribe",
     "category": "Factions"
   },
+  "crimson dawn knights": {
+    "slug": "crimson-dawn-knights",
+    "title": "Crimson Dawn Knights",
+    "category": "Factions"
+  },
+  "order of the crimson dawn": {
+    "slug": "crimson-dawn-knights",
+    "title": "Crimson Dawn Knights",
+    "category": "Factions"
+  },
+  "crimson dawn": {
+    "slug": "crimson-dawn-knights",
+    "title": "Crimson Dawn Knights",
+    "category": "Factions"
+  },
   "crisserei": {
     "slug": "crisserei",
     "title": "Crisserei",
@@ -928,6 +958,21 @@
     "slug": "derro-faction",
     "title": "The Derro",
     "category": "Factions"
+  },
+  "dimitri muskov": {
+    "slug": "dimitri-muskov",
+    "title": "Dimitri Muskov",
+    "category": "People"
+  },
+  "lord dimitri": {
+    "slug": "dimitri-muskov",
+    "title": "Dimitri Muskov",
+    "category": "People"
+  },
+  "dimitri": {
+    "slug": "dimitri-muskov",
+    "title": "Dimitri Muskov",
+    "category": "People"
   },
   "disphotic forest": {
     "slug": "disphotic-forest",
@@ -1774,6 +1819,11 @@
     "title": "Horrah",
     "category": "People"
   },
+  "house aimu": {
+    "slug": "house-aimu",
+    "title": "House Aimu",
+    "category": "Factions"
+  },
   "house alamreth undonwe": {
     "slug": "house-alamreth-undonwe",
     "title": "House Alamreth Undonwe",
@@ -1799,6 +1849,11 @@
     "title": "House Faen Tlabbar",
     "category": "Factions"
   },
+  "house huron": {
+    "slug": "house-huron",
+    "title": "House Huron",
+    "category": "Factions"
+  },
   "house invincible": {
     "slug": "house-invincible",
     "title": "House Invincible",
@@ -1808,6 +1863,11 @@
     "slug": "house-invincible",
     "title": "House Invincible",
     "category": "Places"
+  },
+  "house muskov": {
+    "slug": "house-muskov",
+    "title": "House Muskov",
+    "category": "Factions"
   },
   "hugh": {
     "slug": "hugh",
@@ -2394,6 +2454,11 @@
     "title": "Longsaddle",
     "category": "Places"
   },
+  "lord aimu": {
+    "slug": "lord-aimu",
+    "title": "Lord Aimu",
+    "category": "People"
+  },
   "lord dagult neverember": {
     "slug": "lord-neverember",
     "title": "Lord Dagult Neverember",
@@ -2624,6 +2689,26 @@
     "title": "Miranda",
     "category": "People"
   },
+  "mister luko": {
+    "slug": "mister-luko",
+    "title": "Mister Luko",
+    "category": "People"
+  },
+  "luko": {
+    "slug": "mister-luko",
+    "title": "Mister Luko",
+    "category": "People"
+  },
+  "mr. luko": {
+    "slug": "mister-luko",
+    "title": "Mister Luko",
+    "category": "People"
+  },
+  "mr luko": {
+    "slug": "mister-luko",
+    "title": "Mister Luko",
+    "category": "People"
+  },
   "moogie": {
     "slug": "moogie",
     "title": "Moogie",
@@ -2737,6 +2822,21 @@
   "narhan": {
     "slug": "narhan",
     "title": "Narhan",
+    "category": "People"
+  },
+  "natasha huron": {
+    "slug": "natasha-huron",
+    "title": "Natasha Huron",
+    "category": "People"
+  },
+  "natasha": {
+    "slug": "natasha-huron",
+    "title": "Natasha Huron",
+    "category": "People"
+  },
+  "lady natasha": {
+    "slug": "natasha-huron",
+    "title": "Natasha Huron",
     "category": "People"
   },
   "the netherese": {
@@ -3063,6 +3163,11 @@
     "slug": "ringed-veils",
     "title": "The Ringed Veils",
     "category": "Things"
+  },
+  "rising sun": {
+    "slug": "rising-sun",
+    "title": "Rising Sun",
+    "category": "Places"
   },
   "rockseeker manufactory": {
     "slug": "rockseeker-manufactory",
@@ -3533,6 +3638,16 @@
     "slug": "sundabar",
     "title": "Sundabar",
     "category": "Places"
+  },
+  "sunsword": {
+    "slug": "sunsword",
+    "title": "Sunsword",
+    "category": "Things"
+  },
+  "sun sword": {
+    "slug": "sunsword",
+    "title": "Sunsword",
+    "category": "Things"
   },
   "surtr": {
     "slug": "surtr",

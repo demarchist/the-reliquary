@@ -28,6 +28,7 @@ places:
   - "barovia"
   - "faerun"
   - "krezk"
+  - "rising-sun"
   - "silverymoon"
 things:
   - "bag-of-holding"

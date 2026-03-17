@@ -15,6 +15,7 @@ people:
   - "jack-mayer-johnson-mathews"
   - "lathander"
   - "li-xian"
+  - "lord-aimu"
   - "mordenkainen"
   - "tarkathee-daru"
   - "vaketh"
@@ -29,9 +30,12 @@ things:
   - "eclipse"
   - "iron-tome"
   - "steden"
+  - "sunsword"
   - "the-last-word"
 factions:
+  - "crimson-dawn-knights"
   - "drow-faction"
+  - "house-huron"
   - "red-wizards-of-thay"
 ---
 
