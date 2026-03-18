@@ -40,6 +40,7 @@ places:
   - "the-evermoors"
   - "thunder-bluff"
 things:
+  - "ewer-of-feasting"
   - "gwen"
   - "tavern-of-doors"
   - "thayan-drop-box"

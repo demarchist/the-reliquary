@@ -22,6 +22,7 @@ people:
 places:
   - "blingdenstone"
   - "gracksuluth"
+  - "magnificent-mansion"
   - "neverwinter"
   - "rockseeker-manufactory"
   - "shattered-spire"

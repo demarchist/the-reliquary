@@ -26,6 +26,7 @@ places:
   - "vallaki"
 things:
   - "bag-of-holding"
+  - "ewer-of-feasting"
   - "holy-symbol-of-ravenkind"
   - "piwafwi"
 ---

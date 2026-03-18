@@ -24,6 +24,7 @@ people:
 places:
   - "darklake"
   - "gracksuluth"
+  - "magnificent-mansion"
   - "menzoberranzan"
   - "the-crossroads"
   - "underdark"

@@ -519,6 +519,16 @@
     "title": "Bloodstone City",
     "category": "Places"
   },
+  "bloodstone lands": {
+    "slug": "bloodstone-lands",
+    "title": "Bloodstone Lands",
+    "category": "Places"
+  },
+  "the bloodstone lands": {
+    "slug": "bloodstone-lands",
+    "title": "Bloodstone Lands",
+    "category": "Places"
+  },
   "bluelake district": {
     "slug": "bluelake-district",
     "title": "Bluelake District",
@@ -1219,6 +1229,26 @@
     "title": "Evermeet",
     "category": "Places"
   },
+  "ewer of feasting": {
+    "slug": "ewer-of-feasting",
+    "title": "Ewer of Feasting",
+    "category": "Things"
+  },
+  "horn of feasting": {
+    "slug": "ewer-of-feasting",
+    "title": "Ewer of Feasting",
+    "category": "Things"
+  },
+  "the ewer": {
+    "slug": "ewer-of-feasting",
+    "title": "Ewer of Feasting",
+    "category": "Things"
+  },
+  "gundren's ewer": {
+    "slug": "ewer-of-feasting",
+    "title": "Ewer of Feasting",
+    "category": "Things"
+  },
   "the eye of aren": {
     "slug": "eye-of-aren",
     "title": "The Eye of Aren",
@@ -1393,6 +1423,26 @@
     "slug": "flaming-fist",
     "title": "Flaming Fist",
     "category": "Factions"
+  },
+  "flint dagger of li xian": {
+    "slug": "flint-dagger-of-li-xian",
+    "title": "Flint Dagger of Li Xian",
+    "category": "Things"
+  },
+  "the flint knife": {
+    "slug": "flint-dagger-of-li-xian",
+    "title": "Flint Dagger of Li Xian",
+    "category": "Things"
+  },
+  "li xian's dagger": {
+    "slug": "flint-dagger-of-li-xian",
+    "title": "Flint Dagger of Li Xian",
+    "category": "Things"
+  },
+  "the flint blade": {
+    "slug": "flint-dagger-of-li-xian",
+    "title": "Flint Dagger of Li Xian",
+    "category": "Things"
   },
   "font of fawden": {
     "slug": "font-of-fawden",
@@ -2573,6 +2623,26 @@
     "slug": "magistrate-li",
     "title": "Magistrate Li",
     "category": "People"
+  },
+  "fëanon's magnificent mansion": {
+    "slug": "magnificent-mansion",
+    "title": "Fëanon's Magnificent Mansion",
+    "category": "Places"
+  },
+  "the magnificent mansion": {
+    "slug": "magnificent-mansion",
+    "title": "Fëanon's Magnificent Mansion",
+    "category": "Places"
+  },
+  "the mansion": {
+    "slug": "magnificent-mansion",
+    "title": "Fëanon's Magnificent Mansion",
+    "category": "Places"
+  },
+  "fëanon's mansion": {
+    "slug": "magnificent-mansion",
+    "title": "Fëanon's Magnificent Mansion",
+    "category": "Places"
   },
   "maria": {
     "slug": "maria",

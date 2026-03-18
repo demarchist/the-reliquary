@@ -21,6 +21,8 @@ places:
   - "font-of-fawden"
   - "iyum"
   - "temple-of-carthus"
+things:
+  - "ewer-of-feasting"
 ---
 
 ## The Purified Temple

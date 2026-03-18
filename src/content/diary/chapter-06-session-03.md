@@ -30,6 +30,7 @@ places:
 things:
   - "bag-of-holding"
   - "deck-of-illusions"
+  - "ewer-of-feasting"
   - "gwen"
   - "luck-blade"
   - "the-reaver"

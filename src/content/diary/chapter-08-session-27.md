@@ -40,6 +40,7 @@ places:
   - "thunder-bluff"
   - "underdark"
 things:
+  - "ewer-of-feasting"
   - "tavern-of-doors"
 factions:
   - "duergar-faction"

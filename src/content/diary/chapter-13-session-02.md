@@ -19,6 +19,7 @@ places:
   - "al-askar"
   - "golden-tower"
   - "machina-factory"
+  - "magnificent-mansion"
   - "sharza"
   - "thueba-swamp"
 things:

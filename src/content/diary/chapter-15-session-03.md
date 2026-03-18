@@ -22,6 +22,7 @@ people:
   - "zhengyi"
 places:
   - "helioglabulus"
+  - "magnificent-mansion"
   - "rising-sun"
 things:
   - "bag-of-holding"
@@ -65,7 +66,7 @@ She returned to Buumi. They walked quickly to the new townhome.
 
 Patches told the group about the killing. Fëanon mentioned the man he had found the previous evening — the servant whose mind had been hollowed out by something that pressed ten fingerprints into his skull. Two different kinds of victim. Two different kinds of predator, perhaps — or two different appetites belonging to the same one.
 
-The group went over the townhome thoroughly, finding a number of listening devices and basic wards planted throughout. Fëanon set up his Magnificent Mansion within the mansion — a private plane nested inside the Queen's hospitality — and the group rested without incident.
+The group went over the townhome thoroughly, finding a number of listening devices and basic wards planted throughout. Fëanon set up his [[magnificent-mansion|Magnificent Mansion]] within the mansion — a private plane nested inside the Queen's hospitality — and the group rested without incident.
 
 ## House Muskov
 

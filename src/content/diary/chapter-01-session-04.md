@@ -25,6 +25,7 @@ places:
   - "cragmaw-castle"
   - "ivy-mansion"
   - "longsaddle"
+  - "magnificent-mansion"
   - "neverwinter"
   - "shadowfell"
   - "wave-echo-cave"

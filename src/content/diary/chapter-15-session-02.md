@@ -53,7 +53,7 @@ Patches spoke to the barman. He would show them into the proper establishment �
 
 [[feanon-serinde|Fëanon]] stayed upstairs and found himself a table with a young rogue called Igo, who could not pass up the chance to ingratiate himself with someone so clearly formidable and unusual. Fëanon saw the value of a pair of local eyes and bought the conversation with a frank promise of gold.
 
-Igo knew the city. Beyond the Thayans — who had taken rooms in a noble house and were doing what Thayans did — there had been one other concentration of magical power in a city otherwise dominated by Warlocks and Paladins. Two weeks prior, a great golden orb had floated over [[Helios]] like a second sun and parked itself near Huron Tower. Black-cloaked figures had descended, spent the night in the tower, and returned to it the following morning before the whole enormous thing departed. The common people had taken it as a sign from the Morninglord. Fëanon filed it away carefully, pressed a handful of gold on the boy, and asked him to pass word if he heard anything strange.
+Igo knew the city. Beyond the Thayans — who had taken rooms in a noble house and were doing what Thayans did — there had been one other concentration of magical power in a city otherwise dominated by Warlocks and Paladins. Two weeks prior, a great golden orb had floated over [[helioglabulus|Helios]] like a second sun and parked itself near Huron Tower. Black-cloaked figures had descended, spent the night in the tower, and returned to it the following morning before the whole enormous thing departed. The common people had taken it as a sign from the Morninglord. Fëanon filed it away carefully, pressed a handful of gold on the boy, and asked him to pass word if he heard anything strange.
 
 Below, the underground establishment was roughly twice the size of the room above — another low-ceilinged space of rough tables and cautious-looking people. The local bard was playing when JmJm entered. He stopped, looked at JmJm, reconsidered his career, and set down his instrument. This was a mercy. JmJm had been moments away from asking Patches to silence him.
 
@@ -91,7 +91,7 @@ Fëanon considered the room.
 
 He is, by any honest measure, one of the most dangerous mental presences alive — a master Enchanter who can unmake a man's memories, arrest a will in mid-thought, or bend a conviction so cleanly that the victim never knows the hand was on the wheel. A foyer full of bouncers, however impressively dressed, would be a manageable problem with the right preparation.
 
-The right preparation was not what he had arrived with. Enchantment magic requires planning — spells loaded in advance, each casting shaped before the day begins. What he had available was everything else: fire, lightning, force, the blunt and spectacular arsenal of a wizard who had not been thinking about this particular obstacle when he woke that morning. He looked at the bouncers. He thought about what a fireball in an upscale nightclub would do to the group's standing in [[Helios]]. He thought about the Iron Tome — a legendary artifact of incalculable value — sitting in a coat-check box he did not control.
+The right preparation was not what he had arrived with. Enchantment magic requires planning — spells loaded in advance, each casting shaped before the day begins. What he had available was everything else: fire, lightning, force, the blunt and spectacular arsenal of a wizard who had not been thinking about this particular obstacle when he woke that morning. He looked at the bouncers. He thought about what a fireball in an upscale nightclub would do to the group's standing in [[helioglabulus|Helios]]. He thought about the Iron Tome — a legendary artifact of incalculable value — sitting in a coat-check box he did not control.
 
 He argued briefly with the Coatman. The Coatman was unmoved.
 
@@ -123,11 +123,7 @@ The others had been at it for an hour. Fëanon found them at a gambling table so
 
 A haze of sweet smoke hung over the floor. Silk-wrapped servers moved between the tables carrying silver trays. The noise was managed and deliberate — the clink of glassware, the movement of chips, polite laughter held just below a certain volume, the low continuous murmur of people selecting their words with care. Above, two mezzanine levels held dining booths and curtained halls; above those, a third-floor dining room glowed warmly behind large windows, figures moving in unhurried conversation, a long way up and clearly intended to feel that way.
 
-Fëanon settled into an empty seat, collected a drink from a passing tray, and played. He said nothing about the man in the garden, nothing about the Iron Tome, nothing about the enchantment magic sitting ready and unused in his mind. The dice ran well. By the time the hour was through the group had a pleasant settled buzz and winnings clearing a thousand gold, and the assembled gentility of [[Helios]]'s upper ring had decided they were, on balance, rather good company.
-
-Three of Luko's men came down the stairs abreast and stopped in front of Patches.
-
-*"Mister Luko will see you now, m'lady."*
+Fëanon settled into an empty seat, collected a drink from a passing tray, and played. He said nothing about the man in the garden, nothing about the Iron Tome, nothing about the enchantment magic sitting ready and unused in his mind. The dice ran well. By the time the hour was through the group had a pleasant settled buzz and winnings clearing a thousand gold, and the assembled gentility of [[helioglabulus|Helios]]'s upper ring had decided they were, on balance, rather good company.
 
 Three of Luko's men came down the stairs abreast and stopped in front of Patches.
 

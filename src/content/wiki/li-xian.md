@@ -20,3 +20,7 @@ Li Xian infiltrated the [[thunder-bluff|Bumidere]] estate disguised as Mr. Shon,
 ## Connection to Tark
 
 Li Xian's murders drove the most personal conflict in the campaign. Tark dreamed of it repeatedly — nightmares where Li Xian grabbed him by the throat and the world erupted in fire. His father appeared with a cut throat, pointing behind him. The enmity fuelled Tark's drive to destroy Zhengyi and everything connected to the Witch-King's network of Oni servants.
+
+## The Flint Dagger
+
+Li Xian's [[flint-dagger-of-li-xian|flint dagger]] — the weapon used to murder Tark's parents — was recovered from the Oni's corpse after the group killed him in the Underdark. The blade was identified as an Anathame, a dark weapon of necromantic ritual tethered to [[zhengyi|Zhengyi]]'s power. It pulsed with a faint heartbeat and pulled Tark toward the [[bloodstone-lands|Bloodstone Lands]] for weeks. On a Damaran farmstead outside [[helioglabulus|Helios]], Tark channeled his Ki and [[vaketh|Vaketh]]'s celestial power through his prosthetic arm and obliterated the cursed blade in an explosion of scarlet light.

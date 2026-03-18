@@ -20,6 +20,7 @@ people:
 places:
   - "blingdenstone"
   - "gravenhollow"
+  - "magnificent-mansion"
   - "selunia"
 things:
   - "eclipse"

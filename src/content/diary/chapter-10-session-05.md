@@ -30,6 +30,7 @@ people:
   - "vladalma"
 places:
   - "anauroch"
+  - "bloodstone-lands"
   - "castle-ravenloft"
   - "fane-of-selune"
   - "feanons-tower"

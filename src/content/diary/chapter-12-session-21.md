@@ -38,6 +38,7 @@ places:
   - "toril"
   - "vaasa"
 things:
+  - "ewer-of-feasting"
   - "hammer-of-niraz"
   - "ringed-veils"
   - "the-last-word"

@@ -13,6 +13,7 @@ people:
   - "tarkathee-daru"
   - "veygar"
 places:
+  - "magnificent-mansion"
   - "underdark"
 things:
   - "ringed-veils"

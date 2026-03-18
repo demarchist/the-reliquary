@@ -31,6 +31,7 @@ places:
   - "al-askar"
   - "barovia"
   - "blingdenstone"
+  - "bloodstone-lands"
   - "ethereal-plane"
   - "faerun"
   - "feanons-tower"

@@ -21,6 +21,7 @@ places:
   - "faerun"
   - "font-of-fawden"
   - "iyum"
+  - "magnificent-mansion"
 things:
   - "bag-of-holding"
 ---

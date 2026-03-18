@@ -18,6 +18,7 @@ people:
   - "tarkathee-daru"
 places:
   - "blingdenstone"
+  - "magnificent-mansion"
   - "menzoberranzan"
   - "underdark"
 things:

@@ -22,6 +22,7 @@ places:
   - "cragmaw-castle"
   - "ivy-mansion"
   - "longsaddle"
+  - "magnificent-mansion"
   - "neverwinter"
   - "phandalin"
   - "thundertree"

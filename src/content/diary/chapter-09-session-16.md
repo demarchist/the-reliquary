@@ -19,6 +19,7 @@ people:
 places:
   - "abyss"
   - "blingdenstone"
+  - "magnificent-mansion"
 things:
   - "chardalyn"
 factions:

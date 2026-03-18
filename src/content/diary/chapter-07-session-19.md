@@ -25,6 +25,7 @@ places:
   - "neverwinter"
   - "sundabar"
 things:
+  - "flint-dagger-of-li-xian"
   - "gwen"
 factions:
   - "amnians"

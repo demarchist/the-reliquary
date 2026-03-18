@@ -36,6 +36,7 @@ places:
   - "thunder-bluff"
 things:
   - "bag-of-holding"
+  - "flint-dagger-of-li-xian"
   - "the-reaver"
   - "thundercannon"
   - "well-of-many-worlds"

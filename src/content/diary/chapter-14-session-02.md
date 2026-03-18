@@ -24,6 +24,7 @@ people:
 places:
   - "al-askar"
   - "anauroch"
+  - "bloodstone-lands"
   - "castle-ravenloft"
   - "faerun"
   - "fane-of-selune"

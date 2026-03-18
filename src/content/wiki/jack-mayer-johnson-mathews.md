@@ -57,6 +57,8 @@ Sharess, goddess of hedonism, appeared in his room one night, found him insolent
 
 It functions as the group's mobile base, escape hatch, and home between adventures. It is also unmistakably his — the Tavern extends his will in the same way that the shapeshifting cloak does, or the charm magic does. He makes things his own and then they grow to fit him.
 
+When the group is home in the Barony, JmJm and [[feanon-serinde|Fëanon]] co-host *Widow Wednesdays* — alternating between the Tavern and Fëanon's [[magnificent-mansion|Magnificent Mansion]] — an evening gathering whose name, guest list, and activities have never been fully accounted for. It is one of JmJm's few social commitments that is not transactional, not a performance, and not obviously part of a scheme. That it has survived as long as it has says something about the unlikely rapport between the two men. What exactly it says, neither of them has volunteered.
+
 ## Doc
 
 [[Doctor Breakfast|Doc]] is the one relationship in which the technique is not running. They hit it off at the Stonehill Inn in Phandalin with an immediacy that neither of them seemed to have planned, and the shorthand between them — half words, coordinated spells, the retreats together into the Tavern between encounters — has not diminished across fourteen chapters.

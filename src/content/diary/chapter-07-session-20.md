@@ -37,6 +37,7 @@ places:
   - "gauntlgrym"
   - "helms-hold"
   - "keep-of-thunder-bluff"
+  - "magnificent-mansion"
   - "neverwinter"
   - "sundabar"
   - "the-moonwood"

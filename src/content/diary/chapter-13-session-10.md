@@ -20,6 +20,7 @@ places:
   - "ethereal-plane"
   - "font-of-fawden"
   - "machina-factory"
+  - "magnificent-mansion"
   - "thueba-swamp"
 things:
   - "arkto"

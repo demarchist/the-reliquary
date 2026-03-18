@@ -16,6 +16,7 @@ people:
   - "tarkathee-daru"
   - "zhengyi"
 places:
+  - "bloodstone-lands"
   - "damara"
   - "faerun"
   - "helms-hold"

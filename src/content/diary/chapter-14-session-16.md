@@ -25,6 +25,7 @@ people:
   - "vecna"
 places:
   - "al-askar"
+  - "bloodstone-lands"
   - "damara"
   - "faerun"
   - "feanons-tower"

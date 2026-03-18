@@ -20,6 +20,7 @@ people:
   - "zhengyi"
 places:
   - "blingdenstone"
+  - "bloodstone-lands"
   - "ethereal-plane"
   - "menzoberranzan"
   - "sundabar"

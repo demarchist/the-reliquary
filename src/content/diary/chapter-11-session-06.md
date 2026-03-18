@@ -16,6 +16,7 @@ people:
   - "vecna"
 places:
   - "al-askar"
+  - "magnificent-mansion"
 things:
   - "eclipse"
 factions:

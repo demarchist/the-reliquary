@@ -20,6 +20,7 @@ places:
   - "darklake"
   - "evermeet"
   - "gracksuluth"
+  - "magnificent-mansion"
   - "menzoberranzan"
   - "silverymoon"
   - "the-chasm"

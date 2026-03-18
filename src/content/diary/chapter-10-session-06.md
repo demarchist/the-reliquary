@@ -30,6 +30,7 @@ places:
   - "darklake"
   - "dokkar"
   - "gravenhollow"
+  - "magnificent-mansion"
   - "menzoberranzan"
   - "svartalfheim"
   - "the-labyrinth"

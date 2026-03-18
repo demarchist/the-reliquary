@@ -14,6 +14,7 @@ people:
   - "zuggtmoy"
 places:
   - "blingdenstone"
+  - "bloodstone-lands"
   - "gravenhollow"
   - "menzoberranzan"
   - "selunia"
