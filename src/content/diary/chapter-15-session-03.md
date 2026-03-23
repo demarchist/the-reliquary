@@ -26,7 +26,7 @@ places:
   - "rising-sun"
 things:
   - "bag-of-holding"
-  - "sunsword"
+  - "ashbringer"
 factions:
   - "crimson-dawn-knights"
   - "house-aimu"
@@ -112,7 +112,7 @@ Dimitri did not take it. The Seal was to go to Mister Luko, who would sequester 
 
 ## Lord Brusso
 
-With the job done and the promised lead on [[lord-aimu|Lord Aimu]] and the [[sunsword|Sunsword]] waiting for them with Mister Luko, the group moved to leave [[house-muskov|House Muskov]].
+With the job done and the promised lead on [[lord-aimu|Lord Aimu]] and the [[ashbringer|Ashbringer]] waiting for them with Mister Luko, the group moved to leave [[house-muskov|House Muskov]].
 
 Cassian arrived with a report. He had been casing the rest of the house and had found something on the second floor: a large set of rooms belonging to the Lord of the House, thick with nervous activity. Servants waited in the adjoining living room, each carrying trays of food, towels, and drink with the stiff posture of people who had been shouted at recently. From behind the bedroom doors, raving could be heard.
 

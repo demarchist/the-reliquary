@@ -3,9 +3,10 @@ title: Bloodstone
 chapter: 15
 chapterTitle: Bloodstone
 session: 1
-summary: "The group spends a quiet night on a Damaran farm while Tark destroys the Flint Dagger of Li Xian in a spectacular explosion, drawing a mysterious planar traveler named Cassian and his celestial Pegasus out of the night sky — they recruit him over a campfire feast, ride to the fortress city of Helios, and discover that the Sunsword they once brought back from Barovia has been stolen from the Cathedral of Lathander."
+summary: "The group spends a quiet night on a Damaran farm while Tark destroys the Flint Dagger of Li Xian in a spectacular explosion, drawing a mysterious planar traveler named Cassian and his celestial Pegasus out of the night sky — they recruit him over a campfire feast, ride to the fortress city of Helios, and discover that the Ashbringer has been stolen from the Cathedral of Lathander, where the Church had catalogued it as a sunsword."
 people:
   - "aliyah-faen-tlabbar"
+  - "anduriel"
   - "cassian"
   - "cirrus-al-kayan"
   - "feanon-serinde"
@@ -21,12 +22,13 @@ people:
   - "vaketh"
 places:
   - "al-askar"
-  - "barovia"
   - "bloodstone-lands"
   - "helioglabulus"
+  - "krezk"
   - "neverwinter"
   - "oerth"
 things:
+  - "ashbringer"
   - "bag-of-holding"
   - "eclipse"
   - "ewer-of-feasting"
@@ -116,9 +118,9 @@ They turned their attention to the real work of their visit. The logical way to 
 
 A crowd was being held back from the entrance by city guard. The group established that an incident had taken place the night before — [[lord-aimu|Lord Aimu]], a Paladin of Lathander and nobleman, had broken into the Cathedral and stolen a relic. As someone divinely touched by Selûne, Cirrus had sufficient standing with the Morninglord's clergy to be admitted despite the lockdown.
 
-Inside the great domed structure, altars and chapels sat beneath sweeping stained glass, the center dominated by a vast golden altar and intricate solar calendars traced in polished Bloodstone across the floor. A priest confirmed the nature of the stolen relic: a [[sunsword|Sunsword]].
+Inside the great domed structure, altars and chapels sat beneath sweeping stained glass, the center dominated by a vast golden altar and intricate solar calendars traced in polished Bloodstone across the floor. A priest confirmed the nature of the stolen relic: a [[sunsword|sunsword]].
 
-The group recognized it immediately. It was the Sunsword they had brought back from [[barovia|Barovia]] and donated to the Church of Lathander in Neverwinter. Somehow the blade had made its way east to the holy city. The vampire-killing weapon was gone.
+The group recognised it immediately — not as a sunsword, but as the [[ashbringer|Ashbringer]]: the celestial greatsword reforged from [[anduriel|Anduriel]]'s sacrifice at the Abbey of [[krezk|Krezk]], the blade that had turned the Wild Hunt to ash. They had donated it to the Church of Lathander in [[neverwinter|Neverwinter]] after leaving the valley. The Church had catalogued it under a gentler name. Somehow the blade had made its way east to the holy city, and now it was gone.
 
 They investigated the scene discreetly, noting the signs of a small struggle, while Cirrus offered the church their assistance in recovering Lord Aimu and the sword. The priest thanked him but explained that this was an internal matter — if he wished to involve himself, he would need to do so through the city's nobility. [[house-huron|House Huron]] was hosting an event in four days. That would be the appropriate venue to make himself known.
 

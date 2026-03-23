@@ -16,7 +16,7 @@ Lathander's most dramatic intervention in the campaign came at the fall of [[bar
 
 ## The Cathedral of Helios
 
-The Cathedral of Lathander dominates one quarter of [[helioglabulus|Helios]] — a great domed structure bristling with steeples and radiant spires that blazes like a second sun. Inside, altars and chapels sit beneath sweeping stained glass, the centre dominated by a vast golden altar and intricate solar calendars traced in polished Bloodstone across the floor. The [[sunsword|Sunsword]] — the vampire-killing blade the group brought back from Barovia and donated to the Church of Lathander in [[neverwinter|Neverwinter]] — had been transferred to this cathedral before [[lord-aimu|Lord Aimu]], a Paladin of the faith, broke in and stole it.
+The Cathedral of Lathander dominates one quarter of [[helioglabulus|Helios]] — a great domed structure bristling with steeples and radiant spires that blazes like a second sun. Inside, altars and chapels sit beneath sweeping stained glass, the centre dominated by a vast golden altar and intricate solar calendars traced in polished Bloodstone across the floor. The [[ashbringer|Ashbringer]] — the celestial greatsword the group brought back from Barovia and donated to the Church of Lathander in [[neverwinter|Neverwinter]], where the clergy catalogued it as a [[sunsword|sunsword]] — had been transferred to this cathedral before [[lord-aimu|Lord Aimu]], a Paladin of the faith, broke in and stole it.
 
 ## The Crimson Dawn
 

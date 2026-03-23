@@ -4,6 +4,7 @@ category: "Places"
 aliases: ["The Magnificent Mansion", "The Mansion", "Fëanon's Mansion"]
 firstAppearance: "chapter-08-session-05"
 description: "Fëanon's extradimensional dwelling — a pocket plane conjured through a shimmering silver door, modeled on the high-elven architecture of Leuthilspar, with themed guest rooms for each party member that reveal more about the wizard's imagination than his friends' actual tastes."
+image: "/images/magnificent-mansion.png"
 ---
 
 Fëanon's Magnificent Mansion is an extradimensional dwelling conjured by [[feanon-serinde|Fëanon Serinde]] — a pocket plane of sweeping marble, rich hardwoods, and silver filigree, built after the fashion of [[leuthilspar|Leuthilspar]], the crystal-spired capital of [[evermeet|Evermeet]] where Fëanon was born. It has served as the group's primary refuge across environments ranging from the deep [[underdark|Underdark]] to the deserts of [[anauroch|Anauroch]], the volcanic wastelands of [[al-askar|Al Askar]], and the drawing rooms of foreign nobility.

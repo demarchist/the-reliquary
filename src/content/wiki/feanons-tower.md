@@ -38,3 +38,7 @@ The tower is a working arcane community, not merely a private residence. Its inh
 - **Giuseppe** — the tower's original front desk attendant, later succeeded by **Sinya Maya**.
 
 The atmosphere is scholarly and purposeful. Wizards, sorcerers, and other arcanists study under Fëanon's guidance, and the tower hums with quiet industry — the sound of a dozen research projects advancing simultaneously behind closed doors.
+
+## The Open Weave Collective
+
+During Fëanon's extended absences, a loose ideological movement has taken root among the tower's younger students. The [[open-weave-collective|Open Weave Collective]] — identifiable by their deliberately floppy wizard hats and their pamphlets on "arcane equity" — advocates for intuitive, non-hierarchical approaches to magic that Fëanon considers both philosophically bankrupt and personally offensive. Their presence in the tower is a source of mounting frustration for its founder, who has yet to find enough consecutive days at home to properly expunge what he calls "insidious nonsense" from his own institution.

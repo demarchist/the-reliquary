@@ -11,6 +11,6 @@ House Huron is one of the prominent noble families of [[helioglabulus|Helios]]. 
 
 ## The Soirée
 
-When the group investigated the theft of the [[sunsword|Sunsword]] from the Cathedral of [[lathander|Lathander]], the clergy informed [[cirrus-al-kayan|Cirrus]] that the matter of [[lord-aimu|Lord Aimu]] was an internal affair. If he wished to involve himself, he would need to do so through the city's nobility — and House Huron was hosting an event in a few days' time. That, the priest said, would be the appropriate venue.
+When the group investigated the theft of the [[ashbringer|Ashbringer]] from the Cathedral of [[lathander|Lathander]], the clergy informed [[cirrus-al-kayan|Cirrus]] that the matter of [[lord-aimu|Lord Aimu]] was an internal affair. If he wished to involve himself, he would need to do so through the city's nobility — and House Huron was hosting an event in a few days' time. That, the priest said, would be the appropriate venue.
 
 Cirrus secured an invitation by charming [[natasha-huron|Natasha Huron]], the house's scion, during a card game at the [[rising-sun|Rising Sun]].

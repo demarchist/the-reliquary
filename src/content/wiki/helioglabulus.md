@@ -17,7 +17,7 @@ King Yarin Frostmantle of Damara and Queen Concetinna of Vaasa rule jointly from
 
 ## Noble Houses
 
-The city's upper rings are home to several prominent noble families. [[house-huron|House Huron]], whose seat is the landmark Huron Tower, hosts social events that serve as the city's political arena. [[house-muskov|House Muskov]] occupies a fortified manor behind granite walls and wisteria. [[house-aimu|House Aimu]] maintains a manor in the upper districts — their scion [[lord-aimu|Lord Aimu]], a Paladin of Lathander, provoked a scandal by stealing the [[sunsword|Sunsword]] from the Cathedral.
+The city's upper rings are home to several prominent noble families. [[house-huron|House Huron]], whose seat is the landmark Huron Tower, hosts social events that serve as the city's political arena. [[house-muskov|House Muskov]] occupies a fortified manor behind granite walls and wisteria. [[house-aimu|House Aimu]] maintains a manor in the upper districts — their scion [[lord-aimu|Lord Aimu]], a Paladin of Lathander, provoked a scandal by stealing the [[ashbringer|Ashbringer]] from the Cathedral.
 
 ## The Underworld
 

@@ -229,6 +229,11 @@
     "title": "Ashbringer",
     "category": "Things"
   },
+  "the sunsword": {
+    "slug": "ashbringer",
+    "title": "Ashbringer",
+    "category": "Things"
+  },
   "the astral plane": {
     "slug": "astral-plane",
     "title": "The Astral Plane",
@@ -2999,6 +3004,26 @@
     "title": "General Omar",
     "category": "People"
   },
+  "the open weave collective": {
+    "slug": "open-weave-collective",
+    "title": "The Open Weave Collective",
+    "category": "Factions"
+  },
+  "the collective": {
+    "slug": "open-weave-collective",
+    "title": "The Open Weave Collective",
+    "category": "Factions"
+  },
+  "open weavers": {
+    "slug": "open-weave-collective",
+    "title": "The Open Weave Collective",
+    "category": "Factions"
+  },
+  "the floppy hats": {
+    "slug": "open-weave-collective",
+    "title": "The Open Weave Collective",
+    "category": "Factions"
+  },
   "orcus": {
     "slug": "orcus",
     "title": "Orcus",
@@ -3715,6 +3740,11 @@
     "category": "Things"
   },
   "sun sword": {
+    "slug": "sunsword",
+    "title": "Sunsword",
+    "category": "Things"
+  },
+  "sun blade": {
     "slug": "sunsword",
     "title": "Sunsword",
     "category": "Things"

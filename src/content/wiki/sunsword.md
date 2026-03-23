@@ -1,19 +1,12 @@
 ---
 title: "Sunsword"
 category: "Things"
-aliases: ["Sun Sword"]
-firstAppearance: "chapter-15-session-01"
-description: "A legendary vampire-killing blade — brought back from Barovia and donated to the Church of Lathander, only to be stolen from the Cathedral of Helios by Lord Aimu."
+aliases: ["Sun Sword", "Sun Blade"]
+description: "A class of radiant weapon — a blade of pure sunlight conjured from a specially prepared hilt, devastatingly effective against undead and vampires."
 ---
 
-The Sunsword is a legendary weapon of radiant power, particularly effective against undead and vampires. The group recovered it during their time in [[barovia|Barovia]] and donated it to the Church of [[lathander|Lathander]] in [[neverwinter|Neverwinter]]. The blade subsequently made its way east to the Cathedral of Lathander in [[helioglabulus|Helios]].
+A sunsword is a class of magical weapon in which a blade of pure, concentrated sunlight extends from an enchanted hilt. The radiance is genuine sunlight, not merely an imitation — it burns undead and vampires with the same lethality as the sun itself, making sunswords among the most feared weapons in any vampire hunter's arsenal.
 
-## The Theft
+The blades vary in form and origin. Some are forged through divine ritual, others through arcane artifice, and a rare few through celestial sacrifice. What they share is the essential property: a hilt that, when activated, projects a blade of radiant energy indistinguishable from natural sunlight.
 
-When the group arrived in Helios, they found the Cathedral in lockdown. [[lord-aimu|Lord Aimu]] — a Paladin of Lathander and nobleman — had broken into the Cathedral the night before and stolen the Sunsword. The clergy confirmed the nature of the stolen relic and the group recognised it immediately as the weapon they had once carried.
-
-The theft of a vampire-killing weapon from a holy site, by a Paladin of the faith no less, raised immediate and troubling questions — particularly given the group's suspicion that [[gaddock|Gaddock]], a vampire, was operating somewhere in the city.
-
-## The Deal
-
-[[mister-luko|Mister Luko]] offered the group intelligence on Lord Aimu's whereabouts — and by extension the Sunsword — in exchange for completing the [[house-muskov|House Muskov]] heist. The weapon remains unrecovered.
+The Church of [[lathander|Lathander]] has a particular affinity for sunswords, considering them instruments of the Morninglord's light. The most notable sunsword in the campaign's history is the [[ashbringer|Ashbringer]] — the celestial crystal greatsword reforged from the sacrifice of the Planetar [[anduriel|Anduriel]] at the Abbey of [[krezk|Krezk]]. When the group donated the Ashbringer to the Church of Lathander after leaving [[barovia|Barovia]], the clergy catalogued it under the name "Sunsword," emphasising its divine radiance over its destructive purpose.

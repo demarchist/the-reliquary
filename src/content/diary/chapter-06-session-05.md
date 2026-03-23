@@ -32,6 +32,7 @@ factions:
   - "conclave-of-silverymoon"
   - "illithid-faction"
   - "nostalgia-for-infinity"
+  - "open-weave-collective"
   - "spellguard"
 ---
 

@@ -25,4 +25,4 @@ Luko runs the [[rising-sun|Rising Sun]] — an upscale gambling establishment an
 
 When [[aliyah-faen-tlabbar|Patches]] was passed upward through the thieves' guild hierarchy to Luko's attention, he wasted no time. He had sent a team to steal [[house-muskov|House Muskov]]'s family Seal at the request of [[dimitri-muskov|Lord Dimitri Muskov]]. The team vanished without a trace — no arrests, no commotion, no word. The job remained unfinished and his reputation with it.
 
-He offered the group a deal: complete the heist and account for his missing people, and he would share everything he knew about [[lord-aimu|Lord Aimu]], the [[sunsword|Sunsword]], and the city's current situation — plus a powerful magic item. Patches shook his hand across the dining table before the rest of the group had finished deliberating.
+He offered the group a deal: complete the heist and account for his missing people, and he would share everything he knew about [[lord-aimu|Lord Aimu]], the [[ashbringer|Ashbringer]], and the city's current situation — plus a powerful magic item. Patches shook his hand across the dining table before the rest of the group had finished deliberating.

@@ -95,6 +95,8 @@ As the campaign has progressed, Fëanon has evolved from a solitary scholar into
 
 Tark, for his part, told Patches that Fëanon was the right person to teach Finn — and that it was the party's job to keep the wizard grounded. The observation was more perceptive than Fëanon would like to admit.
 
+His frequent absences have also produced unintended consequences. A loose movement among the tower's younger students — the [[open-weave-collective|Open Weave Collective]], identifiable by their deliberately floppy wizard hats — has taken to advocating for sorcerous and intuitive approaches to magic, arguing that Fëanon's structured methodology constitutes exclusionary gatekeeping. The movement is a source of particular frustration for Fëanon, who considers their philosophy dangerous and their hats an affront, but who has never managed to spend enough consecutive days at home to mount a proper response.
+
 ## The Jade Frog
 
 Fëanon's most unusual companion is a jade frog golem — originally a small statue carried in the group's packs. When the group passed through the [[Spellforge]] beneath Wave Echo Cave, the statue sprang to life, becoming an animated construct of living stone with the Spellforge's power absorbed into its form. The frog has since developed a personality of its own: snatching an earring from a passerby's ear at the tournament, and — in one harrowing moment — swallowing a celestial artifact shard in the vault beneath Neverwinter, swelling and splitting with glowing cracks before regurgitating it just in time.

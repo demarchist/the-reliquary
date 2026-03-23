@@ -25,6 +25,7 @@ factions:
   - "3rd-special-actions-detachment"
   - "illithid-faction"
   - "nostalgia-for-infinity"
+  - "open-weave-collective"
 ---
 
 ## Ladypeak
