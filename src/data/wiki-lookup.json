@@ -534,6 +534,11 @@
     "title": "Bloodstone Lands",
     "category": "Places"
   },
+  "bloodstone pass": {
+    "slug": "bloodstone-pass",
+    "title": "Bloodstone Pass",
+    "category": "Places"
+  },
   "bluelake district": {
     "slug": "bluelake-district",
     "title": "Bluelake District",
@@ -567,6 +572,16 @@
   "the bone hunter": {
     "slug": "borborygmos",
     "title": "Borborygmos",
+    "category": "People"
+  },
+  "boris muskov": {
+    "slug": "boris-muskov",
+    "title": "Boris Muskov",
+    "category": "People"
+  },
+  "lord boris": {
+    "slug": "boris-muskov",
+    "title": "Boris Muskov",
     "category": "People"
   },
   "boris": {
@@ -1474,6 +1489,16 @@
     "title": "Foxy Crazy",
     "category": "People"
   },
+  "frostmoore vale": {
+    "slug": "frostmoore-vale",
+    "title": "Frostmoore Vale",
+    "category": "Places"
+  },
+  "frostmoore": {
+    "slug": "frostmoore-vale",
+    "title": "Frostmoore Vale",
+    "category": "Places"
+  },
   "gaddock": {
     "slug": "gaddock",
     "title": "Gaddock",
@@ -2044,6 +2069,11 @@
     "title": "Ironarm Mercenary Company",
     "category": "Factions"
   },
+  "ironfang keep": {
+    "slug": "ironfang-keep",
+    "title": "Ironfang Keep",
+    "category": "Places"
+  },
   "ishta": {
     "slug": "ishta",
     "title": "Ishta",
@@ -2268,6 +2298,26 @@
     "slug": "keepers-of-the-feather",
     "title": "Keepers of the Feather",
     "category": "Factions"
+  },
+  "kelemvor": {
+    "slug": "kelemvor",
+    "title": "Kelemvor",
+    "category": "People"
+  },
+  "god of the dead": {
+    "slug": "kelemvor",
+    "title": "Kelemvor",
+    "category": "People"
+  },
+  "lord of the dead": {
+    "slug": "kelemvor",
+    "title": "Kelemvor",
+    "category": "People"
+  },
+  "the judge of the damned": {
+    "slug": "kelemvor",
+    "title": "Kelemvor",
+    "category": "People"
   },
   "kenshi": {
     "slug": "kenshi",
@@ -3818,6 +3868,16 @@
     "slug": "tavern-of-doors",
     "title": "Tavern of Doors",
     "category": "Things"
+  },
+  "tazmikella": {
+    "slug": "tazmikella",
+    "title": "Tazmikella",
+    "category": "People"
+  },
+  "taz": {
+    "slug": "tazmikella",
+    "title": "Tazmikella",
+    "category": "People"
   },
   "temple of carthus": {
     "slug": "temple-of-carthus",

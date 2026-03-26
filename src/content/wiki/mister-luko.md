@@ -26,3 +26,9 @@ Luko runs the [[rising-sun|Rising Sun]] — an upscale gambling establishment an
 When [[aliyah-faen-tlabbar|Patches]] was passed upward through the thieves' guild hierarchy to Luko's attention, he wasted no time. He had sent a team to steal [[house-muskov|House Muskov]]'s family Seal at the request of [[dimitri-muskov|Lord Dimitri Muskov]]. The team vanished without a trace — no arrests, no commotion, no word. The job remained unfinished and his reputation with it.
 
 He offered the group a deal: complete the heist and account for his missing people, and he would share everything he knew about [[lord-aimu|Lord Aimu]], the [[ashbringer|Ashbringer]], and the city's current situation — plus a powerful magic item. Patches shook his hand across the dining table before the rest of the group had finished deliberating.
+
+## Delivering
+
+With the heist complete, Luko made good on his word. He handed over payment and, more importantly, intelligence: the Crown believed Lord Aimu had fled east to the steppe, but Luko's sources indicated the nobleman had doubled back to his wife's old estate in [[frostmoore-vale|Frostmoore Vale]], in the foothills of the Galena Mountains. He marked the route on a map — the [[bloodstone-pass|Bloodstone Pass]] to [[ironfang-keep|Ironfang Keep]], then north.
+
+Luko's influence in the city extended to protection: as the group moved through the streets, guild members in the periphery discouraged local thieves and beggars from approaching them. He offered more work if they wanted it.

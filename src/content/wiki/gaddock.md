@@ -41,6 +41,14 @@ When the group infiltrated [[house-muskov|House Muskov]] in [[helioglabulus|Heli
 
 The group recognised the description immediately. Gaddock — transformed, armed with an unknown weapon, and stationed in a noble house for reasons not yet clear. The news was intended for [[tarkathee-daru|Tark]], who had not been present at [[house-muskov|House Muskov]] that morning.
 
+## The Crystal Shard
+
+[[boris-muskov|Boris Muskov]] confirmed that Gaddock had been hired by [[brusso-muskov|Lord Brusso]] on the recommendation of the Thayans and had been living in the house as a personal bodyguard for weeks. Boris noted that the monk bore a strange wound — a shard of crystal embedded in his head, horn-like — though Gaddock seemed to pay it no mind.
+
+When Tark investigated Gaddock's quarters on the fourth floor, he found a spartan room — every piece of furniture pushed to the walls, the floor left open save for a rug. Beneath the rug, the wooden floor was heavily scratched and clawed, deep gouges radiating from a central point as though Gaddock had sat meditating night after night while something inside him fought to get out.
+
+Tark also reconstructed the earlier fight in the hallway and confirmed what the survivor had described: the battle had been ridiculously one-sided. Disintegration and smashing a man through the floor were feats the human Gaddock had never been capable of. Whatever [[zhengyi|Zhengyi]] had made of him, it was something far beyond the monk Tark had known.
+
 ## Role in the Story
 
 Gaddock's transformation represents [[zhengyi|Zhengyi]]'s cruelty at its most calculated. The Lich-King did not merely take a hostage; he converted one of Tark's most trusted relationships into a surveillance network, turning a father figure into an unwitting informant. The revelation shattered Tark's composure — he locked himself in a bathroom and demolished it while the party waited outside — and redefined his relationship to Zhengyi from obligation to something far more personal.

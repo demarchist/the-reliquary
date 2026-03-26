@@ -22,3 +22,9 @@ The interior includes kitchens and herb gardens on the ground floor, the Lord's 
 ## Lord Brusso
 
 [[brusso-muskov|Lord Brusso Muskov]], the head of the house, was found on the second floor in a deteriorating state — raving in a windowless room, wrapped in furs before a roaring fire, demanding raw meat and complaining of cold and headaches. His symptoms suggested something far worse than ordinary illness. When the group arrived to investigate, they found him locked in a deathlike rictus.
+
+## Death and Succession
+
+Lord Brusso died that night. Warlocks of [[kelemvor|Kelemvor]] confirmed the presence of necromancy, and [[jack-mayer-johnson-mathews|JmJm]]'s Reincarnation ritual failed — the spirit was unable to return. The body was taken to the Cathedral on holy ground.
+
+[[boris-muskov|Boris Muskov]], Lord Brusso's son, arrived to claim the house with a retinue of [[crimson-dawn-knights|Crimson Dawn Knights]], city guard, and Kelemvor's Warlocks. When the group revealed that [[gaddock|Gaddock]] had likely killed his father — placed in the household on Thayan recommendation — Boris was horrified. He formed an alliance of friendship with [[cirrus-al-kayan|Cirrus]], lord to lord, with lawyers to draft the formal arrangement.

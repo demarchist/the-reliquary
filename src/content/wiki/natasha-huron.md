@@ -21,3 +21,7 @@ She has black shimmering hair tied and pierced through with clasps of precious m
 ## The Encounter
 
 [[cirrus-al-kayan|Cirrus]] and [[jack-mayer-johnson-mathews|JmJm]] approached her table at the Rising Sun, parting her entourage with a combination of performance and charm. Natasha found Cirrus fascinating and invited him to join her for cards. Over the course of a few rounds, Cirrus persuaded her to extend an invitation to the soirée [[house-huron|House Huron]] was hosting — an event the group had been told was the proper venue for introducing themselves to the city's nobility and pursuing the matter of [[lord-aimu|Lord Aimu]] and the stolen [[ashbringer|Ashbringer]].
+
+## The Arena
+
+[[aliyah-faen-tlabbar|Patches]] later discovered through gambling receipts that [[brusso-muskov|Lord Brusso Muskov]] had been in House Huron's private box at the arena just days before falling deathly ill — seated alongside Natasha. Whether she was an unwitting companion or something more deliberate remains unclear.

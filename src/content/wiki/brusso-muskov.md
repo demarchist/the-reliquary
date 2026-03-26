@@ -3,9 +3,9 @@ title: "Brusso Muskov"
 category: "People"
 aliases: ["Lord Brusso", "Lord Muskov"]
 firstAppearance: "chapter-15-session-03"
-description: "Lord of House Muskov — found raving in a windowless bedroom, demanding raw meat and complaining of cold, before collapsing into a deathlike rictus."
+description: "Late Lord of House Muskov — found raving in a windowless bedroom before collapsing into a deathlike rictus. He died that night, tainted by necromancy, his spirit unable to return."
 race: "Human"
-status: "Unknown"
+status: "Dead"
 affiliation: "house-muskov"
 home: "helioglabulus"
 image: "/images/brusso-muskov.png"
@@ -27,3 +27,13 @@ Cassian reported his findings to the group, suggesting that Lord Brusso might be
 ## Collapse
 
 When the group convinced the second-floor guards to let them in under the pretence of healing the ailing Lord, they arrived to find a serving girl dropping a tray of raw meat and screaming. Lord Brusso lay sprawled on his arched back, arms and hands locked into an agonised rictus, his face frozen in a pained scream, his body utterly still.
+
+## Death
+
+Lord Brusso died that night. When [[tarkathee-daru|Tark]] and [[feanon-serinde|Fëanon]] arrived the following morning, the household stood in shock around his corpse. The rictus had unwound — the contorted agony replaced by a terrible stillness. Warlocks of [[kelemvor|Kelemvor]], who arrived with [[boris-muskov|Boris Muskov]], confirmed the presence of necromancy on the body but could determine nothing more specific. The wards in the room were inactive.
+
+[[jack-mayer-johnson-mathews|JmJm]] performed a Reincarnation ritual on the corpse. It failed — Lord Brusso's spirit was unable to return. The body was taken to the Cathedral of [[lathander|Lathander]] on holy ground, guarded by Paladins and Warlocks in case it transformed.
+
+## The Trail
+
+Investigation by [[aliyah-faen-tlabbar|Patches]] revealed that Lord Brusso had been in [[house-huron|House Huron]]'s private box at the arena just days before his illness — seated alongside [[natasha-huron|Lady Natasha Huron]]. His last public appearance before the Queen's summer party three weeks prior. The Thayans who recommended [[gaddock|Gaddock]] as his bodyguard had been staying at House Huron for weeks.
