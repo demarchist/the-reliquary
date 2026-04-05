@@ -59,6 +59,14 @@ When Patches reached him through a dream, his face contorted with a range of emo
 
 Aliyah operates [[The Establishment]] — a bustling underworld complex of inn, brothel, and casino at a crossroads within the Barony. It serves as both a business venture and a way to cement her network of connections among the shady underbelly of the region. She maintains a strict code of conduct and does not tolerate violence within its walls.
 
+## Patches' Justice
+
+On the road to [[frostmoore-vale|Frostmoore Vale]], the group annihilated a hundred-strong raiding party that had been burning a hamlet in the foothills. When the battle ended and the surviving raiders surrendered, Patches picked out the highest-ranking prisoner, told him his tribe was never to return, waited for him to agree — and slit his throat.
+
+The group was aghast. These were surrendered men, prisoners. When the next man drew a knife and lunged, gouging her arm, she killed him in a quick riposte. The rest broke and ran. She shot them in the back as they fled.
+
+[[horatio-von-bumidere|Buumi]] put a hand on her arm to still her. She lashed out — not at him, but at the sentiment behind the gesture. These raiders had already murdered innocents. Letting them go would simply release them to kill again. She had seen it too many times, she said — especially from her own kin. They chose to live by the sword, so they would die by it. The moral calculus was brutal, uncompromising, and entirely consistent with the woman who had once fed a goblin to a cursed dagger in the night rather than let the weapon's hunger go unsatisfied.
+
 ## From Loner to Family
 
 Patches' arc across the campaign is one of reluctant integration. In the early days, she preferred independent action — sniping from distance, shadowing the group from afar, scouting alone. Over time, the tea service became a ritual, the tree-climbing watches with Fëanon became trust, and the dark sacrifices to feed the Reaver became shared burdens. By the time she revealed her Bregan D'aerthe past and her abandoned son to the group, the transformation was complete — from lone operative to someone who asks [[Tarkathee Daru|Tark]] for parenting advice.

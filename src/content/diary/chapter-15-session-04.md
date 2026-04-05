@@ -6,6 +6,7 @@ session: 4
 summary: "Lord Brusso Muskov is found dead — JmJm's reincarnation fails when the spirit proves unable to return. Boris Muskov arrives with Kelemvor warlocks and Crimson Dawn knights to claim the house, confirms that Gaddock was placed there by the Thayans, and forms an alliance with Cirrus. Mister Luko reveals Lord Aimu fled to Frostmoore Vale, while Patches traces Lord Brusso's final days to House Huron's private box at the arena — and the group stumbles into a magic shop run by an old woman whose eyes are decidedly not human."
 people:
   - "aliyah-faen-tlabbar"
+  - "boris"
   - "boris-muskov"
   - "brusso-muskov"
   - "cirrus-al-kayan"
@@ -24,6 +25,7 @@ places:
   - "bloodstone-pass"
   - "frostmoore-vale"
   - "ironfang-keep"
+  - "izzys-stuff"
   - "rising-sun"
 factions:
   - "amnians"

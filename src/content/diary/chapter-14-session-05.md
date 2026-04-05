@@ -24,6 +24,7 @@ places:
   - "yggward"
 things:
   - "deck-of-illusions"
+  - "windrunner-armor"
 factions:
   - "amnians"
   - "drow-faction"

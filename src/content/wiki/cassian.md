@@ -24,6 +24,12 @@ Cassian's mount is a magnificent creature — a silver-coated Pegasus with a sin
 
 She does not extend this serenity to [[jack-mayer-johnson-mathews|JmJm]]'s devil-horse, which she regards with undisguised celestial distaste. The feeling is mutual. On the road to [[helioglabulus|Helios]], the two mounts maintained maximum possible separation for the entirety of the journey, and the glaring did not stop.
 
+## The Ranger
+
+Cassian's combat skills became sharply apparent during the group's journey along the [[bloodstone-pass|Bloodstone Pass]]. When the group encountered a hundred-strong raiding party burning a hamlet in the foothills, Cassian charged in on Uni, spotted the enemy commander, and killed the man before he could loose a single arrow — a decisive strike that broke the raiders' command structure and sent them into disarray. Between his marksmanship and [[gundren-rockseeker|Gundren]]'s aerial bombardment, they pinned down the bulk of the horsemen while the rest of the group moved in.
+
+His senses proved equally extraordinary. On watch past midnight, he detected two or three large flying creatures passing far overhead — so distant and so stealthy that only his extreme expertise registered their presence at all.
+
 ## The Missing Parents
 
 He mentioned it once, over the campfire on the first night: beyond the visions, beyond the dark purpose that had brought him here, he was traveling the planes in search of his missing parents. He did not elaborate, and no one pressed.

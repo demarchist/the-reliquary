@@ -30,4 +30,8 @@ When the group arrived in Helios during the Bloodstone campaign, they found the 
 
 The theft of a vampire-killing weapon from a holy site, by a Paladin of the faith no less, raised immediate and troubling questions — particularly given the group's suspicion that [[gaddock|Gaddock]], a vampire, was operating somewhere in the city.
 
-[[mister-luko|Mister Luko]] offered the group intelligence on Lord Aimu's whereabouts — and by extension the Ashbringer — in exchange for completing the [[house-muskov|House Muskov]] heist. The weapon remains unrecovered.
+[[mister-luko|Mister Luko]] offered the group intelligence on Lord Aimu's whereabouts — and by extension the Ashbringer — in exchange for completing the [[house-muskov|House Muskov]] heist.
+
+## The Pursuit
+
+With Luko's intelligence in hand, the group rode out from Helios along the [[bloodstone-pass|Bloodstone Pass]], heading for [[ironfang-keep|Ironfang Keep]] and the turnoff north into [[frostmoore-vale|Frostmoore Vale]] — the location of Lord Aimu's wife's old estate and his suspected hideout. The recovery of the Ashbringer became the group's primary objective, taking precedence over an immediate confrontation with [[gaddock|Gaddock]] after [[feanon-serinde|Fëanon]] argued that the vampire could not be permanently destroyed without first locating his coffin.

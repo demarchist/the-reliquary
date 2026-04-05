@@ -52,6 +52,7 @@ places:
 things:
   - "crystal-tuning-fork"
   - "gwen"
+  - "windrunner-armor"
 factions:
   - "amnians"
   - "drow-faction"

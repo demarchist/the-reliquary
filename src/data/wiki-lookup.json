@@ -489,6 +489,21 @@
     "title": "Bilrigger",
     "category": "People"
   },
+  "the binturong": {
+    "slug": "binturong-of-the-galena-foothills",
+    "title": "The Binturong",
+    "category": "Things"
+  },
+  "the bearcat": {
+    "slug": "binturong-of-the-galena-foothills",
+    "title": "The Binturong",
+    "category": "Things"
+  },
+  "binturong": {
+    "slug": "binturong-of-the-galena-foothills",
+    "title": "The Binturong",
+    "category": "Things"
+  },
   "the black spider": {
     "slug": "nezzan",
     "title": "Nezzan",
@@ -989,6 +1004,11 @@
     "title": "The Derro",
     "category": "Factions"
   },
+  "dima": {
+    "slug": "dima",
+    "title": "Dima",
+    "category": "People"
+  },
   "dimitri muskov": {
     "slug": "dimitri-muskov",
     "title": "Dimitri Muskov",
@@ -1168,6 +1188,11 @@
     "slug": "elara",
     "title": "Elara",
     "category": "People"
+  },
+  "elder brain ichor": {
+    "slug": "elder-brain-ichor",
+    "title": "Elder Brain Ichor",
+    "category": "Things"
   },
   "elion loberos": {
     "slug": "elion-loberos",
@@ -2098,6 +2123,16 @@
     "slug": "izek",
     "title": "Izek",
     "category": "People"
+  },
+  "izzy's stuff": {
+    "slug": "izzys-stuff",
+    "title": "Izzy's Stuff",
+    "category": "Places"
+  },
+  "izzy's": {
+    "slug": "izzys-stuff",
+    "title": "Izzy's Stuff",
+    "category": "Places"
   },
   "jack mayer johnson mathews": {
     "slug": "jack-mayer-johnson-mathews",
@@ -3404,6 +3439,21 @@
     "title": "Sapphire Circuits",
     "category": "Things"
   },
+  "saurian deathlord's greatsword": {
+    "slug": "saurian-deathlord-greatsword",
+    "title": "Saurian Deathlord's Greatsword",
+    "category": "Things"
+  },
+  "deathlord's greatsword": {
+    "slug": "saurian-deathlord-greatsword",
+    "title": "Saurian Deathlord's Greatsword",
+    "category": "Things"
+  },
+  "deathlord's sword": {
+    "slug": "saurian-deathlord-greatsword",
+    "title": "Saurian Deathlord's Greatsword",
+    "category": "Things"
+  },
   "saurian firelance": {
     "slug": "saurian-firelance",
     "title": "Saurian Firelance",
@@ -4553,6 +4603,16 @@
     "slug": "willow-aldencroft",
     "title": "Willow Aldencroft",
     "category": "People"
+  },
+  "windrunner armor": {
+    "slug": "windrunner-armor",
+    "title": "Windrunner Armor",
+    "category": "Things"
+  },
+  "windrunner": {
+    "slug": "windrunner-armor",
+    "title": "Windrunner Armor",
+    "category": "Things"
   },
   "wood of sharp teeth": {
     "slug": "wood-of-sharp-teeth",

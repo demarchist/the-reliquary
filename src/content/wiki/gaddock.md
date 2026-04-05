@@ -49,6 +49,12 @@ When Tark investigated Gaddock's quarters on the fourth floor, he found a sparta
 
 Tark also reconstructed the earlier fight in the hallway and confirmed what the survivor had described: the battle had been ridiculously one-sided. Disintegration and smashing a man through the floor were feats the human Gaddock had never been capable of. Whatever [[zhengyi|Zhengyi]] had made of him, it was something far beyond the monk Tark had known.
 
+## The Coffin
+
+In [[helioglabulus|Helios]], the group debated whether to stake out [[house-muskov|House Muskov]] and confront Gaddock directly. Tark was at odds with the others — he had sworn to his master that he would slay the vampire and put him to rest, and if he spotted Gaddock, he would attack to kill. The group tried to dissuade him until [[feanon-serinde|Fëanon]] pointed out the critical flaw: even with the [[ashbringer|Sunsword]], they could not kill Gaddock permanently without staking him in his coffin. They did not know where that coffin was. To truly end Gaddock's suffering, they would first have to locate the vampire's resting place — a task that required divination magic Fëanon did not yet possess.
+
+The logic stilled Tark's hand, though it did nothing to ease his grief. The group chose to pursue the Ashbringer first and deal with Gaddock when they were better prepared.
+
 ## Role in the Story
 
 Gaddock's transformation represents [[zhengyi|Zhengyi]]'s cruelty at its most calculated. The Lich-King did not merely take a hostage; he converted one of Tark's most trusted relationships into a surveillance network, turning a father figure into an unwitting informant. The revelation shattered Tark's composure — he locked himself in a bathroom and demolished it while the party waited outside — and redefined his relationship to Zhengyi from obligation to something far more personal.

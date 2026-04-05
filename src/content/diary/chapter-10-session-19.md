@@ -39,6 +39,7 @@ places:
 things:
   - "iron-tome"
   - "mythallar"
+  - "windrunner-armor"
 factions:
   - "bregan-daerthe"
   - "duergar-faction"

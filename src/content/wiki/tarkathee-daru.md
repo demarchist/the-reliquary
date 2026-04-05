@@ -79,6 +79,10 @@ In the Underdark, after Gravenhollow showed the party visions of past, present, 
 
 By the time the group returned from their long absence, the war had come home. After the Barony was secured, a final Planeshift carried Tark east to Helioglabulus, the capital of [[Damara]] — his homeland, seen for the first time in seven years. Standing on the Damaran Steppe with the mountain range on the horizon, he felt cold. The flint knife thrummed in the [[Bag of Holding]], pulling him north.
 
+## The Windrunner Armor
+
+Tark has carried the schematics for a legendary set of armor — the [[windrunner-armor|Windrunner Armor]] — for years, assembling the extraordinarily rare components required for its construction piece by piece across the group's travels. In [[helioglabulus|Helios]], he acquired the final ingredient: a jar of [[elder-brain-ichor|Elder Brain Ichor]] from [[izzys-stuff|Izzy's Stuff]], the only specimen the shopkeeper had ever seen. The price was steep — the [[saurian-deathlord-greatsword|Saurian Deathlord's blazing greatsword]], the Signet of [[house-faen-tlabbar|House Faen Tlabbar]], and a copy of the schematics — but Tark's eyes went wide at the sight of the ichor. Years of searching, finished in a single trade. He began working with [[gundren-rockseeker|Gundren]] to schedule the forging immediately.
+
 ## Tark's Treehouse
 
 Tark lives alone in an elaborate treehouse deep in the forests of [[Thunder Bluff]]. The structure is built around an enormous ancient oak at the center of a clearing — half-up the massive trunk, an elaborate network of rope bridges, platforms, and rooms woven together in a chaotic jumble. The treehouse appears to defy gravity, dangling precariously from the upper branches; what appears haphazard from the outside is, on closer inspection, a haphazard assemblage of wooden platforms, rope bridges, and what appear to be repurposed boat hulls, all lashed together with practiced resourcefulness.
