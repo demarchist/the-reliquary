@@ -37,6 +37,7 @@ things:
   - "luck-blade"
 factions:
   - "amnians"
+  - "the-circle"
   - "zhentarim"
 events:
   - "council-of-helms-hold"

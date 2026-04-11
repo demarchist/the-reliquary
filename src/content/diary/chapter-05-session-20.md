@@ -33,6 +33,8 @@ things:
   - "bag-of-holding"
   - "gwen"
   - "thundercannon"
+factions:
+  - "the-circle"
 ---
 
 ## Ash and Aftermath

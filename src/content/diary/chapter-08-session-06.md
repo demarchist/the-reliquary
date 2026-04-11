@@ -39,6 +39,7 @@ factions:
   - "drow-faction"
   - "duergar-faction"
   - "illithid-faction"
+  - "the-circle"
 ---
 
 ## Waking up and Wind Walking

@@ -27,6 +27,7 @@ places:
   - "machina-factory"
   - "thueba-swamp"
 things:
+  - "al-askarian-tablet"
   - "steden"
 factions:
   - "cult-of-zalaam"

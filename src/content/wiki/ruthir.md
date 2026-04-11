@@ -24,3 +24,5 @@ Ruthir was given chambers one level below the great Library hall and got to work
 - Noble-born, identifiable by his pendant and class ring
 - Eager and hard-working student of the arcane arts
 - Arrived wearing school robes in notable disrepair from his adventuring years
+
+Ruthir has taken on responsibilities beyond his studies, occasionally staffing the tower's lobby desk. When Fëanon teleported back to the tower in a midnight panic over a mysterious message on the [[al-askarian-tablet|Al'Askarian Tablet]], it was Ruthir who was meditating behind the front desk — and who was startled from his reverie by the archmage materializing before him.

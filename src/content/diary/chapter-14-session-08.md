@@ -32,6 +32,7 @@ places:
 things:
   - "gwen"
   - "steden"
+  - "the-dreamer"
 factions:
   - "drow-faction"
   - "house-alamreth-undonwe"

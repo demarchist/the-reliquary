@@ -39,6 +39,7 @@ factions:
   - "drow-faction"
   - "duergar-faction"
   - "stoneguard"
+  - "the-circle"
 ---
 
 ## The Aftermath

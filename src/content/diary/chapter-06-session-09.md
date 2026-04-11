@@ -29,6 +29,7 @@ factions:
   - "3rd-special-actions-detachment"
   - "amnians"
   - "illithid-faction"
+  - "the-circle"
 ---
 
 ## Free at Last

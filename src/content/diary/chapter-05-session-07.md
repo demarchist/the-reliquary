@@ -19,6 +19,8 @@ places:
   - "vallaki"
 things:
   - "bag-of-holding"
+factions:
+  - "the-circle"
 ---
 
 ## Inside the Manor

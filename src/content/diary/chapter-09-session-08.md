@@ -32,6 +32,8 @@ things:
   - "arkto"
   - "eclipse"
   - "gwen"
+factions:
+  - "the-circle"
 ---
 
 [[tarkathee-daru|Tark]] peeled away from the group as they pursued the retreating Sovereignty forces into the tree line. The keep had no idea the barony was under attack.

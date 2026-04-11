@@ -36,6 +36,7 @@ things:
 factions:
   - "faerun-defense-force"
   - "saurians"
+  - "the-circle"
 ---
 
 ## The First Wave

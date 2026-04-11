@@ -35,7 +35,8 @@ The tower is a working arcane community, not merely a private residence. Its inh
 - **[[Megno Slatesunder]]** — the Tower's Sage, a fellow acolyte of Theodemir's Conclave. Megno conducts research into the Ziggurats and [[Zhengyi]]'s lingering influence.
 - **Mordenkainen** — the archmage of Greyhawk, conducting research within the tower's upper floors.
 - **Ruthir** — Fëanon's apprentice, a young wizard learning under exacting standards.
-- **Giuseppe** — the tower's original front desk attendant, later succeeded by **Sinya Maya**.
+- **[[maya|Maya]]** (Sinya Maya) — the tower's current front desk attendant, having succeeded the original attendant Giuseppe.
+- **[[grymedire|Grymedire]]** (Grym) — a student who assists with technical work and occasionally covers the front desk. He helped Fëanon duplicate an [[al-askarian-tablet|Al'Askarian Tablet]] message onto a larger display during a late-night emergency, and once held onto a letter from [[mordenkainen|Mordenkainen]] for several days before remembering to deliver it.
 
 The atmosphere is scholarly and purposeful. Wizards, sorcerers, and other arcanists study under Fëanon's guidance, and the tower hums with quiet industry — the sound of a dozen research projects advancing simultaneously behind closed doors.
 

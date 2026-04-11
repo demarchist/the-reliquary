@@ -26,3 +26,7 @@ Mordenkainen is imperious and impatient — he reduced JmJm's animated bookcase 
 ## The Ziggurats
 
 Mordenkainen returned to Faerûn after destroying a dark Ziggurat beneath Sundabar alongside the Delzoun Emperor. He visited Feanon's Tower to compare notes — the Sundabar Ziggurat had been grown from the life force of Megno's apprentice Molly. On Oerth, he was battling a cabal of Liches bringing trans-dimensional monsters through portals. He examined the Barony Ziggurat's broken Phylactery — black Sourcestone and mythically rare Prismeum — and invited Feanon to craft an Archwizard's staff and join the Circle of Mystra on the Rock in the Astral Sea.
+
+## The Invitation
+
+Mordenkainen later sent a formal invitation to [[feanon-serinde|Fëanon]] — a purple velvet envelope sealed with black wax flecked with gold, delivered to [[feanons-tower|Fëanon's Tower]] and held by the student [[grymedire|Grymedire]] for several days before being passed along. When Fëanon's fingers touched the material, overlapping whispers of *"Mordenkainen"* filled his mind, and when he broke the seal the letter let out a small, satisfied whimper. The letter invited Fëanon to the [[astral-plane|Astral Plane]], to a place called The Rock, to meet [[the-circle|The Circle]]. It noted that time was malleable there and that Fëanon should make contact when he had time to spare. Fëanon appreciated the showmanship, even if he found the human Archmage distasteful.

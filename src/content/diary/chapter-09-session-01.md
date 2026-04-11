@@ -48,6 +48,7 @@ factions:
   - "drow-faction"
   - "duergar-faction"
   - "svirfneblin-faction"
+  - "the-circle"
 ---
 
 [[aliyah-faen-tlabbar|Patches]] stood atop the Demon Prince, flipped her blades over in her hands, and plunged them both home.

@@ -39,4 +39,6 @@ Since the body was Fëanon's clone, Theodemir looked exactly like his student. W
 
 The clone body's longevity remains an open question — the vision had warned of a side effect, obscured but inevitable. For now, the body holds. Theodemir walks, thinks, and manages the tower in his student's form, and no one who visits is the wiser.
 
-Now that the most immediate dangers have passed, Theodemir has begun to speak of wanting his own form restored — not another of his student's clones, but something closer to his original self. Fëanon scoffed at the idea that anyone would willingly surrender a body for the purpose, but admitted that getting his old master back to full strength would be excellent for the tower's operations. The question of how — or whether — remains unresolved.
+Now that the most immediate dangers have passed, Theodemir has begun to speak of wanting his own form restored — not another of his student's clones, but something closer to his original self. Fëanon scoffed at the idea that anyone would willingly surrender a body for the purpose, but admitted that getting his old master back to full strength would be excellent for the tower's operations.
+
+During a late-night emergency at the tower, Theodemir approached Fëanon looking much like his old self — aided by illusions and an Alter Self spell — and pressed the matter directly: could a resurrection be arranged, or a new clone grown to his original specifications? Fëanon promised to look into it. The question of how — or whether — remains unresolved.

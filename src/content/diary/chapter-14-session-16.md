@@ -18,6 +18,7 @@ people:
   - "lady-in-white"
   - "lathander"
   - "li-xian"
+  - "maya"
   - "megno-slatesunder"
   - "mordenkainen"
   - "tarkathee-daru"

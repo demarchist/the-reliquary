@@ -70,3 +70,7 @@ Cirrus and [[Fëanon Sërindë|Fëanon]] maintain a friendly rivalry rooted in t
 During the coordinated assault on the Bumidere estate, Cirrus fought desperately — calling on Selûne's power to banish both the Oni [[Li Xian]] and the possessed Cercei, now called Corpsetaker. The banishment struck Corpsetaker but Li Xian shrugged it off, physically throwing the moonlight away. As the enemies retreated, Corpsetaker left a parting gift: a feeblemind enchantment that made Cirrus a prisoner in his own mind. He turned, saw familiar faces, and drooling, shambled toward them.
 
 It was the lowest point of his life — the man who had clawed his way out of one form of enslavement reduced to a mental vegetable by another.
+
+## Roquelle
+
+During the group's journey through the Galena Mountains, Cirrus prayed to Selûne over a fine stone he had plucked from the mountainside and cast True Polymorph — sculpting the rock into a High-Elf woman with a silver eye and silver fingertips. He named her [[roquelle|Roquelle]], a new priest of Selûne, born from rock and devotion. The act was quintessentially Cirrus: grandiose, sincere, and executed without consulting anyone.

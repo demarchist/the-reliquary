@@ -17,6 +17,7 @@ places:
 factions:
   - "phaerimm"
   - "saurians"
+  - "the-circle"
 ---
 
 ## The Nature of the Beast

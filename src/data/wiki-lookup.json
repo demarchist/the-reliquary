@@ -69,6 +69,16 @@
     "title": "Al Askar",
     "category": "Places"
   },
+  "al'askarian tablet": {
+    "slug": "al-askarian-tablet",
+    "title": "Al'Askarian Tablet",
+    "category": "Things"
+  },
+  "the tablet": {
+    "slug": "al-askarian-tablet",
+    "title": "Al'Askarian Tablet",
+    "category": "Things"
+  },
   "albert's armor": {
     "slug": "alberts-armor",
     "title": "Albert's Armor",
@@ -232,6 +242,21 @@
   "the sunsword": {
     "slug": "ashbringer",
     "title": "Ashbringer",
+    "category": "Things"
+  },
+  "ashen white dragon": {
+    "slug": "ashen-white-dragon",
+    "title": "Ashen White Dragon",
+    "category": "Things"
+  },
+  "ashen white dragons": {
+    "slug": "ashen-white-dragon",
+    "title": "Ashen White Dragon",
+    "category": "Things"
+  },
+  "grey dragons": {
+    "slug": "ashen-white-dragon",
+    "title": "Ashen White Dragon",
     "category": "Things"
   },
   "the astral plane": {
@@ -1709,6 +1734,16 @@
     "title": "Gruttag",
     "category": "People"
   },
+  "grymedire": {
+    "slug": "grymedire",
+    "title": "Grymedire",
+    "category": "People"
+  },
+  "grym": {
+    "slug": "grymedire",
+    "title": "Grymedire",
+    "category": "People"
+  },
   "gundren rockseeker": {
     "slug": "gundren-rockseeker",
     "title": "Gundren Rockseeker",
@@ -2744,6 +2779,16 @@
     "title": "Master Koh",
     "category": "People"
   },
+  "maya": {
+    "slug": "maya",
+    "title": "Maya",
+    "category": "People"
+  },
+  "sinya maya": {
+    "slug": "maya",
+    "title": "Maya",
+    "category": "People"
+  },
   "mcas mythalmar": {
     "slug": "mcas-mythalmar",
     "title": "MCAS Mythalmar",
@@ -3269,6 +3314,21 @@
     "title": "Raylen",
     "category": "People"
   },
+  "razorhog": {
+    "slug": "razorhog",
+    "title": "Razorhog",
+    "category": "Things"
+  },
+  "razorhogs": {
+    "slug": "razorhog",
+    "title": "Razorhog",
+    "category": "Things"
+  },
+  "razorback": {
+    "slug": "razorhog",
+    "title": "Razorhog",
+    "category": "Things"
+  },
   "red wizards of thay": {
     "slug": "red-wizards-of-thay",
     "title": "Red Wizards of Thay",
@@ -3362,6 +3422,11 @@
   "ront": {
     "slug": "ront",
     "title": "Ront",
+    "category": "People"
+  },
+  "roquelle": {
+    "slug": "roquelle",
+    "title": "Roquelle",
     "category": "People"
   },
   "rudjek": {
@@ -4004,6 +4069,21 @@
     "title": "The Chasm",
     "category": "Places"
   },
+  "the circle": {
+    "slug": "the-circle",
+    "title": "The Circle",
+    "category": "Factions"
+  },
+  "circle of mystra": {
+    "slug": "the-circle",
+    "title": "The Circle",
+    "category": "Factions"
+  },
+  "the circle of mystra": {
+    "slug": "the-circle",
+    "title": "The Circle",
+    "category": "Factions"
+  },
   "the crossroads": {
     "slug": "the-crossroads",
     "title": "The Crossroads",
@@ -4013,6 +4093,16 @@
     "slug": "the-crossroads",
     "title": "The Crossroads",
     "category": "Places"
+  },
+  "the dreamer": {
+    "slug": "the-dreamer",
+    "title": "The Dreamer",
+    "category": "Things"
+  },
+  "the dreamer of und": {
+    "slug": "the-dreamer",
+    "title": "The Dreamer",
+    "category": "Things"
   },
   "the establishment": {
     "slug": "the-establishment",
@@ -4244,6 +4334,11 @@
     "title": "Umu",
     "category": "People"
   },
+  "und": {
+    "slug": "und",
+    "title": "Und",
+    "category": "Places"
+  },
   "the underdark": {
     "slug": "underdark",
     "title": "The Underdark",
@@ -4253,6 +4348,11 @@
     "slug": "underdark",
     "title": "The Underdark",
     "category": "Places"
+  },
+  "urkle": {
+    "slug": "urkle",
+    "title": "Urkle",
+    "category": "People"
   },
   "urmas": {
     "slug": "urmas",

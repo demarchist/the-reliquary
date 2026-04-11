@@ -32,6 +32,7 @@ factions:
   - "drow-faction"
   - "house-faen-tlabbar"
   - "netherese"
+  - "the-circle"
   - "watchers-of-helm"
 ---
 
