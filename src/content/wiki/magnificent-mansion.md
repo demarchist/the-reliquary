@@ -47,6 +47,8 @@ The mansion is sealed against external conditions. The smog of [[gracksuluth|Gra
 
 The entrance can be concealed. In Al Askar, fleeing the Avatar of Hohonu, Fëanon hid the mansion's entrance in the arcane shadow of an ancient glyph, rendering it invisible to magical detection. The Avatar crashed through the surrounding swamp for hours and did not find them.
 
+In the Galena Mountains, Fëanon conjured the mansion against the rock face near the entrance to the [[mines-of-und|Mines of Und]], giving the group a secure base from which to plan their assault on the [[elder-orb|Elder Orb]] lurking in the depths below. The mansion served as both war room and barracks — the group resting, sharing intelligence from [[aliyah-faen-tlabbar|Patches]]' scouting run, and preparing their buffs before descending into the crystal-threaded tunnels.
+
 ## Wild Magic
 
 The mansion is not immune to all environments. On Al Askar, where the world's damaged magical fabric caused wild-magic surges, Fëanon's attempt to conjure the mansion failed catastrophically — the spell collapsed, smothered by ancient wards, and erupted into a lightning storm that filled the chamber for ten agonising minutes. It was one of the few occasions the wizard's magic turned on him completely.

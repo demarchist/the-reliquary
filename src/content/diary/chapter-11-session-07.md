@@ -14,6 +14,7 @@ people:
   - "vecna"
 places:
   - "al-askar"
+  - "mines-of-und"
   - "neverwinter"
   - "sharza"
 things:

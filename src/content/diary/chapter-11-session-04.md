@@ -15,6 +15,7 @@ people:
   - "velka"
   - "veygar"
 places:
+  - "mines-of-und"
   - "underdark"
 things:
   - "ringed-veils"

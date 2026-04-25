@@ -25,6 +25,7 @@ places:
   - "faerun"
   - "icewind-dale"
   - "menzoberranzan"
+  - "mines-of-und"
   - "selunia"
   - "the-crossroads"
   - "underdark"

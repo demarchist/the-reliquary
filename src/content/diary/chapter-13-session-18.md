@@ -16,6 +16,7 @@ places:
   - "barovia"
   - "disphotic-forest"
   - "ethereal-plane"
+  - "mines-of-und"
   - "underdark"
 things:
   - "gwen"

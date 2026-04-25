@@ -18,6 +18,10 @@ Steden has also served as aerial scout — JmJm mounted the Nightmare to survey 
 
 Steden is not a passive mount. When the group encountered the great Wyvern and Borborygmos, JmJm dismounted on the party's insistence — and Steden, left to his own devices, began inching toward the Wyvern hoping to start something, until [[aliyah-faen-tlabbar|Patches]] looked the Nightmare dead in the eye and told him to knock it off. Steden muttered something and trotted back, head low. He has also manifested as a fiery drake when JmJm required a show of force, and he ferried the Bedouin Machmoud across the desert despite the man's initial recoiling from the devil-horse.
 
+## The Mines of Und
+
+At [[und|Und]], when a Beholder nearly petrified [[jack-mayer-johnson-mathews|JmJm]] mid-battle, the bard shattered the encasing stone and vaulted onto Steden's back. The Nightmare plunged into the [[ethereal-plane|Ethereal Plane]] and reappeared behind the Beholder an instant later — flanking it between JmJm and the shooters on the ground. From the Ethereal, JmJm observed the [[mines-of-und|mines]] beneath the village blazing with power, leading the group to discover an [[elder-orb|Elder Orb]] lurking in the depths below.
+
 ## Death and Return
 
 During the assault on the Undead Legions, Steden was killed in battle — boulders crashed into the fiery steed from above and pummelled it to death, sending JmJm to the ground hard. The Nightmare was subsequently called forth again for the infiltration of Aina Pulu, resuming his role without apparent complaint.

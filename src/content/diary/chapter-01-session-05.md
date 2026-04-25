@@ -18,6 +18,7 @@ people:
   - "tarkathee-daru"
 places:
   - "astral-plane"
+  - "mines-of-und"
   - "the-chasm"
   - "wave-echo-cave"
 things:

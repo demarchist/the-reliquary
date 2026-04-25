@@ -14,6 +14,7 @@ people:
   - "surtr"
   - "tarkathee-daru"
 places:
+  - "mines-of-und"
   - "selunia"
 things:
   - "chardalyn"

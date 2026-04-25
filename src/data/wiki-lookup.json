@@ -1219,6 +1219,21 @@
     "title": "Elder Brain Ichor",
     "category": "Things"
   },
+  "the elder orb": {
+    "slug": "elder-orb",
+    "title": "The Elder Orb",
+    "category": "Things"
+  },
+  "elder orb": {
+    "slug": "elder-orb",
+    "title": "The Elder Orb",
+    "category": "Things"
+  },
+  "elder orb of und": {
+    "slug": "elder-orb",
+    "title": "The Elder Orb",
+    "category": "Things"
+  },
   "elion loberos": {
     "slug": "elion-loberos",
     "title": "Elion Loberos",
@@ -2878,6 +2893,26 @@
     "slug": "mimor",
     "title": "Mimor",
     "category": "People"
+  },
+  "the mines of und": {
+    "slug": "mines-of-und",
+    "title": "The Mines of Und",
+    "category": "Places"
+  },
+  "mines of und": {
+    "slug": "mines-of-und",
+    "title": "The Mines of Und",
+    "category": "Places"
+  },
+  "the mine": {
+    "slug": "mines-of-und",
+    "title": "The Mines of Und",
+    "category": "Places"
+  },
+  "the mines": {
+    "slug": "mines-of-und",
+    "title": "The Mines of Und",
+    "category": "Places"
   },
   "miranda": {
     "slug": "miranda",

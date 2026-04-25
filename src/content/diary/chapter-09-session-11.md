@@ -31,6 +31,7 @@ people:
 places:
   - "blingdenstone"
   - "feanons-tower"
+  - "mines-of-und"
   - "rockseeker-manufactory"
   - "selunia"
   - "shade-enclave"

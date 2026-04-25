@@ -16,6 +16,7 @@ people:
 places:
   - "al-askar"
   - "faerun"
+  - "mines-of-und"
 things:
   - "the-last-word"
 factions:

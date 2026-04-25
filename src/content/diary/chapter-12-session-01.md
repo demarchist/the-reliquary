@@ -21,6 +21,7 @@ people:
   - "thorna"
 places:
   - "al-askar"
+  - "mines-of-und"
   - "ras-alkan"
   - "sharza"
   - "toril"

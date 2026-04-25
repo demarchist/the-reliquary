@@ -30,6 +30,7 @@ places:
   - "helioglabulus"
   - "ironfang-keep"
   - "magnificent-mansion"
+  - "mines-of-und"
   - "the-crossroads"
   - "und"
 things:

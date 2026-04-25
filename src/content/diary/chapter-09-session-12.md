@@ -15,6 +15,7 @@ people:
   - "snorbul"
 places:
   - "blingdenstone"
+  - "mines-of-und"
   - "underdark"
 things:
   - "gwen"

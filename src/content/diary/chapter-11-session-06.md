@@ -17,6 +17,7 @@ people:
 places:
   - "al-askar"
   - "magnificent-mansion"
+  - "mines-of-und"
 things:
   - "eclipse"
 factions:

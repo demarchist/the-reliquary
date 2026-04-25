@@ -12,6 +12,7 @@ people:
   - "snorbul"
   - "thorna"
 places:
+  - "mines-of-und"
   - "underdark"
 things:
   - "chardalyn"
