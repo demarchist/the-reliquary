@@ -74,3 +74,13 @@ It was the lowest point of his life — the man who had clawed his way out of on
 ## Roquelle
 
 During the group's journey through the Galena Mountains, Cirrus prayed to Selûne over a fine stone he had plucked from the mountainside and cast True Polymorph — sculpting the rock into a High-Elf woman with a silver eye and silver fingertips. He named her [[roquelle|Roquelle]], a new priest of Selûne, born from rock and devotion. The act was quintessentially Cirrus: grandiose, sincere, and executed without consulting anyone.
+
+## The Beholder Dogfight
+
+In the audience chamber of the [[elder-orb|Elder Orb]] beneath the [[mines-of-und|Mines of Und]], Cirrus did the thing that broke the fight open. The Elder Orb had spent the opening rounds shrugging off direct spells with his antimagic gaze, blasting the group with eyebeams, killing [[steden|Steden]] outright, and dragging fresh Spectators into existence from folds of spacetime. Conventional damage was insufficient.
+
+Cirrus cast True Polymorph on himself and shifted into the form of a Beholder — a perfect mirror of his enemy. The transformation was instantaneous and grotesque: his body inflated into a sphere of pink fleshy folds, eyestalks erupted from his scalp in a writhing crown, and his central eye opened where his chest had been. The Elder Orb screamed in fury — the *insult* of a mortal daring to assume the perfect form was, briefly, more enraging than the violence itself.
+
+What followed was a magical dogfight. Two great fleshy spheres tilted and drifted around each other in mid-air, each working to keep its central eye on the other and out of the other's antimagic cone. Cirrus tracked the Elder Orb relentlessly — his cone fixed on the Orb's central eye, denying the creature the ability to negate the spells of his companions, denying the creature the ability to shrug off damage. While the rest of the group hammered the body of the aberration from the floor, Cirrus pinned its magic from the air. The combined onslaught took its toll. The Orb sagged, listed, and fell.
+
+The transformation was the most decisive thing Cirrus had done in combat to that point — an assertion of theological identity (a moon-touched mortal *imitating* the perfect form) and pure tactical brilliance, fused into a single act. He shifted back into his own body when the fight was over and brushed nonexistent dust from his coat.

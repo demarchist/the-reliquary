@@ -27,6 +27,7 @@ things:
   - "bag-of-holding"
   - "eye-of-aren"
   - "gwen"
+  - "inkblade"
 ---
 
 ## Opening Salvo

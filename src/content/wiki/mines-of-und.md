@@ -30,6 +30,20 @@ From the [[ethereal-plane|Ethereal Plane]], the mines blaze with power — lines
 
 ## The Crystal Chamber
 
-The outer chambers of the mine are home to lesser aberrations drawn to the Elder Orb's power. A Spectator and a Gauth were found gathering iridescent crystals from the walls — the Gauth clutching them in its tentacles like a miser hoarding coins. The group destroyed both creatures, clearing the outer chambers before pressing deeper toward the Elder Orb's true lair.
+The outer chambers of the mine are home to lesser aberrations drawn to the Elder Orb's power. A Spectator and a Gauth were found gathering iridescent [[dream-crystals|crystals]] from the walls — the Gauth clutching them in its tentacles like a miser hoarding coins. The group destroyed both creatures, clearing the outer chambers before pressing deeper toward the Elder Orb's true lair.
 
 Bioluminescent fungi line the walls of the deeper caverns, their soft glow catching the scattered crystals and casting the mine interior in a shifting kaleidoscope of colour.
+
+## The Sleeping Dreamer
+
+In a side alcove off the outer passages, the group found a sleeping man — human or something that had once been human, dressed in tattered miner's clothing — whose dreams warped reality outward in slow concentric waves. Crystal spurs grew from the floor in time with his breathing, the ceiling sagged half a foot lower than the rest of the room and held there, and beneath his hair a dozen eyeballs shifted across the surface of his scalp like beads under cloth. [[aliyah-faen-tlabbar|Patches]] declined to wake him, set a tripwire of explosives across the alcove threshold, and backed quietly out.
+
+## The Crystal City
+
+Past the outer chambers, the mine descends through a vast crystal shaft into a buried [[netherese|Netherese]] city. The crystals do not merely grow — they *build*, repeating the geometries of an enclave two thousand years dead in pillars, niches, lintels, balconies, and full architectural facades. At the bottom of the shaft, a crystal street stretches into the dark — windows, doorways, and ornamental motifs carved into faces of crystal, an entire avenue of buildings reproduced beneath the earth. The architectural style is the same as the original Netherese ruin in the frozen north from which the Elder Orb was driven; the creature appears to have carried the *shape* of his lost home with him and the crystals beneath Und reproduced it from memory.
+
+The avenue terminates at a vast circular portal of swirling chromatic energies — an illusion disguising the doorway into the audience chamber proper.
+
+## The Audience Chamber
+
+The Elder Orb's lair was a domed circular chamber with a raised balcony wrapping the back third and walls of crystal panels and angled mirrors. The aberration himself floated at the centre — a massive sphere of pink fleshy folds with eyestalks like fingers, ink-black eyes, and a smiling mouth set with human teeth. The group spoke with him briefly, learned that he had been driven out of his original Netherese home in the north by [[zhengyi|Zhengyi]], then attacked. The chamber was largely destroyed in the resulting magic-warped dogfight — telekinetic rays tore chunks from the balcony, eye rays disintegrated mirrors and crystal panels, and the floor was cratered in several places. With the Orb's death the lair lost its glow and stilled. The crystals stopped creaking. The bioluminescence dimmed by half. The dreaming eyes throughout the mine slid closed and did not reopen.

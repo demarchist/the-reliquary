@@ -189,6 +189,21 @@
     "title": "Anduriel",
     "category": "People"
   },
+  "the arcane hand glove": {
+    "slug": "arcane-hand-glove",
+    "title": "The Arcane Hand Glove",
+    "category": "Things"
+  },
+  "jmjm's glove": {
+    "slug": "arcane-hand-glove",
+    "title": "The Arcane Hand Glove",
+    "category": "Things"
+  },
+  "the glove": {
+    "slug": "arcane-hand-glove",
+    "title": "The Arcane Hand Glove",
+    "category": "Things"
+  },
   "ares": {
     "slug": "ares",
     "title": "Ares",
@@ -1129,6 +1144,21 @@
     "title": "Dragons of Shou Lung",
     "category": "Factions"
   },
+  "dream crystals": {
+    "slug": "dream-crystals",
+    "title": "Dream Crystals",
+    "category": "Things"
+  },
+  "the iridescent crystals": {
+    "slug": "dream-crystals",
+    "title": "Dream Crystals",
+    "category": "Things"
+  },
+  "crystals of und": {
+    "slug": "dream-crystals",
+    "title": "Dream Crystals",
+    "category": "Things"
+  },
   "dregthana": {
     "slug": "dregthana",
     "title": "Dregthana",
@@ -1219,6 +1249,11 @@
     "title": "Elder Brain Ichor",
     "category": "Things"
   },
+  "elder orb hide": {
+    "slug": "elder-orb-hide",
+    "title": "Elder Orb Hide",
+    "category": "Things"
+  },
   "the elder orb": {
     "slug": "elder-orb",
     "title": "The Elder Orb",
@@ -1230,6 +1265,11 @@
     "category": "Things"
   },
   "elder orb of und": {
+    "slug": "elder-orb",
+    "title": "The Elder Orb",
+    "category": "Things"
+  },
+  "eye tyrant": {
     "slug": "elder-orb",
     "title": "The Elder Orb",
     "category": "Things"
@@ -2098,6 +2138,21 @@
     "slug": "ingrbotha",
     "title": "Ingrbotha",
     "category": "People"
+  },
+  "inkblade": {
+    "slug": "inkblade",
+    "title": "Inkblade",
+    "category": "Things"
+  },
+  "the inkblade": {
+    "slug": "inkblade",
+    "title": "Inkblade",
+    "category": "Things"
+  },
+  "instrument of the bards": {
+    "slug": "instrument-of-the-bards",
+    "title": "Instrument of the Bards",
+    "category": "Things"
   },
   "intent": {
     "slug": "intent",
@@ -3284,6 +3339,11 @@
     "title": "Piwafwi",
     "category": "Things"
   },
+  "potion of supreme healing": {
+    "slug": "potion-of-supreme-healing",
+    "title": "Potion of Supreme Healing",
+    "category": "Things"
+  },
   "project starfall": {
     "slug": "project-starfall",
     "title": "Project STARFALL",
@@ -3588,6 +3648,11 @@
     "slug": "scornubel",
     "title": "Scornubel",
     "category": "Places"
+  },
+  "scroll of demiplane": {
+    "slug": "scroll-of-demiplane",
+    "title": "Scroll of Demiplane",
+    "category": "Things"
   },
   "sea of silt": {
     "slug": "sea-of-silt",

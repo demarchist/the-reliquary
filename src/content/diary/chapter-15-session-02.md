@@ -24,8 +24,9 @@ places:
   - "rising-sun"
   - "the-establishment"
 things:
-  - "iron-tome"
+  - "arcane-hand-glove"
   - "ashbringer"
+  - "iron-tome"
 factions:
   - "crimson-dawn-knights"
   - "house-muskov"

@@ -21,3 +21,9 @@ The weapon's sentient nature links it to both Patches' Drow heritage and her bon
 ## In the Battle Against Demogorgon
 
 Eclipse's most significant moment came in the climactic battle against [[demogorgon|Demogorgon]] at the bridges of Ladueger's Furrow in [[gracksuluth|Gracksuluth]]. As the Prince of Demons bore down on [[cirrus-al-kayan|Cirrus]] — drawn by a bluff about the artifact — Patches levitated to a balcony height, leaped the width of the bridge, and landed on Demogorgon's back. She climbed him strike by strike. Finding the point where the two spines of the twin-headed demon fused into one, she plunged Eclipse into the Demon Lord's flesh. The obsidian blade that had begun as a pool of silver in a ruined temple met the oldest evil in the [[underdark|Underdark]] at the top of his spine.
+
+## Against the Elder Orb
+
+In the audience chamber of the [[elder-orb|Elder Orb]] beneath the [[mines-of-und|Mines of Und]], Eclipse demonstrated the difference between physical and magical effect against an antimagic creature. Patches called Steelwind Strike, vanished, and reappeared at the great pink body of the aberration with the obsidian blade already in motion — a clean cut along the underside, then another from above, then a third angling up into the cluster of stalks. Eclipse cut where ordinary steel was useless and where direct spells died on contact. The wounds were real and bloodless and substantial.
+
+The follow-up enchantments she had bound to her strikes — moonfire blessings from [[eilistraee|Eilistraee]] for engagements precisely like this one — failed entirely. The fire did not catch. It simply was not there. The Elder Orb's body shrugged off any spell that targeted it directly, but the sentient blade itself bypassed his defences. Eclipse did damage. Anything that tried to ride the blade in did not.

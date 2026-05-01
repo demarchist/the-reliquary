@@ -31,6 +31,7 @@ places:
   - "the-establishment"
 things:
   - "delzoun-instant-fortress"
+  - "inkblade"
   - "saurian-firelance"
   - "steden"
 factions:

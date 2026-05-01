@@ -29,3 +29,5 @@ The second Beholder rose above the village and fought with greater desperation �
 ## The Elder Orb
 
 Both Beholders in the village were children — spawned copies of a far older creature. From the Ethereal Plane, JmJm observed that the [[mines-of-und|mines]] beneath Und blazed with power far beyond what any ordinary Beholder could produce. Fëanon identified the true architect of the Dream as an [[elder-orb|Elder Orb]] — an ancient Beholder dwelling in the depths below, feeding from a powerful magical source and projecting its will upward through its spawn.
+
+The group descended into the mines and slew the Elder Orb in his audience chamber. With the parent creature dead, the Dream's last echoes faded — the dreaming sentinels embedded throughout the deeper tunnels closed their eyes and did not reopen, and the reality-warping pressure that had pervaded the lair lifted entirely.

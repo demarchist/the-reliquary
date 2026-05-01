@@ -26,3 +26,9 @@ Zhengyi's influence extends through dark Ziggurats grown from life force. One be
 ## The Cosmic Web
 
 Zhengyi does not act alone. The cult leader at the [[titanic-forge|Titanic Forge]] on [[al-askar|Al Askar]] claimed that Zalaam ([[vecna|Vecna]]) was brother to Zhengyi and kin to Orcus — a web of undead powers working toward the same catastrophic end. Every thread the party pulled revealed the same pattern: the Children of Orcus, backed by [[atropos|Atropos]], were converging.
+
+## The Northern Netherese Ruin
+
+The [[elder-orb|Elder Orb of Und]] revealed in his audience chamber beneath the [[mines-of-und|Mines of Und]] that Zhengyi had personally driven him from a [[netherese|Netherese]] ruin trapped in ancient ice far to the north — an enclave that had crashed in the fall of Netheril and been preserved beneath the glaciers ever since. The Orb had lived there for centuries, drinking the dormant magic of the buried complex, until the lich came with an army at his back and forced the aberration south. The Orb fled to the disused mines beneath Und, settling for a smaller node of Netherese power, and stripped of the bulk of his centuries-old hoard.
+
+That hoard now sits either in Zhengyi's possession or in the buried Netherese ruin itself, awaiting whoever can find it. The northern ruin's existence — and Zhengyi's interest in it — points to a deeper continuity in the lich's plans: he is not merely raising armies, he is *collecting* the ancient magical infrastructure of the fallen empire. The Mythallar at the [[sanctum-of-krasus|Sanctum of Krasus]], the Ziggurats grown from life force, and now an entire glacier-bound enclave full of Netherese power suggest a methodical, patient acquisition of every relic the Witch-King can lay hands upon.

@@ -26,6 +26,8 @@ At [[und|Und]], when a Beholder nearly petrified [[jack-mayer-johnson-mathews|Jm
 
 During the assault on the Undead Legions, Steden was killed in battle — boulders crashed into the fiery steed from above and pummelled it to death, sending JmJm to the ground hard. The Nightmare was subsequently called forth again for the infiltration of Aina Pulu, resuming his role without apparent complaint.
 
+In the audience chamber of the [[elder-orb|Elder Orb]] beneath the [[mines-of-und|Mines of Und]], Steden was killed a second time. JmJm charged the great central body of the aberration on the Nightmare's back, vaulted from the saddle to strike with the [[inkblade|Inkblade]] — and as he did, the Elder Orb turned and unleashed a barrage of eyebeams centre-mass into the steed. Steden's fiery hide crumbled inward; his form began to dissolve as he was dragged back to the [[the-nine-hells|Nine Hells]]; and JmJm, mid-leap with no mount beneath him, fell thirty feet. The bard pulled on the [[arcane-hand-glove|glove]] he had carried for years on the way down and was caught above the stone by a conjured Arcane Hand. He has not yet called Steden back from the Hells since.
+
 ## Uni
 
 On the road to [[helioglabulus|Helios]], Steden met his celestial opposite in [[cassian|Cassian]]'s Pegasus Uni. The tension between the fiendish and the celestial was mutual and entirely undisguised — Uni kept as far from JmJm's devil-horse as the road would allow, and Steden shot the celestial withering looks in return.

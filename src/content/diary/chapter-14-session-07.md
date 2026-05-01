@@ -16,6 +16,7 @@ people:
   - "tarkathee-daru"
 things:
   - "arkto"
+  - "inkblade"
 factions:
   - "drow-faction"
   - "illithid-faction"

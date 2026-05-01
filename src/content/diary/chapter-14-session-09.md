@@ -34,6 +34,8 @@ places:
   - "the-establishment"
   - "the-evermoors"
   - "thunder-bluff"
+things:
+  - "arcane-hand-glove"
 factions:
   - "doomstar-legion"
   - "faerun-defense-force"

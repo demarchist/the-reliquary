@@ -17,6 +17,7 @@ places:
   - "und"
   - "underdark"
 things:
+  - "dream-crystals"
   - "elder-orb"
   - "eye-of-aren"
   - "steden"
