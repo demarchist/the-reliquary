@@ -204,21 +204,6 @@
     "title": "Anduriel",
     "category": "People"
   },
-  "the arcane hand glove": {
-    "slug": "arcane-hand-glove",
-    "title": "The Arcane Hand Glove",
-    "category": "Things"
-  },
-  "jmjm's glove": {
-    "slug": "arcane-hand-glove",
-    "title": "The Arcane Hand Glove",
-    "category": "Things"
-  },
-  "the glove": {
-    "slug": "arcane-hand-glove",
-    "title": "The Arcane Hand Glove",
-    "category": "Things"
-  },
   "ares": {
     "slug": "ares",
     "title": "Ares",
@@ -3138,6 +3123,36 @@
     "slug": "myria-brightlance",
     "title": "Myria Brightlance",
     "category": "People"
+  },
+  "the mysterious glove": {
+    "slug": "mysterious-glove",
+    "title": "The Mysterious Glove",
+    "category": "Things"
+  },
+  "mysterious glove": {
+    "slug": "mysterious-glove",
+    "title": "The Mysterious Glove",
+    "category": "Things"
+  },
+  "the glove": {
+    "slug": "mysterious-glove",
+    "title": "The Mysterious Glove",
+    "category": "Things"
+  },
+  "jmjm's glove": {
+    "slug": "mysterious-glove",
+    "title": "The Mysterious Glove",
+    "category": "Things"
+  },
+  "the mysterious glove from his past": {
+    "slug": "mysterious-glove",
+    "title": "The Mysterious Glove",
+    "category": "Things"
+  },
+  "mysterious glove from his past": {
+    "slug": "mysterious-glove",
+    "title": "The Mysterious Glove",
+    "category": "Things"
   },
   "mystra": {
     "slug": "mystra",

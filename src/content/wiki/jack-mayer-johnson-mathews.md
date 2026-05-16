@@ -75,7 +75,7 @@ Their rivalry sits on top of a complicated structure of grudging respect and unr
 
 ## The Glove and the Inkblade
 
-At the Font of Fawden, fighting through Vecna's undead legions with the fate of a goddess in the balance, JmJm rode into the press on his Nightmare steed with his [[inkblade|Inkblade]] singing in his hand. When a second Death Knight appeared and the line threatened to break, he pulled on a [[arcane-hand-glove|glove]] from his past — something he had carried since before anyone knew him — and an Arcane Hand materialized and smashed the creature into the ground.
+At the Font of Fawden, fighting through Vecna's undead legions with the fate of a goddess in the balance, JmJm rode into the press on his Nightmare steed with his [[inkblade|Inkblade]] singing in his hand. When a second Death Knight appeared and the line threatened to break, he pulled on the [[mysterious-glove|Mysterious Glove]] from his past — the same white leather glove he had been pulling on at decisive moments for years — and an Arcane Hand materialised and smashed the creature into the ground.
 
 The Inkblade is his weapon. It sings because that is what his weapons do. The glove is older and its origin has not been explained. He keeps it. He reached for it in the worst moment of the campaign so far without hesitation, which means he has always known it was there and always trusted it would work. Whatever it is — Sigil relic, assassin's tool, planar artifact — it is part of who he actually is, not the character he performs. And the fact that it came out in that moment, unremarked, while everything burned around him, is probably worth watching.
 

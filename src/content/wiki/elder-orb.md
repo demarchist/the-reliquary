@@ -45,7 +45,7 @@ The Elder Orb confirmed, when [[horatio-von-bumidere|Buumi]] asked, that the spe
 
 The fight in the Orb's audience chamber was unlike any other the party had survived. The central eye's antimagic gaze sloughed off direct spells — Banish dissolved in midair, Disintegrate had nothing to bite into, even [[eclipse|Eclipse's]] divine moonfire enchantments evaporated against his hide. The eyestalks fired in rolling barrages: telekinesis ripped chunks of the floor and balcony into the air, fear and petrification rays ground down the front line, and a death ray nearly killed JmJm outright. A reality-warping beam dragged a fresh Spectator into existence from a fold of spacetime mid-fight.
 
-[[steden|Steden]] was killed in the opening barrage — eyebeams unmade the Nightmare, dragging him back to the [[the-nine-hells|Nine Hells]] and dropping JmJm thirty feet to the chamber floor. The bard pulled on the [[arcane-hand-glove|glove]] he had carried for years and was caught a foot above the stone by the conjured Arcane Hand. He landed on his feet without a stumble.
+[[steden|Steden]] was killed in the opening barrage — eyebeams unmade the Nightmare, dragging him back to the [[the-nine-hells|Nine Hells]] and dropping JmJm thirty feet to the chamber floor. The bard pulled on the [[mysterious-glove|glove]] he had carried for years and was caught a foot above the stone by the conjured Arcane Hand. He landed on his feet without a stumble.
 
 What broke the Orb was [[cirrus-al-kayan|Cirrus]].
 

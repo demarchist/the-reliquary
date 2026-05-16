@@ -21,6 +21,7 @@ places:
   - "luskan"
 things:
   - "arkto"
+  - "mysterious-glove"
   - "steden"
 factions:
   - "bregan-daerthe"
@@ -74,7 +75,7 @@ Rude words and thinly veiled barbs were exchanged. Patches demanded satisfaction
 
 With a flash of insight, Patches realised where she knew this man. Not from Bregan D'Aerthe — from her own noble house. One of her mother's elite warriors.
 
-The ruffians pulled weapons. Other Dark Elves leapt from the shadows, assaulting the group with poisoned darts. Cirrus and JmJm were peppered and staggered with exhaustion before finding a second wind. [[Arkto]] and [[Steden]] were summoned. JmJm pulled on a mysterious glove from his past.
+The ruffians pulled weapons. Other Dark Elves leapt from the shadows, assaulting the group with poisoned darts. Cirrus and JmJm were peppered and staggered with exhaustion before finding a second wind. [[Arkto]] and [[Steden]] were summoned. JmJm pulled on the [[mysterious-glove|Mysterious Glove from his past]].
 
 The battle was short and furious. The group left only one survivor — a Drow soldier.
 

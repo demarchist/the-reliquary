@@ -24,9 +24,9 @@ places:
   - "rising-sun"
   - "the-establishment"
 things:
-  - "arcane-hand-glove"
   - "ashbringer"
   - "iron-tome"
+  - "mysterious-glove"
 factions:
   - "crimson-dawn-knights"
   - "house-muskov"
@@ -146,7 +146,7 @@ As it happened, a team of his had recently gone missing too. He had sent them to
 
 He had taken one look at the group, he said, and formed an opinion. In exchange for completing the job and accounting for his missing crew, he was prepared to share everything he knew about the city's current situation — including the whereabouts of Lord Aimu, and by extension the [[ashbringer|Ashbringer]] — along with ten thousand gold.
 
-[[jack-mayer-johnson-mathews|JmJm]] reached very slowly for a worn glove tucked into his belt and began to draw it on, finger by finger, with the focused patience of a man arriving at a decision.
+[[jack-mayer-johnson-mathews|JmJm]] reached very slowly for the [[mysterious-glove|worn white glove tucked into his belt]] and began to draw it on, finger by finger, with the focused patience of a man arriving at a decision.
 
 Luko's eyes moved to the glove. They moved back to JmJm's face.
 

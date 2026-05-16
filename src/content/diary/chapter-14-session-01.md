@@ -43,6 +43,7 @@ places:
   - "thunder-bluff"
   - "vaasa"
 things:
+  - "mysterious-glove"
   - "steden"
 factions:
   - "amnians"
@@ -60,7 +61,7 @@ The group found themselves in the middle of the town square on a hot summer's af
 
 Wounded, bloody, and exhausted, most of them shuffled into [[The Establishment]]. Calls went up from the townsfolk — *They've returned!* — and word began to spread through the streets that the [[Faerûn Defense Force]] was back.
 
-[[Jack Mayer-Johnson Mathews|JmJm]] split from the group without a word, trotting [[Steden]] across the square to his theatre and throwing open the ornate front doors with a boom and a cawing of ravens. Inside, he found local actors mid-rehearsal. He screamed at them to get out. All scrambled for the exits — save one, who was unceremoniously launched into the seats by the Arcane Hand. JmJm slumped into his throne at centre stage and began to think. Then to write.
+[[Jack Mayer-Johnson Mathews|JmJm]] split from the group without a word, trotting [[Steden]] across the square to his theatre and throwing open the ornate front doors with a boom and a cawing of ravens. Inside, he found local actors mid-rehearsal. He screamed at them to get out. All scrambled for the exits — save one, who was unceremoniously launched into the seats by the Arcane Hand of JmJm's [[mysterious-glove|Mysterious Glove]]. JmJm slumped into his throne at centre stage and began to think. Then to write.
 
 ## The Gambling Den
 

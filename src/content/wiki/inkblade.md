@@ -14,7 +14,7 @@ The blade *sings*. The note is not constant; it modulates with the weapon's velo
 
 ## Use in Combat
 
-JmJm reaches for the Inkblade in serious fights — moments when a finishing stroke or a decisive opening is required and the bard's preferred enchantments and theatrics will not suffice. At the [[font-of-fawden|Font of Fawden]], fighting Vecna's undead legions, the Inkblade sang in his hand as he rode into the press astride [[steden|Steden]], cutting through Death Knights and lesser undead until a second Death Knight forced him to reach for the [[arcane-hand-glove|glove]].
+JmJm reaches for the Inkblade in serious fights — moments when a finishing stroke or a decisive opening is required and the bard's preferred enchantments and theatrics will not suffice. At the [[font-of-fawden|Font of Fawden]], fighting Vecna's undead legions, the Inkblade sang in his hand as he rode into the press astride [[steden|Steden]], cutting through Death Knights and lesser undead until a second Death Knight forced him to reach for the [[mysterious-glove|glove]].
 
 In the lair of the [[elder-orb|Elder Orb]] beneath the [[mines-of-und|Mines of Und]], JmJm vaulted from Steden's back and struck the great central body of the aberration twice with the Inkblade. The wounds were among the few that the Elder Orb could not slough off — the singing blade cut where ordinary steel was useless and where the antimagic gaze rendered most spells inert.
 
@@ -22,4 +22,4 @@ In the lair of the [[elder-orb|Elder Orb]] beneath the [[mines-of-und|Mines of U
 
 JmJm has not explained where the Inkblade came from. It predates his time with the [[faerun-defense-force|Faerûn Defense Force]] and predates, by his own reluctant admission, the persona of the Dark Whistler. Whether it is a relic of [[sigil|Sigil]] — the City of Doors, where he was born — an assassin's tool from his earlier career, or something older and more personal, he has not said. He carries it with the easy familiarity of a man who has had a weapon longer than he has had most relationships, and reaches for it without looking. When he sets it down, he sets it down within arm's length.
 
-It is, like the [[arcane-hand-glove|glove]] he wears in the worst moments, a piece of who JmJm actually is rather than who he performs.
+It is, like the [[mysterious-glove|glove]] he wears in the worst moments, a piece of who JmJm actually is rather than who he performs.

@@ -35,7 +35,7 @@ places:
   - "the-evermoors"
   - "thunder-bluff"
 things:
-  - "arcane-hand-glove"
+  - "mysterious-glove"
 factions:
   - "doomstar-legion"
   - "faerun-defense-force"
@@ -98,7 +98,7 @@ She found Pickles in the wall, badly wounded. She pulled him out, fed him a heal
 
 The warg charge hit the town square from both sides. The raiders were met by the organised city guard, JmJm's militia, a horde of woodland creatures sent by Doc, and the core of the [[Faerûn Defense Force]].
 
-Tark's prosthetic arm blazed with red energy as he punched an ogre through a nearby building. The other seven could not touch the nimble halfling. Patches vanished into the warg charge in a flurry of lightning bombs and blades. Feanon erupted a wall of ice across the other approach, stalling the western charge cold. JmJm pulled on the glove from his past and began crushing ogres with the Arcane Hand.
+Tark's prosthetic arm blazed with red energy as he punched an ogre through a nearby building. The other seven could not touch the nimble halfling. Patches vanished into the warg charge in a flurry of lightning bombs and blades. Feanon erupted a wall of ice across the other approach, stalling the western charge cold. JmJm pulled on the [[mysterious-glove|Mysterious Glove from his past]] and began crushing ogres with the Arcane Hand.
 
 Crisserei's searing arrows broke the bat-riders' nerve. A triple blast from their horns signalled retreat and the flock fled south to the Evermoors. The Paladins charged into town. The wargs and ogres, now leaderless, turned and ran.
 

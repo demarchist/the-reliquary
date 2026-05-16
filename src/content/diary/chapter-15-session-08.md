@@ -17,7 +17,6 @@ places:
   - "mines-of-und"
   - "und"
 things:
-  - "arcane-hand-glove"
   - "bag-of-holding"
   - "dream-crystals"
   - "eclipse"
@@ -26,6 +25,7 @@ things:
   - "eye-of-aren"
   - "inkblade"
   - "instrument-of-the-bards"
+  - "mysterious-glove"
   - "potion-of-supreme-healing"
   - "scroll-of-demiplane"
   - "steden"
@@ -191,9 +191,9 @@ He fell thirty feet.
 
 Halfway down, his hand closed around something at his belt.
 
-A glove.
+The glove.
 
-He had carried it for years. None of his companions had ever asked about it. None of them had ever seen him wear it. He pulled it onto his right hand in the long second of the fall, and the air beside him *thickened* — coalescing into a translucent disembodied hand the size of a horse, ten fingers spread wide. The [[arcane-hand-glove|Arcane Hand]] caught him a foot above the floor, lifted him, and set him down upright as though catching a child off a wall. JmJm landed on his feet without so much as a stumble.
+The worn white leather thing he had carried at his belt for as long as any of his current companions had known him — the [[mysterious-glove|Mysterious Glove From His Past]], as he had been calling it for years with the deadpan precision of a man who had decided this was what the bit was. He pulled it onto his right hand in the long second of the fall, and the air beside him *thickened* — coalescing into a translucent disembodied hand the size of a horse, ten fingers spread wide. The Arcane Hand caught him a foot above the floor, lifted him, and set him down upright as though catching a child off a wall. JmJm landed on his feet without so much as a stumble.
 
 He did not look at the glove. He did not look at the place where Steden had been. He drew the Inkblade across his palm to renew its song and turned back to the fight.
 

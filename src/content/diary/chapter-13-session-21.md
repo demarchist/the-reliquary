@@ -32,6 +32,7 @@ places:
 things:
   - "delzoun-instant-fortress"
   - "inkblade"
+  - "mysterious-glove"
   - "saurian-firelance"
   - "steden"
 factions:
@@ -86,7 +87,7 @@ Cirrus watched the battle dissolving into chaos. This was taking too long. The r
 
 A coating of molten light now covered Fawden entirely. The great tree-like avatar was shuddering, dissolving. Cirrus turned all his will to accelerating the ritual, channelling the incredible power with his bare hands. The energy burned into Fawden — and then a blast of pure feedback hurled Cirrus backward. His skin smoked. He was not sure how much more his body could endure.
 
-A second undead Roc crashed through the wall, bringing another Death Knight. Patches finished the first — exploding into a whirlwind of enchanted strikes that staggered and felled the armoured Saurian — and JmJm charged across the battlefield on Steden, his inkblade singing. He pulled on a mysterious glove from his past and an Arcane Hand materialised, smashing into the second Death Knight.
+A second undead Roc crashed through the wall, bringing another Death Knight. Patches finished the first — exploding into a whirlwind of enchanted strikes that staggered and felled the armoured Saurian — and JmJm charged across the battlefield on Steden, his inkblade singing. He pulled on the [[mysterious-glove|Mysterious Glove from his past]] and an Arcane Hand materialised, smashing into the second Death Knight.
 
 Patches sprinted across the arena, slaying everything in her path as she fought to stem the tide.
 
