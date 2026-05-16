@@ -35,3 +35,15 @@ The theft of a vampire-killing weapon from a holy site, by a Paladin of the fait
 ## The Pursuit
 
 With Luko's intelligence in hand, the group rode out from Helios along the [[bloodstone-pass|Bloodstone Pass]], heading for [[ironfang-keep|Ironfang Keep]] and the turnoff north into [[frostmoore-vale|Frostmoore Vale]] — the location of Lord Aimu's wife's old estate and his suspected hideout. The recovery of the Ashbringer became the group's primary objective, taking precedence over an immediate confrontation with [[gaddock|Gaddock]] after [[feanon-serinde|Fëanon]] argued that the vampire could not be permanently destroyed without first locating his coffin.
+
+## On the Altar
+
+The group reached the [[aimu-estate|Aimu Estate]] at sundown and found the weapon, in the end, exactly where they had hoped. [[jack-mayer-johnson-mathews|JmJm]] burst through the doors of the estate's separate Lathanderian chapel on horseback, carrying an unconscious [[gnome-of-the-vale|Gnome]], and found Lord Aimu kneeling at the altar in a cream-and-brown silk hakama. The Ashbringer lay across the altar's surface — banked, dormant, the radiant blade reduced to a hairline of light.
+
+JmJm placed the wounded Gnome on the floor for Lord Aimu to heal, then crossed to the altar and lifted the Ashbringer himself. The hilt felt right in his palm — balanced, ready — but the blade did not light. The weapon had been attuned. JmJm was not its wielder.
+
+Lord Aimu rose, smoothed the lapels of his hakama, and extended one hand. JmJm placed the hilt in it.
+
+The radiance flared from banked to brilliant the instant Aimu's fingers closed on the grip — the chapel filling with sourceless daylight that made the high windows redundant. The blade had recognised the man who had taken it from the Cathedral. Whatever scandal attended the theft, the weapon itself had bonded to the Paladin.
+
+Lord Aimu walked out into the valley with the Ashbringer burning steady in his hand, and the [[ashen-white-dragon|Ashen White Dragons]] in mid-stoop above the [[aimu-estate|estate]] *flinched* at the brightness of him.

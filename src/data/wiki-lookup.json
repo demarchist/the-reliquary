@@ -44,6 +44,21 @@
     "title": "Ahmahd",
     "category": "People"
   },
+  "aimu estate": {
+    "slug": "aimu-estate",
+    "title": "Aimu Estate",
+    "category": "Places"
+  },
+  "the aimu estate": {
+    "slug": "aimu-estate",
+    "title": "Aimu Estate",
+    "category": "Places"
+  },
+  "frostmoore estate": {
+    "slug": "aimu-estate",
+    "title": "Aimu Estate",
+    "category": "Places"
+  },
   "'āina pulu": {
     "slug": "aina-pulu",
     "title": "'Āina Pulu",
@@ -823,6 +838,16 @@
     "slug": "claudine",
     "title": "Claudine",
     "category": "People"
+  },
+  "cloak of wings": {
+    "slug": "cloak-of-wings",
+    "title": "Cloak of Wings",
+    "category": "Things"
+  },
+  "buumi's cloak": {
+    "slug": "cloak-of-wings",
+    "title": "Cloak of Wings",
+    "category": "Things"
   },
   "coho": {
     "slug": "coho",
@@ -1689,6 +1714,21 @@
     "title": "Gneiss",
     "category": "People"
   },
+  "the gnome of the vale": {
+    "slug": "gnome-of-the-vale",
+    "title": "The Gnome of the Vale",
+    "category": "People"
+  },
+  "the bitten gnome": {
+    "slug": "gnome-of-the-vale",
+    "title": "The Gnome of the Vale",
+    "category": "People"
+  },
+  "the wounded gnome": {
+    "slug": "gnome-of-the-vale",
+    "title": "The Gnome of the Vale",
+    "category": "People"
+  },
   "the goblin king": {
     "slug": "goblin-king",
     "title": "The Goblin King",
@@ -2204,6 +2244,11 @@
     "title": "Ironfang Keep",
     "category": "Places"
   },
+  "ishin": {
+    "slug": "ishin",
+    "title": "Ishin",
+    "category": "People"
+  },
   "ishta": {
     "slug": "ishta",
     "title": "Ishta",
@@ -2547,6 +2592,16 @@
   "lady in white": {
     "slug": "lady-in-white",
     "title": "The Lady in White",
+    "category": "People"
+  },
+  "lady isabel": {
+    "slug": "lady-isabel",
+    "title": "Lady Isabel",
+    "category": "People"
+  },
+  "isabel": {
+    "slug": "lady-isabel",
+    "title": "Lady Isabel",
     "category": "People"
   },
   "lady taurus": {
@@ -3624,6 +3679,21 @@
     "title": "Saurian Firelance",
     "category": "Things"
   },
+  "saurian lance": {
+    "slug": "saurian-lance",
+    "title": "Saurian Lance",
+    "category": "Things"
+  },
+  "the vampire's lance": {
+    "slug": "saurian-lance",
+    "title": "Saurian Lance",
+    "category": "Things"
+  },
+  "saurian lance-weapon": {
+    "slug": "saurian-lance",
+    "title": "Saurian Lance",
+    "category": "Things"
+  },
   "the saurians": {
     "slug": "saurians",
     "title": "The Saurians",
@@ -4564,6 +4634,21 @@
     "title": "Vallaki",
     "category": "Places"
   },
+  "vampire knight of frostmoore": {
+    "slug": "vampire-knight-of-frostmoore",
+    "title": "Vampire Knight of Frostmoore",
+    "category": "People"
+  },
+  "the vampire knight": {
+    "slug": "vampire-knight-of-frostmoore",
+    "title": "Vampire Knight of Frostmoore",
+    "category": "People"
+  },
+  "the lance vampire": {
+    "slug": "vampire-knight-of-frostmoore",
+    "title": "Vampire Knight of Frostmoore",
+    "category": "People"
+  },
   "van richten": {
     "slug": "van-richten",
     "title": "Van Richten",
@@ -4863,6 +4948,16 @@
     "slug": "ysera",
     "title": "Ysera",
     "category": "People"
+  },
+  "ythryn": {
+    "slug": "ythryn",
+    "title": "Ythryn",
+    "category": "Places"
+  },
+  "the lost city of ythryn": {
+    "slug": "ythryn",
+    "title": "Ythryn",
+    "category": "Places"
   },
   "zhengyi": {
     "slug": "zhengyi",

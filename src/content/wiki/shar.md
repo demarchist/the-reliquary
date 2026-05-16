@@ -17,3 +17,7 @@ Shar's touch reached the party through [[cirrus-al-kayan|Cirrus]]' early pact �
 The Church of the Night Mother — connected to Shar's worship — was backed by [[shaahir|Shaahir]] and other wizards of [[amn|Amn]] and Thay, who Hugh believed were supporting [[orcus|Orcus]] in exchange for promises of Undeath as a way to survive the coming calamity of [[atropos|Atropos]].
 
 As the dark counterpart to Selûne, Shar represents everything the party stands against. Her eternal war against the Moonmaiden has cosmic implications, and the [[shadowfell|Shadowfell]] — her domain — serves as a wellspring for the necrotic energies that plague the world.
+
+## The Ironfang Cult
+
+A small order of Sharran fanatics held [[ironfang-keep|Ironfang Keep]] in the Galena Mountains until recent days, when something with the breath of a Black Dragon tore the fortress apart. The party found the keep already a melted ruin on their way north — no smouldering, no corpses, only vitrified stone, claw-marks, a faceted shard of black dragon scale in the rubble, and a half-buried iron holy symbol of Shar lying in slag. The fate of the cultists themselves is unknown.

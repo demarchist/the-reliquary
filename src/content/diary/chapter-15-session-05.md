@@ -15,6 +15,7 @@ people:
   - "tarkathee-daru"
   - "tazmikella"
 places:
+  - "aimu-estate"
   - "bloodstone-pass"
   - "helioglabulus"
   - "ironfang-keep"
