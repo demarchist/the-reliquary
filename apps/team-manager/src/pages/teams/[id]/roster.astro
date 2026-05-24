@@ -1,0 +1,139 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import { getTeam, listPlayers } from '~/lib/store';
+
+export const prerender = false;
+
+const { id } = Astro.params;
+const team = await getTeam(id!);
+if (!team) return Astro.redirect('/');
+const players = await listPlayers(team.id);
+const positionById = Object.fromEntries(team.positions.map((p) => [p.id, p]));
+---
+<Layout title={`Roster — ${team.name}`} teamId={team.id} teamName={team.name}>
+  <div class="flex items-center justify-between mb-6">
+    <h1 class="text-2xl font-semibold tracking-tight">Roster</h1>
+    <button type="button" id="add-player-btn" class="btn-primary">+ Add player</button>
+  </div>
+
+  <dialog id="player-dialog" class="rounded-lg p-0 backdrop:bg-slate-900/50">
+    <form id="player-form" class="card w-[min(90vw,28rem)] p-5 space-y-4 border-0 shadow-lg">
+      <h2 class="font-medium">Add player</h2>
+      <input type="hidden" name="playerId" />
+      <div>
+        <label class="label">Name</label>
+        <input name="name" required class="input" />
+      </div>
+      <div class="grid gap-3 sm:grid-cols-2">
+        <div>
+          <label class="label">Email</label>
+          <input name="email" type="email" class="input" />
+        </div>
+        <div>
+          <label class="label">Phone</label>
+          <input name="phone" class="input" />
+        </div>
+      </div>
+      <div>
+        <label class="label">Default positions</label>
+        <div class="flex flex-wrap gap-2">
+          {team.positions.map((pos) => (
+            <label class="text-xs flex items-center gap-1 px-2 py-1 border border-slate-200 dark:border-slate-700 rounded">
+              <input type="checkbox" name="defaultPositionIds" value={pos.id} />
+              {pos.label}
+            </label>
+          ))}
+        </div>
+      </div>
+      <div>
+        <label class="label">Notes</label>
+        <textarea name="notes" rows="2" class="input"></textarea>
+      </div>
+      <div class="flex items-center justify-end gap-2 pt-2">
+        <button type="button" id="cancel-player" class="btn-secondary">Cancel</button>
+        <button type="submit" class="btn-primary">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  {players.length === 0 ? (
+    <div class="card p-8 text-center text-sm text-slate-500">
+      No players yet. Click "Add player" to start your roster.
+    </div>
+  ) : (
+    <ul class="space-y-2">
+      {players.map((player) => (
+        <li class="card p-4 flex items-start justify-between gap-4" data-player-id={player.id}>
+          <div class="flex-1">
+            <div class="font-medium">{player.name}</div>
+            <div class="text-xs text-slate-500 space-x-2">
+              {player.email && <span>{player.email}</span>}
+              {player.phone && <span>{player.phone}</span>}
+            </div>
+            {player.defaultPositionIds.length > 0 && (
+              <div class="mt-2 flex flex-wrap gap-1">
+                {player.defaultPositionIds
+                  .map((pid) => positionById[pid]?.label)
+                  .filter(Boolean)
+                  .map((label) => (
+                    <span class="text-xs px-2 py-0.5 bg-slate-100 dark:bg-slate-800 rounded">
+                      {label}
+                    </span>
+                  ))}
+              </div>
+            )}
+            {player.notes && (
+              <p class="text-xs text-slate-500 mt-2">{player.notes}</p>
+            )}
+          </div>
+          <button
+            type="button"
+            class="btn-secondary text-xs delete-player"
+            data-player-id={player.id}
+          >
+            Remove
+          </button>
+        </li>
+      ))}
+    </ul>
+  )}
+
+  <script is:inline define:vars={{ teamId: team.id }}>
+    const dlg = document.getElementById('player-dialog');
+    const form = document.getElementById('player-form');
+
+    document.getElementById('add-player-btn').addEventListener('click', () => {
+      form.reset();
+      dlg.showModal();
+    });
+    document.getElementById('cancel-player').addEventListener('click', () => dlg.close());
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const fd = new FormData(form);
+      const body = {
+        teamId,
+        name: fd.get('name'),
+        email: fd.get('email'),
+        phone: fd.get('phone'),
+        notes: fd.get('notes'),
+        defaultPositionIds: fd.getAll('defaultPositionIds'),
+      };
+      const res = await fetch('/api/players', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+      });
+      if (res.ok) window.location.reload();
+    });
+
+    document.querySelectorAll('.delete-player').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        if (!confirm('Remove this player?')) return;
+        const id = btn.dataset.playerId;
+        const res = await fetch(`/api/players/${id}`, { method: 'DELETE' });
+        if (res.ok) window.location.reload();
+      });
+    });
+  </script>
+</Layout>

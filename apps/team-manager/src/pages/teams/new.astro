@@ -1,0 +1,151 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import { PRESETS } from '~/lib/presets';
+---
+<Layout title="New team — Team Manager">
+  <a href="/" class="text-sm link">&larr; Back</a>
+  <h1 class="text-2xl font-semibold tracking-tight mt-2 mb-6">Create a new team</h1>
+
+  <form id="new-team-form" class="space-y-8">
+    <section class="card p-5 space-y-4">
+      <h2 class="font-medium">1. Pick a starting template</h2>
+      <p class="text-sm text-slate-600 dark:text-slate-400">
+        Templates fill in typical positions for that activity. You can customize everything below.
+      </p>
+      <div class="grid gap-2 sm:grid-cols-2">
+        {PRESETS.map((preset, i) => (
+          <label class="flex items-start gap-3 cursor-pointer rounded-md border border-slate-200 dark:border-slate-800 p-3 hover:bg-slate-50 dark:hover:bg-slate-800">
+            <input
+              type="radio"
+              name="preset"
+              value={preset.id}
+              checked={i === 0}
+              class="mt-1"
+            />
+            <div>
+              <div class="font-medium text-sm">{preset.label}</div>
+              <div class="text-xs text-slate-500 dark:text-slate-400">
+                {preset.description}
+              </div>
+            </div>
+          </label>
+        ))}
+      </div>
+    </section>
+
+    <section class="card p-5 space-y-4">
+      <h2 class="font-medium">2. Name your team</h2>
+      <div class="grid gap-3 sm:grid-cols-2">
+        <div>
+          <label class="label" for="team-name">Team name</label>
+          <input id="team-name" name="name" required class="input" placeholder="Wind Sprites" />
+        </div>
+        <div>
+          <label class="label" for="team-activity">Activity</label>
+          <input id="team-activity" name="activity" class="input" placeholder="Sailboat racing" />
+        </div>
+      </div>
+    </section>
+
+    <section class="card p-5 space-y-4">
+      <div class="flex items-center justify-between">
+        <h2 class="font-medium">3. Configure positions</h2>
+        <button type="button" id="add-position" class="btn-secondary text-xs">+ Add position</button>
+      </div>
+      <p class="text-sm text-slate-600 dark:text-slate-400">
+        Set how many people fill each role. For example, a keelboat might have 3 trimmers and 2 grinders.
+      </p>
+      <div id="positions" class="space-y-2"></div>
+    </section>
+
+    <div class="flex items-center gap-3">
+      <button type="submit" class="btn-primary">Create team</button>
+      <a href="/" class="btn-secondary">Cancel</a>
+      <span id="form-status" class="text-sm text-slate-500"></span>
+    </div>
+  </form>
+
+  <script is:inline define:vars={{ PRESETS }}>
+    const presetsById = Object.fromEntries(PRESETS.map((p) => [p.id, p]));
+    const positionsEl = document.getElementById('positions');
+    const nameEl = document.getElementById('team-name');
+    const activityEl = document.getElementById('team-activity');
+    const statusEl = document.getElementById('form-status');
+
+    function makeRow(pos) {
+      const wrap = document.createElement('div');
+      wrap.className = 'pos-row flex items-center gap-2';
+      wrap.innerHTML = `
+        <input type="text" class="input flex-1 pos-label" value="${escapeHtml(pos.label)}" placeholder="Position name" />
+        <div class="flex items-center gap-1">
+          <label class="text-xs text-slate-500">slots</label>
+          <input type="number" min="1" class="input w-20 pos-slots" value="${pos.slots ?? 1}" />
+        </div>
+        <label class="text-xs flex items-center gap-1 whitespace-nowrap">
+          <input type="checkbox" class="pos-required" ${pos.required ? 'checked' : ''} />
+          required
+        </label>
+        <button type="button" class="btn-secondary text-xs pos-remove" aria-label="Remove">&times;</button>
+      `;
+      wrap.querySelector('.pos-remove').addEventListener('click', () => wrap.remove());
+      return wrap;
+    }
+
+    function escapeHtml(str) {
+      return String(str).replace(/[&<>"']/g, (c) => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+      }[c]));
+    }
+
+    function loadPreset(id) {
+      const preset = presetsById[id];
+      if (!preset) return;
+      if (preset.activity && !activityEl.value) activityEl.value = preset.activity;
+      positionsEl.innerHTML = '';
+      for (const pos of preset.positions) positionsEl.appendChild(makeRow(pos));
+      if (preset.positions.length === 0) {
+        positionsEl.appendChild(makeRow({ label: '', slots: 1, required: false }));
+      }
+    }
+
+    document.querySelectorAll('input[name="preset"]').forEach((el) => {
+      el.addEventListener('change', (e) => loadPreset(e.target.value));
+    });
+
+    document.getElementById('add-position').addEventListener('click', () => {
+      positionsEl.appendChild(makeRow({ label: '', slots: 1, required: false }));
+    });
+
+    loadPreset(document.querySelector('input[name="preset"]:checked').value);
+
+    document.getElementById('new-team-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      statusEl.textContent = 'Saving…';
+      const positions = [...positionsEl.querySelectorAll('.pos-row')]
+        .map((row) => ({
+          label: row.querySelector('.pos-label').value.trim(),
+          slots: Math.max(1, parseInt(row.querySelector('.pos-slots').value, 10) || 1),
+          required: row.querySelector('.pos-required').checked,
+        }))
+        .filter((p) => p.label);
+
+      const res = await fetch('/api/teams', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: nameEl.value,
+          activity: activityEl.value,
+          positions,
+        }),
+      });
+
+      if (!res.ok) {
+        const err = await res.json().catch(() => ({}));
+        statusEl.textContent = err.error || 'Error saving';
+        return;
+      }
+      const team = await res.json();
+      window.location.href = `/teams/${team.id}`;
+    });
+  </script>
+</Layout>
