@@ -1,0 +1,99 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import { getTeam, listEvents, listPlayers } from '~/lib/store';
+
+export const prerender = false;
+
+const { id } = Astro.params;
+const team = await getTeam(id!);
+if (!team) return Astro.redirect('/');
+const players = await listPlayers(team.id);
+const events = await listEvents(team.id);
+const upcoming = events.filter((e) => e.startsAt >= new Date().toISOString()).slice(0, 5);
+const totalSlots = team.positions.reduce((sum, p) => sum + p.slots, 0);
+---
+<Layout title={`${team.name} — Team Manager`} teamId={team.id} teamName={team.name}>
+  <div class="flex items-end justify-between mb-6">
+    <div>
+      <h1 class="text-2xl font-semibold tracking-tight">{team.name}</h1>
+      {team.activity && (
+        <p class="text-slate-600 dark:text-slate-400">{team.activity}</p>
+      )}
+    </div>
+  </div>
+
+  <div class="grid gap-4 sm:grid-cols-3 mb-8">
+    <div class="card p-4">
+      <div class="text-xs uppercase tracking-wide text-slate-500">Roster</div>
+      <div class="text-2xl font-semibold mt-1">{players.length}</div>
+      <a href={`/teams/${team.id}/roster`} class="text-xs link mt-2 inline-block">
+        Manage roster →
+      </a>
+    </div>
+    <div class="card p-4">
+      <div class="text-xs uppercase tracking-wide text-slate-500">Positions</div>
+      <div class="text-2xl font-semibold mt-1">
+        {team.positions.length}
+        <span class="text-sm font-normal text-slate-500">({totalSlots} slots)</span>
+      </div>
+      <a href={`/teams/${team.id}/settings`} class="text-xs link mt-2 inline-block">
+        Edit positions →
+      </a>
+    </div>
+    <div class="card p-4">
+      <div class="text-xs uppercase tracking-wide text-slate-500">Upcoming</div>
+      <div class="text-2xl font-semibold mt-1">{upcoming.length}</div>
+      <a href={`/teams/${team.id}/fixtures`} class="text-xs link mt-2 inline-block">
+        View fixtures →
+      </a>
+    </div>
+  </div>
+
+  <section class="mb-8">
+    <h2 class="font-medium mb-3">Positions</h2>
+    {team.positions.length === 0 ? (
+      <p class="text-sm text-slate-500">No positions configured yet.</p>
+    ) : (
+      <ul class="grid gap-2 sm:grid-cols-2">
+        {team.positions.map((pos) => (
+          <li class="card px-4 py-3 flex items-center justify-between">
+            <div>
+              <div class="font-medium text-sm">{pos.label}</div>
+              {pos.required && (
+                <div class="text-xs text-amber-600 dark:text-amber-400">required</div>
+              )}
+            </div>
+            <div class="text-sm text-slate-500">×{pos.slots}</div>
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+
+  <section>
+    <div class="flex items-center justify-between mb-3">
+      <h2 class="font-medium">Upcoming fixtures</h2>
+      <a href={`/teams/${team.id}/fixtures`} class="text-xs link">All fixtures →</a>
+    </div>
+    {upcoming.length === 0 ? (
+      <p class="text-sm text-slate-500">No upcoming events.</p>
+    ) : (
+      <ul class="space-y-2">
+        {upcoming.map((event) => (
+          <li class="card px-4 py-3 flex items-center justify-between">
+            <div>
+              <div class="font-medium text-sm">{event.title}</div>
+              <div class="text-xs text-slate-500">
+                {new Date(event.startsAt).toLocaleString()}
+                {event.location && ` · ${event.location}`}
+              </div>
+            </div>
+            <span class="text-xs uppercase tracking-wide text-slate-400">
+              {event.type}
+            </span>
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+</Layout>

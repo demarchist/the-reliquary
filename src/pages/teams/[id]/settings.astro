@@ -1,0 +1,127 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import { getTeam } from '~/lib/store';
+
+export const prerender = false;
+
+const { id } = Astro.params;
+const team = await getTeam(id!);
+if (!team) return Astro.redirect('/');
+---
+<Layout title={`Settings — ${team.name}`} teamId={team.id} teamName={team.name}>
+  <h1 class="text-2xl font-semibold tracking-tight mb-6">Settings</h1>
+
+  <form id="team-form" class="space-y-6">
+    <section class="card p-5 space-y-4">
+      <h2 class="font-medium">Basics</h2>
+      <div class="grid gap-3 sm:grid-cols-2">
+        <div>
+          <label class="label">Team name</label>
+          <input name="name" required class="input" value={team.name} />
+        </div>
+        <div>
+          <label class="label">Activity</label>
+          <input name="activity" class="input" value={team.activity} />
+        </div>
+      </div>
+    </section>
+
+    <section class="card p-5 space-y-4">
+      <div class="flex items-center justify-between">
+        <h2 class="font-medium">Positions</h2>
+        <button type="button" id="add-position" class="btn-secondary text-xs">+ Add position</button>
+      </div>
+      <p class="text-xs text-slate-500">
+        Removing a position won't delete past fixtures' lineups, but new fixtures will use this list.
+      </p>
+      <div id="positions" class="space-y-2">
+        {team.positions.map((pos) => (
+          <div class="pos-row flex items-center gap-2">
+            <input type="hidden" class="pos-id" value={pos.id} />
+            <input type="text" class="input flex-1 pos-label" value={pos.label} />
+            <div class="flex items-center gap-1">
+              <label class="text-xs text-slate-500">slots</label>
+              <input type="number" min="1" class="input w-20 pos-slots" value={pos.slots} />
+            </div>
+            <label class="text-xs flex items-center gap-1 whitespace-nowrap">
+              <input type="checkbox" class="pos-required" checked={pos.required} />
+              required
+            </label>
+            <button type="button" class="btn-secondary text-xs pos-remove">&times;</button>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <div class="flex items-center justify-between">
+      <button type="submit" class="btn-primary">Save changes</button>
+      <button type="button" id="delete-team" class="btn-danger text-xs">Delete team</button>
+      <span id="status" class="text-sm text-slate-500"></span>
+    </div>
+  </form>
+
+  <script is:inline define:vars={{ teamId: team.id }}>
+    const positionsEl = document.getElementById('positions');
+    const statusEl = document.getElementById('status');
+
+    function makeRow() {
+      const wrap = document.createElement('div');
+      wrap.className = 'pos-row flex items-center gap-2';
+      wrap.innerHTML = `
+        <input type="hidden" class="pos-id" value="" />
+        <input type="text" class="input flex-1 pos-label" placeholder="Position name" />
+        <div class="flex items-center gap-1">
+          <label class="text-xs text-slate-500">slots</label>
+          <input type="number" min="1" class="input w-20 pos-slots" value="1" />
+        </div>
+        <label class="text-xs flex items-center gap-1 whitespace-nowrap">
+          <input type="checkbox" class="pos-required" />
+          required
+        </label>
+        <button type="button" class="btn-secondary text-xs pos-remove">&times;</button>
+      `;
+      wrap.querySelector('.pos-remove').addEventListener('click', () => wrap.remove());
+      return wrap;
+    }
+
+    document.querySelectorAll('.pos-remove').forEach((btn) => {
+      btn.addEventListener('click', (e) => e.target.closest('.pos-row').remove());
+    });
+
+    document.getElementById('add-position').addEventListener('click', () => {
+      positionsEl.appendChild(makeRow());
+    });
+
+    document.getElementById('team-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      statusEl.textContent = 'Saving…';
+      const form = e.target;
+      const positions = [...positionsEl.querySelectorAll('.pos-row')]
+        .map((row) => ({
+          id: row.querySelector('.pos-id').value || undefined,
+          label: row.querySelector('.pos-label').value.trim(),
+          slots: Math.max(1, parseInt(row.querySelector('.pos-slots').value, 10) || 1),
+          required: row.querySelector('.pos-required').checked,
+        }))
+        .filter((p) => p.label);
+
+      const res = await fetch(`/api/teams/${teamId}`, {
+        method: 'PATCH',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: form.elements.name.value,
+          activity: form.elements.activity.value,
+          positions,
+        }),
+      });
+      statusEl.textContent = res.ok ? 'Saved.' : 'Error saving.';
+      if (res.ok) setTimeout(() => window.location.reload(), 500);
+    });
+
+    document.getElementById('delete-team').addEventListener('click', async () => {
+      if (!confirm('Delete this team and all its players & fixtures? This cannot be undone.')) return;
+      const res = await fetch(`/api/teams/${teamId}`, { method: 'DELETE' });
+      if (res.ok) window.location.href = '/';
+    });
+  </script>
+</Layout>

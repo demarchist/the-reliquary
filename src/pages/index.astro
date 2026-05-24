@@ -1,0 +1,41 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import { listTeams } from '~/lib/store';
+
+export const prerender = false;
+
+const teams = await listTeams();
+---
+<Layout title="Team Manager">
+  <div class="flex items-center justify-between mb-6">
+    <h1 class="text-2xl font-semibold tracking-tight">Your teams</h1>
+    <a href="/teams/new" class="btn-primary">+ New team</a>
+  </div>
+
+  {teams.length === 0 ? (
+    <div class="card p-8 text-center">
+      <p class="text-slate-600 dark:text-slate-400 mb-4">
+        No teams yet. Create your first one to get started.
+      </p>
+      <a href="/teams/new" class="btn-primary">Create a team</a>
+    </div>
+  ) : (
+    <ul class="grid gap-3 sm:grid-cols-2">
+      {teams.map((team) => (
+        <li class="card p-4">
+          <a href={`/teams/${team.id}`} class="block">
+            <div class="font-medium">{team.name}</div>
+            {team.activity && (
+              <div class="text-sm text-slate-500 dark:text-slate-400 mt-0.5">
+                {team.activity}
+              </div>
+            )}
+            <div class="text-xs text-slate-400 mt-2">
+              {team.positions.length} position{team.positions.length === 1 ? '' : 's'}
+            </div>
+          </a>
+        </li>
+      ))}
+    </ul>
+  )}
+</Layout>

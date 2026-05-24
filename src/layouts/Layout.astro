@@ -1,0 +1,64 @@
+---
+import '~/styles/global.css';
+
+interface Props {
+  title?: string;
+  teamId?: string;
+  teamName?: string;
+}
+
+const { title = 'Team Manager', teamId, teamName } = Astro.props;
+const pathname = Astro.url.pathname;
+
+const navItems = teamId
+  ? [
+      { href: `/teams/${teamId}`, label: 'Overview' },
+      { href: `/teams/${teamId}/roster`, label: 'Roster' },
+      { href: `/teams/${teamId}/fixtures`, label: 'Fixtures' },
+      { href: `/teams/${teamId}/settings`, label: 'Settings' },
+    ]
+  : [];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen">
+    <header class="border-b border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900">
+      <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+        <a href="/" class="font-semibold tracking-tight">Team Manager</a>
+        {teamName && (
+          <div class="text-sm text-slate-600 dark:text-slate-400">
+            <a href={`/teams/${teamId}`} class="hover:underline">{teamName}</a>
+          </div>
+        )}
+        <a href="/teams/new" class="btn-secondary text-xs">+ New team</a>
+      </div>
+      {navItems.length > 0 && (
+        <nav class="max-w-5xl mx-auto px-4 flex gap-1 overflow-x-auto">
+          {navItems.map((item) => {
+            const active = pathname === item.href || pathname.startsWith(item.href + '/');
+            return (
+              <a
+                href={item.href}
+                class={`px-3 py-2 text-sm border-b-2 -mb-px ${
+                  active
+                    ? 'border-slate-900 dark:border-slate-100 font-medium'
+                    : 'border-transparent text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100'
+                }`}
+              >
+                {item.label}
+              </a>
+            );
+          })}
+        </nav>
+      )}
+    </header>
+    <main class="max-w-5xl mx-auto px-4 py-8">
+      <slot />
+    </main>
+  </body>
+</html>
