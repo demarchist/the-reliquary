@@ -47,3 +47,9 @@ Lord Aimu rose, smoothed the lapels of his hakama, and extended one hand. JmJm p
 The radiance flared from banked to brilliant the instant Aimu's fingers closed on the grip — the chapel filling with sourceless daylight that made the high windows redundant. The blade had recognised the man who had taken it from the Cathedral. Whatever scandal attended the theft, the weapon itself had bonded to the Paladin.
 
 Lord Aimu walked out into the valley with the Ashbringer burning steady in his hand, and the [[ashen-white-dragon|Ashen White Dragons]] in mid-stoop above the [[aimu-estate|estate]] *flinched* at the brightness of him.
+
+## On the Table
+
+When the battle ended and the [[vampire-knight-of-frostmoore|Vampire Knight]] had vanished from the valley, Lord Aimu led the surviving members of the party from the chapel into the undamaged front of the manor and laid the Sunsword across the low table between them. The radiance settled to a soft, banked hairline against the polished wood — quiet and held, neither dormant nor blazing — as he sat opposite the group, listened to [[tarkathee-daru|Tark]] recount the group's struggle against [[orcus|Orcus]] and [[zhengyi|Zhengyi]], and then gave his own account of the [[queen-concetinna-frostmantle|Queen]] and the [[red-wizards-of-thay|Thayan delegation]]'s cathedral audience that had prompted his theft.
+
+The blade remained on the table when Lord Aimu retired to meditate over whether to hand it to the group. His decision had not yet been given when the session ended.

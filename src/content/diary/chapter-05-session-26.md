@@ -24,6 +24,7 @@ people:
 places:
   - "anauroch"
   - "barovia"
+  - "floating-castle"
   - "oerth"
   - "phandalin"
   - "snorbuls-hole"

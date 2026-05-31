@@ -20,3 +20,11 @@ The estate is held by Knights of the [[crimson-dawn-knights|Order of the Crimson
 On the evening of the party's arrival, a flight of eight [[ashen-white-dragon|Ashen White Dragons]] crested the valley ridge, carrying a [[red-wizards-of-thay|Red Wizard of Thay]] on the largest of them and answered shortly after by a Vampire Knight on a sickly adult white dragon mount wielding an adapted [[saurian-lance|Saurian lance-weapon]]. The estate's east wing was torn open by a lightning bolt fired from the lance; trees and vineyards were scorched; the lake bay below was filled with the wing-beats of a copper dragon in adult form. The battle was joined as the sun dipped below the rim of the mountains.
 
 The chapel itself was untouched.
+
+The battle ended at twilight with the [[vampire-knight-of-frostmoore|Vampire Knight]] driven from his own globe of darkness, the [[red-wizards-of-thay|Red Wizard]] dead, the wyrmlings torn apart by [[lady-isabel|Izmakella]] and finished by the archers, and the two surviving adult Ashen Whites limping for the ridge. Lord Aimu wielded the [[ashbringer|Sunsword]] in the close — the radiance making the Ashen Whites flinch at his approach — and the household archers shot the Vampire's own great mount out of the sky at the edge of their range.
+
+## After the Battle
+
+The conversation that followed unfolded in two halves. In the chapel, the [[gnome-of-the-vale|bitten Gnome]] was killed and resurrected by knife and diamond to break a vampire's curse — and revealed in death as the Adult Copper Dragon [[azoo-the-archer|Azoo of Shou Lung]]. Afterwards, [[cirrus-al-kayan|Cirrus]] and [[jack-mayer-johnson-mathews|JmJm]] departed with her for [[bytopia|Bytopia]].
+
+In the manor's undamaged front room, Lord Aimu laid the [[ashbringer|Sunsword]] across the table between him and the remaining party, listened to [[tarkathee-daru|Tark]] recount their work against [[orcus|Orcus]] and [[zhengyi|Zhengyi]], and then told his own tale of the Queen, the [[red-wizards-of-thay|Thayan delegation]], and the Cathedral audience that had prompted the theft. The blade remained on the table when he retired to meditate over what to do with it next.

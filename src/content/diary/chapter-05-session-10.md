@@ -7,7 +7,6 @@ summary: "After a day of political manoeuvring and discovering Lady Wachter's de
 people:
   - "aliyah-faen-tlabbar"
   - "atropos"
-  - "azoo-the-archer"
   - "cirrus-al-kayan"
   - "ezmerelda"
   - "feanon-serinde"

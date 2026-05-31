@@ -21,6 +21,7 @@ people:
   - "maya"
   - "megno-slatesunder"
   - "mordenkainen"
+  - "queen-concetinna-frostmantle"
   - "tarkathee-daru"
   - "theodemir"
   - "vecna"

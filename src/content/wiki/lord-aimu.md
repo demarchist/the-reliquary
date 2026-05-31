@@ -3,7 +3,7 @@ title: "Lord Aimu"
 category: "People"
 aliases: []
 firstAppearance: "chapter-15-session-01"
-description: "A Paladin of Lathander and nobleman of Helioglabulus who broke into the Cathedral and stole the Ashbringer."
+description: "Paladin of Lathander, supreme co-commander of the Order of the Crimson Dawn with Lady Timea, and the nobleman who stole the Ashbringer from the Cathedral when the Queen handled it for the Thayan delegation."
 race: "Human"
 status: "Alive"
 class: "Paladin"
@@ -11,7 +11,7 @@ affiliation: "house-aimu"
 home: "helioglabulus"
 ---
 
-Lord Aimu is a Paladin of [[lathander|Lathander]] and a nobleman of [[helioglabulus|Helios]]. He broke into the Cathedral of Lathander and stole the [[ashbringer|Ashbringer]] — a celestial greatsword the group had recovered from [[barovia|Barovia]] and donated to the church, where it had been catalogued as a [[sunsword|sunsword]].
+Lord Aimu is a Paladin of [[lathander|Lathander]], a nobleman of [[helioglabulus|Helios]], and — with his partner [[lady-timea|Lady Timea]] — one of the two supreme commanders of the [[crimson-dawn-knights|Order of the Crimson Dawn]]. He broke into the Cathedral of Lathander and stole the [[ashbringer|Ashbringer]] — a celestial greatsword the group had recovered from [[barovia|Barovia]] and donated to the church, where it had been catalogued as a [[sunsword|sunsword]].
 
 The theft provoked a lockdown of the Cathedral and a quiet scandal among the clergy. The priests informed [[cirrus-al-kayan|Cirrus]] that this was an internal matter, but suggested that the [[house-huron|House Huron]] soirée would be the appropriate venue to pursue the issue through the city's nobility.
 
@@ -36,3 +36,19 @@ When JmJm reached for the [[ashbringer|Sunsword]] on the altar and lifted it, th
 The Sunsword *lit* — the entire chapel filling with sourceless daylight the instant the lord's fingers closed on the grip. Aimu beckoned to his two guards and walked out toward the battle raging in the valley behind the estate, the celestial blade burning steady in his hand. The two nearest [[ashen-white-dragon|Ashen White Dragons]] in mid-stoop lifted their heads at the brightness of him and *flinched*.
 
 Whatever scandal had attended the theft of a holy weapon from the Cathedral of [[lathander|Lathander]], the weapon itself had recognised the man who took it.
+
+## The Resurrection
+
+With the battle over and the [[vampire-knight-of-frostmoore|Vampire Knight]] driven off, Lord Aimu led [[lady-isabel|Izmakella]] and the party back to the chapel to confront the bite still working through the [[gnome-of-the-vale|Gnome]] at his altar. The curse was in its final hours. He could not lift it with channelled grace.
+
+The party proposed a harder cure: kill her cleanly on hallowed stone and resurrect her with a diamond into a body the bite had never touched. Isabel refused at first; [[cirrus-al-kayan|Cirrus]] turned her. Lord Aimu gave the blessing — not the prayer of his god, but a single nod toward the altar and the steady words *Lathander will hold the stone*. JmJm slipped a knife into the Gnome's heart while Cirrus held a diamond aloft and called on [[selune|Selûne]], and the small body grew in death into the brilliant Adult Copper Dragon [[azoo-the-archer|Azoo of Shou Lung]].
+
+## The Tale at the Table
+
+Afterwards, Lord Aimu led the remaining party from the chapel to a comfortable room in the undamaged front of the manor and laid the [[ashbringer|Sunsword]] across the low table between them. He listened to [[tarkathee-daru|Tark]] recount the group's struggle against [[orcus|Orcus]] and [[zhengyi|Zhengyi]] and the suspicion of a vampiric hand reaching into [[helioglabulus|Helios]]. Then he gave his own account.
+
+He and [[lady-timea|Lady Timea]] commanded the Order. The [[red-wizards-of-thay|Thayan delegation]] in the capital was politically tolerated, despite the Order's distaste for it, because [[damara|Damara]] and Thay were not at war. [[queen-concetinna-frostmantle|Queen Concetinna]] had been unusually sequestered for weeks before the delegation requested an audience with the new Holy Relic of Lathander. Aimu had advised her to refuse; she had overridden him. He and Timea had escorted the delegation and the Queen into the Cathedral, watched her take the Sunsword in hand and set it back on its plinth, and felt the slow climb of a paladin's *wrong* in his throat that he could not afterwards dismiss. He and his closest paladins had stolen the blade that night and ridden into the mountains to think.
+
+What he had done, he said plainly, was not technically treason. It was politically catastrophic. He had been kneeling at the altar deciding when JmJm burst in.
+
+After the tale, the Lord excused himself to meditate over whether to hand over the Sunsword. The blade remained on the table.

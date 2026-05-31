@@ -32,6 +32,7 @@ places:
   - "darklake"
   - "fane-of-selune"
   - "feanons-tower"
+  - "floating-castle"
   - "gracksuluth"
   - "gravenhollow"
   - "keep-of-thunder-bluff"

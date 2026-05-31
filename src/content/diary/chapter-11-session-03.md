@@ -23,6 +23,7 @@ people:
   - "veygar"
 places:
   - "faerun"
+  - "great-tree-of-bahamut"
   - "icewind-dale"
   - "menzoberranzan"
   - "mines-of-und"

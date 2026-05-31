@@ -24,6 +24,7 @@ people:
 places:
   - "barovia"
   - "castle-ravenloft"
+  - "floating-castle"
   - "krezk"
   - "the-chasm"
   - "underdark"

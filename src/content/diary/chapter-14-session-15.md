@@ -18,6 +18,7 @@ people:
   - "selune"
 places:
   - "fane-of-selune"
+  - "floating-castle"
   - "luskan"
 things:
   - "arkto"

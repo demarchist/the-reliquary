@@ -25,6 +25,7 @@ people:
 places:
   - "amber-temple"
   - "castle-ravenloft"
+  - "floating-castle"
   - "krezk"
   - "sanctum-of-krasus"
   - "vallaki"

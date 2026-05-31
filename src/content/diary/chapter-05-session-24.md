@@ -22,6 +22,7 @@ people:
   - "wachter"
 places:
   - "barovia"
+  - "floating-castle"
   - "vallaki"
 things:
   - "ashbringer"

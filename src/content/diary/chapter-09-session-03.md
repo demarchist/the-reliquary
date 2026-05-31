@@ -32,6 +32,7 @@ places:
   - "daggerford"
   - "fane-of-selune"
   - "feanons-tower"
+  - "floating-castle"
   - "gracksuluth"
   - "keep-of-thunder-bluff"
   - "kossenberg"

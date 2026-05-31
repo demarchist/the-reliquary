@@ -27,6 +27,7 @@ people:
 places:
   - "barovia"
   - "faerun"
+  - "floating-castle"
   - "krezk"
   - "rising-sun"
   - "silverymoon"

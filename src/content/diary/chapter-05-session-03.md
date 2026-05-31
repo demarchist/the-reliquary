@@ -19,6 +19,7 @@ people:
   - "strahd-von-zarovich"
 places:
   - "barovia"
+  - "floating-castle"
   - "the-crossroads"
   - "tser-pool"
   - "vallaki"

@@ -26,6 +26,7 @@ places:
   - "barovia"
   - "castle-ravenloft"
   - "ethereal-plane"
+  - "floating-castle"
   - "krezk"
   - "old-bonegrinder"
 things:

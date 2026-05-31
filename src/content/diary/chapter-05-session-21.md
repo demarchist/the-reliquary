@@ -23,6 +23,7 @@ people:
 places:
   - "barovia"
   - "castle-ravenloft"
+  - "floating-castle"
   - "sanctum-of-krasus"
   - "tser-pool"
 things:

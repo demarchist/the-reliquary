@@ -20,6 +20,7 @@ people:
 places:
   - "alberts-armor"
   - "amn"
+  - "floating-castle"
   - "gilberts-gumptions"
   - "sanctum-of-krasus"
   - "shatterpeak"

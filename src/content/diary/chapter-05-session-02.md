@@ -24,6 +24,7 @@ places:
   - "barovia"
   - "blood-on-the-vine-tavern"
   - "castle-ravenloft"
+  - "floating-castle"
   - "vallaki"
 things:
   - "gwen"

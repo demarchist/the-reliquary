@@ -18,6 +18,7 @@ people:
   - "li-xian"
   - "lord-aimu"
   - "mordenkainen"
+  - "queen-concetinna-frostmantle"
   - "tarkathee-daru"
   - "vaketh"
 places:

@@ -13,7 +13,9 @@ Helioglabulus — commonly called Helios — is the capital of Damara, sprawling
 
 ## Politics
 
-King Yarin Frostmantle of Damara and Queen Concetinna of Vaasa rule jointly from the capital. The Warlock Knights of Vaasa have merged with the Paladins of Lathander to form the [[crimson-dawn-knights|Order of the Crimson Dawn]], governing under the banner *For the Greater Good*. The [[red-wizards-of-thay|Red Wizards of Thay]] maintain an embassy and are actively trading with the kingdom.
+King Yarin Frostmantle of Damara and [[queen-concetinna-frostmantle|Queen Concetinna]] of Vaasa rule jointly from the capital. The Warlock Knights of Vaasa — the [[warlocks-of-kelemvor|Warlocks of Kelemvor]] — have merged with the Paladins of Lathander to form the [[crimson-dawn-knights|Order of the Crimson Dawn]], jointly commanded by [[lord-aimu|Lord Aimu]] and [[lady-timea|Lady Timea]] under the banner *For the Greater Good*. The [[red-wizards-of-thay|Red Wizards of Thay]] maintain an embassy and are actively trading with the kingdom.
+
+The Queen has, by Lord Aimu's account, been unusually sequestered for some weeks — appearing in public only at the social gatherings she hosts in honour of the Thayan delegation, otherwise unseen. The paladins' discreet checks on her wellness have turned up nothing the order would call evidence, but Lord Aimu's instinct in the Cathedral was sufficient that he stole the [[ashbringer|Ashbringer]] from its plinth after the Queen handled it for the delegation.
 
 ## Noble Houses
 

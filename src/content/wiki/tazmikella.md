@@ -3,7 +3,8 @@ title: "Tazmikella"
 category: "People"
 aliases: ["Taz"]
 firstAppearance: "chapter-15-session-04"
-description: "An old woman running a going-out-of-business magic shop in Helioglabulus — her prices are measured in centuries and her pupils are slitted like a cat's."
+description: "An old woman running a going-out-of-business magic shop in Helioglabulus — Adult Copper Dragon, Izmakella's sister, half of a long-running game between two coppers playing at humanity."
+race: "Copper Dragon"
 status: "Alive"
 home: "helioglabulus"
 ---
@@ -29,3 +30,7 @@ When the group crossed the cul-de-sac to browse [[izzys-stuff|Izzy's Stuff]], a 
 The suspicion proved well-founded. During the trade at Izzy's, the Signet of [[house-faen-tlabbar|House Faen Tlabbar]] was given up as part of the price. Patches bent down to the cat and whispered that she would appreciate getting her ring back. The cat chirped and vanished into the back room. It did not return — but when Patches shifted her foot, the signet ring lay on the floor beside her boot.
 
 Whatever Taz truly is, she appears to hold some influence over Izzy's establishment — or at the very least, a casual willingness to intervene in its commerce on behalf of people she finds amusing.
+
+## The Sister
+
+[[lady-isabel|Lady Isabel]] — encountered later at the [[aimu-estate|Aimu Estate]] in [[frostmoore-vale|Frostmoore Vale]] — revealed herself as the Adult Copper Dragon Izmakella, and explained her own human disguise as part of *a game my sister and I have been playing for some time*. The sister is Tazmikella. Two adult Coppers in human shape have been quietly resident in [[helioglabulus|Helios]] the entire time, running shops on adjacent cul-de-sacs in the merchant ring and watching the capital between them. The slitted pupils, the prices measured in centuries, the cat that delivered a signet ring at a foot's edge — all of it had been a Copper Dragon amusing herself behind a face.

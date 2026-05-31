@@ -369,11 +369,6 @@
     "title": "Azoo the Archer",
     "category": "People"
   },
-  "the archer": {
-    "slug": "azoo-the-archer",
-    "title": "Azoo the Archer",
-    "category": "People"
-  },
   "baba lysaga": {
     "slug": "baba-lysaga",
     "title": "Baba Lysaga",
@@ -688,6 +683,11 @@
     "slug": "bytopia",
     "title": "Bytopia",
     "category": "Places"
+  },
+  "callarduran stonehands": {
+    "slug": "callarduran-stonehands",
+    "title": "Callarduran Stonehands",
+    "category": "People"
   },
   "camea": {
     "slug": "camea",
@@ -1579,6 +1579,21 @@
     "title": "Flint Dagger of Li Xian",
     "category": "Things"
   },
+  "the floating castle": {
+    "slug": "floating-castle",
+    "title": "The Floating Castle",
+    "category": "Places"
+  },
+  "the castle": {
+    "slug": "floating-castle",
+    "title": "The Floating Castle",
+    "category": "Places"
+  },
+  "zhengyi's castle": {
+    "slug": "floating-castle",
+    "title": "The Floating Castle",
+    "category": "Places"
+  },
   "font of fawden": {
     "slug": "font-of-fawden",
     "title": "Font of Fawden",
@@ -1729,6 +1744,16 @@
     "title": "Goblin Town",
     "category": "Places"
   },
+  "the golden orb": {
+    "slug": "golden-orb",
+    "title": "The Golden Orb",
+    "category": "Things"
+  },
+  "golden eye": {
+    "slug": "golden-orb",
+    "title": "The Golden Orb",
+    "category": "Things"
+  },
   "golden tower": {
     "slug": "golden-tower",
     "title": "Golden Tower",
@@ -1778,6 +1803,16 @@
     "slug": "grazzt",
     "title": "Graz'zt",
     "category": "People"
+  },
+  "great tree of bahamut": {
+    "slug": "great-tree-of-bahamut",
+    "title": "Great Tree of Bahamut",
+    "category": "Places"
+  },
+  "the great tree": {
+    "slug": "great-tree-of-bahamut",
+    "title": "Great Tree of Bahamut",
+    "category": "Places"
   },
   "grein osstyl": {
     "slug": "grein-osstyl",
@@ -2589,9 +2624,24 @@
     "title": "Lady Isabel",
     "category": "People"
   },
+  "izmakella": {
+    "slug": "lady-isabel",
+    "title": "Lady Isabel",
+    "category": "People"
+  },
   "lady taurus": {
     "slug": "lady-taurus",
     "title": "Lady Taurus",
+    "category": "People"
+  },
+  "lady timea": {
+    "slug": "lady-timea",
+    "title": "Lady Timea",
+    "category": "People"
+  },
+  "timea": {
+    "slug": "lady-timea",
+    "title": "Lady Timea",
     "category": "People"
   },
   "ladypeak": {
@@ -3434,6 +3484,26 @@
     "title": "Psi'Shara",
     "category": "Factions"
   },
+  "queen concetinna frostmantle": {
+    "slug": "queen-concetinna-frostmantle",
+    "title": "Queen Concetinna Frostmantle",
+    "category": "People"
+  },
+  "queen concetinna": {
+    "slug": "queen-concetinna-frostmantle",
+    "title": "Queen Concetinna Frostmantle",
+    "category": "People"
+  },
+  "concetinna of vaasa": {
+    "slug": "queen-concetinna-frostmantle",
+    "title": "Queen Concetinna Frostmantle",
+    "category": "People"
+  },
+  "concentina": {
+    "slug": "queen-concetinna-frostmantle",
+    "title": "Queen Concetinna Frostmantle",
+    "category": "People"
+  },
   "r-14 thunderchaser": {
     "slug": "r-14-thunderchaser",
     "title": "R-14 Thunderchaser",
@@ -3905,6 +3975,11 @@
     "category": "People"
   },
   "shou lung": {
+    "slug": "shou-lung",
+    "title": "Shou Lung",
+    "category": "Places"
+  },
+  "the dragon empire of the east": {
     "slug": "shou-lung",
     "title": "Shou Lung",
     "category": "Places"
@@ -4800,8 +4875,18 @@
     "category": "People"
   },
   "vulcan": {
-    "slug": "vulcan",
-    "title": "Vulcan",
+    "slug": "vulkan",
+    "title": "Vulkan",
+    "category": "People"
+  },
+  "vulkan": {
+    "slug": "vulkan",
+    "title": "Vulkan",
+    "category": "People"
+  },
+  "the red greatwyrm": {
+    "slug": "vulkan",
+    "title": "Vulkan",
     "category": "People"
   },
   "lady wachter": {
@@ -4842,6 +4927,11 @@
   "warlocks of the laughing god": {
     "slug": "warlocks-of-ceregorach",
     "title": "The Warlocks of Ceregorach",
+    "category": "Factions"
+  },
+  "warlocks of kelemvor": {
+    "slug": "warlocks-of-kelemvor",
+    "title": "Warlocks of Kelemvor",
     "category": "Factions"
   },
   "watchers of helm": {

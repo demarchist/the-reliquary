@@ -27,6 +27,7 @@ places:
   - "astral-plane"
   - "faerun"
   - "feanons-tower"
+  - "great-tree-of-bahamut"
   - "sharza"
   - "the-establishment"
 things:

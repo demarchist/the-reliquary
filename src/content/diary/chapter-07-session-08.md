@@ -24,6 +24,7 @@ places:
   - "faerun"
   - "fallen-tower-inn"
   - "feanons-tower"
+  - "floating-castle"
   - "neverwinter"
 things:
   - "gwen"

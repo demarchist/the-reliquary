@@ -20,6 +20,7 @@ people:
   - "venomfang"
 places:
   - "cragmaw-castle"
+  - "floating-castle"
   - "neverwinter"
   - "thundertree"
   - "wave-echo-cave"

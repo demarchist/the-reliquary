@@ -24,6 +24,7 @@ people:
 places:
   - "fane-of-selune"
   - "feanons-tower"
+  - "floating-castle"
   - "keep-of-thunder-bluff"
   - "kossenberg"
   - "rockseeker-manufactory"

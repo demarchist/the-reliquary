@@ -22,6 +22,8 @@ people:
   - "tarkathee-daru"
   - "urwen"
   - "wachter"
+places:
+  - "floating-castle"
 things:
   - "ashbringer"
   - "bag-of-holding"

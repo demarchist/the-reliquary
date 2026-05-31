@@ -26,6 +26,7 @@ places:
   - "amber-temple"
   - "barovia"
   - "castle-ravenloft"
+  - "floating-castle"
   - "keep-of-thunder-bluff"
   - "sanctum-of-krasus"
 things:

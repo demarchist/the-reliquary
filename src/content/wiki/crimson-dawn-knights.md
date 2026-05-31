@@ -3,11 +3,11 @@ title: "Crimson Dawn Knights"
 category: "Factions"
 aliases: ["Order of the Crimson Dawn", "Crimson Dawn"]
 firstAppearance: "chapter-14-session-16"
-description: "The unified military order of Damara, formed from the merger of the Warlock Knights of Vaasa and the Paladins of Lathander under the banner For the Greater Good."
+description: "The unified military order of Damara, formed from the merger of the Warlock Knights of Vaasa (now Warlocks of Kelemvor) and the Paladins of Lathander, commanded jointly by Lord Aimu and Lady Timea under the banner For the Greater Good."
 home: "helioglabulus"
 ---
 
-The Crimson Dawn Knights — formally the Order of the Crimson Dawn — are the unified military and peacekeeping order of [[damara|Damara]], formed from the merger of the Warlock Knights of [[vaasa|Vaasa]] and the Paladins of [[lathander|Lathander]]. They serve under the joint rule of King Yarin Frostmantle and Queen Concetinna, governing under the banner *For the Greater Good*.
+The Crimson Dawn Knights — formally the Order of the Crimson Dawn — are the unified military and peacekeeping order of [[damara|Damara]], formed from the merger of the Warlock Knights of [[vaasa|Vaasa]] (the [[warlocks-of-kelemvor|Warlocks of Kelemvor]]) and the Paladins of [[lathander|Lathander]]. They serve under the joint rule of King Yarin Frostmantle and [[queen-concetinna-frostmantle|Queen Concetinna]], governing under the banner *For the Greater Good*. Supreme command of the Order is jointly held by [[lord-aimu|Lord Aimu]], a Paladin of Lathander, and his partner [[lady-timea|Lady Timea]], a Warlock of Kelemvor — the partnership that holds the theological merger together in practice.
 
 ## In the City
 

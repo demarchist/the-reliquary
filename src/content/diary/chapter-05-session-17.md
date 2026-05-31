@@ -20,6 +20,7 @@ people:
 places:
   - "amber-temple"
   - "castle-ravenloft"
+  - "floating-castle"
   - "krezk"
 things:
   - "luck-blade"

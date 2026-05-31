@@ -22,6 +22,7 @@ people:
   - "tarkathee-daru"
 places:
   - "ethereal-plane"
+  - "floating-castle"
 things:
   - "bag-of-holding"
   - "holy-symbol-of-ravenkind"
