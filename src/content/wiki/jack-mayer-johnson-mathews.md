@@ -9,6 +9,8 @@ home: "thunder-bluff"
 race: "Half-Elf"
 class: "Bard"
 affiliation: "faerun-defense-force"
+image: "/images/jack-mayer-johnson-mathews.png"
+imageAlt: "Portrait of Jack Mayer Johnson Mathews"
 ---
 
 Jack Mayer Johnson Mathews — JmJm, Jack, The Dark Whistler — is a Half-Elf Bard and a founding member of the Faerûn Defense Force. He is a native of Sigil, the City of Doors. He is the finest performer most of his companions have ever seen. He is, or was, a professional assassin. These facts are not in conflict. They are the same mechanism pointed in different directions, and understanding that is the key to understanding him.
