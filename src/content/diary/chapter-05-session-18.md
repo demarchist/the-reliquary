@@ -77,7 +77,9 @@ The group flew through arrows and ballista bolts, the storm robbing the shots of
 
 Ireena tended Buumi in the back — his left arm was missing from the elbow down and he was peppered with shrapnel. Fëanon began inscribing a teleportation circle as the wagon careened down the mountainside. Chekhov and Mr. Pickles fired crossbow bolts at the horde. Cirrus created illusory wagons at every fork to split the pursuit. Tark and Patches fought off any vampires that got through. Urwen transformed between raven and human mid-flight to loose arrows. The dragon skull's rune flashed a destination into Fëanon's mind — Argynvostholt.
 
-As the last pursuers closed, the group dove through the portal. The wagon lost control and plunged off the mountainside behind them.
+The horde caught them at the last fork. The illusions could not split a pursuit so thick — the spectral horsemen came down through the rain in a single wall, shadow hounds bounding the air at their flanks, and Fëanon's circle was not yet finished. JmJm rose in the careening wagon bed, the pendulum's gash still sheeting blood down his face and Steven's brooch closed in one fist, and with his free hand he drew something none of them had ever seen him touch: a single worn glove of white leather, tucked at his belt. He pulled it on, finger by finger. The air above the wagon *thickened* and tore open around an enormous translucent hand, the size of a horse, ten fingers spread wide. It came down across the sky in great sweeping arcs — batting the horsemen from their saddles, crushing the hounds mid-leap, scattering the bats like chaff — and in the space of a few breaths the pursuit that had been about to swallow them broke apart. It was the first time he had ever drawn the [[mysterious-glove|glove]]. No one asked where it had come from. There was no time, and JmJm did not look as though he would answer.
+
+The Hand held the rear as the teleportation circle flared to life. The group dove through the portal, and the wagon lost control and plunged off the mountainside behind them.
 
 ## The Sanctum of Argynvost
 

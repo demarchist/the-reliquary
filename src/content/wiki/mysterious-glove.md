@@ -2,7 +2,7 @@
 title: "The Mysterious Glove"
 category: "Things"
 aliases: ["Mysterious Glove", "The Glove", "JmJm's Glove", "The Mysterious Glove From His Past", "Mysterious Glove From His Past"]
-firstAppearance: "chapter-07-session-14"
+firstAppearance: "chapter-05-session-18"
 description: "A worn white leather glove JmJm keeps at his belt — when drawn on, it summons a giant translucent Arcane Hand that crushes enemies, scoops treasure, catches falling bards, and occasionally launches actors into theatre seats."
 ---
 
@@ -22,7 +22,9 @@ When the Hand's purpose is fulfilled or its concentration broken, it dissolves i
 
 ## Notable Appearances
 
-**Mantol-Derith, the Narzugon Prime** ([[mantol-derith|Mantol-Derith]], Chapter 7 Session 14) — The first time the glove ever appeared on the table. JmJm rushed forward in the middle of a paladin-and-cleric charge against the breaching Hell Knights, produced the glove as though he had always had it, and conjured the Arcane Hand to grab the Narzugon Prime mid-charge. The Hand pinned the Hell Knight commander in place while the group dismantled his cavalry around him. The Prime, unable to free itself from the construct, commanded its remaining riders to flee into the Underdark.
+**The Flight from Castle Ravenloft** ([[castle-ravenloft|Castle Ravenloft]], Chapter 5 Session 18) — The first time JmJm ever drew the glove. In the running battle down the mountainside from Ravenloft — the group's wagon careening through a storm with an airborne horde of spectral horsemen, shadow hounds, and bats closing for the kill — he rose in the wagon bed, Steven's blood not yet cold and the pendulum's gash still open across his face, and pulled the white leather glove on for the first time. The Arcane Hand swept the skies clear in great arcs and broke the pursuit apart in the space of a few breaths, buying the seconds [[feanon-serinde|Fëanon]] needed to finish the teleportation circle and carry them all to safety. He offered no explanation then, and has offered none since.
+
+**Mantol-Derith, the Narzugon Prime** ([[mantol-derith|Mantol-Derith]], Chapter 7 Session 14) — The first time he named the glove aloud. Months after Barovia, JmJm rushed forward in the middle of a paladin-and-cleric charge against the breaching Hell Knights, produced the glove as though he had always had it, and conjured the Arcane Hand to grab the Narzugon Prime mid-charge. The Hand pinned the Hell Knight commander in place while the group dismantled his cavalry around him. The Prime, unable to free itself from the construct, commanded its remaining riders to flee into the Underdark. Asked what the thing was, JmJm introduced it — to no one in particular — as a *mysterious glove from his past*, and offered nothing more.
 
 **Helms Hold** (Chapter 7 Sessions 18–19) — In the pitched defence of the [[helms-hold|Helms Hold]] mission against Corpsetaker's cultists, the Hand smashed the manor doors off their hinges with one strike, then chased the Amnian wizard [[farrim|Farrim]] across the gardens crushing him as he flew on a potion of flight, while [[corpsetaker|Corpsetaker]] herself called lightning down upon it. Farrim cried up from inside the hand's grip — *"Corpsetaker, help me!"* — and was answered with: *"Help yourself, fool."* The Hand chased him through three more spells of flight before the halfling archer Dellig finally destroyed it with magical arrows.
 
@@ -49,6 +51,8 @@ When the Hand's purpose is fulfilled or its concentration broken, it dissolves i
 ## Origin
 
 JmJm has never explained where the glove came from. The most that has been gleaned from years of careful observation is that it predates his current life — older than his time with the [[faerun-defense-force|Faerûn Defense Force]], older than the period when the persona of the [[the-dark-whistler|Dark Whistler]] dominated him. It may be a relic of [[sigil|Sigil]], the City of Doors where he was born; it may have been a tool of his earlier profession; it may have been gifted by someone whose name has not yet appeared in the campaign.
+
+What is known is *when* he first drew it. He had carried the glove untouched at his belt for as long as any of his current companions had known him — and the first time it ever left that belt was in the flight from [[castle-ravenloft|Castle Ravenloft]], the night the demiplane of Barovia nearly killed them all. It was the same night a pendulum trap cut his goblin servant Steven in half. The glove did not save Steven; it was drawn minutes later, in the running battle down the mountainside, and it turned the tide of the escape. Whether it was grief that finally made him reach for a thing he had carried untouched for years, he has never said. He has not, in all the chapters since, drawn it for anything but a crisis.
 
 He carries it always, on his person, never in a pack — at his belt, in reach, the way a man keeps a key to a door he might one day need to open. He reaches for it without hesitation when the moment requires it. He has always known it was there. He has always trusted it would work. Whatever else it is, it is part of him in the same way the [[inkblade|Inkblade]] is part of him — a piece of his actual self, beneath the costume he performs in.
 
