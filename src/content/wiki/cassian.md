@@ -20,7 +20,7 @@ Over the campfire he heard about [[gaddock|Gaddock]], and about the waking versi
 
 ## Uni
 
-Cassian's mount is a magnificent creature — a silver-coated Pegasus with a single spiraling horn at its brow, rendering her simultaneously winged, celestial, and singular. [[horatio-von-bumidere|Buumi]] coined the name Uni on arrival, the pun landing faster than a formal introduction could, and it stuck. Uni is serene to an unusual degree: she touched down on a chaotic farmstead in the middle of the night and stood perfectly composed throughout the encounter that followed.
+Cassian's mount is a magnificent creature — [[uni|Uni]], a silver-coated winged unicorn with a single spiraling horn at its brow, rendering her simultaneously winged, celestial, and singular. [[horatio-von-bumidere|Buumi]] coined the name on arrival, the pun landing faster than a formal introduction could, and it stuck. Uni is serene to an unusual degree: she touched down on a chaotic farmstead in the middle of the night and stood perfectly composed throughout the encounter that followed.
 
 She does not extend this serenity to [[jack-mayer-johnson-mathews|JmJm]]'s devil-horse, which she regards with undisguised celestial distaste. The feeling is mutual. On the road to [[helioglabulus|Helios]], the two mounts maintained maximum possible separation for the entirety of the journey, and the glaring did not stop.
 

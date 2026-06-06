@@ -18,6 +18,8 @@ Eclipse responds to Patches' will, manifesting as a rush of liquid mercury when 
 
 The weapon's sentient nature links it to both Patches' Drow heritage and her bond with Eilistraee. It is not mere equipment but a manifestation of identity.
 
+The blade can also be *fed*. It draws on the Luster of fine gems — the deep inner light that makes a precious stone worth having — to restore its charges. At the [[aimu-estate|Aimu Estate]], while the household slept, [[aliyah-faen-tlabbar|Patches]] moved through the manor touching every gem she could find, drawing the Luster out of each stone with a touch and leaving behind dull glass, and recovered a number of Eclipse's charges before the night's battle.
+
 ## In the Battle Against Demogorgon
 
 Eclipse's most significant moment came in the climactic battle against [[demogorgon|Demogorgon]] at the bridges of Ladueger's Furrow in [[gracksuluth|Gracksuluth]]. As the Prince of Demons bore down on [[cirrus-al-kayan|Cirrus]] — drawn by a bluff about the artifact — Patches levitated to a balcony height, leaped the width of the bridge, and landed on Demogorgon's back. She climbed him strike by strike. Finding the point where the two spines of the twin-headed demon fused into one, she plunged Eclipse into the Demon Lord's flesh. The obsidian blade that had begun as a pool of silver in a ruined temple met the oldest evil in the [[underdark|Underdark]] at the top of his spine.

@@ -17,6 +17,7 @@ places:
   - "mines-of-und"
   - "selunia"
 things:
+  - "bag-of-devouring"
   - "chardalyn"
   - "gwen"
   - "jade-frog"

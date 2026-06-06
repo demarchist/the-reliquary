@@ -374,6 +374,16 @@
     "title": "Baba Lysaga",
     "category": "People"
   },
+  "bag of devouring": {
+    "slug": "bag-of-devouring",
+    "title": "Bag of Devouring",
+    "category": "Things"
+  },
+  "the devouring bag": {
+    "slug": "bag-of-devouring",
+    "title": "Bag of Devouring",
+    "category": "Things"
+  },
   "bag of holding": {
     "slug": "bag-of-holding",
     "title": "Bag of Holding",
@@ -3304,6 +3314,21 @@
     "title": "O'Alla",
     "category": "People"
   },
+  "oathbow": {
+    "slug": "oathbow",
+    "title": "Oathbow",
+    "category": "Things"
+  },
+  "the oathbow": {
+    "slug": "oathbow",
+    "title": "Oathbow",
+    "category": "Things"
+  },
+  "jmjm's oathbow": {
+    "slug": "oathbow",
+    "title": "Oathbow",
+    "category": "Things"
+  },
   "obsidian order": {
     "slug": "obsidian-order",
     "title": "Obsidian Order",
@@ -4459,6 +4484,26 @@
     "title": "The Silent Virtue",
     "category": "Things"
   },
+  "the thayans attack": {
+    "slug": "the-thayans-attack",
+    "title": "The Thayans Attack",
+    "category": "Events"
+  },
+  "the thayan attack": {
+    "slug": "the-thayans-attack",
+    "title": "The Thayans Attack",
+    "category": "Events"
+  },
+  "the night attack on the aimu estate": {
+    "slug": "the-thayans-attack",
+    "title": "The Thayans Attack",
+    "category": "Events"
+  },
+  "the attack on frostmoore vale": {
+    "slug": "the-thayans-attack",
+    "title": "The Thayans Attack",
+    "category": "Events"
+  },
   "themberchaud": {
     "slug": "themberchaud",
     "title": "Themberchaud",
@@ -4608,6 +4653,16 @@
     "slug": "underdark",
     "title": "The Underdark",
     "category": "Places"
+  },
+  "uni": {
+    "slug": "uni",
+    "title": "Uni",
+    "category": "People"
+  },
+  "uni the unicorn": {
+    "slug": "uni",
+    "title": "Uni",
+    "category": "People"
   },
   "urkle": {
     "slug": "urkle",

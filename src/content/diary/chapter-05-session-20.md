@@ -31,6 +31,7 @@ places:
   - "old-bonegrinder"
 things:
   - "ashbringer"
+  - "bag-of-devouring"
   - "bag-of-holding"
   - "gwen"
   - "thundercannon"

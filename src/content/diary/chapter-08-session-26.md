@@ -40,6 +40,8 @@ factions:
   - "duergar-faction"
   - "stoneguard"
   - "the-circle"
+events:
+  - "the-thayans-attack"
 ---
 
 ## The Aftermath

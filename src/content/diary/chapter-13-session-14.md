@@ -16,6 +16,7 @@ people:
 places:
   - "machina-factory"
 things:
+  - "bag-of-devouring"
   - "gwen"
   - "sourcework-core"
 ---

@@ -28,6 +28,7 @@ places:
   - "tser-pool"
 things:
   - "ashbringer"
+  - "bag-of-devouring"
   - "gwen"
   - "luck-blade"
   - "the-reaver"

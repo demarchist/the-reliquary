@@ -14,6 +14,7 @@ people:
   - "horatio-von-bumidere"
   - "tarkathee-daru"
   - "tazmikella"
+  - "uni"
 places:
   - "aimu-estate"
   - "bloodstone-pass"

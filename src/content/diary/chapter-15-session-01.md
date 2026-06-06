@@ -20,6 +20,7 @@ people:
   - "mordenkainen"
   - "queen-concetinna-frostmantle"
   - "tarkathee-daru"
+  - "uni"
   - "vaketh"
 places:
   - "al-askar"

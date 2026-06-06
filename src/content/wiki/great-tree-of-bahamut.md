@@ -24,3 +24,9 @@ When [[azoo-the-archer|Azoo of Shou Lung]] and several of her flight broke off i
 She watched Protanther fall before Vulkan.
 
 What has become of the Tree itself in the wake of its abdicated-king's death has not been confirmed. The plaza, the monks, the marble gardens at the highest terrace of Bloodstone City — these remain. The dragon who held the rite has not.
+
+## The Wood of the Tree
+
+The Great Tree has reached into the party's story far longer than any of them knew. When [[lady-isabel|Izmakella]] watched [[tarkathee-daru|Tark]] meditate over the [[sunsword|Sunsword]] at the [[aimu-estate|Aimu Estate]], she remarked on his white-wood prosthetic arm — once the staff of his master [[moot|Moot]] — and asked whether Moot had travelled in the company of golden canaries. Tark confirmed it: seven of them, one still his own. The dragon named the source at once. The wood, she said, must have been a gift from the Great Tree to the north — the holy heart of [[bloodstone-city|Bloodstone City]], the Tree of [[bahamut|Bahamut]].
+
+The implication reframes Tark's entire history with the staff. The branch Moot pressed on him in honour after the cult attack at the Refounding Festival, the wood he later reshaped around his severed arm with [[vaketh|Vaketh]]'s power and Bahamut's focus, had been cut somewhere in its long past from the living wood of the Platinum Dragon's own tree. The golden canaries that accompany Moot — and the one, Ysera, that follows Tark — appear to mark a connection between the old monk and the Tree that predates the party's arrival in the Bloodstone Lands entirely.

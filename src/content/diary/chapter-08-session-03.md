@@ -19,6 +19,7 @@ places:
   - "neverwinter"
   - "underdark"
 things:
+  - "bag-of-devouring"
   - "bag-of-holding"
   - "eclipse"
 factions:

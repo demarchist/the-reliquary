@@ -48,6 +48,8 @@ When the Hand's purpose is fulfilled or its concentration broken, it dissolves i
 
 **The Fall from Steden** ([[mines-of-und|Mines of Und]], Chapter 15 Session 8) — When [[steden|Steden]] was killed mid-charge by the [[elder-orb|Elder Orb's]] eyebeams and JmJm fell thirty feet from the saddle with no mount beneath him, he pulled the glove on as he plummeted. The Hand caught him a foot above the chamber floor, cradled him upright, and set him down without so much as a stumble. He turned back to the fight without acknowledgement.
 
+**The Master and the Student** ([[aimu-estate|Aimu Estate]], Chapter 15 Session 11) — When the [[red-wizards-of-thay|Thayans]] attacked the estate by night and the vampire [[gaddock|Gaddock]] seized [[tarkathee-daru|Tark]] from the shadows and began to feed on his throat, JmJm pulled the glove on finger by finger and drove the Arcane Hand between master and student. The wall of force pried the feeding undead back off Tark's neck and broke the grapple, buying the monk the instant he needed to tear free — one of the rare occasions the Hand has been used not to crush an enemy but to *separate* two people the bard could not afford to lose to each other.
+
 ## Origin
 
 JmJm has never explained where the glove came from. The most that has been gleaned from years of careful observation is that it predates his current life — older than his time with the [[faerun-defense-force|Faerûn Defense Force]], older than the period when the persona of the [[the-dark-whistler|Dark Whistler]] dominated him. It may be a relic of [[sigil|Sigil]], the City of Doors where he was born; it may have been a tool of his earlier profession; it may have been gifted by someone whose name has not yet appeared in the campaign.

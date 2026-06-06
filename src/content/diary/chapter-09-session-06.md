@@ -21,6 +21,7 @@ places:
   - "selunia"
   - "snorbuls-hole"
 things:
+  - "bag-of-devouring"
   - "chardalyn"
   - "gwen"
   - "tavern-of-doors"

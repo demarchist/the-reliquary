@@ -4,9 +4,9 @@ category: "People"
 aliases: ["Gabbock"]
 firstAppearance: "chapter-06-session-01"
 description: "Tark's beloved adoptive master — a monk enslaved by Zhengyi, rescued, and then turned into a vampire by the Lich-King to become an unwitting instrument of the enemy."
-race: "Halfling"
+race: "Human"
 class: "Monk"
-status: "Alive"
+status: "Undead"
 ---
 
 Gaddock is [[tark|Tark]]'s adoptive father and the man who shaped the halfling into a monk. His fate — from enslaved prisoner to undead thrall — forms one of the most devastating emotional arcs of the party's time in [[underdark|the Underdark]].
@@ -54,6 +54,16 @@ Tark also reconstructed the earlier fight in the hallway and confirmed what the 
 In [[helioglabulus|Helios]], the group debated whether to stake out [[house-muskov|House Muskov]] and confront Gaddock directly. Tark was at odds with the others — he had sworn to his master that he would slay the vampire and put him to rest, and if he spotted Gaddock, he would attack to kill. The group tried to dissuade him until [[feanon-serinde|Fëanon]] pointed out the critical flaw: even with the [[ashbringer|Sunsword]], they could not kill Gaddock permanently without staking him in his coffin. They did not know where that coffin was. To truly end Gaddock's suffering, they would first have to locate the vampire's resting place — a task that required divination magic Fëanon did not yet possess.
 
 The logic stilled Tark's hand, though it did nothing to ease his grief. The group chose to pursue the Ashbringer first and deal with Gaddock when they were better prepared.
+
+## The Reunion at Frostmoore
+
+The confrontation Tark had dreaded for chapters finally came in the flesh — not in a dream, but in the dark of [[frostmoore-vale|Frostmoore Vale]] on the night the [[red-wizards-of-thay|Red Wizards of Thay]] attacked the [[aimu-estate|Aimu Estate]]. When Tark shadowstepped after a fleeing Thayan, a second presence shadowed in behind him. Cold, powerful arms seized the monk from behind and locked him in a grapple he could not at once break.
+
+Tark twisted in the grip and saw, at last, the face of his long-lost master. Pale. Emaciated. Bearded. And in the eyes, a pain so old and so total it had worn grooves in the man's face. The black crystal embedded in Gaddock's skull was plainly visible now — a horn-like spike jutting from his head, within which an inner smoke swirled and curled against the stone's facets, alive and patient. The group had heard of the crystal from [[boris-muskov|Boris Muskov]]; now Tark saw it for what it was: the leash by which [[zhengyi|Zhengyi]] held him.
+
+Gaddock wept. Tears ran freely down the emaciated face, bright in the moonlight, as he locked eyes with the student he loved — and then he bared his fangs, bent to Tark's throat, and bit, and began to feed. There was no malice in it and no relief from it; the vampire was a weapon being aimed, and he grieved every inch of the motion even as the crystal drove him through it.
+
+The bite did not last. [[jack-mayer-johnson-mathews|JmJm]] pulled on the [[mysterious-glove|mysterious glove]] from his past, and the Arcane Hand interposed between master and student, prying the feeding vampire back off Tark's throat. Tark tore free, came around, and turned every ounce of his grief into a strike meant to end his master's suffering — but Gaddock dropped away to the forest floor and retreated into the trees. Tark, bleeding from the throat, went down the mountain after him without hesitation, and the session closed with the two of them somewhere in the dark, the hunt finally, terribly, joined.
 
 ## Role in the Story
 

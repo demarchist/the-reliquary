@@ -20,6 +20,7 @@ places:
   - "ethereal-plane"
   - "thueba-swamp"
 things:
+  - "bag-of-devouring"
   - "hammer-of-niraz"
   - "steden"
 ---

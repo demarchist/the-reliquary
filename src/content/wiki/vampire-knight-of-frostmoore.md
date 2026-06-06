@@ -38,6 +38,10 @@ In a final burst of dark power the cage shattered outward in a shower of silvere
 
 What became of the Vampire after his mount fell — whether he reached the [[bloodstone-pass|pass]] on foot, mist, or some third method — has not been confirmed.
 
+## The Return by Night
+
+The Knight was not finished with [[frostmoore-vale|Frostmoore Vale]]. Hours after his dusk retreat, when the [[red-wizards-of-thay|Red Wizards of Thay]] opened their [[the-thayans-attack|night assault]] on the [[aimu-estate|Aimu Estate]] with an earthquake and a horde of ghouls, the Armored Vampire came back to the valley out of the dark. As [[horatio-von-bumidere|Buumi]] took to the air to help [[tarkathee-daru|Tark]] — who was at that moment being seized and bitten by the vampire [[gaddock|Gaddock]] — the Knight intercepted him above the broken estate and cut his path to his friend. His reappearance confirms that he survived the fall of his dragon mount and remained in coordination with the Thayan forces working the valley, a second vampire operating alongside Gaddock in a single night's attack.
+
 ## Implications
 
 He arrived precisely when his ally needed extraction, with a teleport-grade movement and a dragon mount available on demand. He carried a [[saurian-lance|Saurian lance]] — a piece of [[al-askar|Al'Askarian]] technology unlike anything the group has seen in Faerûnian hands. He worked in concert with a Red Wizard of [[red-wizards-of-thay|Thay]] and a flight of Ashen Whites — a coalition that ties together the dragons over the Galena Mountains, the Thayan presence in [[helioglabulus|Helios]], and an unknown source of Saurian weaponry on this side of the [[ringed-veils|Ringed Veil]]. He took the lance with him when he vanished.

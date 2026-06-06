@@ -17,6 +17,7 @@ people:
 places:
   - "blingdenstone"
 things:
+  - "bag-of-devouring"
   - "bag-of-holding"
   - "gwen"
 factions:
