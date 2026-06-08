@@ -8,7 +8,7 @@ home: "Barony of Thunder Bluff"
 
 ## Description
 
-The Moonwood is a vast magical forest that lies north of Kossenberg, beyond the Barony of Thunder Bluff. Its remote depths harbour strange creatures and planar anomalies — the Shadowfell bleeds close to the material world here, and its southern reaches border the Evermoors.
+The Moonwood is a vast magical forest that lies north of Kossenberg, beyond the Barony of Thunder Bluff. It occupies a broad elevated plateau — the remnant bed of a long-receded glacier — perched significantly higher than the lands to the south. Dense ancient trees cloak the plateau's surface, giving it an ethereal, moonlit quality even by day. A mighty river, fed by glacial meltwaters from the Spine of the World far to the north, carves a valley through the heart of the Moonwood before plunging southward off the plateau's edge in the spectacular waterfalls of the Red Hills. The forest's remote depths harbour strange creatures and planar anomalies — the Shadowfell bleeds close to the material world here, and its southern reaches border the [[the-evermoors|Evermoors]].
 
 ## The Ziggurat
 
