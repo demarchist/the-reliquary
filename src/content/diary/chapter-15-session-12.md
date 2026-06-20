@@ -112,7 +112,7 @@ A Gate opened in the air above the estate. Through it stepped a Balor: a towerin
 
 The Gate stayed open. Other shapes began to take form within it.
 
-The Thayan leader laughed. He addressed [[cirrus-al-kayan|Cirrus]] directly — mocking the warlock, promising to slay him and offer his teeth to their lord. He would live again, the wizard said. And then he said the other thing, the thing that recontextualised the whole of his presence in the Bloodstone Lands: he was one of the Warlocks of [[ceregorach|Ceregorach]]. One of two remaining.
+The Thayan leader laughed. He addressed [[cirrus-al-kayan|Cirrus]] directly — mocking the warlock, promising to slay him and offer his teeth to their lord. He would live again, the wizard said. And then he said the other thing, the thing that recontextualised the whole of his presence in the Bloodstone Lands: he was one of the Warlocks of [[ceregorach|Ceregorach]]. One of two remaining. And he was a [[red-wizards-of-thay|Zulkhir]] — one of the Magocratic rulers of Thayan society — which meant this was no rogue operation. Thay itself had come to the Bloodstone Lands.
 
 [[feanon-serinde|Fëanon]] caught the shape of the monologue and moved on it before the man had finished speaking. A Hypnotic Pattern bloomed across the Thayan's position just as [[cirrus-al-kayan|Cirrus]] released a Synaptic Static into the same space. The Thayan leader cried out — his concentration shattered — and the Gate blinked out of existence, the half-formed shapes within it collapsing back into wherever Gates went when the spell that held them was broken.
 
