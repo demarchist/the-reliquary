@@ -17,7 +17,7 @@ things:
   - "gwen"
 ---
 
-A massive branch wrapped around Buumi and slammed him into the ground. At the same moment, Tark and Gundren reverted from their worm forms and threw themselves into the fight. Zhink picked off goblins one by one. Gundren and Gwen the lion tore through the fodder.
+A massive branch wrapped around Buumi and slammed him into the ground. At the same moment, Tark and Gundren reverted from their worm forms and threw themselves into the fight. Zync picked off goblins one by one. Gundren and Gwen the lion tore through the fodder.
 
 ## The Drider
 
@@ -27,6 +27,6 @@ Fëanon hurled a fireball that immolated a swath of the battlefield. Buumi final
 
 ## Destroying the Treant
 
-Buumi and Zhink — who had misty-stepped clear of danger — charged another cluster of goblins. Cirrus climbed the animated tree and began smashing it from above. Fëanon hasted Gundren, and the dwarf unleashed a withering barrage that splintered the treant as Cirrus ripped into it from the canopy. The tree crashed.
+Buumi and Zync — who had misty-stepped clear of danger — charged another cluster of goblins. Cirrus climbed the animated tree and began smashing it from above. Fëanon hasted Gundren, and the dwarf unleashed a withering barrage that splintered the treant as Cirrus ripped into it from the canopy. The tree crashed.
 
 With the treant dead and the goblin ranks thinned, the group reorganised. The Goblin-Driders reappeared from invisibility, striking at Tark, Fëanon, and Gwen. Tark shadow-stepped clear and delivered a devastating leaping blow to the Goblin King himself. But the King, wounded but far from done, caught Tark's mind with a charm and turned him against his friends. Doctor Breakfast directed her moonbeam onto the King, and the celestial fire forced him back into his ordinary goblin form — but Tark was still charmed, and his allies were rushing from the rear to free him.

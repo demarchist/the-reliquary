@@ -29,10 +29,10 @@ Pressing deeper into the labyrinth, the group came to a shallow stream running a
 
 A cyclone of crows formed overhead, spiralling toward the tree and merging into a single figure: the Goblin King, perched in the branches and grinning. He would not release JmJm willingly. With a gesture, goblin minions swarmed from every direction.
 
-Buumi, Zhink, and Cirrus charged straight for JmJm while the rest held the line. They smashed his chains apart, and the moment JmJm was free, a cat sitting on a nearby wall morphed into his harp. He caught it and struck up a tune.
+Buumi, Zync, and Cirrus charged straight for JmJm while the rest held the line. They smashed his chains apart, and the moment JmJm was free, a cat sitting on a nearby wall morphed into his harp. He caught it and struck up a tune.
 
 ## The Battle Begins
 
-Goblins poured in from the mist. Fëanon was surrounded quickly and forced to activate every defensive spell he had. Doctor Breakfast called down a moonbeam that burned through goblin ranks and seared the Goblin King himself. Buumi hammered the King with heavy blows. Zhink cast faerie fire on the goblin forces, lighting them up and stripping away their stealth.
+Goblins poured in from the mist. Fëanon was surrounded quickly and forced to activate every defensive spell he had. Doctor Breakfast called down a moonbeam that burned through goblin ranks and seared the Goblin King himself. Buumi hammered the King with heavy blows. Zync cast faerie fire on the goblin forces, lighting them up and stripping away their stealth.
 
 The Goblin King, battered by the onslaught, retreated into cover and summoned reinforcements. More goblins poured in — and behind them, the gnarled tree groaned to life, sending branch-like tendrils lashing into the party.

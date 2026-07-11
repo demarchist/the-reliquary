@@ -20,7 +20,9 @@ Orcus commands a hierarchy of powerful undead servants known as his Children:
 
 - **[[kangaxx|Kangaxx]]** — the Golden Lich, who infiltrated the party and manipulated them into carrying him through the vault's wards to seize the [[artifact-shard|artifact shard]]. Destroyed when the [[atropos|Atropal]] detonated above [[baldurs-gate|Baldur's Gate]].
 - **[[zhengyi|Zhengyi]]** — the Witch-King, a former Red Wizard of Thay who became an enormously powerful lich with Orcus's patronage. [[tarkathee-daru|Tark]] saw, through the artifact's vision, Orcus pushing Zhengyi back into the world through sheer divine might.
-- **[[strahd-von-zarovich|Strahd Von Zarovich]]** — the vampire lord of [[barovia|Barovia]], confirmed by [[mordenkainen|Mordenkainen]] as an ally of Orcus.
+- **[[vecna|Vecna]]** — the Whispered One, operating under the identity of Zalaam on [[al-askar|Al Askar]]. Brother to Zhengyi and kin to Orcus, though his own delusions of grandeur lead him to deny the connection — he has ascended to godhood in his own right and refuses to see himself as anyone's slave, Orcus included.
+
+[[strahd-von-zarovich|Strahd Von Zarovich]], the vampire lord of [[barovia|Barovia]], is not one of the Children but an ally — confirmed by [[mordenkainen|Mordenkainen]] as working with Orcus in service of the same catastrophe.
 
 ## The Necromantic Mists
 
@@ -36,4 +38,4 @@ The Balgura Prophecy foretells his return: *"The Planet Born Dead waxes... The G
 
 ## The Cosmic Threat
 
-Mordenkainen warned that Orcus and his servants had made a concentrated effort to neutralise anyone powerful enough to oppose them — the archmage's own imprisonment in Barovia was part of the greater plan. Even [[vecna|Vecna]], operating independently on [[al-askar|Al Askar]], feared becoming a slave to Orcus. As Lemerlais laid it out plainly: Atropos and Orcus would not stop with one planet — they would hunt anyone powerful enough to oppose them.
+Mordenkainen warned that Orcus and his servants had made a concentrated effort to neutralise anyone powerful enough to oppose them — the archmage's own imprisonment in Barovia was part of the greater plan. Even [[vecna|Vecna]], operating independently on [[al-askar|Al Askar]], resists the role — his delusions of grandeur will not let him accept that he is a slave to Orcus. As Lemerlais laid it out plainly: Atropos and Orcus would not stop with one planet — they would hunt anyone powerful enough to oppose them.

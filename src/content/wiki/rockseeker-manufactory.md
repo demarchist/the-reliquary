@@ -12,7 +12,7 @@ The Rockseeker Manufactory is a massive, sprawling industrial complex located wi
 
 The Manufactory contains forges, foundries, and workshops filled with the sounds of hammering, grinding, and the roar of flames. The air is thick with black smoke and the grounds are coated with coal ash. Wagons loaded with materials are constantly coming and going. Despite the noise and chaos, the complex is well-organized and efficient.
 
-Gundren serves as owner and foreman, and his extended family — renowned for their expertise in metalworking — run the operation with precision and efficiency. The Rockseekers are constantly experimenting with new techniques and materials.
+Gundren built and owns the Manufactory, but day-to-day operations are run by his brothers Barthen and Nundro, with Smith Slagbelcher — relocated from Sundabar at Gundren's request — serving as foreman. The Rockseekers are constantly experimenting with new techniques and materials.
 
 ## Economic Impact
 

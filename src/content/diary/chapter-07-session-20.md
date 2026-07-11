@@ -74,7 +74,7 @@ They told Buumi about [[Cercei]] — that the real girl was alive but possessed 
 
 ## The Keep
 
-The group headed to the [[Keep of Thunder Bluff]] with the city guard. Descending the hill from the [[Bluelake District]], they saw fourteen patches of fire across the city, the docks almost entirely incinerated, ships burning in the harbour. Wizards worked to contain the blazes with walls of ice and water.
+The group headed to the Keep of Neverwinter with the city guard. Descending the hill from the [[Bluelake District]], they saw fourteen patches of fire across the city, the docks almost entirely incinerated, ships burning in the harbour. Wizards worked to contain the blazes with walls of ice and water.
 
 At the keep, they found a triage tent run by dwarves. The old dwarf in charge confirmed fourteen fireball detonations, the docks lost, and the keep and estate targeted as primary objectives. The bombings in populated areas were the distraction. [[Gauntlgrym]] had sent reinforcements through their gate to [[Sundabar]], where there had been an attack too — outcome unknown.
 

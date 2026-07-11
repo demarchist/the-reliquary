@@ -31,4 +31,4 @@ When the party explored a crashed Amnian spelljammer on Al Askar, Gundren was dr
 
 ## The Rockseeker Manufactory
 
-Gundren built and operates the Rockseeker Manufactory within the walls of the Keep of Thunder Bluff. It is a massive, sprawling complex of forges, foundries, and workshops where his extended family — renowned for their expertise in metalworking — produce some of the finest weapons and armor in Faerûn. The Manufactory is a major employer in the region.
+Gundren built the Rockseeker Manufactory within the walls of the Keep of Thunder Bluff — a massive, sprawling complex of forges, foundries, and workshops where his extended family, renowned for their expertise in metalworking, produce some of the finest weapons and armor in Faerûn. Day-to-day operations are now run by his brothers Barthen and Nundro, with Smith Slagbelcher serving as foreman. The Manufactory is a major employer in the region.

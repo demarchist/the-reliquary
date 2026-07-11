@@ -21,7 +21,7 @@ Zhengyi's forces destroyed Tark's homeland and murdered his family. The Oni [[li
 
 ## The Ziggurats
 
-Zhengyi's influence extends through dark Ziggurats grown from life force. One beneath [[sundabar|Sundabar]] was grown from the life force of [[megno-slatesunder|Megno]]'s apprentice Molly, killing her. [[mordenkainen|Mordenkainen]] and the Delzoun Emperor destroyed it. Another was discovered in the [[thunder-bluff|Barony]] — its broken phylactery made of black Sourcestone and mythically rare Prismeum.
+Zhengyi's influence extends through dark Ziggurats grown from life force. One beneath [[sundabar|Sundabar]] was grown from the life force of [[megno-slatesunder|Megno]]'s apprentice Molly, killing her. [[mordenkainen|Mordenkainen]] and [[bruenor-battlehammer|Bruenor Battlehammer]], the Delzoun Emperor, destroyed it. Another was discovered in the [[thunder-bluff|Barony]] — its broken phylactery made of black Sourcestone and mythically rare Prismeum.
 
 ## The Cosmic Web
 

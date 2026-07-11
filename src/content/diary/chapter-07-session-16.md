@@ -51,7 +51,7 @@ Cirrus yelled about the army of devils and got blank looks. [[Fëanon Serinde]] 
 
 ## The Bumidere Estate
 
-Back in [[Neverwinter]], the group headed straight for the estate. [[Val Tengu]] raised an eyebrow at Doc but accepted the catman with a huff. [[Sera Von Bumidere]] asked Val about Georg and Marta — she hadn't seen them in two days. Val said they were taking time away in the guest house. Everyone headed to bed.
+Back in [[Neverwinter]], the group headed straight for the estate. [[Val Tengu]] raised an eyebrow at Doc but accepted the catman with a huff. [[Sera Von Bumidere]] asked Val about Georg and Maria — she hadn't seen them in two days. Val said they were taking time away in the guest house. Everyone headed to bed.
 
 JmJm went to the [[Amnians]]' rooms with Fëanon in stealthy pursuit. The wizard waited an hour, then entered. JmJm was asleep. In the other bed lay two figures — [[Chani]] staring right at Fëanon as he came in. She shot him a questioning look. He shrugged, walked to the unconscious bard, and pulled out his spellbook. Chani rushed silently to grab his hand. Their eyes locked — and she dropped unconscious. Fëanon cast a Geas on JmJm: the bard was not to harm the group in any way.
 

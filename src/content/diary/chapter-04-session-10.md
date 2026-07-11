@@ -37,7 +37,7 @@ A vicious blow knocked the Goblin King from his shoes — and the demiplane brok
 
 ## Collapse
 
-Doctor Breakfast was swept away in a tidal wave of panicking goblins. The drider-goblins leaped out for one last attack, but the group ignored them and fled. Zhink was flung from Buumi’s shield to the top of a wall and leaped onto his chocobo. Buumi prayed to Helm for guidance and received a single command: *flee this realm. The plane is collapsing.*
+Doctor Breakfast was swept away in a tidal wave of panicking goblins. The drider-goblins leaped out for one last attack, but the group ignored them and fled. Zync was flung from Buumi’s shield to the top of a wall and leaped onto his chocobo. Buumi prayed to Helm for guidance and received a single command: *flee this realm. The plane is collapsing.*
 
 Cirrus looked up and saw a winged creature emerge from a portal — gaunt and hideous, its neck and body draped in necklaces of teeth. Mediocris Dente, the Tooth Fairy, his patron. Something snapped in Cirrus. He went into a frenzy, crushing two goblins underfoot and hurling rocks at the creature. Buumi summoned Aurora and rode to his aid with Fëanon. Together they brought the Tooth Fairy down — Cirrus, still in ape form, smashed its head flat with a giant amethyst. The pact was broken. Cirrus was free.
 
@@ -53,7 +53,7 @@ Exhausted beyond measure, the group collapsed into their beds. Gundren was dumpe
 
 ## The Last Word
 
-The group woke to find Patches and Archmage Amaram waiting in the common room. Patches had returned from investigating the Duergar who had impersonated Lord Faendral — the portal chamber beneath the estate was part of a larger network, and the Duergar band was a raiding force intercepting supply convoys between Menzoberranzan and Gracksulth. With the Bog expedition concluded, Patches dismissed Zhink, who cheerfully headed back to Lady Faye.
+The group woke to find Patches and Archmage Amaram waiting in the common room. Patches had returned from investigating the Duergar who had impersonated Lord Faendral — the portal chamber beneath the estate was part of a larger network, and the Duergar band was a raiding force intercepting supply convoys between Menzoberranzan and Gracksulth. With the Bog expedition concluded, Patches dismissed Zync, who cheerfully headed back to Lady Faye.
 
 Amaram had grim news. The golden artifact Kangaxx had sought from the celestial vault beneath Neverwinter was a fragment of something called The Last Word — one of five shards scattered across the multiverse. He could not say what it did or how to use it. He knew only that Orcus was responsible for its sundering, and that if the shards were reunited, the resulting power would be beyond comprehension.
 

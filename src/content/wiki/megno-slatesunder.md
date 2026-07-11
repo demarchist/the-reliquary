@@ -22,4 +22,4 @@ Megno fought bravely during the Battle for Silverymoon, leading the Sundabarian 
 
 ## Loss and New Purpose
 
-A Zhengyi Ziggurat beneath Sundabar was grown from the life force of Megno's apprentice Molly, killing her. Mordenkainen and the Delzoun Emperor destroyed the structure, but the loss devastated Megno. Wracked with guilt and seeking answers, he joined Feanon's Tower as its Sage, dedicating himself to researching the Ziggurats and Zhengyi's methods.
+A Zhengyi Ziggurat beneath Sundabar was grown from the life force of Megno's apprentice Molly, killing her. Mordenkainen and Bruenor Battlehammer, the Delzoun Emperor, destroyed the structure, but the loss devastated Megno. Wracked with guilt and seeking answers, he joined Feanon's Tower as its Sage, dedicating himself to researching the Ziggurats and Zhengyi's methods.
