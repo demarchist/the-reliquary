@@ -12,7 +12,7 @@ Veygar is a survivor who operates by a code that only he fully understands. A Du
 
 ## The Trap
 
-In [[baldurs-gate|Baldur's Gate]], Veygar impersonated Lord Faendral and used [[lady-faye|Lady Faye]]'s vault job as bait to lure the group into ancient ruins beneath the estate. The entire operation was a trap. He captured [[aliyah-faen-tlabbar|Patches]], Lady Faye, and Zhink, binding them as hostages in the deepest chamber. When the group fought their way through, Veygar welcomed them with unsettling calm, attempted to bargain, and when things went sideways, unleashed mechanical spiders, a Stone Golem, and — through a portal — an Alhoon.
+In [[baldurs-gate|Baldur's Gate]], Veygar impersonated Lord Faendral and used [[lady-faye|Lady Faye]]'s vault job as bait to lure the group into ancient ruins beneath the estate. The entire operation was a trap. He captured [[aliyah-faen-tlabbar|Patches]], Lady Faye, and [[zync|Zync]], binding them as hostages in the deepest chamber. When the group fought their way through, Veygar welcomed them with unsettling calm, attempted to bargain, and when things went sideways, unleashed mechanical spiders, a Stone Golem, and — through a portal — an Alhoon.
 
 But Veygar was not interested in a last stand. He shot the Alhoon twice with crossbow bolts, tossed a Drow noble's signet ring to the group with the cryptic instruction "ask the Drow about it," wished them luck, and retreated through the portal. The move was deliberate. Veygar treated the entire encounter less like a battle and more like a transaction — he got what he needed and left the group alive, either out of pragmatism or because killing them was never the objective.
 

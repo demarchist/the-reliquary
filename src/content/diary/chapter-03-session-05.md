@@ -21,7 +21,7 @@ factions:
   - "duergar-faction"
 ---
 
-The group awoke in ancient-looking cells, divided into pairs. As consciousness returned, each pair began their own escape attempt. Fëanon discovered that Zhink — Lady Faye's retainer — was imprisoned across the hall. One by one they freed themselves, and Fëanon teleported to the far side of a locked door to open it from within.
+The group awoke in ancient-looking cells, divided into pairs. As consciousness returned, each pair began their own escape attempt. Fëanon discovered that Zync — Lady Faye's retainer — was imprisoned across the hall. One by one they freed themselves, and Fëanon teleported to the far side of a locked door to open it from within.
 
 ## The Tavern Team
 

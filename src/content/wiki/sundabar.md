@@ -20,4 +20,4 @@ At the heart of the Undercity lies the Everfire — a shallow pit two hundred fe
 
 ## Significance
 
-The party spent a full month in Sundabar, using it as a staging ground before heading to [[silverymoon|Silverymoon]]. Key events include the Reaver cleansing ritual atop the ruined Temple of Helm that birthed [[eclipse|Eclipse]], Gundren's brothers establishing a permanent workshop, and the discovery of a Zhengyi Ziggurat beneath the city — grown from the life force of Megno's apprentice Molly and destroyed by [[mordenkainen|Mordenkainen]] and the Delzoun Emperor.
+The party spent a full month in Sundabar, using it as a staging ground before heading to [[silverymoon|Silverymoon]]. Key events include the Reaver cleansing ritual atop the ruined Temple of Helm that birthed [[eclipse|Eclipse]], Gundren's brothers establishing a permanent workshop, and the discovery of a Zhengyi Ziggurat beneath the city — grown from the life force of Megno's apprentice Molly and destroyed by [[mordenkainen|Mordenkainen]] and [[bruenor-battlehammer|Bruenor Battlehammer]], the Delzoun Emperor.

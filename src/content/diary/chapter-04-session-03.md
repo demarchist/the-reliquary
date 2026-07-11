@@ -28,7 +28,7 @@ Gundren's suspicion of the marching myconids proved well-founded when they turne
 
 ## The Dragon's Gift
 
-While Buumi was otherwise occupied, Cirrus had been ransacking the dragon's lair. The Black Dragon finished with Buumi, moved into her chambers, and came face to face with the thief. She was not amused. Cirrus was bitten by a Black Dragon and dimension-doored to safety in a blind panic, materialising next to Zhink — who had been exploring a massive skull filled with glowing mushrooms. Zhink, ever helpful, ripped one of the skull's enormous teeth free as a gift for Cirrus and his patron. Fëanon arrived and attempted to make a healing poultice from the surrounding mushrooms, but only succeeded in poisoning Cirrus further, giving him catastrophic diarrhea.
+While Buumi was otherwise occupied, Cirrus had been ransacking the dragon's lair. The Black Dragon finished with Buumi, moved into her chambers, and came face to face with the thief. She was not amused. Cirrus was bitten by a Black Dragon and dimension-doored to safety in a blind panic, materialising next to Zync — who had been exploring a massive skull filled with glowing mushrooms. Zync, ever helpful, ripped one of the skull's enormous teeth free as a gift for Cirrus and his patron. Fëanon arrived and attempted to make a healing poultice from the surrounding mushrooms, but only succeeded in poisoning Cirrus further, giving him catastrophic diarrhea.
 
 Back at the tower, the dragon's anger cooled quickly. She returned to Buumi and presented him with a deep purple egg before flying away, taking all the moss — which had been disguised goblins the entire time — with her. Buumi stared at the egg in horror, realising what it meant. He kept it.
 

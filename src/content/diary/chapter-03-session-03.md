@@ -3,7 +3,7 @@ title: Baldur's Gate - The Masquerade
 chapter: 3
 chapterTitle: Baldur's Gate
 session: 3
-summary: "The group abandons the catacombs, meets Lady Faye and her champion Zhink, accepts a vault infiltration job, and talks their way into Lord Fendrel's masquerade — winning party games with firebending, wooing competitions, and unicorn-horn snatching."
+summary: "The group abandons the catacombs, meets Lady Faye and her champion Zync, accepts a vault infiltration job, and talks their way into Lord Fendrel's masquerade — winning party games with firebending, wooing competitions, and unicorn-horn snatching."
 people:
   - "aliyah-faen-tlabbar"
   - "feanon-serinde"
@@ -25,9 +25,9 @@ On the way, a runner arrived breathless with a sealed message for Patches from L
 
 ## Lady Faye
 
-There they met Zhink, an eccentric Moon Elf warrior and another of Lady Faye's champions. Buumi attempted to intimidate him with a strong handshake and got soundly bested. Zhink confirmed that Patches was indeed one of Lady Faye's champions — a revelation that astounded the group. Several bets got paid off over the fact that Patches had actually been telling the truth. Zhink was offended by their surprise.
+There they met Zync, an eccentric Moon Elf warrior and another of Lady Faye's champions. Buumi attempted to intimidate him with a strong handshake and got soundly bested. Zync confirmed that Patches was indeed one of Lady Faye's champions — a revelation that astounded the group. Several bets got paid off over the fact that Patches had actually been telling the truth. Zync was offended by their surprise.
 
-After introductions, Zhink took his leave and Lord Hufflebram — a rotund nobleman — waddled out with Lady Faye. Tark, who had just downed an entire carafe of whiskey, struggled not to throw up on the lord's shoes. Buumi tried unsuccessfully to woo Lady Faye.
+After introductions, Zync took his leave and Lord Hufflebram — a rotund nobleman — waddled out with Lady Faye. Tark, who had just downed an entire carafe of whiskey, struggled not to throw up on the lord's shoes. Buumi tried unsuccessfully to woo Lady Faye.
 
 Lady Faye offered the group a task: infiltrate Lord Fendrel's vault as a test of his new security system — with the lord's permission, more or less. The group readily accepted and discovered they would be attending a masquerade party.
 

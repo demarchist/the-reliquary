@@ -33,3 +33,7 @@ Claudine let out a gasp and fell to her knees, sobbing. Marzeline crouched besid
 She had not seen moonlight in years.
 
 Claudine has since established her alchemy practice at the Barony, finally working freely.
+
+## Marzeline's Parentage
+
+Claudine was once the lover of [[aliyah-faen-tlabbar|Patches]]' brother Marzell, the deceased Faen Tlabbar weapons master. Marzeline is half-drow, and her age and heritage line up with that history — it is heavily implied that Marzell is her father, which would make her Patches' niece. Neither Claudine nor Marzeline has confirmed this outright; it remains an inference, not an established fact.

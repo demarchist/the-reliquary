@@ -67,7 +67,7 @@ They traded a few more barbs and thinly veiled insults before parting.
 
 Feanon took the elevator up. As the older wizard departed, they shared memories, and Feanon was instantly caught up: [[Mordenkainen]], [[Megno Slatesunder|Megno]], and [[Dean Sejuk|Sejuk]] were here.
 
-A dark Ziggurat — nearly identical to the one the group had just destroyed — had been killed beneath [[Sundabar]] by Mordenkainen and the Delzoun Emperor. That Ziggurat had been grown from the life force of Megno's apprentice, Molly, who was now dead.
+A dark Ziggurat — nearly identical to the one the group had just destroyed — had been killed beneath [[Sundabar]] by Mordenkainen and Bruenor Battlehammer, the Delzoun Emperor. That Ziggurat had been grown from the life force of Megno's apprentice, Molly, who was now dead.
 
 Megno was beside himself. He wished to join Feanon's tower and help research the Ziggurats and [[Zhengyi]]. Feanon accepted him as his Sage.
 

@@ -33,7 +33,7 @@ The group rested through the morning in the Troll Hills, healing wounds and savo
 
 ## Lady Faye’s Reward
 
-Baldur’s Gate was still busy despite the nightly undead fog. The guards looked harrowed. At Lady Faye’s manor, the staff welcomed the group warmly and Lady Faye paid them seventy-five hundred gold for her rescue and the amethyst from the Stone Golem. She sent Zhink to accompany the group while Patches ran one last mission for her mistress.
+Baldur’s Gate was still busy despite the nightly undead fog. The guards looked harrowed. At Lady Faye’s manor, the staff welcomed the group warmly and Lady Faye paid them seventy-five hundred gold for her rescue and the amethyst from the Stone Golem. She sent Zync to accompany the group while Patches ran one last mission for her mistress.
 
 Despite the late hour, the group headed straight for the merchant quarter to commission magical items from the tailor they had saved from the anti-necromancer fanatics. They found his shop closed for the night. Fëanon misty-stepped inside, tripping the rudimentary magical alarm and disabling it with a snap of his fingers. The tailor stumbled downstairs wielding a kitchen knife, came face to face with Fëanon, and was instantly resigned to shenanigans. He let his exasperation be known as Fëanon opened the door for the rest of the group — all of whom had been watching through the window.
 
@@ -41,7 +41,7 @@ Despite the late hour, the group headed straight for the merchant quarter to com
 
 Nine thousand five hundred gold changed the tailor’s attitude entirely. Gundren and the Rockseeker brothers climbed from the Tavern of Doors and set up their workshop alongside the master craftsman. Buumi and Doctor Breakfast remained to bless the work and lend divine power.
 
-Outside, Tark grew bored and wandered into the street with Zhink. The happy chirps of a familiar canary stopped him cold — Ysera had found him again. Overjoyed, Tark play-sparred with the golden bird. Zhink, caught up in the excitement, drew his sword to join in, then thought better of it and challenged Tark to a proper spar instead.
+Outside, Tark grew bored and wandered into the street with Zync. The happy chirps of a familiar canary stopped him cold — Ysera had found him again. Overjoyed, Tark play-sparred with the golden bird. Zync, caught up in the excitement, drew his sword to join in, then thought better of it and challenged Tark to a proper spar instead.
 
 Cirrus, equally bored, disguised himself as the tailor and went door to door through the merchant quarter, conning residents into handing over gold for a fabricated investment opportunity. He walked away with a hundred gold. In a few days, people would probably ask the real tailor about their investments — but that was the tailor’s problem, and the man was ten thousand gold richer, so Cirrus figured he would not care.
 
@@ -53,7 +53,7 @@ The group retired to the Tavern of Doors. Cirrus found a new room had grown for 
 
 ## JmJm Is Gone
 
-Tark and Zhink bunked together, Zhink claiming the bottom. In the middle of the night, Steven — JmJm’s goblin butler — woke them with a shriek: "He’s GoooooOOOOoooooone!" The group gathered around JmJm’s door, which was stuck fast. Buumi, still half-drunk, walked up and knocked it off its hinges with a single stiff-armed punch. Cirrus arrived in a sleepy stupor, forgetting to maintain his illusion — revealing his true form for the first time: an emaciated blue tiefling with tattered clothes, long stringy hair, and missing teeth. Realising he was exposed, he hastily disguised himself as JmJm, but the gig was up and he dropped it immediately.
+Tark and Zync bunked together, Zync claiming the bottom. In the middle of the night, Steven — JmJm’s goblin butler — woke them with a shriek: "He’s GoooooOOOOoooooone!" The group gathered around JmJm’s door, which was stuck fast. Buumi, still half-drunk, walked up and knocked it off its hinges with a single stiff-armed punch. Cirrus arrived in a sleepy stupor, forgetting to maintain his illusion — revealing his true form for the first time: an emaciated blue tiefling with tattered clothes, long stringy hair, and missing teeth. Realising he was exposed, he hastily disguised himself as JmJm, but the gig was up and he dropped it immediately.
 
 JmJm’s room was opulent to the point of absurdity. Tark looked at the four-poster curtained bed and wondered bitterly why his own bed was a tiny bunkbed. At the back of the room stood another door, unassuming but thrumming with magical energy that grew outward in veins and roots. Before anyone could open it, a portal folded into existence — edges collapsing in on themselves in an endless fractal — and deposited a naked blue man into the room before vanishing.
 

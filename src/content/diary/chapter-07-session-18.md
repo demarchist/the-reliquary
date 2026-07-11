@@ -59,7 +59,7 @@ Tark leapt from the window, shadowstepping the rest of the way to strike the flo
 
 ## The Burning Manor
 
-Combat raged on every front. In the foyer, [[Li Xian]] appeared from invisibility and turned a bag inside out. Two zombies tumbled free — Georg and Marta. The Oni called to the group, lamenting he had prepared them for the children, but the group would suffice. He vanished around a corner and unleashed a Circle of Death. [[Sera Von Bumidere]] fell dead — a desiccated husk — the Globe of Invulnerability powerless against the necrotic magic.
+Combat raged on every front. In the foyer, [[Li Xian]] appeared from invisibility and turned a bag inside out. Two zombies tumbled free — Georg and Maria. The Oni called to the group, lamenting he had prepared them for the children, but the group would suffice. He vanished around a corner and unleashed a Circle of Death. [[Sera Von Bumidere]] fell dead — a desiccated husk — the Globe of Invulnerability powerless against the necrotic magic.
 
 Ernst and Buumi both cried out.
 

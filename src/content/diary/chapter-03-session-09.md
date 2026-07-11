@@ -44,7 +44,7 @@ The portal activated again. Veygar and his assassin materialized in front of it.
 
 Badly wounded and desperate, the Alhoon attempted one final action. The moment it raised its head, Lothli put an arrow through it. The undead Illithid collapsed.
 
-With the Alhoon destroyed, Gundren turned his Thundercannon on the Stone Golem and sprayed it with magical grease. The ungainly construct crashed to the floor, unable to find traction. JmJm, Buumi, and Zhink swarmed it and smashed it apart.
+With the Alhoon destroyed, Gundren turned his Thundercannon on the Stone Golem and sprayed it with magical grease. The ungainly construct crashed to the floor, unable to find traction. JmJm, Buumi, and Zync swarmed it and smashed it apart.
 
 Sensing the portal's runes beginning to overload, the group quickly gathered what they could — a large amethyst, the Alhoon's head and hands for Fëanon, the spell Counterspell from the creature's remains, an intact mechanical spider, and Veygar's signet ring — before the chamber tore itself apart.
 
