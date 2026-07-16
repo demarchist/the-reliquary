@@ -55,6 +55,10 @@ In [[helioglabulus|Helios]], the group debated whether to stake out [[house-musk
 
 The logic stilled Tark's hand, though it did nothing to ease his grief. The group chose to pursue the Ashbringer first and deal with Gaddock when they were better prepared.
 
+## The Catacombs
+
+In the Halls of the Present at [[gravenhollow|Gravenhollow]], [[horatio-von-bumidere|Buumi]] sought out Gaddock's coffin and saw a human-wrought catacomb of ancient tombs and vaults, crawling with hundreds of small, tusked, baby-like Oni fighting, devouring the weakest among them, and shapeshifting as they learned their powers. The infant fiends crowded a well-kept section of the catacombs but kept clear of three black coffins in a large vaulted chamber — Gaddock's resting place, and, the group suspects, the resting places of the Queen and the [[vampire-knight-of-frostmoore|Vampire Knight]] as well.
+
 ## The Reunion at Frostmoore
 
 The confrontation Tark had dreaded for chapters finally came in the flesh — not in a dream, but in the dark of [[frostmoore-vale|Frostmoore Vale]] on the night the [[red-wizards-of-thay|Red Wizards of Thay]] attacked the [[aimu-estate|Aimu Estate]]. When Tark shadowstepped after a fleeing Thayan, a second presence shadowed in behind him. Cold, powerful arms seized the monk from behind and locked him in a grapple he could not at once break.

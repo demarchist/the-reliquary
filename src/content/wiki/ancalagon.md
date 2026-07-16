@@ -23,3 +23,7 @@ After the Ziggurat was destroyed, Ancalagon led a full-scale assault on the Keep
 In retaliation, Ancalagon snatched civilians from frontier roads and dropped them onto the town at high altitude. The group raided his lair beneath the Withered Hill while he was away, finding two adult black dragon mates, wyrmlings, and a massive hoard, and escaped with some thirty thousand gold worth of treasure.
 
 Interrogation of captured goblins confirmed Ancalagon is a vassal of Zhengyi's power structure who was retasked to the Barony by the Amnians. He answers to a dragon above himself — the source of his Hollow Armour.
+
+## The Red Wyrm
+
+[[feanon-serinde|Fëanon]] scried on Ancalagon after failing to locate Patches' sisters through Lolth's well-warded priesthood. The sensor found the black dragon flying escort above a mountain range with a Thayan Red Wizard riding him, trailing two massive armoured red dragons ahead — one of them the largest dragon anyone in the group had ever seen, and unnervingly familiar. Ancalagon could be heard grumbling to his rider about hunting "creatures" like hounds, eager for a fight, before the great Red Wyrm turned to admonish him — and noticed the invisible scrying sensor. The Thayan rider ended the spell before more could be learned. The identity of the red dragon commanding Ancalagon remains unconfirmed.
