@@ -3,7 +3,7 @@ title: Bloodstone - Bardic Banquet
 chapter: 15
 chapterTitle: Bloodstone
 session: 16
-summary: "Back at the Barony, Izmakella reveals that JmJm's lyre is one of the seven legendary Instruments of the Bards, and the bard resolves to assemble the full set. Patches presses Lo'Dan for word of her mother's hit squads, and Fëanon's scrying finds Ancalagon flying escort for a Thayan wizard beneath a titanic, unnervingly familiar red dragon. That evening, the group gathers at JmJm's Thespian-packed banquet, tracks a lead on the Instruments to Candlekeep, and receives Jarlaxle — travelling as a simulacrum — who lays out the positions of all five of Patches's sisters and the deepening quiet in Menzoberranzan."
+summary: "Back at the Barony, Izmakella reveals that JmJm's lyre is one of the seven legendary Instruments of the Bards, and the bard resolves to assemble the full set. Patches presses Lo'Dan for word of her mother's hit squads, and Fëanon's scrying finds Ancalagon flying escort for a Thayan wizard beneath a titanic, unnervingly familiar red dragon. That evening, the group gathers at JmJm's Thespian-packed banquet, tracks a lead on the Instruments to Candlekeep, and receives Jarlaxle — travelling as a simulacrum — who lays out the positions of all five of Patches's sisters and the deepening quiet in Menzoberranzan. Fëanon returns to his tower after midnight to find Mordenkainen waiting with a favor: a Soul Jar holding a Lich from Oerth, needing a hiding place — and, in exchange, a promise to help with the Archwizard's staff."
 people:
   - "jack-mayer-johnson-mathews"
   - "lady-isabel"
@@ -22,6 +22,7 @@ people:
   - "jacopo"
   - "vladalma"
   - "sharess"
+  - "mordenkainen"
 places:
   - "the-establishment"
   - "rockseeker-manufactory"
@@ -35,6 +36,7 @@ places:
 things:
   - "thundercannon"
   - "instruments-of-the-bards"
+  - "quil-sygoth"
 factions:
   - "house-faen-tlabbar"
   - "bregan-daerthe"
@@ -150,3 +152,14 @@ factions:
 - JmJm starts talking business, wanting to import a herd of Carrion Crawlers to Snorbul's Stables — with the Khonsfa, Carrion Crawlers, and Cave Fishers, they'll have quite the menagerie
 - Jarlaxle agrees, in exchange for some discounted Khonsfa goods
 - The banquet draws on into the late hours. Everyone eats and drinks well, and one by one they head out into the nighttime Barony, toward home
+
+## Mordenkainen's Favor
+
+- [[feanon-serinde|Fëanon]] makes it back to his tower a little after midnight to find a familiar form leaning on the front desk, waiting for him
+- The bald pate of [[mordenkainen|Mordenkainen]] shines in the ambient light of the foyer; the human grins at him and waves
+- Fëanon sighs, approaches the human Archmage, and makes small talk
+- Mordy is here because he needs a favor — he produces a small ceramic jar covered in runes, stoppered with some kind of tar, a long white spell scroll affixed to the front
+- Mordy says it's a Soul Jar, currently holding a Lich named Robert the Red — from Oerth, part of a Cabal that Mordy and his associates are battling
+- They couldn't find the Phylactery, so trapping him on another world with no body was the next best thing
+- Fëanon agrees and takes the jar to stash in the vault, near [[quil-sygoth|Quil'Sygoth]], the Elder Evil spawn of Halashnar
+- Fëanon then asks Mordy if he'd be willing to help with the creation of his Archwizard's staff — the Archmage of Oerth agrees
