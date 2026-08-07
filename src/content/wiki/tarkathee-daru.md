@@ -89,6 +89,14 @@ At the [[aimu-estate|Aimu Estate]] in [[frostmoore-vale|Frostmoore Vale]], when 
 
 When the [[vampire-knight-of-frostmoore|Vampire Knight of Frostmoore]] teleported in moments later and raised a [[saurian-lance|Saurian lance-weapon]] in formal salute toward him, Tark recognised both the courtesy and the weapon — the same alien sourcework the group had carried back from [[al-askar|Al Askar]] — and dropped sideways through the resulting Lightning Bolt with the casual fluency of a man who had spent a lifetime dodging worse.
 
+## The Windrunner's Flight
+
+With the [[windrunner-armor|Windrunner Armor]] finally forged, Tark spent a full day alone in the forests of the Barony learning to master its gravity-manipulation, crashing through branches and skipping off water more than once before he emulated true flight and returned to the Barony under his own power.
+
+## The Ghostwise Halfling
+
+Back in the Barony, [[lady-isabel|Izmakella]] mentioned it had been a long while since she'd seen a Ghostwise Halfling — and Tark realised she meant him. She explained that the *Kryschek*, the folk name given to Tark by the people of Helios, is a local folktale of small faerie-folk descending from the mountains bringing good luck — a folksy misreading of something real: the Ghostwise Halflings, who come down from the mysterious highlands every decade or so to trade before retreating into obscurity again. It had been twenty years since Izmakella had seen one besides Tark. Most, she said, have stark red hair. It's the first solid lead Tark has ever had on the people he might have come from, and it left him elated.
+
 ## The Sunsword and the Tree
 
 In the long, quiet hours after the dusk battle at the [[aimu-estate|Aimu Estate]], [[lord-aimu|Lord Aimu]] left the [[sunsword|Sunsword]] on the table for the party to take up — and Tark took it. He turned the [[ashbringer|Ashbringer]] over in the lamplight, re-meeting the weapon he had carried through the Battle of Krezk, and spent over an hour studying the crystal with his Detect-Magic eye until he found a flaw the Church of [[lathander|Lathander]] had never catalogued: a subtle warping near the guard, like a drop of melted glass cooled wrong, with a single delicate fingerprint pressed into the crystal at the moment it had been soft. He told no one, settled into meditation with the blade across his knees, and re-attuned to it over the course of the night — the radiance answering, by slow degrees, the hand that had once wielded it.
@@ -100,6 +108,10 @@ It was [[lady-isabel|Izmakella]], watching him meditate, who revealed the deeper
 The hunt Tark had carried since the Underdark closed on him in the dark of [[frostmoore-vale|Frostmoore Vale]]. When the [[red-wizards-of-thay|Thayans]] attacked the estate by night and Tark shadowstepped after a fleeing Red Wizard, cold arms seized him from behind — and he turned in the grapple to face [[gaddock|Gaddock]] in the flesh for the first time since the man's death: pale, emaciated, weeping, a horn of black crystal driven into his skull and swirling with an inner smoke that held him in thrall to [[zhengyi|Zhengyi]]. His master bared his fangs, locked eyes with him, and bit him, and began to feed.
 
 [[jack-mayer-johnson-mathews|JmJm]]'s Arcane Hand pried the vampire off before the feeding could do its worst. Tark tore free, bleeding from the throat, and turned a strike on his master meant to end him — but Gaddock dropped away into the trees, and Tark went down the mountain after him without a moment's hesitation, the vendetta and the grief now wearing the same beloved face.
+
+## The Queen's Dream
+
+Some nights later, Tark dreamed himself into the lap of [[queen-concetinna-frostmantle|Queen Concetinna]] of Helios — charming, playful, and singing him a nursery rhyme about a queen-mother waiting for her son as her canines showed delicately pointed behind the smile. She denied being a vampire, and oddly, he believed her. She told him she had felt him when he died, and that she waits for him — as does [[gaddock|Gaddock]]. He woke at the pre-dawn horizon with his resolve steeled: it's time to go back and hunt down his old master.
 
 ## Tark's Treehouse
 

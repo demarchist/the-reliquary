@@ -34,6 +34,8 @@ Lord Brusso died that night. When [[tarkathee-daru|Tark]] and [[feanon-serinde|F
 
 [[jack-mayer-johnson-mathews|JmJm]] performed a Reincarnation ritual on the corpse. It failed — Lord Brusso's spirit was unable to return. The body was taken to the Cathedral of [[lathander|Lathander]] on holy ground, guarded by Paladins and Warlocks in case it transformed.
 
+Days later, [[house-huron|House Huron]] sent word that the body had lain in the Cathedral long enough — it was time for his Wake and Burial, with the [[queen-concetinna-frostmantle|Queen]] personally inviting [[cirrus-al-kayan|Cirrus]] and his retainers to attend.
+
 ## The Trail
 
 Investigation by [[aliyah-faen-tlabbar|Patches]] revealed that Lord Brusso had been in [[house-huron|House Huron]]'s private box at the arena just days before his illness — seated alongside [[natasha-huron|Lady Natasha Huron]]. His last public appearance before the Queen's summer party three weeks prior. The Thayans who recommended [[gaddock|Gaddock]] as his bodyguard had been staying at House Huron for weeks.

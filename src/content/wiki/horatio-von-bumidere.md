@@ -57,6 +57,8 @@ Buumi takes his duties as Captain of the City Guard seriously, always on the loo
 
 Buumi's relationship with [[Aliyah Faen Tlabbar|Patches]] is one of the group's longest-running threads. Drawn to each other despite vastly different temperaments — his lawful principles against her chaotic instincts — they have danced around mutual attraction for years. The stakes deepened when Patches proposed a marriage — framed as a binding protection pact for their children, Finn and Cercei, in the eyes of noble houses and their gods. Buumi, badly hungover at the time, was touched but asked to think about it in a proper state of mind. His family, meanwhile, had arranged a betrothal to a noblewoman, with a formal announcement planned at a debutante ball in Silverymoon — a complication he discussed privately with Tark in a carriage, admitting "it's all so confusing."
 
+Buumi's room now sits within the [[Cathedral of Helm]]. Patches, having watched him wait outside [[jmjm-theater|JmJm's Theater]] all night hoping to surprise her, followed him home, broke in once he slept, and woke him — first gently, then with a slap when gentle didn't work. She thanked him and Tark for making her want to be a better person, then kissed him with drow-poison-laced lips, dropping him unconscious. She's confident he'll build up an immunity to the poison eventually.
+
 His friendship with Tark is perhaps his most uncomplicated bond — the two share a comfortable rapport built on shared combat, mutual respect, and the kind of physical humor that involves accidentally knocking each other to the ground. He and [[Gundren Rockseeker]] are drinking companions who celebrate returns by going out partying together.
 
 ## Secret
