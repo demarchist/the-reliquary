@@ -22,3 +22,13 @@ When the Thayan delegation requested an audience with the newly-acquired Holy Re
 Lord Aimu watched the entire exchange. Something in the way she handled the blade — something in the cool quality of her gaze on the radiance — climbed into the back of his throat as a paladin's instinct of *wrong*. The paladins had no proof. He stole the sword anyway.
 
 Whether the Queen is herself, herself-but-compromised, or no longer herself at all is a question the group has inherited along with the blade.
+
+## The Dream
+
+[[tarkathee-daru|Tark]] met her — or something wearing her shape — in a dream: laid with his head in her lap, a dark-haired woman in a silk gown singing him a nursery rhyme about a queen and a mother waiting for her son, her canines delicately pointed as she smiled. He recognised her as Queen Concetinna and pressed her with questions. She was charming and playful, answered most of them, and laughed off his accusation that she was a vampire — she said she wasn't, and oddly, he believed her. She told him she had felt him when he died, and that she waits for him, as does [[gaddock|Gaddock]]. As she leaned in to caress his face, her canines lengthened into fangs before Tark woke, sweating, at the pre-dawn horizon.
+
+The dream sharpens rather than resolves the question of what the Queen is. It also lines up with what [[horatio-von-bumidere|Buumi]]'s vision at [[gravenhollow|Gravenhollow]] found in the catacombs beneath Helioglabulus: three black coffins standing apart from the infant Oni swarming the rest of the vault — [[gaddock|Gaddock]]'s, and, the group suspects, the Queen's and the [[vampire-knight-of-frostmoore|Vampire Knight]]'s besides.
+
+## The Wake
+
+Days after the dream, [[cirrus-al-kayan|Cirrus]] received a letter — carried by a small talking white horse — inviting him and his retainers to Lord Muskov's Wake and Burial at Helioglabulus, extended personally by the Queen. Between the Thayans, the Amnian weapons shipments, and the vampiric nature of the city's recent murders, the group is certain the invitation is a trap. They intend to walk into it anyway, once their preparations are finished.

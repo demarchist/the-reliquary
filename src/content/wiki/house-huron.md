@@ -20,3 +20,9 @@ Cirrus secured an invitation by charming [[natasha-huron|Natasha Huron]], the ho
 Investigation in [[helioglabulus|Helios]] has drawn an increasingly clear line back to House Huron. The Thayans have been staying at the house for weeks at the Queen's invitation. A great floating golden orb visited the house roughly a week ago — Amnian foreigners descended from it, conducted unknown business, and departed. The peasants took the orb as a great sign, like a second sun. Word from the city's rogues suggests the Amnians are due to return imminently.
 
 [[aliyah-faen-tlabbar|Patches]] discovered that [[brusso-muskov|Lord Brusso Muskov]] was in House Huron's private box at the arena just days before falling deathly ill — seated alongside [[natasha-huron|Natasha Huron]]. The Thayans at House Huron recommended [[gaddock|Gaddock]] as Lord Brusso's bodyguard, and he was found dead shortly after. The connections — Thayans, Amnians, vampires, and a dead nobleman — all lead back to House Huron.
+
+## The Wake
+
+The soirée House Huron had been planning was postponed by Lord Muskov's death. A letter signed by Lady Huron — carried by a small talking white horse — reached [[cirrus-al-kayan|Cirrus]] at the Fane some days later: the Lord's body had lain in the Cathedral since his death, and it was time for his Wake and Burial. The [[queen-concetinna-frostmantle|Queen]] herself extended a personal invitation to Cirrus and his retainers.
+
+Given everything the group already knows about House Huron's ties to the Thayans, the Amnian weapons shipments, and the city's vampiric undercurrent, they are certain the invitation is a trap. They mean to attend anyway, once their preparations are finished.
