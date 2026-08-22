@@ -20,6 +20,7 @@ places:
   - "ethereal-plane"
   - "thueba-swamp"
 things:
+  - "allips"
   - "bag-of-devouring"
   - "hammer-of-niraz"
   - "steden"
@@ -49,7 +50,7 @@ Exhausted, the party rested through an uneventful night.
 
 Come morning, they packed up and departed the ancient ruins, heading west. Buumi attempted to lead the way through faith, but the unforgiving swamps of this alien world quickly made a fool of his confidence. More competent navigation corrected their course, though not before they had lost several hours drifting too far north.
 
-As the day wore on, they came across a ring of Standing Stones swarming with Allips — undead spirits drifting among the monoliths. The group chose to go around rather than fight, losing still more time to caution.
+As the day wore on, they came across a ring of Standing Stones swarming with [[Allips]] — undead spirits drifting among the monoliths. The group chose to go around rather than fight, losing still more time to caution.
 
 Feanon then turned to his arcana, reading the currents of magic to sense the nearest and strongest emanations. He steered the group toward what he believed to be the resting place of [[Hohonu]].
 

@@ -1,21 +1,27 @@
 ---
 title: "Mediocris Dente"
 category: "People"
-aliases: ["The Tooth Fairy", "Ceregorach"]
+aliases: ["Dente"]
 firstAppearance: "chapter-03-session-07"
-description: "A sinister Wild Fae Archfey — the real tooth fairy — who held Cirrus in a degrading pact of teeth and treasure until the warlock killed it in the collapsing Bog. Also known as Ceregorach."
-status: "Dead"
+description: "The gaunt, tooth-draped form associated with Ceregorach that held Cirrus in a degrading pact until he destroyed its body in the collapsing Bog."
+status: "Destroyed; true death uncertain"
 race: "Archfey"
 ---
 
-Mediocris Dente — also known as **Ceregorach** — is the creature behind the children's legend of the tooth fairy, and the reality is far uglier than the tale. A Wild Fae Archfey, winged and gaunt, its neck and body draped in necklaces of teeth, Mediocris Dente is the kind of patron that takes everything and gives just enough to keep its warlock crawling back.
+Mediocris Dente was the name used by the creature that personally held [[Cirrus Al Kayan|Cirrus]] in bondage: winged and gaunt, its neck and body hung with necklaces of teeth, the reality behind the children's legend of the tooth fairy. Campaign sources also identify Dente with [[Ceregorach]], the Laughing God. Later events make the exact relationship uncertain. Dente may have been the greater patron, an avatar or bodily manifestation, or simply the form in which Ceregorach chose to deal with Cirrus.
 
-Cirrus Al Kayan served under this creature's pact. The terms were humiliating: regular payments of treasure and a tooth placed under his pillow each night. Every night, Cirrus dreamed the same dream — trapped in a desolate expanse of blackness, a plane of water stretching endlessly as the only floor. There, the Tooth Fairy would whisper to him and accept his offerings. If pleased, it returned small gifts — a ring of protection, scraps of power. If not, Cirrus remained alone in the dreamscape, fully conscious, for hours.
+The terms of the pact were humiliating: regular payments of treasure and a tooth placed beneath Cirrus's pillow each night. Every night he dreamed the same dream—trapped in a desolate black expanse with a plane of water as its only floor. Dente whispered, accepted the offering, and sometimes returned a ring or scrap of power. If displeased, it left Cirrus fully conscious and alone in the dreamscape for hours.
 
-[[Horatio Von Bumidere|Buumi]] discovered the nature of Cirrus's patron through divine insight in the ruins beneath [[Baldur's Gate]] and was deeply disturbed. The group chose to press forward rather than intervene, but the knowledge sat poorly with everyone.
+[[Horatio Von Bumidere|Buumi]] discovered the nature of the patron through divine insight in the ruins beneath [[Baldur's Gate]]. The revelation explained power as an abusive economy: Dente gave just enough to keep its warlock returning and made the ritual of surrender intimate, nightly, and difficult to escape.
 
-## Death
+## Destruction in the Bog
 
-When the Bog demiplane began collapsing after the [[The Goblin King|Goblin King]]'s defeat, Mediocris Dente emerged from a portal — perhaps drawn by the chaos, perhaps fleeing like everything else. Cirrus saw the creature and snapped. Something deeper than anger took hold. In ape form, he went into a frenzy, crushing goblins underfoot and hurling boulders at his former master. Buumi rode to his side and together they brought the Tooth Fairy down. Cirrus, still a great ape, smashed the creature's head flat with a giant amethyst.
+When the Bog demiplane began collapsing after the [[The Goblin King|Goblin King]]'s defeat, Mediocris Dente emerged from a portal—perhaps drawn by the chaos, perhaps fleeing like everything else. Cirrus saw the creature and snapped. In ape form he went into a frenzy, hurling boulders at his former master while Buumi rode to his side. Cirrus finally smashed Dente's head flat with a giant amethyst.
 
-The pact was broken. Whatever Mediocris Dente had been — patron, tormentor, parasite — Cirrus ended it himself, with his own hands. It was the most decisive thing the warlock had ever done.
+The body was destroyed and the pact broke. Cirrus later burned Dente's remains and his collected teeth in Selûne's service. Whatever the metaphysics, this liberation was real: the nightly dream ended, the demanded tribute ended, and Cirrus chose a new life.
+
+## The Death That Did Not End the Patron
+
+The larger power did not disappear. [[Strigu]] told Cirrus that Ceregorach was not dead. [[Bilrigger]] continued to draw power from the Laughing God. A moving portrait in Bilrigger's sanctum showed the same sagging, enormous-mouthed figure Cirrus recognised as his old master. Ceregorach later spoke through another hoard of teeth, and [[Zulkhir Atlan Issan]] still names himself a servant of the Tooth Fairy.
+
+The safest conclusion is therefore narrow: Cirrus killed Mediocris Dente in the form that enslaved him. He did not demonstrably kill everything called Ceregorach. Treating Dente as an avatar explains the evidence, but remains an interpretation rather than a confirmed cosmology.

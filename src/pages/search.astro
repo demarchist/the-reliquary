@@ -20,6 +20,18 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
           showSubResults: true,
           showImages: false,
           baseUrl: base + '/',
+          ranking: {
+            pageLength: 0,
+            termFrequency: 0,
+            metaWeights: { title: 10, aliases: 10, slug: 10 },
+          },
+          processResult: function(result) {
+            if (result.meta) {
+              delete result.meta.aliases;
+              delete result.meta.slug;
+            }
+            return result;
+          },
         });
       };
       document.head.appendChild(script);

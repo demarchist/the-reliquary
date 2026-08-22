@@ -3,7 +3,7 @@ title: Home - A Good Soul
 chapter: 14
 chapterTitle: Home
 session: 15
-summary: "The group reincarnates the headless spy and discovers he was a good man named Letji sent by the Warlocks of Ceregorach, Cirrus is shaken when Selûné reveals the soul came willingly, Gundren discovers the Modrons are building something in the courtyard, and the group Wind Walks to the pirate city of Luskan where Patches walks into an ambush by her mother's elite warriors at One Eyed Jacks."
+summary: "The group attempts to reincarnate the headless spy and discovers he was a good man named Letji sent by Samonosuke, a Warlock of Ceregorach; Cirrus is shaken when Selûné reveals the soul answered willingly, Gundren discovers the Modrons are building something in the courtyard, and the group Wind Walks to the pirate city of Luskan where Patches walks into an ambush by her mother's elite warriors at One Eyed Jacks."
 people:
   - "aliyah-faen-tlabbar"
   - "cirrus-al-kayan"
@@ -14,7 +14,9 @@ people:
   - "jack-mayer-johnson-mathews"
   - "jarlaxle"
   - "lady-faye"
+  - "letji"
   - "mediocris-dente"
+  - "samonosuke"
   - "selune"
 places:
   - "fane-of-selune"
@@ -27,6 +29,7 @@ things:
 factions:
   - "bregan-daerthe"
   - "drow-faction"
+  - "warlocks-of-ceregorach"
   - "zhentarim"
 ---
 
@@ -38,9 +41,9 @@ factions:
 
 At the Fane, a ritual of reincarnation began — the man had no head, so they would simply grow him a new body. JmJm stripped naked in the ritual circle and anointed himself and the corpse with ritual oils. The body disintegrated and mingled with the unguents, but did not form anew. The soul did not wish to return.
 
-Calling upon divine intervention, Cirrus and JmJm forced the spirit to answer five questions — a gift from [[Selune]].
+Calling upon divine intervention, Cirrus and JmJm petitioned the spirit with five questions — a gift from [[Selune]].
 
-The dead man's name was Letji. His master was Samonosuke, a Warlock of Ceregorach. He had been sent to spy on Cirrus with presumably murderous intent.
+The dead man's name was [[Letji]]. His master was [[Samonosuke]], a [[The Warlocks of Ceregorach|Warlock of Ceregorach]]. He had been sent to spy on Cirrus; the group presumed the mission might also have had murderous intent.
 
 Cirrus did not ask his final question. Instead, he offered the soul to [[Crisserei]] the Planetar, to bring to Selune — to save this dark soul.
 

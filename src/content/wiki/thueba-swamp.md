@@ -2,7 +2,7 @@
 title: "Thueba Swamp"
 category: "Places"
 aliases: ["Thueba Swamp"]
-firstAppearance: "chapter-12-session-01"
+firstAppearance: "chapter-12-session-19"
 description: "Vast tropical swamp in Al Askar, infested with undead legions, corrupted wildlife, and halfling tribes — containing the ancient Saurian Machina Factory and the Temple of Fawden."
 ---
 
@@ -15,6 +15,8 @@ Thueba Swamp is a vast tropical swamp in Al Askar, a fetid expanse of gnarled tr
 The swamp is extraordinarily hostile. Gargantuan crocodiles — some twenty feet long, others pushing forty — prowl the waterways, many riddled with Zalaam's Corruption. Their bites carry infection that can blind and cripple within hours. Legions of undead patrol the eastern reaches near Sharza, including skeletal giants that hurl trees and boulders and regenerating ghost giants that wield spectral greatswords and blasts of freezing wind. Corrupted halfling tribes allied with the entity Hohonu ambush travellers with blighted arrows and exploding skull-bombs.
 
 The swamp also contains ancient Saurian ruins haunted by the frozen ghosts of a thousand-year-old war against the Phaerimm. These sites are cursed — supernaturally cold, hostile to fire, and inhabited by undead sheathed in icy energy.
+
+The party also found a ring of standing stones swarming with [[Allips]], incorporeal undead drifting among the monoliths. They chose a long detour rather than investigate. Nothing establishes whether the stones attracted the spirits, held them, or merely stood where the dead had gathered; the encounter adds another unresolved magical ruin to the swamp's catalogue of hazards.
 
 ## Inhabitants
 

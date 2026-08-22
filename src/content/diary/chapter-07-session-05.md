@@ -20,6 +20,7 @@ places:
   - "far-realm"
   - "sanctum-of-krasus"
 things:
+  - "allips"
   - "gwen"
   - "mythallar"
   - "thundercannon"
@@ -27,7 +28,7 @@ factions:
   - "netherese"
 ---
 
-## The Allip Promethi
+## The [[Allips|Allip]] Promethi
 
 [[Tarkathee Daru]] struggled against [[Aliyah Faen Tlabbar]]'s grip, still possessed, but could not break free. [[Horatio von Bumidere]] rushed in and channelled Helm's power — Tark managed to eject the ghost, which fled up the spiral staircase. Most of the group averted their eyes in time, but [[Megno Slatesunder]] and [[Cirrus Al Kayan]] were caught by the spirit's ghostly visage and aged rapidly, losing a decade of life force.
 

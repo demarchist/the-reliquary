@@ -39,3 +39,11 @@ The basement houses a magical sanctum called the Den of Dreams, open to the publ
 ## Administration
 
 Day-to-day operations are overseen by Topsy and Turvy, two were-rat siblings who were among Cirrus' initial converts.
+
+## The Tribute of Teeth
+
+The Fane's main hall became the site of [[Zulkhir Atlan Issan]]'s most intimate provocation. Thousands of bloody teeth were delivered into the sanctuary and heaped high enough to bury the feet of the colossal Cirrus statue. [[Topsy & Turvy|Topsy]] received the delivery and met [[Cirrus Al Kayan|Cirrus]] on his return, visibly nervous but still functioning as the temple's administrator.
+
+The arrangement inverted the meaning of the hall. The statue celebrates Cirrus's new identity as Selûne's chosen servant; teeth were the nightly tribute demanded during his bondage to [[Mediocris Dente]]. Atlan placed the symbol of the old pact at the base of the new faith and self-image.
+
+Cirrus ordered Topsy to pack the teeth and send them to his private chambers, then said he would build through the night. The account ends before the order is carried out, and what he intended to make is unknown. The command nevertheless shows his intended response: remove the threat from the public sanctuary and take its material into a space where he—not his former patron—would determine its use.

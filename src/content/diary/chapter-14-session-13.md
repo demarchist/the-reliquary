@@ -15,6 +15,7 @@ people:
   - "horatio-von-bumidere"
   - "jack-mayer-johnson-mathews"
   - "jarlaxle"
+  - "letji"
   - "maya"
   - "mediocris-dente"
   - "megno-slatesunder"
@@ -53,7 +54,7 @@ factions:
 
 ## The Harper
 
-As the adrenaline faded, the group gathered in the [[Keep of Thunder Bluff|Keep]] courtyard. Troops were sent to clear the dead and take prisoners. The Dwarven gun crews worked with [[Surtr]] to swap out spent barrels in case the dragon returned. Smouldering wand-barrels piled up, scorching a patch of grass.
+As the adrenaline faded, the group gathered in the [[The Keep of Thunder Bluff|Keep]] courtyard. Troops were sent to clear the dead and take prisoners. The Dwarven gun crews worked with [[Surtr]] to swap out spent barrels in case the dragon returned. Smouldering wand-barrels piled up, scorching a patch of grass.
 
 The all-clear horn sounded. Civilians filtered out of the Keep tunnels and back to their homes. The heroes scattered to their respective lairs to rest.
 
@@ -103,7 +104,7 @@ Night fell. The Barony celebrated its victory under a full moon.
 
 Cirrus spotted Mordenkainen and Sejuk enjoying street food and could not resist the opportunity to rally his people. He ascended the announcement stage and delivered a rousing speech blaming [[Amn]] for the day's attack, successfully stoking the crowd. Then he announced enemies in their midst and gestured for the bowyer to be arrested.
 
-The man tried to run. The group apprehended him instantly. He spat on Cirrus and snarled: *The [[Warlocks of Ceregorach]] will all die!* Then he bit down on something. His head exploded.
+The man tried to run. The group apprehended him instantly. [[Letji|He]] spat on Cirrus and snarled: *The [[Warlocks of Ceregorach]] will all die!* Then he bit down on something. His head exploded.
 
 Cirrus wasted no time — prestidigitation for the crowd, the body to the Fane. He ended his speech with the dramatic death, seemingly taking credit. The story of how Cirrus killed the man by making his head explode spread through town.
 

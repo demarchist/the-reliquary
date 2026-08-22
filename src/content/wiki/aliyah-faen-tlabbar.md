@@ -29,6 +29,12 @@ Patches is the group's most surgically precise combatant. She operates from the 
 
 Her crowning moment came atop the Demon Prince Demogorgon — she scaled the beast, flipped her blades over in her hands, and plunged them both home into its twin heads.
 
+## Leverage Before Violence
+
+Patches generally tests a system before she attacks it. At [[Candlekeep]], she contacted [[Lady Faye]] and asked what influence could be bought rather than assuming the college's rules were absolute. The answer mapped a limit instead of opening a door: [[The Zhentarim|the Zhentarim]] had little reach there. Faye could lend ten thousand gold for bribes, but could not promise that any official who mattered would take it. Whether Patches accepted the money is unrecorded.
+
+The episode fits her broader method. Patches probes contacts, incentives, terrain, and escape routes before committing to force; when one kind of leverage fails, she changes tools without confusing caution for surrender. On [[Acheron]], while JmJm turned a victory into a marching host, Patches took the makeshift crow's nest and watched the metal plain ahead. The settings were radically different, but the role was the same: find the edge of the danger before it reaches everyone else.
+
 Her instinct for flanking and ambush extends beyond combat. When the group approached the Androsphinx in the vault's wheat field trial, Patches immediately broke off to flank through the tall grass — a habit so ingrained that she does it before even knowing whether there's a threat.
 
 ## The Reaver

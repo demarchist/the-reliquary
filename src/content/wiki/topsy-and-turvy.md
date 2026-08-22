@@ -29,6 +29,10 @@ They were among [[cirrus-al-kayan|Cirrus]]'s first converts.
 
 Topsy and Turvy eventually found their way to the [[fane-of-selune|Fane of Selûne]] on the surface, where they serve as the primary administrators, overseeing its day-to-day operations on behalf of [[cirrus-al-kayan|Cirrus Al-Kayan]].
 
+That administration includes crises their first fearful journey to the surface could never have anticipated. When thousands of bloody teeth were delivered around the feet of Cirrus's statue with a challenge from [[Zulkhir Atlan Issan]], Topsy received the provocation, waited anxiously for Cirrus, and reported it directly. Cirrus ordered her to pack the teeth into his chambers and leave him undisturbed; the account ends before her response is recorded.
+
+The moment is small beside the supernatural threat, but revealing. The twins were once prisoners frightened of their own lycanthropy and unsure whether they could live under the open sky. They now keep a major religious institution functioning when a Thayan ruler deposits the physical language of their high priest's former abuse in its nave.
+
 ## Divergent Views
 
 Despite their shared faith, the siblings have cultivated profoundly differing perspectives on religious dogma. While one adheres to more conventional religious ideals, the other has adopted a decidedly more radical stance, characterized by participation in self-mutilating religious rituals. This divergence creates an unusual dynamic within the Fane's administration.

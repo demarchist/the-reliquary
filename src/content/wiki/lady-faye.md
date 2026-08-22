@@ -20,3 +20,9 @@ The group fought through the ruins, battled Veygar's forces, and ultimately resc
 ## Champions
 
 Lady Faye employs champions to carry out her interests. Patches serves as one such champion, and [[zync|Zync]] — an eccentric Eladrin fighter/warlock — serves as another. At the Council of Helm's Hold, Lady Faye appeared with [[lemerlais|Lemerlais]] on the outskirts. She reported that an agent had a lead on another fragment of [[the-last-word|The Last Word]] in the [[underdark|Underdark]] — the agent would meet the party in [[gracksuluth|Gracksuluth]], the city of the Duergar.
+
+## Patronage and Its Limits
+
+Lady Faye's relationship with [[Aliyah Faen Tlabbar|Patches]] is not limited to assigning work. When Patches needed leverage over [[Candlekeep]], Faye was immediately willing to loan her ten thousand gold with which to grease palms. Whether Patches accepted or spent the money is unrecorded; the offer itself is the useful fact. Faye can place substantial liquid resources behind a champion on almost no notice.
+
+She was equally direct about the network's limits. [[The Zhentarim|The Zhentarim]] had little influence inside Candlekeep, so the offered money was a tool for attempting persuasion rather than a promise that any particular official or shortcut could be bought. That candour makes her patronage more credible. Faye's network is powerful, not magical in the colloquial sense: she knows both where it reaches and where a champion may have to solve the problem without it.

@@ -13,7 +13,7 @@ Cornubel was a gnomish friend of the [[rockseeker-clan|Rockseeker family]], clos
 
 ## The Derelict
 
-The trip turned up more than gold. A shooting star crashed nearby in the night, and the three of them went looking for sky-iron the next day, finding debris from [[the-derelict|a wrecked Modron vessel]] buried in the riverbed — an unfamiliar golden alloy, fragments of impossible machinery, and a great mechanical eye beneath the water. They found their way inside and down to the ship's core: a dying, fragmenting Nonagon of the Modrons, which charmed all three into touching it.
+The trip turned up more than gold. A shooting star crashed nearby in the night, and the three of them went looking for sky-iron the next day, finding debris from [[the-derelict|a wrecked Modron vessel]] buried in the riverbed — an unfamiliar golden alloy, fragments of impossible machinery, and a great mechanical eye beneath the water. They found their way inside and down to the ship's core: a dying, fragmenting Nonagon of the [[Modrons]], which charmed all three into touching it.
 
 The entity's fragmentation killed Cornubel outright. It took refuge instead in Gundren and his father, reshaping both of them and erasing all memory of the encounter — including any memory that Cornubel had ever been there. Gundren and Pa' Rockseeker returned home without him and without explanation. Cornubel's unexplained disappearance haunted Pa' Rockseeker for the rest of his life and, by Gundren's account, was the beginning of his father's slow turn toward something more remote, more calculating, and colder.
 

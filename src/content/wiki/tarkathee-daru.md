@@ -93,6 +93,8 @@ When the [[vampire-knight-of-frostmoore|Vampire Knight of Frostmoore]] teleporte
 
 With the [[windrunner-armor|Windrunner Armor]] finally forged, Tark spent a full day alone in the forests of the Barony learning to master its gravity-manipulation, crashing through branches and skipping off water more than once before he emulated true flight and returned to the Barony under his own power.
 
+[[Acheron]] turned that private practice into field mastery. At the edge of one of its tumbling iron cubes, Tark fell into what appeared to be open sky and used the armor's personal gravity to recover rather than vanish into the void. Later, when the recovered spelljammer had to pass through the Barony's Gate in dismantled sections, he redirected gravity around the largest pieces so they fell through the portal. Windrunner had begun as flight; on Acheron it became control over orientation, direction, and logistics in a place designed to make all three hostile.
+
 ## The Ghostwise Halfling
 
 Back in the Barony, [[lady-isabel|Izmakella]] mentioned it had been a long while since she'd seen a Ghostwise Halfling — and Tark realised she meant him. She explained that the *Kryschek*, the folk name given to Tark by the people of Helios, is a local folktale of small faerie-folk descending from the mountains bringing good luck — a folksy misreading of something real: the Ghostwise Halflings, who come down from the mysterious highlands every decade or so to trade before retreating into obscurity again. It had been twenty years since Izmakella had seen one besides Tark. Most, she said, have stark red hair. It's the first solid lead Tark has ever had on the people he might have come from, and it left him elated.
