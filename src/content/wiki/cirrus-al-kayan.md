@@ -11,7 +11,7 @@ affiliation: "faerun-defense-force"
 home: "fane-of-selune"
 ---
 
-Cirrus Al Kayan is a Tiefling warlock turned Divine Soul Sorcerer and a founding member of the [[Faerûn Defense Force]]. Unusually tall and slender, with reflective chrome eyes and shiny pointed metal dentures, he is the self-appointed High Priest of the Cult of [[Selûne]], the Baronet of [[Thunder Bluff]], and — in his own estimation — the most important person alive.
+Cirrus Al Kayan is a Tiefling warlock turned Divine Soul Sorcerer and a founding member of the [[Faerûn Defense Force]]. Unusually tall and slender, with reflective chrome eyes and shiny pointed metal dentures, he is the self-appointed High Priest of the Cult of [[selune|Selûne]], the Baronet of [[Thunder Bluff]], and — in his own estimation — the most important person alive.
 
 ## Personality
 
@@ -23,7 +23,7 @@ What makes Cirrus more than a joke is the sincerity beneath the absurdity. His d
 
 Before Selûne, there was [[Mediocris Dente]].
 
-Cirrus was born a Tiefling into the Al Kayan clan — an Amnian noble family that wanted nothing to do with a horned child. At some point he killed his father and fled. Desperate and alone, he entered a warlock pact with Mediocris Dente, an Archfey also known as Ceregorach — the creature behind the children's legend of the Tooth Fairy. The terms were degrading: nightly tribute of a tooth placed under his pillow, regular payments of treasure, and in return, scraps of power. Every night Cirrus dreamed the same dream — trapped in a desolate plane of black water, where the Tooth Fairy whispered to him and accepted his offerings. If displeased, it left him there, fully conscious, for hours.
+Cirrus was born a Tiefling into the Al Kayan clan — an Amnian noble family that wanted nothing to do with a horned child. At some point he killed his father and fled. Desperate and alone, he entered a warlock pact with Mediocris Dente, the gaunt Archfey form associated with [[Ceregorach]] and the children's legend of the Tooth Fairy. Whether Dente was Ceregorach entire, an avatar, or merely the shape in which the Laughing God dealt with Cirrus remains unresolved. The terms were degrading: nightly tribute of a tooth placed under his pillow, regular payments of treasure, and in return, scraps of power. Every night Cirrus dreamed the same dream — trapped in a desolate plane of black water, where the Tooth Fairy whispered to him and accepted his offerings. If displeased, it left him there, fully conscious, for hours.
 
 Cirrus joined the party intending to steal their teeth and kill them to appease his patron. He concealed this for months.
 
@@ -39,7 +39,7 @@ In Barovia, Cirrus told the group the full truth — that he had originally join
 
 ## Selûne's Instrument
 
-Freed from Ceregorach, Cirrus gave himself entirely to [[Selûne]]. His devotion is unflappable — he believes the moon goddess interceded to save him from enslavement, and he will take whatever means necessary to spread her influence across the cosmos.
+Freed from Ceregorach, Cirrus gave himself entirely to [[selune|Selûne]]. His devotion is unflappable — he believes the moon goddess interceded to save him from enslavement, and he will take whatever means necessary to spread her influence across the cosmos.
 
 Selûne tasked him with hunting four warlocks still bound to Ceregorach: a halfling in Neverwinter, a Derro in Gracksuluth, a Red Wizard in Thay, and a samurai in Kara-Tur. The first of these — a wretched creature called [[Strigu]], the Red Grin Killer — Cirrus tracked through the streets of Neverwinter. When the warlock attacked with a fire elemental and Meenlocks at the Fallen Tower Inn, Cirrus walked toward him with an outstretched hand and called on Selûne. Strigu accepted the embrace — then sank his fangs into Cirrus's neck. Cirrus held tighter. The creature was put down moments later.
 
@@ -59,7 +59,7 @@ When the group was granted the Barony of [[Thunder Bluff]] for service to Silver
 
 ## The Fane of Selûne
 
-Cirrus built the [[Fane of Selûne]] — a massive twisting spire of white marble on the shore of Lake Seluna, headquarters of the Cult of Selûne. Its interior is dominated by a statue carved in his own likeness, housing a hidden elevator and a pulpit extending from the statue's mouth. Through divine magic, the grounds are shrouded in the perpetual umbra of a total solar eclipse. At the top, an open platform faces the sky, where Cirrus can often be heard chanting prayers to Selûne — chanting that audibly resembles yodeling and is objectively bad, often dissonant, off-key, and far too loud.
+Cirrus built the [[fane-of-selune|Fane of Selûne]] — a massive twisting spire of white marble on the shore of Lake Seluna, headquarters of the Cult of Selûne. Its interior is dominated by a statue carved in his own likeness, housing a hidden elevator and a pulpit extending from the statue's mouth. Through divine magic, the grounds are shrouded in the perpetual umbra of a total solar eclipse. At the top, an open platform faces the sky, where Cirrus can often be heard chanting prayers to Selûne — chanting that audibly resembles yodeling and is objectively bad, often dissonant, off-key, and far too loud.
 
 ## Rivalry with Fëanon
 
@@ -85,6 +85,12 @@ What followed was a magical dogfight. Two great fleshy spheres tilted and drifte
 
 The transformation was the most decisive thing Cirrus had done in combat to that point — an assertion of theological identity (a moon-touched mortal *imitating* the perfect form) and pure tactical brilliance, fused into a single act. He shifted back into his own body when the fight was over and brushed nonexistent dust from his coat.
 
+## Borrowed Shapes and Planar Keys
+
+Cirrus treats transformation as experience. He has made a priest from stone, fought a Beholder by becoming one, and used True Polymorph to become a Djinni. [[Emir Suleiman al-Zahir]] rejected Cirrus's claim that the transformation meant he understood Djinn: a spell could reproduce a body, he argued, but not a life among the noble houses of Ossa. The rebuke exposes both Cirrus's gift and his blind spot. He crosses boundaries other people regard as fixed, but he can mistake access to a form for knowledge of the people who inhabit it.
+
+His collection of planar tuning forks follows the same impulse at a larger scale. An Astral crystal became a key, a market on [[Bytopia]] became an opportunity to trade for another, and Candlekeep's missing-book bargain produced both passage to [[Acheron]] and a separately negotiated fork for [[The Abyss|the Abyss]]. Cirrus is assembling freedom of movement one resonance at a time. For a former warlock whose first prison was a recurring dream he could not leave, mastery over where—and as what—he may exist is more than curiosity. It is the opposite of captivity.
+
 ## The Shadow
 
 On [[bytopia|Bytopia]], with [[jack-mayer-johnson-mathews|JmJm]] occupied at the market and a [[callarduran-stonehands|Deva]] waiting with mounting exasperation to send the pair home, Cirrus slipped to the quiet periphery of the gnomish settlement to pursue a private wound. He sought out an ancient, milk-eyed gnomish wise-woman and asked her how to remove his own shadow — to cut it away from himself entirely, and be a man who threw no darkness on the ground behind him.
@@ -100,3 +106,9 @@ A tiny white horse found Cirrus at the [[fane-of-selune|Fane]] one night, carryi
 ## The Knife
 
 In the Halls of the Past at [[gravenhollow|Gravenhollow]], Cirrus sought out the means to finish what the witch described — a way to cut the shadow free. The vision showed him a knapped obsidian knife, its handle wrapped in white linen and glowing softly, resting on a purple velvet pillow atop a marble altar. It sits in a monastery of [[selune|Selûne]] high in the Mountains of Amn — a quiet place of monks, nuns, and gentle reflection nestled among green slopes and snowy peaks. [[feanon-serinde|Fëanon]] separately recalled that the Edificent Library, long since destroyed, once stood in the same range.
+
+## Atlan's Challenge
+
+When Cirrus returned from Acheron, [[Topsy & Turvy|Topsy]] met him with news that the feet of the great statue inside the [[Fane of Selune]] had been buried in thousands of bloody teeth. The accompanying message came from [[Zulkhir Atlan Issan|Zulkhir Atlan]], who named himself one of the Tooth Fairy's last two servants and goaded Cirrus to return to the Bloodstone Lands. Atlan's earlier claim that Cirrus would be a sacrifice along his road to godhood gave the provocation a second edge, but the letter did not repeat it.
+
+Cirrus did not retreat from the old symbolism or order it destroyed. He told Topsy to pack the teeth and send them to his chambers, then announced that he would build through the night. What he intended to make is not yet known, and the account ends before the order is carried out. The decision is nevertheless characteristic: when confronted with the material language of his former enslavement, Cirrus's first instinct was to seize it and force it into a meaning of his own.

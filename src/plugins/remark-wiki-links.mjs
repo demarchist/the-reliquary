@@ -25,6 +25,17 @@ function loadLookup() {
 
 const WIKI_LINK_RE = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
 
+function normalizeLookupKey(value) {
+  return value
+    .normalize('NFKD')
+    .replace(/\p{M}+/gu, '')
+    .toLowerCase()
+    .replace(/[\u2018\u2019\u02BC]/g, "'")
+    .replace(/[\u2010-\u2015-]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 export default function remarkWikiLinks() {
   return (tree) => {
     const data = loadLookup();
@@ -50,7 +61,7 @@ export default function remarkWikiLinks() {
         }
 
         // Look up entity
-        const entry = data[entityName.toLowerCase()];
+        const entry = data[entityName.toLowerCase()] || data[normalizeLookupKey(entityName)];
         if (entry) {
           children.push({
             type: 'link',

@@ -61,11 +61,19 @@ From the remains of an Alhoon killed in the ruins beneath Baldur's Gate, he comm
 
 In the celestial vault beneath Neverwinter, he posed as a servant of Asmodeus with enough conviction to get a bearded devil executed on the spot, securing a key the group needed. In Al Askar, his attempt to conjure a Magnificent Mansion on an alien world triggered a catastrophic wild magic surge — a ten-minute lightning storm that filled the chamber — when the world's damaged wards smothered and discharged the spell. He recovered, analyzed the damage to the world's magical fabric, and proposed a solution to heal reality itself. The ambition was staggering. It was also, characteristically, correct.
 
+## The Archivist Abroad
+
+Fëanon's title of Archivist is not merely a private affectation. At [[Candlekeep]], [[Dean Rochester]] recognised him immediately as “Fëanon of the Lady's College” and addressed him instead of the far more insistent [[Jack Mayer Johnson Mathews|JmJm]]. In an audience that began with activated wards and an argument over a museum piece, Fëanon converted established academic standing into a continuing exchange of rare and extra-planar books.
+
+That exchange reveals the durable institution beneath his personal collection. Exile severed Fëanon from Evermeet, but it did not sever him from the scholarly world; the name of the former Lady's College scholar now carries weight in one of Faerûn's most guarded libraries, whether from old reputation, later achievements, or both. His instinct under pressure is therefore not simply to acquire knowledge but to create a channel through which knowledge will keep moving. The Reliquary is a vault, but Fëanon increasingly behaves like the node of a network.
+
 ## Tactical Brilliance
 
 Fëanon's combat contributions are defined by precision and control rather than raw power. He put four brawlers to sleep with a single spell during a festival scuffle. He stopped the Doppelganger Tarla's escape with a perfectly timed hold spell. He conjured lightning bolts against the Hydra beneath the Neverwinter docks and fireballs against the spider matriarch in the Chasm. During the cult attack at the Refounding Festival, he was the first to detect the incoming fireball — catching sight of the caster mid-incantation and warning the group.
 
 His magical work extends beyond combat. He crafted [[Tarkathee Daru|Tark]]'s enchanted blindfold alongside Penelope Harpell — transforming the monk's devastating injury into a tactical advantage. He theorized that the [[Tavern of Doors]] was not a pocket plane at all but a portal to somewhere else entirely. And he determined that the group's companions were trapped in the Shadowfell during their sleep — a discovery that required both magical expertise and the intuition to investigate in the first place.
+
+The expedition to [[Acheron]] compressed this method into a single campaign. Fëanon put most of a hostile feasting hall to sleep before its numbers could matter, turned a century-old borrower's Ioun stone into a scrying focus, and read the surrounding cube geometry well enough to place the wreck only a few faces away. When the [[Warform]] pursued the party to a change in local gravity, he did not try to overpower the many-bodied demon. He waited for the geometry to become a weapon, then used Wish to reproduce Reverse Gravity and cast it out into the void. The outcome was not a confirmed kill; the important point is that Fëanon solved a problem of overwhelming mass by identifying the one moment when mass became a liability.
 
 ## The Iron Tome
 

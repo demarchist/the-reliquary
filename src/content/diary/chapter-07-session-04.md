@@ -17,6 +17,7 @@ places:
   - "astral-plane"
   - "sanctum-of-krasus"
 things:
+  - "allips"
   - "gwen"
   - "tavern-of-doors"
 factions:

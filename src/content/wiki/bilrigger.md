@@ -2,13 +2,13 @@
 title: "Bilrigger"
 category: "People"
 aliases: ["Bilrigger the Savant"]
-firstAppearance: "chapter-08-session-17"
-description: "A Derro Warlock of Ceregorach encountered in the Whorlstone Caverns — philosopher, debater, and, ultimately, a magical duplicate whose arguments outlasted his existence."
+firstAppearance: "chapter-08-session-18"
+description: "A Derro Warlock of Ceregorach encountered through a philosophical simulacrum in the Whorlstone Caverns; his murdered original revealed another hand in the hunt."
 race: "Derro"
 class: "Warlock"
 affiliation: "warlocks-of-ceregorach"
 home: "whorlstone-caverns"
-status: "Alive"
+status: "Dead"
 ---
 
 Bilrigger the Savant was, by all appearances, one of the most senior Warlocks of [[warlocks-of-ceregorach|the Warlocks of Ceregorach]] — a figure of genuine intellectual weight who occupied opulent chambers in the [[whorlstone-caverns|Whorlstone Caverns]] beneath [[gracksuluth|Gracksuluth]] and commanded the loyalty of Droki, a fellow warlock who served as his messenger and guide.

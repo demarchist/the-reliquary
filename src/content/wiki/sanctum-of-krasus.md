@@ -24,4 +24,4 @@ The party's expedition yielded critical artifacts: the incomplete Mythallar (a N
 
 ## Inhabitants
 
-By the time of the party's exploration, the Sanctum's living occupants were long dead. The complex was haunted by shadows, the Allips Promethi and Tantalisia (spectral remnants of the original inhabitants), and a Berbalang named Mervklo who had crossed from the Astral Plane to study a Netherese tome. A Beholder was trapped within a magic circle, and a Gauth roamed freely in a separate chamber.
+By the time of the party's exploration, the Sanctum's living occupants were long dead. The complex was haunted by shadows and the [[Allips]] Promethi and Tantalisia, whose names and Netherese medallions suggest—but do not prove—that they were remnants of the original inhabitants. A Berbalang named Mervklo had crossed from the Astral Plane to study a Netherese tome. A Beholder was trapped within a magic circle, and a Gauth roamed freely in a separate chamber.

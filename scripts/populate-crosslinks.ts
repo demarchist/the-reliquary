@@ -6,7 +6,7 @@
  * arrays (people, places, things, factions, events) and generates
  * src/data/wiki-lookup.json for the remark plugin.
  *
- * Usage: npx tsx scripts/populate-crosslinks.ts
+ * Usage: npx tsx scripts/populate-crosslinks.ts [--lookup-only]
  */
 
 import * as fs from 'fs';
@@ -102,6 +102,51 @@ function serializeFrontmatter(fm: Record<string, any>): string {
   return lines.join('\n');
 }
 
+function normalizeLookupKey(value: string): string {
+  return value
+    .normalize('NFKD')
+    .replace(/\p{M}+/gu, '')
+    .toLowerCase()
+    .replace(/[\u2018\u2019\u02BC]/g, "'")
+    .replace(/[\u2010-\u2015-]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function writeWikiLookup(entries: WikiEntry[]): void {
+  const lookupData: Record<string, { slug: string; title: string; category: string }> = {};
+
+  const valueFor = (entry: WikiEntry) => ({
+    slug: entry.slug,
+    title: entry.title,
+    category: entry.category,
+  });
+
+  const register = (name: string, entry: WikiEntry) => {
+    lookupData[name.toLowerCase()] = valueFor(entry);
+    lookupData[normalizeLookupKey(name)] = valueFor(entry);
+  };
+
+  // Preserve the historical title/alias ordering to keep the generated diff readable.
+  for (const entry of entries) {
+    register(entry.title, entry);
+    for (const alias of entry.aliases) {
+      register(alias, entry);
+    }
+  }
+
+  // Aliases are useful but ambiguous; canonical titles and file slugs take precedence.
+  for (const entry of entries) {
+    register(entry.title, entry);
+  }
+  for (const entry of entries) {
+    register(entry.slug, entry);
+  }
+
+  fs.writeFileSync(LOOKUP_OUT, JSON.stringify(lookupData, null, 2), 'utf-8');
+  console.log(`Wrote wiki lookup to ${LOOKUP_OUT} (${Object.keys(lookupData).length} entries)`);
+}
+
 // ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
@@ -123,6 +168,11 @@ for (const file of wikiFiles) {
 }
 
 console.log(`Loaded ${wikiEntries.length} wiki entries`);
+
+if (process.argv.includes('--lookup-only')) {
+  writeWikiLookup(wikiEntries);
+  process.exit(0);
+}
 
 // Build name → slug lookup (title and aliases)
 // Also build category map for slug → category
@@ -258,24 +308,4 @@ for (const file of diaryFiles) {
 console.log(`Updated ${updatedCount} diary entries with cross-links`);
 
 // 3. Generate wiki-lookup.json
-const lookupData: Record<string, { slug: string; title: string; category: string }> = {};
-
-for (const entry of wikiEntries) {
-  // Map title
-  lookupData[entry.title.toLowerCase()] = {
-    slug: entry.slug,
-    title: entry.title,
-    category: entry.category,
-  };
-  // Map aliases
-  for (const alias of entry.aliases) {
-    lookupData[alias.toLowerCase()] = {
-      slug: entry.slug,
-      title: entry.title,
-      category: entry.category,
-    };
-  }
-}
-
-fs.writeFileSync(LOOKUP_OUT, JSON.stringify(lookupData, null, 2), 'utf-8');
-console.log(`Wrote wiki lookup to ${LOOKUP_OUT} (${Object.keys(lookupData).length} entries)`);
+writeWikiLookup(wikiEntries);

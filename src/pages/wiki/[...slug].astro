@@ -87,10 +87,10 @@ if (entry.data.firstAppearance) {
               </span>
             )}
           </div>
-          <h1 class="font-serif text-3xl font-bold text-ink-900" data-pagefind-meta="title">{entry.data.title}</h1>
+          <h1 class="font-serif text-3xl font-bold text-ink-900" data-pagefind-meta={`title, slug:${entry.id}`}>{entry.data.title}</h1>
           {entry.data.aliases && entry.data.aliases.length > 0 && (
             <p class="mt-1 text-sm text-ink-400">
-              Also known as: {entry.data.aliases.join(', ')}
+              Also known as: <span data-pagefind-meta="aliases">{entry.data.aliases.join(', ')}</span>
             </p>
           )}
           {entry.data.description && (

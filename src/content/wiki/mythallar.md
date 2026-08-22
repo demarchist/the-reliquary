@@ -10,7 +10,7 @@ The Mythallar is an ancient Netherese device discovered in the Sanctum of Krasus
 
 ## Discovery
 
-[[gundren-rockseeker|Gundren]] found the device atop a ruined desk in a desolate arcane laboratory, its once-magnificent equipment corroded by time. When he picked it up, an ethereal scream echoed through the chamber and the Allip Tantalisia phased through the wall, her insane babbling reaching into the minds of Gundren and [[tarkathee-daru|Tark]], briefly turning them against [[feanon-serinde|Fëanon]].
+[[gundren-rockseeker|Gundren]] found the device atop a ruined desk in a desolate arcane laboratory, its once-magnificent equipment corroded by time. When he picked it up, an ethereal scream echoed through the chamber and the [[Allips|Allip]] Tantalisia phased through the wall, her insane babbling reaching into the minds of Gundren and [[tarkathee-daru|Tark]], briefly turning them against [[feanon-serinde|Fëanon]].
 
 After the battle, Megno Slatesunder identified the device from a diagram in a book as a "Mythallar." Neither Megno nor Fëanon had heard the term, but [[cirrus-al-kayan|Cirrus]] had — from childhood stories told by his tiefling foster mother in [[amn|Amn]], tales of the ancient empire of Netheril and how they floated their great cities among the clouds using these arcane devices.
 
