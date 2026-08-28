@@ -113,6 +113,10 @@ The hunt Tark had carried since the Underdark closed on him in the dark of [[fro
 
 Some nights later, Tark dreamed himself into the lap of [[queen-concetinna-frostmantle|Queen Concetinna]] of Helios — charming, playful, and singing him a nursery rhyme about a queen-mother waiting for her son as her canines showed delicately pointed behind the smile. She denied being a vampire, and oddly, he believed her. She told him she had felt him when he died, and that she waits for him — as does [[gaddock|Gaddock]]. He woke at the pre-dawn horizon with his resolve steeled: it's time to go back and hunt down his old master.
 
+## The Second Bite
+
+A later dream put Tark beside Strahd von Zarovich in the ruin of Castle Ravenloft — the castle somehow perched in the middle of the Anauroch desert, the two of them sitting to watch the sunrise as Tark remembered doing once before. This time a woman's sobbing echoed through the wreckage, and Tark recognised the dreamscape for what it was. Strahd turned on him: blaming him, accusing the group of leading everyone to their deaths, muttering about having been promised freedom, promised to *something*. The sobbing rose, Strahd's agitation with it, and the Vampire Lord lunged and sank his teeth into Tark's neck. Tark woke drenched and exhausted, a red and swollen bite on his throat, and got no rest that night — the second time in a season that a vampire has fed on him in his sleep and left a real wound behind.
+
 ## Tark's Treehouse
 
 Tark lives alone in an elaborate treehouse deep in the forests of [[Thunder Bluff]]. The structure is built around an enormous ancient oak at the center of a clearing — half-up the massive trunk, an elaborate network of rope bridges, platforms, and rooms woven together in a chaotic jumble. The treehouse appears to defy gravity, dangling precariously from the upper branches; what appears haphazard from the outside is, on closer inspection, a haphazard assemblage of wooden platforms, rope bridges, and what appear to be repurposed boat hulls, all lashed together with practiced resourcefulness.

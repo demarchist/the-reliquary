@@ -42,3 +42,7 @@ The group recovered Cornubel's desiccated remains from beside the core for a pro
 ## The Rockseeker Manufactory
 
 Gundren built the Rockseeker Manufactory within the walls of the Keep of Thunder Bluff — a massive, sprawling complex of forges, foundries, and workshops where his extended family, renowned for their expertise in metalworking, produce some of the finest weapons and armor in Faerûn. Day-to-day operations are now run by his brothers Barthen and Nundro, with Smith Slagbelcher serving as foreman. The Manufactory is a major employer in the region.
+
+## The Mechanus Gate
+
+The Modrons working in the Keep courtyard have begun assembling what Gundren takes to be a planar portal to Mechanus. He and his fellow Artificers are deeply uneasy about it on security grounds — a permanent doorway to another plane, built by constructs, inside their own walls — and Gundren has started drafting designs to seize control of the gate construct itself rather than trust it. He also asked to be told the date of the gnome [[cornubel|Cornubel]]'s burial: honour demands he attend. Meanwhile an expedition is being assembled to excavate the [[the-derelict|Modron spelljammer]] under the ice of the [[river-surbrin|Surbrin]], and the salvaged [[lunar-elf-spelljammer|Lunar Elf wreck]] recovered from [[acheron|Acheron]] is being catalogued at the Manufactory.

@@ -15,3 +15,7 @@ The Instruments of the Bards are a legendary set of seven instruments, each said
 ## The Quest
 
 JmJm resolved on the spot to be the one who finally assembles the full set. At the banquet, a Thespian standing in for [[feanon-serinde|Fëanon]] scried for the next instrument on his behalf and found a Mandolin, displayed in a glass case in a hall of artifacts identified as Candlekeep — one of the most famous universities in the world, and the group's first lead. JmJm dispatched groups of his Thespians across the region to chase down further leads, including one bound for the Underdark, to [[aliyah-faen-tlabbar|Patches]]' considerable alarm.
+
+## The Mandolin
+
+The Mandolin sat on a plinth in [[candlekeep|Candlekeep]]'s [[elminster|Elminster Annex]], and the college would not simply hand it over — it had been donated on the condition that only a worthy bardic hero could take it. [[dean-rochester|Dean Rochester]] set the test: recover a book missing for a century from the plane of [[acheron|Acheron]]. The group crossed Acheron as a Goblinoid war-horde, cleared the [[lunar-elf-spelljammer|wreck]] where the book had ended up, destroyed the Allip guarding it, and traded the book and a planar fork back to Candlekeep for the instrument. JmJm now holds two of the seven — the Lyre and the Mandolin — along with a note from the Dean addressed only to "The Bard."

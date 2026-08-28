@@ -32,3 +32,7 @@ The dream sharpens rather than resolves the question of what the Queen is. It al
 ## The Wake
 
 Days after the dream, [[cirrus-al-kayan|Cirrus]] received a letter — carried by a small talking white horse — inviting him and his retainers to Lord Muskov's Wake and Burial at Helioglabulus, extended personally by the Queen. Between the Thayans, the Amnian weapons shipments, and the vampiric nature of the city's recent murders, the group is certain the invitation is a trap. They intend to walk into it anyway, once their preparations are finished.
+
+## Malcanthet
+
+The question of what the Queen *is* was answered — at least to [[cirrus-al-kayan|Cirrus]]'s satisfaction — in the back rooms of the [[rising-sun|Rising Sun]], as the group prepared to descend into the city's undercity. [[jack-mayer-johnson-mathews|JmJm]] tried to Wish the marring fingerprint out of the [[ashbringer|Crystal Sunsword]], and something answered from *inside the blade*: a pallid, glowing-eyed reflection reached out of the crystal and touched the fingerprint at the same instant the bard did, threw JmJm ten feet across the room in a reek of sulphur, and resolved into the Queen's own porcelain face. A reflection wearing Concetinna's features had the power to reject a Wish. Cirrus named it: **[[malcanthet|Malcanthet]]**, the Demon Queen of the Succubi and Mother of Vampires. Queen Concetinna of the Bloodstone Lands may no longer be human, or even flesh and blood.

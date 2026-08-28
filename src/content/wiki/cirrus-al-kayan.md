@@ -85,6 +85,12 @@ What followed was a magical dogfight. Two great fleshy spheres tilted and drifte
 
 The transformation was the most decisive thing Cirrus had done in combat to that point — an assertion of theological identity (a moon-touched mortal *imitating* the perfect form) and pure tactical brilliance, fused into a single act. He shifted back into his own body when the fight was over and brushed nonexistent dust from his coat.
 
+## The Towers of Twilight
+
+On the way to [[dokkar|Dokkar]] to help with Gundren's search for Wyvern-bone expertise, Cirrus asked to come along for his own reasons — his body had begun deteriorating, and he had been told to seek the **Towers of Twilight**. What told him, and what exactly he'd been told, he didn't share with the group.
+
+At the [[cathedral-of-twilight|Cathedral of Twilight]] — the great onyx cathedral at [[the-crossroads|the Crossroads]] of Svartalfheim, Nidavellir, the Shadowfell, and the Astral Sea, tended by paired Clerics of [[selune|Selûne]] and [[shar|Shar]] — a pair of clerics pulled Cirrus aside the moment the group arrived, addressing him as a **Child of Twilight**. He walked off with them, wanting privacy. Moments later, a radiant Celestial appeared and spoke with him alone — her shadow, oddly, read as dark and intense despite her radiance. Cirrus felt a presence in the darkness he found unsettlingly familiar, and shivered. He has not explained what was said, and no one has asked him to.
+
 ## The Shadow
 
 On [[bytopia|Bytopia]], with [[jack-mayer-johnson-mathews|JmJm]] occupied at the market and a [[callarduran-stonehands|Deva]] waiting with mounting exasperation to send the pair home, Cirrus slipped to the quiet periphery of the gnomish settlement to pursue a private wound. He sought out an ancient, milk-eyed gnomish wise-woman and asked her how to remove his own shadow — to cut it away from himself entirely, and be a man who threw no darkness on the ground behind him.
@@ -100,3 +106,9 @@ A tiny white horse found Cirrus at the [[fane-of-selune|Fane]] one night, carryi
 ## The Knife
 
 In the Halls of the Past at [[gravenhollow|Gravenhollow]], Cirrus sought out the means to finish what the witch described — a way to cut the shadow free. The vision showed him a knapped obsidian knife, its handle wrapped in white linen and glowing softly, resting on a purple velvet pillow atop a marble altar. It sits in a monastery of [[selune|Selûne]] high in the Mountains of Amn — a quiet place of monks, nuns, and gentle reflection nestled among green slopes and snowy peaks. [[feanon-serinde|Fëanon]] separately recalled that the Edificent Library, long since destroyed, once stood in the same range.
+
+## The Tooth Golem
+
+When [[warlocks-of-ceregorach|Zulkhir Atlan Issan]] left thousands of bloody teeth heaped at the foot of the Fane's statue with a note daring Cirrus back to the Bloodstone Lands, Cirrus answered by *building*. He had [[topsy-and-turvy|Topsy]] summon his top cleric, [[temura|Temura]], and — over the high elf's open distaste — had him fabricate the teeth into a fair likeness of a *demonic* Cirrus: an effigy of the man he might have become had he stayed with the Marilith and [[ceregorach|Ceregorach]]. Cirrus then True Polymorphed the tooth-statue into the equivalent of an iron golem, a bodyguard wearing the face of his own worst self.
+
+Temura left questioning Cirrus's intentions, wondering aloud whether the Church of [[selune|Selûne]] in Silverymoon ought to hear of it. Cirrus was incensed; [[topsy-and-turvy|Topsy and Turvy]] admitted they had come to suspect the cleric of being a spy for the "real" church. Furious, Cirrus slapped Topsy and sent him from the chamber in shame. Temura is now watched.
