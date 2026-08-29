@@ -129,6 +129,7 @@ factions:
 - As he touches it, they all see movement within the blade: a pallid creature with glowing yellow eyes reaches out from inside the crystal and touches the fingerprint at the same instant the bard does — a reflection within the sword
 - A flash of light, the smell of sulphur, and JmJm is thrown ten feet across the room into a plush chair, eyes wide
 - [[cirrus-al-kayan|Cirrus]] locks eyes with the reflection as it shifts into the porcelain beauty of [[queen-concetinna-frostmantle|Queen Concetinna]] within the blade
-- The thing had the power to reject the cleansing Wish, and Cirrus understands what they face
-- Queen Concetinna of the Bloodstone Lands may no longer be human, or even flesh and blood
-- Cirrus knows this is **[[malcanthet|Malcanthet]]** — the Succubus Demon Lord, Mother of Vampires
+- The thing had the power to reject the cleansing Wish — and Cirrus, of all of them, has the background to know what carries that kind of power
+- He reaches back through everything the Laughing God's service and a working priesthood ever taught him about the courts of the Abyss, and the recognition lands cold and total: the face, the tether, the appetite for vampires all belong to one name
+- Queen Concetinna of the Bloodstone Lands is no longer human, or even flesh and blood
+- Cirrus names her without a flicker of doubt — **[[malcanthet|Malcanthet]]**, the Demon Queen of the Succubi, Mother of Vampires
