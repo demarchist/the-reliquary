@@ -61,6 +61,12 @@ Buumi's room now sits within the [[Cathedral of Helm]]. Patches, having watched 
 
 His friendship with Tark is perhaps his most uncomplicated bond — the two share a comfortable rapport built on shared combat, mutual respect, and the kind of physical humor that involves accidentally knocking each other to the ground. He and [[Gundren Rockseeker]] are drinking companions who celebrate returns by going out partying together.
 
+## The Vision Confirmed
+
+Descending through [[the-undercroft|the Undercroft]] beneath [[helioglabulus|Helios]], the group found a cursed, corpse-eating beastman feeding in an alcove — once a man, taken and twisted into something else. Buumi shook his head. Maybe they could have saved him.
+
+Deeper in, when [[aliyah-faen-tlabbar|Patches]] described two small, blobby, blue infant Oni gnawing at corpses in a Thayan tomb chamber, Buumi went quiet — the same small blue shapes he had once seen swarming a vault of black coffins in his [[gravenhollow|Gravenhollow]] vision. Wherever those coffins are, they can't be far from here.
+
 ## Secret
 
 In his youth, Buumi was fascinated by stories of dragon knights and their powerful mounts. As he grew older, he realized his attraction to dragons was more than mere fascination. These feelings were not widely accepted, so he has tried to suppress them, though they continue to haunt him and he struggles with feelings of shame and isolation.

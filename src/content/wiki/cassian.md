@@ -34,6 +34,10 @@ His senses proved equally extraordinary. On watch past midnight, he detected two
 
 He mentioned it once, over the campfire on the first night: beyond the visions, beyond the dark purpose that had brought him here, he was traveling the planes in search of his missing parents. He did not elaborate, and no one pressed.
 
+## The Beastman in the Sewers
+
+Descending through [[the-undercroft|the sewers]] beneath [[helioglabulus|Helios]] on [[mister-luko|Mister Luko]]'s map, Cassian was first to react when the group came upon a cursed, corpse-eating beastman crouched over a fresh kill — porcine features, tusked and bristled, a human being twisted into something else entirely. He put it down before it could look up.
+
 ## In the Lair of the Elder Orb
 
 Cassian's instincts as a planar traveler — the part of him that read situations and people with the speed of a man who had walked into too many rooms in too many worlds — broke the parley with the [[elder-orb|Elder Orb's]] Gauth escort. As the group descended through the buried Netherese crystal city, riding in formation behind the lead Gauth, Cassian leaned toward the smaller of the two beholderkin and said something insulting under his breath. The exact words did not survive the moment. The reaction did. The smaller Gauth fired an eyebeam at him, missed, and the group cut it apart in three seconds while its sibling watched in horror at the breach of the *master's* protocol but made no move to assist.
