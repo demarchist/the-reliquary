@@ -24,3 +24,7 @@ Li Xian's murders drove the most personal conflict in the campaign. Tark dreamed
 ## The Flint Dagger
 
 Li Xian's [[flint-dagger-of-li-xian|flint dagger]] — the weapon used to murder Tark's parents — was recovered from the Oni's corpse after the group killed him in the Underdark. The blade was identified as an Anathame, a dark weapon of necromantic ritual tethered to [[zhengyi|Zhengyi]]'s power. It pulsed with a faint heartbeat and pulled Tark toward the [[bloodstone-lands|Bloodstone Lands]] for weeks. On a Damaran farmstead outside [[helioglabulus|Helios]], Tark channeled his Ki and [[vaketh|Vaketh]]'s celestial power through his prosthetic arm and obliterated the cursed blade in an explosion of scarlet light.
+
+## Kishin Doji's Son
+
+Years after Li Xian's death, his younger brother [[nobutada|Nobutada]] confirmed the family the group had never known to ask about: Li Xian and [[neero|Neero]] — the shapeshifting Oni who kidnapped a baby outside Silverymoon and died screaming in a Fireball-lit blizzard — were both sons of [[kishin-doji|Kishin Doji]], an Oni Queen with a hidden domain beneath [[helioglabulus|Helios]]. Whatever debt or duty bound Li Xian to [[zhengyi|Zhengyi]]'s service, it ran alongside a family loyalty the party is only now learning existed.

@@ -114,3 +114,11 @@ His closest bond within the group is with Patches — they climbed a tree togeth
 His relationship with [[Jack Mayer Johnson Mathews|JmJm]] defies easy categorisation. The two have almost nothing in common — an empiricist High Elf and a chaotic half-planar bard — and yet they co-host *Widow Wednesdays*, alternating between the [[magnificent-mansion|Magnificent Mansion]] and the [[tavern-of-doors|Tavern of Doors]], an evening gathering whose name and activities carry overtones that Fëanon has never deigned to explain and JmJm has never been asked to justify. It is one of the longest-running social institutions in the Barony, predating the tower's completion, and it is the single context in which Fëanon's carefully maintained composure most reliably lapses.
 
 [[Theodemir]] — currently inhabiting a clone body, managing the tower in Fëanon's absence and wearing his student's face — remains his most intimate counsel, the voice of a dead mentor replacing the whispers of an alien mind. The old archwizard has begun to speak of wanting his own form restored. Whether that is possible, and what it would cost, are questions Fëanon has not yet been willing to answer.
+
+## The Banshee Skull
+
+In the ruined Thayan tomb chamber within [[the-undercroft|the Undercroft]], Fëanon picked up a cursed Banshee skull from the Necromancer's worktable — rigged with a needle, evidently used to stitch together the flesh of the tomb's Greater Thayan Golems — and was possessed by the ghost bound inside it. He carried on for a minute or so before the rest of the group noticed his odd behaviour and cleansed him, the Banshee wrenched back into the skull, which he promptly pocketed rather than leave behind.
+
+## An Old Lesson, Applied
+
+When the same tomb's sarcophagus turned up two glowing potions and a set of cursed Canopic Jars, Fëanon remembered exactly where that road led: the Mummy Lord that once escaped his own bag of holding in the Duergar city of Gracksuluth, reconstituting inside it and butchering its way loose. He scooped the jars in with a Mage Hand instead of touching them, and resolved to deal with whatever might be growing inside his bag before it could build itself a new body.
