@@ -128,3 +128,11 @@ His relationship with [[Jack Mayer Johnson Mathews|JmJm]] defies easy categorisa
 The assault on Helios demonstrated the practical difference between Fëanon's scholarship and magical power alone. His Teleport placed the first group precisely inside the [[Rising Sun]] kitchens; [[Megno Slatesunder|Megno's]] parallel casting landed more than a hundred miles away in Mulmaster. Once the battle opened, Fëanon identified the stitched giants as [[Thayan Flesh Golems|Thayan necromantic constructs]], sealed approaching reinforcements behind a corridor of ice, and used *Disintegrate* on a warlock whose broken body had begun to stand again.
 
 Below the city, he read the abduction route from torn nails, blood, and discarded clothing before anyone saw the collectors themselves. The pattern is characteristic of his best work: observation establishes the system, and spellcraft intervenes at the structural point. He does not merely know more magic than most people in the room. He is usually the first to understand what kind of room they are in.
+
+## The Banshee Skull
+
+In the ruined Thayan tomb chamber within [[The Catacombs of Helioglabulus|the catacombs]], Fëanon picked up a cursed Banshee skull from the Necromancer's worktable. A needle beside it suggested that the bound ghost had been part of the apparatus used to stitch the [[Thayan Flesh Golems|flesh golems]] together. The skull possessed Fëanon for roughly a minute before the group noticed the change in him and forced the Banshee back inside. Fëanon then pocketed it rather than leave a dangerous and potentially useful artifact behind.
+
+## An Old Lesson, Applied
+
+When the same tomb's sarcophagus turned up two glowing potions and a set of cursed Canopic Jars, Fëanon remembered exactly where that road led: the Mummy Lord that once escaped his own bag of holding in the Duergar city of Gracksuluth, reconstituting inside it and butchering its way loose. He scooped the jars in with a Mage Hand instead of touching them, and resolved to deal with whatever might be growing inside his bag before it could build itself a new body.

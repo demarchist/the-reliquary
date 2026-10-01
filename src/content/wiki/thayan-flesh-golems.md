@@ -16,6 +16,8 @@ The golems operate as both siege engines and collectors. Two smashed upward thro
 
 The pattern suggests that the attacks across Helios serve an industrial purpose. These constructs do not merely kill resistance; they gather bodies for whatever the Thayan necromancers are building below the castle.
 
+The workshop supplied the missing end of that process. Five iron frames had held greater versions of the constructs, and a needle beside a cursed Banshee skull apparently formed part of the apparatus used to stitch their flesh. Thay was not importing a few specialist weapons into Helios. It had established a production site beneath the city, close to both a supply of abducted bodies and [[The Court of Kishin Doji|an Oni court]].
+
 ## Defences and Failure
 
 Ordinary thieves' blades penetrated the flesh but caused no meaningful harm. Enchanted weapons could dismantle them. Direct lightning was ineffective against at least one, its core dispersing the energy harmlessly.

@@ -2879,6 +2879,16 @@
     "title": "Kirangelos",
     "category": "People"
   },
+  "kishin doji": {
+    "slug": "kishin-doji",
+    "title": "Kishin Doji",
+    "category": "People"
+  },
+  "the oni queen": {
+    "slug": "kishin-doji",
+    "title": "Kishin Doji",
+    "category": "People"
+  },
   "klarg": {
     "slug": "klarg",
     "title": "Klarg",
@@ -3674,6 +3684,11 @@
     "title": "Natasha Huron",
     "category": "People"
   },
+  "neero": {
+    "slug": "neero",
+    "title": "Neero",
+    "category": "People"
+  },
   "the netherese": {
     "slug": "netherese",
     "title": "The Netherese",
@@ -3703,6 +3718,11 @@
     "slug": "nidavellir",
     "title": "Nidavellir",
     "category": "Places"
+  },
+  "nobutada": {
+    "slug": "nobutada",
+    "title": "Nobutada",
+    "category": "People"
   },
   "nostalgia for infinity": {
     "slug": "nostalgia-for-infinity",
@@ -4903,6 +4923,21 @@
     "slug": "the-circle",
     "title": "The Circle",
     "category": "Factions"
+  },
+  "the court of kishin doji": {
+    "slug": "the-court-of-kishin-doji",
+    "title": "The Court of Kishin Doji",
+    "category": "Places"
+  },
+  "the wa establishment": {
+    "slug": "the-court-of-kishin-doji",
+    "title": "The Court of Kishin Doji",
+    "category": "Places"
+  },
+  "kishin doji's domain": {
+    "slug": "the-court-of-kishin-doji",
+    "title": "The Court of Kishin Doji",
+    "category": "Places"
   },
   "the crossroads": {
     "slug": "the-crossroads",
@@ -6654,6 +6689,11 @@
     "title": "Keepers of the Feather",
     "category": "Factions"
   },
+  "kishin-doji": {
+    "slug": "kishin-doji",
+    "title": "Kishin Doji",
+    "category": "People"
+  },
   "knights-in-silver": {
     "slug": "knights-in-silver",
     "title": "Knights in Silver",
@@ -7258,6 +7298,11 @@
     "slug": "the-circle",
     "title": "The Circle",
     "category": "Factions"
+  },
+  "the-court-of-kishin-doji": {
+    "slug": "the-court-of-kishin-doji",
+    "title": "The Court of Kishin Doji",
+    "category": "Places"
   },
   "the-crossroads": {
     "slug": "the-crossroads",
