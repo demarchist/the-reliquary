@@ -3,7 +3,7 @@ title: "Red Wizards of Thay"
 category: "Factions"
 aliases: ["Thayan Mages", "Thayans"]
 firstAppearance: "chapter-06-session-13"
-description: "An ancient order of arcane practitioners who supply weapons and assassins, a persistent threat across Faerûn."
+description: "An ancient arcane order whose Bloodstone campaign joins diplomacy, dragons, vampires, engineered flesh golems, deathless warlocks, and an industrial necromancy complex beneath Helioglabulus."
 ---
 
 The Red Wizards of Thay are an ancient and powerful order of arcane practitioners from the eastern land of Thay. They supply weapons, assassins, and magical resources to various factions, making them a persistent and dangerous threat across Faerûn.
@@ -37,3 +37,13 @@ When [[cirrus-al-kayan|Cirrus]] dropped one of the floating Wizards into a [[bag
 The unseen commander at the Aimu Estate was [[Zulkhir Atlan Issan]], one of the rulers of Thay's magocracy as well as one of [[The Warlocks of Ceregorach|Ceregorach's last warlocks]]. He opened a Gate to the Abyss for a Balor, attacked under Greater Invisibility, and escaped by Teleport after the party destroyed his force. [[Cirrus Al Kayan|Cirrus]] recovered drops of tar-black blood from where he had stood, evidence that whatever power Atlan has pursued has changed him beyond ordinary humanity.
 
 A delivery of thousands of bloody teeth arrived at the [[Fane of Selune]] with Atlan's letter challenging Cirrus to return to the Bloodstone Lands. The move binds two explanations for the Thayan campaign together rather than choosing between them. Thay has strategic interests in the Sunsword, Saurian weapons, and the politics of Damara; its ruling Zulkhir also has a personal religious war with Cirrus. State policy and private patronage are operating through the same archmage.
+
+## The Harvest beneath Helios
+
+The Thayan operation in [[helioglabulus|Helios]] is built to sustain itself. Nine-foot [[Thayan Flesh Golems|flesh golems]] collect citizens and batter through resistance. Armoured warlocks fight with green-flamed blades, Eldritch Blasts, and Armour of Agathys; when killed, their bodies snap back into working order unless destroyed completely or fed into the [[Bag of Devouring]]. Hundreds of zombies screen the older tunnels beneath the castle.
+
+At the centre of one branch of [[The Catacombs of Helioglabulus|the catacombs]], a Red Wizard operated an elaborate workshop inside a tomb. A bleeding prisoner fed a floating black book that controlled the surrounding horde. Five iron frames or cages and extensive apparatus stood near a sarcophagus, while infant [[Oni]] fed on corpses and a Mummy Lord waited inside the tomb.
+
+These are not disconnected monsters. Golems transport bodies from the streets; undead troops secure the routes; the book coordinates them; and the workshop processes whatever arrives. Combined with the delegation's court access and the nobles' withdrawal, the Red Wizards appear to be operating civic infrastructure of their own beneath the capital.
+
+The political and occult objectives may also converge in the Sunsword. After the Queen handled it for the delegation, a presence [[Cirrus Al Kayan|Cirrus]] identified as [[Malcathet]] could answer through its fingerprint and reject a Wish. Whether the Wizards installed that connection, studied it, strengthened it, or merely recognised it remains unknown.

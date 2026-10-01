@@ -31,3 +31,7 @@ The party opened a Gate from the wreck to [[Thunder Bluff]]. Their goblinoid war
 The sudden appearance of Goblins and ship debris drew the Barony guard. [[Bohd]] arrived by wyvern, understood enough of the situation to organise the response, and had the wreckage dragged clear while the Gate remained open. Most of the vessel was recovered, though in many pieces.
 
 The Acheron Spelljammer is therefore not a ship awaiting repair. It is an archaeological and cultural puzzle in the Barony—one JmJm considered worth bringing home before anyone knew what, if anything, it could become.
+
+The recovered pieces were transferred to the [[Rockseeker Manufactory]] and entered into catalogue while the Rockseekers prepared a separate expedition to [[The Derelict|the Modron vessel]] beneath the River Surbrin. Keeping the two projects distinct is essential: the Acheron wreck may be Lunar-Elven and appears to have been stripped of functioning systems, while the river wreck is confirmed Modron technology with a lethal history of mental contact.
+
+The catalogue is the first step toward testing JmJm's attribution. Materials, surviving ornament, joinery, and any overlooked marks can now be compared rather than judged from a haunted battlefield. Until that work produces evidence, “Lunar” remains an informed guess attached to a very real pile of salvage.

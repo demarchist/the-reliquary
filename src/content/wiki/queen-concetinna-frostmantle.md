@@ -3,7 +3,7 @@ title: "Queen Concetinna Frostmantle"
 category: "People"
 aliases: ["Queen Concetinna", "Concetinna of Vaasa", "Concentina"]
 firstAppearance: "chapter-15-session-10"
-description: "Queen of Vaasa, co-ruler of the joint kingdom from Helioglabulus — visited the Cathedral of Lathander at the Red Wizards' request and handled the Ashbringer in a way that prompted Lord Aimu to steal it."
+description: "Reclusive Queen of Vaasa and co-ruler from Helioglabulus, now linked to the demon lord Malcathet by a reflection inside the corrupted Ashbringer."
 race: "Human"
 status: "Alive"
 home: "helioglabulus"
@@ -32,3 +32,13 @@ The dream sharpens rather than resolves the question of what the Queen is. It al
 ## The Wake
 
 Days after the dream, [[cirrus-al-kayan|Cirrus]] received a letter — carried by a small talking white horse — inviting him and his retainers to Lord Muskov's Wake and Burial at Helioglabulus, extended personally by the Queen. Between the Thayans, the Amnian weapons shipments, and the vampiric nature of the city's recent murders, the group is certain the invitation is a trap. They intend to walk into it anyway, once their preparations are finished.
+
+## The Face in the Blade
+
+The mark the Queen left—or activated—on the [[ashbringer|Sunsword]] proved stronger than surface damage. When [[Jack Mayer Johnson Mathews|JmJm]] touched its delicate fingerprint and Wished the crystal unmarred, a pallid figure with yellow eyes reached through the blade to meet his finger from inside. The Wish failed, sulphur filled the room, and the figure assumed Concetinna's porcelain beauty.
+
+[[Cirrus Al Kayan|Cirrus]] identified the presence as [[Malcathet]], the Succubus Demon Lord and Mother of Vampires.
+
+This is the strongest evidence yet that Concetinna's sequestration, her dream visitation, her interest in Tark's death, and the Thayan audience with the Sunsword belong to one design. It does not settle whether the Queen is Malcathet, is possessed by her, serves as her vessel, or is simply a face the demon chose to display. The uncertainty matters: striking at the Queen could mean confronting the architect of the conspiracy, harming its captive, or attacking a politically indispensable ruler while the true enemy watches elsewhere.
+
+Meanwhile, disappearances accelerated across Helios and nobles withdrew behind [[Crimson Dawn Knights|Crimson Dawn]] escorts. The court's physical seclusion now protects more than a suspicious monarch; it also keeps the city's political class out of sight while bodies are carried into [[The Catacombs of Helioglabulus|the catacombs]] below the castle.

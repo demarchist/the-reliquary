@@ -46,4 +46,12 @@ The Fane's main hall became the site of [[Zulkhir Atlan Issan]]'s most intimate 
 
 The arrangement inverted the meaning of the hall. The statue celebrates Cirrus's new identity as Selûne's chosen servant; teeth were the nightly tribute demanded during his bondage to [[Mediocris Dente]]. Atlan placed the symbol of the old pact at the base of the new faith and self-image.
 
-Cirrus ordered Topsy to pack the teeth and send them to his private chambers, then said he would build through the night. The account ends before the order is carried out, and what he intended to make is unknown. The command nevertheless shows his intended response: remove the threat from the public sanctuary and take its material into a space where he—not his former patron—would determine its use.
+Cirrus ordered Topsy to pack the teeth and send them to his private chambers. There he had [[Temura]] *Fabricate* them into a demonic likeness of himself—the shape he believed he might have worn had he remained with the Marilith and [[Ceregorach]]—then transformed the effigy into an Iron-Golem-like servant.
+
+The act completed the intended reversal: the old tribute became a body under Cirrus's command. It also moved the Fane's unease from symbolism into governance. The material of unknown victims now serves as a weapon in the temple's highest sanctum.
+
+## The Institutional Fault Line
+
+Temura was sent from the established [[Church of Selûne]] in [[silverymoon|Silverymoon]] to connect the Fane to the wider faith. He openly questioned the tooth construction and considered reporting it. [[Topsy & Turvy]] in turn questioned his loyalty and wondered whether he served the “real” church rather than Cirrus.
+
+Cirrus responded by striking Topsy and ordering Temura watched. The Fane is therefore no longer merely unconventional. It contains an unresolved contest over whether it is a temple within Selûne's church, a personal cult whose founder answers only to his own revelation, or an institution attempting to be both. Its administrators and clergy now occupy opposing sides of that question beneath the same roof.

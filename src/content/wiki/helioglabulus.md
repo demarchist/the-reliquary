@@ -3,7 +3,7 @@ title: "Helioglabulus"
 category: "Places"
 aliases: ["Helioglabulus", "Helios"]
 firstAppearance: "chapter-14-session-16"
-description: "The capital city of Damara, built of dark stone threaded with scarlet bloodstone, dominated by the Cathedral of Lathander and a glittering Eastern Orthodox castle."
+description: "The bloodstone-walled capital of Damara, whose bright courts and crowded summer markets conceal a Thayan body-harvesting network in the ancient catacombs below."
 home: "Damara"
 ---
 
@@ -26,3 +26,11 @@ Among the city's wealthy commercial class is [[lady-isabel|Lady Isabel]], a resp
 ## The Underworld
 
 Beneath the city's ordered surface, a criminal hierarchy operates through layers of increasingly exclusive establishments. Street-level guild dens in the outer districts handle low-level work, while the [[rising-sun|Rising Sun]] — an opulent nightclub in the upper rings — serves as the headquarters of [[mister-luko|Mister Luko]], the city's most prominent guild boss. Distinguished visitors to the Queen's hospitality are housed in townhomes in the upper districts, complete with concierge service and, as the group discovered, a complement of listening devices and wards.
+
+## The City Empties
+
+The capital's apparent order failed rapidly. Over two nights, citizens disappeared by the score and [[Thayan Flesh Golems|black-leather Thayan golems]] smashed upward from the undercity into the Rising Sun. Summer merchants abandoned the season and clamoured to leave. The [[Crimson Dawn Knights]] remained visible mainly as escorts for nobles who had become reclusive, leaving the streets without the patrols that had once defined them.
+
+Tracks beneath the city showed what the surface panic could not: victims were being dragged through the sewers toward [[The Catacombs of Helioglabulus|the castle catacombs]]. There, golems, self-restoring warlocks, hundreds of zombies, infant Oni, and Thayan necromancers formed a single system for collecting and processing bodies.
+
+Helios is therefore under occupation without the spectacle of an occupying army. Its official defenders have thinned, its ruling class has withdrawn, and its people are being removed into a second city of tombs directly below the first.

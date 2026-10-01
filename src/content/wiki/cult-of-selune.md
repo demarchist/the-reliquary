@@ -19,3 +19,7 @@ Despite its small size, the Cult of Selune has significant influence on the Baro
 ## Controversy
 
 The cult is also shrouded in mystery and controversy, attracting skeptics and detractors who view it as a dangerous and misguided group more interested in power and self-aggrandizement than in helping people. The divergent religious views of its administrators, Topsy and Turvy, reflect deeper tensions within the organization.
+
+Those tensions became institutional when the established [[Church of Selûne]] sent [[Temura]] from Silverymoon to bring the [[Fane of Selune|Fane]] into the wider religion. Cirrus accepted the cleric's service but not an external right to judge him. When Temura questioned the making of a golem from thousands of bloody teeth, Cirrus ordered him watched; when [[Topsy & Turvy|Topsy]] called him a possible spy for the “real” church, Cirrus struck the administrator for the remark.
+
+The cult's central question is consequently not whether Cirrus truly worships Selûne—his devotion has survived too much to dismiss—but whether sincere revelation places him beyond doctrine, oversight, and the moral judgment of his own followers. The Fane's next crisis may be ecclesiastical rather than supernatural.

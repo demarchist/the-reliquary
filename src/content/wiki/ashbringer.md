@@ -6,7 +6,7 @@ firstAppearance: "chapter-05-session-19"
 description: "A celestial crystal greatsword reforged with the sacrifice of the Planetar Anduriel, capable of detonating undead in chain reactions of sunlight — classified by the Church of Lathander as a sunsword, though the group has never called it anything but the Ashbringer."
 ---
 
-The Ashbringer is a celestial crystal greatsword born from the sacrifice of the Planetar [[anduriel|Anduriel]] at the Abbey of [[krezk|Krezk]]. Originally recovered as a powerless hilt and broken blade from [[sergei|Sergei Von Zarovich]]'s tomb in the crypts of Castle Ravenloft, the weapon was reforged when the angel's divine grace flowed into the crystal and the beacon of [[argynvostholt|Argynvostholt]] poured in after it. The sword named itself in the moment of its birth: *Ashbringer.*
+The Ashbringer is a celestial crystal greatsword born from the sacrifice of the Planetar [[anduriel|Anduriel]] at the Abbey of [[krezk|Krezk]]. Originally recovered as a powerless hilt and broken blade from [[sergei|Sergei Von Zarovich]]'s tomb in the crypts of Castle Ravenloft, the weapon was reforged when the angel's divine grace flowed into the crystal and [[argynvost|Argynvost's]] beacon at Argynvostholt poured in after it. The sword named itself in the moment of its birth: *Ashbringer.*
 
 ## Properties
 
@@ -16,7 +16,7 @@ The Ashbringer is classified as a [[sunsword|sunsword]] — a class of radiant w
 
 ## Wielders
 
-[[tarkathee-daru|Tark]] wielded the Ashbringer during the Battle of Krezk, using the harsh shadows cast by the sword's own radiance to shadowstep across the battlefield. Six inches of grey-black ash drifted down from the sky like a blizzard as hundreds of the Wild Hunt detonated in cascading sunbursts. He later entrusted the blade to [[horatio-von-bumidere|Buumi]] for safekeeping, preferring his beloved Staff of the Dragon King. During the final battle in Castle Ravenloft, Buumi wielded the Ashbringer to devastating effect against Rahadin and his undead servants, the crystal sword's sunbursts burning away the dragon's shadow aura and destroying skeletal warriors in cascading detonations. Two points of radiance trailed from the blade during the final confrontation — golden halos settling over [[aliyah-faen-tlabbar|Patches]] and [[cirrus-al-kayan|Cirrus]] — as the spirits of [[anduriel|Anduriel]] and [[argynvostholt|Argynvost]] spoke through them to condemn Rahadin.
+[[tarkathee-daru|Tark]] wielded the Ashbringer during the Battle of Krezk, using the harsh shadows cast by the sword's own radiance to shadowstep across the battlefield. Six inches of grey-black ash drifted down from the sky like a blizzard as hundreds of the Wild Hunt detonated in cascading sunbursts. He later entrusted the blade to [[horatio-von-bumidere|Buumi]] for safekeeping, preferring his beloved Staff of the Dragon King. During the final battle in Castle Ravenloft, Buumi wielded the Ashbringer to devastating effect against Rahadin and his undead servants, the crystal sword's sunbursts burning away the dragon's shadow aura and destroying skeletal warriors in cascading detonations. Two points of radiance trailed from the blade during the final confrontation — golden halos settling over [[aliyah-faen-tlabbar|Patches]] and [[cirrus-al-kayan|Cirrus]] — as the spirits of [[anduriel|Anduriel]] and [[argynvost|Argynvost]] spoke through them to condemn Rahadin.
 
 ## The Church's Name
 
@@ -61,3 +61,11 @@ Through the long quiet of the following night, Lord Aimu left the Sunsword on th
 Over the course of an hour he found something no catalogue of the relic had ever recorded. At the very edge of the crystal blade, near the guard, the structure was subtly warped — like a single drop of melted glass cooled wrong — and set into the warp, faint as breath on a mirror, was a delicate *fingerprint*: one whorl of a thumb pressed into the crystal at the moment it had been soft, and left there forever in an otherwise flawless blade. Tark filed the detail away without speaking of it. Whether it is an artefact of the weapon's reforging from the [[anduriel|Planetar]]'s sacrifice, a trace of some hand that shaped it, or a mark of significance not yet understood, remains an open question.
 
 He then settled into meditation with the Sunsword across his knees and bent his discipline toward attuning to it. The radiance answered by slow degrees over the hours that followed — recognising, perhaps, the hand that had carried it through the Wild Hunt — banking warm against his palms as the night drew on. The blade that had once been Tark's was Tark's again, in time for the [[the-thayans-attack|Thayan attack]] that fell on the estate before the night was out.
+
+## The Wish Rejected
+
+The fingerprint was eventually tested rather than merely studied. [[Jack Mayer Johnson Mathews|JmJm]] touched the mark and used Wish to make the blade unmarred. A pallid figure with glowing yellow eyes reached from inside the crystal and met his finger from the opposite side. The spell failed, sulphur filled the room, and JmJm was thrown backward. The figure then assumed the face of [[Queen Concetinna Frostmantle]].
+
+[[Cirrus Al Kayan|Cirrus]] identified it as [[Malcathet]], the Succubus Demon Lord and Mother of Vampires. His recognition narrows the earlier possibilities without fully explaining the mechanism. The mark may have been placed or awakened when Concetinna handled the sword for the Thayan delegation; it may be an anchor, a seal, a point of possession, or a channel of observation. What it is not is an inert imperfection.
+
+The Ashbringer is consequently both weapon and compromised ground. Its sunlight remains one of the party's best answers to vampires, yet a power associated with their creation can look out through its crystal and overrule reality-changing magic. Until the mark is understood, drawing the blade may also invite the enemy into every room it is meant to protect.

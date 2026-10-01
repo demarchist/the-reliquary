@@ -59,6 +59,8 @@ The logic stilled Tark's hand, though it did nothing to ease his grief. The grou
 
 In the Halls of the Present at [[gravenhollow|Gravenhollow]], [[horatio-von-bumidere|Buumi]] sought out Gaddock's coffin and saw a human-wrought catacomb of ancient tombs and vaults, crawling with hundreds of small, tusked, baby-like Oni fighting, devouring the weakest among them, and shapeshifting as they learned their powers. The infant fiends crowded a well-kept section of the catacombs but kept clear of three black coffins in a large vaulted chamber — Gaddock's resting place, and, the group suspects, the resting places of the Queen and the [[vampire-knight-of-frostmoore|Vampire Knight]] as well.
 
+The party later entered [[The Catacombs of Helioglabulus|the catacombs]] through Helios's sewers and found the same combination of human tombs, infant Oni, and organised necromancy. They have not yet reached the vaulted chamber or verified which coffin belongs to whom, but the vision's setting is now confirmed beneath the castle rather than merely inferred somewhere in the region.
+
 ## The Reunion at Frostmoore
 
 The confrontation Tark had dreaded for chapters finally came in the flesh — not in a dream, but in the dark of [[frostmoore-vale|Frostmoore Vale]] on the night the [[red-wizards-of-thay|Red Wizards of Thay]] attacked the [[aimu-estate|Aimu Estate]]. When Tark shadowstepped after a fleeing Thayan, a second presence shadowed in behind him. Cold, powerful arms seized the monk from behind and locked him in a grapple he could not at once break.
@@ -68,6 +70,12 @@ Tark twisted in the grip and saw, at last, the face of his long-lost master. Pal
 Gaddock wept. Tears ran freely down the emaciated face, bright in the moonlight, as he locked eyes with the student he loved — and then he bared his fangs, bent to Tark's throat, and bit, and began to feed. There was no malice in it and no relief from it; the vampire was a weapon being aimed, and he grieved every inch of the motion even as the crystal drove him through it.
 
 The bite did not last. [[jack-mayer-johnson-mathews|JmJm]] pulled on the [[mysterious-glove|mysterious glove]] from his past, and the Arcane Hand interposed between master and student, prying the feeding vampire back off Tark's throat. Tark tore free, came around, and turned every ounce of his grief into a strike meant to end his master's suffering — but Gaddock dropped away to the forest floor and retreated into the trees. Tark, bleeding from the throat, went down the mountain after him without hesitation, and the session closed with the two of them somewhere in the dark, the hunt finally, terribly, joined.
+
+## The Borrowed Voice of Strahd
+
+Before returning to Helios, Tark dreamed the last sunrise over ruined [[Castle Ravenloft]] again. This time [[Strahd Von Zarovich|Strahd]] accused him of saving no one and leading everyone to death, while broken words suggested that Strahd—or someone else—had been promised freedom. The dream ended with another bite, and Tark woke exhausted with the wound on his neck red and sore.
+
+Nothing in the vision proves that Gaddock sent it. The promise of freedom does, however, echo the master's captivity: a vampire who has begged Tark to stay away, wept while a crystal leash forced him to feed, and insisted that only Zhengyi's destruction could release him. Whether the dream was Gaddock reaching through a borrowed memory, [[Malcathet]] manipulating Tark's guilt, or another power entirely remains unresolved. Its effect was to drive him toward the coffin already waiting below the city.
 
 ## Role in the Story
 

@@ -20,3 +20,5 @@ The entity's fragmentation killed Cornubel outright. It took refuge instead in G
 ## Recovery
 
 Over a century later, Gundren's mind began surfacing fragments of the memory unprompted — a river, a gleaming metal eye beneath the water. The group followed the thread back to the wreck and found Cornubel's desiccated remains still lying beside the ruined core. They recovered his body for a proper burial and marked the site for the Rockseeker clan to excavate and return him to whatever family he has left.
+
+When the clan began organising the expedition, Gundren made one request before discussing the wreck's machinery: he was to be told when Cornubel's burial would take place. He would attend because honour required it. The insistence does not erase the century in which the Rockseekers unknowingly left their friend behind, but it places the dead Gnome ahead of the technological prize in Gundren's stated priorities.

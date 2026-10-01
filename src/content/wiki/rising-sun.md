@@ -22,3 +22,11 @@ Luko's men staff the foyer in matching attire: long coats of rich dark silk trim
 ## Interior
 
 The gambling floor is hazy with sweet smoke, populated by silk-wrapped servers carrying silver trays. The noise is managed and deliberate — the clink of glassware, the movement of chips, polite laughter held just below a certain volume. Above the main floor, two mezzanine levels hold dining booths and curtained halls. Above those, a third-floor dining room glows warmly behind large windows, where Luko holds court over a long table that seats perhaps thirty.
+
+## The Attack from Below
+
+The Rising Sun's carefully controlled boundaries failed from beneath. [[Thayan Flesh Golems|Thayan flesh golems]] smashed through its security doors while armoured warlocks followed them into the dining rooms. The house had been preparing for another day of business; servers, assassins, and retainers died among tables not yet set for guests.
+
+The contrast is central to the attack's effect. A building designed to guarantee hospitality became a killing floor, and the city's most capable criminal organisation could not meaningfully injure the first golem with ordinary steel. Only the party's enchanted weapons stopped the incursion.
+
+The golems' later route into [[The Catacombs of Helioglabulus|the catacombs]] shows that the Rising Sun was not selected only to kill [[Mister Luko]]. It stood above one of the channels used to harvest citizens from the city. Luko's maps survived the breach and turned that hidden connection against the attackers.

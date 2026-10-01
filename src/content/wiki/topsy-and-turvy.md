@@ -5,7 +5,7 @@ aliases: ["Topsy", "Turvy"]
 firstAppearance: "chapter-08-session-06"
 description: "Svirfneblin siblings who were fellow prisoners at Velkynvelve, revealed as wererats and pledged to Selûne, who went on to become administrators of the Fane."
 race: "Svirfneblin"
-affiliation: "Fane of Selûne"
+affiliation: "fane-of-selune"
 status: "Alive"
 ---
 
@@ -32,6 +32,10 @@ Topsy and Turvy eventually found their way to the [[fane-of-selune|Fane of Selû
 That administration includes crises their first fearful journey to the surface could never have anticipated. When thousands of bloody teeth were delivered around the feet of Cirrus's statue with a challenge from [[Zulkhir Atlan Issan]], Topsy received the provocation, waited anxiously for Cirrus, and reported it directly. Cirrus ordered her to pack the teeth into his chambers and leave him undisturbed; the account ends before her response is recorded.
 
 The moment is small beside the supernatural threat, but revealing. The twins were once prisoners frightened of their own lycanthropy and unsure whether they could live under the open sky. They now keep a major religious institution functioning when a Thayan ruler deposits the physical language of their high priest's former abuse in its nave.
+
+The following night made the cost of that loyalty clearer. After [[Temura]] questioned Cirrus's transformation of the teeth into a golem, the twins suggested that the cleric might be a spy for the “real” church. Cirrus struck Topsy several times and dismissed the administrator in shame, then ordered Temura watched.
+
+Nothing in the record shows Topsy resisting the order. That silence should not be mistaken for consent. The twins first came to Cirrus as frightened fugitives, and he gave their lycanthropy a religious meaning that allowed them to live with themselves. Their present authority, home, and spiritual identity all descend from that rescue. The same dependency now makes dissent from their rescuer extraordinarily difficult.
 
 ## Divergent Views
 

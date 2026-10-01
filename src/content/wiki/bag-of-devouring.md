@@ -15,3 +15,9 @@ A Bag of Devouring appears, to a casual eye, to be an ordinary [[bag-of-holding|
 During the [[the-thayans-attack|Thayan night attack]] on the [[aimu-estate|Aimu Estate]], Cirrus put the bag to its purpose. After [[aliyah-faen-tlabbar|Patches]] dropped a floating [[red-wizards-of-thay|Red Wizard]] unconscious with a poisoned bolt, Cirrus Farstepped across the field to the fallen Thayan, drew out the bag — not a vault but a *mouth*, its interior all jaws — slung it over one shoulder, and fed the wizard's slack hand into the maw. The Red Wizard was drawn in and consumed whole, swallowed into the dark between somewheres, leaving no body to raise and no enemy to revive.
 
 A peal of cold laughter answered from the trees, and an unseen caster blasted Cirrus with arcane power for what he had done — but the wizard was gone past any helping. It was a grim and final way to remove an enemy from the board, and entirely in keeping with the priest who wielded it.
+
+## Against the Deathless Warlocks
+
+The bag became a standard answer when Thayan warlocks attacked the [[Rising Sun]]. Killing them was insufficient: broken bones snapped back into place and the bodies stood again. One was erased by Fëanon's *Disintegrate*; the others were fed to the Bag of Devouring before they could repeat the recovery.
+
+Across both battles, the bag's tactical value is not simply damage. It denies Thayan necromancy the body on which to act. That makes it unusually effective against an enemy whose soldiers treat death as a temporary interruption—and makes the party increasingly comfortable using an unknowable extraplanar predator as battlefield sanitation.

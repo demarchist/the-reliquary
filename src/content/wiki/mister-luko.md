@@ -3,7 +3,7 @@ title: "Mister Luko"
 category: "People"
 aliases: ["Luko", "Mr. Luko", "Mr Luko"]
 firstAppearance: "chapter-15-session-02"
-description: "Guild boss operating out of the Rising Sun in Helioglabulus — a man of considerable influence, immaculate presentation, and the kind of patience that comes from rarely being wrong about people."
+description: "Helioglabulus guild boss and information broker whose Rising Sun became a front line when Thayan collectors began harvesting the city from below."
 race: "Human"
 status: "Alive"
 home: "rising-sun"
@@ -32,3 +32,13 @@ He offered the group a deal: complete the heist and account for his missing peop
 With the heist complete, Luko made good on his word. He handed over payment and, more importantly, intelligence: the Crown believed Lord Aimu had fled east to the steppe, but Luko's sources indicated the nobleman had doubled back to his wife's old estate in [[frostmoore-vale|Frostmoore Vale]], in the foothills of the Galena Mountains. He marked the route on a map — the [[bloodstone-pass|Bloodstone Pass]] to [[ironfang-keep|Ironfang Keep]], then north.
 
 Luko's influence in the city extended to protection: as the group moved through the streets, guild members in the periphery discouraged local thieves and beggars from approaching them. He offered more work if they wanted it.
+
+## The Siege of the Rising Sun
+
+When citizens began disappearing across Helios, Luko's criminal network became an early warning system. For two nights his people were slaughtered and something repeatedly battered upward through the Rising Sun's security doors. He contacted [[Aliyah Faen Tlabbar|Patches]] when the attack reached his own dining room.
+
+The guildmaster fought rather than flee immediately, crouched against a wall firing Magic Missiles from a wand while a [[Thayan Flesh Golems|Thayan flesh golem]] crushed his retainers. He survived by drinking an invisibility potion during the battle. Of the people defending him, only one remained when the party finished the golems and warlocks.
+
+Luko's composure after the fight reveals the practical core beneath his presentation. He supplied the party with his best potions and poisons, produced layered maps of the undercity, and assigned a footpad to guide them through the first sewers. He also said plainly that he intended to leave once he had helped them reach the castle.
+
+That is not simple cowardice. Luko recognised that the compact on which his power rested—information, hospitality, enforceable boundaries, and a city worth doing business in—had collapsed. His final useful act was to convert a thieves' private map into the invasion route by which someone else might save Helios.

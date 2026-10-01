@@ -120,3 +120,19 @@ Some nights later, Tark dreamed himself into the lap of [[queen-concetinna-frost
 Tark lives alone in an elaborate treehouse deep in the forests of [[Thunder Bluff]]. The structure is built around an enormous ancient oak at the center of a clearing — half-up the massive trunk, an elaborate network of rope bridges, platforms, and rooms woven together in a chaotic jumble. The treehouse appears to defy gravity, dangling precariously from the upper branches; what appears haphazard from the outside is, on closer inspection, a haphazard assemblage of wooden platforms, rope bridges, and what appear to be repurposed boat hulls, all lashed together with practiced resourcefulness.
 
 Inside, crude furnishings coexist with crops of ferns sprouting from knotholes, and motes of pollen drift lazily in angled shafts of sunlight. The structure sways with the treetops, somehow at once precarious and reassuring. Individual rooms are accessible via rope bridges, each one tidy, small, and practical. Tark's meditation room occupies a prominent position; a separate guest room sits near the top of the tree, with a circular window overlooking verdant, unspoiled wilderness in every direction.
+
+[[Cassian]] found the treehouse and spent a night in it without Tark knowing he was there. For a home built as a retreat from institutions and crowds, it has become porous to the companions Tark accepts almost without ceremony.
+
+## A Reputation of His Own
+
+Tark returned to the Barony's dojo to learn that [[Lord Aimu|Lord Aimu's]] paladins had expelled [[Rex Kwondo]], a teacher using Tark's good name while offering lessons they considered buffoonery. Tark defended Rex. The paladins, who believed they had protected his dignity, immediately realised that they had presumed to decide what his name meant and set out to repair the harm.
+
+The incident shows how far Tark's public identity has travelled from him. He is a champion, a Kryschek, a bearer of legendary weapons, and now an authority invoked by instructors and enforcers alike. His refusal to protect that authority through punishment fits the monk better than the legend: he is less concerned with whether Rex appears ridiculous than with whether powerful people act justly in his name.
+
+## The Dream That Bit Back
+
+Tark's next sleep returned him to the last sunrise over ruined [[Castle Ravenloft]]. The memory changed around him: a woman sobbed beyond sight, his companions blurred, and [[Strahd Von Zarovich|Strahd]] accused him of leading everyone to their deaths and failing to save anyone. The vampire's broken speech suggested that he—or someone—had been promised freedom, but the meaning would not hold.
+
+Tark recognised the Dreamscape before Strahd lunged and bit him. He woke exhausted, with the old wound on his neck red and sore.
+
+The dream resembles [[Queen Concetinna Frostmantle|Concetinna's]] earlier visitation in method but not tone. The Queen offered intimacy and belonging; Strahd's image weaponised survivor's guilt. Neither dream proves who sent it. The physical inflammation does show that the pressure on Tark is no longer confined to symbolism, and the unidentified woman's grief suggests the speaker knew exactly which part of Barovia could still hurt him.

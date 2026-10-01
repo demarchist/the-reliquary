@@ -44,3 +44,13 @@ The group recovered Cornubel's desiccated remains from beside the core for a pro
 ## The Rockseeker Manufactory
 
 Gundren built the Rockseeker Manufactory within the walls of the Keep of Thunder Bluff — a massive, sprawling complex of forges, foundries, and workshops where his extended family, renowned for their expertise in metalworking, produce some of the finest weapons and armor in Faerûn. Day-to-day operations are now run by his brothers Barthen and Nundro, with Smith Slagbelcher serving as foreman. The Manufactory is a major employer in the region.
+
+After the Modron wreck beneath the [[River Surbrin]] was rediscovered, the Manufactory began organising an expedition to excavate it properly. At the same time, its workers catalogued the remains of [[The Acheron Spelljammer|the Acheron wreck]] hauled through the Gate. Gundren's workshop has become the place where two unrelated planar vessels are translated into inventories, materials, and eventually decisions about what should be rebuilt.
+
+Gundren also asked to be notified when [[Cornubel]] would be buried. He had only recently recovered the memory of the Gnome's death, but treated the century between death and funeral as irrelevant to the obligation. His relationship to the Modron wreck is archaeological and personal in equal measure.
+
+## The Gate in the Courtyard
+
+The [[Modrons]] constructing an apparatus in the Keep courtyard present a different problem from the damaged beings Gundren has repeatedly rescued. The party regards the likely gate as an unacceptable security risk: it stands inside their walls, its destination and operators remain unknown, and no one in the Barony can yet guarantee control over it.
+
+Gundren agreed and began drafting ways to seize command of the structure. This is an important limit on his Modron affinity. He may feel kinship with their wounded minds and fascination with their machines, but he does not grant the hierarchy an automatic right of access to his home. Compassion for the individual construct does not cancel responsibility for the people on his side of the door.

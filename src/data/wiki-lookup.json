@@ -849,6 +849,31 @@
     "title": "Castle Ravenloft",
     "category": "Places"
   },
+  "the catacombs of helioglabulus": {
+    "slug": "catacombs-of-helioglabulus",
+    "title": "The Catacombs of Helioglabulus",
+    "category": "Places"
+  },
+  "the catacombs": {
+    "slug": "catacombs-of-helioglabulus",
+    "title": "The Catacombs of Helioglabulus",
+    "category": "Places"
+  },
+  "helioglabulus catacombs": {
+    "slug": "catacombs-of-helioglabulus",
+    "title": "The Catacombs of Helioglabulus",
+    "category": "Places"
+  },
+  "the undercroft": {
+    "slug": "catacombs-of-helioglabulus",
+    "title": "The Catacombs of Helioglabulus",
+    "category": "Places"
+  },
+  "helios undercroft": {
+    "slug": "catacombs-of-helioglabulus",
+    "title": "The Catacombs of Helioglabulus",
+    "category": "Places"
+  },
   "cathedral of twilight": {
     "slug": "cathedral-of-twilight",
     "title": "Cathedral of Twilight",
@@ -908,6 +933,31 @@
     "slug": "chrysalis",
     "title": "Chrysalis",
     "category": "People"
+  },
+  "church of selûne": {
+    "slug": "church-of-selune",
+    "title": "Church of Selûne",
+    "category": "Factions"
+  },
+  "church of selune": {
+    "slug": "church-of-selune",
+    "title": "Church of Selûne",
+    "category": "Factions"
+  },
+  "established church of selûne": {
+    "slug": "church-of-selune",
+    "title": "Church of Selûne",
+    "category": "Factions"
+  },
+  "established church of selune": {
+    "slug": "church-of-selune",
+    "title": "Church of Selûne",
+    "category": "Factions"
+  },
+  "the real church": {
+    "slug": "church-of-selune",
+    "title": "Church of Selûne",
+    "category": "Factions"
   },
   "cirrus al kayan": {
     "slug": "cirrus-al-kayan",
@@ -3264,6 +3314,26 @@
     "title": "Fëanon's Magnificent Mansion",
     "category": "Places"
   },
+  "malcathet": {
+    "slug": "malcathet",
+    "title": "Malcathet",
+    "category": "People"
+  },
+  "malcanthet": {
+    "slug": "malcathet",
+    "title": "Malcathet",
+    "category": "People"
+  },
+  "mother of vampires": {
+    "slug": "malcathet",
+    "title": "Malcathet",
+    "category": "People"
+  },
+  "succubus demon lord": {
+    "slug": "malcathet",
+    "title": "Malcathet",
+    "category": "People"
+  },
   "maria": {
     "slug": "maria",
     "title": "Maria",
@@ -3709,6 +3779,21 @@
     "title": "General Omar",
     "category": "People"
   },
+  "oni": {
+    "slug": "oni",
+    "title": "Oni",
+    "category": "Factions"
+  },
+  "oni demons": {
+    "slug": "oni",
+    "title": "Oni",
+    "category": "Factions"
+  },
+  "ogre magi": {
+    "slug": "oni",
+    "title": "Oni",
+    "category": "Factions"
+  },
   "the open weave collective": {
     "slug": "open-weave-collective",
     "title": "The Open Weave Collective",
@@ -3992,6 +4077,16 @@
   "renaer": {
     "slug": "renaer-neverember",
     "title": "Renaer Neverember",
+    "category": "People"
+  },
+  "rex kwondo": {
+    "slug": "rex-kwondo",
+    "title": "Rex Kwondo",
+    "category": "People"
+  },
+  "rex": {
+    "slug": "rex-kwondo",
+    "title": "Rex Kwondo",
     "category": "People"
   },
   "ring of mind shielding": {
@@ -4712,6 +4807,41 @@
   "the purple box": {
     "slug": "thayan-drop-box",
     "title": "Thayan Drop Box",
+    "category": "Things"
+  },
+  "thayan flesh golems": {
+    "slug": "thayan-flesh-golems",
+    "title": "Thayan Flesh Golems",
+    "category": "Things"
+  },
+  "thayan golems": {
+    "slug": "thayan-flesh-golems",
+    "title": "Thayan Flesh Golems",
+    "category": "Things"
+  },
+  "thayan flesh golem": {
+    "slug": "thayan-flesh-golems",
+    "title": "Thayan Flesh Golems",
+    "category": "Things"
+  },
+  "leather-clad golems": {
+    "slug": "thayan-flesh-golems",
+    "title": "Thayan Flesh Golems",
+    "category": "Things"
+  },
+  "leather clad golems": {
+    "slug": "thayan-flesh-golems",
+    "title": "Thayan Flesh Golems",
+    "category": "Things"
+  },
+  "leather-wrapped giants": {
+    "slug": "thayan-flesh-golems",
+    "title": "Thayan Flesh Golems",
+    "category": "Things"
+  },
+  "leather wrapped giants": {
+    "slug": "thayan-flesh-golems",
+    "title": "Thayan Flesh Golems",
     "category": "Things"
   },
   "the bearded lass ii": {
@@ -5909,10 +6039,25 @@
     "title": "Castle Ravenloft",
     "category": "Places"
   },
+  "catacombs-of-helioglabulus": {
+    "slug": "catacombs-of-helioglabulus",
+    "title": "The Catacombs of Helioglabulus",
+    "category": "Places"
+  },
+  "catacombs of helioglabulus": {
+    "slug": "catacombs-of-helioglabulus",
+    "title": "The Catacombs of Helioglabulus",
+    "category": "Places"
+  },
   "cathedral-of-twilight": {
     "slug": "cathedral-of-twilight",
     "title": "Cathedral of Twilight",
     "category": "Places"
+  },
+  "church-of-selune": {
+    "slug": "church-of-selune",
+    "title": "Church of Selûne",
+    "category": "Factions"
   },
   "cirrus-al-kayan": {
     "slug": "cirrus-al-kayan",
@@ -6829,6 +6974,11 @@
     "title": "Renaer Neverember",
     "category": "People"
   },
+  "rex-kwondo": {
+    "slug": "rex-kwondo",
+    "title": "Rex Kwondo",
+    "category": "People"
+  },
   "ring-of-mind-shielding": {
     "slug": "ring-of-mind-shielding",
     "title": "Ring of Mind Shielding",
@@ -7067,6 +7217,11 @@
   "thayan-drop-box": {
     "slug": "thayan-drop-box",
     "title": "Thayan Drop Box",
+    "category": "Things"
+  },
+  "thayan-flesh-golems": {
+    "slug": "thayan-flesh-golems",
+    "title": "Thayan Flesh Golems",
     "category": "Things"
   },
   "the-bearded-lass-ii": {
