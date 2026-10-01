@@ -36,6 +36,8 @@ On Al Askar, the Crystal Dragon Jareem later read Gundren psionically and descri
 
 Modrons subsequently appeared in the courtyard of [[The Keep of Thunder Bluff|Thunder Bluff's keep]], constructing a large magical apparatus. Gundren suspected a gate to Mechanus and immediately worried about securing it. Whether the workers came for the minds within him, for the recovered Hierarch, or for some unrelated purpose has not yet been established.
 
+As construction continued, the rest of the party pressed the security question. A gate inside the Keep is an uncontrolled border embedded at the centre of their government. Gundren agreed and began designing a way to take command of the construct before it becomes operational. His response separates affinity from allegiance: whatever the Modrons believe him to be, he still regards the safety and sovereignty of the Barony as his responsibility.
+
 On [[Acheron]], the relationship became practical rather than merely archaeological. Goblinoids cornered an injured Modron and lost several of their number to its defense. Gundren stopped the mob from destroying it, repaired the construct, and learned of a Modron channel or passage along the party's route. The repaired being travelled with the war party for a time; its eventual fate is unrecorded.
 
 The act matters because it reverses the pattern of the earlier encounters. The party had found Modrons crashed, enslaved, fragmented, lost after a March, or embedded in a foreign mind. On Acheron, Gundren met one that could still be helped and acted protectively before asking it for information—a strong indication that he regarded it as more than machinery, even if his motive was not stated.
@@ -45,3 +47,5 @@ The act matters because it reverses the pattern of the earlier encounters. The p
 It is tempting to describe Gundren as chosen by Primus or assimilated by the Modrons. Neither is confirmed. He remains himself: stubborn, inventive, emotional, and capable of protecting a damaged construct in a way no doctrine of perfect order required.
 
 But he is not simply an Artificer who studies Modron work. He is a refuge for two of their minds, can understand at least some of their speech, bears the sign of Primus, and repeatedly draws Modron machines and beings into his orbit. The unanswered question is no longer whether Gundren has a connection to the hierarchy. It is what the hierarchy believes he has become.
+
+The [[rockseeker-manufactory|Rockseeker Manufactory]] is meanwhile preparing an expedition to excavate [[The Derelict|the Nonagon's ship]] and cataloguing the unrelated wreck recovered from Acheron. Modron history is no longer confined to Gundren's mind. It is becoming an organised research programme with workers, inventories, and the power to reproduce—or accidentally reactivate—what the family finds.

@@ -112,3 +112,15 @@ In the Halls of the Past at [[gravenhollow|Gravenhollow]], Cirrus sought out the
 When Cirrus returned from Acheron, [[Topsy & Turvy|Topsy]] met him with news that the feet of the great statue inside the [[Fane of Selune]] had been buried in thousands of bloody teeth. The accompanying message came from [[Zulkhir Atlan Issan|Zulkhir Atlan]], who named himself one of the Tooth Fairy's last two servants and goaded Cirrus to return to the Bloodstone Lands. Atlan's earlier claim that Cirrus would be a sacrifice along his road to godhood gave the provocation a second edge, but the letter did not repeat it.
 
 Cirrus did not retreat from the old symbolism or order it destroyed. He told Topsy to pack the teeth and send them to his chambers, then announced that he would build through the night. What he intended to make is not yet known, and the account ends before the order is carried out. The decision is nevertheless characteristic: when confronted with the material language of his former enslavement, Cirrus's first instinct was to seize it and force it into a meaning of his own.
+
+## The Tooth Effigy
+
+Cirrus used *Fabricate* to assemble Atlan's teeth into a demonic likeness of himself—the form he imagined he might have taken had he remained with the Marilith and [[Ceregorach]]. He then used *True Polymorph* to turn the statue into the equivalent of an Iron Golem. The answer transformed tribute into servant and a feared possible self into a body commanded by the life that rejected it.
+
+The act belongs to Cirrus's recurring mastery of borrowed shapes, but its material gives it a harsher meaning. Selûne once restored teeth to him after he escaped the Tooth Fairy; now he has used the teeth of unknown victims to manufacture power. He has reclaimed the symbol personally without resolving what was done to the people from whom the material came.
+
+## Authority and the Church
+
+[[Temura]] watched the construction with open distaste and questioned whether he should report it to the established [[Church of Selûne]] in [[silverymoon|Silverymoon]]. Cirrus responded by asking [[Topsy & Turvy]] whether the cleric was loyal. When the twins suggested Temura might be a spy for the “real” church, Cirrus struck Topsy several times, sent the administrator away in shame, and ordered that Temura be watched.
+
+The incident makes an old tension explicit. Cirrus's devotion to Selûne is sincere, but he often treats his personal interpretation, his institutional authority, and the goddess's will as interchangeable. Selûne herself once showed approval of the man while recoiling from his methods. Temura now occupies the same dissenting position inside the Fane, and Cirrus's response was surveillance and violence rather than reflection.

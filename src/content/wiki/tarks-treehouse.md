@@ -19,3 +19,5 @@ The treehouse has multiple levels anchored to several thick branches of the mass
 - **Guest quarters** — Sleeping spaces for visitors
 
 The somewhat precarious construction echoes Tark's carefree, wandering lifestyle. Though disorganized and messy at times, the treehouse radiates charm and reflects the joy Tark takes in his simple life.
+
+The guest quarters are used with the same informality as the rest of the structure. [[Cassian]] found the treehouse and spent a night there without Tark realising he had arrived. The incident suggests either that the planar ranger is exceptionally unobtrusive, that Tark's woodland home is less private than it feels, or that hospitality among the party has become assumed rather than requested.

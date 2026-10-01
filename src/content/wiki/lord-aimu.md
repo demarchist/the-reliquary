@@ -52,3 +52,11 @@ He and [[lady-timea|Lady Timea]] commanded the Order. The [[red-wizards-of-thay|
 What he had done, he said plainly, was not technically treason. It was politically catastrophic. He had been kneeling at the altar deciding when JmJm burst in.
 
 After the tale, the Lord excused himself to meditate over whether to hand over the Sunsword. The blade remained on the table.
+
+## A Commander Outside His City
+
+Lord Aimu's exile divided the [[Crimson Dawn Knights]] at the worst possible time. His household paladins remained personally loyal, while the forces still in Helios became increasingly scarce in the streets and concentrated around reclusive nobles. [[Mister Luko]] suspected compromise, but the record does not establish whether those knights are corrupted, deceived, or obeying the remaining chain of command under [[Lady Timea]] and the Crown.
+
+A smaller incident at the Barony's dojo shows the strengths and risks of Aimu's loyal branch. His paladins expelled [[Rex Kwondo]] for using [[Tarkathee Daru|Tark's]] reputation to teach what they considered buffoonery. Tark defended the instructor, and the paladins immediately recognised that they had presumed to act for him. They set out to find Rex and repair the harm. Their discipline includes the capacity for correction, but only after personal authority confronts them.
+
+When the call came from Helios, Aimu gathered those paladins and attempted to return with the party. [[Megno Slatesunder|Megno's]] Teleport landed them in Mulmaster, more than a hundred miles south, delaying their intervention. Aimu is therefore trying to reclaim his command while physically separated from the city and politically separated from its court—the exact conditions under which an institution can be captured in his name.

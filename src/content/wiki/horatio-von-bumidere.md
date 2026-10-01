@@ -57,10 +57,22 @@ Buumi takes his duties as Captain of the City Guard seriously, always on the loo
 
 Buumi's relationship with [[Aliyah Faen Tlabbar|Patches]] is one of the group's longest-running threads. Drawn to each other despite vastly different temperaments — his lawful principles against her chaotic instincts — they have danced around mutual attraction for years. The stakes deepened when Patches proposed a marriage — framed as a binding protection pact for their children, Finn and Cercei, in the eyes of noble houses and their gods. Buumi, badly hungover at the time, was touched but asked to think about it in a proper state of mind. His family, meanwhile, had arranged a betrothal to a noblewoman, with a formal announcement planned at a debutante ball in Silverymoon — a complication he discussed privately with Tark in a carriage, admitting "it's all so confusing."
 
-Buumi's room now sits within the [[Cathedral of Helm]]. Patches, having watched him wait outside [[jmjm-theater|JmJm's Theater]] all night hoping to surprise her, followed him home, broke in once he slept, and woke him — first gently, then with a slap when gentle didn't work. She thanked him and Tark for making her want to be a better person, then kissed him with drow-poison-laced lips, dropping him unconscious. She's confident he'll build up an immunity to the poison eventually.
+Buumi's room now sits within the [[Temple of Helm|Cathedral of Helm]]. Patches, having watched him wait outside [[jmjm-theater|JmJm's Theater]] all night hoping to surprise her, followed him home, broke in once he slept, and woke him — first gently, then with a slap when gentle didn't work. She thanked him and Tark for making her want to be a better person, then kissed him with drow-poison-laced lips, dropping him unconscious. She's confident he'll build up an immunity to the poison eventually.
 
 His friendship with Tark is perhaps his most uncomplicated bond — the two share a comfortable rapport built on shared combat, mutual respect, and the kind of physical humor that involves accidentally knocking each other to the ground. He and [[Gundren Rockseeker]] are drinking companions who celebrate returns by going out partying together.
 
 ## Secret
 
 In his youth, Buumi was fascinated by stories of dragon knights and their powerful mounts. As he grew older, he realized his attraction to dragons was more than mere fascination. These feelings were not widely accepted, so he has tried to suppress them, though they continue to haunt him and he struggles with feelings of shame and isolation.
+
+## The People Inside Monsters
+
+In the sewers beneath [[helioglabulus|Helios]], [[Cassian]] shot a corpse-eating porcine beast-man before it could threaten the group. Examination revealed that it had been a human twisted by a curse. Buumi's first response was not relief at the kill but grief at the possibility that they might have saved him.
+
+That question belongs to the same moral instinct that made Buumi search for a way to save the chromatic child Cercei from an assumed destiny and support the lethal resurrection used to rescue a bitten Gnome from vampirism. He has repeatedly refused to treat transformation as proof that the person inside is gone. In a campaign full of possession, undeath, and bodies used as weapons, that refusal is one of his most consistent forms of faith.
+
+## The Vision Becomes a Place
+
+At [[gravenhollow|Gravenhollow]], Buumi saw [[Gaddock|Gaddock's]] coffin in ancient catacombs crowded with infant Oni and standing beside two other black coffins. The descent through [[The Catacombs of Helioglabulus|Helioglabulus's undercroft]] confirmed the architecture and the Oni, turning the vision from a remote image into a navigable destination.
+
+The party has not yet reached the three coffins. They have, however, breached the necromantic system protecting the route: collector golems, a zombie horde controlled through a blood-fed book, and a Thayan workshop built into an older tomb. Buumi's vision is no longer simply evidence that Gaddock can be found. It is the objective at the far end of a battlefield.
