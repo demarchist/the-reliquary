@@ -27,8 +27,12 @@ Beyond the cistern, hundreds of zombies screened an ornate tomb converted into a
 
 The book animated or coordinated the surrounding horde. When [[Gundren Rockseeker|Gundren]] destroyed it, blood flooded the chamber and every zombie outside collapsed at once. The sarcophagus then opened and released a Mummy Lord, suggesting that the tomb's original occupant had been incorporated into the Thayan defence rather than merely displaced by it.
 
+The party destroyed both the Mummy Lord and the Red Wizard. Their search clarified the workshop's purpose: five frames had held greater flesh golems, while a needle and a cursed Banshee skull on the worktable formed part of the apparatus used to stitch the constructs together. The sarcophagus contained two luminous potions and cursed Canopic Jars. [[Fëanon Sërindë|Fëanon]] moved the jars into a bag of holding by Mage Hand, remembering too late that an earlier Mummy Lord had reconstituted inside just such a bag.
+
+The iron door at the chamber's far end showed signs of regular use. Beyond it, a spiral stair climbed through opium haze into [[The Court of Kishin Doji]], where a powerful *Mirage Arcane* transformed ancient human masonry into the lacquered wood and paper lanterns of an eastern pleasure house. The Thayan factory and the Oni court are therefore not merely adjacent secrets. They share a well-travelled threshold.
+
 ## A Buried State
 
 The catacombs unite several parts of the Bloodstone conspiracy in one physical system: missing citizens become material; golems collect them; warlocks and zombies protect the routes; Thayan necromancers process them; infant Oni mature among the dead; and the suspected coffins of the realm's vampiric powers lie farther within.
 
-This is more than a secret lair. It is a second government under the capital—one concerned with bodies, transformation, and control while the official court withdraws behind guarded doors above.
+This is more than a secret lair. It is a second government under the capital—one concerned with bodies, transformation, and control while the official court withdraws behind guarded doors above. Yet it is not a single government: the Oni court denied that vampires held authority in its domain, even as Oni children fed beside the Thayan laboratory below. The undercity contains cooperating interests, rival jurisdictions, or both.

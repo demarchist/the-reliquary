@@ -5,7 +5,7 @@ aliases: ["Lord Dimitri", "Dimitri"]
 firstAppearance: "chapter-15-session-03"
 description: "Younger lord of House Muskov who secretly hired Mister Luko to steal his family's Seal for political ends."
 race: "Human"
-status: "Alive"
+status: "Alive (Vampire Spawn)"
 affiliation: "house-muskov"
 home: "helioglabulus"
 image: "/images/dimitri-muskov.png"
@@ -23,3 +23,9 @@ Dimitri had hired Luko to steal the Muskov family Seal for his own political end
 Dimitri welcomed [[cirrus-al-kayan|Cirrus]], [[jack-mayer-johnson-mathews|JmJm]], and [[horatio-von-bumidere|Buumi]] through the front door as expected guests while [[aliyah-faen-tlabbar|Patches]] and [[cassian|Cassian]] slipped in invisibly through the kitchen. He led the visible group to the wounded survivor and explained the situation. When the heist was complete, he declined to take the Seal himself — it was to go to Luko, who would sequester it on his behalf.
 
 When the group decided to investigate his father [[brusso-muskov|Lord Brusso]]'s condition on the second floor, Dimitri was hesitant and opted to hang back.
+
+## Turned
+
+Weeks later, [[aliyah-faen-tlabbar|Patches]] spotted Dimitri in the flesh again—pallid, red-eyed, and fanged—demanding entry to [[The Court of Kishin Doji]] for its "exquisite rice wine." He had become a Vampire spawn. The Tengu at the door turned him and his companion away at knifepoint: vampires held no authority in the Queen's domain, they said, "especially spawn." Dimitri backed down and stormed away, unaware he had been watched.
+
+Whether he was turned by [[Gaddock]], the [[Vampire Knight of Frostmoore]], or someone closer to House Muskov remains unknown. The transformation nevertheless completes a sharp reversal. Dimitri once manipulated thieves, adventurers, and his own household while keeping his hands clean; as a spawn, he is visibly subordinate and cannot command even a doorway beneath his city. His humiliation also shows that Helios's vampiric nobility is expanding across houses without becoming a single uncontested ruling class.

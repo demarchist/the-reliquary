@@ -22,10 +22,12 @@ At [[gravenhollow|Gravenhollow]], [[Horatio Von Bumidere|Buumi]] saw hundreds of
 
 The party later reached the same complex and found two blue Oni infants in a Thayan necromantic workshop, gnawing corpses and shouting profanities at the Wizard working nearby. They died when Fireballs struck the chamber.
 
-The matching location turns the vision into evidence of an organised nursery rather than a single clutch. Someone is raising Oni beneath the capital in numbers large enough to replace losses and staff future campaigns. Their cannibalism may be cultural, developmental, deliberately cultivated, or all three; the record does not yet distinguish among those possibilities.
+The matching location turns the vision into evidence of an organised nursery rather than a single clutch. The party then found dozens more children inside [[The Court of Kishin Doji]], feeding from the scraps of mature Oni who gathered there. Someone is raising Oni beneath the capital in numbers large enough to replace losses and staff future campaigns. Their cannibalism may be cultural, developmental, deliberately cultivated, or all three; the record does not yet distinguish among those possibilities.
+
+The court also revealed that the species is organised through family and rank. [[Nobutada]] named [[Li Xian]] and [[Neero]] as his brothers and [[Kishin Doji]] as their mother, then summoned every adult Oni in the hall with a single clap. Encounters once separated by years and geography now read as operations involving one royal house.
 
 ## A Coalition's Common Soldier
 
-Oni connect the otherwise strange coalition surrounding the Bloodstone Lands. They serve Zhengyi, appear beside Red Wizards, operate around vampires, hunt for Vulkan, and grow beneath a court linked to [[Malcathet]]. That does not prove every Oni shares one allegiance. It does show that the architects of the campaign treat them as a reusable force capable of moving between espionage, ritual, and war.
+Oni connect the otherwise strange coalition surrounding the Bloodstone Lands. They serve Zhengyi, appear beside Red Wizards, operate near vampires, hunt for Vulkan, and mature inside a sovereign court below Helios. That does not prove every Oni shares one allegiance. The court's Tengu explicitly denied that vampires held authority there, while Nobutada described his northern business as his own. The evidence points to a coalition of powers with overlapping interests, not a single unbroken command.
 
 Their eastern appearance and weapons also overlap with Tark's lost history and with the broader Kara-Turan threads surrounding [[Samonosuke]] and [[Letji]], but no common command between those figures and the Oni has been established.
