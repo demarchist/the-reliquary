@@ -3,12 +3,12 @@ title: "Kishin Doji"
 category: "People"
 aliases: ["The Oni Queen"]
 firstAppearance: "chapter-15-session-22"
-description: "An Oni Queen whose hidden domain lies beneath Helioglabulus's catacombs, reached through a Mirage Arcane transforming an ancient tomb into a sake-and-opium den — mother of Li Xian, Neero, and Nobutada."
+description: "An Oni Queen who ruled a hidden sake-and-opium court beneath Helioglabulus behind a Mirage Arcane — mother of Li Xian, Neero, and Nobutada, slain by the party after her court was found feeding the Crimson Dawn's missing Warlock Knights to a slow transformation."
 race: "Oni"
-status: "Unknown"
+status: "Dead"
 ---
 
-Kishin Doji is an Oni Queen whose name the group first heard spoken aloud by her own son, [[Nobutada]], deep in [[The Catacombs of Helioglabulus|the catacombs]] beneath [[helioglabulus|Helios]]. She has never appeared before the party in the flesh, but her domain has: a hidden lair, sealed behind a powerful *Mirage Arcane*, occupying the same ancient tomb-stair the group had been descending through the human catacombs.
+Kishin Doji is an Oni Queen whose name the group first heard spoken aloud by her own son, [[Nobutada]], deep in [[The Catacombs of Helioglabulus|the catacombs]] beneath [[helioglabulus|Helios]]. She met the party in person only at the end, and died for it. Before that, her domain was the first sign of her: a hidden lair, sealed behind a powerful *Mirage Arcane*, occupying the same ancient tomb-stair the group had been descending through the human catacombs.
 
 ## The Domain
 
@@ -27,3 +27,15 @@ Nobutada's unquestioned command of every adult Oni in the court shows that the f
 The Tengu at the front desk refused entry to a pair of vampire nobles — including [[dimitri-muskov|Dimitri Muskov]] — on the grounds that vampires hold no authority within Kishin Doji's domain, "especially spawn." Whatever the Queen's relationship to the vampiric plague spreading through Helios above, it is not one of alliance, or at least not one that extends courtesy to the newly turned.
 
 That distinction makes Kishin Doji more than another member of the coalition threatening Helios. Her court has its own law, servants, supply of victims, magical borders, and hierarchy. It behaves like a sovereign enclave situated beside the Thayan body factory and beneath a vampire-compromised capital. Cooperation among those powers should not be confused with unity.
+
+## The Queen of Masks
+
+Kishin Doji did not appear until the court was already burning. A woman's shadow fell across a set of paper doors, and they slid open on a geisha in a porcelain mask. She drew a small tanto from her belt and shimmered, and a duplicate stepped out of her, then another, until four masked women ringed the party, each giggling in the same silvery voice and introducing herself as Kishin Doji, Oni Queen. She knew who the party were, and said little else.
+
+Her blade, mirrored on every copy, shot sixty feet or more in a single thrust, striking the group from every angle at once. The duplicates had substance: they took hits, attacked, and cast spells, and new ones appeared faster than the party could destroy them. She could swap her true location with any duplicate. She tried to charm [[Gundren Rockseeker|Gundren]] through a copy and was counterspelled by [[Fëanon Sërindë|Fëanon]]. She stabbed a Deva-formed [[Cirrus Al Kayan|Cirrus]] repeatedly until he lost concentration and fell back into tiefling shape, and when he struck at her, she turned invisible and teleported into a duplicate.
+
+At the end, she tried to flee. Faerie Fire revealed her, and the party cornered and killed her. She wounded them terribly first.
+
+## Her Court's Secret
+
+Her dining halls hid a second room, where five Oni blew opium smoke into the faces of twenty enthralled humans, each wearing the holy symbol of [[Kelemvor]]. They were the missing Warlock Knights of the [[Crimson Dawn Knights|Crimson Dawn]], gorging on a feast of human flesh while their bodies slowly turned porcine and grotesquely fat. The party attacked them on sight. When the Mirage Arcane failed with her death, the knights lay unconscious on the stone floor of the Helios Palace catacombs, and her private chamber receded into a mausoleum holding three black coffins.

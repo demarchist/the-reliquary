@@ -31,3 +31,9 @@ The court also revealed that the species is organised through family and rank. [
 Oni connect the otherwise strange coalition surrounding the Bloodstone Lands. They serve Zhengyi, appear beside Red Wizards, operate near vampires, hunt for Vulkan, and mature inside a sovereign court below Helios. That does not prove every Oni shares one allegiance. The court's Tengu explicitly denied that vampires held authority there, while Nobutada described his northern business as his own. The evidence points to a coalition of powers with overlapping interests, not a single unbroken command.
 
 Their eastern appearance and weapons also overlap with Tark's lost history and with the broader Kara-Turan threads surrounding [[Samonosuke]] and [[Letji]], but no common command between those figures and the Oni has been established.
+
+## The Queen Falls
+
+[[Kishin Doji]] met the party in her own court as a porcelain-masked geisha who multiplied into a ring of duplicates. Around her, the adult Oni who had stayed behind fought with nightmare rays and cones of cold. They fell one by one, but they sent [[Steden]] back to the Nine Hells and wounded [[Jack Mayer Johnson Mathews|JmJm]]. Baby Oni joined the fighting, tackling [[Cirrus Al Kayan|Cirrus]] and tearing out one of his eyes, and clawing at [[Tarkathee Daru|Tark's]].
+
+The Queen died when Faerie Fire exposed her and the party cornered her, but only after wounding them badly. [[Nobutada]] and the warband he led away were not present. Her court's secret was a second dining room where five Oni used opium smoke to hold twenty Warlock Knights of the [[Crimson Dawn Knights|Crimson Dawn]] in a stupor while they ate human flesh and slowly took on porcine shapes. The party had already killed a sewer beast-man who had been a cursed human.

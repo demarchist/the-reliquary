@@ -33,3 +33,7 @@ On the morning of the ride to [[frostmoore-vale|Frostmoore Vale]], JmJm whistled
 ## Uni
 
 On the road to [[helioglabulus|Helios]], Steden met his celestial opposite in [[cassian|Cassian]]'s Pegasus Uni. The tension between the fiendish and the celestial was mutual and entirely undisguised — Uni kept as far from JmJm's devil-horse as the road would allow, and Steden shot the celestial withering looks in return.
+
+## The Court of Kishin Doji
+
+During the fight against [[Kishin Doji]]'s Oni in [[The Court of Kishin Doji|her court]] beneath [[helioglabulus|Helios]], the Oni struck Steden down and sent him back to the Nine Hells. He has returned from that before, reforming from cinders, and JmJm can whistle him back.

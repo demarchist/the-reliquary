@@ -36,3 +36,9 @@ The iron door at the chamber's far end showed signs of regular use. Beyond it, a
 The catacombs unite several parts of the Bloodstone conspiracy in one physical system: missing citizens become material; golems collect them; warlocks and zombies protect the routes; Thayan necromancers process them; infant Oni mature among the dead; and the suspected coffins of the realm's vampiric powers lie farther within.
 
 This is more than a secret lair. It is a second government under the capital—one concerned with bodies, transformation, and control while the official court withdraws behind guarded doors above. Yet it is not a single government: the Oni court denied that vampires held authority in its domain, even as Oni children fed beside the Thayan laboratory below. The undercity contains cooperating interests, rival jurisdictions, or both.
+
+## The Mausoleum
+
+When the party killed [[Kishin Doji]], the *Mirage Arcane* over [[The Court of Kishin Doji]] collapsed and showed what the lair had been built on: the plain stonework of the Helios Palace crypt. The Oni Queen's private chamber dissolved into a large mausoleum branching from the main catacomb. Three black coffins stood in its centre while liquid dripped onto their closed lids.
+
+This is the chamber [[Horatio Von Bumidere|Buumi]] saw at [[gravenhollow|Gravenhollow]]. It was hidden behind the court all along, which means the Oni's pleasure house and the Thayan workshop did more than share a threshold: both sat on the road to the coffins. The party has not yet opened one, and it is not yet confirmed whose they are.
