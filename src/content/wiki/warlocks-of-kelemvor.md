@@ -16,3 +16,7 @@ Where the Paladins of Lathander serve the rising sun and the moral renewal of ea
 ## In the Order
 
 The order's command is jointly held by [[lord-aimu|Lord Aimu]] of the Paladin half and [[lady-timea|Lady Timea]] of the Warlock half — the political and theological partnership that holds the merger together. Warlocks of Kelemvor accompany Crimson Dawn knights on investigations into suspected necromancy, as when the order arrived at [[house-muskov|House Muskov]] following the death of [[brusso-muskov|Lord Brusso]] and confirmed a lingering necromantic foulness in the corpse. They serve, in practice, as the order's living detectors of the dark.
+
+## Fattened for the Table
+
+The Warlocks who vanished from the streets of [[helioglabulus|Helios]] were found in the second dining room of [[The Court of Kishin Doji]]: twenty of them, enthralled by opium smoke and feasting on human flesh while their bodies became porcine and enormously fat. The Order's detectors of the dark had been turned into a delicacy for the Oni, or a stock for something worse.

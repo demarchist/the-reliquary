@@ -26,3 +26,7 @@ When disappearances and Thayan attacks escalated across Helios, the Order's defi
 At the same time, Lord Aimu gathered his own paladins and attempted to return with the party to the capital. A failed Teleport placed that group in Mulmaster, delaying its arrival but demonstrating that at least one branch of the Order was trying to intervene.
 
 The distinction prevents an easy verdict on the whole institution. The Crimson Dawn may be infiltrated, obeying lawful orders from a compromised court, concentrating on elite protection during panic, or fractured between commanders. Whatever the cause, its practical result is the same: citizens disappear into [[The Catacombs of Helioglabulus|the catacombs]] while the realm's military order guards closed doors above them.
+
+## The Warlock Knights Found
+
+The Order's missing Warlocks of [[Kelemvor]] were found in [[The Court of Kishin Doji]], beneath the castle. Twenty of them sat in booths, enthralled by five Oni who blew opium smoke into their faces while they ate human flesh. Each still wore the holy symbol of Kelemvor, and each was slowly acquiring porcine features and ballooning in size. They were not dead, and not traitors. They were captives, and the change creeping over them echoed the cursed beast-man the party had killed in the sewers. After the party killed [[Kishin Doji]], they lay unconscious on the catacomb floor.

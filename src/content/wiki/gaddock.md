@@ -59,7 +59,7 @@ The logic stilled Tark's hand, though it did nothing to ease his grief. The grou
 
 In the Halls of the Present at [[gravenhollow|Gravenhollow]], [[horatio-von-bumidere|Buumi]] sought out Gaddock's coffin and saw a human-wrought catacomb of ancient tombs and vaults, crawling with hundreds of small, tusked, baby-like Oni fighting, devouring the weakest among them, and shapeshifting as they learned their powers. The infant fiends crowded a well-kept section of the catacombs but kept clear of three black coffins in a large vaulted chamber — Gaddock's resting place, and, the group suspects, the resting places of the Queen and the [[vampire-knight-of-frostmoore|Vampire Knight]] as well.
 
-The party later entered [[The Catacombs of Helioglabulus|the catacombs]] through Helios's sewers and found the same combination of human tombs, infant Oni, and organised necromancy. They have not yet reached the vaulted chamber or verified which coffin belongs to whom, but the vision's setting is now confirmed beneath the castle rather than merely inferred somewhere in the region.
+The party later entered [[The Catacombs of Helioglabulus|the catacombs]] through Helios's sewers and found the same combination of human tombs, infant Oni, and organised necromancy. With the death of [[Kishin Doji]] and the collapse of the *Mirage Arcane* over her court, the party found a mausoleum with three black coffins in its centre and liquid dripping onto their lids. They have not yet opened one or verified which coffin belongs to whom, but the vault Buumi saw is now a real place.
 
 ## The Reunion at Frostmoore
 

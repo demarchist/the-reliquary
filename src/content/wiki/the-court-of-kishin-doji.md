@@ -32,3 +32,13 @@ It was here the group met [[Nobutada]], son of Kishin Doji, who emerged from the
 The establishment imitates hospitality, but each detail expresses jurisdiction. The foyer decides who may enter. The dining room gathers an armed aristocracy. The private chamber separates Kishin Doji's family from ordinary patrons, while servants and food conceal violence beneath glamour. Even the opium haze softens the boundary between willing guest and captive.
 
 Its position beside the Thayan workshop is therefore politically important. The regularly used door proves traffic between the spaces, but the Tengu's contempt for vampires and Nobutada's independent command show that no single faction simply owns the undercity. The court is a neighbouring power with its own rules—and a pleasant surface constructed to make predation look like civilisation.
+
+## The Second Dining Room
+
+Behind the blue curtains of the main hall lay a larger room: booths ringing a curving bartop, Tengu hurrying between tables, a Succubus pouring drinks, and the porcine chef chopping in the back. At each booth an Oni blew opium smoke into the faces of four humans, twenty in total, who gorged on a feast of human flesh while slowly gaining porcine features and ballooning in size. Every one of them wore the holy symbol of [[Kelemvor]]: the missing Warlock Knights of the [[Crimson Dawn Knights|Crimson Dawn]]. [[Gundren Rockseeker|Gundren]] decided they had to intervene, and the party attacked.
+
+The room's defenders included the chef with his cleaver, a great human-faced serpent that vomited decapitated heads, a Bloodkiss that attacked from a side passage, a Succubus, and finally [[Kishin Doji]] herself, who stepped out from behind a set of paper doors as a porcelain-masked geisha and multiplied.
+
+## The Fall of the Court
+
+When Kishin Doji died, the *Mirage Arcane* began to warble and fail. The paper walls, silk curtains, and lacquered wood slid away to reveal the plain human stonework of the Helios Palace crypt, with the cursed humans lying unconscious on the floor and moans still rising from a side passage. A commotion could be heard from the old entrance, once the foyer of the sake-house. The Queen's private chamber dissolved into a large mausoleum off the main catacomb, three black coffins standing in the centre of the room while liquid dripped onto their closed lids.
