@@ -14,7 +14,7 @@ The lake serves as a natural boundary between these two rival landmarks, with FÃ
 
 ## The Horseshoe
 
-The Red Hills stand around the lake's northern end in a great horseshoe more than three miles across, up to twenty-four hundred feet above the water. The lake runs on south past their ends, in a long arm reaching out across the shelf. Its shores are left wild, moor and wood, with one road through them to the Fane. The river leaves by its old course on the west side, down the barony's works and past [[kossenberg|New Kossenberg]], to go over [[thunder-rapids|Hammerfall]].
+The Red Hills stand around the lake's northern end in a great horseshoe more than three miles across, up to twenty-four hundred feet above the water. The lake runs on south past their ends, in a long arm reaching out across the shelf. Its shores are left wild, moor and wood, with one road through them to the Fane. The river leaves by its old course on the west side, down the barony's works and past [[selunia|New Daggerford]], to go over [[thunder-rapids|Hammerfall]].
 
 ## The Buried Crater
 

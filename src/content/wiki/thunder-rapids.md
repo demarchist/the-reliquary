@@ -2,12 +2,12 @@
 title: "Thunder Rapids"
 category: "Places"
 aliases: ["The Thunder Rapids", "Hammerfall"]
-description: "The stretch of the River Rauvin that falls nine hundred feet past New Kossenberg through a boulder-choked slot, and gives the region its name."
+description: "The stretch of the River Rauvin that falls nine hundred feet past New Daggerford through a boulder-choked slot, and gives the region its name."
 image: "/images/barony/stair.jpg"
 imageAlt: "Helm's Stair, seen from the pool below"
 ---
 
-The Thunder Rapids are the stretch of the River Rauvin that runs past [[kossenberg|New Kossenberg]], and they give the whole region its name. The roar is said to be audible for miles. In a little under five miles the river falls some nine hundred feet, through a twisting slot in the ancient rock of the [[thunder-bluff|Thunder Bluff]] shelf.
+The Thunder Rapids are the stretch of the River Rauvin that runs past [[selunia|New Daggerford]], and they give the whole region its name. The roar is said to be audible for miles. In a little under five miles the river falls some nine hundred feet, through a twisting slot in the ancient rock of the [[thunder-bluff|Thunder Bluff]] shelf.
 
 This is no broad, wave-torn water. The slot is narrow and its floor is choked with blocks the size of houses, shed from the walls faster than the river can clear them. The water is forced to squeeze, twist and plummet through whatever gaps they leave. It runs white and thunderous over the ledges, and clear glacial turquoise in the pockets behind the rocks, against stone that is dark and slick with algae at the waterline.
 

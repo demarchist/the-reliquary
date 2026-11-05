@@ -8,7 +8,7 @@ image: "/images/barony/crossroads.jpg"
 imageAlt: "The Establishment, left, and the JMJM Theater, across the street from it"
 ---
 
-The Establishment is a bustling underworld commercial complex located at the crossroads in the middle of [[kossenberg|New Kossenberg]], where the Trade Way meets the street to the Keep, directly across the street from the [[jmjm-theater|JMJM Theater]]. It is owned and operated by [[Aliyah Faen Tlabbar|Patches]], who uses it both as a business venture and as a way to cement her network of connections among the shady underbelly of the region.
+The Establishment is a bustling underworld commercial complex located at the crossroads in the middle of [[selunia|New Daggerford]], where the Trade Way meets the street to the Keep, directly across the street from the [[jmjm-theater|JMJM Theater]]. It is owned and operated by [[Aliyah Faen Tlabbar|Patches]], who uses it both as a business venture and as a way to cement her network of connections among the shady underbelly of the region.
 
 ## Exterior
 

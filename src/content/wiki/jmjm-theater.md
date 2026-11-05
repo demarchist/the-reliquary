@@ -7,7 +7,7 @@ image: "/images/barony/theater_air.jpg"
 imageAlt: "The JMJM Theater from above, with the Establishment beside it"
 ---
 
-The Jack Mayer Johnson Mathews Theater — commonly known as The JMJMT or simply the JMJM Theater — is an elaborate performance venue in the middle of [[kossenberg|New Kossenberg]], a great round drum of a building directly across the street from [[the-establishment|the Establishment]]. It is owned, operated, and headlined by [[Jack Mayer Johnson Mathews|Jack Mayer Johnson Mathews]] himself.
+The Jack Mayer Johnson Mathews Theater — commonly known as The JMJMT or simply the JMJM Theater — is an elaborate performance venue in the middle of [[selunia|New Daggerford]], a great round drum of a building directly across the street from [[the-establishment|the Establishment]]. It is owned, operated, and headlined by [[Jack Mayer Johnson Mathews|Jack Mayer Johnson Mathews]] himself.
 
 ## Exterior
 

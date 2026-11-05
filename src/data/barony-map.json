@@ -47,8 +47,8 @@
    },
    {
     "n": 5,
-    "label": "New Kossenberg",
-    "slug": "kossenberg",
+    "label": "New Daggerford (Selunia)",
+    "slug": "selunia",
     "x": 1126.6,
     "y": 1676.6,
     "dx": 22,
@@ -57,6 +57,26 @@
    },
    {
     "n": 6,
+    "label": "Kossenberg",
+    "slug": "kossenberg",
+    "x": 1436.2,
+    "y": 1306.7,
+    "dx": 16,
+    "dy": -10,
+    "anchor": "start"
+   },
+   {
+    "n": 7,
+    "label": "Tark's Dojo",
+    "slug": "tarks-dojo",
+    "x": 1915.2,
+    "y": 1541.8,
+    "dx": 16,
+    "dy": 14,
+    "anchor": "start"
+   },
+   {
+    "n": 8,
     "label": "Keep of Thunder Bluff",
     "slug": "keep-of-thunder-bluff",
     "x": 1117.7,
@@ -66,7 +86,7 @@
     "anchor": "middle"
    },
    {
-    "n": 7,
+    "n": 9,
     "label": "Rockseeker Manufactory",
     "slug": "rockseeker-manufactory",
     "x": 823.2,
@@ -76,7 +96,7 @@
     "anchor": "end"
    },
    {
-    "n": 8,
+    "n": 10,
     "label": "Hammerfall",
     "slug": "thunder-rapids",
     "x": 770.0,
@@ -86,7 +106,7 @@
     "anchor": "end"
    },
    {
-    "n": 9,
+    "n": 11,
     "label": "Thunder Rapids",
     "slug": "thunder-rapids",
     "x": 1011.3,
@@ -96,7 +116,7 @@
     "anchor": "end"
    },
    {
-    "n": 10,
+    "n": 12,
     "label": "The Doorstep",
     "slug": "thunder-rapids",
     "x": 1383.9,
@@ -106,7 +126,7 @@
     "anchor": "start"
    },
    {
-    "n": 11,
+    "n": 13,
     "label": "Old Kossenberg",
     "slug": "kossenberg",
     "x": 2075.8,
@@ -116,7 +136,7 @@
     "anchor": "end"
    },
    {
-    "n": 12,
+    "n": 14,
     "label": "Shadowmoon Village",
     "slug": "shadowmoon-village",
     "x": 1614.5,
@@ -126,7 +146,7 @@
     "anchor": "start"
    },
    {
-    "n": 13,
+    "n": 15,
     "label": "High-Hold",
     "slug": "high-hold",
     "x": 1013.1,
@@ -136,7 +156,7 @@
     "anchor": "end"
    },
    {
-    "n": 14,
+    "n": 16,
     "label": "Moondancer Village",
     "slug": "moondancer-village",
     "x": 124.2,
@@ -146,7 +166,7 @@
     "anchor": "start"
    },
    {
-    "n": 15,
+    "n": 17,
     "label": "Tark's Treehouse",
     "slug": "tarks-treehouse",
     "x": 1174.5,
@@ -156,7 +176,7 @@
     "anchor": "start"
    },
    {
-    "n": 16,
+    "n": 18,
     "label": "The Red Hill",
     "slug": "kossenberg",
     "x": 1664.2,
@@ -166,17 +186,17 @@
     "anchor": "start"
    },
    {
-    "n": 17,
+    "n": 19,
     "label": "Oldstone",
     "slug": "kossenberg",
     "x": 1858.5,
     "y": 1361.7,
     "dx": 16,
-    "dy": -4,
+    "dy": -12,
     "anchor": "start"
    },
    {
-    "n": 18,
+    "n": 20,
     "label": "Ranger lodge",
     "slug": "lake-seluna",
     "x": 328.2,
@@ -186,7 +206,7 @@
     "anchor": "end"
    },
    {
-    "n": 19,
+    "n": 21,
     "label": "Where the Ziggurat stood",
     "slug": "the-moonwood",
     "x": 1210.9,
@@ -201,7 +221,7 @@
   "image": "/images/barony/topo-city.jpg",
   "width": 2200,
   "height": 1311,
-  "title": "New Kossenberg and the Thunder Rapids",
+  "title": "New Daggerford and the Thunder Rapids",
   "pins": [
    {
     "n": 1,
@@ -276,7 +296,7 @@
    {
     "n": 8,
     "label": "Upper Bridge",
-    "slug": "kossenberg",
+    "slug": "selunia",
     "x": 247.1,
     "y": 266.9,
     "dx": 16,

@@ -8,7 +8,7 @@ image: "/images/barony/hold.jpg"
 imageAlt: "The Keep of Thunder Bluff, with the temple's copper dome inside its walls"
 ---
 
-The Temple of Helm is a grand temple at the heart of the [[keep-of-thunder-bluff|Keep of Thunder Bluff]], the massive hold on the gorge's edge in the middle of [[kossenberg|New Kossenberg]]. Temple and Keep are one. It is dedicated to Helm, the god of guardians, protectors, and watchmen.
+The Temple of Helm is a grand temple at the heart of the [[keep-of-thunder-bluff|Keep of Thunder Bluff]], the massive hold on the gorge's edge in the middle of [[selunia|New Daggerford]]. Temple and Keep are one. It is dedicated to Helm, the god of guardians, protectors, and watchmen.
 
 ## Architecture
 

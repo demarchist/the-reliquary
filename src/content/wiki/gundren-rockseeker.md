@@ -43,7 +43,7 @@ The group recovered Cornubel's desiccated remains from beside the core for a pro
 
 ## The Rockseeker Manufactory
 
-Gundren built the Rockseeker Manufactory on the gorge's rim just west of New Kossenberg — a massive, sprawling complex of forges, foundries, and workshops where his extended family, renowned for their expertise in metalworking, produce some of the finest weapons and armor in Faerûn. Day-to-day operations are now run by his brothers Barthen and Nundro, with Smith Slagbelcher serving as foreman. The Manufactory is a major employer in the region.
+Gundren built the Rockseeker Manufactory on the gorge's rim just west of New Daggerford — a massive, sprawling complex of forges, foundries, and workshops where his extended family, renowned for their expertise in metalworking, produce some of the finest weapons and armor in Faerûn. Day-to-day operations are now run by his brothers Barthen and Nundro, with Smith Slagbelcher serving as foreman. The Manufactory is a major employer in the region.
 
 After the Modron wreck beneath the [[River Surbrin]] was rediscovered, the Manufactory began organising an expedition to excavate it properly. At the same time, its workers catalogued the remains of [[The Acheron Spelljammer|the Acheron wreck]] hauled through the Gate. Gundren's workshop has become the place where two unrelated planar vessels are translated into inventories, materials, and eventually decisions about what should be rebuilt.
 

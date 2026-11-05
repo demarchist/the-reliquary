@@ -5,10 +5,10 @@ aliases: ["Barony of Thunder Bluff"]
 firstAppearance: "chapter-01-session-01"
 description: "A thousand-foot cliff overlooking the River Rauvin — seat of the independent Barony governed by the Faerûn Defense Force, and the party's home."
 image: "/images/barony/city_air.jpg"
-imageAlt: "New Kossenberg and the Keep of Thunder Bluff, with Lake Selûna and the Red Hills beyond"
+imageAlt: "New Daggerford and the Keep of Thunder Bluff, with Lake Selûna and the Red Hills beyond"
 layout: "gazetteer"
 hero: "/images/barony/hero.jpg"
-heroAlt: "The red walls of the Keep of Thunder Bluff on their prow of rock above the gorge, the roofs of New Kossenberg behind them, and beyond, Lake Selûna and the waterfalls of the Red Hills."
+heroAlt: "The red walls of the Keep of Thunder Bluff on their prow of rock above the gorge, the roofs of New Daggerford behind them, and beyond, Lake Selûna and the waterfalls of the Red Hills."
 facts:
   - value: "1,000 ft"
     label: "Thunder Bluff, from the Keep's walls to the Rauvin"
@@ -20,6 +20,7 @@ facts:
     label: "the fall of the Thunder Rapids, in under five miles"
 places:
   - keep-of-thunder-bluff
+  - selunia
   - kossenberg
   - thunder-rapids
   - rockseeker-manufactory
@@ -32,11 +33,12 @@ places:
   - shadowmoon-village
   - high-hold
   - tarks-treehouse
+  - tarks-dojo
   - moondancer-village
   - the-moonwood
 ---
 
-Thunder Bluff is a thousand-foot cliff overlooking the River Rauvin along the Trade Way between [[neverwinter|Neverwinter]] and [[silverymoon|Silverymoon]], the thunder of rapids echoing off its sides. To the north rises the magical forest of the [[the-moonwood|Moonwood]]; to the south, the grey expanse of the [[the-evermoors|Evermoors]] stretches to the horizon. Between them lies [[selunia|Selunia]], the greater barony, and at its heart the walled city of [[kossenberg|New Kossenberg]].
+Thunder Bluff is a thousand-foot cliff overlooking the River Rauvin along the Trade Way between [[neverwinter|Neverwinter]] and [[silverymoon|Silverymoon]], the thunder of rapids echoing off its sides. To the north rises the magical forest of the [[the-moonwood|Moonwood]]; to the south, the grey expanse of the [[the-evermoors|Evermoors]] stretches to the horizon. Between them lies [[selunia|Selunia]], the greater barony, and at its heart the walled city of [[selunia|New Daggerford]].
 
 <div data-map-slot="barony"></div>
 
@@ -46,7 +48,7 @@ The country descends in great steps from the frigid heights of the north toward 
 
 <figure class="plate">
 <img src="/images/barony/show_south.jpg" alt="The whole barony from high in the south: the gorge of the Rauvin and the walled city in the foreground, farmland, Lake Selûna in its horseshoe of red cliffs, and the Moonwood beyond." width="1600" height="900" loading="lazy" />
-<figcaption>The barony from the south. The Rauvin's gorge runs along the foreground, under New Kossenberg. Beyond the farms, the Red Hills stand around Lake Selûna, and the Moonwood's plateau runs on behind them.</figcaption>
+<figcaption>The barony from the south. The Rauvin's gorge runs along the foreground, under New Daggerford. Beyond the farms, the Red Hills stand around Lake Selûna, and the Moonwood's plateau runs on behind them.</figcaption>
 </figure>
 
 ### The High Moonwood Plateau
@@ -86,7 +88,7 @@ East and west of the lake the cliffs do not end so much as fade. The red sandsto
 
 South of the lake lies the Thunder Bluff shelf — a broad bench of ancient, hard rock, planed nearly flat, with low hills left standing where the rock resisted. The shore of the lake is still moor and wood, crossed by a single road to the [[fane-of-selune|Fane]]. Beyond it the land has gone under the plough, and it is farmed in hedged fields from the cliffs' foot to the city's walls.
 
-The Trade Way comes up the north bank of the Rauvin from the south-east, keeping to the river until the shelf opens out, and crosses it to the north-west. It is the shelf's one great road: broad and well metalled, with worn shoulders and old trees along it outside the walls, hamlets at its halts, and New Kossenberg as its main street.
+The Trade Way comes up the north bank of the Rauvin from the south-east, keeping to the river until the shelf opens out, and crosses it to the north-west. It is the shelf's one great road: broad and well metalled, with worn shoulders and old trees along it outside the walls, hamlets at its halts, and New Daggerford as its main street.
 
 The lake's river leaves by its old course and runs down the west side of the city, held to its line by stone banks and low weirs. The land to the west lies lower than the water; without the barony's works, the river would leave. Two cuts bleed water off it through the city for boats and for high water, and a millrace drives the wheels of the [[rockseeker-manufactory|Rockseeker Manufactory]].
 
@@ -101,15 +103,28 @@ The lake's river leaves by its old course and runs down the west side of the cit
 </figure>
 </div>
 
-### New Kossenberg
+Kossenberg is older than any of it: the farming village was working the shelf before the barony was a barony. It stands on the road along the shelf north-east of the city, toward the cliffs' foot, its crofts running back into the fields. East of the farms the shelf rises to Oldstone, and in the woods on the slope below it is [[tarks-dojo|Tark's dojo]].
 
-The shelf ends at the gorge, and [[kossenberg|New Kossenberg]] stands right on its edge: an irregular walled city of some five thousand roofs, grown along its old roads rather than laid out. Its lanes are narrow and no two run the same way, and they tighten around the crossroads where the Trade Way meets the street to the Keep. There, across the street from each other, stand the [[the-establishment|Establishment]], plain as a barn and doing its best to stay unnoticed, and the [[jmjm-theater|JMJM Theater]], which is doing the opposite.
+<div class="plates">
+<figure>
+<img src="/images/barony/kossenberg.jpg" alt="Kossenberg's houses along the road and up the lane from the green, crofts behind them and fields beyond, with the red cliffs on the horizon." width="1600" height="900" loading="lazy" />
+<figcaption>Kossenberg, the farming village up the road.</figcaption>
+</figure>
+<figure>
+<img src="/images/barony/dojo.jpg" alt="A roofed gate at the head of a stone stair between white tile-capped walls, the dojo's great roof rising behind among pines and stone lanterns." width="1600" height="900" loading="lazy" />
+<figcaption>Tark's dojo, from the path below its gate.</figcaption>
+</figure>
+</div>
+
+### New Daggerford
+
+The shelf ends at the gorge, and New Daggerford — slowly coming to be called [[selunia|Selunia]] — stands right on its edge: an irregular walled city of some five thousand roofs, grown along its old roads rather than laid out. Its lanes are narrow and no two run the same way, and they tighten around the crossroads where the Trade Way meets the street to the Keep. There, across the street from each other, stand the [[the-establishment|Establishment]], plain as a barn and doing its best to stay unnoticed, and the [[jmjm-theater|JMJM Theater]], which is doing the opposite.
 
 <div data-map-slot="city"></div>
 
 <figure class="plate">
-<img src="/images/barony/city_air.jpg" alt="New Kossenberg from above the gorge: the Keep on the cliff's edge, the city's tangled lanes behind it, and beyond them the river works, the farms and the lake." width="1600" height="900" loading="lazy" />
-<figcaption>New Kossenberg from over the gorge, with the Keep at its heart.</figcaption>
+<img src="/images/barony/city_air.jpg" alt="New Daggerford from above the gorge: the Keep on the cliff's edge, the city's tangled lanes behind it, and beyond them the river works, the farms and the lake." width="1600" height="900" loading="lazy" />
+<figcaption>New Daggerford from over the gorge, with the Keep at its heart.</figcaption>
 </figure>
 
 ### Thunder Bluff and the Keep
@@ -145,26 +160,27 @@ The river follows a great fault. The shelf is the side that rose and the land to
 
 ## The Barony
 
-The Barony of Thunder Bluff was awarded to the party by High Marshal Arasume in the aftermath of the failed Amnian coup at [[silverymoon|Silverymoon]]. The entire region for miles around lies within the barony's political boundaries, governed by a council of adventurers who call themselves the [[faerun-defense-force|Faerûn Defense Force]] — though their detractors know them as the Heralds of Woe. Its people have come to call the whole country [[selunia|Selunia]].
+The Barony of Thunder Bluff was awarded to the party by High Marshal Arasume in the aftermath of the failed Amnian coup at [[silverymoon|Silverymoon]]. The entire region for miles around lies within the barony's political boundaries, governed by a council of adventurers who call themselves the [[faerun-defense-force|Faerûn Defense Force]] — though their detractors know them as the Heralds of Woe. Its city, New Daggerford, is slowly coming to be called [[selunia|Selunia]], and the barony often goes by that name too.
 
-When the party first arrived, the ranger Moogie gave them a survey: the ruined castle of High Hold (Moorwatch), destroyed two years earlier by the Orcish Horde; [[kossenberg|Kossenberg]]; Old Kossenberg, the ruins of the original settlement, far off in the hills to the north-east; Lake [[selune|Selûna]] and its ranger lodge; the Red Hill with its iron deposits and the Glittering Caves beneath; and Oldstone, a sacred menhir older than local memory.
+When the party first arrived, the ranger Moogie gave them a survey: the ruined castle of High Hold (Moorwatch), destroyed two years earlier by the Orcish Horde; the village of [[kossenberg|Kossenberg]], at the foot of the Moonwood; Old Kossenberg, the ruins of the original settlement, far off in the hills to the north-east; Lake [[selune|Selûna]] and its ranger lodge; the Red Hill with its iron deposits and the Glittering Caves beneath; and Oldstone, a sacred menhir older than local memory.
 
 ## Settlement
 
 A tribe of orc deserters who had fled the Horde and been driven from caves beneath the bluff by the spirit troll Shadowclaw were the barony's first citizens. The party offered them land in the barony — the ruins of Old Kossenberg were the first thing named — in exchange for proof of strength: destroying Shadowclaw from the caverns. The tribe settled in Thunder Bluff itself, at [[shadowmoon-village|Shadowmoon Village]] on the Rauvin's south bank, south-east of the city. Freed slaves from across the North later made their way to [[selunia|Selunia]], drawn by the promise of a fresh start.
 
 <figure class="plate">
-<img src="/images/barony/shadowmoon_air.jpg" alt="Shadowmoon Village behind its palisade among strip fields on the south bank of the Rauvin, with the river running up to white water, New Kossenberg and the Keep on the rim beyond, and the falls of the Red Hills in the distance." width="1600" height="900" loading="lazy" />
+<img src="/images/barony/shadowmoon_air.jpg" alt="Shadowmoon Village behind its palisade among strip fields on the south bank of the Rauvin, with the river running up to white water, New Daggerford and the Keep on the rim beyond, and the falls of the Red Hills in the distance." width="1600" height="900" loading="lazy" />
 <figcaption>Shadowmoon Village on the south bank, looking up the shelf past the Doorstep to the city and the falls.</figcaption>
 </figure>
 
 ## Other Landmarks
 
 <figure class="plate">
-<img src="/images/barony/high_hold.jpg" alt="The broken walls and collapsed keep of High-Hold on the rim of the gorge, with New Kossenberg's houses stopping short of it and the red cliffs and falls far behind." width="1600" height="900" loading="lazy" />
+<img src="/images/barony/high_hold.jpg" alt="The broken walls and collapsed keep of High-Hold on the rim of the gorge, with New Daggerford's houses stopping short of it and the red cliffs and falls far behind." width="1600" height="900" loading="lazy" />
 <figcaption>High-Hold, on the next prow west of the Keep.</figcaption>
 </figure>
 
 - **[[snorbuls-hole|Snorbul's Hole]]** — underground fighting arena
 - **[[tarks-treehouse|Tark's Treehouse]]** — Tark's home, high in a towering oak
+- **[[tarks-dojo|Tark's Dojo]]** — Tark's training hall, in the woods below Oldstone
 - **[[high-hold|High-Hold]]** — the ruined castle of Moorwatch

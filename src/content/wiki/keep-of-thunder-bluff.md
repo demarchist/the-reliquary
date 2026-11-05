@@ -3,12 +3,12 @@ title: "The Keep of Thunder Bluff"
 category: "Places"
 aliases: ["The Keep", "Herald's Keep"]
 firstAppearance: "chapter-01-session-01"
-description: "A massive hold of red-hued stone at the heart of New Kossenberg, on the prow of Thunder Bluff — housing the Temple of Helm and the military heart of the Barony."
+description: "A massive hold of red-hued stone at the heart of New Daggerford, on the prow of Thunder Bluff — housing the Temple of Helm and the military heart of the Barony."
 image: "/images/barony/hold.jpg"
 imageAlt: "The Keep of Thunder Bluff on its prow above the gorge"
 ---
 
-The Keep of Thunder Bluff is a massive hold at the heart of [[kossenberg|New Kossenberg]], standing atop the thousand-foot rocky prominence of [[thunder-bluff|Thunder Bluff]], with the gorge of the Rauvin on three sides. Its seamless walls of red-hued stone reflect moonlight across the valley. Built by skilled dwarven architects, engineers, and labourers, it was commissioned by the [[faerun-defense-force|Faerûn Defense Force]] after High Marshal Arasume awarded them the Barony. [[cirrus-al-kayan|Cirrus]] proposed naming it Herald's Keep at the Council of Helm's Hold, and everyone agreed.
+The Keep of Thunder Bluff is a massive hold at the heart of [[selunia|New Daggerford]], standing atop the thousand-foot rocky prominence of [[thunder-bluff|Thunder Bluff]], with the gorge of the Rauvin on three sides. Its seamless walls of red-hued stone reflect moonlight across the valley. Built by skilled dwarven architects, engineers, and labourers, it was commissioned by the [[faerun-defense-force|Faerûn Defense Force]] after High Marshal Arasume awarded them the Barony. [[cirrus-al-kayan|Cirrus]] proposed naming it Herald's Keep at the Council of Helm's Hold, and everyone agreed.
 
 ## The Temple of Helm
 

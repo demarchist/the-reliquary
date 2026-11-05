@@ -3,12 +3,12 @@ title: "Rockseeker Manufactory"
 category: "Places"
 aliases: ["The Manufactory"]
 firstAppearance: "chapter-01-session-01"
-description: "A massive industrial complex on the gorge's rim, west of New Kossenberg, producing some of the finest weapons and armor in Faerûn."
+description: "A massive industrial complex on the gorge's rim, west of New Daggerford, producing some of the finest weapons and armor in Faerûn."
 image: "/images/barony/manufactory_air.jpg"
 imageAlt: "The Manufactory's ash-black yards, with its millrace and the river works in the foreground"
 ---
 
-The Rockseeker Manufactory is a massive, sprawling industrial complex on the rim of the Rauvin's gorge, just outside the western wall of [[kossenberg|New Kossenberg]] and beside [[thunder-rapids|Hammerfall]]. A millrace taken off the river above the falls drives its hammers and wheels. Built by Gundren Rockseeker, it is a hub of industry and innovation where skilled craftsmen and engineers create some of the finest weapons and armor in all of Faerûn.
+The Rockseeker Manufactory is a massive, sprawling industrial complex on the rim of the Rauvin's gorge, just outside the western wall of [[selunia|New Daggerford]] and beside [[thunder-rapids|Hammerfall]]. A millrace taken off the river above the falls drives its hammers and wheels. Built by Gundren Rockseeker, it is a hub of industry and innovation where skilled craftsmen and engineers create some of the finest weapons and armor in all of Faerûn.
 
 ## Operations
 

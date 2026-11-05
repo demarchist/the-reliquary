@@ -2914,6 +2914,16 @@
     "title": "Kossenberg",
     "category": "Places"
   },
+  "new kossenberg": {
+    "slug": "kossenberg",
+    "title": "Kossenberg",
+    "category": "Places"
+  },
+  "old kossenberg": {
+    "slug": "kossenberg",
+    "title": "Kossenberg",
+    "category": "Places"
+  },
   "krezk": {
     "slug": "krezk",
     "title": "Krezk",
@@ -4384,6 +4394,11 @@
     "title": "Selunia",
     "category": "Places"
   },
+  "new daggerford": {
+    "slug": "selunia",
+    "title": "Selunia",
+    "category": "Places"
+  },
   "senni": {
     "slug": "senni",
     "title": "Senni",
@@ -4769,6 +4784,16 @@
     "title": "Tarkathee Daru",
     "category": "People"
   },
+  "tark's dojo": {
+    "slug": "tarks-dojo",
+    "title": "Tark's Dojo",
+    "category": "Places"
+  },
+  "the dojo": {
+    "slug": "tarks-dojo",
+    "title": "Tark's Dojo",
+    "category": "Places"
+  },
   "tark's treehouse": {
     "slug": "tarks-treehouse",
     "title": "Tark's Treehouse",
@@ -5132,6 +5157,21 @@
   "barony of thunder bluff": {
     "slug": "thunder-bluff",
     "title": "Thunder Bluff",
+    "category": "Places"
+  },
+  "thunder rapids": {
+    "slug": "thunder-rapids",
+    "title": "Thunder Rapids",
+    "category": "Places"
+  },
+  "the thunder rapids": {
+    "slug": "thunder-rapids",
+    "title": "Thunder Rapids",
+    "category": "Places"
+  },
+  "hammerfall": {
+    "slug": "thunder-rapids",
+    "title": "Thunder Rapids",
     "category": "Places"
   },
   "thundercannon": {
@@ -7229,6 +7269,16 @@
     "title": "Tarkathee Daru",
     "category": "People"
   },
+  "tarks-dojo": {
+    "slug": "tarks-dojo",
+    "title": "Tark's Dojo",
+    "category": "Places"
+  },
+  "tarks dojo": {
+    "slug": "tarks-dojo",
+    "title": "Tark's Dojo",
+    "category": "Places"
+  },
   "tarks-treehouse": {
     "slug": "tarks-treehouse",
     "title": "Tark's Treehouse",
@@ -7382,6 +7432,11 @@
   "thunder-bluff": {
     "slug": "thunder-bluff",
     "title": "Thunder Bluff",
+    "category": "Places"
+  },
+  "thunder-rapids": {
+    "slug": "thunder-rapids",
+    "title": "Thunder Rapids",
     "category": "Places"
   },
   "titanic-forge": {
@@ -7558,30 +7613,5 @@
     "slug": "xuefang-the-adamant",
     "title": "Xuefang the Adamant",
     "category": "People"
-  },
-  "thunder rapids": {
-    "slug": "thunder-rapids",
-    "title": "Thunder Rapids",
-    "category": "Places"
-  },
-  "the thunder rapids": {
-    "slug": "thunder-rapids",
-    "title": "Thunder Rapids",
-    "category": "Places"
-  },
-  "hammerfall": {
-    "slug": "thunder-rapids",
-    "title": "Thunder Rapids",
-    "category": "Places"
-  },
-  "new kossenberg": {
-    "slug": "kossenberg",
-    "title": "Kossenberg",
-    "category": "Places"
-  },
-  "old kossenberg": {
-    "slug": "kossenberg",
-    "title": "Kossenberg",
-    "category": "Places"
   }
 }

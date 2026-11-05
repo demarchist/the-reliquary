@@ -3,24 +3,18 @@ title: "Kossenberg"
 category: "Places"
 aliases: ["New Kossenberg", "Old Kossenberg"]
 firstAppearance: "chapter-06-session-15"
-description: "The walled city at the heart of the Barony of Thunder Bluff, between Lake Selûna and the gorge of the Rauvin. Its ruined predecessor, Old Kossenberg, lies in the hills to the north-east."
-image: "/images/barony/city_air.jpg"
-imageAlt: "New Kossenberg from over the gorge, with the Keep at its heart"
+description: "The farming village of the Barony of Thunder Bluff, up the road north-east of New Daggerford toward the foot of the Moonwood: older than the barony itself. Its ruined predecessor, Old Kossenberg, lies in the hills to the north-east."
+image: "/images/barony/kossenberg.jpg"
+imageAlt: "Kossenberg among its fields, its lane running up from the green toward the red cliffs"
 ---
 
-Kossenberg — New Kossenberg, to tell it from the ruin — is the primary settlement of the Barony of [[thunder-bluff|Thunder Bluff]] and the home of most of the region's human population. It began as a village on the shelf south of the [[the-moonwood|Moonwood]] and has grown into a walled city on the edge of the Rauvin's gorge, between [[lake-seluna|Lake Selûna]] and the [[thunder-rapids|Thunder Rapids]].
+Kossenberg — New Kossenberg, to tell it from the ruin — is the farming village of the Barony of [[thunder-bluff|Thunder Bluff]]. It stands on the shelf up the road north-east of [[selunia|New Daggerford]], toward the foot of the [[the-moonwood|Moonwood]], and it is older than the barony: its farmers were working the shelf before the [[faerun-defense-force|Faerûn Defense Force]] were given the land, and before there was a city.
 
-## The City
+## The Village
 
-New Kossenberg was never planned. It grew along its old roads, and its lanes run wherever the blocks between them left room, tight and tall near the middle and loose and gardened near the walls. The Trade Way runs straight through it as its main street. The wall follows the landward side only, because the gorge needs no help, and suburbs straggle out along the roads beyond each gate.
+Nobody laid Kossenberg out. Its houses face the road along the shelf and the lane that leaves it at the green, each with a yard in front and a long croft behind it, and the bigger holdings have their barns. The fields begin where the crofts end. The meeting hall stands on the green under three old oaks, and the lane runs on north toward the woods, the red cliffs, and the forest paths beyond.
 
-- **[[keep-of-thunder-bluff|The Keep of Thunder Bluff]]** stands at the city's heart, on a prow of rock over the gorge, with the [[temple-of-helm|Temple of Helm]] inside its walls.
-- **[[the-establishment|The Establishment]]** and the **[[jmjm-theater|JMJM Theater]]** face each other across the street at the crossroads where the Trade Way meets the street to the Keep.
-- **[[rockseeker-manufactory|The Rockseeker Manufactory]]** lies just outside the western wall, on the gorge's rim.
-
-## The River Works
-
-The lake's river runs down the city's west side between stone banks, stepped down by low weirs and held to its line, because the land beyond it lies lower than the water. Two cuts carry boats through the city and bleed off high water over the rim to either side of the Keep. The river goes over the edge at [[thunder-rapids|Hammerfall]], from a lip the barony armoured to stop the falls eating their way back toward the streets.
+The village keeps its own counsel through its town elders, among them Mark, and meets in the hall when something has to be decided: a missing child, or a murder. Thirty of the freed slaves who came to the barony chose to stay in Kossenberg, and the village swore to help them build their homes. Its festivals bring the Moon Elves out of the forest.
 
 ## Old Kossenberg
 
@@ -28,4 +22,4 @@ Far off in the hills to the north-east lie the ruins of Old Kossenberg — the o
 
 ## Surrounding Landmarks
 
-The barony's other notable features include [[high-hold|High-Hold]], the ruined castle on the next prow of the bluff, which the city has grown around and will not build on; Lake Selûna and its ranger lodge on the western shore; the Red Hill at the foot of the eastern cliffs, with its iron workings and the Glittering Caves beneath; and Oldstone — a sacred menhir older than local memory, on the highest rise of the eastern shelf.
+The Red Hill stands at the foot of the eastern cliffs beyond the village, with its iron workings and the Glittering Caves beneath. Oldstone — a sacred menhir older than local memory — stands on the highest rise of the eastern shelf, and in the woods on the slope below it is [[tarks-dojo|Tark's dojo]]. Down the road lies [[selunia|New Daggerford]], with [[high-hold|High-Hold]] on the next prow of the bluff, and Lake Selûna and its ranger lodge lie to the west.
