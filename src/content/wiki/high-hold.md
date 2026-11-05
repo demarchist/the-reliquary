@@ -4,9 +4,13 @@ category: "Places"
 aliases: ["High-Hold", "Moorwatch"]
 firstAppearance: "chapter-06-session-15"
 description: "A ruined castle atop Thunder Bluff destroyed by the Orcish Horde, later occupied by Luumsh's tribe and haunted by Commander Harold Ophrella's ghost."
+image: "/images/barony/high_hold.jpg"
+imageAlt: "The broken walls and collapsed keep of High-Hold on the rim of the gorge, seen from across the Rauvin"
 ---
 
 High-Hold — known locally as Moorwatch — is a ruined castle perched atop the thousand-foot cliff of Thunder Bluff, overlooking the thunderous rapids of the river Rauvin. Destroyed two years prior by the Orcish Horde during their devastating sweep through the region, the castle's walls are broken, its keep partially collapsed, and its corridors open to the sky.
+
+It stands on the next prow of the bluff west of the [[keep-of-thunder-bluff|Keep]], above the lower ledges of the [[thunder-rapids|Thunder Rapids]]. [[kossenberg|New Kossenberg]] has since grown up on three sides of it, and nobody builds on it: saplings stand in the bailey, and the houses stop at the old ditch.
 
 ## The Orc Occupation
 

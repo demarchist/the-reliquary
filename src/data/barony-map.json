@@ -114,6 +114,86 @@
     "dx": -2,
     "dy": -24,
     "anchor": "end"
+   },
+   {
+    "n": 12,
+    "label": "Shadowmoon Village",
+    "slug": "shadowmoon-village",
+    "x": 1614.5,
+    "y": 2042.1,
+    "dx": 18,
+    "dy": 26,
+    "anchor": "start"
+   },
+   {
+    "n": 13,
+    "label": "High-Hold",
+    "slug": "high-hold",
+    "x": 1013.1,
+    "y": 1815.9,
+    "dx": -14,
+    "dy": 30,
+    "anchor": "end"
+   },
+   {
+    "n": 14,
+    "label": "Moondancer Village",
+    "slug": "moondancer-village",
+    "x": 124.2,
+    "y": 443.5,
+    "dx": 16,
+    "dy": -14,
+    "anchor": "start"
+   },
+   {
+    "n": 15,
+    "label": "Tark's Treehouse",
+    "slug": "tarks-treehouse",
+    "x": 1174.5,
+    "y": 1020.2,
+    "dx": 16,
+    "dy": -8,
+    "anchor": "start"
+   },
+   {
+    "n": 16,
+    "label": "The Red Hill",
+    "slug": "kossenberg",
+    "x": 1664.2,
+    "y": 991.8,
+    "dx": 16,
+    "dy": 18,
+    "anchor": "start"
+   },
+   {
+    "n": 17,
+    "label": "Oldstone",
+    "slug": "kossenberg",
+    "x": 1858.5,
+    "y": 1361.7,
+    "dx": 16,
+    "dy": -4,
+    "anchor": "start"
+   },
+   {
+    "n": 18,
+    "label": "Ranger lodge",
+    "slug": "lake-seluna",
+    "x": 328.2,
+    "y": 851.6,
+    "dx": -14,
+    "dy": 8,
+    "anchor": "end"
+   },
+   {
+    "n": 19,
+    "label": "Where the Ziggurat stood",
+    "slug": "the-moonwood",
+    "x": 1210.9,
+    "y": 93.1,
+    "dx": 16,
+    "dy": -6,
+    "anchor": "start"
    }
   ]
  },
@@ -135,6 +215,16 @@
    },
    {
     "n": 2,
+    "label": "High-Hold",
+    "slug": "high-hold",
+    "x": 940.9,
+    "y": 929.4,
+    "dx": -6,
+    "dy": -24,
+    "anchor": "end"
+   },
+   {
+    "n": 3,
     "label": "The Establishment",
     "slug": "the-establishment",
     "x": 1192.7,
@@ -144,7 +234,7 @@
     "anchor": "end"
    },
    {
-    "n": 3,
+    "n": 4,
     "label": "JMJM Theater",
     "slug": "jmjm-theater",
     "x": 1250.7,
@@ -154,7 +244,7 @@
     "anchor": "start"
    },
    {
-    "n": 4,
+    "n": 5,
     "label": "Rockseeker Manufactory",
     "slug": "rockseeker-manufactory",
     "x": 440.0,
@@ -164,7 +254,7 @@
     "anchor": "start"
    },
    {
-    "n": 5,
+    "n": 6,
     "label": "Hammerfall",
     "slug": "thunder-rapids",
     "x": 299.6,
@@ -174,7 +264,7 @@
     "anchor": "end"
    },
    {
-    "n": 6,
+    "n": 7,
     "label": "The Anvil",
     "slug": "thunder-rapids",
     "x": 318.3,
@@ -184,7 +274,7 @@
     "anchor": "end"
    },
    {
-    "n": 7,
+    "n": 8,
     "label": "Upper Bridge",
     "slug": "kossenberg",
     "x": 247.1,
@@ -194,7 +284,7 @@
     "anchor": "start"
    },
    {
-    "n": 8,
+    "n": 9,
     "label": "The Doorstep",
     "slug": "thunder-rapids",
     "x": 1919.1,
@@ -204,7 +294,7 @@
     "anchor": "start"
    },
    {
-    "n": 9,
+    "n": 10,
     "label": "The Threshold",
     "slug": "thunder-rapids",
     "x": 1811.5,
@@ -214,7 +304,7 @@
     "anchor": "start"
    },
    {
-    "n": 10,
+    "n": 11,
     "label": "The Gullet",
     "slug": "thunder-rapids",
     "x": 1631.3,
@@ -224,7 +314,7 @@
     "anchor": "middle"
    },
    {
-    "n": 11,
+    "n": 12,
     "label": "The Tumbler",
     "slug": "thunder-rapids",
     "x": 1458.1,
@@ -234,7 +324,7 @@
     "anchor": "middle"
    },
    {
-    "n": 12,
+    "n": 13,
     "label": "Keep's Tooth",
     "slug": "thunder-rapids",
     "x": 1383.2,
@@ -244,7 +334,7 @@
     "anchor": "start"
    },
    {
-    "n": 13,
+    "n": 14,
     "label": "The Postern",
     "slug": "thunder-rapids",
     "x": 1296.6,
@@ -254,7 +344,7 @@
     "anchor": "middle"
    },
    {
-    "n": 14,
+    "n": 15,
     "label": "Helm's Stair",
     "slug": "thunder-rapids",
     "x": 1093.0,
@@ -264,7 +354,7 @@
     "anchor": "end"
    },
    {
-    "n": 15,
+    "n": 16,
     "label": "The Mangle",
     "slug": "thunder-rapids",
     "x": 756.0,
@@ -274,7 +364,7 @@
     "anchor": "middle"
    },
    {
-    "n": 16,
+    "n": 17,
     "label": "The Last Word",
     "slug": "thunder-rapids",
     "x": 554.7,
@@ -284,7 +374,7 @@
     "anchor": "middle"
    },
    {
-    "n": 17,
+    "n": 18,
     "label": "Spillover",
     "slug": "thunder-rapids",
     "x": 367.4,

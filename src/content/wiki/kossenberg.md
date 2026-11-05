@@ -24,8 +24,8 @@ The lake's river runs down the city's west side between stone banks, stepped dow
 
 ## Old Kossenberg
 
-Far off in the hills to the north-east lie the ruins of Old Kossenberg — the original town, destroyed two years prior to the group's arrival by the Orcish Horde during its devastating sweep through the region. The ruins were offered by the group as a settlement site for Luumsh's tribe of Orc deserters, with the ranger Moogie volunteering to break the news to Kossenberg's current residents over the coming months. A century of peaceful coexistence between humans and orcs in the region prior to the Horde's invasion gives some hope that the arrangement can work.
+Far off in the hills to the north-east lie the ruins of Old Kossenberg — the original town, destroyed two years prior to the group's arrival by the Orcish Horde during its devastating sweep through the region. The ruins were first offered to [[luumsh|Luumsh]]'s tribe of Orc deserters, but the tribe settled at [[shadowmoon-village|Shadowmoon Village]] on the Rauvin instead, and the old town stands empty, going back to the hills.
 
 ## Surrounding Landmarks
 
-The barony's other notable features include Lake Selûna and its ranger lodge, the Red Hill with its iron deposits and the Glittering Caves beneath, and Oldstone — a sacred menhir older than local memory.
+The barony's other notable features include [[high-hold|High-Hold]], the ruined castle on the next prow of the bluff, which the city has grown around and will not build on; Lake Selûna and its ranger lodge on the western shore; the Red Hill at the foot of the eastern cliffs, with its iron workings and the Glittering Caves beneath; and Oldstone — a sacred menhir older than local memory, on the highest rise of the eastern shelf.

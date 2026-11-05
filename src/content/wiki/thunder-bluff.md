@@ -29,6 +29,10 @@ places:
   - serinde-isle
   - feanons-tower
   - fane-of-selune
+  - shadowmoon-village
+  - high-hold
+  - tarks-treehouse
+  - moondancer-village
   - the-moonwood
 ---
 
@@ -82,7 +86,7 @@ East and west of the lake the cliffs do not end so much as fade. The red sandsto
 
 South of the lake lies the Thunder Bluff shelf — a broad bench of ancient, hard rock, planed nearly flat, with low hills left standing where the rock resisted. The shore of the lake is still moor and wood, crossed by a single road to the [[fane-of-selune|Fane]]. Beyond it the land has gone under the plough, and it is farmed in hedged fields from the cliffs' foot to the city's walls.
 
-The Trade Way crosses the shelf from south-east to north-west and is its one great road: broad, paved in pale stone and lined with trees outside the walls, with hamlets along it and New Kossenberg as its main street.
+The Trade Way comes up the north bank of the Rauvin from the south-east, keeping to the river until the shelf opens out, and crosses it to the north-west. It is the shelf's one great road: broad and well metalled, with worn shoulders and old trees along it outside the walls, hamlets at its halts, and New Kossenberg as its main street.
 
 The lake's river leaves by its old course and runs down the west side of the city, held to its line by stone banks and low weirs. The land to the west lies lower than the water; without the barony's works, the river would leave. Two cuts bleed water off it through the city for boats and for high water, and a millrace drives the wheels of the [[rockseeker-manufactory|Rockseeker Manufactory]].
 
@@ -147,9 +151,19 @@ When the party first arrived, the ranger Moogie gave them a survey: the ruined c
 
 ## Settlement
 
-A tribe of orc deserters who had fled the Horde and been driven from caves beneath the bluff by the spirit troll Shadowclaw were the barony's first citizens. The party offered them Old Kossenberg in exchange for proof of strength — destroying Shadowclaw from the caverns. Freed slaves from across the North later made their way to [[selunia|Selunia]], drawn by the promise of a fresh start.
+A tribe of orc deserters who had fled the Horde and been driven from caves beneath the bluff by the spirit troll Shadowclaw were the barony's first citizens. The party offered them land in the barony — the ruins of Old Kossenberg were the first thing named — in exchange for proof of strength: destroying Shadowclaw from the caverns. The tribe settled in Thunder Bluff itself, at [[shadowmoon-village|Shadowmoon Village]] on the Rauvin's south bank, south-east of the city. Freed slaves from across the North later made their way to [[selunia|Selunia]], drawn by the promise of a fresh start.
+
+<figure class="plate">
+<img src="/images/barony/shadowmoon_air.jpg" alt="Shadowmoon Village behind its palisade among strip fields on the south bank of the Rauvin, with the river running up to white water, New Kossenberg and the Keep on the rim beyond, and the falls of the Red Hills in the distance." width="1600" height="900" loading="lazy" />
+<figcaption>Shadowmoon Village on the south bank, looking up the shelf past the Doorstep to the city and the falls.</figcaption>
+</figure>
 
 ## Other Landmarks
+
+<figure class="plate">
+<img src="/images/barony/high_hold.jpg" alt="The broken walls and collapsed keep of High-Hold on the rim of the gorge, with New Kossenberg's houses stopping short of it and the red cliffs and falls far behind." width="1600" height="900" loading="lazy" />
+<figcaption>High-Hold, on the next prow west of the Keep.</figcaption>
+</figure>
 
 - **[[snorbuls-hole|Snorbul's Hole]]** — underground fighting arena
 - **[[tarks-treehouse|Tark's Treehouse]]** — Tark's home, high in a towering oak
