@@ -96,7 +96,7 @@ The lake's river leaves by its old course and runs down the west side of the cit
 <figcaption>Farmland north of the city, with the Keep on the skyline.</figcaption>
 </figure>
 <figure>
-<img src="/images/barony/tradeway.jpg" alt="The pale road of the Trade Way running across the shelf toward the river works and the city." width="1600" height="900" loading="lazy" />
+<img src="/images/barony/tradeway.jpg" alt="The Trade Way running across the shelf toward the river works and the city." width="1600" height="900" loading="lazy" />
 <figcaption>The Trade Way coming in from the north-west, at the Upper Bridge.</figcaption>
 </figure>
 </div>
