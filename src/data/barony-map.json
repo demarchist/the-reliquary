@@ -187,12 +187,12 @@
    },
    {
     "n": 19,
-    "label": "Oldstone",
-    "slug": "kossenberg",
-    "x": 1858.5,
-    "y": 1361.7,
+    "label": "The Old Stone grove",
+    "slug": "old-stone-grove",
+    "x": 1972.6,
+    "y": 1269.4,
     "dx": 16,
-    "dy": -12,
+    "dy": -4,
     "anchor": "start"
    },
    {

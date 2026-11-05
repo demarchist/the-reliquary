@@ -3794,6 +3794,41 @@
     "title": "Old Bonegrinder",
     "category": "Places"
   },
+  "the old stone grove": {
+    "slug": "old-stone-grove",
+    "title": "The Old Stone Grove",
+    "category": "Places"
+  },
+  "oldstone": {
+    "slug": "old-stone-grove",
+    "title": "The Old Stone Grove",
+    "category": "Places"
+  },
+  "old stone": {
+    "slug": "old-stone-grove",
+    "title": "The Old Stone Grove",
+    "category": "Places"
+  },
+  "the old stone": {
+    "slug": "old-stone-grove",
+    "title": "The Old Stone Grove",
+    "category": "Places"
+  },
+  "druid grove": {
+    "slug": "old-stone-grove",
+    "title": "The Old Stone Grove",
+    "category": "Places"
+  },
+  "doc's grove": {
+    "slug": "old-stone-grove",
+    "title": "The Old Stone Grove",
+    "category": "Places"
+  },
+  "old stone druid grove": {
+    "slug": "old-stone-grove",
+    "title": "The Old Stone Grove",
+    "category": "Places"
+  },
   "general omar": {
     "slug": "omar",
     "title": "General Omar",
@@ -6962,6 +6997,16 @@
   "old-bonegrinder": {
     "slug": "old-bonegrinder",
     "title": "Old Bonegrinder",
+    "category": "Places"
+  },
+  "old-stone-grove": {
+    "slug": "old-stone-grove",
+    "title": "The Old Stone Grove",
+    "category": "Places"
+  },
+  "old stone grove": {
+    "slug": "old-stone-grove",
+    "title": "The Old Stone Grove",
     "category": "Places"
   },
   "open-weave-collective": {

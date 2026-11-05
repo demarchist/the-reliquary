@@ -22,4 +22,4 @@ Far off in the hills to the north-east lie the ruins of Old Kossenberg — the o
 
 ## Surrounding Landmarks
 
-The Red Hill stands at the foot of the eastern cliffs beyond the village, with its iron workings and the Glittering Caves beneath. Oldstone — a sacred menhir older than local memory — stands on the highest rise of the eastern shelf, and in the woods on the slope below it is [[tarks-dojo|Tark's dojo]]. Down the road lies [[selunia|New Daggerford]], with [[high-hold|High-Hold]] on the next prow of the bluff, and Lake Selûna and its ranger lodge lie to the west.
+The Red Hill stands at the foot of the eastern cliffs beyond the village, with its iron workings and the Glittering Caves beneath. Oldstone — a sacred menhir older than local memory — stands in [[old-stone-grove|the Old Stone grove]], Doc's druid grove, down in a glade where the farm road east of the city ends; the village processes there at Spring Planting. [[tarks-dojo|Tark's dojo]] is in the woods along that road. Down the road lies [[selunia|New Daggerford]], with [[high-hold|High-Hold]] on the next prow of the bluff, and Lake Selûna and its ranger lodge lie to the west.

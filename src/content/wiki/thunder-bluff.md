@@ -34,6 +34,7 @@ places:
   - high-hold
   - tarks-treehouse
   - tarks-dojo
+  - old-stone-grove
   - moondancer-village
   - the-moonwood
 ---
@@ -103,7 +104,7 @@ The lake's river leaves by its old course and runs down the west side of the cit
 </figure>
 </div>
 
-Kossenberg is older than any of it: the farming village was working the shelf before the barony was a barony. It stands on the road along the shelf north-east of the city, toward the cliffs' foot, its crofts running back into the fields. East of the farms the shelf rises to Oldstone, and in the woods on the slope below it is [[tarks-dojo|Tark's dojo]].
+Kossenberg is older than any of it: the farming village was working the shelf before the barony was a barony. It stands on the road along the shelf north-east of the city, toward the cliffs' foot, its crofts running back into the fields. East of the farms, in the woods on the scarp, is [[tarks-dojo|Tark's dojo]], and further along the road, down in a glade, is Doc's druid grove: [[old-stone-grove|the Old Stone grove]], a sunken dale with the standing stone in its clearing.
 
 <div class="plates">
 <figure>
@@ -115,6 +116,11 @@ Kossenberg is older than any of it: the farming village was working the shelf be
 <figcaption>Tark's dojo, from the path below its gate.</figcaption>
 </figure>
 </div>
+
+<figure class="plate">
+<img src="/images/barony/grove_head.jpg" alt="The Old Stone grove from the lip of its head wall: red rock walls and pale scree either side, a meadow floor with a tall grey standing stone, a brook winding away down the wooded dale, and a dark cave mouth in the right-hand slope." width="1600" height="900" loading="lazy" />
+<figcaption>The Old Stone grove, Doc's druid grove, from the lip of the drop at the head of the dale.</figcaption>
+</figure>
 
 ### New Daggerford
 
@@ -162,7 +168,7 @@ The river follows a great fault. The shelf is the side that rose and the land to
 
 The Barony of Thunder Bluff was awarded to the party by High Marshal Arasume in the aftermath of the failed Amnian coup at [[silverymoon|Silverymoon]]. The entire region for miles around lies within the barony's political boundaries, governed by a council of adventurers who call themselves the [[faerun-defense-force|Faerûn Defense Force]] — though their detractors know them as the Heralds of Woe. Its city, New Daggerford, is slowly coming to be called [[selunia|Selunia]], and the barony often goes by that name too.
 
-When the party first arrived, the ranger Moogie gave them a survey: the ruined castle of High Hold (Moorwatch), destroyed two years earlier by the Orcish Horde; the village of [[kossenberg|Kossenberg]], at the foot of the Moonwood; Old Kossenberg, the ruins of the original settlement, far off in the hills to the north-east; Lake [[selune|Selûna]] and its ranger lodge; the Red Hill with its iron deposits and the Glittering Caves beneath; and Oldstone, a sacred menhir older than local memory.
+When the party first arrived, the ranger Moogie gave them a survey: the ruined castle of High Hold (Moorwatch), destroyed two years earlier by the Orcish Horde; the village of [[kossenberg|Kossenberg]], at the foot of the Moonwood; Old Kossenberg, the ruins of the original settlement, far off in the hills to the north-east; Lake [[selune|Selûna]] and its ranger lodge; the Red Hill with its iron deposits and the Glittering Caves beneath; and Oldstone, a sacred menhir older than local memory, in what became Doc's [[old-stone-grove|Old Stone grove]].
 
 ## Settlement
 
@@ -182,5 +188,6 @@ A tribe of orc deserters who had fled the Horde and been driven from caves benea
 
 - **[[snorbuls-hole|Snorbul's Hole]]** — underground fighting arena
 - **[[tarks-treehouse|Tark's Treehouse]]** — Tark's home, high in a towering oak
-- **[[tarks-dojo|Tark's Dojo]]** — Tark's training hall, in the woods below Oldstone
+- **[[tarks-dojo|Tark's Dojo]]** — Tark's training hall, in the woods east of the farms
+- **[[old-stone-grove|The Old Stone Grove]]** — Doc's druid grove, hallowed ground, with the standing stone at its heart
 - **[[high-hold|High-Hold]]** — the ruined castle of Moorwatch
