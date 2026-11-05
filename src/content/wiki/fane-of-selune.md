@@ -4,9 +4,11 @@ category: "Places"
 aliases: ["The Fane"]
 firstAppearance: "chapter-01-session-01"
 description: "A twisting spire of white marble on the shore of Lake Seluna, headquarters of the Cult of Selune."
+image: "/images/barony/fane_boat.jpg"
+imageAlt: "The Fane from far enough out on the lake that its eclipse has not yet taken hold"
 ---
 
-The Fane of Selune is a massive tower of twisting white marble on the mainland shore of Lake Seluna, built by Cirrus Al Kayan as both his residence and the headquarters of the Cult of Selune. It is an architectural marvel that encapsulates Cirrus' love for himself and his devotion to the moon goddess.
+The Fane of Selune is a massive tower of twisting white marble on the mainland shore of Lake Seluna, on a point of land where the lake's south arm meets its eastern bay. Some six hundred and eighty feet tall, it stands across the water from [[feanons-tower|Fëanon's Tower]] and rivals it, though it is not quite as tall. It was built by Cirrus Al Kayan as both his residence and the headquarters of the Cult of Selune. It is an architectural marvel that encapsulates Cirrus' love for himself and his devotion to the moon goddess.
 
 ## Approach
 

@@ -1,0 +1,298 @@
+{
+ "barony": {
+  "image": "/images/barony/topo-barony.jpg",
+  "width": 2200,
+  "height": 2200,
+  "title": "The Barony of Thunder Bluff",
+  "pins": [
+   {
+    "n": 1,
+    "label": "Fëanon's Tower",
+    "slug": "feanons-tower",
+    "x": 776.2,
+    "y": 705.2,
+    "dx": 18,
+    "dy": -14,
+    "anchor": "start"
+   },
+   {
+    "n": 2,
+    "label": "Sërindë Isle",
+    "slug": "serinde-isle",
+    "x": 749.6,
+    "y": 735.4,
+    "dx": -18,
+    "dy": 26,
+    "anchor": "end"
+   },
+   {
+    "n": 3,
+    "label": "Fane of Selûne",
+    "slug": "fane-of-selune",
+    "x": 929.7,
+    "y": 1066.3,
+    "dx": 18,
+    "dy": 6,
+    "anchor": "start"
+   },
+   {
+    "n": 4,
+    "label": "Red Hills Falls",
+    "slug": "lake-seluna",
+    "x": 773.5,
+    "y": 344.2,
+    "dx": 18,
+    "dy": -22,
+    "anchor": "start"
+   },
+   {
+    "n": 5,
+    "label": "New Kossenberg",
+    "slug": "kossenberg",
+    "x": 1126.6,
+    "y": 1676.6,
+    "dx": 22,
+    "dy": -14,
+    "anchor": "start"
+   },
+   {
+    "n": 6,
+    "label": "Keep of Thunder Bluff",
+    "slug": "keep-of-thunder-bluff",
+    "x": 1117.7,
+    "y": 1829.2,
+    "dx": 0,
+    "dy": 46,
+    "anchor": "middle"
+   },
+   {
+    "n": 7,
+    "label": "Rockseeker Manufactory",
+    "slug": "rockseeker-manufactory",
+    "x": 823.2,
+    "y": 1701.5,
+    "dx": -6,
+    "dy": -26,
+    "anchor": "end"
+   },
+   {
+    "n": 8,
+    "label": "Hammerfall",
+    "slug": "thunder-rapids",
+    "x": 770.0,
+    "y": 1724.5,
+    "dx": -18,
+    "dy": 8,
+    "anchor": "end"
+   },
+   {
+    "n": 9,
+    "label": "Thunder Rapids",
+    "slug": "thunder-rapids",
+    "x": 1011.3,
+    "y": 1854.0,
+    "dx": -12,
+    "dy": 56,
+    "anchor": "end"
+   },
+   {
+    "n": 10,
+    "label": "The Doorstep",
+    "slug": "thunder-rapids",
+    "x": 1383.9,
+    "y": 1862.9,
+    "dx": 16,
+    "dy": 28,
+    "anchor": "start"
+   },
+   {
+    "n": 11,
+    "label": "Old Kossenberg",
+    "slug": "kossenberg",
+    "x": 2075.8,
+    "y": 691.9,
+    "dx": -2,
+    "dy": -24,
+    "anchor": "end"
+   }
+  ]
+ },
+ "city": {
+  "image": "/images/barony/topo-city.jpg",
+  "width": 2200,
+  "height": 1311,
+  "title": "New Kossenberg and the Thunder Rapids",
+  "pins": [
+   {
+    "n": 1,
+    "label": "The Keep and the Temple of Helm",
+    "slug": "keep-of-thunder-bluff",
+    "x": 1217.0,
+    "y": 964.5,
+    "dx": 40,
+    "dy": -8,
+    "anchor": "start"
+   },
+   {
+    "n": 2,
+    "label": "The Establishment",
+    "slug": "the-establishment",
+    "x": 1192.7,
+    "y": 438.7,
+    "dx": -20,
+    "dy": -16,
+    "anchor": "end"
+   },
+   {
+    "n": 3,
+    "label": "JMJM Theater",
+    "slug": "jmjm-theater",
+    "x": 1250.7,
+    "y": 429.8,
+    "dx": 18,
+    "dy": -18,
+    "anchor": "start"
+   },
+   {
+    "n": 4,
+    "label": "Rockseeker Manufactory",
+    "slug": "rockseeker-manufactory",
+    "x": 440.0,
+    "y": 627.4,
+    "dx": 20,
+    "dy": -30,
+    "anchor": "start"
+   },
+   {
+    "n": 5,
+    "label": "Hammerfall",
+    "slug": "thunder-rapids",
+    "x": 299.6,
+    "y": 688.3,
+    "dx": -6,
+    "dy": -18,
+    "anchor": "end"
+   },
+   {
+    "n": 6,
+    "label": "The Anvil",
+    "slug": "thunder-rapids",
+    "x": 318.3,
+    "y": 725.7,
+    "dx": -14,
+    "dy": 24,
+    "anchor": "end"
+   },
+   {
+    "n": 7,
+    "label": "Upper Bridge",
+    "slug": "kossenberg",
+    "x": 247.1,
+    "y": 266.9,
+    "dx": 16,
+    "dy": -10,
+    "anchor": "start"
+   },
+   {
+    "n": 8,
+    "label": "The Doorstep",
+    "slug": "thunder-rapids",
+    "x": 1919.1,
+    "y": 1053.5,
+    "dx": 14,
+    "dy": -12,
+    "anchor": "start"
+   },
+   {
+    "n": 9,
+    "label": "The Threshold",
+    "slug": "thunder-rapids",
+    "x": 1811.5,
+    "y": 1105.0,
+    "dx": 16,
+    "dy": 24,
+    "anchor": "start"
+   },
+   {
+    "n": 10,
+    "label": "The Gullet",
+    "slug": "thunder-rapids",
+    "x": 1631.3,
+    "y": 1172.9,
+    "dx": 2,
+    "dy": 30,
+    "anchor": "middle"
+   },
+   {
+    "n": 11,
+    "label": "The Tumbler",
+    "slug": "thunder-rapids",
+    "x": 1458.1,
+    "y": 1062.8,
+    "dx": 0,
+    "dy": 30,
+    "anchor": "middle"
+   },
+   {
+    "n": 12,
+    "label": "Keep's Tooth",
+    "slug": "thunder-rapids",
+    "x": 1383.2,
+    "y": 1002.0,
+    "dx": 20,
+    "dy": -6,
+    "anchor": "start"
+   },
+   {
+    "n": 13,
+    "label": "The Postern",
+    "slug": "thunder-rapids",
+    "x": 1296.6,
+    "y": 1101.7,
+    "dx": 4,
+    "dy": 32,
+    "anchor": "middle"
+   },
+   {
+    "n": 14,
+    "label": "Helm's Stair",
+    "slug": "thunder-rapids",
+    "x": 1093.0,
+    "y": 1074.6,
+    "dx": -14,
+    "dy": 32,
+    "anchor": "end"
+   },
+   {
+    "n": 15,
+    "label": "The Mangle",
+    "slug": "thunder-rapids",
+    "x": 756.0,
+    "y": 948.1,
+    "dx": -8,
+    "dy": 30,
+    "anchor": "middle"
+   },
+   {
+    "n": 16,
+    "label": "The Last Word",
+    "slug": "thunder-rapids",
+    "x": 554.7,
+    "y": 812.4,
+    "dx": -2,
+    "dy": 30,
+    "anchor": "middle"
+   },
+   {
+    "n": 17,
+    "label": "Spillover",
+    "slug": "thunder-rapids",
+    "x": 367.4,
+    "y": 728.1,
+    "dx": 14,
+    "dy": 16,
+    "anchor": "start"
+   }
+  ]
+ }
+}

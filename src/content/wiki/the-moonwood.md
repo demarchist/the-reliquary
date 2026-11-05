@@ -4,6 +4,8 @@ category: "Places"
 aliases: ["Moonwood"]
 description: "A magical forest lying north of Kossenberg and Thunder Bluff, later discovered to harbour a Zhengyi Ziggurat guarded by the Doomstar Legion."
 home: "Barony of Thunder Bluff"
+image: "/images/barony/plateau.jpg"
+imageAlt: "The Moonwood's ridges and hollows, from above the Red Hills"
 ---
 
 ## Description

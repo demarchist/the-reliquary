@@ -7558,5 +7558,30 @@
     "slug": "xuefang-the-adamant",
     "title": "Xuefang the Adamant",
     "category": "People"
+  },
+  "thunder rapids": {
+    "slug": "thunder-rapids",
+    "title": "Thunder Rapids",
+    "category": "Places"
+  },
+  "the thunder rapids": {
+    "slug": "thunder-rapids",
+    "title": "Thunder Rapids",
+    "category": "Places"
+  },
+  "hammerfall": {
+    "slug": "thunder-rapids",
+    "title": "Thunder Rapids",
+    "category": "Places"
+  },
+  "new kossenberg": {
+    "slug": "kossenberg",
+    "title": "Kossenberg",
+    "category": "Places"
+  },
+  "old kossenberg": {
+    "slug": "kossenberg",
+    "title": "Kossenberg",
+    "category": "Places"
   }
 }

@@ -3,10 +3,12 @@ title: "Temple of Helm"
 category: "Places"
 aliases: []
 firstAppearance: "chapter-01-session-01"
-description: "A grand temple dedicated to Helm, the god of guardians, located within the Keep of Thunder Bluff."
+description: "The cathedral of Helm, god of guardians, at the heart of the massive hold of the Keep of Thunder Bluff."
+image: "/images/barony/hold.jpg"
+imageAlt: "The Keep of Thunder Bluff, with the temple's copper dome inside its walls"
 ---
 
-The Temple of Helm is a grand temple located within the walls of the Keep of Thunder Bluff. It is dedicated to Helm, the god of guardians, protectors, and watchmen.
+The Temple of Helm is a grand temple at the heart of the [[keep-of-thunder-bluff|Keep of Thunder Bluff]], the massive hold on the gorge's edge in the middle of [[kossenberg|New Kossenberg]]. Temple and Keep are one. It is dedicated to Helm, the god of guardians, protectors, and watchmen.
 
 ## Architecture
 

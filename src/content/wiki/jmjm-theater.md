@@ -3,13 +3,15 @@ title: "JMJM Theater"
 category: "Places"
 aliases: ["The JMJMT", "Jack Mayer Johnson Mathews Theater"]
 description: "An elaborate performance venue featuring a technologically advanced stage, owned and operated by JmJm."
+image: "/images/barony/theater_air.jpg"
+imageAlt: "The JMJM Theater from above, with the Establishment beside it"
 ---
 
-The Jack Mayer Johnson Mathews Theater — commonly known as The JMJMT or simply the JMJM Theater — is an elaborate performance venue within the Barony of Thunder Bluff. It is owned, operated, and headlined by [[Jack Mayer Johnson Mathews|Jack Mayer Johnson Mathews]] himself.
+The Jack Mayer Johnson Mathews Theater — commonly known as The JMJMT or simply the JMJM Theater — is an elaborate performance venue in the middle of [[kossenberg|New Kossenberg]], a great round drum of a building directly across the street from [[the-establishment|the Establishment]]. It is owned, operated, and headlined by [[Jack Mayer Johnson Mathews|Jack Mayer Johnson Mathews]] himself.
 
 ## Exterior
 
-The entrance is announced by a red carpet leading to ornate doors — a statement of arrival that JmJm considers the opening act of any performance.
+The theater is built in the round, with a ring of gilded columns and a dome of deep plum ribbed in gold. The entrance is announced by a red carpet leading to ornate doors — a statement of arrival that JmJm considers the opening act of any performance.
 
 ## Interior
 

@@ -34,6 +34,11 @@ const wiki = defineCollection({
     home: z.string().optional(),
     image: z.string().optional(),
     imageAlt: z.string().optional(),
+    layout: z.enum(['gazetteer']).optional(),
+    hero: z.string().optional(),
+    heroAlt: z.string().optional(),
+    facts: z.array(z.object({ value: z.string(), label: z.string() })).optional(),
+    places: z.array(z.string()).optional(),
   }),
 });
 

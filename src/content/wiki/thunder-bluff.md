@@ -4,48 +4,153 @@ category: "Places"
 aliases: ["Barony of Thunder Bluff"]
 firstAppearance: "chapter-01-session-01"
 description: "A thousand-foot cliff overlooking the River Rauvin — seat of the independent Barony governed by the Faerûn Defense Force, and the party's home."
+image: "/images/barony/city_air.jpg"
+imageAlt: "New Kossenberg and the Keep of Thunder Bluff, with Lake Selûna and the Red Hills beyond"
+layout: "gazetteer"
+hero: "/images/barony/hero.jpg"
+heroAlt: "The red walls of the Keep of Thunder Bluff on their prow of rock above the gorge, the roofs of New Kossenberg behind them, and beyond, Lake Selûna and the waterfalls of the Red Hills."
+facts:
+  - value: "1,000 ft"
+    label: "Thunder Bluff, from the Keep's walls to the Rauvin"
+  - value: "2,400 ft"
+    label: "the Red Hills at their highest, above Lake Selûna"
+  - value: "980 ft"
+    label: "Hammerfall, where the lake's river goes off the shelf"
+  - value: "900 ft"
+    label: "the fall of the Thunder Rapids, in under five miles"
+places:
+  - keep-of-thunder-bluff
+  - kossenberg
+  - thunder-rapids
+  - rockseeker-manufactory
+  - the-establishment
+  - jmjm-theater
+  - lake-seluna
+  - serinde-isle
+  - feanons-tower
+  - fane-of-selune
+  - the-moonwood
 ---
 
-Thunder Bluff is a thousand-foot cliff overlooking the River Rauvin along the Trade Way between [[neverwinter|Neverwinter]] and [[silverymoon|Silverymoon]], the thunder of rapids echoing off its sides. To the north rises the magical forest of the [[moonwood|Moonwood]]; to the south, the grey expanse of the [[evermoors|Evermoors]] stretches to the horizon. The village of [[kossenberg|Kossenberg]] nestles at the base of the Moonwood.
+Thunder Bluff is a thousand-foot cliff overlooking the River Rauvin along the Trade Way between [[neverwinter|Neverwinter]] and [[silverymoon|Silverymoon]], the thunder of rapids echoing off its sides. To the north rises the magical forest of the [[the-moonwood|Moonwood]]; to the south, the grey expanse of the [[the-evermoors|Evermoors]] stretches to the horizon. Between them lies [[selunia|Selunia]], the greater barony, and at its heart the walled city of [[kossenberg|New Kossenberg]].
+
+<div data-map-slot="barony"></div>
 
 ## Geography
 
-The Thunder Bluff region is a place of dramatic vertical contrasts, where ancient glacial forces have sculpted a landscape of soaring plateaus, thundering waterfalls, and mist-shrouded lowlands. The terrain descends stepwise from the frigid heights of the north toward the endless southern swamps — each tier distinct in character and elevation.
+The country descends in great steps from the frigid heights of the north toward the endless southern swamps, each tier distinct in character. A traveller coming down from the Moonwood passes in a dozen miles from ancient forest, over the edge of a two-thousand-foot wall, across a misted lake and a farmed plain, and into a gorge where the river can be heard long before it can be seen.
+
+<figure class="plate">
+<img src="/images/barony/show_south.jpg" alt="The whole barony from high in the south: the gorge of the Rauvin and the walled city in the foreground, farmland, Lake Selûna in its horseshoe of red cliffs, and the Moonwood beyond." width="1600" height="900" loading="lazy" />
+<figcaption>The barony from the south. The Rauvin's gorge runs along the foreground, under New Kossenberg. Beyond the farms, the Red Hills stand around Lake Selûna, and the Moonwood's plateau runs on behind them.</figcaption>
+</figure>
 
 ### The High Moonwood Plateau
 
-Dominating the northern and western reaches, the [[the-moonwood|Moonwood]] occupies a vast elevated plateau — the remnant bed of a long-receded glacier. Its surface lies significantly higher than the lands to the south, a broad highland cloaked in dense ancient forest that lends the region an ethereal, moonlit quality even by day. A mighty river, born from the glacial meltwaters of the Spine of the World far to the north, carves a powerful valley through the heart of the plateau and flows southward before plunging off its southern edge.
+Dominating the northern and western reaches, the [[the-moonwood|Moonwood]] occupies a vast elevated plateau — the remnant bed of a long-receded glacier. Its surface lies more than two thousand feet above the lands to the south, and the ice left its mark: long ridges and hollows all running one way, north to south, with dark little lakes lying in the hollows under dense ancient forest. A mighty river, born from the glacial meltwaters of the Spine of the World far to the north, carves a valley through the heart of the plateau and flows southward to its edge.
 
-### The Red Hills Cliffs and Lake Seluna
+<figure class="plate">
+<img src="/images/barony/plateau.jpg" alt="The forested ridges and hollows of the Moonwood seen from above the cliffs, with small lakes and a river winding away to the north." width="1600" height="900" loading="lazy" />
+<figcaption>The Moonwood from above the cliffs: the old bed of the ice, under forest.</figcaption>
+</figure>
 
-The southern margin of the Moonwood terminates in the Red Hills — abrupt, near-vertical cliffs that drop hundreds of feet in a breathtaking escarpment. The great river from the plateau cascades off these cliffs in roaring waterfalls, sending curtains of mist down into [[lake-seluna|Lake Seluna]] far below. The lake sits at the base of the cliffs, a deep, dark body of water constantly replenished by the high-plateau river and glacial outflow, its surface perpetually shrouded in shifting mist.
+### The Red Hills and Lake Selûna
+
+The southern margin of the Moonwood ends in the Red Hills: sheer walls of red sandstone that stand up to twenty-four hundred feet above the water, in a great horseshoe more than three miles across. The great river goes over the head of the horseshoe in a broad, broken curtain more than seventeen hundred feet high, and two lesser streams fall nearly two thousand feet from the shoulders on either side, sending curtains of mist down onto [[lake-seluna|Lake Selûna]] far below.
+
+The horseshoe is no accident of the river. Beneath the plateau lies the scar of something that fell from the sky in an age before the sandstone was laid down: a buried crater, packed with soft sediment. As the falls ate their way north through the cliff, they broke into it, and the soft fill washed away. That is the lake. What would not wash away was the crater's heart, a knot of rock welded in the impact and harder than anything else for miles. That is [[serinde-isle|Sërindë Isle]], and [[feanons-tower|Fëanon's Tower]] is founded on it.
+
+East and west of the lake the cliffs do not end so much as fade. The red sandstone thins toward its margins, and where it runs out the wall has nothing left to stand on and sinks away into wooded hills.
+
+<figure class="plate">
+<img src="/images/barony/near.jpg" alt="From a boat on Lake Selûna: the wooded island and Fëanon's pale, twisting tower in front of the broad falls, with higher red cliffs on both sides." width="1600" height="900" loading="lazy" />
+<figcaption>Sërindë Isle and Fëanon's Tower from the water, against the great falls.</figcaption>
+</figure>
+
+<div class="plates">
+<figure>
+<img src="/images/barony/fane_boat.jpg" alt="The Fane of Selûne, a white twisting hourglass of marble, on a low point of land above the water." width="1600" height="900" loading="lazy" />
+<figcaption>The Fane of Selûne on its point of land, seen from far enough out on the lake that its eclipse has not yet taken hold.</figcaption>
+</figure>
+<figure>
+<img src="/images/barony/west_taper.jpg" alt="From the west: the red cliffs stepping down and fading into low wooded hills." width="1600" height="900" loading="lazy" />
+<figcaption>The Red Hills fading into the woods, looking east along their western flank.</figcaption>
+</figure>
+</div>
 
 ### The Thunder Bluff Shelf
 
-South of [[lake-seluna|Lake Seluna]] lies the Thunder Bluff shelf — a distinct mid-elevation plateau, noticeably lower than the Moonwood but still elevated above the southern lowlands. This shelf supports the city of Thunder Bluff, built amid a dynamic braided river system draining the lake. Multiple interlaced channels weave across the shelf, varying with seasonal melt and rainfall to create islands, gravel bars, and ever-shifting waterways. The city is integrated into this hydrological network, with bridges, stilted structures, and riverside districts harnessing the constant motion of the water.
+South of the lake lies the Thunder Bluff shelf — a broad bench of ancient, hard rock, planed nearly flat, with low hills left standing where the rock resisted. The shore of the lake is still moor and wood, crossed by a single road to the [[fane-of-selune|Fane]]. Beyond it the land has gone under the plough, and it is farmed in hedged fields from the cliffs' foot to the city's walls.
 
-At the southern edge of the shelf, these braided rivers converge and plunge over the Thunder Rapids — a series of powerful cascades where the shelf drops sharply into the canyon below. The roar is said to be audible for miles, and gives the entire region its name.
+The Trade Way crosses the shelf from south-east to north-west and is its one great road: broad, paved in pale stone and lined with trees outside the walls, with hamlets along it and New Kossenberg as its main street.
 
-### The River Rauvin Canyon and the Evermoors
+The lake's river leaves by its old course and runs down the west side of the city, held to its line by stone banks and low weirs. The land to the west lies lower than the water; without the barony's works, the river would leave. Two cuts bleed water off it through the city for boats and for high water, and a millrace drives the wheels of the [[rockseeker-manufactory|Rockseeker Manufactory]].
 
-Below the rapids lies the deep River Rauvin canyon, carved over eons by erosive force, channeling the combined outflow westward toward the broader continent. South of the Rauvin, the land drops into the vast, low-lying [[the-evermoors|Evermoors]] — a seemingly endless expanse of dark swamps, marshes, and wetlands stretching indefinitely southward, characterized by slow-moving black waters, dense vegetation, and a brooding, primordial atmosphere.
+<div class="plates">
+<figure>
+<img src="/images/barony/farms.jpg" alt="Hedged fields and woodlots running south across the shelf to the distant city, with the Keep on the skyline." width="1600" height="900" loading="lazy" />
+<figcaption>Farmland north of the city, with the Keep on the skyline.</figcaption>
+</figure>
+<figure>
+<img src="/images/barony/tradeway.jpg" alt="The pale road of the Trade Way running across the shelf toward the river works and the city." width="1600" height="900" loading="lazy" />
+<figcaption>The Trade Way coming in from the north-west, at the Upper Bridge.</figcaption>
+</figure>
+</div>
+
+### New Kossenberg
+
+The shelf ends at the gorge, and [[kossenberg|New Kossenberg]] stands right on its edge: an irregular walled city of some five thousand roofs, grown along its old roads rather than laid out. Its lanes are narrow and no two run the same way, and they tighten around the crossroads where the Trade Way meets the street to the Keep. There, across the street from each other, stand the [[the-establishment|Establishment]], plain as a barn and doing its best to stay unnoticed, and the [[jmjm-theater|JMJM Theater]], which is doing the opposite.
+
+<div data-map-slot="city"></div>
+
+<figure class="plate">
+<img src="/images/barony/city_air.jpg" alt="New Kossenberg from above the gorge: the Keep on the cliff's edge, the city's tangled lanes behind it, and beyond them the river works, the farms and the lake." width="1600" height="900" loading="lazy" />
+<figcaption>New Kossenberg from over the gorge, with the Keep at its heart.</figcaption>
+</figure>
+
+### Thunder Bluff and the Keep
+
+Where the city meets the gorge, a prow of rock stands out over the river with the drop on three sides. This is Thunder Bluff itself. The [[keep-of-thunder-bluff|Keep of Thunder Bluff]] stands on it, its seamless red walls rising straight from the edge, with the copper dome of the [[temple-of-helm|Temple of Helm]] inside them and a thousand feet of air beneath.
+
+<figure class="plate">
+<img src="/images/barony/hold.jpg" alt="The Keep of Thunder Bluff seen across the gorge: square red walls and towers with a green copper dome inside, on a prow of dark rock that drops sheer to the river." width="1600" height="900" loading="lazy" />
+<figcaption>The Keep of Thunder Bluff and the Temple of Helm, on the prow.</figcaption>
+</figure>
+
+### The Thunder Rapids and the Rauvin
+
+East of the city the Rauvin is a broad, quiet river, lying barely a hundred feet below the fields. Then it reaches a line of hard rock, the Doorstep, and to anyone on the water it simply stops, with spray rising from beyond the edge. From there the [[thunder-rapids|Thunder Rapids]] fall some nine hundred feet in under five miles, through a twisting slot in the shelf's ancient rock. The slot is narrow, and its floor is choked with blocks the size of houses, shed from the walls faster than even this river can clear them. The roar is said to be audible for miles, and gives the entire region its name.
+
+The river follows a great fault. The shelf is the side that rose and the land to the south is the side that fell, so the gorge's south rim stands well below the north, by as much as two hundred and fifty feet under the Keep. West of the city the lake's river joins it the hard way, going off the shelf's edge at [[thunder-rapids|Hammerfall]]: nearly a thousand feet, onto a pool called the Anvil. Below that the doubled Rauvin runs on westward toward the broader continent. South of it, the land falls away to the vast, low-lying [[the-evermoors|Evermoors]] — a seemingly endless expanse of dark swamps, marshes and wetlands, with slow-moving black water and a brooding, primordial air.
+
+<figure class="plate">
+<img src="/images/barony/hammerfall.jpg" alt="Hammerfall: a banked river running to the edge of the gorge and pouring down a dark wall into a boulder-strewn pool, with the chimneys of the Rockseeker Manufactory on the rim beside it." width="1600" height="900" loading="lazy" />
+<figcaption>Hammerfall and the Anvil, with the Rockseeker Manufactory on the rim beside them.</figcaption>
+</figure>
+
+<div class="plates">
+<figure>
+<img src="/images/barony/doorstep.jpg" alt="From the water on a broad river: it runs ahead and ends at a line, with the red-walled Keep on the skyline to the left." width="1600" height="900" loading="lazy" />
+<figcaption>The horizon line, from the river: the Doorstep, with the Keep beyond.</figcaption>
+</figure>
+<figure>
+<img src="/images/barony/stair.jpg" alt="Looking up from below at a wall of white water pouring between great blocks, with the gorge wall above it." width="1600" height="900" loading="lazy" />
+<figcaption>Helm's Stair, a hundred-foot drop directly under the Keep.</figcaption>
+</figure>
+</div>
 
 ## The Barony
 
-The Barony of Thunder Bluff was awarded to the party by High Marshal Arasume in the aftermath of the failed Amnian coup at [[silverymoon|Silverymoon]]. The entire region for miles around lies within the barony's political boundaries, governed by a council of adventurers who call themselves the [[faerun-defense-force|Faerûn Defense Force]] — though their detractors know them as the Heralds of Woe.
+The Barony of Thunder Bluff was awarded to the party by High Marshal Arasume in the aftermath of the failed Amnian coup at [[silverymoon|Silverymoon]]. The entire region for miles around lies within the barony's political boundaries, governed by a council of adventurers who call themselves the [[faerun-defense-force|Faerûn Defense Force]] — though their detractors know them as the Heralds of Woe. Its people have come to call the whole country [[selunia|Selunia]].
 
-When the party first arrived, the ranger Moogie gave them a survey: the ruined castle of High Hold (Moorwatch), destroyed two years earlier by the Orcish Horde; [[kossenberg|Kossenberg]]; Old Kossenberg, the ruins of the original settlement at the base of the bluff; Lake [[selune|Selûna]] and its ranger lodge; the Red Hill with its iron deposits and the Glittering Caves beneath; and Oldstone, a sacred menhir older than local memory.
+When the party first arrived, the ranger Moogie gave them a survey: the ruined castle of High Hold (Moorwatch), destroyed two years earlier by the Orcish Horde; [[kossenberg|Kossenberg]]; Old Kossenberg, the ruins of the original settlement, far off in the hills to the north-east; Lake [[selune|Selûna]] and its ranger lodge; the Red Hill with its iron deposits and the Glittering Caves beneath; and Oldstone, a sacred menhir older than local memory.
 
 ## Settlement
 
 A tribe of orc deserters who had fled the Horde and been driven from caves beneath the bluff by the spirit troll Shadowclaw were the barony's first citizens. The party offered them Old Kossenberg in exchange for proof of strength — destroying Shadowclaw from the caverns. Freed slaves from across the North later made their way to [[selunia|Selunia]], drawn by the promise of a fresh start.
 
-## Notable Landmarks
+## Other Landmarks
 
-- **[[keep-of-thunder-bluff|The Keep of Thunder Bluff]]** — fortress atop the bluff housing the Temple of Helm and the Rockseeker Manufactory
-- **[[selunia|Selunia]]** — the town at the barony's heart, built around Lake Selunia
-- **[[fane-of-selune|The Fane of Selûne]]** — temple on Sërindë Isle
-- **[[feanons-tower|Fëanon's Tower]]** — the wizard's personal sanctum and research facility
 - **[[snorbuls-hole|Snorbul's Hole]]** — underground fighting arena
-- **[[the-establishment|The Establishment]]** — tavern and social hub
-- **Tark's Treehouse** and the **JMJM Theater**
+- **[[tarks-treehouse|Tark's Treehouse]]** — Tark's home, high in a towering oak
+- **[[high-hold|High-Hold]]** — the ruined castle of Moorwatch

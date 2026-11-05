@@ -4,9 +4,13 @@ category: "Places"
 aliases: ["The Isle"]
 firstAppearance: "chapter-01-session-01"
 description: "A rocky, forested island in Lake Seluna, home to Fëanon's tower and The Reliquary."
+image: "/images/barony/near.jpg"
+imageAlt: "Sërindë Isle and the tower from the water"
 ---
 
 Sërindë Isle is a rocky and densely forested island in the middle of Lake Seluna, named in honor of Fëanon Sërindë. It lies within the political boundaries of the Barony of Thunder Bluff. The only way to reach the island is by boat.
+
+The island stands because it cannot be worn away. It is the heart of the crater that lies beneath [[lake-seluna|Lake Selûna]], rock welded in the impact and harder than anything else for miles. The falls that washed out the rest of the crater left it standing some two hundred and fifty feet above the water.
 
 ## Fëanon's Tower
 

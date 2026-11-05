@@ -1,0 +1,95 @@
+---
+// The long form of a wiki place: a hero, its figures, maps set into the text, and the places that belong to it.
+// The words stay in the entry's Markdown, so wiki links and search work as they do everywhere else.  A map goes in the text as
+// <div data-map-slot="name"></div>, where name is a key in src/data/barony-map.json.
+import { getCollection } from 'astro:content';
+import BaronyMap from './BaronyMap.astro';
+import mapData from '../data/barony-map.json';
+import '../styles/gazetteer.css';
+
+const { entry, byChapter, appearances, firstAppearanceEntry } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const allWiki = await getCollection('wiki');
+const places = (entry.data.places ?? [])
+  .map((slug: string) => allWiki.find(w => w.id === slug))
+  .filter(Boolean);
+
+// Text and map slots, in order.  Splitting keeps odd indices as the names the pattern captured.
+const parts: string[] = (entry.rendered?.html ?? '').split(/<div data-map-slot="(\w+)"><\/div>/);
+const captions: Record<string, string> = {
+  barony: 'Numbered places link to their entries.',
+  city: 'The bars across the white water are the ledges of the Thunder Rapids.',
+};
+---
+
+<article class="gazetteer" data-pagefind-body>
+  <header class="gz-hero">
+    <img src={`${base}${entry.data.hero}`} alt={entry.data.heroAlt ?? entry.data.title} width="2880" height="1620" fetchpriority="high" />
+    <div class="gz-hero-text">
+      <a href={`${base}/wiki/`} class="gz-back">&larr; Back to Wiki</a>
+      <p class="gz-kicker" data-pagefind-meta={`category:${entry.data.category}`}>{entry.data.category}</p>
+      <h1 data-pagefind-meta={`title, slug:${entry.id}`}>{entry.data.title}</h1>
+      {entry.data.aliases?.length > 0 && (
+        <p class="gz-aliases">Also known as: <span data-pagefind-meta="aliases">{entry.data.aliases.join(', ')}</span></p>
+      )}
+      <p class="gz-lede">{entry.data.description}</p>
+    </div>
+  </header>
+
+  {entry.data.facts && (
+    <dl class="gz-facts">
+      {entry.data.facts.map((fact: { value: string; label: string }) => (
+        <div>
+          <dt>{fact.value}</dt>
+          <dd>{fact.label}</dd>
+        </div>
+      ))}
+    </dl>
+  )}
+
+  <div class="prose gz-prose">
+    {parts.map((part, i) => {
+      if (i % 2 === 0) return <Fragment set:html={part} />;
+      const map = mapData[part as keyof typeof mapData];
+      return map ? <BaronyMap {...map} caption={captions[part]} labelSize={part === 'city' ? 29 : 33} /> : null;
+    })}
+  </div>
+
+  {places.length > 0 && (
+    <section class="gz-places">
+      <h2>Places of Interest</h2>
+      <div class="gz-place-grid">
+        {places.map((place: any) => (
+          <a href={`${base}/wiki/${place.id}/`} class="gz-place">
+            {place.data.image && <img src={`${base}${place.data.image}`} alt="" width="1600" height="900" loading="lazy" />}
+            <h3>{place.data.title}</h3>
+            <p>{place.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="gz-record">
+    {firstAppearanceEntry && (
+      <p>First appearance: <a href={`${base}/diary/${firstAppearanceEntry.id}/`}>{firstAppearanceEntry.data.title}</a></p>
+    )}
+    {appearances.length > 0 && (
+      <details>
+        <summary>Appearances in the diary ({appearances.length})</summary>
+        <div class="gz-appearances">
+          {[...byChapter.entries()].map(([ch, { title, entries }]: [number, any]) => (
+            <div>
+              <h3>Ch. {ch}: {title}</h3>
+              <ul>
+                {entries.map((d: any) => (
+                  <li><a href={`${base}/diary/${d.id}/`}>S{d.data.session}: {d.data.title}</a></li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </details>
+    )}
+  </section>
+</article>

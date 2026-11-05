@@ -22,4 +22,4 @@ Barthen and Nundro gave up their small forge in Sundabar's Undercity to their un
 
 ## The Manufactory
 
-At Thunder Bluff, the clan's expertise is concentrated in the [[rockseeker-manufactory|Rockseeker Manufactory]] — a sprawling complex of forges, foundries, and workshops within the Keep, and a major employer in the region. Gundren built it, but day-to-day operations now fall to **Barthen and Nundro**, with Smith Slagbelcher — relocated from Sundabar at Gundren's request — serving as foreman.
+At Thunder Bluff, the clan's expertise is concentrated in the [[rockseeker-manufactory|Rockseeker Manufactory]] — a sprawling complex of forges, foundries, and workshops just west of New Kossenberg, and a major employer in the region. Gundren built it, but day-to-day operations now fall to **Barthen and Nundro**, with Smith Slagbelcher — relocated from Sundabar at Gundren's request — serving as foreman.

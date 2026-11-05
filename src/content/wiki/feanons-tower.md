@@ -4,9 +4,11 @@ category: "Places"
 aliases: ["The Tower"]
 firstAppearance: "chapter-01-session-01"
 description: "An eight-hundred-foot wizard's tower on Sërindë Isle, home to Fëanon and his community of arcanists."
+image: "/images/barony/boat.jpg"
+imageAlt: "Fëanon's Tower against the falls of the Red Hills"
 ---
 
-Fëanon's Tower is an enormous structure built into the rocky prominence of Sërindë Isle. Its elegant spire reaches eight hundred feet into the sky — a testament to its creator's power, philosophy, and mastery of the arcane arts. As an "Up-wizard," Fëanon built his tower to be seen, to inspire, and to serve as a beacon of knowledge and arcane learning.
+Fëanon's Tower is an enormous structure built into the rocky prominence of [[serinde-isle|Sërindë Isle]], and so founded on the hardest rock for miles, the welded heart of a buried crater. Its elegant spire reaches eight hundred feet into the sky — a testament to its creator's power, philosophy, and mastery of the arcane arts. As an "Up-wizard," Fëanon built his tower to be seen, to inspire, and to serve as a beacon of knowledge and arcane learning.
 
 ## Structure
 
