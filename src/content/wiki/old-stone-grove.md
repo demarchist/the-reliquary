@@ -3,16 +3,16 @@ title: "The Old Stone Grove"
 category: "Places"
 aliases: ["Oldstone", "Old Stone", "The Old Stone", "Druid Grove", "Doc's Grove", "Old Stone Druid Grove"]
 firstAppearance: "chapter-08-session-27"
-description: "Doc's druid grove in the Barony of Thunder Bluff: a sunken, forested dale at the end of the farm road east of the city, with a massive standing stone in a clearing at its heart. Hallowed ground."
+description: "Doc's druid grove in the Barony of Thunder Bluff: a sunken, forested dale south-east of Tark's dojo, the furthest place out from the city on the shelf, with a massive standing stone in a clearing at its heart. Hallowed ground."
 image: "/images/barony/grove.jpg"
 imageAlt: "A massive standing stone in a meadow clearing by a brook, in a deep wooded dale that ends in a sheer red rock wall with scree at its foot"
 ---
 
-The Old Stone Grove is [[doc|Doc]]'s druid grove, in the Barony of [[thunder-bluff|Thunder Bluff]]. It lies further along the farm road from [[tarks-dojo|Tark's dojo]], down in a glade where the road ends: a basin, a forested dale nestled among rolling hills. At its centre is a clearing with flowing water, and at the centre of that stands Oldstone, a massive standing stone older than local memory.
+The Old Stone Grove is [[doc|Doc]]'s druid grove, in the Barony of [[thunder-bluff|Thunder Bluff]]. It lies south-east of [[tarks-dojo|Tark's dojo]], further out from the city than anything on the shelf, down in a glade under the eastern hills: a basin, a forested dale nestled among rolling hills. A track leaves the farm road below the dojo and runs round the south shore of the lake there and up into the dale's mouth. At its centre is a clearing with flowing water, and at the centre of that stands Oldstone, a massive standing stone older than local memory.
 
 ## The Dale
 
-The road ends at a small pond in a hollow among the hills, and the pond spills over a step in the rock into the dale it has cut back toward itself. The head of the dale is a cul-de-sac under a sheer drop of red stone, the last thin edge of the Red Hills, with a thin fall of water down it and rocky scree heaped at its foot, and there is a harsh line where the scree gives way to the lush trees and wildflowers of the grove. The brook winds down across the dale's floor and past the stone to a small pool where the dale opens out. The sides are wooded, steep at the head and easier further down, and the track comes down the west side into the clearing.
+Above the dale, on a bench under the hills, is a small spring-fed pond, and it spills over a step in the rock into the dale that the springs and the fall have cut back toward it. The head of the dale is a cul-de-sac under a sheer drop of red stone, the last thin edge of the Red Hills, with a thread of water down it and rocky scree heaped at its foot, and there is a harsh line where the scree gives way to the lush trees and wildflowers of the grove. The brook winds down across the dale's floor and past the stone to a small pool where the dale opens out, and runs on to the lake below the dojo. The sides are wooded, steep at the head and easier further down, and the track comes up the dale's floor from its mouth into the clearing.
 
 The grove is hallowed ground. Fiends, undead and their like cannot enter it, and any possessed creature brought there is freed of its possession.
 

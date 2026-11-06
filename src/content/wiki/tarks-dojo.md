@@ -8,7 +8,7 @@ image: "/images/barony/dojo.jpg"
 imageAlt: "The dojo's roofed gate at the head of a stone stair, its walls and the hall's great roof rising behind among pines"
 ---
 
-The Dojo is [[tarkathee-daru|Tark]]'s training hall in the Barony of [[thunder-bluff|Thunder Bluff]]. It stands set back in the treeline, in the woods on the scarp east of the farms that run up from [[selunia|New Daggerford]], and a footpath climbs to it off the farm road along the shelf. Further along the road, down in a glade, is Doc's druid grove, [[old-stone-grove|the Old Stone grove]].
+The Dojo is [[tarkathee-daru|Tark]]'s training hall in the Barony of [[thunder-bluff|Thunder Bluff]]. It stands set back in the treeline, in the woods on the scarp east of the farms that run up from [[selunia|New Daggerford]], and a footpath climbs to it off the farm road along the shelf. South-east of it, round the lake below and up under the eastern hills, is Doc's druid grove, [[old-stone-grove|the Old Stone grove]].
 
 ## The Grounds
 

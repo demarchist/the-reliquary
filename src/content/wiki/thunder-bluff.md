@@ -104,7 +104,7 @@ The lake's river leaves by its old course and runs down the west side of the cit
 </figure>
 </div>
 
-Kossenberg is older than any of it: the farming village was working the shelf before the barony was a barony. It stands on the road along the shelf north-east of the city, toward the cliffs' foot, its crofts running back into the fields. East of the farms, in the woods on the scarp, is [[tarks-dojo|Tark's dojo]], and further along the road, down in a glade, is Doc's druid grove: [[old-stone-grove|the Old Stone grove]], a sunken dale with the standing stone in its clearing.
+Kossenberg is older than any of it: the farming village was working the shelf before the barony was a barony. It stands on the road along the shelf north-east of the city, toward the cliffs' foot, its crofts running back into the fields. East of the farms, in the woods on the scarp, is [[tarks-dojo|Tark's dojo]], and south-east of it, under the eastern hills and further out from the city than anything else on the shelf, is Doc's druid grove: [[old-stone-grove|the Old Stone grove]], a sunken dale with the standing stone in its clearing. In the woods north of Kossenberg, on the way to the Fane, a hole in the ground among heaps of gravel is all anyone sees of [[snorbuls-hole|Snorbul's Hole]].
 
 <div class="plates">
 <figure>
@@ -168,15 +168,15 @@ The river follows a great fault. The shelf is the side that rose and the land to
 
 The Barony of Thunder Bluff was awarded to the party by High Marshal Arasume in the aftermath of the failed Amnian coup at [[silverymoon|Silverymoon]]. The entire region for miles around lies within the barony's political boundaries, governed by a council of adventurers who call themselves the [[faerun-defense-force|Faerûn Defense Force]] — though their detractors know them as the Heralds of Woe. Its city, New Daggerford, is slowly coming to be called [[selunia|Selunia]], and the barony often goes by that name too.
 
-When the party first arrived, the ranger Moogie gave them a survey: the ruined castle of High Hold (Moorwatch), destroyed two years earlier by the Orcish Horde; the village of [[kossenberg|Kossenberg]], at the foot of the Moonwood; Old Kossenberg, the ruins of the original settlement, far off in the hills to the north-east; Lake [[selune|Selûna]] and its ranger lodge; the Red Hill with its iron deposits and the Glittering Caves beneath; and Oldstone, a sacred menhir older than local memory, in what became Doc's [[old-stone-grove|Old Stone grove]].
+When the party first arrived, the ranger Moogie gave them a survey: the ruined castle of High Hold (Moorwatch), destroyed two years earlier by the Orcish Horde; the village of [[kossenberg|Kossenberg]], at the foot of the Moonwood; Old Kossenberg, the ruins of the original settlement, down on the Rauvin's bank east of the city; Lake [[selune|Selûna]] and its ranger lodge; the Red Hill with its iron deposits and the Glittering Caves beneath; and Oldstone, a sacred menhir older than local memory, in what became Doc's [[old-stone-grove|Old Stone grove]].
 
 ## Settlement
 
-A tribe of orc deserters who had fled the Horde and been driven from caves beneath the bluff by the spirit troll Shadowclaw were the barony's first citizens. The party offered them land in the barony — the ruins of Old Kossenberg were the first thing named — in exchange for proof of strength: destroying Shadowclaw from the caverns. The tribe settled in Thunder Bluff itself, at [[shadowmoon-village|Shadowmoon Village]] on the Rauvin's south bank, south-east of the city. Freed slaves from across the North later made their way to [[selunia|Selunia]], drawn by the promise of a fresh start.
+A tribe of orc deserters who had fled the Horde and been driven from caves beneath the bluff by the spirit troll Shadowclaw were the barony's first citizens. The party offered them land in the barony — the ruins of Old Kossenberg were the first thing named — in exchange for proof of strength: destroying Shadowclaw from the caverns. The tribe settled in Thunder Bluff itself, at [[shadowmoon-village|Shadowmoon Village]] on the gorge's south rim, directly across from the Keep. It is still a primitive place, palisade, huts and longhouses, but it has grown large. Freed slaves from across the North later made their way to [[selunia|Selunia]], drawn by the promise of a fresh start.
 
 <figure class="plate">
-<img src="/images/barony/shadowmoon_air.jpg" alt="Shadowmoon Village behind its palisade among strip fields on the south bank of the Rauvin, with the river running up to white water, New Daggerford and the Keep on the rim beyond, and the falls of the Red Hills in the distance." width="1600" height="900" loading="lazy" />
-<figcaption>Shadowmoon Village on the south bank, looking up the shelf past the Doorstep to the city and the falls.</figcaption>
+<img src="/images/barony/shadowmoon_air.jpg" alt="Shadowmoon's great palisade and its hundreds of huts on the moor, strip fields round it, the gorge of the Rauvin beyond and New Daggerford and the Keep on the far rim, with the falls of the Red Hills in the distance." width="1600" height="900" loading="lazy" />
+<figcaption>Shadowmoon, across the gorge from the Keep.</figcaption>
 </figure>
 
 ## Other Landmarks

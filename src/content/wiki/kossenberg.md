@@ -3,7 +3,7 @@ title: "Kossenberg"
 category: "Places"
 aliases: ["New Kossenberg", "Old Kossenberg"]
 firstAppearance: "chapter-06-session-15"
-description: "The farming village of the Barony of Thunder Bluff, up the road north-east of New Daggerford toward the foot of the Moonwood: older than the barony itself. Its ruined predecessor, Old Kossenberg, lies in the hills to the north-east."
+description: "The farming village of the Barony of Thunder Bluff, up the road north-east of New Daggerford toward the foot of the Moonwood: older than the barony itself. Its ruined predecessor, Old Kossenberg, lies on the bank of the Rauvin east of the city."
 image: "/images/barony/kossenberg.jpg"
 imageAlt: "Kossenberg among its fields, its lane running up from the green toward the red cliffs"
 ---
@@ -18,8 +18,8 @@ The village keeps its own counsel through its town elders, among them Mark, and 
 
 ## Old Kossenberg
 
-Far off in the hills to the north-east lie the ruins of Old Kossenberg — the original town, destroyed two years prior to the group's arrival by the Orcish Horde during its devastating sweep through the region. The ruins were first offered to [[luumsh|Luumsh]]'s tribe of Orc deserters, but the tribe settled at [[shadowmoon-village|Shadowmoon Village]] on the Rauvin instead, and the old town stands empty, going back to the hills.
+Down on the north bank of the Rauvin, east of the city where the river still runs quiet and nearly level with the land, lie the ruins of Old Kossenberg — the original town, destroyed two years prior to the group's arrival by the Orcish Horde during its devastating sweep through the region. The [[thunder-bluff|Trade Way]] runs past the broken walls. The ruins were first offered to [[luumsh|Luumsh]]'s tribe of Orc deserters, but the tribe settled at [[shadowmoon-village|Shadowmoon Village]], across the gorge from the Keep, instead, and the old town stands empty, its fields gone back to rough grass.
 
 ## Surrounding Landmarks
 
-The Red Hill stands at the foot of the eastern cliffs beyond the village, with its iron workings and the Glittering Caves beneath. Oldstone — a sacred menhir older than local memory — stands in [[old-stone-grove|the Old Stone grove]], Doc's druid grove, down in a glade where the farm road east of the city ends; the village processes there at Spring Planting. [[tarks-dojo|Tark's dojo]] is in the woods along that road. Down the road lies [[selunia|New Daggerford]], with [[high-hold|High-Hold]] on the next prow of the bluff, and Lake Selûna and its ranger lodge lie to the west.
+The Red Hill stands at the foot of the eastern cliffs beyond the village, with its iron workings and the Glittering Caves beneath. Oldstone — a sacred menhir older than local memory — stands in [[old-stone-grove|the Old Stone grove]], Doc's druid grove, in a sunken dale south-east of [[tarks-dojo|Tark's dojo]], the furthest place out from the city on the shelf; the village processes there at Spring Planting. In the woods north of the village, on the way to the Fane, a hole in the ground among heaps of gravel is the way down into [[snorbuls-hole|Snorbul's Hole]]. Down the road lies [[selunia|New Daggerford]], with [[high-hold|High-Hold]] on the next prow of the bluff, and Lake Selûna lies to the west.
