@@ -104,7 +104,9 @@ The lake's river leaves by its old course and runs down the west side of the cit
 </figure>
 </div>
 
-Kossenberg is older than any of it: the farming village was working the shelf before the barony was a barony. It stands on the road along the shelf north-east of the city, toward the cliffs' foot, its crofts running back into the fields. East of the farms, in the woods on the scarp, is [[tarks-dojo|Tark's dojo]], and south-east of it, under the eastern hills and further out from the city than anything else on the shelf, is Doc's druid grove: [[old-stone-grove|the Old Stone grove]], a sunken dale with the standing stone in its clearing. In the woods north of Kossenberg, on the way to the Fane, a hole in the ground among heaps of gravel is all anyone sees of [[snorbuls-hole|Snorbul's Hole]].
+Kossenberg is older than any of it: the farming village was working the shelf before the barony was a barony. It stands on the road along the shelf north-east of the city, toward the cliffs' foot, its crofts running back into the fields, and a road comes up to it from the city's east gate. The road through it goes on east and south as the shelf road, into the woods that cover the eastern shelf. There, on the scarp, is [[tarks-dojo|Tark's dojo]]; the road runs round the lake below it and on south to the river at Old Kossenberg, and off it, under the eastern hills and further out from the city than anything else on the shelf, is Doc's druid grove: [[old-stone-grove|the Old Stone grove]], a sunken dale with the standing stone in its clearing. Back west, where Kossenberg's road meets the lake road north of the city, a faint track into the woods ends at a hole in the ground among heaps of gravel: all anyone sees of [[snorbuls-hole|Snorbul's Hole]].
+
+<div data-map-slot="roads"></div>
 
 <div class="plates">
 <figure>

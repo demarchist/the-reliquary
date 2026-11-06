@@ -8,7 +8,7 @@ image: "/images/barony/grove.jpg"
 imageAlt: "A massive standing stone in a meadow clearing by a brook, in a deep wooded dale that ends in a sheer red rock wall with scree at its foot"
 ---
 
-The Old Stone Grove is [[doc|Doc]]'s druid grove, in the Barony of [[thunder-bluff|Thunder Bluff]]. It lies south-east of [[tarks-dojo|Tark's dojo]], further out from the city than anything on the shelf, down in a glade under the eastern hills: a basin, a forested dale nestled among rolling hills. A track leaves the farm road below the dojo and runs round the south shore of the lake there and up into the dale's mouth. At its centre is a clearing with flowing water, and at the centre of that stands Oldstone, a massive standing stone older than local memory.
+The Old Stone Grove is [[doc|Doc]]'s druid grove, in the Barony of [[thunder-bluff|Thunder Bluff]]. It lies south-east of [[tarks-dojo|Tark's dojo]], further out from the city than anything on the shelf, down in a glade under the eastern hills: a basin, a forested dale nestled among rolling hills. It lies deep in the woods that cover the eastern shelf. The shelf road runs on from the dojo round the lake below it, and a track leaves it south of the lake and climbs east into the dale's mouth. At its centre is a clearing with flowing water, and at the centre of that stands Oldstone, a massive standing stone older than local memory.
 
 ## The Dale
 

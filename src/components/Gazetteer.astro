@@ -18,6 +18,7 @@ const places = (entry.data.places ?? [])
 const parts: string[] = (entry.rendered?.html ?? '').split(/<div data-map-slot="(\w+)"><\/div>/);
 const captions: Record<string, string> = {
   barony: 'Numbered places link to their entries.',
+  roads: 'The roads, lanes and tracks of the barony. Numbered places link to their entries.',
   city: 'The bars across the white water are the ledges of the Thunder Rapids.',
 };
 ---

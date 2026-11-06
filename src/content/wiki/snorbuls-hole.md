@@ -8,7 +8,7 @@ image: "/images/barony/snorbul.jpg"
 imageAlt: "A dark hole in the ground in a woodland clearing, ringed by heaps of dug earth and loose stones"
 ---
 
-Snorbul's Hole is a labyrinthine complex of underground tunnels and chambers located within the Barony of [[thunder-bluff|Thunder Bluff]]. It is owned, operated, and championed by Snorbul himself. The way in is in the woods north of [[kossenberg|Kossenberg]], off any road, on the way to the [[fane-of-selune|Fane of Selûne]].
+Snorbul's Hole is a labyrinthine complex of underground tunnels and chambers located within the Barony of [[thunder-bluff|Thunder Bluff]]. It is owned, operated, and championed by Snorbul himself. The way in is in the woods by the lake road north of [[selunia|New Daggerford]], on the way to the [[fane-of-selune|Fane of Selûne]], where the road east to [[kossenberg|Kossenberg]] leaves it: a faint track, easy to walk past.
 
 ## Surface
 

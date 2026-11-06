@@ -209,8 +209,236 @@
     "n": 21,
     "label": "Snorbul's Hole",
     "slug": "snorbuls-hole",
-    "x": 1411.3,
-    "y": 1127.9,
+    "x": 1232.8,
+    "y": 1310.5,
+    "dx": 16,
+    "dy": -6,
+    "anchor": "start"
+   },
+   {
+    "n": 22,
+    "label": "Where the Ziggurat stood",
+    "slug": "the-moonwood",
+    "x": 1304.1,
+    "y": 363.3,
+    "dx": 16,
+    "dy": -6,
+    "anchor": "start"
+   }
+  ]
+ },
+ "roads": {
+  "image": "/images/barony/roads-barony.jpg",
+  "width": 2200,
+  "height": 2145,
+  "title": "The roads of the barony",
+  "pins": [
+   {
+    "n": 1,
+    "label": "Fëanon's Tower",
+    "slug": "feanons-tower",
+    "x": 965.1,
+    "y": 840.7,
+    "dx": 18,
+    "dy": -14,
+    "anchor": "start"
+   },
+   {
+    "n": 2,
+    "label": "Sërindë Isle",
+    "slug": "serinde-isle",
+    "x": 944.3,
+    "y": 864.2,
+    "dx": -18,
+    "dy": 26,
+    "anchor": "end"
+   },
+   {
+    "n": 3,
+    "label": "Fane of Selûne",
+    "slug": "fane-of-selune",
+    "x": 1084.8,
+    "y": 1122.3,
+    "dx": 18,
+    "dy": 6,
+    "anchor": "start"
+   },
+   {
+    "n": 4,
+    "label": "Red Hills Falls",
+    "slug": "lake-seluna",
+    "x": 963.0,
+    "y": 559.1,
+    "dx": 18,
+    "dy": -22,
+    "anchor": "start"
+   },
+   {
+    "n": 5,
+    "label": "New Daggerford (Selunia)",
+    "slug": "selunia",
+    "x": 1238.4,
+    "y": 1598.4,
+    "dx": 22,
+    "dy": -14,
+    "anchor": "start"
+   },
+   {
+    "n": 6,
+    "label": "Kossenberg",
+    "slug": "kossenberg",
+    "x": 1479.8,
+    "y": 1309.8,
+    "dx": 16,
+    "dy": -10,
+    "anchor": "start"
+   },
+   {
+    "n": 7,
+    "label": "Tark's Dojo",
+    "slug": "tarks-dojo",
+    "x": 1853.4,
+    "y": 1493.2,
+    "dx": 16,
+    "dy": 14,
+    "anchor": "start"
+   },
+   {
+    "n": 8,
+    "label": "Keep of Thunder Bluff",
+    "slug": "keep-of-thunder-bluff",
+    "x": 1231.4,
+    "y": 1717.4,
+    "dx": 0,
+    "dy": 46,
+    "anchor": "middle"
+   },
+   {
+    "n": 9,
+    "label": "Rockseeker Manufactory",
+    "slug": "rockseeker-manufactory",
+    "x": 1001.8,
+    "y": 1617.7,
+    "dx": -6,
+    "dy": -26,
+    "anchor": "end"
+   },
+   {
+    "n": 10,
+    "label": "Hammerfall",
+    "slug": "thunder-rapids",
+    "x": 960.3,
+    "y": 1635.7,
+    "dx": -18,
+    "dy": 8,
+    "anchor": "end"
+   },
+   {
+    "n": 11,
+    "label": "Thunder Rapids",
+    "slug": "thunder-rapids",
+    "x": 1148.4,
+    "y": 1736.8,
+    "dx": -12,
+    "dy": 56,
+    "anchor": "end"
+   },
+   {
+    "n": 12,
+    "label": "The Doorstep",
+    "slug": "thunder-rapids",
+    "x": 1439.0,
+    "y": 1743.7,
+    "dx": 16,
+    "dy": 28,
+    "anchor": "start"
+   },
+   {
+    "n": 13,
+    "label": "Old Kossenberg",
+    "slug": "kossenberg",
+    "x": 1978.6,
+    "y": 2078.6,
+    "dx": -2,
+    "dy": -24,
+    "anchor": "end"
+   },
+   {
+    "n": 14,
+    "label": "Shadowmoon Village",
+    "slug": "shadowmoon-village",
+    "x": 1231.4,
+    "y": 1857.2,
+    "dx": 18,
+    "dy": 26,
+    "anchor": "start"
+   },
+   {
+    "n": 15,
+    "label": "High-Hold",
+    "slug": "high-hold",
+    "x": 1149.8,
+    "y": 1707.0,
+    "dx": -14,
+    "dy": 30,
+    "anchor": "end"
+   },
+   {
+    "n": 16,
+    "label": "Moondancer Village",
+    "slug": "moondancer-village",
+    "x": 352.8,
+    "y": 134.2,
+    "dx": 16,
+    "dy": -14,
+    "anchor": "start"
+   },
+   {
+    "n": 17,
+    "label": "Tark's Treehouse",
+    "slug": "tarks-treehouse",
+    "x": 1275.7,
+    "y": 1086.3,
+    "dx": 16,
+    "dy": -8,
+    "anchor": "start"
+   },
+   {
+    "n": 18,
+    "label": "The Red Hill",
+    "slug": "kossenberg",
+    "x": 1657.6,
+    "y": 1064.2,
+    "dx": 16,
+    "dy": 18,
+    "anchor": "start"
+   },
+   {
+    "n": 19,
+    "label": "The Old Stone grove",
+    "slug": "old-stone-grove",
+    "x": 2116.5,
+    "y": 1784.1,
+    "dx": 16,
+    "dy": -4,
+    "anchor": "start"
+   },
+   {
+    "n": 20,
+    "label": "Ranger lodge",
+    "slug": "lake-seluna",
+    "x": 117.6,
+    "y": 1412.9,
+    "dx": -14,
+    "dy": 8,
+    "anchor": "end"
+   },
+   {
+    "n": 21,
+    "label": "Snorbul's Hole",
+    "slug": "snorbuls-hole",
+    "x": 1232.8,
+    "y": 1310.5,
     "dx": 16,
     "dy": -6,
     "anchor": "start"
