@@ -91,7 +91,7 @@ South of the lake lies the Thunder Bluff shelf — a broad bench of ancient, har
 
 The Trade Way comes up the north bank of the Rauvin from the south-east, keeping to the river until the shelf opens out, and crosses it to the north-west. It is the shelf's one great road: broad and well metalled, with worn shoulders and old trees along it outside the walls, hamlets at its halts, and New Daggerford as its main street.
 
-The lake's river leaves by its old course and runs down the west side of the city, held to its line by stone banks and low weirs. The land to the west lies lower than the water; without the barony's works, the river would leave. Two cuts bleed water off it through the city for boats and for high water, and a millrace drives the wheels of the [[rockseeker-manufactory|Rockseeker Manufactory]].
+The lake's river leaves by its old course and runs down the west side of the city, held to its line by stone banks and low weirs. The land to the west lies lower than the water; without the barony's works, the river would leave. A millrace off it drives the wheels of the [[rockseeker-manufactory|Rockseeker Manufactory]].
 
 <div class="plates">
 <figure>
@@ -135,7 +135,7 @@ The shelf ends at the gorge, and New Daggerford — slowly coming to be called [
 
 ### Thunder Bluff and the Keep
 
-Where the city meets the gorge, a prow of rock stands out over the river with the drop on three sides. This is Thunder Bluff itself. The [[keep-of-thunder-bluff|Keep of Thunder Bluff]] stands on it, its seamless red walls rising straight from the edge, with the copper dome of the [[temple-of-helm|Temple of Helm]] inside them and a thousand feet of air beneath.
+Where the city's hill meets the gorge, a prow of rock stands out over the river with the drop on three sides. This is Thunder Bluff itself. The [[keep-of-thunder-bluff|Keep of Thunder Bluff]] stands on it, its seamless red walls rising straight from the edge, with the copper dome of the [[temple-of-helm|Temple of Helm]] inside them and a thousand feet of air beneath.
 
 <figure class="plate">
 <img src="/images/barony/hold.jpg" alt="The Keep of Thunder Bluff seen across the gorge: square red walls and towers with a green copper dome inside, on a prow of dark rock that drops sheer to the river." width="1600" height="900" loading="lazy" />
@@ -146,7 +146,7 @@ Where the city meets the gorge, a prow of rock stands out over the river with th
 
 East of the city the Rauvin is a broad, quiet river, lying barely a hundred feet below the fields. Then it reaches a line of hard rock, the Doorstep, and to anyone on the water it simply stops, with spray rising from beyond the edge. From there the [[thunder-rapids|Thunder Rapids]] fall some nine hundred feet in under five miles, through a twisting slot in the shelf's ancient rock. The slot is narrow, and its floor is choked with blocks the size of houses, shed from the walls faster than even this river can clear them. The roar is said to be audible for miles, and gives the entire region its name.
 
-The river follows a great fault. The shelf is the side that rose and the land to the south is the side that fell, so the gorge's south rim stands well below the north, by as much as two hundred and fifty feet under the Keep. West of the city the lake's river joins it the hard way, going off the shelf's edge at [[thunder-rapids|Hammerfall]]: nearly a thousand feet, onto a pool called the Anvil. Below that the doubled Rauvin runs on westward toward the broader continent. South of it, the land falls away to the vast, low-lying [[the-evermoors|Evermoors]] — a seemingly endless expanse of dark swamps, marshes and wetlands, with slow-moving black water and a brooding, primordial air.
+The river follows a great fault. The shelf is the side that rose and the land to the south is the side that fell, so the gorge's south rim stands well below the north, by as much as four hundred feet under the Keep, where the city's hill comes to the edge. West of the city the lake's river joins it the hard way, going off the shelf's edge at [[thunder-rapids|Hammerfall]]: nearly a thousand feet, onto a pool called the Anvil. Below that the doubled Rauvin runs on westward toward the broader continent. South of it, the land falls away to the vast, low-lying [[the-evermoors|Evermoors]] — a seemingly endless expanse of dark swamps, marshes and wetlands, with slow-moving black water and a brooding, primordial air.
 
 <figure class="plate">
 <img src="/images/barony/hammerfall.jpg" alt="Hammerfall: a banked river running to the edge of the gorge and pouring down a dark wall into a boulder-strewn pool, with the chimneys of the Rockseeker Manufactory on the rim beside it." width="1600" height="900" loading="lazy" />

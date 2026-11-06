@@ -12,7 +12,7 @@ Selunia is the city at the heart of the Barony of [[thunder-bluff|Thunder Bluff]
 
 ## The City
 
-New Daggerford stands where the shelf ends at the gorge, between [[lake-seluna|Lake Selûna]] and the [[thunder-rapids|Thunder Rapids]]. It was never planned. It grew along its old roads, and its lanes run wherever the blocks between them left room, tight and tall near the middle and loose and gardened near the walls. The Trade Way runs straight through it as its main street. The wall follows the landward side only, because the gorge needs no help, and suburbs straggle out along the roads beyond each gate. The cobbled road to the [[fane-of-selune|Fane]] leaves by the north gate, and the road along the shelf runs on north-east to [[kossenberg|Kossenberg]].
+New Daggerford stands on a hill where the shelf ends at the gorge, between [[lake-seluna|Lake Selûna]] and the [[thunder-rapids|Thunder Rapids]]. The streets climb from the gates to the Keep, which crowns the hill on its prow over the gorge, and the west side of town leans down toward the lake's river. From the walls the land falls away on every side. It was never planned. It grew along its old roads, and its lanes run wherever the blocks between them left room, tight and tall near the middle and loose and gardened near the walls. The Trade Way runs straight through it as its main street. The wall follows the landward side only, because the gorge needs no help, and suburbs straggle out along the roads beyond each gate. The cobbled road to the [[fane-of-selune|Fane]] leaves by the north gate, and the road along the shelf runs on north-east to [[kossenberg|Kossenberg]].
 
 - **[[keep-of-thunder-bluff|The Keep of Thunder Bluff]]** stands at the city's heart, on a prow of rock over the gorge, with the [[temple-of-helm|Temple of Helm]] inside its walls.
 - **The Crossroads**, where the Trade Way meets the street to the Keep, is the middle of town. Over the Moon stands there, a three-storey manor of brick and timber that is the tavern, the inn and the town hall. **[[the-establishment|The Establishment]]** and the **[[jmjm-theater|JMJM Theater]]** face each other across the street.
@@ -21,7 +21,7 @@ New Daggerford stands where the shelf ends at the gorge, between [[lake-seluna|L
 
 ## The River Works
 
-The lake's river runs down the city's west side between stone banks, stepped down by low weirs and held to its line, because the land beyond it lies lower than the water. Two cuts carry boats through the city and bleed off high water over the rim to either side of the Keep. The river goes over the edge at [[thunder-rapids|Hammerfall]], from a lip the barony armoured to stop the falls eating their way back toward the streets. The Trade Way crosses it at the Upper Bridge.
+The lake's river runs down the city's west side between stone banks, stepped down by low weirs and held to its line, because the land beyond it lies lower than the water. The river goes over the edge at [[thunder-rapids|Hammerfall]], from a lip the barony armoured to stop the falls eating their way back toward the streets. The Trade Way crosses it at the Upper Bridge.
 
 ## Landmarks
 
