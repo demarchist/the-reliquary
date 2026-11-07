@@ -31,6 +31,7 @@ places:
   - feanons-tower
   - fane-of-selune
   - shadowmoon-village
+  - aldermoor
   - high-hold
   - tarks-treehouse
   - tarks-dojo

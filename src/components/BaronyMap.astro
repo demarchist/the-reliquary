@@ -44,6 +44,7 @@ const src = `${base}${image}`;
     <span class="gz-map-title">{title}</span>
     {caption && <span> {caption}</span>}
     <a href={src} class="gz-map-open">Open the full map</a>
+    <a href={`${base}/map/#barony`} class="gz-map-open">Explore on the interactive map</a>
   </figcaption>
   <ol class="gz-map-key">
     {pins.map(pin => (
