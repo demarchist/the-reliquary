@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryColors } from '../../utils/category-colors';
+import Gazetteer from '../../components/Gazetteer.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('wiki');
@@ -67,6 +68,11 @@ if (entry.data.firstAppearance) {
 }
 ---
 
+{entry.data.layout === 'gazetteer' ? (
+<BaseLayout title={entry.data.title} description={entry.data.description} fullWidth>
+  <Gazetteer {...{ entry, byChapter, appearances, firstAppearanceEntry }} />
+</BaseLayout>
+) : (
 <BaseLayout title={entry.data.title}>
   <article>
     <div class="mb-6">
@@ -219,3 +225,4 @@ if (entry.data.firstAppearance) {
     </div>
   </article>
 </BaseLayout>
+)}

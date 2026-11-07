@@ -4,6 +4,8 @@ category: "Places"
 aliases: []
 firstAppearance: "chapter-01-session-01"
 description: "An elaborate, whimsical treehouse deep in the forests of Thunder Bluff where Tark resides."
+image: "/images/barony/treehouse.jpg"
+imageAlt: "A vast old oak standing over the forest east of Lake Selûna, with cobbled platforms round its trunk"
 ---
 
 Tark's Treehouse is situated high up in a towering oak deep in the forests of Thunder Bluff. It is an elaborate structure cobbled together from an assortment of boards, ropes, canvas, and other found materials — reflecting Tark's creative and resourceful nature.

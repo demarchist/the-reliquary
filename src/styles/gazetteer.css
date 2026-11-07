@@ -1,0 +1,289 @@
+/* The long form of a wiki place.  Same parchment and ink as the rest of the site, with the pictures allowed to run wide. */
+
+.gazetteer {
+  --gz-wide: min(72rem, 100vw - 2rem);
+  padding-bottom: 3rem;
+}
+
+/* Hero */
+.gz-hero {
+  position: relative;
+  min-height: min(82vh, 56rem);
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  background: var(--color-parchment-900);
+}
+.gz-hero > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 62%;
+}
+.gz-hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgb(16 14 12 / 0) 38%, rgb(16 14 12 / .55) 68%, rgb(16 14 12 / .88) 100%);
+}
+.gz-hero-text {
+  position: relative;
+  z-index: 1;
+  width: var(--gz-wide);
+  margin: 0 auto;
+  padding: 7rem 0 5.5rem;
+  color: var(--color-parchment-50);
+}
+.gz-hero h1 {
+  color: var(--color-parchment-50);
+  font-size: clamp(2.6rem, 7vw, 5rem);
+  font-weight: 700;
+  line-height: 1.05;
+  margin: .2rem 0 .5rem;
+  text-shadow: 0 1px 18px rgb(0 0 0 / .45);
+}
+.gz-back {
+  font-size: .875rem;
+  color: var(--color-parchment-200);
+  text-decoration: none;
+}
+.gz-back:hover { color: var(--color-parchment-50); }
+.gz-kicker {
+  margin-top: 1rem;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--color-parchment-300);
+}
+.gz-aliases {
+  font-size: .875rem;
+  color: var(--color-parchment-200);
+}
+.gz-lede {
+  max-width: 44rem;
+  margin-top: .75rem;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  line-height: 1.6;
+}
+
+/* Figures, across the foot of the hero */
+.gz-facts {
+  position: relative;
+  z-index: 2;
+  width: var(--gz-wide);
+  margin: -3.25rem auto 0;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  background: var(--color-parchment-100);
+  border: 1px solid var(--color-parchment-300);
+  border-radius: .5rem;
+  box-shadow: 0 10px 28px rgb(31 27 21 / .18);
+}
+.gz-facts > div {
+  padding: 1.1rem 1.25rem;
+  border-left: 1px solid var(--color-parchment-200);
+}
+.gz-facts > div:first-child { border-left: 0; }
+.gz-facts dt {
+  font-family: var(--font-serif);
+  font-size: 1.65rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: var(--color-accent-700);
+}
+.gz-facts dd {
+  margin-top: .25rem;
+  font-size: .82rem;
+  line-height: 1.4;
+  color: var(--color-ink-400);
+}
+
+/* Text */
+.gz-prose {
+  max-width: 44rem;
+  margin: 2.75rem auto 0;
+  padding: 0 1rem;
+  font-size: 1.0625rem;
+}
+.gz-prose > p:first-child { font-size: 1.2rem; line-height: 1.7; }
+.gz-prose h2 {
+  font-size: 2rem;
+  margin-top: 3.5rem;
+  padding-bottom: .4rem;
+  border-bottom: 2px solid var(--color-parchment-300);
+}
+.gz-prose h3 {
+  font-size: 1.45rem;
+  margin-top: 2.75rem;
+  color: var(--color-accent-700);
+}
+
+/* Pictures that run wider than the text.  Centred on the column, whatever its width. */
+.gz-prose .plate,
+.gz-prose .plates,
+.gz-prose .gz-map {
+  position: relative;
+  left: 50%;
+  width: var(--gz-wide);
+  transform: translateX(-50%);
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.gz-prose .plate img,
+.gz-prose .plates img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: .375rem;
+  background: var(--color-parchment-200);
+}
+.gz-prose .plates {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.gz-prose figcaption {
+  max-width: 44rem;
+  margin: .55rem auto 0;
+  font-size: .875rem;
+  line-height: 1.5;
+  font-style: italic;
+  color: var(--color-ink-400);
+}
+.gz-prose .plates figcaption { max-width: none; }
+
+/* Maps */
+.gz-map-frame {
+  position: relative;
+  line-height: 0;
+  border: 1px solid var(--color-parchment-400);
+  border-radius: .375rem;
+  overflow: hidden;
+  box-shadow: 0 6px 22px rgb(31 27 21 / .14);
+  background: var(--color-parchment-200);
+}
+.gz-map-frame img { display: block; width: 100%; height: auto; }
+.gz-map-frame svg { position: absolute; inset: 0; width: 100%; height: 100%; }
+.gz-pin { text-decoration: none; cursor: pointer; }
+.gz-pin circle {
+  fill: var(--color-parchment-900);
+  stroke: var(--color-parchment-50);
+  stroke-width: 3.5;
+  transition: fill .15s;
+}
+.gz-pin-n {
+  fill: var(--color-parchment-50);
+  font-family: var(--font-sans);
+  font-size: 21px;
+  font-weight: 600;
+}
+.gz-pin-label {
+  fill: var(--color-ink-900);
+  font-family: var(--font-serif);
+  font-weight: 700;
+  paint-order: stroke;
+  stroke: rgb(250 248 245 / .92);
+  stroke-width: 7;
+  stroke-linejoin: round;
+}
+.gz-pin:hover circle, .gz-pin:focus-visible circle { fill: var(--color-accent-500); }
+.gz-pin:hover .gz-pin-label, .gz-pin:focus-visible .gz-pin-label { fill: var(--color-accent-700); }
+.gz-pin:focus-visible { outline: none; }
+.gz-map-title { font-weight: 600; font-style: normal; color: var(--color-ink-700); }
+.gz-map-open { margin-left: .5rem; white-space: nowrap; font-style: normal; }
+.gz-prose .gz-map figcaption { max-width: none; margin-left: 0; }
+.gz-prose .gz-map-key {
+  list-style: decimal;
+  margin: .8rem 0 0;
+  padding: 0 0 0 1.75rem;
+  columns: 3 13rem;
+  column-gap: 1.75rem;
+  font-size: .875rem;
+}
+.gz-prose .gz-map-key li { margin-bottom: .15rem; break-inside: avoid; }
+.gz-prose .gz-map-key li::marker { color: var(--color-ink-300); font-weight: 600; }
+
+/* Places */
+.gz-places, .gz-record {
+  width: var(--gz-wide);
+  margin: 3.5rem auto 0;
+}
+.gz-places h2 {
+  font-size: 2rem;
+  padding-bottom: .4rem;
+  border-bottom: 2px solid var(--color-parchment-300);
+}
+.gz-place-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+.gz-place {
+  display: block;
+  overflow: hidden;
+  text-decoration: none;
+  background: var(--color-parchment-100);
+  border: 1px solid var(--color-parchment-200);
+  border-radius: .5rem;
+  transition: box-shadow .15s, border-color .15s;
+}
+.gz-place:hover { border-color: var(--color-parchment-400); box-shadow: 0 6px 18px rgb(31 27 21 / .14); }
+.gz-place img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; background: var(--color-parchment-200); }
+.gz-place h3 { margin: .8rem 1rem .2rem; font-size: 1.05rem; font-weight: 600; color: var(--color-ink-800); }
+.gz-place:hover h3 { color: var(--color-accent-600); }
+.gz-place p {
+  margin: 0 1rem 1rem;
+  font-size: .85rem;
+  line-height: 1.5;
+  color: var(--color-ink-400);
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  overflow: hidden;
+}
+
+/* The record */
+.gz-record {
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-parchment-200);
+  font-size: .875rem;
+  color: var(--color-ink-400);
+}
+.gz-record details { margin-top: .5rem; }
+.gz-record summary { cursor: pointer; font-family: var(--font-serif); font-size: 1.05rem; font-weight: 600; color: var(--color-ink-800); }
+.gz-appearances {
+  columns: 3 16rem;
+  column-gap: 2rem;
+  margin-top: 1rem;
+}
+.gz-appearances > div { break-inside: avoid; margin-bottom: 1rem; }
+.gz-appearances h3 {
+  font-family: var(--font-sans);
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: var(--color-ink-500);
+  margin-bottom: .25rem;
+}
+
+/* On a phone the map's names won't fit at any readable size: the numbers grow and the key below does the naming. */
+@media (max-width: 767px) {
+  .gz-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .gz-facts > div:nth-child(odd) { border-left: 0; }
+  .gz-facts > div:nth-child(n + 3) { border-top: 1px solid var(--color-parchment-200); }
+  .gz-facts dt { font-size: 1.35rem; }
+  .gz-prose .plates { grid-template-columns: minmax(0, 1fr); }
+  .gz-pin-label { display: none; }
+  .gz-pin circle { r: 44px; stroke-width: 6; }
+  .gz-pin-n { font-size: 48px; }
+  .gz-hero { min-height: 30rem; }
+  .gz-hero-text { padding: 6rem 0 5rem; }
+}

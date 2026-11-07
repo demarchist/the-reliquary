@@ -4,9 +4,11 @@ category: "Places"
 aliases: []
 firstAppearance: "chapter-01-session-01"
 description: "An underworld commercial complex of inn, brothel, and casino operated by Aliyah Faen Tlabbar."
+image: "/images/barony/crossroads.jpg"
+imageAlt: "The Establishment, left, and the JMJM Theater, across the street from it"
 ---
 
-The Establishment is a bustling underworld commercial complex located at a crossroads within the Barony of Thunder Bluff. It is owned and operated by [[Aliyah Faen Tlabbar|Patches]], who uses it both as a business venture and as a way to cement her network of connections among the shady underbelly of the region.
+The Establishment is a bustling underworld commercial complex located at the crossroads in the middle of [[selunia|New Daggerford]], where the Trade Way meets the street to the Keep, directly across the street from the [[jmjm-theater|JMJM Theater]]. It is owned and operated by [[Aliyah Faen Tlabbar|Patches]], who uses it both as a business venture and as a way to cement her network of connections among the shady underbelly of the region.
 
 ## Exterior
 

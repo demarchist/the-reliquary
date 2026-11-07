@@ -8,7 +8,7 @@ description: "Moon Elf settlement in the Moonwood forest."
 
 ## Description
 
-Moondancer Village is a Moon Elf settlement nestled within the Moonwood forest. The village maintains traditional elven ways and serves as home to elves including Lelria, Jindree, and Fesk.
+Moondancer Village is a Moon Elf settlement nestled within the Moonwood forest, deep in the western plateau far north of the Red Hills, where nobody comes by accident. Its long pale halls stand among the trees on the south shore of a lake in a hollow of the plateau, looking north over the water. The village maintains traditional elven ways and serves as home to elves including Lelria, Jindree, and Fesk.
 
 ## Significance
 
